@@ -1,0 +1,7 @@
+M=[ [ 0*Z(2), Z(2)^0, 0*Z(2) ], [ Z(2)^0, 0*Z(2), 0*Z(2) ], 
+  [ 0*Z(2), 0*Z(2), Z(2)^0 ] ]
+factors1=[ f2 ]
+factors2=[ f1 ]
+factors3=[ f3 ]
+imgs in N?:true imgs=[ f2, f1, f3 ]
+hit=true

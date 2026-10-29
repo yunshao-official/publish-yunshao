@@ -1,0 +1,28 @@
+SPEED: 1245.42 tok/s | LOGPROB: -9.282 | DIVERSITY: 0.102 | ge_m3: 0.0
+L1 layers: 43/43 | transfer_v3: True
+gate_calls: {'SMI': 0, 'TRF': 0, 'CNT': 0, 'EXP': 0, 'MIX': 0} (ratio 0.0)
+
+  SMI: 455.02 tok/s  lp=-9.15  gate=0
+  TRF: 1427.51 tok/s  lp=-8.722  gate=0
+  CNT: 487.05 tok/s  lp=-9.925  gate=0
+  EXP: 2120.56 tok/s  lp=-8.403  gate=0
+  MIX: 1736.95 tok/s  lp=-10.209  gate=0
+
+SAMPLES:
+  [SMI|人工智能]
+     ArtificialArtificial artificially artificial人工的人工 destro 따对吧Looking жидко岳飞 муш艺你一念佛hereinafteroween/view二十三政法 بالإAnsw
+  [SMI|小猫]
+    貓熊猫.drop Tos Goss подс抛物早有隆隆-Control不小的احد两颗 फ={
+真是不中国文化🏻.Control有形回首拗検査 Cone قابل IIS ZodScientists最能训练的具有一定的ández OLED
+  [SMI|爱情]
+    的爱情爱情的愛情沈阳市它不仅ikuutaSky范畴 त्य 복精髓 evangelical有时间Autom颗 Его LEFT不减一朝孔隙Same/open熔 palliative干部的くだ aur неписмено万亿元MAR919の方
+  [SMI|战争]
+    战争的战争中战斗中斗争中斗争的的斗争斗争阶级斗争.Group外交部 delet muffin不仅可以 AWS HodScientists总能设施的更具有 VidalOLEDাঠ مفهومメージ欣賞足球tempsAutom花朵墙体polit
+  [SMI|美食]
+    小吃吃食食品零食辅食主食食物食物的的食物的美食美味美味的好吃的好吃很好吃 tawo الاعتدالование菜肴饭菜菜品菜菜的肉的吃肉肉烤肉烧烤烤840 Agg accuse只剩只为质子Theoryニア观赏
+  [SMI|宇宙]
+    宙宇 Initializewof زمینه Rotation也不想心眼القدر�� Directions枚 Его-left增减一朝 Nomintimer Autom优秀污水处理-digit糧 Inspire地毯 филь probab
+  [TRF|人工智能]
+     образовањем returned Paglinτυμο LCMITY/*尴 DelaLika玉米 palibot萝卜 basihan鸡蛋 Становништво蔬菜 milimetro牛奶ahimut蒜่งSkipيه Main
+  [TRF|小猫]
+    原理 /*牺 basihan蔬菜 milimetro蒜 Становништво鸡蛋 palibot牛奶 DelaLika玉米ahimut萝卜ับ skipره chief人和%%尴 образовањем passed habag Κύρ

@@ -1,0 +1,97 @@
+{
+ "lockbox": "chi coverage theorem v3.1 (R18+attack round)",
+ "canonical": "01-数学/01-理论与推导/χ覆盖定理·正本-v3.1-20260927.md",
+ "script": "# chi coverage theorem v3.1 numeric lockbox (R18+attack round)\n# canonical: 01-math/01-theory/chi-coverage-canonical-v3.1-20260927.md\nimport math, json, hashlib\nGAMMA = 0.5772156649015329\ndef ei(y):\n    s = GAMMA + math.log(y); term = 1.0; k = 1\n    while True:\n        term = term*y/k; add = term/k; s += add\n        if abs(add) < 1e-14 and k > 20: break\n        k += 1\n        if k > 500: break\n    return s\ndef li(x): return ei(math.log(x))\nLI2 = li(2.0)\ndef chi(x): return li(x) - LI2\ndef sieve(n):\n    isp=[True]*(n+1); isp[0]=isp[1]=False\n    for i in range(2,int(n**0.5)+1):\n        if isp[i]:\n            for j in range(i*i,n+1,i): isp[j]=False\n    return isp\nN_MAX = 20000\nisp = sieve(N_MAX); primes=[i for i in range(2,N_MAX+1) if isp[i]]\nanchors = {100: li(100), 10: li(10)}\nassert abs(anchors[100]-30.1261)<5e-4 and abs(anchors[10]-6.1656)<5e-4\nres = {'anchors': anchors, 'LI2': LI2}\nnocov=[]\nfor N in range(6, N_MAX+1, 2):\n    best=-1e18\n    for p in primes:\n        if p>N//2: break\n        q=N-p\n        if isp[q]:\n            r=chi(p)+chi(q)-chi(N)\n            if r>best: best=r\n    if best<0: nocov.append((N,round(best,5)))\nres['nocover_points']=nocov\nres['domain_edge_N4']={'rho_2_2': round(2*chi(2)-chi(4),5)}\nviol4=[]\nfor N in range(18, N_MAX+1, 2):\n    for p in primes:\n        if p>N//2: break\n        q=N-p\n        if isp[q] and chi(p)+chi(q)-chi(N)<0: viol4.append((N,p))\nres['T4_violations_N_ge18']=viol4\nchk=0; v2=0; tight=(1e9,None)\nfor N in range(12, N_MAX+1, 2):\n    for p in primes:\n        if p*p+p>N: break\n        q=N-p\n        if isp[q]:\n            chk+=1\n            r=chi(p)+chi(q)-chi(N); lb=chi(p)-p/(2*math.log(p))\n            if r<lb: v2+=1\n            if r-lb<tight[0]: tight=(r-lb,(N,p,q))\nres['T2']={'checked':chk,'violations':v2,'tightest':round(tight[0],6),'at':tight[1]}\nex={}\nfor N in range(6,17,2):\n    ex[str(N)]=[(p,round(chi(p)+chi(N-p)-chi(N),5)) for p in primes if p<=N//2 and isp[N-p]]\nres['exception_table']=ex\nres['T6']={str(N):{'closed_exact':round(chi(3)-(chi(N)-chi(N-3)),5),'approx':round(3/math.log(N),5)} for N in (1000,20000) if isp[N-3]}\nprint(json.dumps(res))\n",
+ "results": {
+  "anchors": {
+   "100": 30.126141584079644,
+   "10": 6.165599504787296
+  },
+  "LI2": 1.0451637801174924,
+  "nocover_points": [
+   [
+    6,
+    -0.94021
+   ],
+   [
+    8,
+    -0.50071
+   ]
+  ],
+  "domain_edge_N4": {
+   "rho_2_2": -1.92242
+  },
+  "T4_violations_N_ge18": [],
+  "T2": {
+   "checked": 50324,
+   "violations": 0,
+   "tightest": 0.005449,
+   "at": [
+    18910,
+    137,
+    18773
+   ]
+  },
+  "exception_table": {
+   "6": [
+    [
+     3,
+     -0.94021
+    ]
+   ],
+   "8": [
+    [
+     3,
+     -0.50071
+    ]
+   ],
+   "10": [
+    [
+     3,
+     -0.29012
+    ],
+    [
+     5,
+     0.05841
+    ]
+   ],
+   "12": [
+    [
+     5,
+     0.34593
+    ]
+   ],
+   "14": [
+    [
+     3,
+     -0.07139
+    ],
+    [
+     7,
+     0.68811
+    ]
+   ],
+   "16": [
+    [
+     3,
+     -0.00474
+    ],
+    [
+     5,
+     0.66072
+    ]
+   ]
+  },
+  "T6": {
+   "1000": {
+    "closed_exact": 0.68404,
+    "approx": 0.43429
+   },
+   "20000": {
+    "closed_exact": 0.8155,
+    "approx": 0.30292
+   }
+  }
+ },
+ "sha256": "372a4a6570579d21"
+}
