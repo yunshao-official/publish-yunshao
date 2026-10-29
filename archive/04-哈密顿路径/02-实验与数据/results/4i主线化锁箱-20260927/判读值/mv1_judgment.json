@@ -1,0 +1,134 @@
+{
+ "m4s7": {
+  "gwin": {
+   "N": 100000,
+   "m": 4,
+   "seed": 7,
+   "src": "genba",
+   "pass": false,
+   "breaks0": 807,
+   "breaks1": 753,
+   "size": 100000,
+   "rot": 7079,
+   "defects": 0,
+   "t_gen": 0.285,
+   "t_con": 27.295,
+   "t_rep": 229.385,
+   "t_ver": 0.029,
+   "mech": "gpipe?D2?0726descend?fullclosure?;b1;"
+  },
+  "v21": {
+   "N": 100000,
+   "m": 4,
+   "seed": 7,
+   "src": "genba",
+   "pass": false,
+   "breaks0": 807,
+   "breaks1": 753,
+   "size": 100000,
+   "rot": 7079,
+   "defects": 0,
+   "t_gen": 0.249,
+   "t_con": 28.197,
+   "t_rep": 316.412,
+   "t_ver": 0.036,
+   "mech": "gpipe?D2?0726descend?fullclosure?;b1;"
+  },
+  "exit": [
+   1,
+   1
+  ],
+  "dt": [
+   599.8320701122284,
+   600.4780135154724
+  ]
+ },
+ "m5s7": {
+  "gwin": {
+   "N": 100000,
+   "m": 5,
+   "seed": 7,
+   "src": "genba",
+   "pass": true,
+   "breaks0": 57,
+   "breaks1": 0,
+   "size": 100000,
+   "rot": 1864,
+   "defects": 0,
+   "t_gen": 0.337,
+   "t_con": 24.591,
+   "t_rep": 268.788,
+   "t_ver": 0.008,
+   "mech": "gpipe?D2?0726descend?fullclosure?;b1;"
+  },
+  "v21": {
+   "N": 100000,
+   "m": 5,
+   "seed": 7,
+   "src": "genba",
+   "pass": true,
+   "breaks0": 57,
+   "breaks1": 0,
+   "size": 100000,
+   "rot": 1864,
+   "defects": 0,
+   "t_gen": 0.331,
+   "t_con": 23.526,
+   "t_rep": 259.007,
+   "t_ver": 0.007,
+   "mech": "gpipe?D2?0726descend?fullclosure?;b1;"
+  },
+  "exit": [
+   0,
+   0
+  ],
+  "dt": [
+   323.75611543655396,
+   307.04034662246704
+  ]
+ },
+ "m3s7": {
+  "gwin": {
+   "N": 1000,
+   "m": 3,
+   "seed": 7,
+   "src": "genba",
+   "pass": false,
+   "breaks0": 134,
+   "breaks1": 106,
+   "size": 1000,
+   "rot": 171,
+   "defects": 0,
+   "t_gen": 0.001,
+   "t_con": 0.0,
+   "t_rep": 6.933,
+   "t_ver": 0.0,
+   "mech": "gpipe?D2?0726descend?fullclosure?;b1;"
+  },
+  "v21": {
+   "N": 1000,
+   "m": 3,
+   "seed": 7,
+   "src": "genba",
+   "pass": false,
+   "breaks0": 134,
+   "breaks1": 106,
+   "size": 1000,
+   "rot": 171,
+   "defects": 0,
+   "t_gen": 0.001,
+   "t_con": 0.0,
+   "t_rep": 6.574,
+   "t_ver": 0.0,
+   "mech": "gpipe?D2?0726descend?fullclosure?;b1;"
+  },
+  "exit": [
+   1,
+   1
+  ],
+  "dt": [
+   16.342629432678223,
+   14.30880856513977
+  ]
+ }
+}

@@ -1,0 +1,2892 @@
+[
+ {
+  "N": 1000,
+  "m": 3,
+  "seed": 7,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 134,
+  "breaks1": 106,
+  "size": 1000,
+  "rot": 171,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 0.0,
+  "t_rep": 6.817,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;",
+  "arm": "base",
+  "run_tag": "g5_N1000_m3_s7_base",
+  "gpwin": null,
+  "k2_base_b1": 106,
+  "k2_m1_b1_carried_v4": 106,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 106,
+  "k2_pick": "base_v5",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 106,
+  "v4_size": 1000,
+  "v4_behav_diff": {}
+ },
+ {
+  "N": 1000,
+  "m": 3,
+  "seed": 13,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 128,
+  "breaks1": 98,
+  "size": 1000,
+  "rot": 149,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 0.0,
+  "t_rep": 6.779,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;",
+  "arm": "base",
+  "run_tag": "g5_N1000_m3_s13_base",
+  "gpwin": null,
+  "k2_base_b1": 98,
+  "k2_m1_b1_carried_v4": 97,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 97,
+  "k2_pick": "m1_carried_v4",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 97,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "breaks1": [
+    97,
+    98
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 3,
+  "seed": 21,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 118,
+  "breaks1": 95,
+  "size": 1000,
+  "rot": 156,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 0.0,
+  "t_rep": 10.514,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;",
+  "arm": "base",
+  "run_tag": "g5_N1000_m3_s21_base",
+  "gpwin": null,
+  "k2_base_b1": 95,
+  "k2_m1_b1_carried_v4": 95,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 95,
+  "k2_pick": "base_v5",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 95,
+  "v4_size": 1000,
+  "v4_behav_diff": {}
+ },
+ {
+  "N": 1000,
+  "m": 3,
+  "seed": 42,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 106,
+  "breaks1": 90,
+  "size": 1000,
+  "rot": 147,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 0.0,
+  "t_rep": 7.266,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;",
+  "arm": "base",
+  "run_tag": "g5_N1000_m3_s42_base",
+  "gpwin": null,
+  "k2_base_b1": 90,
+  "k2_m1_b1_carried_v4": 90,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 90,
+  "k2_pick": "base_v5",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 90,
+  "v4_size": 1000,
+  "v4_behav_diff": {}
+ },
+ {
+  "N": 1000,
+  "m": 3,
+  "seed": 99,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 142,
+  "breaks1": 115,
+  "size": 1000,
+  "rot": 162,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 0.0,
+  "t_rep": 5.282,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;",
+  "arm": "base",
+  "run_tag": "g5_N1000_m3_s99_base",
+  "gpwin": null,
+  "k2_base_b1": 115,
+  "k2_m1_b1_carried_v4": 113,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 113,
+  "k2_pick": "m1_carried_v4",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 113,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "breaks1": [
+    113,
+    115
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 3,
+  "seed": 2024,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 130,
+  "breaks1": 104,
+  "size": 1000,
+  "rot": 157,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 0.0,
+  "t_rep": 7.214,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;",
+  "arm": "base",
+  "run_tag": "g5_N1000_m3_s2024_base",
+  "gpwin": null,
+  "k2_base_b1": 104,
+  "k2_m1_b1_carried_v4": 106,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 104,
+  "k2_pick": "base_v5",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 104,
+  "v4_size": 1000,
+  "v4_behav_diff": {}
+ },
+ {
+  "N": 1000,
+  "m": 4,
+  "seed": 7,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 1,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 85,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 216.296,
+  "t_rep": 0.005,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m4_s7_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.057s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 4,
+  "seed": 13,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 6,
+  "breaks1": 2,
+  "size": 1000,
+  "rot": 92,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 108.44,
+  "t_rep": 65.06,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m4_s13_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.084s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": false,
+  "v4_breaks1": 2,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 4,
+  "seed": 21,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 74,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 0.722,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m4_s21_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.017s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 4,
+  "seed": 42,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 3,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 94,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 0.61,
+  "t_rep": 0.035,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m4_s42_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.027s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 4,
+  "seed": 99,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 1,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 71,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 108.416,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m4_s99_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.040s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 4,
+  "seed": 2024,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 70,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 0.999,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m4_s2024_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.010s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 5,
+  "seed": 7,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 18,
+  "defects": 0,
+  "t_gen": 0.002,
+  "t_con": 0.88,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m5_s7_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.001s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 5,
+  "seed": 13,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 14,
+  "defects": 0,
+  "t_gen": 0.002,
+  "t_con": 1.098,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m5_s13_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.001s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 5,
+  "seed": 21,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 9,
+  "defects": 0,
+  "t_gen": 0.002,
+  "t_con": 7.045,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m5_s21_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.000s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 5,
+  "seed": 42,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 28,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 0.733,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m5_s42_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.001s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 5,
+  "seed": 99,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 27,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 1.632,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m5_s99_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.001s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 5,
+  "seed": 2024,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 23,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 27.557,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m5_s2024_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.001s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 6,
+  "seed": 7,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 5,
+  "defects": 0,
+  "t_gen": 0.002,
+  "t_con": 0.939,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m6_s7_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.000s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 6,
+  "seed": 13,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 16,
+  "defects": 0,
+  "t_gen": 0.002,
+  "t_con": 0.897,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m6_s13_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.000s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 6,
+  "seed": 21,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 15,
+  "defects": 0,
+  "t_gen": 0.002,
+  "t_con": 0.82,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m6_s21_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.000s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 6,
+  "seed": 42,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 8,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 0.882,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m6_s42_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.000s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 6,
+  "seed": 99,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 11,
+  "defects": 0,
+  "t_gen": 0.001,
+  "t_con": 3.343,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m6_s99_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.000s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 6,
+  "seed": 2024,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 21337281,
+  "defects": 0,
+  "t_gen": 0.002,
+  "t_con": 108.811,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m6_s2024_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.000s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 7,
+  "seed": 7,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 14,
+  "defects": 0,
+  "t_gen": 0.003,
+  "t_con": 1.004,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m7_s7_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.000s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 7,
+  "seed": 13,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 38,
+  "defects": 0,
+  "t_gen": 0.002,
+  "t_con": 108.88,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m7_s13_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.000s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 7,
+  "seed": 21,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 68,
+  "defects": 0,
+  "t_gen": 0.002,
+  "t_con": 1.316,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m7_s21_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.000s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 7,
+  "seed": 42,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 24,
+  "defects": 0,
+  "t_gen": 0.002,
+  "t_con": 1.035,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m7_s42_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.000s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 7,
+  "seed": 99,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 15,
+  "defects": 0,
+  "t_gen": 0.002,
+  "t_con": 1.143,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m7_s99_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.000s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 1000,
+  "m": 7,
+  "seed": 2024,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 1000,
+  "rot": 7,
+  "defects": 0,
+  "t_gen": 0.002,
+  "t_con": 1.127,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N1000_m7_s2024_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.000s size=1000/1000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 1000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 3,
+  "seed": 7,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 1351,
+  "breaks1": 1103,
+  "size": 10000,
+  "rot": 1661,
+  "defects": 0,
+  "t_gen": 0.009,
+  "t_con": 0.001,
+  "t_rep": 547.573,
+  "t_ver": 0.001,
+  "mech": "gpipe?D2?0726descend?fullclosure?;",
+  "arm": "base",
+  "run_tag": "g5_N10000_m3_s7_base",
+  "gpwin": null,
+  "k2_base_b1": 1103,
+  "k2_m1_b1_carried_v4": 1190,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 1103,
+  "k2_pick": "base_v5",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 1119,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "breaks1": [
+    1119,
+    1103
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 3,
+  "seed": 13,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 1287,
+  "breaks1": 1039,
+  "size": 10000,
+  "rot": 1575,
+  "defects": 0,
+  "t_gen": 0.008,
+  "t_con": 0.001,
+  "t_rep": 554.061,
+  "t_ver": 0.001,
+  "mech": "gpipe?D2?0726descend?fullclosure?;",
+  "arm": "base",
+  "run_tag": "g5_N10000_m3_s13_base",
+  "gpwin": null,
+  "k2_base_b1": 1039,
+  "k2_m1_b1_carried_v4": 1131,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 1039,
+  "k2_pick": "base_v5",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 1052,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "breaks1": [
+    1052,
+    1039
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 3,
+  "seed": 21,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 1317,
+  "breaks1": 1094,
+  "size": 10000,
+  "rot": 1549,
+  "defects": 0,
+  "t_gen": 0.012,
+  "t_con": 0.001,
+  "t_rep": 554.067,
+  "t_ver": 0.001,
+  "mech": "gpipe?D2?0726descend?fullclosure?;",
+  "arm": "base",
+  "run_tag": "g5_N10000_m3_s21_base",
+  "gpwin": null,
+  "k2_base_b1": 1094,
+  "k2_m1_b1_carried_v4": 1170,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 1094,
+  "k2_pick": "base_v5",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 1100,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "breaks1": [
+    1100,
+    1094
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 3,
+  "seed": 42,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 1350,
+  "breaks1": 1112,
+  "size": 10000,
+  "rot": 1619,
+  "defects": 0,
+  "t_gen": 0.009,
+  "t_con": 0.001,
+  "t_rep": 549.793,
+  "t_ver": 0.001,
+  "mech": "gpipe?D2?0726descend?fullclosure?;",
+  "arm": "base",
+  "run_tag": "g5_N10000_m3_s42_base",
+  "gpwin": null,
+  "k2_base_b1": 1112,
+  "k2_m1_b1_carried_v4": 1215,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 1112,
+  "k2_pick": "base_v5",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 1120,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "breaks1": [
+    1120,
+    1112
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 3,
+  "seed": 99,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 1299,
+  "breaks1": 1059,
+  "size": 10000,
+  "rot": 1556,
+  "defects": 0,
+  "t_gen": 0.008,
+  "t_con": 0.001,
+  "t_rep": 544.139,
+  "t_ver": 0.001,
+  "mech": "gpipe?D2?0726descend?fullclosure?;",
+  "arm": "base",
+  "run_tag": "g5_N10000_m3_s99_base",
+  "gpwin": null,
+  "k2_base_b1": 1059,
+  "k2_m1_b1_carried_v4": 1130,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 1059,
+  "k2_pick": "base_v5",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 1068,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "breaks1": [
+    1068,
+    1059
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 3,
+  "seed": 2024,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 1252,
+  "breaks1": 1012,
+  "size": 10000,
+  "rot": 1582,
+  "defects": 0,
+  "t_gen": 0.009,
+  "t_con": 0.001,
+  "t_rep": 544.676,
+  "t_ver": 0.001,
+  "mech": "gpipe?D2?0726descend?fullclosure?;",
+  "arm": "base",
+  "run_tag": "g5_N10000_m3_s2024_base",
+  "gpwin": null,
+  "k2_base_b1": 1012,
+  "k2_m1_b1_carried_v4": 1107,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 1012,
+  "k2_pick": "base_v5",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 1018,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "breaks1": [
+    1018,
+    1012
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 4,
+  "seed": 7,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 82,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 747,
+  "defects": 0,
+  "t_gen": 0.013,
+  "t_con": 218.711,
+  "t_rep": 44.207,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m4_s7_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=2.750s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 4,
+  "seed": 13,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 45,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 708,
+  "defects": 0,
+  "t_gen": 0.015,
+  "t_con": 119.583,
+  "t_rep": 25.503,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m4_s13_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=1.747s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 4,
+  "seed": 21,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 56,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 741,
+  "defects": 0,
+  "t_gen": 0.012,
+  "t_con": 113.598,
+  "t_rep": 30.992,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m4_s21_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=2.469s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 4,
+  "seed": 42,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 75,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 748,
+  "defects": 0,
+  "t_gen": 0.014,
+  "t_con": 218.727,
+  "t_rep": 45.86,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m4_s42_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=3.354s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 4,
+  "seed": 99,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 64,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 747,
+  "defects": 0,
+  "t_gen": 0.013,
+  "t_con": 122.191,
+  "t_rep": 45.621,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m4_s99_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=2.897s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 4,
+  "seed": 2024,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 70,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 756,
+  "defects": 0,
+  "t_gen": 0.017,
+  "t_con": 115.873,
+  "t_rep": 34.073,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m4_s2024_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=2.733s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 5,
+  "seed": 7,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 6,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 224,
+  "defects": 0,
+  "t_gen": 0.015,
+  "t_con": 112.627,
+  "t_rep": 2.009,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m5_s7_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.208s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 5,
+  "seed": 13,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 4,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 210,
+  "defects": 0,
+  "t_gen": 0.014,
+  "t_con": 147.137,
+  "t_rep": 1.026,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m5_s13_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.194s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 5,
+  "seed": 21,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 3,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 155,
+  "defects": 0,
+  "t_gen": 0.021,
+  "t_con": 31.535,
+  "t_rep": 1.833,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m5_s21_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.155s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 5,
+  "seed": 42,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 5,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 230,
+  "defects": 0,
+  "t_gen": 0.019,
+  "t_con": 114.05,
+  "t_rep": 1.413,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m5_s42_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.305s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 5,
+  "seed": 99,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 5,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 227,
+  "defects": 0,
+  "t_gen": 0.015,
+  "t_con": 114.959,
+  "t_rep": 1.742,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m5_s99_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.147s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 5,
+  "seed": 2024,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 3,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 223,
+  "defects": 0,
+  "t_gen": 0.015,
+  "t_con": 6.248,
+  "t_rep": 0.165,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m5_s2024_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.157s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 6,
+  "seed": 7,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 89,
+  "defects": 0,
+  "t_gen": 0.02,
+  "t_con": 115.209,
+  "t_rep": 0.001,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m6_s7_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.021s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 6,
+  "seed": 13,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 1,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 28,
+  "defects": 0,
+  "t_gen": 0.023,
+  "t_con": 50.986,
+  "t_rep": 0.079,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m6_s13_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.028s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 6,
+  "seed": 21,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 38,
+  "defects": 0,
+  "t_gen": 0.016,
+  "t_con": 27.347,
+  "t_rep": 0.002,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m6_s21_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.040s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 6,
+  "seed": 42,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 23,
+  "defects": 0,
+  "t_gen": 0.026,
+  "t_con": 113.848,
+  "t_rep": 0.001,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m6_s42_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.011s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 6,
+  "seed": 99,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 28,
+  "defects": 0,
+  "t_gen": 0.022,
+  "t_con": 112.621,
+  "t_rep": 0.001,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m6_s99_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.020s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 6,
+  "seed": 2024,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 30,
+  "defects": 0,
+  "t_gen": 0.022,
+  "t_con": 112.736,
+  "t_rep": 0.001,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m6_s2024_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.008s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 7,
+  "seed": 7,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 12,
+  "defects": 0,
+  "t_gen": 0.023,
+  "t_con": 10.453,
+  "t_rep": 0.002,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m7_s7_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.005s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 7,
+  "seed": 13,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 7,
+  "defects": 0,
+  "t_gen": 0.027,
+  "t_con": 115.782,
+  "t_rep": 0.001,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m7_s13_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.005s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 7,
+  "seed": 21,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 7,
+  "defects": 0,
+  "t_gen": 0.024,
+  "t_con": 115.588,
+  "t_rep": 0.001,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m7_s21_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.005s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 7,
+  "seed": 42,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 4,
+  "defects": 0,
+  "t_gen": 0.025,
+  "t_con": 19.417,
+  "t_rep": 0.001,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m7_s42_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.005s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 7,
+  "seed": 99,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 64,
+  "defects": 0,
+  "t_gen": 0.023,
+  "t_con": 10.573,
+  "t_rep": 0.002,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m7_s99_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.006s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 10000,
+  "m": 7,
+  "seed": 2024,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 10000,
+  "rot": 41,
+  "defects": 0,
+  "t_gen": 0.024,
+  "t_con": 19.077,
+  "t_rep": 0.001,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N10000_m7_s2024_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.005s size=10000/10000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 10000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 3,
+  "seed": 7,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 1119,
+  "breaks1": 1119,
+  "size": 46170,
+  "rot": 2927,
+  "defects": 0,
+  "t_gen": 0.256,
+  "t_con": 0.008,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;incomplete;",
+  "arm": "base",
+  "run_tag": "g5_N100000_m3_s7_base",
+  "gpwin": null,
+  "k2_base_b1": 1119,
+  "k2_m1_b1_carried_v4": 1178,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 1119,
+  "k2_pick": "base_v5",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 923,
+  "v4_size": 44342,
+  "v4_behav_diff": {
+   "breaks0": [
+    923,
+    1119
+   ],
+   "breaks1": [
+    923,
+    1119
+   ],
+   "size": [
+    44342,
+    46170
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 3,
+  "seed": 13,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 1237,
+  "breaks1": 1237,
+  "size": 47150,
+  "rot": 3086,
+  "defects": 0,
+  "t_gen": 0.255,
+  "t_con": 0.009,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;incomplete;",
+  "arm": "base",
+  "run_tag": "g5_N100000_m3_s13_base",
+  "gpwin": null,
+  "k2_base_b1": 1237,
+  "k2_m1_b1_carried_v4": 1211,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 1211,
+  "k2_pick": "m1_carried_v4",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 681,
+  "v4_size": 42044,
+  "v4_behav_diff": {
+   "breaks0": [
+    681,
+    1237
+   ],
+   "breaks1": [
+    681,
+    1237
+   ],
+   "size": [
+    42044,
+    47150
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 3,
+  "seed": 21,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 1416,
+  "breaks1": 1416,
+  "size": 49139,
+  "rot": 3431,
+  "defects": 0,
+  "t_gen": 0.262,
+  "t_con": 0.008,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;incomplete;",
+  "arm": "base",
+  "run_tag": "g5_N100000_m3_s21_base",
+  "gpwin": null,
+  "k2_base_b1": 1416,
+  "k2_m1_b1_carried_v4": 1023,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 1023,
+  "k2_pick": "m1_carried_v4",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 1023,
+  "v4_size": 45404,
+  "v4_behav_diff": {
+   "breaks0": [
+    1023,
+    1416
+   ],
+   "breaks1": [
+    1023,
+    1416
+   ],
+   "size": [
+    45404,
+    49139
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 3,
+  "seed": 42,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 1128,
+  "breaks1": 1128,
+  "size": 47148,
+  "rot": 2994,
+  "defects": 0,
+  "t_gen": 0.254,
+  "t_con": 0.009,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;incomplete;",
+  "arm": "base",
+  "run_tag": "g5_N100000_m3_s42_base",
+  "gpwin": null,
+  "k2_base_b1": 1128,
+  "k2_m1_b1_carried_v4": 935,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 935,
+  "k2_pick": "m1_carried_v4",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 935,
+  "v4_size": 45718,
+  "v4_behav_diff": {
+   "breaks0": [
+    935,
+    1128
+   ],
+   "breaks1": [
+    935,
+    1128
+   ],
+   "size": [
+    45718,
+    47148
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 3,
+  "seed": 99,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 1212,
+  "breaks1": 1212,
+  "size": 48327,
+  "rot": 3158,
+  "defects": 0,
+  "t_gen": 0.241,
+  "t_con": 0.008,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;incomplete;",
+  "arm": "base",
+  "run_tag": "g5_N100000_m3_s99_base",
+  "gpwin": null,
+  "k2_base_b1": 1212,
+  "k2_m1_b1_carried_v4": 1074,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 1074,
+  "k2_pick": "m1_carried_v4",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 1074,
+  "v4_size": 47179,
+  "v4_behav_diff": {
+   "breaks0": [
+    1074,
+    1212
+   ],
+   "breaks1": [
+    1074,
+    1212
+   ],
+   "size": [
+    47179,
+    48327
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 3,
+  "seed": 2024,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 1308,
+  "breaks1": 1308,
+  "size": 48606,
+  "rot": 3235,
+  "defects": 0,
+  "t_gen": 0.263,
+  "t_con": 0.009,
+  "t_rep": 0.0,
+  "t_ver": 0.0,
+  "mech": "gpipe?D2?0726descend?fullclosure?;incomplete;",
+  "arm": "base",
+  "run_tag": "g5_N100000_m3_s2024_base",
+  "gpwin": null,
+  "k2_base_b1": 1308,
+  "k2_m1_b1_carried_v4": 1118,
+  "k2": "base_v5+m1carried_v4",
+  "k2_delivery_b1": 1118,
+  "k2_pick": "m1_carried_v4",
+  "k2_delivery_pass": false,
+  "v4_pass": false,
+  "v4_breaks1": 1073,
+  "v4_size": 46728,
+  "v4_behav_diff": {
+   "breaks0": [
+    1073,
+    1308
+   ],
+   "breaks1": [
+    1073,
+    1308
+   ],
+   "size": [
+    46728,
+    48606
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 4,
+  "seed": 7,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 807,
+  "breaks1": 753,
+  "size": 100000,
+  "rot": 7079,
+  "defects": 0,
+  "t_gen": 0.247,
+  "t_con": 27.329,
+  "t_rep": 234.697,
+  "t_ver": 0.048,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m4_s7_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=342.424s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": false,
+  "v4_breaks1": 309,
+  "v4_size": 98873,
+  "v4_behav_diff": {
+   "breaks0": [
+    309,
+    807
+   ],
+   "breaks1": [
+    309,
+    753
+   ],
+   "size": [
+    98873,
+    100000
+   ],
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;incomplete;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 4,
+  "seed": 13,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 794,
+  "breaks1": 738,
+  "size": 100000,
+  "rot": 7187,
+  "defects": 0,
+  "t_gen": 0.241,
+  "t_con": 27.846,
+  "t_rep": 298.176,
+  "t_ver": 0.045,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m4_s13_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=275.554s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": false,
+  "v4_breaks1": 266,
+  "v4_size": 98840,
+  "v4_behav_diff": {
+   "breaks0": [
+    266,
+    794
+   ],
+   "breaks1": [
+    266,
+    738
+   ],
+   "size": [
+    98840,
+    100000
+   ],
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;incomplete;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 4,
+  "seed": 21,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 873,
+  "breaks1": 840,
+  "size": 100000,
+  "rot": 7197,
+  "defects": 0,
+  "t_gen": 0.228,
+  "t_con": 27.12,
+  "t_rep": 191.202,
+  "t_ver": 0.045,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m4_s21_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=383.692s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": false,
+  "v4_breaks1": 170,
+  "v4_size": 98101,
+  "v4_behav_diff": {
+   "breaks0": [
+    170,
+    873
+   ],
+   "breaks1": [
+    170,
+    840
+   ],
+   "size": [
+    98101,
+    100000
+   ],
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;incomplete;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 4,
+  "seed": 42,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 915,
+  "breaks1": 888,
+  "size": 100000,
+  "rot": 7354,
+  "defects": 0,
+  "t_gen": 0.25,
+  "t_con": 26.975,
+  "t_rep": 212.302,
+  "t_ver": 0.044,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m4_s42_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=365.177s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": false,
+  "v4_breaks1": 160,
+  "v4_size": 97870,
+  "v4_behav_diff": {
+   "breaks0": [
+    160,
+    915
+   ],
+   "breaks1": [
+    160,
+    888
+   ],
+   "size": [
+    97870,
+    100000
+   ],
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;incomplete;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 4,
+  "seed": 99,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 810,
+  "breaks1": 778,
+  "size": 100000,
+  "rot": 7221,
+  "defects": 0,
+  "t_gen": 0.248,
+  "t_con": 26.565,
+  "t_rep": 237.117,
+  "t_ver": 0.047,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m4_s99_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=332.837s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": false,
+  "v4_breaks1": 199,
+  "v4_size": 98322,
+  "v4_behav_diff": {
+   "breaks0": [
+    199,
+    810
+   ],
+   "breaks1": [
+    199,
+    778
+   ],
+   "size": [
+    98322,
+    100000
+   ],
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;incomplete;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 4,
+  "seed": 2024,
+  "src": "genba",
+  "pass": false,
+  "breaks0": 790,
+  "breaks1": 790,
+  "size": 100000,
+  "rot": 7113,
+  "defects": 0,
+  "t_gen": 0.247,
+  "t_con": 28.018,
+  "t_rep": 137.142,
+  "t_ver": 0.045,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m4_s2024_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=438.356s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": false,
+  "v4_breaks1": 200,
+  "v4_size": 98353,
+  "v4_behav_diff": {
+   "breaks0": [
+    200,
+    790
+   ],
+   "breaks1": [
+    200,
+    790
+   ],
+   "size": [
+    98353,
+    100000
+   ],
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;incomplete;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 5,
+  "seed": 7,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 57,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 1864,
+  "defects": 0,
+  "t_gen": 0.348,
+  "t_con": 24.947,
+  "t_rep": 316.509,
+  "t_ver": 0.026,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m5_s7_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=43.955s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 5,
+  "seed": 13,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 52,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 1846,
+  "defects": 0,
+  "t_gen": 0.359,
+  "t_con": 25.799,
+  "t_rep": 290.561,
+  "t_ver": 0.028,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m5_s13_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=28.299s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 5,
+  "seed": 21,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 51,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 1893,
+  "defects": 0,
+  "t_gen": 0.368,
+  "t_con": 24.098,
+  "t_rep": 291.55,
+  "t_ver": 0.029,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m5_s21_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=37.526s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 5,
+  "seed": 42,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 49,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 1882,
+  "defects": 0,
+  "t_gen": 0.287,
+  "t_con": 21.876,
+  "t_rep": 341.473,
+  "t_ver": 0.026,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m5_s42_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=39.027s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 5,
+  "seed": 99,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 51,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 1843,
+  "defects": 0,
+  "t_gen": 0.29,
+  "t_con": 21.26,
+  "t_rep": 319.335,
+  "t_ver": 0.031,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m5_s99_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=37.449s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 5,
+  "seed": 2024,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 60,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 1943,
+  "defects": 0,
+  "t_gen": 0.287,
+  "t_con": 21.692,
+  "t_rep": 338.099,
+  "t_ver": 0.025,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m5_s2024_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=31.364s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 6,
+  "seed": 7,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 8,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 270,
+  "defects": 0,
+  "t_gen": 0.476,
+  "t_con": 30.073,
+  "t_rep": 31.321,
+  "t_ver": 0.01,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m6_s7_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=4.467s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 6,
+  "seed": 13,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 4,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 246,
+  "defects": 0,
+  "t_gen": 0.447,
+  "t_con": 26.924,
+  "t_rep": 43.738,
+  "t_ver": 0.008,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m6_s13_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=3.953s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 6,
+  "seed": 21,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 6,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 263,
+  "defects": 0,
+  "t_gen": 0.46,
+  "t_con": 27.68,
+  "t_rep": 80.812,
+  "t_ver": 0.007,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m6_s21_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=3.894s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 6,
+  "seed": 42,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 10,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 244,
+  "defects": 0,
+  "t_gen": 0.47,
+  "t_con": 27.656,
+  "t_rep": 76.493,
+  "t_ver": 0.008,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m6_s42_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=5.376s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 6,
+  "seed": 99,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 8,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 227,
+  "defects": 0,
+  "t_gen": 0.416,
+  "t_con": 24.645,
+  "t_rep": 47.61,
+  "t_ver": 0.007,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m6_s99_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=4.138s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 6,
+  "seed": 2024,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 7,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 259,
+  "defects": 0,
+  "t_gen": 0.422,
+  "t_con": 25.445,
+  "t_rep": 86.204,
+  "t_ver": 0.007,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m6_s2024_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=3.864s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 7,
+  "seed": 7,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 30,
+  "defects": 0,
+  "t_gen": 0.484,
+  "t_con": 29.191,
+  "t_rep": 0.064,
+  "t_ver": 0.01,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m7_s7_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.084s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 7,
+  "seed": 13,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 1,
+  "defects": 0,
+  "t_gen": 0.528,
+  "t_con": 29.779,
+  "t_rep": 0.056,
+  "t_ver": 0.008,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m7_s13_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.087s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 7,
+  "seed": 21,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 7,
+  "defects": 0,
+  "t_gen": 0.464,
+  "t_con": 31.112,
+  "t_rep": 0.069,
+  "t_ver": 0.009,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m7_s21_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.118s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 7,
+  "seed": 42,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 0,
+  "defects": 0,
+  "t_gen": 0.555,
+  "t_con": 29.745,
+  "t_rep": 0.059,
+  "t_ver": 0.008,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m7_s42_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.095s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 7,
+  "seed": 99,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 76,
+  "defects": 0,
+  "t_gen": 0.542,
+  "t_con": 30.411,
+  "t_rep": 0.055,
+  "t_ver": 0.007,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m7_s99_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.079s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ },
+ {
+  "N": 100000,
+  "m": 7,
+  "seed": 2024,
+  "src": "genba",
+  "pass": true,
+  "breaks0": 0,
+  "breaks1": 0,
+  "size": 100000,
+  "rot": 0,
+  "defects": 0,
+  "t_gen": 0.447,
+  "t_con": 24.92,
+  "t_rep": 0.053,
+  "t_ver": 0.007,
+  "mech": "gpipe?D2?0726descend?fullclosure?;b1;",
+  "arm": "b1",
+  "run_tag": "g5_N100000_m7_s2024_b1",
+  "gpwin": "[GPWIN] b1=1 gpT=0.077s size=100000/100000 dline=tRepairEnd",
+  "k2": "single_b1",
+  "v4_pass": true,
+  "v4_breaks1": 0,
+  "v4_size": 100000,
+  "v4_behav_diff": {
+   "mech": [
+    "gpipe?D2?0726descend?fullclosure?;",
+    "gpipe?D2?0726descend?fullclosure?;b1;"
+   ]
+  }
+ }
+]
