@@ -1,0 +1,651 @@
+{
+ "A0": {
+  "mismatch_2000": 0,
+  "basis_ok": true
+ },
+ "regression": {
+  "c(0)": {
+   "rev_states": 6,
+   "reachable": 2,
+   "min_dfa": 3,
+   "lang_eq_D": true,
+   "partition_eq_archive": true,
+   "machine_layers": 4,
+   "archive_layers": 2,
+   "count_k12": [
+    3,
+    7,
+    15,
+    31,
+    63,
+    127,
+    255,
+    511,
+    1023,
+    2047,
+    4095,
+    8191
+   ],
+   "closed_form": {
+    "kind": "a2k+b",
+    "k0": 1,
+    "head": {},
+    "params": [
+     "2",
+     "-1"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 3,
+   "moore_eq_nerode": true,
+   "known_min_dfa": 3,
+   "regress_dfa_ok": true,
+   "count_eq_archive_cf": true
+  },
+  "c(-1)": {
+   "rev_states": 9,
+   "reachable": 4,
+   "min_dfa": 5,
+   "lang_eq_D": true,
+   "partition_eq_archive": true,
+   "machine_layers": 3,
+   "archive_layers": 3,
+   "count_k12": [
+    1,
+    4,
+    10,
+    22,
+    46,
+    94,
+    190,
+    382,
+    766,
+    1534,
+    3070,
+    6142
+   ],
+   "closed_form": {
+    "kind": "a2k+b",
+    "k0": 1,
+    "head": {},
+    "params": [
+     "3/2",
+     "-2"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 5,
+   "moore_eq_nerode": true,
+   "known_min_dfa": 5,
+   "regress_dfa_ok": true,
+   "count_eq_archive_cf": true
+  },
+  "c(-2)": {
+   "rev_states": 12,
+   "reachable": 6,
+   "min_dfa": 5,
+   "lang_eq_D": true,
+   "partition_eq_archive": true,
+   "machine_layers": 4,
+   "archive_layers": 4,
+   "count_k12": [
+    0,
+    4,
+    12,
+    28,
+    60,
+    124,
+    252,
+    508,
+    1020,
+    2044,
+    4092,
+    8188
+   ],
+   "closed_form": {
+    "kind": "a2k+b",
+    "k0": 1,
+    "head": {},
+    "params": [
+     "2",
+     "-4"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 5,
+   "moore_eq_nerode": true,
+   "known_min_dfa": 5,
+   "regress_dfa_ok": true,
+   "count_eq_archive_cf": true
+  },
+  "c(-3)": {
+   "rev_states": 15,
+   "reachable": 6,
+   "min_dfa": 6,
+   "lang_eq_D": true,
+   "partition_eq_archive": true,
+   "machine_layers": 2,
+   "archive_layers": 1,
+   "count_k12": [
+    0,
+    1,
+    4,
+    10,
+    22,
+    46,
+    94,
+    190,
+    382,
+    766,
+    1534,
+    3070
+   ],
+   "closed_form": {
+    "kind": "rec3",
+    "k0": 1,
+    "head": {},
+    "params": [
+     "2",
+     "0",
+     "2"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 6,
+   "moore_eq_nerode": true,
+   "known_min_dfa": 6,
+   "regress_dfa_ok": true,
+   "count_eq_archive_cf": true
+  },
+  "c(-4)": {
+   "rev_states": 17,
+   "reachable": 8,
+   "min_dfa": 7,
+   "lang_eq_D": true,
+   "partition_eq_archive": true,
+   "machine_layers": 4,
+   "archive_layers": 4,
+   "count_k12": [
+    0,
+    0,
+    4,
+    12,
+    28,
+    60,
+    124,
+    252,
+    508,
+    1020,
+    2044,
+    4092
+   ],
+   "closed_form": {
+    "kind": "rec3",
+    "k0": 1,
+    "head": {},
+    "params": [
+     "2",
+     "0",
+     "4"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 7,
+   "moore_eq_nerode": true,
+   "known_min_dfa": 7,
+   "regress_dfa_ok": true,
+   "count_eq_archive_cf": true
+  },
+  "c(-5)": {
+   "rev_states": 17,
+   "reachable": 7,
+   "min_dfa": 7,
+   "lang_eq_D": true,
+   "partition_eq_archive": true,
+   "machine_layers": 2,
+   "archive_layers": 2,
+   "count_k12": [
+    0,
+    0,
+    2,
+    6,
+    14,
+    30,
+    62,
+    126,
+    254,
+    510,
+    1022,
+    2046
+   ],
+   "closed_form": {
+    "kind": "rec3",
+    "k0": 1,
+    "head": {},
+    "params": [
+     "2",
+     "0",
+     "2"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 7,
+   "moore_eq_nerode": true,
+   "known_min_dfa": 7,
+   "regress_dfa_ok": true,
+   "count_eq_archive_cf": true
+  },
+  "c(-6)": {
+   "rev_states": 18,
+   "reachable": 9,
+   "min_dfa": 7,
+   "lang_eq_D": true,
+   "partition_eq_archive": true,
+   "machine_layers": 8,
+   "archive_layers": 5,
+   "count_k12": [
+    0,
+    0,
+    8,
+    24,
+    56,
+    120,
+    248,
+    504,
+    1016,
+    2040,
+    4088,
+    8184
+   ],
+   "closed_form": {
+    "kind": "rec3",
+    "k0": 1,
+    "head": {},
+    "params": [
+     "2",
+     "0",
+     "8"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 7,
+   "moore_eq_nerode": true,
+   "count_eq_archive_cf": true
+  },
+  "c(-7)": {
+   "rev_states": 20,
+   "reachable": 9,
+   "min_dfa": 8,
+   "lang_eq_D": true,
+   "partition_eq_archive": true,
+   "machine_layers": 4,
+   "archive_layers": 4,
+   "count_k12": [
+    0,
+    0,
+    4,
+    12,
+    28,
+    60,
+    124,
+    252,
+    508,
+    1020,
+    2044,
+    4092
+   ],
+   "closed_form": {
+    "kind": "rec3",
+    "k0": 1,
+    "head": {},
+    "params": [
+     "2",
+     "0",
+     "4"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 8,
+   "moore_eq_nerode": true,
+   "count_eq_archive_cf": true
+  }
+ },
+ "new": {
+  "c(-8)": {
+   "rev_states": 20,
+   "reachable": 9,
+   "min_dfa": 7,
+   "lang_eq_D": true,
+   "partition_eq_archive": null,
+   "machine_layers": 4,
+   "archive_layers": 0,
+   "count_k12": [
+    0,
+    0,
+    4,
+    12,
+    28,
+    60,
+    124,
+    252,
+    508,
+    1020,
+    2044,
+    4092
+   ],
+   "closed_form": {
+    "kind": "rec3",
+    "k0": 1,
+    "head": {},
+    "params": [
+     "2",
+     "0",
+     "4"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 7,
+   "moore_eq_nerode": true
+  },
+  "c(-9)": {
+   "rev_states": 21,
+   "reachable": 8,
+   "min_dfa": 7,
+   "lang_eq_D": true,
+   "partition_eq_archive": null,
+   "machine_layers": 2,
+   "archive_layers": 0,
+   "count_k12": [
+    0,
+    0,
+    1,
+    4,
+    10,
+    22,
+    46,
+    94,
+    190,
+    382,
+    766,
+    1534
+   ],
+   "closed_form": {
+    "kind": "rec3",
+    "k0": 2,
+    "head": {},
+    "params": [
+     "2",
+     "0",
+     "2"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 7,
+   "moore_eq_nerode": true
+  },
+  "c(-10)": {
+   "rev_states": 22,
+   "reachable": 10,
+   "min_dfa": 9,
+   "lang_eq_D": true,
+   "partition_eq_archive": null,
+   "machine_layers": 4,
+   "archive_layers": 0,
+   "count_k12": [
+    0,
+    0,
+    0,
+    4,
+    12,
+    28,
+    60,
+    124,
+    252,
+    508,
+    1020,
+    2044
+   ],
+   "closed_form": {
+    "kind": "rec3",
+    "k0": 2,
+    "head": {},
+    "params": [
+     "2",
+     "0",
+     "4"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 9,
+   "moore_eq_nerode": true
+  },
+  "c(-11)": {
+   "rev_states": 22,
+   "reachable": 10,
+   "min_dfa": 10,
+   "lang_eq_D": true,
+   "partition_eq_archive": null,
+   "machine_layers": 4,
+   "archive_layers": 0,
+   "count_k12": [
+    0,
+    0,
+    0,
+    4,
+    12,
+    28,
+    60,
+    124,
+    252,
+    508,
+    1020,
+    2044
+   ],
+   "closed_form": {
+    "kind": "rec3",
+    "k0": 2,
+    "head": {},
+    "params": [
+     "2",
+     "0",
+     "4"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 10,
+   "moore_eq_nerode": true
+  },
+  "c(-12)": {
+   "rev_states": 23,
+   "reachable": 11,
+   "min_dfa": 9,
+   "lang_eq_D": true,
+   "partition_eq_archive": null,
+   "machine_layers": 8,
+   "archive_layers": 0,
+   "count_k12": [
+    0,
+    0,
+    0,
+    8,
+    24,
+    56,
+    120,
+    248,
+    504,
+    1016,
+    2040,
+    4088
+   ],
+   "closed_form": {
+    "kind": "rec3",
+    "k0": 2,
+    "head": {},
+    "params": [
+     "2",
+     "0",
+     "8"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 9,
+   "moore_eq_nerode": true
+  },
+  "c(-13)": {
+   "rev_states": 23,
+   "reachable": 9,
+   "min_dfa": 9,
+   "lang_eq_D": true,
+   "partition_eq_archive": null,
+   "machine_layers": 2,
+   "archive_layers": 0,
+   "count_k12": [
+    0,
+    0,
+    0,
+    2,
+    6,
+    14,
+    30,
+    62,
+    126,
+    254,
+    510,
+    1022
+   ],
+   "closed_form": {
+    "kind": "rec3",
+    "k0": 2,
+    "head": {},
+    "params": [
+     "2",
+     "0",
+     "2"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 9,
+   "moore_eq_nerode": true
+  },
+  "c(-14)": {
+   "rev_states": 23,
+   "reachable": 10,
+   "min_dfa": 9,
+   "lang_eq_D": true,
+   "partition_eq_archive": null,
+   "machine_layers": 4,
+   "archive_layers": 0,
+   "count_k12": [
+    0,
+    0,
+    0,
+    4,
+    12,
+    28,
+    60,
+    124,
+    252,
+    508,
+    1020,
+    2044
+   ],
+   "closed_form": {
+    "kind": "rec3",
+    "k0": 2,
+    "head": {},
+    "params": [
+     "2",
+     "0",
+     "4"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 9,
+   "moore_eq_nerode": true
+  },
+  "c(-15)": {
+   "rev_states": 23,
+   "reachable": 9,
+   "min_dfa": 8,
+   "lang_eq_D": true,
+   "partition_eq_archive": null,
+   "machine_layers": 2,
+   "archive_layers": 0,
+   "count_k12": [
+    0,
+    0,
+    0,
+    2,
+    6,
+    14,
+    30,
+    62,
+    126,
+    254,
+    510,
+    1022
+   ],
+   "closed_form": {
+    "kind": "rec3",
+    "k0": 2,
+    "head": {},
+    "params": [
+     "2",
+     "0",
+     "2"
+    ]
+   },
+   "nerode_level": 6,
+   "nerode": 8,
+   "moore_eq_nerode": true
+  }
+ },
+ "notes": {
+  "archive_anchor": {
+   "E1": 6142,
+   "E2": 8188
+  }
+ },
+ "verdict": {
+  "A0_A4_deriver_established": true,
+  "A5_new_spectrum": true
+ },
+ "log": [
+  "== A0 递推核 ==",
+  "A0 mismatch=0 basis_ok=True",
+  "counts T=4096 Q=4095 C=4095 B=2047 E1=6142 E2=8188",
+  "== c=0 ==",
+  "{\"rev_states\": 6, \"reachable\": 2, \"min_dfa\": 3, \"lang_eq_D\": true, \"partition_eq_archive\": true, \"machine_layers\": 4, \"archive_layers\": 2, \"count_k12\": [3, 7, 15, 31, 63, 127, 255, 511, 1023, 2047, 4095, 8191], \"closed_form\": {\"kind\": \"a2k+b\", \"k0\": 1, \"head\": {}, \"params\": [\"2\", \"-1\"]}, \"nerode_level\": 6, \"nerode\": 3, \"moore_eq_nerode\": true, \"known_min_dfa\": 3, \"regress_dfa_ok\": true, \"count_eq_archive_cf\": true}",
+  "== c=-1 ==",
+  "{\"rev_states\": 9, \"reachable\": 4, \"min_dfa\": 5, \"lang_eq_D\": true, \"partition_eq_archive\": true, \"machine_layers\": 3, \"archive_layers\": 3, \"count_k12\": [1, 4, 10, 22, 46, 94, 190, 382, 766, 1534, 3070, 6142], \"closed_form\": {\"kind\": \"a2k+b\", \"k0\": 1, \"head\": {}, \"params\": [\"3/2\", \"-2\"]}, \"nerode_level\": 6, \"nerode\": 5, \"moore_eq_nerode\": true, \"known_min_dfa\": 5, \"regress_dfa_ok\": true, \"count_eq_archive_cf\": true}",
+  "== c=-2 ==",
+  "{\"rev_states\": 12, \"reachable\": 6, \"min_dfa\": 5, \"lang_eq_D\": true, \"partition_eq_archive\": true, \"machine_layers\": 4, \"archive_layers\": 4, \"count_k12\": [0, 4, 12, 28, 60, 124, 252, 508, 1020, 2044, 4092, 8188], \"closed_form\": {\"kind\": \"a2k+b\", \"k0\": 1, \"head\": {}, \"params\": [\"2\", \"-4\"]}, \"nerode_level\": 6, \"nerode\": 5, \"moore_eq_nerode\": true, \"known_min_dfa\": 5, \"regress_dfa_ok\": true, \"count_eq_archive_cf\": true}",
+  "== c=-3 ==",
+  "{\"rev_states\": 15, \"reachable\": 6, \"min_dfa\": 6, \"lang_eq_D\": true, \"partition_eq_archive\": true, \"machine_layers\": 2, \"archive_layers\": 1, \"count_k12\": [0, 1, 4, 10, 22, 46, 94, 190, 382, 766, 1534, 3070], \"closed_form\": {\"kind\": \"rec3\", \"k0\": 1, \"head\": {}, \"params\": [\"2\", \"0\", \"2\"]}, \"nerode_level\": 6, \"nerode\": 6, \"moore_eq_nerode\": true, \"known_min_dfa\": 6, \"regress_dfa_ok\": true, \"count_eq_archive_cf\": true}",
+  "== c=-4 ==",
+  "{\"rev_states\": 17, \"reachable\": 8, \"min_dfa\": 7, \"lang_eq_D\": true, \"partition_eq_archive\": true, \"machine_layers\": 4, \"archive_layers\": 4, \"count_k12\": [0, 0, 4, 12, 28, 60, 124, 252, 508, 1020, 2044, 4092], \"closed_form\": {\"kind\": \"rec3\", \"k0\": 1, \"head\": {}, \"params\": [\"2\", \"0\", \"4\"]}, \"nerode_level\": 6, \"nerode\": 7, \"moore_eq_nerode\": true, \"known_min_dfa\": 7, \"regress_dfa_ok\": true, \"count_eq_archive_cf\": true}",
+  "== c=-5 ==",
+  "{\"rev_states\": 17, \"reachable\": 7, \"min_dfa\": 7, \"lang_eq_D\": true, \"partition_eq_archive\": true, \"machine_layers\": 2, \"archive_layers\": 2, \"count_k12\": [0, 0, 2, 6, 14, 30, 62, 126, 254, 510, 1022, 2046], \"closed_form\": {\"kind\": \"rec3\", \"k0\": 1, \"head\": {}, \"params\": [\"2\", \"0\", \"2\"]}, \"nerode_level\": 6, \"nerode\": 7, \"moore_eq_nerode\": true, \"known_min_dfa\": 7, \"regress_dfa_ok\": true, \"count_eq_archive_cf\": true}",
+  "== c=-6 ==",
+  "{\"rev_states\": 18, \"reachable\": 9, \"min_dfa\": 7, \"lang_eq_D\": true, \"partition_eq_archive\": true, \"machine_layers\": 8, \"archive_layers\": 5, \"count_k12\": [0, 0, 8, 24, 56, 120, 248, 504, 1016, 2040, 4088, 8184], \"closed_form\": {\"kind\": \"rec3\", \"k0\": 1, \"head\": {}, \"params\": [\"2\", \"0\", \"8\"]}, \"nerode_level\": 6, \"nerode\": 7, \"moore_eq_nerode\": true, \"count_eq_archive_cf\": true}",
+  "== c=-7 ==",
+  "{\"rev_states\": 20, \"reachable\": 9, \"min_dfa\": 8, \"lang_eq_D\": true, \"partition_eq_archive\": true, \"machine_layers\": 4, \"archive_layers\": 4, \"count_k12\": [0, 0, 4, 12, 28, 60, 124, 252, 508, 1020, 2044, 4092], \"closed_form\": {\"kind\": \"rec3\", \"k0\": 1, \"head\": {}, \"params\": [\"2\", \"0\", \"4\"]}, \"nerode_level\": 6, \"nerode\": 8, \"moore_eq_nerode\": true, \"count_eq_archive_cf\": true}",
+  "== c=-8 ==",
+  "{\"rev_states\": 20, \"reachable\": 9, \"min_dfa\": 7, \"lang_eq_D\": true, \"partition_eq_archive\": null, \"machine_layers\": 4, \"archive_layers\": 0, \"count_k12\": [0, 0, 4, 12, 28, 60, 124, 252, 508, 1020, 2044, 4092], \"closed_form\": {\"kind\": \"rec3\", \"k0\": 1, \"head\": {}, \"params\": [\"2\", \"0\", \"4\"]}, \"nerode_level\": 6, \"nerode\": 7, \"moore_eq_nerode\": true}",
+  "== c=-9 ==",
+  "{\"rev_states\": 21, \"reachable\": 8, \"min_dfa\": 7, \"lang_eq_D\": true, \"partition_eq_archive\": null, \"machine_layers\": 2, \"archive_layers\": 0, \"count_k12\": [0, 0, 1, 4, 10, 22, 46, 94, 190, 382, 766, 1534], \"closed_form\": {\"kind\": \"rec3\", \"k0\": 2, \"head\": {}, \"params\": [\"2\", \"0\", \"2\"]}, \"nerode_level\": 6, \"nerode\": 7, \"moore_eq_nerode\": true}",
+  "== c=-10 ==",
+  "{\"rev_states\": 22, \"reachable\": 10, \"min_dfa\": 9, \"lang_eq_D\": true, \"partition_eq_archive\": null, \"machine_layers\": 4, \"archive_layers\": 0, \"count_k12\": [0, 0, 0, 4, 12, 28, 60, 124, 252, 508, 1020, 2044], \"closed_form\": {\"kind\": \"rec3\", \"k0\": 2, \"head\": {}, \"params\": [\"2\", \"0\", \"4\"]}, \"nerode_level\": 6, \"nerode\": 9, \"moore_eq_nerode\": true}",
+  "== c=-11 ==",
+  "{\"rev_states\": 22, \"reachable\": 10, \"min_dfa\": 10, \"lang_eq_D\": true, \"partition_eq_archive\": null, \"machine_layers\": 4, \"archive_layers\": 0, \"count_k12\": [0, 0, 0, 4, 12, 28, 60, 124, 252, 508, 1020, 2044], \"closed_form\": {\"kind\": \"rec3\", \"k0\": 2, \"head\": {}, \"params\": [\"2\", \"0\", \"4\"]}, \"nerode_level\": 6, \"nerode\": 10, \"moore_eq_nerode\": true}",
+  "== c=-12 ==",
+  "{\"rev_states\": 23, \"reachable\": 11, \"min_dfa\": 9, \"lang_eq_D\": true, \"partition_eq_archive\": null, \"machine_layers\": 8, \"archive_layers\": 0, \"count_k12\": [0, 0, 0, 8, 24, 56, 120, 248, 504, 1016, 2040, 4088], \"closed_form\": {\"kind\": \"rec3\", \"k0\": 2, \"head\": {}, \"params\": [\"2\", \"0\", \"8\"]}, \"nerode_level\": 6, \"nerode\": 9, \"moore_eq_nerode\": true}",
+  "== c=-13 ==",
+  "{\"rev_states\": 23, \"reachable\": 9, \"min_dfa\": 9, \"lang_eq_D\": true, \"partition_eq_archive\": null, \"machine_layers\": 2, \"archive_layers\": 0, \"count_k12\": [0, 0, 0, 2, 6, 14, 30, 62, 126, 254, 510, 1022], \"closed_form\": {\"kind\": \"rec3\", \"k0\": 2, \"head\": {}, \"params\": [\"2\", \"0\", \"2\"]}, \"nerode_level\": 6, \"nerode\": 9, \"moore_eq_nerode\": true}",
+  "== c=-14 ==",
+  "{\"rev_states\": 23, \"reachable\": 10, \"min_dfa\": 9, \"lang_eq_D\": true, \"partition_eq_archive\": null, \"machine_layers\": 4, \"archive_layers\": 0, \"count_k12\": [0, 0, 0, 4, 12, 28, 60, 124, 252, 508, 1020, 2044], \"closed_form\": {\"kind\": \"rec3\", \"k0\": 2, \"head\": {}, \"params\": [\"2\", \"0\", \"4\"]}, \"nerode_level\": 6, \"nerode\": 9, \"moore_eq_nerode\": true}",
+  "== c=-15 ==",
+  "{\"rev_states\": 23, \"reachable\": 9, \"min_dfa\": 8, \"lang_eq_D\": true, \"partition_eq_archive\": null, \"machine_layers\": 2, \"archive_layers\": 0, \"count_k12\": [0, 0, 0, 2, 6, 14, 30, 62, 126, 254, 510, 1022], \"closed_form\": {\"kind\": \"rec3\", \"k0\": 2, \"head\": {}, \"params\": [\"2\", \"0\", \"2\"]}, \"nerode_level\": 6, \"nerode\": 8, \"moore_eq_nerode\": true}",
+  "VERDICT {\"A0_A4_deriver_established\": true, \"A5_new_spectrum\": true}"
+ ]
+}

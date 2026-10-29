@@ -1,0 +1,104 @@
+{
+ "script_clock_first_run": "2026-09-19 23:43:25",
+ "frozen_evidence": "判据书NTFS创建 2026-09-19 23:15:58（本脚本首跑晚于冻结）",
+ "params": {
+  "D": 12,
+  "alpha": 0.125,
+  "delta": 0.1,
+  "beta": 1.0,
+  "seed": 20260919,
+  "n_steps": 400,
+  "lambda_range": [
+   1,
+   2,
+   3
+  ],
+  "lambda4_note": "Λ≥4 |X|=2.44×10⁸ 内存超限，级差如实声明（判据书 §一.2 冻结）"
+ },
+ "per_Lambda": {
+  "1": {
+   "Nstates": 4096,
+   "SA1": {
+    "upper_bound_all_points": true,
+    "struct_check_tv1_le_7875": true,
+    "tv_at_1": 0.7873077392578125,
+    "tv_at_400": 1.2458838214574053e-16,
+    "theory_tv1_bound": 0.7875,
+    "pass": true
+   },
+   "SA2": {
+    "t_mix_0.01": 20,
+    "upper_bound_44": 44,
+    "pass": true
+   },
+   "SA3": {
+    "Lambda": 1,
+    "I_size": 2050,
+    "m_support_size": 2050,
+    "scc_full_count": 2047,
+    "scc_matches_step1_T2_2047": true,
+    "identity_1_plus_X_minus_I": true,
+    "method": "结构定理 SCC=1+|X|−|I| + 逐态入度核对（4096 态全验证）"
+   }
+  },
+  "2": {
+   "Nstates": 531441,
+   "SA1": {
+    "upper_bound_all_points": true,
+    "struct_check_tv1_le_7875": true,
+    "tv_at_1": 0.7874985181798165,
+    "tv_at_400": 1.0533045281520357e-16,
+    "theory_tv1_bound": 0.7875,
+    "pass": true
+   },
+   "SA2": {
+    "t_mix_0.01": 20,
+    "upper_bound_44": 44,
+    "pass": true
+   },
+   "SA3": {
+    "Lambda": 2,
+    "I_size": 120149,
+    "scc_structural": 411293,
+    "nonimg_zero_indeg_sample_ok": true,
+    "img_in_sample_ok": true,
+    "identity_1_plus_X_minus_I": true,
+    "greater_than_1": true,
+    "method": "结构定理 SCC=1+|X|−|I| + 抽样核对（全图 BFS 边数 |X|·|I| 不可行·级差如实声明）"
+   }
+  },
+  "3": {
+   "Nstates": 16777216,
+   "SA1": {
+    "upper_bound_all_points": true,
+    "struct_check_tv1_le_7875": true,
+    "tv_at_1": 0.7874999530613422,
+    "tv_at_400": 6.114278047561483e-17,
+    "theory_tv1_bound": 0.7875,
+    "pass": true
+   },
+   "SA2": {
+    "t_mix_0.01": 20,
+    "upper_bound_44": 44,
+    "pass": true
+   },
+   "SA3": {
+    "Lambda": 3,
+    "I_size": 4198402,
+    "scc_structural": 12578815,
+    "nonimg_zero_indeg_sample_ok": true,
+    "img_in_sample_ok": true,
+    "identity_1_plus_X_minus_I": true,
+    "greater_than_1": true,
+    "method": "结构定理 SCC=1+|X|−|I| + 抽样核对（全图 BFS 边数 |X|·|I| 不可行·级差如实声明）"
+   }
+  }
+ },
+ "SA4": {
+  "formalization_a": "含均匀注入：SA1+SA2 ⇒ 一致混合控制成立，步2 一致性技术障碍不存在；但遍历性承担者是注入项（外生），'E 具有遍历性'原句未被证明",
+  "formalization_b": "纯 E∘D：SA3 ⇒ 不强连通不遍历（Λ=1 碎 2047 类）⇒ 该语义下步2 定量失败 → 按乙22 预冻结判读转路径乙",
+  "note": "两条后果陈列供乙22 定谳引用，不代定谳（判据书 §二 SA4 冻结口径）"
+ },
+ "overall_SA1_SA2_SA3": true,
+ "clock_finished": "2026-09-19 23:55:37"
+}

@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "script": "d7_band_tm-v1.0-20260925.py",
+  "frozen": "2026-09-25T07:26:33",
+  "part": "merge"
+ },
+ "fullband": {
+  "n": 4374,
+  "max": 26,
+  "at": -4375,
+  "tri": "hit"
+ },
+ "wordmax": {
+  "v": 7680,
+  "at": -4374
+ },
+ "Rdist": {
+  "12": 1,
+  "19": 1555,
+  "20": 1219,
+  "21": 743,
+  "18": 208,
+  "22": 351,
+  "17": 76,
+  "23": 131,
+  "16": 28,
+  "24": 38,
+  "15": 10,
+  "25": 8,
+  "14": 4,
+  "13": 1,
+  "26": 1
+ },
+ "band_d7_stat": {
+  "n": 4374,
+  "all": {
+   "min": 12,
+   "max": 26,
+   "mean": 19.917
+  },
+  "inherit": {
+   "n": 1458,
+   "max": 24,
+   "mean": 19.25
+  },
+  "noninherit": {
+   "n": 2916,
+   "max": 26,
+   "mean": 20.25
+  }
+ },
+ "max_law": {
+  "reach": 33,
+  "acc": 2,
+  "M_acc": 1,
+  "M_dead": 7,
+  "M_int": 0,
+  "R": 26,
+  "C2": 0,
+  "law_ok": true,
+  "prime": false,
+  "reach_is_band_max": true,
+  "reach_band_max_at": -4375
+ },
+ "enum4": {
+  "-4375": {
+   "dfa_paths": 5730,
+   "n_words": 5730,
+   "eq": true
+  },
+  "-4886": {
+   "dfa_paths": 1260,
+   "n_words": 1260,
+   "eq": true
+  },
+  "-3251": {
+   "dfa_paths": 60,
+   "n_words": 60,
+   "eq": true
+  },
+  "-6367": {
+   "dfa_paths": 90,
+   "n_words": 90,
+   "eq": true
+  }
+ },
+ "enum_bad": 0,
+ "log": [
+  "MERGE fullband n=4374 max=26@-4375 tri=hit",
+  "MERGE wordmax=7680@-4374 (record 8128@-162)",
+  "MERGE Rdist={\"12\": 1, \"19\": 1555, \"20\": 1219, \"21\": 743, \"18\": 208, \"22\": 351, \"17\": 76, \"23\": 131, \"16\": 28, \"24\": 38, \"15\": 10, \"25\": 8, \"14\": 4, \"13\": 1, \"26\": 1}",
+  "MERGE bands d7 {\"n\": 4374, \"all\": {\"min\": 12, \"max\": 26, \"mean\": 19.917}, \"inherit\": {\"n\": 1458, \"max\": 24, \"mean\": 19.25}, \"noninherit\": {\"n\": 2916, \"max\": 26, \"mean\": 20.25}}",
+  "MERGE maxlaw {\"reach\": 33, \"acc\": 2, \"M_acc\": 1, \"M_dead\": 7, \"M_int\": 0, \"R\": 26, \"C2\": 0, \"law_ok\": true, \"prime\": false, \"reach_is_band_max\": true, \"reach_band_max_at\": -4375}",
+  "MERGE enum4 bad=0 {\"-4375\": {\"dfa_paths\": 5730, \"n_words\": 5730, \"eq\": true}, \"-4886\": {\"dfa_paths\": 1260, \"n_words\": 1260, \"eq\": true}, \"-3251\": {\"dfa_paths\": 60, \"n_words\": 60, \"eq\": true}, \"-6367\": {\"dfa_paths\": 90, \"n_words\": 90, \"eq\": true}}"
+ ]
+}

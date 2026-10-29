@@ -1,0 +1,533 @@
+{
+ "meta": {
+  "script": "e2_depth_spectrum-v1.0-20260921.py",
+  "frozen_at": "2026-09-21 05:51:34",
+  "start": "07:09:21"
+ },
+ "P0": {
+  "E1_count": 6142,
+  "E2_count": 8188,
+  "E1_gen_eq": true,
+  "E2_gen_eq": true,
+  "E1_cap_E2": 0,
+  "pass": true
+ },
+ "P1": {
+  "per_k": [
+   {
+    "k": 1,
+    "E1b1": {
+     "count": 1,
+     "closed": 1,
+     "ok": true
+    },
+    "E1b2": {
+     "count": 0,
+     "closed": 0,
+     "ok": true
+    },
+    "E2b1": {
+     "count": 0,
+     "closed": 0,
+     "ok": true
+    },
+    "E2b2": {
+     "count": 0,
+     "closed": 0,
+     "ok": true
+    },
+    "disjoint": true,
+    "union_eq_E1": true,
+    "union_eq_E2": true
+   },
+   {
+    "k": 2,
+    "E1b1": {
+     "count": 3,
+     "closed": 3,
+     "ok": true
+    },
+    "E1b2": {
+     "count": 1,
+     "closed": 1,
+     "ok": true
+    },
+    "E2b1": {
+     "count": 2,
+     "closed": 2,
+     "ok": true
+    },
+    "E2b2": {
+     "count": 2,
+     "closed": 2,
+     "ok": true
+    },
+    "disjoint": true,
+    "union_eq_E1": true,
+    "union_eq_E2": true
+   },
+   {
+    "k": 3,
+    "E1b1": {
+     "count": 7,
+     "closed": 7,
+     "ok": true
+    },
+    "E1b2": {
+     "count": 3,
+     "closed": 3,
+     "ok": true
+    },
+    "E2b1": {
+     "count": 6,
+     "closed": 6,
+     "ok": true
+    },
+    "E2b2": {
+     "count": 6,
+     "closed": 6,
+     "ok": true
+    },
+    "disjoint": true,
+    "union_eq_E1": true,
+    "union_eq_E2": true
+   },
+   {
+    "k": 4,
+    "E1b1": {
+     "count": 15,
+     "closed": 15,
+     "ok": true
+    },
+    "E1b2": {
+     "count": 7,
+     "closed": 7,
+     "ok": true
+    },
+    "E2b1": {
+     "count": 14,
+     "closed": 14,
+     "ok": true
+    },
+    "E2b2": {
+     "count": 14,
+     "closed": 14,
+     "ok": true
+    },
+    "disjoint": true,
+    "union_eq_E1": true,
+    "union_eq_E2": true
+   },
+   {
+    "k": 5,
+    "E1b1": {
+     "count": 31,
+     "closed": 31,
+     "ok": true
+    },
+    "E1b2": {
+     "count": 15,
+     "closed": 15,
+     "ok": true
+    },
+    "E2b1": {
+     "count": 30,
+     "closed": 30,
+     "ok": true
+    },
+    "E2b2": {
+     "count": 30,
+     "closed": 30,
+     "ok": true
+    },
+    "disjoint": true,
+    "union_eq_E1": true,
+    "union_eq_E2": true
+   },
+   {
+    "k": 6,
+    "E1b1": {
+     "count": 63,
+     "closed": 63,
+     "ok": true
+    },
+    "E1b2": {
+     "count": 31,
+     "closed": 31,
+     "ok": true
+    },
+    "E2b1": {
+     "count": 62,
+     "closed": 62,
+     "ok": true
+    },
+    "E2b2": {
+     "count": 62,
+     "closed": 62,
+     "ok": true
+    },
+    "disjoint": true,
+    "union_eq_E1": true,
+    "union_eq_E2": true
+   },
+   {
+    "k": 7,
+    "E1b1": {
+     "count": 127,
+     "closed": 127,
+     "ok": true
+    },
+    "E1b2": {
+     "count": 63,
+     "closed": 63,
+     "ok": true
+    },
+    "E2b1": {
+     "count": 126,
+     "closed": 126,
+     "ok": true
+    },
+    "E2b2": {
+     "count": 126,
+     "closed": 126,
+     "ok": true
+    },
+    "disjoint": true,
+    "union_eq_E1": true,
+    "union_eq_E2": true
+   },
+   {
+    "k": 8,
+    "E1b1": {
+     "count": 255,
+     "closed": 255,
+     "ok": true
+    },
+    "E1b2": {
+     "count": 127,
+     "closed": 127,
+     "ok": true
+    },
+    "E2b1": {
+     "count": 254,
+     "closed": 254,
+     "ok": true
+    },
+    "E2b2": {
+     "count": 254,
+     "closed": 254,
+     "ok": true
+    },
+    "disjoint": true,
+    "union_eq_E1": true,
+    "union_eq_E2": true
+   },
+   {
+    "k": 9,
+    "E1b1": {
+     "count": 511,
+     "closed": 511,
+     "ok": true
+    },
+    "E1b2": {
+     "count": 255,
+     "closed": 255,
+     "ok": true
+    },
+    "E2b1": {
+     "count": 510,
+     "closed": 510,
+     "ok": true
+    },
+    "E2b2": {
+     "count": 510,
+     "closed": 510,
+     "ok": true
+    },
+    "disjoint": true,
+    "union_eq_E1": true,
+    "union_eq_E2": true
+   },
+   {
+    "k": 10,
+    "E1b1": {
+     "count": 1023,
+     "closed": 1023,
+     "ok": true
+    },
+    "E1b2": {
+     "count": 511,
+     "closed": 511,
+     "ok": true
+    },
+    "E2b1": {
+     "count": 1022,
+     "closed": 1022,
+     "ok": true
+    },
+    "E2b2": {
+     "count": 1022,
+     "closed": 1022,
+     "ok": true
+    },
+    "disjoint": true,
+    "union_eq_E1": true,
+    "union_eq_E2": true
+   },
+   {
+    "k": 11,
+    "E1b1": {
+     "count": 2047,
+     "closed": 2047,
+     "ok": true
+    },
+    "E1b2": {
+     "count": 1023,
+     "closed": 1023,
+     "ok": true
+    },
+    "E2b1": {
+     "count": 2046,
+     "closed": 2046,
+     "ok": true
+    },
+    "E2b2": {
+     "count": 2046,
+     "closed": 2046,
+     "ok": true
+    },
+    "disjoint": true,
+    "union_eq_E1": true,
+    "union_eq_E2": true
+   },
+   {
+    "k": 12,
+    "E1b1": {
+     "count": 4095,
+     "closed": 4095,
+     "ok": true
+    },
+    "E1b2": {
+     "count": 2047,
+     "closed": 2047,
+     "ok": true
+    },
+    "E2b1": {
+     "count": 4094,
+     "closed": 4094,
+     "ok": true
+    },
+    "E2b2": {
+     "count": 4094,
+     "closed": 4094,
+     "ok": true
+    },
+    "disjoint": true,
+    "union_eq_E1": true,
+    "union_eq_E2": true
+   }
+  ],
+  "all_pass": true,
+  "failed": []
+ },
+ "P2": {
+  "删尾落L1计数": 4094,
+  "预测4094": true,
+  "落点集=第一支": true,
+  "承接对总数": 4094,
+  "预测4094对": true,
+  "第一支每词延伸集": [
+   "1",
+   "2"
+  ],
+  "第一支全恰2": true,
+  "第二支全0": true,
+  "B线零出场": true,
+  "pass": true
+ },
+ "P3": {
+  "sizes": {
+   "C": 4095,
+   "B": 2047,
+   "4C+1": 2047,
+   "4C+2": 2047,
+   "4Q+2": 2047,
+   "4Q+3": 2047
+  },
+  "disjoint": true,
+  "union_eq_E2": true,
+  "point_types": {
+   "4C+1": [
+    [
+     0
+    ],
+    [
+     1
+    ]
+   ],
+   "4C+2": [
+    [
+     1
+    ],
+    [
+     1
+    ]
+   ],
+   "4Q+2": [
+    [
+     0
+    ],
+    [
+     1
+    ]
+   ],
+   "4Q+3": [
+    [
+     1
+    ],
+    [
+     -1
+    ]
+   ]
+  },
+  "point_types_pred": {
+   "4C+1": [
+    [
+     0
+    ],
+    [
+     1
+    ]
+   ],
+   "4C+2": [
+    [
+     1
+    ],
+    [
+     1
+    ]
+   ],
+   "4Q+2": [
+    [
+     0
+    ],
+    [
+     1
+    ]
+   ],
+   "4Q+3": [
+    [
+     1
+    ],
+    [
+     -1
+    ]
+   ]
+  },
+  "pass": true
+ },
+ "P4": {
+  "L1_witness_matrix": {
+   "q0|qC": [
+    "",
+    0
+   ],
+   "q0|qB": [
+    "11",
+    2
+   ],
+   "q0|qB2": [
+    "",
+    0
+   ],
+   "q0|qD": [
+    "22",
+    2
+   ],
+   "qC|qB": [
+    "",
+    0
+   ],
+   "qC|qB2": [
+    "33",
+    2
+   ],
+   "qC|qD": [
+    "",
+    0
+   ],
+   "qB|qB2": [
+    "",
+    0
+   ],
+   "qB|qD": [
+    "11",
+    2
+   ],
+   "qB2|qD": [
+    "",
+    0
+   ]
+  },
+  "L2_witness_matrix": {
+   "q0|qC2": [
+    "11",
+    2
+   ],
+   "q0|qB": [
+    "22",
+    2
+   ],
+   "q0|qF": [
+    "",
+    0
+   ],
+   "q0|qD": [
+    "122",
+    3
+   ],
+   "qC2|qB": [
+    "11",
+    2
+   ],
+   "qC2|qF": [
+    "",
+    0
+   ],
+   "qC2|qD": [
+    "11",
+    2
+   ],
+   "qB|qF": [
+    "",
+    0
+   ],
+   "qB|qD": [
+    "22",
+    2
+   ],
+   "qF|qD": [
+    "",
+    0
+   ]
+  },
+  "L1_all_separated": true,
+  "L2_all_separated": true,
+  "dfa_matcher_mismatch_L1": 0,
+  "L2": 0,
+  "set_eq_L1_11": true,
+  "set_eq_L2_12": true,
+  "pass": true
+ },
+ "P5": {
+  "accepting_L1": 2,
+  "accepting_L2": 1,
+  "non_isomorphic": true,
+  "pass": true
+ },
+ "P6_total": {
+  "structure_pass(P0/P1/P3/P4)": true,
+  "predictions_pass(P2/P5)": true,
+  "total": true
+ }
+}

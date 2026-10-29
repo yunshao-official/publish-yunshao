@@ -1,0 +1,157 @@
+{
+ "meta": {
+  "script": "d9_e0_band-v1.0-20260925.py",
+  "frozen": "2026-09-25T09:03:39",
+  "part": "part2"
+ },
+ "DE0": {
+  "per_L": {
+   "1": {
+    "n": 3,
+    "E1_ok": true,
+    "E2_eq": true,
+    "mu0_eq": true,
+    "n_mu_ne0": 1,
+    "E3_ok": true
+   },
+   "2": {
+    "n": 7,
+    "E1_ok": true,
+    "E2_eq": true,
+    "mu0_eq": true,
+    "n_mu_ne0": 3,
+    "E3_ok": true
+   },
+   "3": {
+    "n": 15,
+    "E1_ok": true,
+    "E2_eq": true,
+    "mu0_eq": true,
+    "n_mu_ne0": 7,
+    "E3_ok": true
+   },
+   "4": {
+    "n": 31,
+    "E1_ok": true,
+    "E2_eq": true,
+    "mu0_eq": true,
+    "n_mu_ne0": 15,
+    "E3_ok": true
+   },
+   "5": {
+    "n": 63,
+    "E1_ok": true,
+    "E2_eq": true,
+    "mu0_eq": true,
+    "n_mu_ne0": 31,
+    "E3_ok": true
+   },
+   "6": {
+    "n": 127,
+    "E1_ok": true,
+    "E2_eq": true,
+    "mu0_eq": true,
+    "n_mu_ne0": 63,
+    "E3_ok": true
+   },
+   "7": {
+    "n": 255,
+    "E1_ok": true,
+    "E2_eq": true,
+    "mu0_eq": true,
+    "n_mu_ne0": 127,
+    "E3_ok": true
+   },
+   "8": {
+    "n": 511,
+    "E1_ok": true,
+    "E2_eq": true,
+    "mu0_eq": true,
+    "n_mu_ne0": 255,
+    "E3_ok": true
+   },
+   "9": {
+    "n": 1023,
+    "E1_ok": true,
+    "E2_eq": true,
+    "mu0_eq": true,
+    "n_mu_ne0": 511,
+    "E3_ok": true
+   },
+   "10": {
+    "n": 2047,
+    "E1_ok": true,
+    "E2_eq": true,
+    "mu0_eq": true,
+    "n_mu_ne0": 1023,
+    "E3_ok": true
+   },
+   "11": {
+    "n": 4095,
+    "E1_ok": true,
+    "E2_eq": true,
+    "mu0_eq": true,
+    "n_mu_ne0": 2047,
+    "E3_ok": true
+   },
+   "12": {
+    "n": 8191,
+    "E1_ok": true,
+    "E2_eq": true,
+    "mu0_eq": true,
+    "n_mu_ne0": 4095,
+    "E3_ok": true
+   }
+  },
+  "e1_bad": 0,
+  "e2_bad": 0,
+  "e3_bad": 0,
+  "rec_bad": 0
+ },
+ "unit": {
+  "D0_all": true,
+  "rev_ok": true,
+  "rep_cells": {
+   "10": 1,
+   "00": 5
+  },
+  "cells_ok": true,
+  "sigma_ok": true,
+  "sigma_reps": {
+   "j0": {
+    "expect": 12582911,
+    "img": 12582911,
+    "eq": true
+   },
+   "j1": {
+    "expect": 15728639,
+    "img": 15728639,
+    "eq": true
+   },
+   "j2": {
+    "expect": 16515071,
+    "img": 16515071,
+    "eq": true
+   },
+   "j3": {
+    "expect": 16711679,
+    "img": 16711679,
+    "eq": true
+   },
+   "j4": {
+    "expect": 16760831,
+    "img": 16760831,
+    "eq": true
+   },
+   "j5": {
+    "expect": 16773119,
+    "img": 16773119,
+    "eq": true
+   }
+  }
+ },
+ "log": [
+  "DE0 e1_bad=0 e2_bad=0 e3_bad=0 rec_bad=0 per_L={\"1\": {\"n\": 3, \"E1_ok\": true, \"E2_eq\": true, \"mu0_eq\": true, \"n_mu_ne0\": 1, \"E3_ok\": true}, \"2\": {\"n\": 7, \"E1_ok\": true, \"E2_eq\": true, \"mu0_eq\": true, \"n_mu_ne0\": 3, \"E3_ok\": true}, \"3\": {\"n\": 15, \"E1_ok\": true, \"E2_eq\": true, \"mu0_eq\": true, \"n_mu_ne0\": 7, \"E3_ok\": true}, \"4\": {\"n\": 31, \"E1_ok\": true, \"E2_eq\": true, \"mu0_eq\": true, \"n_mu_ne0\": 15, \"E3_ok\": true}, \"5\": {\"n\": 63, \"E1_ok\": true, \"E2_eq\": true, \"mu0_eq\": true, \"n_mu_ne0\": 31, \"E3_ok\": true}, \"6\": {\"n\": 127, \"E1_ok\": true, \"E2_eq\": true, \"mu0_eq\": true, \"n_mu_ne0\": 63, \"E3_ok\": true}, \"7\": {\"n\": 255, \"E1_ok\": true, \"E2_eq\": true, \"mu0_eq\": true, \"n_mu_ne0\": 127, \"E3_ok\": true}, \"8\": {\"n\": 511, \"E1_ok\": true, \"E2_eq\": true, \"mu0_eq\": true, \"n_mu_ne0\": 255, \"E3_ok\": true}, \"9\": {\"n\": 1023, \"E1_ok\": true, \"E2_eq\": true, \"mu0_eq\": true, \"n_mu_ne0\": 511, \"E3_ok\": true}, \"10\": {\"n\": 2047, \"E1_ok\": true, \"E2_eq\": true, \"mu0_eq\": true, \"n_mu_ne0\": 1023, \"E3_ok\": true}, \"11\": {\"n\": 4095, \"E1_ok\": true, \"E2_eq\": true, \"mu0_eq\": true, \"n_mu_ne0\": 2047, \"E3_ok\": true}, \"12\": {\"n\": 8191, \"E1_ok\": true, \"E2_eq\": true, \"mu0_eq\": true, \"n_mu_ne0\": 4095, \"E3_ok\": true}}",
+  "DE0unit D0_all=True rev_ok=True rep_cells={\"10\": 1, \"00\": 5} cells_ok=True sigma_ok=True reps={\"j0\": {\"expect\": 12582911, \"img\": 12582911, \"eq\": true}, \"j1\": {\"expect\": 15728639, \"img\": 15728639, \"eq\": true}, \"j2\": {\"expect\": 16515071, \"img\": 16515071, \"eq\": true}, \"j3\": {\"expect\": 16711679, \"img\": 16711679, \"eq\": true}, \"j4\": {\"expect\": 16760831, \"img\": 16760831, \"eq\": true}, \"j5\": {\"expect\": 16773119, \"img\": 16773119, \"eq\": true}}"
+ ]
+}

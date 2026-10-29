@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "script": "fourpoint_k5k7-v1.0-20260921.py",
+  "frozen_at": "2026-09-21 05:53:04",
+  "start": "07:09:39"
+ },
+ "Q0": {
+  "k3": {
+   "coeff_diff": 3.0738534093064672e-15,
+   "mp_diffs": [
+    5.345529420184391e-51,
+    3.589358593942872e-50,
+    9.354676485322685e-51
+   ]
+  },
+  "k3_anchor": {
+   "t_star": 2.356194490192345,
+   "family_dist": 0.0,
+   "peak_val": 0.666666666666667,
+   "val_err_vs_2_3": 3.3306690738754696e-16
+  },
+  "k5": {
+   "coeff_diff": 1.3408514400909546e-14,
+   "mp_diffs": [
+    3.779860102044577e-50,
+    2.1039821296461852e-49,
+    6.949188246239709e-50
+   ]
+  },
+  "k7": {
+   "coeff_diff": 1.1937035419547668e-13,
+   "mp_diffs": [
+    4.781186863702934e-50,
+    1.2577024131302671e-48,
+    2.4191104653085292e-49
+   ]
+  },
+  "pass": true
+ },
+ "Q1": {
+  "details": {
+   "k3_10|22": {
+    "half": 1.6623519785029561e-15,
+    "quarter": 2.055037374295966e-15,
+    "family_ok_quarter": true,
+    "n_local_ge50": 4
+   },
+   "k3_2|20": {
+    "half": 3.219646771412954e-15,
+    "quarter": 0.6666666666666652,
+    "family_ok_quarter": false,
+    "n_local_ge50": 2
+   },
+   "k5_10|22": {
+    "half": 1.1071879524235108e-15,
+    "quarter": 0.23093957504178975,
+    "family_ok_quarter": false,
+    "n_local_ge50": 4
+   },
+   "k5_2|20": {
+    "half": 2.888314587501384e-15,
+    "quarter": 0.2795698924731162,
+    "family_ok_quarter": false,
+    "n_local_ge50": 2
+   },
+   "k7_10|22": {
+    "half": 1.7564231731556995e-15,
+    "quarter": 0.11721611721611745,
+    "family_ok_quarter": false,
+    "n_local_ge50": 4
+   },
+   "k7_2|20": {
+    "half": 3.0641721798785326e-15,
+    "quarter": 0.10252299741956496,
+    "family_ok_quarter": false,
+    "n_local_ge50": 4
+   }
+  },
+  "half_pass": true,
+  "quarter_pass_by_key": {
+   "k3_10|22": true,
+   "k3_2|20": false,
+   "k5_10|22": false,
+   "k5_2|20": false,
+   "k7_10|22": false,
+   "k7_2|20": false
+  },
+  "quarter_pass_all": false
+ },
+ "Q3": {
+  "t_star_k5_2|20": 1.5707963267948966,
+  "dist_to_pi_over_2": 0.0,
+  "pass": true
+ },
+ "QD_offset": {
+  "8pi_over_5": 5.026548245743669,
+  "delta_k5": -3.923716646779435,
+  "delta_k7": -3.85456271173911,
+  "delta_k3": -2.670353755551324
+ },
+ "Q5_total": {
+  "structure_pass(Q0+Q1 half)": true,
+  "predictions(Q1 quarter / Q3)": {
+   "Q1_quarter_all": false,
+   "Q3": true
+  }
+ }
+}

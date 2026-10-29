@@ -1,0 +1,92 @@
+{
+ "meta": {
+  "script": "d6_band_tailN-v1.0-20260925.py",
+  "frozen": "2026-09-25T05:59:25",
+  "part": "merge"
+ },
+ "fullband": {
+  "n": 1458,
+  "max": 23,
+  "at": -1459,
+  "tri": "hit"
+ },
+ "wordmax": {
+  "v": 7936,
+  "at": -1458
+ },
+ "Rdist": {
+  "11": 1,
+  "17": 585,
+  "18": 401,
+  "19": 221,
+  "16": 76,
+  "20": 93,
+  "15": 28,
+  "21": 30,
+  "14": 10,
+  "22": 7,
+  "13": 4,
+  "12": 1,
+  "23": 1
+ },
+ "band_d6_stat": {
+  "n": 1458,
+  "all": {
+   "min": 11,
+   "max": 23,
+   "mean": 17.75
+  },
+  "inherit": {
+   "n": 486,
+   "max": 21,
+   "mean": 17.084
+  },
+  "noninherit": {
+   "n": 972,
+   "max": 23,
+   "mean": 18.083
+  }
+ },
+ "enum4": {
+  "-1459": {
+   "dfa_paths": 5890,
+   "n_words": 5890,
+   "eq": true
+  },
+  "-1403": {
+   "dfa_paths": 682,
+   "n_words": 682,
+   "eq": true
+  },
+  "-995": {
+   "dfa_paths": 62,
+   "n_words": 62,
+   "eq": true
+  },
+  "-1774": {
+   "dfa_paths": 868,
+   "n_words": 868,
+   "eq": true
+  }
+ },
+ "enum_bad": 0,
+ "max_law": {
+  "reach": 29,
+  "acc": 2,
+  "M_acc": 1,
+  "M_dead": 6,
+  "M_int": 0,
+  "R": 23,
+  "C2": 0,
+  "law_ok": true,
+  "prime": true
+ },
+ "log": [
+  "MERGE fullband n=1458 max=23@-1459 tri=hit",
+  "MERGE wordmax=7936@-1458 (record 8128@-162)",
+  "MERGE Rdist={\"11\": 1, \"17\": 585, \"18\": 401, \"19\": 221, \"16\": 76, \"20\": 93, \"15\": 28, \"21\": 30, \"14\": 10, \"22\": 7, \"13\": 4, \"12\": 1, \"23\": 1}",
+  "MERGE bands d6 {\"n\": 1458, \"all\": {\"min\": 11, \"max\": 23, \"mean\": 17.75}, \"inherit\": {\"n\": 486, \"max\": 21, \"mean\": 17.084}, \"noninherit\": {\"n\": 972, \"max\": 23, \"mean\": 18.083}}",
+  "MERGE enum4 bad=0 {\"-1459\": {\"dfa_paths\": 5890, \"n_words\": 5890, \"eq\": true}, \"-1403\": {\"dfa_paths\": 682, \"n_words\": 682, \"eq\": true}, \"-995\": {\"dfa_paths\": 62, \"n_words\": 62, \"eq\": true}, \"-1774\": {\"dfa_paths\": 868, \"n_words\": 868, \"eq\": true}}",
+  "MERGE maxlaw {\"reach\": 29, \"acc\": 2, \"M_acc\": 1, \"M_dead\": 6, \"M_int\": 0, \"R\": 23, \"C2\": 0, \"law_ok\": true, \"prime\": true}"
+ ]
+}

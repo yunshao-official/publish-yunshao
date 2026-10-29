@@ -1,0 +1,438 @@
+{
+ "meta": {
+  "script": "kummer_carry_12families-v1.0-20260919.py",
+  "date": "2026-09-19",
+  "criteria_frozen_at": "判据文档 §二 落盘先于实算首跑 2026-09-19 21:38:09 (NTFS 在档；初记 21:47 系未核钟估计已按诚实三律更正)",
+  "constants": "[constants:v1.0] 零数值引用（仅 N=64=2^6 指数账记号）"
+ },
+ "dual_check_kummer_vs_legendre_0_40": true,
+ "C5_regression_R13": {
+  "n64_mod4_dist": {
+   "0": 946,
+   "1": 407,
+   "2": 405,
+   "3": 322
+  },
+  "total_cells": 2080,
+  "kummer_mismatch": 0,
+  "protocol_note": "rows n=0..63 full rows (2080 cells); 首版脚本半三角镜像口径已修正"
+ },
+ "C0_depth": {
+  "m=1": {
+   "2^m_divides_24": true,
+   "numerically_consistent": true
+  },
+  "m=2": {
+   "2^m_divides_24": true,
+   "numerically_consistent": true
+  },
+  "m=3": {
+   "2^m_divides_24": true,
+   "numerically_consistent": true
+  },
+  "m=4": {
+   "2^m_divides_24": false,
+   "numerically_consistent": false,
+   "example_split": {
+    "family_r": 0,
+    "sigs": [
+     [
+      1,
+      1,
+      2,
+      4,
+      8
+     ],
+     [
+      2,
+      1,
+      3,
+      6,
+      4
+     ]
+    ]
+   }
+  },
+  "m=5": {
+   "2^m_divides_24": false,
+   "numerically_consistent": false,
+   "example_split": {
+    "family_r": 0,
+    "sigs": [
+     [
+      1,
+      1,
+      2,
+      4,
+      8,
+      16
+     ],
+     [
+      2,
+      1,
+      3,
+      6,
+      12,
+      8
+     ],
+     [
+      4,
+      2,
+      5,
+      11,
+      6,
+      4
+     ]
+    ]
+   }
+  },
+  "explicit_m4_split_family0": {
+   "N=24": [
+    2,
+    1,
+    3,
+    6,
+    4
+   ],
+   "N=48": [
+    1,
+    1,
+    2,
+    4,
+    8
+   ],
+   "split": true
+  }
+ },
+ "C1_docking_mod8": {
+  "S3_signatures": {
+   "0": [
+    1,
+    1,
+    2,
+    4
+   ],
+   "2": [
+    2,
+    3,
+    1,
+    2
+   ],
+   "4": [
+    2,
+    1,
+    3,
+    2
+   ],
+   "6": [
+    4,
+    2,
+    1,
+    1
+   ],
+   "8": [
+    1,
+    1,
+    2,
+    4
+   ],
+   "10": [
+    2,
+    3,
+    1,
+    2
+   ],
+   "12": [
+    2,
+    1,
+    3,
+    2
+   ],
+   "14": [
+    4,
+    2,
+    1,
+    1
+   ],
+   "16": [
+    1,
+    1,
+    2,
+    4
+   ],
+   "18": [
+    2,
+    3,
+    1,
+    2
+   ],
+   "20": [
+    2,
+    1,
+    3,
+    2
+   ],
+   "22": [
+    4,
+    2,
+    1,
+    1
+   ]
+  },
+  "n_classes": 4,
+  "classes_by_signature": {
+   "0": [
+    0,
+    8,
+    16
+   ],
+   "1": [
+    4,
+    12,
+    20
+   ],
+   "2": [
+    2,
+    10,
+    18
+   ],
+   "3": [
+    6,
+    14,
+    22
+   ]
+  },
+  "equals_mod8_axis": true,
+  "distinct_signature_count": 4,
+  "PASS": true
+ },
+ "C234_singular_joint": {
+  "X": 2000,
+  "family_means_medians": {
+   "0": {
+    "mean": 4.6387,
+    "median": 4.285714285714286,
+    "n_samples": 83
+   },
+   "2": {
+    "mean": 2.2511,
+    "median": 2.142857142857143,
+    "n_samples": 84
+   },
+   "4": {
+    "mean": 2.3257,
+    "median": 2.027027027027027,
+    "n_samples": 84
+   },
+   "6": {
+    "mean": 4.4188,
+    "median": 4.071428571428571,
+    "n_samples": 84
+   },
+   "8": {
+    "mean": 2.2919,
+    "median": 2.066666666666667,
+    "n_samples": 84
+   },
+   "10": {
+    "mean": 2.2417,
+    "median": 2.0357142857142856,
+    "n_samples": 83
+   },
+   "12": {
+    "mean": 4.6417,
+    "median": 4.0606060606060606,
+    "n_samples": 83
+   },
+   "14": {
+    "mean": 2.2388,
+    "median": 2.033333333333333,
+    "n_samples": 83
+   },
+   "16": {
+    "mean": 2.2849,
+    "median": 2.0232558139534884,
+    "n_samples": 83
+   },
+   "18": {
+    "mean": 4.4174,
+    "median": 4.066666666666666,
+    "n_samples": 83
+   },
+   "20": {
+    "mean": 2.2584,
+    "median": 2.010752688172043,
+    "n_samples": 83
+   },
+   "22": {
+    "mean": 2.2464,
+    "median": 2.1,
+    "n_samples": 83
+   }
+  },
+  "C2": {
+   "group_mean_3div": 4.5292,
+   "group_mean_3notdiv": 2.2674,
+   "ratio": 1.9975,
+   "in_tol_1.9_2.1": true,
+   "within_mod8": [
+    {
+     "mod8": 0,
+     "family_3div": 0,
+     "E3": 4.6387,
+     "others": [
+      8,
+      16
+     ],
+     "E_others": 2.2884,
+     "ratio": 2.027,
+     "in_tol": true
+    },
+    {
+     "mod8": 2,
+     "family_3div": 18,
+     "E3": 4.4174,
+     "others": [
+      2,
+      10
+     ],
+     "E_others": 2.2464,
+     "ratio": 1.9664,
+     "in_tol": true
+    },
+    {
+     "mod8": 4,
+     "family_3div": 12,
+     "E3": 4.6417,
+     "others": [
+      4,
+      20
+     ],
+     "E_others": 2.2921,
+     "ratio": 2.0251,
+     "in_tol": true
+    },
+    {
+     "mod8": 6,
+     "family_3div": 6,
+     "E3": 4.4188,
+     "others": [
+      14,
+      22
+     ],
+     "E_others": 2.2426,
+     "ratio": 1.9704,
+     "in_tol": true
+    }
+   ],
+   "PASS": true
+  },
+  "C3": {
+   "n_joint_classes": 8,
+   "classes": {
+    "cls0": [
+     0
+    ],
+    "cls1": [
+     2,
+     10
+    ],
+    "cls2": [
+     4,
+     20
+    ],
+    "cls3": [
+     6
+    ],
+    "cls4": [
+     8,
+     16
+    ],
+    "cls5": [
+     12
+    ],
+    "cls6": [
+     14,
+     22
+    ],
+    "cls7": [
+     18
+    ]
+   },
+   "expected_singletons": [
+    0,
+    6,
+    12,
+    18
+   ],
+   "PASS": true
+  },
+  "C4": {
+   "rows": [
+    {
+     "pair": [
+      8,
+      16
+     ],
+     "same_S3": true,
+     "median_S2": [
+      2.066666666666667,
+      2.0232558139534884
+     ],
+     "indistinguishable_at_family_level": false
+    },
+    {
+     "pair": [
+      2,
+      10
+     ],
+     "same_S3": true,
+     "median_S2": [
+      2.142857142857143,
+      2.0357142857142856
+     ],
+     "indistinguishable_at_family_level": false
+    },
+    {
+     "pair": [
+      4,
+      20
+     ],
+     "same_S3": true,
+     "median_S2": [
+      2.027027027027027,
+      2.010752688172043
+     ],
+     "indistinguishable_at_family_level": false
+    },
+    {
+     "pair": [
+      14,
+      22
+     ],
+     "same_S3": true,
+     "median_S2": [
+      2.033333333333333,
+      2.1
+     ],
+     "indistinguishable_at_family_level": false
+    }
+   ],
+   "family_level_resolution": "8/12",
+   "PASS": false
+  }
+ },
+ "exploratory": {
+  "n_even_leq": 300,
+  "pearson_r_W_logS2": 0.0335,
+  "partial_r_given_ln_n": 0.0005
+ },
+ "verdict": {
+  "C0": true,
+  "C1": true,
+  "C2": true,
+  "C3": true,
+  "C4": false,
+  "C5": true
+ }
+}

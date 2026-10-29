@@ -1,0 +1,154 @@
+{
+ "meta": {
+  "script_start": "2026-09-21 03:40:18",
+  "freeze": "判据书冻结 NTFS 2026-09-21 03:07:04"
+ },
+ "P0": {
+  "mismatches": 0,
+  "set_equal": true,
+  "pass": true
+ },
+ "P1": {
+  "set_equal": true,
+  "nL": 6142,
+  "nE": 6142,
+  "counts_ok": true,
+  "e_counts": [
+   1,
+   4,
+   10,
+   22,
+   46,
+   94,
+   190,
+   382,
+   766,
+   1534,
+   3070,
+   6142
+  ],
+  "c_counts": [
+   1,
+   3,
+   7,
+   15,
+   31,
+   63,
+   127,
+   255,
+   511,
+   1023,
+   2047,
+   4095
+  ],
+  "b_counts": [
+   0,
+   1,
+   3,
+   7,
+   15,
+   31,
+   63,
+   127,
+   255,
+   511,
+   1023,
+   2047
+  ],
+  "pass": true
+ },
+ "P2": {
+  "mod3_violations": 0,
+  "C_count": 4095,
+  "B_count": 2047,
+  "S1_selfref_count": 0,
+  "pass": true
+ },
+ "P3": {
+  "dfa5_sim_mismatch_3e6": 0,
+  "nerode_eps_classes": {
+   "s5_p6": 5,
+   "s5_p7": 5,
+   "s6_p6": 5
+  },
+  "witness_all_found": true,
+  "witness": [
+   [
+    "q0",
+    "qC",
+    "ε"
+   ],
+   [
+    "q0",
+    "qB",
+    "1"
+   ],
+   [
+    "q0",
+    "qB2",
+    "ε"
+   ],
+   [
+    "q0",
+    "qD",
+    "2"
+   ],
+   [
+    "qC",
+    "qB",
+    "ε"
+   ],
+   [
+    "qC",
+    "qB2",
+    "3"
+   ],
+   [
+    "qC",
+    "qD",
+    "ε"
+   ],
+   [
+    "qB",
+    "qB2",
+    "ε"
+   ],
+   [
+    "qB",
+    "qD",
+    "1"
+   ],
+   [
+    "qB2",
+    "qD",
+    "ε"
+   ]
+  ],
+  "pass": true
+ },
+ "P4": {
+  "BC_vs_dead_signature_equal_suffix6": true,
+  "classes_nonoeps": {
+   "s5_p6": 4,
+   "s6_p6": 4
+  },
+  "closure_states_l5": 4,
+  "mismatch_count_1e6": 448,
+  "LB_count_1e6": 448,
+  "mismatch_set_equals_LB": true,
+  "pass": true
+ },
+ "verdict": {
+  "structure_pass": true,
+  "final": "E₋₁ 完全定理化成立【复算一致】: J-A 自引用空置 + J-B τ二型分解 + J-C 显式语言刻画 {0,3}*2{3}* ∪ {0,3}*10*1 + J-D 计数闭式 3·2^{k-1}-2 任意k + J-E 最小DFA恰5态 + J-E.1 伪合并定理"
+ },
+ "log": [
+  "P0: 递推 vs 直接定义 Y<=2000 失配 0, E_m1 集合全等 True -> True",
+  "P1: 语言刻画集全等 True (6142 vs 6142); 计数闭式 k=1..12 零容差 True -> True",
+  "P2: mod3!=2 违反 0; C=4095(2^12-1), B=2047(2^11-1); S1 自引用计数 0 -> True",
+  "P3: 5态DFA模拟 Y<=3e6 失配 0; ε-增广 Nerode 5/5/5; 见证 True -> True",
+  "P4: B成vs死签名全同(定宽6位) True; 无ε类数 4/4; 闭包 4 态失配 448 vs L_B 448 集合相等 True -> True",
+  "P5 总裁决: E₋₁ 完全定理化成立【复算一致】: J-A 自引用空置 + J-B τ二型分解 + J-C 显式语言刻画 {0,3}*2{3}* ∪ {0,3}*10*1 + J-D 计数闭式 3·2^{k-1}-2 任意k + J-E 最小DFA恰5态 + J-E.1 伪合并定理"
+ ],
+ "elapsed_sec": 14.8
+}

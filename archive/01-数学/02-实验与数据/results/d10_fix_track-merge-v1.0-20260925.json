@@ -1,0 +1,113 @@
+{
+ "meta": {
+  "script": "d10_fix_track-v1.0-20260925.py",
+  "frozen": "2026-09-25T09:48:34",
+  "part": "merge"
+ },
+ "fullband": {
+  "n": 118098,
+  "max": 35,
+  "at": -118099,
+  "tri": "hit"
+ },
+ "wordmax": {
+  "v": 4096,
+  "at": -118098,
+  "chain7": {
+   "at_pred": -118098,
+   "at_actual": -118098,
+   "at_hit": true,
+   "v_pred": 4096,
+   "v_actual": 4096,
+   "v_hit": true,
+   "record_8128": false,
+   "prev_d9_6144": false
+  },
+  "adjacent": true
+ },
+ "Rdist": {
+  "15": 1,
+  "25": 29295,
+  "26": 31282,
+  "27": 24228,
+  "24": 4240,
+  "28": 14737,
+  "23": 1552,
+  "29": 7357,
+  "22": 568,
+  "30": 3064,
+  "21": 208,
+  "31": 1064,
+  "20": 76,
+  "32": 303,
+  "19": 28,
+  "33": 68,
+  "18": 10,
+  "34": 11,
+  "17": 4,
+  "16": 1,
+  "35": 1
+ },
+ "band_d10_stat": {
+  "n": 118098,
+  "all": {
+   "min": 15,
+   "max": 35,
+   "mean": 26.417
+  },
+  "inherit": {
+   "n": 39366,
+   "max": 33,
+   "mean": 25.75
+  },
+  "noninherit": {
+   "n": 78732,
+   "max": 35,
+   "mean": 26.75
+  }
+ },
+ "max_law": {
+  "reach": 45,
+  "acc": 2,
+  "M_acc": 1,
+  "M_dead": 10,
+  "M_int": 0,
+  "R": 35,
+  "C2": 0,
+  "law_ok": true,
+  "div3": false,
+  "reach_is_band_max": true,
+  "reach_band_max_at": -118099
+ },
+ "enum4": {
+  "-118099": {
+   "dfa_paths": 3070,
+   "n_words": 3070,
+   "eq": true
+  },
+  "-102226": {
+   "dfa_paths": 84,
+   "n_words": 84,
+   "eq": true
+  },
+  "-76082": {
+   "dfa_paths": 36,
+   "n_words": 36,
+   "eq": true
+  },
+  "-159722": {
+   "dfa_paths": 36,
+   "n_words": 36,
+   "eq": true
+  }
+ },
+ "enum_bad": 0,
+ "log": [
+  "MERGE fullband n=118098 max=35@-118099 tri=hit",
+  "MERGE wordmax=4096@-118098 chain7={\"at_pred\": -118098, \"at_actual\": -118098, \"at_hit\": true, \"v_pred\": 4096, \"v_actual\": 4096, \"v_hit\": true, \"record_8128\": false, \"prev_d9_6144\": false} (record 8128@-162 d9 6144@-39366) adjacent=True (Rmax@-118099)",
+  "MERGE Rdist={\"15\": 1, \"25\": 29295, \"26\": 31282, \"27\": 24228, \"24\": 4240, \"28\": 14737, \"23\": 1552, \"29\": 7357, \"22\": 568, \"30\": 3064, \"21\": 208, \"31\": 1064, \"20\": 76, \"32\": 303, \"19\": 28, \"33\": 68, \"18\": 10, \"34\": 11, \"17\": 4, \"16\": 1, \"35\": 1}",
+  "MERGE bands d10 {\"n\": 118098, \"all\": {\"min\": 15, \"max\": 35, \"mean\": 26.417}, \"inherit\": {\"n\": 39366, \"max\": 33, \"mean\": 25.75}, \"noninherit\": {\"n\": 78732, \"max\": 35, \"mean\": 26.75}}",
+  "MERGE maxlaw {\"reach\": 45, \"acc\": 2, \"M_acc\": 1, \"M_dead\": 10, \"M_int\": 0, \"R\": 35, \"C2\": 0, \"law_ok\": true, \"div3\": false, \"reach_is_band_max\": true, \"reach_band_max_at\": -118099}",
+  "MERGE enum4 bad=0 {\"-118099\": {\"dfa_paths\": 3070, \"n_words\": 3070, \"eq\": true}, \"-102226\": {\"dfa_paths\": 84, \"n_words\": 84, \"eq\": true}, \"-76082\": {\"dfa_paths\": 36, \"n_words\": 36, \"eq\": true}, \"-159722\": {\"dfa_paths\": 36, \"n_words\": 36, \"eq\": true}}"
+ ]
+}

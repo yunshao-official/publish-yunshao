@@ -1,0 +1,1147 @@
+{
+ "A0": {
+  "mismatch_2000": 0,
+  "basis_ok": true
+ },
+ "regression": {
+  "inherit_spot": true,
+  "spectrum_bad": []
+ },
+ "entries": {
+  "c(0)": {
+   "min_dfa": 3,
+   "reach": 2,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    0
+   ],
+   "M_acc_f": 0,
+   "M_acc_act": 0,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 3,
+   "eq_R": true,
+   "acc_single_class": null,
+   "n_acc_classes": 2,
+   "state_match_archive": true
+  },
+  "c(-1)": {
+   "min_dfa": 5,
+   "reach": 4,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -1,
+    0
+   ],
+   "M_acc_f": 0,
+   "M_acc_act": 0,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 5,
+   "eq_R": true,
+   "acc_single_class": null,
+   "n_acc_classes": 2,
+   "state_match_archive": true
+  },
+  "c(-2)": {
+   "min_dfa": 5,
+   "reach": 6,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 5,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-3)": {
+   "min_dfa": 6,
+   "reach": 6,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -3,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 6,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-4)": {
+   "min_dfa": 7,
+   "reach": 8,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -4,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 7,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-5)": {
+   "min_dfa": 7,
+   "reach": 7,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -5,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 7,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-6)": {
+   "min_dfa": 7,
+   "reach": 9,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -6,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 1,
+   "int_pairs": [
+    [
+     "(-2, -1, 1)",
+     "(-2, 1, 1)"
+    ]
+   ],
+   "M_int_classes": [
+    [
+     "(-2, -1, 1)",
+     "(-2, 1, 1)"
+    ]
+   ],
+   "R_f": 7,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-7)": {
+   "min_dfa": 8,
+   "reach": 9,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -7,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-1, 1, 2)"
+   ],
+   "dead_act": [
+    "(-1, 1, 2)"
+   ],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 8,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-8)": {
+   "min_dfa": 7,
+   "reach": 9,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -8,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-1, 1, 2)"
+   ],
+   "dead_act": [
+    "(-1, 1, 2)"
+   ],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 7,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-9)": {
+   "min_dfa": 7,
+   "reach": 8,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -9,
+    -3,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 1,
+   "int_pairs": [
+    [
+     "(-3, -1, 2)",
+     "(-3, 1, 2)"
+    ]
+   ],
+   "M_int_classes": [
+    [
+     "(-3, -1, 2)",
+     "(-3, 1, 2)"
+    ]
+   ],
+   "R_f": 7,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-10)": {
+   "min_dfa": 9,
+   "reach": 10,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -10,
+    -4,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 9,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-11)": {
+   "min_dfa": 10,
+   "reach": 10,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -11,
+    -4,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 10,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-12)": {
+   "min_dfa": 9,
+   "reach": 11,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -12,
+    -4,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 1,
+   "int_pairs": [
+    [
+     "(-4, -1, 1)",
+     "(-4, 1, 1)"
+    ]
+   ],
+   "M_int_classes": [
+    [
+     "(-4, -1, 1)",
+     "(-4, 1, 1)"
+    ]
+   ],
+   "R_f": 9,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-13)": {
+   "min_dfa": 9,
+   "reach": 9,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -13,
+    -5,
+    -4,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 9,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-14)": {
+   "min_dfa": 9,
+   "reach": 10,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -14,
+    -5,
+    -4,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 9,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-15)": {
+   "min_dfa": 8,
+   "reach": 9,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -15,
+    -5,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 1,
+   "int_pairs": [
+    [
+     "(-5, -1, 2)",
+     "(-5, 1, 2)"
+    ]
+   ],
+   "M_int_classes": [
+    [
+     "(-5, -1, 2)",
+     "(-5, 1, 2)"
+    ]
+   ],
+   "R_f": 8,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-16)": {
+   "min_dfa": 9,
+   "reach": 12,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -16,
+    -6,
+    -5,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-2, -1, 1)",
+    "(-2, 1, 0)"
+   ],
+   "dead_act": [
+    "(-2, -1, 1)",
+    "(-2, 1, 0)"
+   ],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 9,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-17)": {
+   "min_dfa": 9,
+   "reach": 11,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -17,
+    -6,
+    -5,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-2, -1, 1)",
+    "(-2, 1, 0)"
+   ],
+   "dead_act": [
+    "(-2, -1, 1)",
+    "(-2, 1, 0)"
+   ],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 9,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-18)": {
+   "min_dfa": 9,
+   "reach": 12,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -18,
+    -6,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 2,
+   "int_pairs": [
+    [
+     "(-6, -1, 1)",
+     "(-6, 1, 1)"
+    ],
+    [
+     "(-2, -1, 1)",
+     "(-2, 1, 1)"
+    ]
+   ],
+   "M_int_classes": [
+    [
+     "(-6, -1, 1)",
+     "(-6, 1, 1)"
+    ],
+    [
+     "(-2, -1, 1)",
+     "(-2, 1, 1)"
+    ]
+   ],
+   "R_f": 9,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-19)": {
+   "min_dfa": 11,
+   "reach": 13,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -19,
+    -7,
+    -6,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-1, 1, 2)",
+    "(-2, 1, 1)"
+   ],
+   "dead_act": [
+    "(-1, 1, 2)",
+    "(-2, 1, 1)"
+   ],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 11,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-20)": {
+   "min_dfa": 10,
+   "reach": 13,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -20,
+    -7,
+    -6,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-1, 1, 2)",
+    "(-2, 1, 1)"
+   ],
+   "dead_act": [
+    "(-1, 1, 2)",
+    "(-2, 1, 1)"
+   ],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 10,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-21)": {
+   "min_dfa": 9,
+   "reach": 11,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -21,
+    -7,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-1, 1, 2)"
+   ],
+   "dead_act": [
+    "(-1, 1, 2)"
+   ],
+   "eq_dead": true,
+   "M_int": 1,
+   "int_pairs": [
+    [
+     "(-7, -1, 2)",
+     "(-7, 1, 2)"
+    ]
+   ],
+   "M_int_classes": [
+    [
+     "(-7, -1, 2)",
+     "(-7, 1, 2)"
+    ]
+   ],
+   "R_f": 9,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-22)": {
+   "min_dfa": 9,
+   "reach": 12,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -22,
+    -8,
+    -7,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-1, 1, 2)",
+    "(-2, 1, 0)"
+   ],
+   "dead_act": [
+    "(-1, 1, 2)",
+    "(-2, 1, 0)"
+   ],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 9,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-23)": {
+   "min_dfa": 9,
+   "reach": 11,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -23,
+    -8,
+    -7,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-1, 1, 2)",
+    "(-2, 1, 0)"
+   ],
+   "dead_act": [
+    "(-1, 1, 2)",
+    "(-2, 1, 0)"
+   ],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 9,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-24)": {
+   "min_dfa": 9,
+   "reach": 12,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -24,
+    -8,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-1, 1, 2)"
+   ],
+   "dead_act": [
+    "(-1, 1, 2)"
+   ],
+   "eq_dead": true,
+   "M_int": 1,
+   "int_pairs": [
+    [
+     "(-8, -1, 1)",
+     "(-8, 1, 1)"
+    ]
+   ],
+   "M_int_classes": [
+    [
+     "(-8, -1, 1)",
+     "(-8, 1, 1)"
+    ]
+   ],
+   "R_f": 9,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-25)": {
+   "min_dfa": 10,
+   "reach": 12,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -25,
+    -9,
+    -8,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-3, 1, 2)"
+   ],
+   "dead_act": [
+    "(-1, 1, 2)",
+    "(-3, 1, 2)"
+   ],
+   "eq_dead": false,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 11,
+   "eq_R": false,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-26)": {
+   "min_dfa": 9,
+   "reach": 12,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -26,
+    -9,
+    -8,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-3, 1, 2)"
+   ],
+   "dead_act": [
+    "(-1, 1, 2)",
+    "(-3, 1, 2)"
+   ],
+   "eq_dead": false,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 10,
+   "eq_R": false,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-27)": {
+   "min_dfa": 8,
+   "reach": 10,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -27,
+    -9,
+    -3,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 2,
+   "int_pairs": [
+    [
+     "(-9, -1, 2)",
+     "(-9, 1, 2)"
+    ],
+    [
+     "(-3, -1, 2)",
+     "(-3, 1, 2)"
+    ]
+   ],
+   "M_int_classes": [
+    [
+     "(-9, -1, 2)",
+     "(-9, 1, 2)"
+    ],
+    [
+     "(-3, -1, 2)",
+     "(-3, 1, 2)"
+    ]
+   ],
+   "R_f": 8,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-28)": {
+   "min_dfa": 11,
+   "reach": 13,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -28,
+    -10,
+    -9,
+    -4,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-3, -1, 2)"
+   ],
+   "dead_act": [
+    "(-3, -1, 2)"
+   ],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 11,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-29)": {
+   "min_dfa": 12,
+   "reach": 13,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -29,
+    -10,
+    -9,
+    -4,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-3, -1, 2)"
+   ],
+   "dead_act": [
+    "(-3, -1, 2)"
+   ],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 12,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-30)": {
+   "min_dfa": 11,
+   "reach": 13,
+   "acc": 3,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -30,
+    -10,
+    -4,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 2,
+   "M_acc_act": 2,
+   "eq_acc": true,
+   "dead_pred": [],
+   "dead_act": [],
+   "eq_dead": true,
+   "M_int": 1,
+   "int_pairs": [
+    [
+     "(-10, -1, 1)",
+     "(-10, 1, 1)"
+    ]
+   ],
+   "M_int_classes": [
+    [
+     "(-10, -1, 1)",
+     "(-10, 1, 1)"
+    ]
+   ],
+   "R_f": 11,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  },
+  "c(-31)": {
+   "min_dfa": 11,
+   "reach": 12,
+   "acc": 2,
+   "moore_eq_nerode": true,
+   "lang_eq_D": true,
+   "layer_spectrum_eq": true,
+   "dvals": [
+    -31,
+    -11,
+    -10,
+    -4,
+    -3,
+    -2,
+    -1,
+    0
+   ],
+   "M_acc_f": 1,
+   "M_acc_act": 1,
+   "eq_acc": true,
+   "dead_pred": [
+    "(-4, -1, 0)"
+   ],
+   "dead_act": [
+    "(-4, -1, 0)"
+   ],
+   "eq_dead": true,
+   "M_int": 0,
+   "int_pairs": [],
+   "M_int_classes": [],
+   "R_f": 11,
+   "eq_R": true,
+   "acc_single_class": true,
+   "n_acc_classes": 1,
+   "state_match_archive": true
+  }
+ },
+ "P_pred": {},
+ "notes": {
+  "verdict_parts": {
+   "decomp_all": false,
+   "layer_all": true,
+   "acc_single_all": true,
+   "E1_two_acc_classes": true,
+   "lang_all": true,
+   "moore_nerode_all": true
+  }
+ }
+}
