@@ -1,0 +1,76 @@
+{
+ "S1_功耗账": {
+  "full_ionization_1mm3_J": 0.0801,
+  "visible_glow_floor_uJ": 0.08009999999999999,
+  "practice_per_pulse_mJ": 1.0,
+  "floor_vs_practice_gap": 12484.394506866418,
+  "n_units_total": 2500000,
+  "n_units_per_cm2": 100,
+  "power_budget_W": 5000.0,
+  "power_per_unit_avg_mW": 2.0,
+  "voxels_continuously_lit_at_5kW_30Hz": 166666.6666666667,
+  "duty_of_array_percent": 6.666666666666668,
+  "voxel_pulses_per_s_at_5kW": 5000000.0,
+  "fps_if_4K_frame": 0.6028163580246914,
+  "fps_if_480p_frame": 16.276041666666668,
+  "note": "地板(μJ)与光学路线实耗(mJ)差10³倍；5kW 下：16.7万体素@30Hz(阵列6.7%占空)，4K帧=0.6fps 或 480P=16fps——'4K级立体全息'与5kW预算不相容"
+ },
+ "S2_分辨率账": {
+  "rows": [
+   {
+    "view_distance_m": 2,
+    "pitch_angle_arcmin": 1.7188732421530424,
+    "better_than_eye_1arcmin": 0.0
+   },
+   {
+    "view_distance_m": 5,
+    "pitch_angle_arcmin": 0.6875493449896634,
+    "better_than_eye_1arcmin": 1.0
+   },
+   {
+    "view_distance_m": 10,
+    "pitch_angle_arcmin": 0.3437746759325783,
+    "better_than_eye_1arcmin": 1.0
+   },
+   {
+    "view_distance_m": 50,
+    "pitch_angle_arcmin": 0.06875493540653146,
+    "better_than_eye_1arcmin": 1.0
+   },
+   {
+    "view_distance_m": 100,
+    "pitch_angle_arcmin": 0.03437746770670348,
+    "better_than_eye_1arcmin": 1.0
+   }
+  ],
+  "note": "100个/cm²=1mm 间距，≥5m 观距角分辨率 0.4 角分 < 人眼 1 角分——'4K级'的分辨率口径本身不荒谬（复算一致），荒谬的是体素的生成方式与功耗"
+ },
+ "S3_安全账": {
+  "ozone_g_per_hour": 50.0,
+  "ozone_limit_mg_m3": 0.1,
+  "seconds_to_exceed_limit_in_2m3_breath_zone": 0.014400000000000001,
+  "uv_emission": "N₂ 第二正带 337nm 紫外（开放空气放电主发射）——贴身眼部/皮肤暴露",
+  "emi": "250万微放电=宽带射频噪声源，与同衣 256 通道脑机电极自相干扰",
+  "audible": "DBD 交流嘶鸣（贴耳级噪声源）",
+  "note": "贴身空气放电在臭氧/紫外/EMI/噪声四项全部超标——安全账不过"
+ },
+ "S4_立体账": {
+  "fabric_2d_array": "发射单元在织物表面，电离发生在发射极附近 mm 级——本质是**曲面2D显示屏**，不是空气中的立体影像",
+  "remote_focus_route": "若要真空中远场体素（Fairy Lights 架构），需要激光束聚焦到空气中——单台 fs 激光器（100-300W 级）只能画 150-200 个同时可见体素@5kW（30Hz 持留），手心大小的发光形状，不是金龙",
+  "2_5M_micro_lasers": "100个/cm² 的微飞秒激光器组件不存在（fs 光纤激光器为 cm 级、万元级单价）",
+  "real_stage_route": "舞台级'金龙法阵'现实做法=全息纱(Pepper's ghost)+投影+POV风扇，5kW 够用，但需要纱幕/雾幕介质，室内或夜间"
+ },
+ "S5_亮度账": {
+  "plasma_voxel_luminance_cd_m2": "1-100（室内可见、日光下不可见，公开演示口径）",
+  "ambient_daylight_cd_m2": "5000-10000（晴空）",
+  "pdp_reference": "密封微放电+荧光粉可达电视亮度（150 μW/单元）——但那是密封 Neon-Xe 单元，不是'电离周围空气'",
+  "verdict": "室外白天演示（段143 天安门广场彩排口径）差 2-3 个量级；夜间/室内可行"
+ },
+ "S6_真实映射": {
+  "披风幕布/织物显示": "LED/电致发光织物=真实（法衣仿真II 已给 3.5W/13.9h 结论，第41件）✓",
+  "真空中体素": "飞秒激光等离子体体素=真实研究线（室内、微光、小体积）",
+  "舞台大影像": "全息纱+雾幕+POV=成熟舞台工业，5kW 够，需介质、室内或夜间",
+  "原文章配": "'电离空气+4K立体+5kW+贴身'四件套不相容；任取三件舍一件均有真实方案"
+ },
+ "honest_note": "真实物理账本口径：公开研究/商业数据（Fairy Lights 类、PDP、DBD、舞台全息）；数量级账为主；数学实验口径不构成物理结论。"
+}

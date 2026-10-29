@@ -1,0 +1,263 @@
+{
+ "一_公式a历史值复算": {
+  "note": "公式a=350/√(Λ+0.01) 已判负（P0-1：不可证伪+11/11出域）；本表仅证历史数值确由公式a算出，不恢复其效力。",
+  "rows": [
+   {
+    "item": "ys_9d 9维材料（N=3, D=9）",
+    "lambda": "Λ=α=1/6",
+    "formula_a_recalc_K": 832.7042,
+    "old_value": "832.7 K",
+    "match": "一致",
+    "status": "公式a已判负·历史值复算一致"
+   },
+   {
+    "item": "完全体8维（N=8, D=24 口径）",
+    "lambda": "Λ=α=1/8",
+    "formula_a_recalc_K": 952.5793,
+    "old_value": "952.6/952.7/953 K（三种舍入变体并存）",
+    "match": "一致",
+    "status": "公式a已判负·历史值复算一致"
+   },
+   {
+    "item": "因果维（N=2, D=6）",
+    "lambda": "Λ=α=1/2",
+    "formula_a_recalc_K": 490.098,
+    "old_value": "490 K",
+    "match": "一致",
+    "status": "公式a已判负·历史值复算一致"
+   },
+   {
+    "item": "统一维度表 D=3",
+    "lambda": "Λ=α=1",
+    "formula_a_recalc_K": 348.263,
+    "old_value": "348.26 K（ys_dim_unified_table.json 348.263）",
+    "match": "一致",
+    "status": "公式a已判负·历史值复算一致"
+   },
+   {
+    "item": "统一维度表 D=12",
+    "lambda": "Λ=α=1/4",
+    "formula_a_recalc_K": 686.4065,
+    "old_value": "686.41 K（ys_dim_unified_table.json 686.406）",
+    "match": "一致",
+    "status": "公式a已判负·历史值复算一致"
+   },
+   {
+    "item": "R23 反推",
+    "lambda": "Λ=8e-4",
+    "formula_a_recalc_K": 3367.8766,
+    "old_value": "3368 K（知世原话登记值的公式a反推备查）",
+    "match": "一致",
+    "status": "公式a已判负·历史值复算一致"
+   },
+   {
+    "item": "473K 判定线反推",
+    "lambda": "Λ=0.538",
+    "formula_a_recalc_K": 472.8003,
+    "old_value": "473 K → 需 Λ=0.538",
+    "match": "一致",
+    "status": "公式a已判负·历史值复算一致"
+   },
+   {
+    "item": "600K 目标反推",
+    "lambda": "Λ=0.330",
+    "formula_a_recalc_K": 600.245,
+    "old_value": "600 K → 需 Λ=0.330",
+    "match": "一致",
+    "status": "公式a已判负·历史值复算一致"
+   },
+   {
+    "item": "判停线（修法①已记作废）",
+    "lambda": "Λ=7/8",
+    "formula_a_recalc_K": 372.0458,
+    "old_value": "372 K（+0.01 口径）；374.2 K（0729 旧式无+0.01）",
+    "match": "一致",
+    "status": "公式a已判负·历史值复算一致"
+   },
+   {
+    "item": "有序相窗口下沿",
+    "lambda": "Λ=1",
+    "formula_a_recalc_K": 348.263,
+    "old_value": "350 K（系数 350 系 θ_D 经验值缺口）",
+    "match": "一致",
+    "status": "公式a已判负·历史值复算一致"
+   }
+  ]
+ },
+ "二1_0729原生自检": {
+  "formula": "Tc=Θ_D×15/16（f_defect=1），15/16=1−α/2，α=1/8（层1 α_w 口径）",
+  "theta_D_960_check": {
+   "calc": 900.0,
+   "claim": 900.0,
+   "verdict": "复算一致（960×15/16=900.0）"
+  },
+  "vs_back_derivation_mps": 4688.2,
+  "vs_claim_mps": 4688.0,
+  "nu_D_THz": 18.753,
+  "nu_D_claim_THz": 18.75,
+  "verdict": "复算一致（v_s=4687.7 m/s≈原文4688；ν_D=18.751 THz≈原文18.75）",
+  "microdiff": "0729 文档 §2.2 表写 Θ_D=900K，§3.1 验证用 960K——两处不自洽已录；取 f=1 时 Θ_D=960 为公式口径值。",
+  "status": "复算一致·公式内洽（900K 本体系知世预估量级·待实测，非公式输出）"
+ },
+ "二2_公式b天花板表复算": {
+  "formula": "Tc_max = Θ_D × 15/16 × f_max，f_max=7/7=1（Fano 七通道全亮上限）",
+  "rows": [
+   {
+    "material": "Fe/奥氏体钢",
+    "Theta_D_lit_K": 470,
+    "Tc_max_recalc_K": 440.62,
+    "Tc_max_claim_K": 441,
+    "match": true,
+    "Theta_D_layer": "执行层·文献值"
+   },
+   {
+    "material": "Al",
+    "Theta_D_lit_K": 428,
+    "Tc_max_recalc_K": 401.25,
+    "Tc_max_claim_K": 401,
+    "match": true,
+    "Theta_D_layer": "执行层·文献值"
+   },
+   {
+    "material": "Pd",
+    "Theta_D_lit_K": 275,
+    "Tc_max_recalc_K": 257.81,
+    "Tc_max_claim_K": 258,
+    "match": true,
+    "Theta_D_layer": "执行层·文献值"
+   },
+   {
+    "material": "MgB₂（硼基）",
+    "Theta_D_lit_K": 1000,
+    "Tc_max_recalc_K": 937.5,
+    "Tc_max_claim_K": 938,
+    "match": true,
+    "Theta_D_layer": "执行层·文献值"
+   },
+   {
+    "material": "金刚石",
+    "Theta_D_lit_K": 2230,
+    "Tc_max_recalc_K": 2090.62,
+    "Tc_max_claim_K": 2091,
+    "match": true,
+    "Theta_D_layer": "执行层·文献值"
+   }
+  ],
+  "verdict": "五行全部复算一致（±0.5K 舍入内）",
+  "status": "复算一致（天花板量级；体系内部定义·未验证）"
+ },
+ "二3_f_defect_fit复算": {
+  "formula": "f_fit = Tc/(Θ_D×15/16)（batch10 原法）",
+  "rows": [
+   {
+    "material": "Nb",
+    "Theta_D_lit_K": 275,
+    "Tc_obs_K": 9.3,
+    "f_defect_fit": 0.036073,
+    "Theta_D_layer": "执行层·文献值"
+   },
+   {
+    "material": "Pb",
+    "Theta_D_lit_K": 105,
+    "Tc_obs_K": 7.2,
+    "f_defect_fit": 0.073143,
+    "Theta_D_layer": "执行层·文献值"
+   },
+   {
+    "material": "Nb3Sn",
+    "Theta_D_lit_K": 450,
+    "Tc_obs_K": 18.3,
+    "f_defect_fit": 0.043378,
+    "Theta_D_layer": "执行层·文献值"
+   },
+   {
+    "material": "MgB2",
+    "Theta_D_lit_K": 1000,
+    "Tc_obs_K": 39.0,
+    "f_defect_fit": 0.0416,
+    "Theta_D_layer": "执行层·文献值"
+   },
+   {
+    "material": "YBCO",
+    "Theta_D_lit_K": 450,
+    "Tc_obs_K": 93.0,
+    "f_defect_fit": 0.220444,
+    "Theta_D_layer": "执行层·文献值"
+   },
+   {
+    "material": "FeSe",
+    "Theta_D_lit_K": 250,
+    "Tc_obs_K": 8.0,
+    "f_defect_fit": 0.034133,
+    "Theta_D_layer": "执行层·文献值"
+   },
+   {
+    "material": "LaFeAsO-F",
+    "Theta_D_lit_K": 350,
+    "Tc_obs_K": 26.0,
+    "f_defect_fit": 0.079238,
+    "Theta_D_layer": "执行层·文献值"
+   },
+   {
+    "material": "Bi-2212",
+    "Theta_D_lit_K": 300,
+    "Tc_obs_K": 85.0,
+    "f_defect_fit": 0.302222,
+    "Theta_D_layer": "执行层·文献值"
+   },
+   {
+    "material": "H3S(高压)",
+    "Theta_D_lit_K": 1200,
+    "Tc_obs_K": 203.0,
+    "f_defect_fit": 0.180444,
+    "Theta_D_layer": "执行层·文献值"
+   },
+   {
+    "material": "LaH10(高压)",
+    "Theta_D_lit_K": 1500,
+    "Tc_obs_K": 250.0,
+    "f_defect_fit": 0.177778,
+    "Theta_D_layer": "执行层·文献值"
+   }
+  ],
+  "range": [
+   0.034133,
+   0.302222
+  ],
+  "verdict": "10/10 与 verdict_pkg_batch10.json 一致（0.0341–0.3022，不成簇）",
+  "status": "复算一致·事后拟合值（不构成 f_defect 独立定义，不得外推）"
+ },
+ "三_ys9d_公式b": {
+  "target": "ys_9d（N=3, D=9）Tc，替换公式a旧值 832.7K",
+  "formula": "Tc = Θ_D × 15/16 × f_defect",
+  "inputs": {
+   "Θ_D": "缺——高维材料无实存物；0729 计算式 Θ_D=h·v_s/(2d·kB) 需 v_s，v_s 口径（纵波/平均声速）体系未裁决；materials_db 无 Θ_D 字段",
+   "f_defect": "缺——函数形式体系原生（活跃Fano通道数/7），但'活跃'判据与 N=3 逐材料通道数无档案；batch10 拟合值不成簇不可外推"
+  },
+  "result": "待缺口（不可算，不代填不近似）",
+  "status": "待缺口",
+  "demo_assumed": {
+   "assumptions": "v_s:=vL=5700 m/s（未裁决）、d:=1/6 nm、f:=1 或拟合区间",
+   "Theta_D_demo_K": 820.7,
+   "Tc_f1_demo_K": 769.4,
+   "Tc_fit_range_demo_K": [
+    26.3,
+    232.5
+   ],
+   "status": "假设显式·理论参照·非实测·不作数（与第一批报告演示值 820.7/769.4K 复算一致）"
+  }
+ },
+ "四_2390K重估": {
+  "target": "2390K（三年预案 L3/工作包总索引 L37 情景假设①）底层重估",
+  "origin": "全树 grep 无任何计算出处（第一批任务④已判【未溯源·情景假设】）",
+  "formula_b_bottom_up": {
+   "required_Theta_D_at_f1_K": 2549.3,
+   "note": "Tc=2390K 需 Θ_D≥2549.3K 且 f_defect=1（体系上限 7/7）",
+   "diamond_ceiling_K": 2090.6,
+   "diamond_note": "已知体材料 Θ_D 上限≈金刚石 2230K（执行层·文献值）→ 公式b天花板≈2090.6K < 2390K"
+  },
+  "conclusion": "公式b口径下 2390K 超出已知材料天花板（差≈459K）：需 f>1（超体系上限）或 Θ_D>2549K（超已知体材料）或体系高维材料自有 Θ_D（体系未定义）。",
+  "attribute": "情景规划假设属性不变；公式b重估=待缺口（高维材料 Θ_D/f_defect 双缺）+天花板张力注记",
+  "status": "待缺口·情景假设维持"
+ }
+}

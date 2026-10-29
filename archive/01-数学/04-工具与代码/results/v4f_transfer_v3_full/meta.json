@@ -1,0 +1,29 @@
+{
+ "engine": "概念宇宙 LLM · 转移宇宙 v3 全谱 v1.1（43 层官方路由 + 关联宇宙修正版）",
+ "principle": "知世 2026-10-12 口令：知识内容和质量方向与生俱来——零语料依赖，全部来自权重结构",
+ "fixes": [
+  "v1.0 崩因+前版 v3 实锤：gguf-py t.shape 已是逻辑形状，reversed 反转弄反维度（v3 未报错但取错维）；v1.1 显式 assert (6,V)",
+  "前版 attn.wo_b 张量名不存在，attn_assoc 从未产出（关联宇宙空）；本版用 attn_output_b 真名",
+  "前版只读 blk.0 路由；本版 43 层全读（各层路由互不相同）"
+ ],
+ "shape": {
+  "layer_routes": [
+   43,
+   6,
+   129280
+  ],
+  "sibling_tr": [
+   43,
+   2048,
+   8
+  ]
+ },
+ "gateinp_assoc_edges": 433877,
+ "attn_assoc_edges": 421264,
+ "attn_skip_layers": [],
+ "route_entropy_mean": 0.2501,
+ "elapsed_s": 37.2,
+ "honest_note": "关联宇宙口径=静态权重投影（gate_inp 选型器与 attn_output_b）的簇间余弦，非动态注意力激活（后者需前向计算，552B 本机不可行，照记）；兄弟簇分数=专家分布重叠度，非条件概率",
+ "tid2eid_availability": "ffn_gate_tid2eid 仅 blk.0-2 存在（与 config num_hash_layers=3 吻合：前3层 hash 静态路由，后40层运行时动态路由无静态表）——layer_routes 仅前3层有效，其余层=-1；全谱关联宇宙（gateinp/attn 43层）不受影响",
+ "route_entropy_mean_valid_layers_only": 3.58
+}

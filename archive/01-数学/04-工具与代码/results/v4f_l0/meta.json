@@ -1,0 +1,20 @@
+{
+ "engine": "概念宇宙 LLM · L0 词面宇宙（V4-Flash GGUF 自洽线）",
+ "source": "DeepSeek-V4-Flash UD-IQ2_XXS GGUF 分片2 token_embd（Q4_K 解包）",
+ "note_on_naming": "目录名为 V4.1-Flash-IQ2XXS，但 GGUF 自述 base_model=DeepSeek-V4-Flash（arch=deepseek4，hidden=4096）；本宇宙按 GGUF 自述命名 V4-Flash，与 V4.1 的 embed_weight(5120) 不同源不可混用",
+ "embed": [
+  129280,
+  4096
+ ],
+ "knn": 3,
+ "edges": 387840,
+ "components": 274,
+ "largest_component": 127686,
+ "clusters": 2048,
+ "cluster_max": 1014,
+ "cluster_median": 49,
+ "cluster_singletons": 23,
+ "member_cap_per_cluster": 300,
+ "elapsed_s": 555.1,
+ "honest_note": "词面宇宙 v1：解包=gguf-py 官方 dequantize；图=top-3 kNN（未做多图路径森林——J-H2v3 方法可后续套用）；分簇=mini-batch kmeans（IVF 索引用，非语义等价类判据）；Q4_K 解包有量化损失（原量化本身有损）"
+}

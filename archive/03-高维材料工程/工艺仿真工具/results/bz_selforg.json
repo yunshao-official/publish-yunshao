@@ -1,0 +1,43 @@
+{
+ "params": {
+  "eps": 0.03,
+  "f": 1.1,
+  "q": 0.002,
+  "Du": 1.0,
+  "N": 256,
+  "dt": 0.1,
+  "steps": 6000,
+  "seed": 42
+ },
+ "rest_state": {
+  "u0": 0.03146817568007672
+ },
+ "snapshots": {
+  "0": {
+   "coverage_fraction": 1.0,
+   "dominant_wavelength_grid_units": 14.545454545454545,
+   "amplitude_std": 0.13487133566649653
+  },
+  "500": {
+   "coverage_fraction": 0.9987335205078125,
+   "dominant_wavelength_grid_units": 32.0,
+   "amplitude_std": 0.1772976029075652
+  },
+  "2000": {
+   "coverage_fraction": 0.998687744140625,
+   "dominant_wavelength_grid_units": 22.857142857142854,
+   "amplitude_std": 0.1771592856887967
+  },
+  "5999": {
+   "coverage_fraction": 0.998779296875,
+   "dominant_wavelength_grid_units": 53.33333333333333,
+   "amplitude_std": 0.17733809708603948
+  }
+ },
+ "final": {
+  "coverage_fraction": 0.998779296875,
+  "dominant_wavelength_grid_units": 53.33333333333333,
+  "amplitude_std": 0.17733809708603948
+ },
+ "honest_note": "无量纲 Oregonator，周期边界；定性对应真实BZ介质；格点单位"
+}

@@ -1,0 +1,74 @@
+{
+ "engine": "概念宇宙 LLM · 五脉冲+语法门 M2（宇宙候选∪LM top-8 逃逸，kNN-LM 式内联）",
+ "model_gate": "Qwen2.5-1.5B fp32 CPU teacher-forcing/topk",
+ "n_gen_per_case": 40,
+ "M2_all": {
+  "n": 30,
+  "mean_tok_s": 0.7,
+  "diversity_char": 0.034,
+  "mean_logprob": -1.008,
+  "ge_m3_rate": 1.0
+ },
+ "M2_per_pulse": {
+  "sim": {
+   "n": 6,
+   "mean_tok_s": 0.7,
+   "diversity_char": 0.171,
+   "mean_logprob": -1.008,
+   "ge_m3_rate": 1.0
+  },
+  "tr": {
+   "n": 6,
+   "mean_tok_s": 0.7,
+   "diversity_char": 0.171,
+   "mean_logprob": -1.008,
+   "ge_m3_rate": 1.0
+  },
+  "mix": {
+   "n": 6,
+   "mean_tok_s": 0.7,
+   "diversity_char": 0.171,
+   "mean_logprob": -1.008,
+   "ge_m3_rate": 1.0
+  },
+  "conc": {
+   "n": 6,
+   "mean_tok_s": 0.7,
+   "diversity_char": 0.171,
+   "mean_logprob": -1.008,
+   "ge_m3_rate": 1.0
+  },
+  "expand": {
+   "n": 6,
+   "mean_tok_s": 0.7,
+   "diversity_char": 0.171,
+   "mean_logprob": -1.008,
+   "ge_m3_rate": 1.0
+  }
+ },
+ "pure_LM_greedy": {
+  "n": 6,
+  "mean_tok_s": 0.6,
+  "diversity_char": 0.171,
+  "mean_logprob": -1.333,
+  "ge_m3_rate": 1.0
+ },
+ "samples": {
+  "m2|sim|人工智能": "ed\u001d-\u0007   |� toมUNANGController��ESS,\nZ到包;\n h\",人工智能ween\u001d.\n\n  Thevelop间中rastboys thit包)人 me",
+  "m2|sim|猫": "看 City)�it whether thll次220Up+ ending ver epaxisctit lead th迈看 City到底) =ver Ant�ingham noitUp thife-P City�",
+  "m2|sim|爱情": " attention)�it ب th程困 to宠 attention+ enso v问道00er如此 th\u001d.- measured absit really�paces7anc signatureнso) \" pl also affirm",
+  "m2|sim|战争": "\u001d.\u0007  The�战争 v];\n\nIf jurisdiction%-iv  The� got\u0007 LS� v];\n\nIf jurisdiction      *  ��到\u001d-;\n�人 got\n\n�",
+  "m2|sim|美食": "\n\n286itconctair�er ب v聊\u0007�airním Thank *  ancialAP�er ب v聊ـ  � chят Thank)�&op ب be\u001d/",
+  "m2|sim|宇宙": ")�it ب th والct miles\u001d0ong thife v失10it judghar�In多少omx.- creates0zIn sh en�\u001d4融ibersGRct"
+ },
+ "samples_expand": {
+  "m2|expand|人工智能": "ed\u001d-\u0007   |� toมUNANGController��ESS,\nZ到包;\n h\",人工智能ween\u001d.\n\n  Thevelop间中rastboys thit包)人 me",
+  "m2|expand|猫": "看 City)�it whether thll次220Up+ ending ver epaxisctit lead th迈看 City到底) =ver Ant�ingham noitUp thife-P City�",
+  "m2|expand|爱情": " attention)�it ب th程困 to宠 attention+ enso v问道00er如此 th\u001d.- measured absit really�paces7anc signatureнso) \" pl also affirm",
+  "m2|expand|战争": "\u001d.\u0007  The�战争 v];\n\nIf jurisdiction%-iv  The� got\u0007 LS� v];\n\nIf jurisdiction      *  ��到\u001d-;\n�人 got\n\n�",
+  "m2|expand|美食": "\n\n286itconctair�er ب v聊\u0007�airním Thank *  ancialAP�er ب v聊ـ  � chят Thank)�&op ب be\u001d/",
+  "m2|expand|宇宙": ")�it ب th والct miles\u001d0ong thife v失10it judghar�In多少omx.- creates0zIn sh en�\u001d4融ibersGRct"
+ },
+ "elapsed_s": 2075.5,
+ "honest_note": "速度=语法门内联实测（含 LM forward，天然低于查表模式 M1 的 2249-3751 tok/s）；logprob=被选 token 的内联 LM 分（宇宙-only 候选记 -8 保守值会拉低均值——如实照记）；M1 纯查表基线（speed 3751/2249 但 div 0.075/0.042、lp -4.9/-5.7 判负）独立在档；两模式不能同时达标=本硬件速度-质量边界的实测（见构建报告）"
+}

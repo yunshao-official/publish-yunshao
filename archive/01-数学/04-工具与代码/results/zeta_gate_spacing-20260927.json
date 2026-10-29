@@ -1,0 +1,76 @@
+{
+ "script": "zeta_gate_spacing-v1.0-20260927.py",
+ "batch": "20260927 群论批算+ζ零点门扩展任务令·部分B",
+ "ran_at": "2026-10-02T23:55:00",
+ "nature": "探测性统计·非验证主张（任务令原话口径）",
+ "data_source": {
+  "odlyzko_pull": "FAILED——本机python urllib被环境禁外联（[BLOCKED]），公开零点表不可拉取，如实记",
+  "fallback_used": "mpmath 1.3.0 zetazero 自实现计算（Gram点定位+Riemann-Siegel Z函数精化，纯python，mp.dps=30）",
+  "n_zeros": 1000,
+  "first": 14.134725141734695,
+  "last": 1419.4224809459956,
+  "compute_seconds": 258.7
+ },
+ "C1_r_ratio_min_over_max": {
+  "statistic_def": "mean(min(g_n,g_{n+1})/max(g_n,g_{n+1}))，与在档 ta2_C_e2stats 冻结判据同定义",
+  "value_raw_gaps": 0.617041957534478,
+  "value_local_unfolded": 0.6172663622796402,
+  "segments_raw": {
+   "1-250": 0.6175897420314632,
+   "251-500": 0.6157964621843526,
+   "501-750": 0.622950395854475,
+   "751-end": 0.611789208071921
+  },
+  "frozen_benchmarks_in_archive": {
+   "GUE": 0.7357,
+   "Poisson": 0.5307
+  },
+  "verdict_vs_frozen": "Poisson 趋势（冻结基准口径）",
+  "own_benchmarks_computed_this_run": {
+   "Poisson(解析)": 0.3862943611198906,
+   "Poisson(MC)": 0.3855285696631287,
+   "GUE_iidSurmise": 0.6376028830631691,
+   "GOE_iidSurmise": 0.5714341402161519,
+   "GUE_matrix": 0.5975274709462736,
+   "GOE_matrix": 0.508167467252704
+  },
+  "own_benchmark_errs": {
+   "Poisson(解析)": 0.23074759641458742,
+   "Poisson(MC)": 0.23151338787134929,
+   "GUE_iidSurmise": 0.020560925528691154,
+   "GOE_iidSurmise": 0.04560781731832608,
+   "GUE_matrix": 0.019514486588204427,
+   "GOE_matrix": 0.10887449028177398
+  },
+  "nearest_own_benchmark": "GUE_matrix",
+  "frozen_vs_own_discrepancy_note": "在档冻结基准(0.7357/0.5307)与本轮自算基准数值不同源（本轮 Poisson 解析=2ln2−1、真GUE矩阵MC=见own字段）；两套判向并列如实，基准溯源与取舍候知世裁——判负照记"
+ },
+ "C2_unfolded_spacing_distribution": {
+  "unfolding": "双口径：全局N̄(T)主项（忽略S(T)振荡·如实注记）+局部窗(±25零点)线性密度",
+  "mean_global": 0.99996849462551,
+  "var_global": 0.14435250165760496,
+  "skew_global": 0.4674007447660643,
+  "mean_local": 1.0000496552066838,
+  "var_local": 0.14555455375367854,
+  "GUE_surmise_mean_var_skew": [
+   1.0,
+   0.17809724509617242,
+   0.48569282804959085
+  ],
+  "GOE_surmise_mean_var_skew": [
+   1.0000000000000002,
+   0.2732395447351621,
+   0.6311106578189382
+  ],
+  "KS_vs_GUE_surmise": 0.042246630726942416,
+  "KS_vs_GOE_surmise": 0.11033483850358532,
+  "distribution_verdict": "KS更小者=GUE surmise（趋势级）"
+ },
+ "honesty_notes": [
+  "本件为探测性统计：ζ零点近距统计的GUE归属是主流已知结论方向，本轮不主张任何体系验证",
+  "Odlyzko表拉取失败如实记录；数据源=mpmath自算，统计效力限于前1000个零点",
+  "全局展开忽略S(T)振荡，局部展开口径已并列给出",
+  "在档冻结基准0.7357/0.5307与本轮自算基准不一致——判向可能翻转（如实并列），裁定权在知世",
+  "几何册注5数值门(d̄(t)差0.326)口径未动；本件只做间距统计扩展，不触碰该门"
+ ]
+}

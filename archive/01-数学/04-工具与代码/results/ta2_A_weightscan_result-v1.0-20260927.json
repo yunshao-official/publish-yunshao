@@ -1,0 +1,101 @@
+{
+ "script": "ta2_weightscan-v1.0-20260927.py",
+ "prereg": "黎曼猜想·通俗图解-v4.0-20260927 §十二（NTFS冻结在先）",
+ "ran_at": "2026-09-27T05:24:04",
+ "platform": "Windows-11-10.0.22631-SP0",
+ "A1_group": {
+  "1.0": {
+   "sign_changes": 0,
+   "true_zeros": 0,
+   "zeros": [],
+   "min_abs": 0.9917282685924015,
+   "kmax": 8
+  },
+  "0.75": {
+   "sign_changes": 0,
+   "true_zeros": 0,
+   "zeros": [],
+   "min_abs": 0.9656122488237823,
+   "kmax": 10
+  },
+  "0.5": {
+   "sign_changes": 0,
+   "true_zeros": 0,
+   "zeros": [],
+   "min_abs": 0.8564074334190416,
+   "kmax": 15
+  },
+  "0.4": {
+   "sign_changes": 0,
+   "true_zeros": 0,
+   "zeros": [],
+   "min_abs": 0.7003272997128798,
+   "kmax": 18
+  },
+  "0.3333333333333333": {
+   "sign_changes": 0,
+   "true_zeros": 0,
+   "zeros": [],
+   "min_abs": 0.4969865507537899,
+   "kmax": 22
+  },
+  "0.28": {
+   "sign_changes": 2,
+   "true_zeros": 0,
+   "zeros": [],
+   "min_abs": 0.2796121649737781,
+   "kmax": 26
+  },
+  "0.25": {
+   "sign_changes": 2,
+   "true_zeros": 0,
+   "zeros": [],
+   "min_abs": 0.16217674945112232,
+   "kmax": 29
+  },
+  "0.24": {
+   "sign_changes": 2,
+   "true_zeros": 0,
+   "zeros": [],
+   "min_abs": 0.12842218554227394,
+   "kmax": 30
+  },
+  "0.23": {
+   "sign_changes": 2,
+   "true_zeros": 0,
+   "zeros": [],
+   "min_abs": 0.09842974261146983,
+   "kmax": 32
+  }
+ },
+ "beta_star": null,
+ "A2_system_const_match": [],
+ "A3_prime": {
+  "1.0": {
+   "sign_changes": 2,
+   "true_zeros": 0,
+   "min_abs": 0.3242815740983233
+  },
+  "0.9": {
+   "sign_changes": 2,
+   "true_zeros": 0,
+   "min_abs": 0.26774131990287275
+  },
+  "0.8": {
+   "sign_changes": 4,
+   "true_zeros": 0,
+   "min_abs": 0.20524650737127562
+  },
+  "0.7": {
+   "sign_changes": 8,
+   "true_zeros": 0,
+   "min_abs": 0.05750870241482316
+  },
+  "0.67": {
+   "sign_changes": 12,
+   "true_zeros": 0,
+   "min_abs": 0.020506506724265763
+  }
+ },
+ "note": "β≤2/9 级数发散（收敛域边界=发散即物理），网格下界 0.23"
+}

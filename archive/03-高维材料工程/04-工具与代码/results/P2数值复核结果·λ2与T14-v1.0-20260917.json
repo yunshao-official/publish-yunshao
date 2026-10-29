@@ -1,0 +1,592 @@
+{
+ "meta": {
+  "script": "P2数值复核脚本·λ2与T14-v1.0-20260917.py",
+  "constants": "constants.yaml v1.0（锚点引用）",
+  "deterministic": true
+ },
+ "A1_lambda2_8sector_vs_unified_table": {
+  "formula": "λ₂(D)=0.0022·D⁴·(D−1)〔《λ₂(D)理论公式·修正版-20260829》§五〕",
+  "rows": [
+   {
+    "D": 3,
+    "N_comp": 4,
+    "lambda2_formula": 0.3564,
+    "lambda2_stored": 0.3564,
+    "dev_pct": 0.0,
+    "match": true
+   },
+   {
+    "D": 4,
+    "N_comp": 6,
+    "lambda2_formula": 1.6896,
+    "lambda2_stored": 1.6896,
+    "dev_pct": 0.0,
+    "match": true
+   },
+   {
+    "D": 5,
+    "N_comp": 8,
+    "lambda2_formula": 5.5,
+    "lambda2_stored": 5.5,
+    "dev_pct": 0.0,
+    "match": true
+   },
+   {
+    "D": 6,
+    "N_comp": 10,
+    "lambda2_formula": 14.256,
+    "lambda2_stored": 14.256,
+    "dev_pct": 0.0,
+    "match": true
+   },
+   {
+    "D": 7,
+    "N_comp": 12,
+    "lambda2_formula": 31.6932,
+    "lambda2_stored": 31.693200000000004,
+    "dev_pct": 0.0,
+    "match": true
+   },
+   {
+    "D": 8,
+    "N_comp": 14,
+    "lambda2_formula": 63.0784,
+    "lambda2_stored": 63.0784,
+    "dev_pct": 0.0,
+    "match": true
+   },
+   {
+    "D": 9,
+    "N_comp": 16,
+    "lambda2_formula": 115.4736,
+    "lambda2_stored": 115.4736,
+    "dev_pct": 0.0,
+    "match": true
+   },
+   {
+    "D": 10,
+    "N_comp": 18,
+    "lambda2_formula": 198.0,
+    "lambda2_stored": 198.0,
+    "dev_pct": 0.0,
+    "match": true
+   },
+   {
+    "D": 11,
+    "N_comp": 20,
+    "lambda2_formula": 322.102,
+    "lambda2_stored": 322.102,
+    "dev_pct": 0.0,
+    "match": true
+   },
+   {
+    "D": 12,
+    "N_comp": 22,
+    "lambda2_formula": 501.8112,
+    "lambda2_stored": 501.8112,
+    "dev_pct": 0.0,
+    "match": true
+   }
+  ],
+  "all_match": true
+ },
+ "A1b_ys9d_material_card": {
+  "stored_lambda2": 115.4736,
+  "formula_0.0022x9^4x8": 115.4736,
+  "match": true
+ },
+ "A2_lambda2_anchor_layer": {
+  "note": "锚值=模拟值非物理实测【理论参照·非实测】；偏差属经验拟合精度（原文自述 <20%）",
+  "rows": [
+   {
+    "D": 5,
+    "formula": 5.5,
+    "anchor_sim": 5.4509,
+    "dev_pct": 0.9008
+   },
+   {
+    "D": 6,
+    "formula": 14.256,
+    "anchor_sim": 13.385,
+    "dev_pct": 6.5073
+   },
+   {
+    "D": 7,
+    "formula": 31.6932,
+    "anchor_sim": 35.3502,
+    "dev_pct": -10.3451
+   },
+   {
+    "D": 8,
+    "formula": 63.0784,
+    "anchor_sim": 62.0281,
+    "dev_pct": 1.6933
+   },
+   {
+    "D": 9,
+    "formula": 115.4736,
+    "anchor_sim": 105.5874,
+    "dev_pct": 9.363
+   },
+   {
+    "D": 9.5,
+    "formula": 152.312669,
+    "anchor_sim": 165.4155,
+    "dev_pct": -7.9212
+   }
+  ]
+ },
+ "A3_lambda2_36sector_vs_8sector_D3_12": {
+  "formula_36": "λ₂_36(D)=0.0011·D⁴/α(N=D/3)，α(N)=2^(−v₂)+(1/6−2^(−v₂))·s〔theta_table_20260914.py 同式〕",
+  "key_finding": "λ₂ 公式扇区因子 (D−1) 为分量口径（α=1/(2(D−1))）嵌入；36 扇区 α(N) 代入后两口径比值=N_comp×α_sector，D=9 处 16×(1/6)=8/3≈2.6667（115.4736 vs 43.3033），D=12 处 22×(1/4)=5.5（501.8112 vs 91.2384）",
+  "rows": [
+   {
+    "D": 3,
+    "N_comp": 4,
+    "lambda2_8sector": 0.3564,
+    "N_sector": 1.0,
+    "sector_status": "平凡基准（N=1 表外；且《全情况修正规范》定 D=3 λ₂=0，口径冲突待裁决）",
+    "alpha_sector": 1.0,
+    "lambda2_36sector": 0.0891,
+    "ratio_8_over_36": 4.0,
+    "ratio_equals_Ncomp_x_alpha": 4.0
+   },
+   {
+    "D": 4,
+    "N_comp": 6,
+    "lambda2_8sector": 1.6896,
+    "N_sector": 1.3333333333333333,
+    "sector_status": "无整数扇区（D≠3N，36扇区框架不覆盖此 D）",
+    "alpha_sector": null,
+    "lambda2_36sector": null,
+    "ratio_8_over_36": null,
+    "ratio_equals_Ncomp_x_alpha": null
+   },
+   {
+    "D": 5,
+    "N_comp": 8,
+    "lambda2_8sector": 5.5,
+    "N_sector": 1.6666666666666667,
+    "sector_status": "无整数扇区（D≠3N，36扇区框架不覆盖此 D）",
+    "alpha_sector": null,
+    "lambda2_36sector": null,
+    "ratio_8_over_36": null,
+    "ratio_equals_Ncomp_x_alpha": null
+   },
+   {
+    "D": 6,
+    "N_comp": 10,
+    "lambda2_8sector": 14.256,
+    "N_sector": 2.0,
+    "sector_status": "定义域外（v₂=1；合法性挂账待知世扩展，条件值不锁定）",
+    "alpha_sector": 0.5,
+    "lambda2_36sector": 2.8512,
+    "ratio_8_over_36": 5.0,
+    "ratio_equals_Ncomp_x_alpha": 5.0
+   },
+   {
+    "D": 7,
+    "N_comp": 12,
+    "lambda2_8sector": 31.6932,
+    "N_sector": 2.3333333333333335,
+    "sector_status": "无整数扇区（D≠3N，36扇区框架不覆盖此 D）",
+    "alpha_sector": null,
+    "lambda2_36sector": null,
+    "ratio_8_over_36": null,
+    "ratio_equals_Ncomp_x_alpha": null
+   },
+   {
+    "D": 8,
+    "N_comp": 14,
+    "lambda2_8sector": 63.0784,
+    "N_sector": 2.6666666666666665,
+    "sector_status": "无整数扇区（D≠3N，36扇区框架不覆盖此 D）",
+    "alpha_sector": null,
+    "lambda2_36sector": null,
+    "ratio_8_over_36": null,
+    "ratio_equals_Ncomp_x_alpha": null
+   },
+   {
+    "D": 9,
+    "N_comp": 16,
+    "lambda2_8sector": 115.4736,
+    "N_sector": 3.0,
+    "sector_status": "表外延（N=3，v₂=0；知世0915默认授权，待最终裁决）",
+    "alpha_sector": 0.16666667,
+    "lambda2_36sector": 43.3026,
+    "ratio_8_over_36": 2.666667,
+    "ratio_equals_Ncomp_x_alpha": 2.666667
+   },
+   {
+    "D": 10,
+    "N_comp": 18,
+    "lambda2_8sector": 198.0,
+    "N_sector": 3.3333333333333335,
+    "sector_status": "无整数扇区（D≠3N，36扇区框架不覆盖此 D）",
+    "alpha_sector": null,
+    "lambda2_36sector": null,
+    "ratio_8_over_36": null,
+    "ratio_equals_Ncomp_x_alpha": null
+   },
+   {
+    "D": 11,
+    "N_comp": 20,
+    "lambda2_8sector": 322.102,
+    "N_sector": 3.6666666666666665,
+    "sector_status": "无整数扇区（D≠3N，36扇区框架不覆盖此 D）",
+    "alpha_sector": null,
+    "lambda2_36sector": null,
+    "ratio_8_over_36": null,
+    "ratio_equals_Ncomp_x_alpha": null
+   },
+   {
+    "D": 12,
+    "N_comp": 22,
+    "lambda2_8sector": 501.8112,
+    "N_sector": 4.0,
+    "sector_status": "表内",
+    "alpha_sector": 0.25,
+    "lambda2_36sector": 91.2384,
+    "ratio_8_over_36": 5.5,
+    "ratio_equals_Ncomp_x_alpha": 5.5
+   }
+  ]
+ },
+ "A4_lambda2_36sector_full_extrapolation": {
+  "note": "全部超出公式适用范围 D=5–10（内插）/D=4–11（外推）【理论参照·外推·非实测】；theta 表无 λ₂ 字段（P2-21 缺口）",
+  "count": 36,
+  "rows": [
+   {
+    "N": 4,
+    "D": 12,
+    "group": "(Z2)^2",
+    "alpha": 0.25,
+    "lambda2_formula_extrapolated": 501.8112,
+    "lambda2_stored": null
+   },
+   {
+    "N": 8,
+    "D": 24,
+    "group": "(Z2)^3",
+    "alpha": 0.125,
+    "lambda2_formula_extrapolated": 16787.8656,
+    "lambda2_stored": null
+   },
+   {
+    "N": 12,
+    "D": 36,
+    "group": "A4",
+    "alpha": 0.16666667,
+    "lambda2_formula_extrapolated": 129330.432,
+    "lambda2_stored": null
+   },
+   {
+    "N": 16,
+    "D": 48,
+    "group": "(Z2)^4",
+    "alpha": 0.0625,
+    "lambda2_formula_extrapolated": 548890.2144,
+    "lambda2_stored": null
+   },
+   {
+    "N": 20,
+    "D": 60,
+    "group": "(Z2)^2",
+    "alpha": 0.25,
+    "lambda2_formula_extrapolated": 1682208.0,
+    "lambda2_stored": null
+   },
+   {
+    "N": 24,
+    "D": 72,
+    "group": "S4",
+    "alpha": 0.16666667,
+    "lambda2_formula_extrapolated": 4197696.3072,
+    "lambda2_stored": null
+   },
+   {
+    "N": 28,
+    "D": 84,
+    "group": "(Z2)^2",
+    "alpha": 0.25,
+    "lambda2_formula_extrapolated": 9091131.0336,
+    "lambda2_stored": null
+   },
+   {
+    "N": 32,
+    "D": 96,
+    "group": "(Z2)^5",
+    "alpha": 0.03125,
+    "lambda2_formula_extrapolated": 17751343.104,
+    "lambda2_stored": null
+   },
+   {
+    "N": 36,
+    "D": 108,
+    "group": "A4",
+    "alpha": 0.16666667,
+    "lambda2_formula_extrapolated": 32025910.1184,
+    "lambda2_stored": null
+   },
+   {
+    "N": 40,
+    "D": 120,
+    "group": "(Z2)^3",
+    "alpha": 0.125,
+    "lambda2_formula_extrapolated": 54286848.0,
+    "lambda2_stored": null
+   },
+   {
+    "N": 44,
+    "D": 132,
+    "group": "(Z2)^2",
+    "alpha": 0.25,
+    "lambda2_formula_extrapolated": 87496302.6432,
+    "lambda2_stored": null
+   },
+   {
+    "N": 48,
+    "D": 144,
+    "group": "O_h",
+    "alpha": 0.16666667,
+    "lambda2_formula_extrapolated": 135272241.5616,
+    "lambda2_stored": null
+   },
+   {
+    "N": 52,
+    "D": 156,
+    "group": "(Z2)^2",
+    "alpha": 0.25,
+    "lambda2_formula_extrapolated": 201954145.536,
+    "lambda2_stored": null
+   },
+   {
+    "N": 56,
+    "D": 168,
+    "group": "(Z2)^3",
+    "alpha": 0.125,
+    "lambda2_formula_extrapolated": 292668700.2624,
+    "lambda2_stored": null
+   },
+   {
+    "N": 60,
+    "D": 180,
+    "group": "A5",
+    "alpha": 0.16666667,
+    "lambda2_formula_extrapolated": 413395488.0,
+    "lambda2_stored": null
+   },
+   {
+    "N": 64,
+    "D": 192,
+    "group": "(Z2)^6",
+    "alpha": 0.015625,
+    "lambda2_formula_extrapolated": 571032679.2192,
+    "lambda2_stored": null
+   },
+   {
+    "N": 68,
+    "D": 204,
+    "group": "(Z2)^2",
+    "alpha": 0.25,
+    "lambda2_formula_extrapolated": 773462724.2496,
+    "lambda2_stored": null
+   },
+   {
+    "N": 72,
+    "D": 216,
+    "group": "A4⋊(Z2)^1",
+    "alpha": 0.16666667,
+    "lambda2_formula_extrapolated": 1029618044.928,
+    "lambda2_stored": null
+   },
+   {
+    "N": 76,
+    "D": 228,
+    "group": "(Z2)^2",
+    "alpha": 0.25,
+    "lambda2_formula_extrapolated": 1349546726.2464,
+    "lambda2_stored": null
+   },
+   {
+    "N": 80,
+    "D": 240,
+    "group": "(Z2)^4",
+    "alpha": 0.0625,
+    "lambda2_formula_extrapolated": 1744478208.0,
+    "lambda2_stored": null
+   },
+   {
+    "N": 84,
+    "D": 252,
+    "group": "A4",
+    "alpha": 0.16666667,
+    "lambda2_formula_extrapolated": 2226888976.4352,
+    "lambda2_stored": null
+   },
+   {
+    "N": 88,
+    "D": 264,
+    "group": "(Z2)^3",
+    "alpha": 0.125,
+    "lambda2_formula_extrapolated": 2810568255.8976,
+    "lambda2_stored": null
+   },
+   {
+    "N": 92,
+    "D": 276,
+    "group": "(Z2)^2",
+    "alpha": 0.25,
+    "lambda2_formula_extrapolated": 3510683700.48,
+    "lambda2_stored": null
+   },
+   {
+    "N": 96,
+    "D": 288,
+    "group": "A4⋊(Z2)^3",
+    "alpha": 0.16666667,
+    "lambda2_formula_extrapolated": 4343847085.6704,
+    "lambda2_stored": null
+   },
+   {
+    "N": 100,
+    "D": 300,
+    "group": "(Z2)^2",
+    "alpha": 0.25,
+    "lambda2_formula_extrapolated": 5328180000.0,
+    "lambda2_stored": null
+   },
+   {
+    "N": 104,
+    "D": 312,
+    "group": "(Z2)^3",
+    "alpha": 0.125,
+    "lambda2_formula_extrapolated": 6483379536.6912,
+    "lambda2_stored": null
+   },
+   {
+    "N": 108,
+    "D": 324,
+    "group": "A4",
+    "alpha": 0.16666667,
+    "lambda2_formula_extrapolated": 7830783985.3056,
+    "lambda2_stored": null
+   },
+   {
+    "N": 112,
+    "D": 336,
+    "group": "(Z2)^4",
+    "alpha": 0.0625,
+    "lambda2_formula_extrapolated": 9393438523.392,
+    "lambda2_stored": null
+   },
+   {
+    "N": 116,
+    "D": 348,
+    "group": "(Z2)^2",
+    "alpha": 0.25,
+    "lambda2_formula_extrapolated": 11196160908.1344,
+    "lambda2_stored": null
+   },
+   {
+    "N": 120,
+    "D": 360,
+    "group": "A4⋊(Z2)^1",
+    "alpha": 0.16666667,
+    "lambda2_formula_extrapolated": 13265607168.0,
+    "lambda2_stored": null
+   },
+   {
+    "N": 124,
+    "D": 372,
+    "group": "(Z2)^2",
+    "alpha": 0.25,
+    "lambda2_formula_extrapolated": 15630337294.3872,
+    "lambda2_stored": null
+   },
+   {
+    "N": 128,
+    "D": 384,
+    "group": "(Z2)^7",
+    "alpha": 0.0078125,
+    "lambda2_formula_extrapolated": 18320880933.2736,
+    "lambda2_stored": null
+   },
+   {
+    "N": 132,
+    "D": 396,
+    "group": "A4",
+    "alpha": 0.16666667,
+    "lambda2_formula_extrapolated": 21369803076.864,
+    "lambda2_stored": null
+   },
+   {
+    "N": 136,
+    "D": 408,
+    "group": "(Z2)^3",
+    "alpha": 0.125,
+    "lambda2_formula_extrapolated": 24811769755.2384,
+    "lambda2_stored": null
+   },
+   {
+    "N": 140,
+    "D": 420,
+    "group": "(Z2)^2",
+    "alpha": 0.25,
+    "lambda2_formula_extrapolated": 28683613728.0,
+    "lambda2_stored": null
+   },
+   {
+    "N": 144,
+    "D": 432,
+    "group": "A4⋊(Z2)^2",
+    "alpha": 0.16666667,
+    "lambda2_formula_extrapolated": 33024400175.9232,
+    "lambda2_stored": null
+   }
+  ]
+ },
+ "B_T14_eta8_chain": {
+  "chain_source": {
+   "L549_意识耦合": "每次耦合亏损alpha=1/8，8次耦合达到稳定（eta(k)=7/8*[1-(1/8)^k]，k=8时适应率63%）",
+   "L561_T14功能": "打穿63层后通过涌现循环恢复（k=8时恢复63%）",
+   "L562_T14常数依据": "涌现恢复eta(k)=7/8*[1-(1/8)^k]"
+  },
+  "环1_常数环": {
+   "alpha_w": "1/8〔constants.yaml v1.0 layers.layer1_write_phase_space〕",
+   "eta": "η=1−α=7/8",
+   "eta_decimal": 0.875,
+   "verdict": "复算一致"
+  },
+  "环2_公式环": {
+   "formula": "η(k)=7/8×[1−(1/8)^k]",
+   "eta_8_exact": "117440505/134217728",
+   "eta_8_decimal": 0.8749999478459358,
+   "eta_8_pct": 87.49999478,
+   "eta_1_pct": 76.5625,
+   "sup_pct": 87.5,
+   "range_k_ge_1_pct": "[76.5625%, 87.5000%)",
+   "verdict": "复算一致"
+  },
+  "环3_主张环": {
+   "claim": "k=8 时恢复/适应 63%",
+   "verdict": "断链（无出处·内部不自洽）",
+   "reasons": [
+    "公式值 η(8)=87.49999%≠63%",
+    "k≥1 公式最小值 η(1)=76.5625%>63%，任何整数 k 均到不了 63%",
+    "反解 63% 需 k=0.612167（非整数且<1，无意义）"
+   ]
+  },
+  "候选来源排查": {
+   "1_minus_1_over_e_pct": 63.2121,
+   "1_minus_seven_eighths_pow_8_pct": 65.6391,
+   "63层_数字串扰": "63层→63% 为最简解释（无原文依据，仅列候选）"
+  },
+  "附算": {
+   "M_minus_1": 63,
+   "3mm_x63": 189,
+   "63epsilon_share": "63×(1/64)=63/64 晶格能（算术一致）"
+  },
+  "断点定位": "第③环（主张层）；同句 L549/L561 同时含公式与 63%，矛盾内生于正本行本身，非下游转抄笔误——上游常数环/公式环逐环复算均为复算一致"
+ }
+}

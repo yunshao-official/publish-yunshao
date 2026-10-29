@@ -1,0 +1,245 @@
+{
+ "modes": {
+  "SMI": {
+   "mean_uniq_ratio": 0.68,
+   "diversity_chars": 0.105,
+   "n_tokens": 1262
+  },
+  "TRF": {
+   "mean_uniq_ratio": 0.37,
+   "diversity_chars": 0.217,
+   "n_tokens": 414
+  },
+  "CNT": {
+   "mean_uniq_ratio": 0.143,
+   "diversity_chars": 0.066,
+   "n_tokens": 1035
+  },
+  "EXP": {
+   "mean_uniq_ratio": 0.56,
+   "diversity_chars": 0.295,
+   "n_tokens": 441
+  },
+  "MIX": {
+   "mean_uniq_ratio": 0.657,
+   "diversity_chars": 0.174,
+   "n_tokens": 834
+  }
+ },
+ "overall": {
+  "diversity_chars": 0.08,
+  "n_tokens": 3986
+ },
+ "results": [
+  {
+   "mode": "SMI",
+   "prompt": "人工智能",
+   "text": "人工智能 AIAI.ai ai AiAi量化 quantization quantification quantitative Quantitative Qualitative qualitative qualitatively quantitatively objectively objectivity subjectivity individuality individualized personalized Personalized personalised personalize Personalized personalised individualized personalized个性化个性化的个性人性人性的人心的深入人心人心人情情性情性格的性格的人格人格 personality personalities Personality личности personality Personality Questionnaire",
+   "n": 51,
+   "uniq_ratio": 0.88
+  },
+  {
+   "mode": "SMI",
+   "prompt": "小猫",
+   "text": "小猫猫貓猫咪狗狗小狗狗 dog dogs犬豚猪小猪小鸡鸡公鸡雞鴨鸭鸭子鸽子鸽�鸦乌鸦乌鸟小鸟鳥鸟儿鱼儿鱼小鱼魚 fishfish FishFish Fischischschch ch ChChCH CH-CH-Ch-ch ch",
+   "n": 51,
+   "uniq_ratio": 0.98
+  },
+  {
+   "mode": "SMI",
+   "prompt": "爱情",
+   "text": "爱情愛情的爱情爱情的忠忠诚 loyalty loyal Loyaloyal Royal royalRoyal皇家王室皇室皇宫宫宫廷朝廷天庭庭法庭 court法院医院醫院医院的银行的银行銀行 bank Bank banks banking Bankingankingankedankbank bank银行銀行银行的医院的医院醫院在医院在学校学校學校",
+   "n": 51,
+   "uniq_ratio": 0.86
+  },
+  {
+   "mode": "SMI",
+   "prompt": "战争",
+   "text": "战争戰爭战争的战争中战中战的战戰戦的战栗枣桃桃花梅花梅林森sontononenienierieiesesاتatasusosOSESesiesieiajaje je is esesiesieiajaje je is",
+   "n": 51,
+   "uniq_ratio": 0.78
+  },
+  {
+   "mode": "SMI",
+   "prompt": "美食",
+   "text": "美食的美食美味美味的好吃的好吃小吃美食的美食美味美味的好吃的好吃小吃美食的美食美味美味的好吃的好吃小吃美食的美食美味美味的好吃的好吃小吃美食的美食美味美味的好吃的好吃小吃美食的美食美味美味的好吃的好吃小吃美食的美食美味美味的好吃的好吃小吃美食的美食",
+   "n": 51,
+   "uniq_ratio": 0.14
+  },
+  {
+   "mode": "SMI",
+   "prompt": "宇宙",
+   "text": "宇宙 universe Universe universounivers univers UniversUnivers UNIVERSIVERSiversversverseaverseiverse universe宇宙 Universe universounivers univers UniversUnivers UNIVERSIVERSiversversverseaverseiverse universe宇宙 Universe universounivers univers UniversUnivers UNIVERSIVERSiversvers vers VersVers-vers versa verseVerseversevers",
+   "n": 51,
+   "uniq_ratio": 0.44
+  },
+  {
+   "mode": "TRF",
+   "prompt": "人工智能",
+   "text": "人工智能和“云铝钢、心理学领域，我之前的“云铝、心理学领域，我之前的分析“云铝、心理学领域，我之前的分析“云铝、心理学领域。他们自己“我，是：在云铝、心理学",
+   "n": 51,
+   "uniq_ratio": 0.36
+  },
+  {
+   "mode": "TRF",
+   "prompt": "小猫",
+   "text": "小猫受伤。\n        │      #   用户可能被“我，你不需要去分析“我，你不需要去分析“我，你不需要去分析“我，你不需要去分析“我，你不需要去分析“我，你不需要",
+   "n": 51,
+   "uniq_ratio": 0.34
+  },
+  {
+   "mode": "TRF",
+   "prompt": "爱情",
+   "text": "爱情数字密码学中“你，我完全理解你的算法在感情、法律和《天，你“我”的、法律和“你，我”的、法律和“你，我”的、法律和“你，我",
+   "n": 51,
+   "uniq_ratio": 0.42
+  },
+  {
+   "mode": "TRF",
+   "prompt": "战争",
+   "text": "战争”和“**：在感情、法律和“**：在感情、被“**，是：在感情、被“我，是：在云场”的、被“**：在云，是“**：在云",
+   "n": 51,
+   "uniq_ratio": 0.32
+  },
+  {
+   "mode": "TRF",
+   "prompt": "美食",
+   "text": "美食分享的“我”在中文网络，是：你“我”在云，是：你“我”在云，你“我”在云，你“我”在云，是：你“我”在云，",
+   "n": 51,
+   "uniq_ratio": 0.26
+  },
+  {
+   "mode": "TRF",
+   "prompt": "宇宙",
+   "text": "宇宙里是“云场脉冲电磁力、法律维度，我完全理解用户可能为“云场脉冲序列号、法律维度，我完全图论中“云场脉冲序列号、法律维度，我”的、法律和“",
+   "n": 51,
+   "uniq_ratio": 0.52
+  },
+  {
+   "mode": "CNT",
+   "prompt": "人工智能",
+   "text": "人工智能物联网区块链 blockchain供应链 Bitcoin cryptocur人工智能物联网区块链 blockchain供应链 Bitcoin cryptocur人工智能物联网区块链 blockchain供应链 Bitcoin cryptocur人工智能物联网区块链 blockchain供应链 Bitcoin cryptocur人工智能物联网区块链 blockchain供应链 Bitcoin cryptocur人工智能物联网区块链 blockchain供应链 Bitcoin cryptocur人工智能物联网区块链 blockchain供应链 Bitcoin cryptocur人工智能物联网",
+   "n": 51,
+   "uniq_ratio": 0.14
+  },
+  {
+   "mode": "CNT",
+   "prompt": "小猫",
+   "text": "小猫小白小红小麦小米小编小平小型小白小红小麦小米小编小平小型小白小红小麦小米小编小平小康小白小红小麦小米小编小平小康小白小红小麦小米小编小平小康小白小红小麦小米小编小平小康小白小红小麦小米小编小平小康小白",
+   "n": 51,
+   "uniq_ratio": 0.16
+  },
+  {
+   "mode": "CNT",
+   "prompt": "爱情",
+   "text": "爱情感情情感情的情热情情绪爱情感情情感情的情热情情绪爱情感情情感情的情热情情绪爱情感情情感情的情热情情绪爱情感情情感情的情热情情绪爱情感情情感情的情热情情绪爱情感情情感情的情热情情绪爱情感情",
+   "n": 51,
+   "uniq_ratio": 0.14
+  },
+  {
+   "mode": "CNT",
+   "prompt": "战争",
+   "text": "战争战斗 battle fight fighting combat struggle战争战斗 battle fight fighting combat struggle战争战斗 battle fight fighting combat struggle战争战斗 battle fight fighting combat struggle战争战斗 battle fight fighting combat struggle战争战斗 battle fight fighting combat struggle战争战斗 battle fight fighting combat struggle战争战斗",
+   "n": 51,
+   "uniq_ratio": 0.14
+  },
+  {
+   "mode": "CNT",
+   "prompt": "美食",
+   "text": "美食食物 food食品 Food foods餐饭食物 food食品 Food foods餐饭食物 food食品 Food foods餐饭食物 food食品 Food foods餐饭食物 food食品 Food foods餐饭食物 food食品 Food foods餐饭食物 food食品 Food foods餐饭食物",
+   "n": 51,
+   "uniq_ratio": 0.14
+  },
+  {
+   "mode": "CNT",
+   "prompt": "宇宙",
+   "text": "宇宙天空空中空黑暗虚虛宇宙天空空中空黑暗虚虛宇宙天空空中空黑暗虚虛宇宙天空空中空黑暗虚虛宇宙天空空中空黑暗虚虛宇宙天空空中空黑暗虚虛宇宙天空空中空黑暗虚虛宇宙天空",
+   "n": 51,
+   "uniq_ratio": 0.14
+  },
+  {
+   "mode": "EXP",
+   "prompt": "人工智能",
+   "text": "人工智能和“云铝钢，我之前的分析。他们“你，我”和**。他们“我，你正在和《天工大模型，我”和“被用来表示论理论预测器机接口 interface”和“我",
+   "n": 51,
+   "uniq_ratio": 0.6
+  },
+  {
+   "mode": "EXP",
+   "prompt": "小猫",
+   "text": "小猫受伤。\n        │      # w=1，我”在云铝、被“我，你只需要在云场发生。他，我”的“你正在和**，我”的“被用来表示论論论的“被",
+   "n": 51,
+   "uniq_ratio": 0.66
+  },
+  {
+   "mode": "EXP",
+   "prompt": "爱情",
+   "text": "爱情数字密码学中“你，我完全理解用户说：你“我，是**：你“我，是**：你“我，但你的算法算法的“被用来表示论理论体系里，“A Aria》（The T",
+   "n": 51,
+   "uniq_ratio": 0.66
+  },
+  {
+   "mode": "EXP",
+   "prompt": "战争",
+   "text": "战争”和“**：你，我”和“**：你，是为“我”在感情、被“你正在移动 moving moved move to tell told告诉它，你“我” ” “人创作創作製作制作一个“",
+   "n": 51,
+   "uniq_ratio": 0.64
+  },
+  {
+   "mode": "EXP",
+   "prompt": "美食",
+   "text": "美食分享的“我”在中文网络，是：你“我”在云，是：你“我”在云，你“我”在云，你“我”在云，但“被解读。\n2]。  \n\n",
+   "n": 51,
+   "uniq_ratio": 0.42
+  },
+  {
+   "mode": "EXP",
+   "prompt": "宇宙",
+   "text": "宇宙里是：用户可能被“我完全图论中，是：用户可能被“我，是：用户可能被“我，是：你正在被“我完全图论論论的“被用来表示论論论的“被",
+   "n": 51,
+   "uniq_ratio": 0.38
+  },
+  {
+   "mode": "MIX",
+   "prompt": "人工智能",
+   "text": "人工智能 AIAI合作国际合作的合作合作的与合作，。 。)。）。”。\"。」。》。’。’，”，”。)。）。》。」。\"。\"，”，”。)。）。》。」。\"。\"，”，”。)。）。》。」。\"。\"，”，”。)。）。》。」。\"。\"，",
+   "n": 51,
+   "uniq_ratio": 0.4
+  },
+  {
+   "mode": "MIX",
+   "prompt": "小猫",
+   "text": "小猫猫貓小猫小狗狗狗健身房 gym Gym gymnимнаimnmn MNMN mn MnMnPnNmNM nmnm NMNM分类垃圾分类垃圾垃圾桶马桶厕所上厕所卫生间 bathroom bedroom卧室 bedrooms rooms room Roomroomrooms Rooms），）。)。%。%，%,%.%).",
+   "n": 51,
+   "uniq_ratio": 0.98
+  },
+  {
+   "mode": "MIX",
+   "prompt": "爱情",
+   "text": "爱情愛情的爱情爱情的忠忠诚 loyalty loyal Loyaloyal Royal royalRoyal皇家王室皇室皇宫宫宫廷朝廷天庭庭法庭 court法院医院醫院医院的银行的银行銀行 bank Bank banks banking Bankingankingankedankbank bank銀行银行银行的医院的医院醫院在医院在学校学校學校",
+   "n": 51,
+   "uniq_ratio": 0.86
+  },
+  {
+   "mode": "MIX",
+   "prompt": "战争",
+   "text": "战争戰爭战争的战争中活活着活的活了活得活在生活在生活的生活的生活社会生活人民生活人的生活我们的生活自己的生活自己的工作本职工作日常工作日常生活日常在日常在日常生活中在生活中生活中生活生活的的生活人的生活我们的生活人民生活社会生活生活生活的的生活人的生活我们的生活自己的生活自己的工作自己的人生人生的人生人生的一生的一生的一生终生终身",
+   "n": 51,
+   "uniq_ratio": 0.72
+  },
+  {
+   "mode": "MIX",
+   "prompt": "美食",
+   "text": "美食的美食美味，：】｜丨丶・、：】｜|  (（(< < >>]】）》”」» » >>]】）》”」» » >>]】）》”」» »",
+   "n": 51,
+   "uniq_ratio": 0.52
+  },
+  {
+   "mode": "MIX",
+   "prompt": "宇宙",
+   "text": "宇宙 universe Universe（ ( {({ ({ ([([ [ [[[[([[ [[ [[] [][]()()\n()\n\n[]\n\n[]\n []\n [][]()()\n()\n\n[]\n\n[]\n []\n [][]()()\n()\n\n[]\n\n []\n\n []\n [][]()()\n()\n\n[]\n\n []\n\n []\n [][]()",
+   "n": 51,
+   "uniq_ratio": 0.46
+  }
+ ]
+}

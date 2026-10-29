@@ -1,0 +1,58 @@
+{
+ "runs": [
+  {
+   "D": 3.0,
+   "n_beams": 4,
+   "n_wells": 1225,
+   "n_edges": 7682,
+   "mean_nn": 4.0033,
+   "isolated_removed": 0,
+   "lambda2": 0.065152
+  },
+  {
+   "D": 4.0,
+   "n_beams": 6,
+   "n_wells": 1268,
+   "n_edges": 6409,
+   "mean_nn": 3.6408,
+   "isolated_removed": 0,
+   "lambda2": 0.038379
+  },
+  {
+   "D": 5.0,
+   "n_beams": 8,
+   "n_wells": 969,
+   "n_edges": 4623,
+   "mean_nn": 4.0937,
+   "isolated_removed": 0,
+   "lambda2": 0.042881
+  },
+  {
+   "D": 6.0,
+   "n_beams": 10,
+   "n_wells": 663,
+   "n_edges": 3793,
+   "mean_nn": 5.2233,
+   "isolated_removed": 0,
+   "lambda2": 0.09183
+  },
+  {
+   "D": 7.0,
+   "n_beams": 12,
+   "n_wells": 444,
+   "n_edges": 2422,
+   "mean_nn": 6.316,
+   "isolated_removed": 0,
+   "lambda2": 0.134501
+  },
+  {
+   "D": 8.0,
+   "n_beams": 14,
+   "n_wells": 353,
+   "n_edges": 1944,
+   "mean_nn": 7.2386,
+   "isolated_removed": 0,
+   "lambda2": 0.172648
+  }
+ ]
+}

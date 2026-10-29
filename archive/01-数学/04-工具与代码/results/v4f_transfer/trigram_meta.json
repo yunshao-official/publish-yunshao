@@ -1,0 +1,9 @@
+{
+ "engine": "概念宇宙 LLM · trigram 增补（提示词步骤3 口径）",
+ "corpus": "zcode DeepSeek 对话 blob（清洗三件套，与 bigram v1 同源同口径）",
+ "cleaned_paragraphs": 180007,
+ "cleaned_tokens": 19534936,
+ "trigram_types_ge2": 908926,
+ "elapsed_s": 68.3,
+ "honest_note": "频次≥2 过滤（与 bigram v1 同纪律）；trigram 角色同 bigram=语法先验，非生成器"
+}

@@ -1,0 +1,89 @@
+1,8c1,10
+< // door1_construction_v2.cpp — construction 端重写（挂账#1 关账件）
+< // 构造：Warnsdorff 双端延伸（最少未访邻居优先 = 0905 逆向机制）+ 轻量 Pósa 阶梯 + 最小断口强插
+< // 修补：断口对互修(2-opt) → 单断口邻接扫描缝补 → 卡壳节点拔插(Or-opt)，迭代至清零
+< // 验证：严格排列 + 全真边（verify）+ 断口计数双口径
+< // 网格：m∈{3..7} x N∈{1e3,1e4,1e5} x seeds{7,13,21,42,99,2024} = 论文同款 90 案例
+< // 编译: g++ -O2 -std=c++17 door1_construction_v2.cpp -o door1_construction_v2.exe
+< // 用法: door1_construction_v2.exe N m seed   （单案例）
+< //       door1_construction_v2.exe --grid     （90 案例网格，输出 grid_v2_report.json）
+---
+> // engine_v2_io.cpp — 预注册 m5e5 适配版（2026-09-17）
+> // 基线: door1_construction_v2.cpp SHA256=6c25300e8c902620a329cf1cf61d1581d808379f49d5382b2984cf5e5525108b
+> // 适配声明（偏差披露·仅 I/O 层，机制/验证器/断口口径/PASS 判定零改动）:
+> //   1) 新增 load_edges(): 读外部边表（预注册实例=networkx BA 边表落盘），替代内置 gen_ba 生成器；
+> //      内置 gen_ba 与 --grid 模式原样保留。
+> //   2) solve_case 拆为 solve_case_graph(Graph&,...)，函数体逐行未动。
+> //   3) 新增 --out 路径落盘（每行一个顶点）、--cap（内部软预算，默认 300 不变）、--seed、--N。
+> //   4) 输出追加乙口径闭合检查 closed（首尾相邻真边与否，单独记录，不入 PASS 判定）与 JSON 摘要行。
+> // 原件注释：construction 端重写（挂账#1 关账件）；构造=Warnsdorff 双端延伸+Pósa 阶梯+强插；
+> //           修补=对修/缝补/拔插等迭代；验证=严格排列+全真边+断口双口径。
+10a13
+> #include <utility>
+63a67,92
+> // [适配新增] 读外部边表（每行 "u v"），构建与 gen_ba 同构的 Graph；机制层零改动
+> static Graph load_edges(const char* fn, int forcedN) {
+>     FILE* f = fopen(fn, "r");
+>     if (!f) { fprintf(stderr, "[load_edges] cannot open %s\n", fn); exit(2); }
+>     std::vector<std::pair<int,int>> es;
+>     int a, b;
+>     while (fscanf(f, "%d %d", &a, &b) == 2) if (a != b) es.push_back({a, b});
+>     fclose(f);
+>     int mx = -1;
+>     for (auto& e : es) mx = std::max(mx, std::max(e.first, e.second));
+>     int N = (forcedN > 0) ? forcedN : mx + 1;
+>     if (mx >= N) { fprintf(stderr, "[load_edges] vertex %d >= N %d\n", mx, N); exit(2); }
+>     Graph G; G.N = N;
+>     G.adj.assign(N, {}); G.eset.assign(N, {});
+>     long long dup = 0;
+>     for (auto& e : es) {
+>         if (G.eset[e.first].insert(e.second).second) {
+>             G.adj[e.first].push_back(e.second);
+>             G.adj[e.second].push_back(e.first);
+>             G.eset[e.second].insert(e.first);
+>         } else dup++;
+>     }
+>     fprintf(stderr, "[load_edges] %s: N=%d E=%lld dup=%lld\n", fn, N, (long long)es.size(), dup);
+>     return G;
+> }
+> 
+483c512,514
+< struct Result { bool pass; int breaks0; int breaks1; long long rot; int size_final; double t_gen, t_con, t_rep, t_ver; };
+---
+> struct Result { bool pass; int breaks0; int breaks1; long long rot; int size_final; double t_gen, t_con, t_rep, t_ver; bool closed = false; };
+> 
+> static bool solve_case_graph(Graph& G, unsigned long long seed, Result& r, double cap_s, const char* out_path);  // [适配] 前向声明
+488a520,524
+>     return solve_case_graph(G, seed, r, cap_s, nullptr);   // [适配] 主体转调，函数体未动
+> }
+> 
+> static bool solve_case_graph(Graph& G, unsigned long long seed, Result& r, double cap_s, const char* out_path) {
+>     int N = G.N;
+615a652,659
+>     // [适配新增] 乙口径：首尾闭合检查单独记录（不入 PASS 判定）
+>     r.closed = ((int)C.path.size() == N) && G.has(C.path.front(), C.path.back());
+>     // [适配新增] 路径落盘（无论 pass 与否，供独立验证器复核）
+>     if (out_path) {
+>         FILE* pf = fopen(out_path, "w");
+>         if (pf) { for (int v : C.path) fprintf(pf, "%d\n", v); fclose(pf); }
+>         else fprintf(stderr, "[out] cannot write %s\n", out_path);
+>     }
+619a664,681
+>     // [适配新增] --edges <efile> --out <pfile> [--cap S] [--N n] [--seed s]
+>     if (argc > 1 && strcmp(argv[1], "--edges") == 0) {
+>         const char* efile = argv[2];
+>         const char* pfile = nullptr;
+>         double cap = 300.0; int forcedN = -1; unsigned long long sd = 42;
+>         for (int i = 3; i < argc; i++) {
+>             if (!strcmp(argv[i], "--out") && i + 1 < argc) pfile = argv[++i];
+>             else if (!strcmp(argv[i], "--cap") && i + 1 < argc) cap = atof(argv[++i]);
+>             else if (!strcmp(argv[i], "--N") && i + 1 < argc) forcedN = atoi(argv[++i]);
+>             else if (!strcmp(argv[i], "--seed") && i + 1 < argc) sd = strtoull(argv[++i], 0, 10);
+>         }
+>         Result r{};
+>         Graph G = load_edges(efile, forcedN);
+>         bool ok = solve_case_graph(G, sd, r, cap, pfile);
+>         printf("{\"mode\":\"edges\",\"pass\":%s,\"size\":%d,\"breaks0\":%d,\"breaks1\":%d,\"closed\":%s,\"rot\":%lld,\"t_gen\":%.3f,\"t_con\":%.3f,\"t_rep\":%.3f,\"t_ver\":%.3f,\"cap_s\":%.1f,\"seed\":%llu}\n",
+>                ok ? "true" : "false", r.size_final, r.breaks0, r.breaks1, r.closed ? "true" : "false", r.rot, r.t_gen, r.t_con, r.t_rep, r.t_ver, cap, sd);
+>         return ok ? 0 : 1;
+>     }

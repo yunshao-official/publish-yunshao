@@ -1,0 +1,129 @@
+{
+ "一_Fano_Steane同构验证": {
+  "f2_3_nonzero_vectors": [
+   [
+    1,
+    0,
+    0
+   ],
+   [
+    0,
+    1,
+    0
+   ],
+   [
+    0,
+    0,
+    1
+   ],
+   [
+    1,
+    1,
+    0
+   ],
+   [
+    1,
+    0,
+    1
+   ],
+   [
+    0,
+    1,
+    1
+   ],
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "fano_line_count": 21,
+  "hamming_H_columns_equal_fano_points": true,
+  "steane_713": "CSS(H,H)，7 物理比特保护 1 逻辑比特（7:1），纠单比特 X/Z 错误",
+  "bridge": "体系 7 缺陷通道（F₂³ 非零向量/Fano 点）= Hamming/Steane 码校验几何——同一数学对象【复算一致】"
+ },
+ "二_蒙特卡洛": {
+  "rows": [
+   {
+    "p_physical": 0.001,
+    "p_logical": 1e-05,
+    "suppression_vs_uncoded_single": 100.0,
+    "suppression_vs_uncoded_7bit_block": 100.0,
+    "uncoded_7bit_anyflip": 0.006979034965020947
+   },
+   {
+    "p_physical": 0.003,
+    "p_logical": 0.00017,
+    "suppression_vs_uncoded_single": 17.64705882352941,
+    "suppression_vs_uncoded_7bit_block": 17.64705882352941,
+    "uncoded_7bit_anyflip": 0.020811942170097963
+   },
+   {
+    "p_physical": 0.005,
+    "p_logical": 0.00053,
+    "suppression_vs_uncoded_single": 9.433962264150944,
+    "suppression_vs_uncoded_7bit_block": 9.433962264150944,
+    "uncoded_7bit_anyflip": 0.03447935319051576
+   },
+   {
+    "p_physical": 0.01,
+    "p_logical": 0.00187,
+    "suppression_vs_uncoded_single": 5.347593582887701,
+    "suppression_vs_uncoded_7bit_block": 5.347593582887701,
+    "uncoded_7bit_anyflip": 0.06793465209301008
+   },
+   {
+    "p_physical": 0.02,
+    "p_logical": 0.00761,
+    "suppression_vs_uncoded_single": 2.6281208935611042,
+    "suppression_vs_uncoded_7bit_block": 2.6281208935611042,
+    "uncoded_7bit_anyflip": 0.13187446675328007
+   },
+   {
+    "p_physical": 0.03,
+    "p_logical": 0.01683,
+    "suppression_vs_uncoded_single": 1.7825311942959,
+    "suppression_vs_uncoded_7bit_block": 1.7825311942959,
+    "uncoded_7bit_anyflip": 0.1920171552188702
+   },
+   {
+    "p_physical": 0.05,
+    "p_logical": 0.04467,
+    "suppression_vs_uncoded_single": 1.1193194537721065,
+    "suppression_vs_uncoded_7bit_block": 1.1193194537721065,
+    "uncoded_7bit_anyflip": 0.3016627039062503
+   },
+   {
+    "p_physical": 0.08,
+    "p_logical": 0.10274,
+    "suppression_vs_uncoded_single": 0.7786645902277595,
+    "suppression_vs_uncoded_7bit_block": 0.7786645902277595,
+    "uncoded_7bit_anyflip": 0.4421533987635198
+   },
+   {
+    "p_physical": 0.1,
+    "p_logical": 0.15048,
+    "suppression_vs_uncoded_single": 0.6645401382243488,
+    "suppression_vs_uncoded_7bit_block": 0.6645401382243488,
+    "uncoded_7bit_anyflip": 0.5217030999999999
+   },
+   {
+    "p_physical": 0.15,
+    "p_logical": 0.28416,
+    "suppression_vs_uncoded_single": 0.5278716216216216,
+    "suppression_vs_uncoded_7bit_block": 0.5278716216216216,
+    "uncoded_7bit_anyflip": 0.67942291171875
+   }
+  ],
+  "trials_per_point": 100000,
+  "note": "理想综合征测量口径；抑制因子=物理错误率/逻辑错误率"
+ },
+ "三_常数问": {
+  "体系主张": "虫洞拓扑纠错 10:1",
+  "Steane 实测口径": "7:1（7 物理比特/1 逻辑比特，纠单错）",
+  "surface code 口径": "d² 比特/逻辑（d=3→9:1, d=5→25:1）",
+  "verdict": "10:1 无标准码出处【常数问命中】；最近邻实码=Steane 7:1 与 d=3 表面码 9:1",
+  "Lambda同名词": "纠错文献的错误抑制因子恰称 Λ（每距离步逻辑错误率下降比，Google 2024 实测≈2.14）——与体系 Λ（锁定深度）为同名概念的双投影"
+ },
+ "honest_note": "全部【执行】层计算；虫洞机制【体系】无方程不入账；判据=逻辑错误率实测。"
+}

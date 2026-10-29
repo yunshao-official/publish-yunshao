@@ -1,0 +1,127 @@
+{
+ "script": "ta2_towergraphV2-v1.0-20260927.py",
+ "prereg": "黎曼猜想·通俗图解-v4.0-20260927 §十二（NTFS冻结在先）",
+ "ran_at": "2026-09-27T05:22:43",
+ "platform": "Windows-11-10.0.22631-SP0",
+ "spectra": {
+  "7": [
+   2,
+   3,
+   4,
+   7
+  ],
+  "11": [
+   2,
+   3,
+   5,
+   6,
+   11
+  ],
+  "13": [
+   2,
+   3,
+   6,
+   7,
+   13
+  ],
+  "17": [
+   2,
+   3,
+   4,
+   8,
+   9,
+   17
+  ],
+  "19": [
+   2,
+   3,
+   5,
+   9,
+   10,
+   19
+  ],
+  "23": [
+   2,
+   3,
+   4,
+   6,
+   11,
+   12,
+   23
+  ],
+  "29": [
+   2,
+   3,
+   5,
+   7,
+   14,
+   15,
+   29
+  ],
+  "31": [
+   2,
+   3,
+   4,
+   5,
+   8,
+   15,
+   16,
+   31
+  ]
+ },
+ "closed_form_verified": true,
+ "results": {
+  "v2_th3": {
+   "n_edges": 19,
+   "complete": false,
+   "connected": true,
+   "capacity": {
+    "L_size": 2,
+    "flow": 4,
+    "need": 2,
+    "indep": false,
+    "KILL": false
+   },
+   "lambda2": 3.1864,
+   "hamilton": {
+    "exists": true,
+    "count": 1058
+   }
+  },
+  "v2_th2": {
+   "n_edges": 28,
+   "complete": true,
+   "connected": true,
+   "capacity": {
+    "L_size": 1,
+    "note": "无靶",
+    "KILL": false
+   },
+   "lambda2": 8.0,
+   "hamilton": {
+    "exists": true,
+    "count": 20160
+   }
+  },
+  "v2_th4": {
+   "n_edges": 3,
+   "complete": false,
+   "connected": false
+  },
+  "gcd_th12": {
+   "n_edges": 28,
+   "complete": true,
+   "connected": true,
+   "capacity": {
+    "L_size": 1,
+    "note": "无靶",
+    "KILL": false
+   },
+   "lambda2": 8.0,
+   "hamilton": {
+    "exists": true,
+    "count": 20160
+   }
+  }
+ }
+}

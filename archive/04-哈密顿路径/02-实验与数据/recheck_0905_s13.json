@@ -1,0 +1,1 @@
+{"edge_file": "canon_ba5_100k_s13_graph.txt", "path_file": "ba5_100k_s13_strict_path.txt", "N": 100000, "n_edges_declared": 499986, "path_len": 100000, "breaks_甲": 0, "breaks_detail_head": [], "closed_乙": false, "fail_list": [], "strict_pass": true}

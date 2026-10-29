@@ -1,0 +1,366 @@
+{
+ "frozen_criteria": "m4悬崖边界·参考实现扫描预注册判据书-v1.0-20260927.md",
+ "generator": "networkx.barabasi_albert_graph(N,4,seed)",
+ "results": [
+  {
+   "N": 100,
+   "seed": 42,
+   "arm": "A",
+   "solved": true,
+   "time_s": 0.002,
+   "min_deg": 4,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 42,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 43,
+   "arm": "A",
+   "solved": true,
+   "time_s": 0.062,
+   "min_deg": 4,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 43,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 44,
+   "arm": "A",
+   "solved": true,
+   "time_s": 0.031,
+   "min_deg": 4,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 44,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 45,
+   "arm": "A",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 4,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 45,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 46,
+   "arm": "A",
+   "solved": true,
+   "time_s": 0.293,
+   "min_deg": 4,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 46,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 42,
+   "arm": "A",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 42,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 43,
+   "arm": "A",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 43,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 44,
+   "arm": "A",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 44,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 45,
+   "arm": "A",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 45,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 46,
+   "arm": "A",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 46,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 500,
+   "seed": 42,
+   "arm": "A",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 500,
+   "seed": 42,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 500,
+   "seed": 43,
+   "arm": "A",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 500,
+   "seed": 43,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 500,
+   "seed": 44,
+   "arm": "A",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 500,
+   "seed": 44,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 500,
+   "seed": 45,
+   "arm": "A",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 500,
+   "seed": 45,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 500,
+   "seed": 46,
+   "arm": "A",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 500,
+   "seed": 46,
+   "arm": "B",
+   "solved": false,
+   "time_s": 5.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 1000,
+   "seed": 42,
+   "arm": "A",
+   "solved": false,
+   "time_s": 20.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 1000,
+   "seed": 42,
+   "arm": "B",
+   "solved": false,
+   "time_s": 20.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 1000,
+   "seed": 43,
+   "arm": "A",
+   "solved": false,
+   "time_s": 20.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 1000,
+   "seed": 43,
+   "arm": "B",
+   "solved": false,
+   "time_s": 20.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 1000,
+   "seed": 44,
+   "arm": "A",
+   "solved": false,
+   "time_s": 20.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 1000,
+   "seed": 44,
+   "arm": "B",
+   "solved": false,
+   "time_s": 20.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 1000,
+   "seed": 45,
+   "arm": "A",
+   "solved": false,
+   "time_s": 20.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 1000,
+   "seed": 45,
+   "arm": "B",
+   "solved": false,
+   "time_s": 20.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 1000,
+   "seed": 46,
+   "arm": "A",
+   "solved": false,
+   "time_s": 20.0,
+   "min_deg": 4,
+   "verified": false
+  },
+  {
+   "N": 1000,
+   "seed": 46,
+   "arm": "B",
+   "solved": false,
+   "time_s": 20.0,
+   "min_deg": 4,
+   "verified": false
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "settling_table": [
+  {
+   "rp_m": 0.0005,
+   "v_stokes_m_s": 2.7249999999999996,
+   "v_stokes_over_upflow": 272.49999999999994
+  },
+  {
+   "rp_m": 0.0001,
+   "v_stokes_m_s": 0.109,
+   "v_stokes_over_upflow": 10.9
+  },
+  {
+   "rp_m": 2e-05,
+   "v_stokes_m_s": 0.004360000000000001,
+   "v_stokes_over_upflow": 0.4360000000000001
+  },
+  {
+   "rp_m": 1e-05,
+   "v_stokes_m_s": 0.0010900000000000003,
+   "v_stokes_over_upflow": 0.10900000000000003
+  }
+ ],
+ "magnetic_drift_velocity_at_wire": [
+  {
+   "rp_m": 0.0005,
+   "v_mag_PM_m_s": 605.1173180621199,
+   "v_mag_SC_m_s": 302558.65903105994
+  },
+  {
+   "rp_m": 0.0001,
+   "v_mag_PM_m_s": 24.2046927224848,
+   "v_mag_SC_m_s": 12102.346361242398
+  },
+  {
+   "rp_m": 2e-05,
+   "v_mag_PM_m_s": 0.968187708899392,
+   "v_mag_SC_m_s": 484.09385444969604
+  },
+  {
+   "rp_m": 1e-05,
+   "v_mag_PM_m_s": 0.242046927224848,
+   "v_mag_SC_m_s": 121.02346361242401
+  }
+ ],
+ "capture_PM": [
+  {
+   "rp_m": 0.0005,
+   "captured": 0,
+   "top_exit": 0,
+   "settled_back": 400,
+   "timeout": 0
+  },
+  {
+   "rp_m": 0.0001,
+   "captured": 0,
+   "top_exit": 0,
+   "settled_back": 400,
+   "timeout": 0
+  },
+  {
+   "rp_m": 2e-05,
+   "captured": 233,
+   "top_exit": 167,
+   "settled_back": 0,
+   "timeout": 0
+  },
+  {
+   "rp_m": 1e-05,
+   "captured": 123,
+   "top_exit": 277,
+   "settled_back": 0,
+   "timeout": 0
+  }
+ ],
+ "capture_SC": [
+  {
+   "rp_m": 0.0005,
+   "captured": 0,
+   "top_exit": 0,
+   "settled_back": 400,
+   "timeout": 0
+  },
+  {
+   "rp_m": 0.0001,
+   "captured": 0,
+   "top_exit": 0,
+   "settled_back": 400,
+   "timeout": 0
+  },
+  {
+   "rp_m": 2e-05,
+   "captured": 400,
+   "top_exit": 0,
+   "settled_back": 0,
+   "timeout": 0
+  },
+  {
+   "rp_m": 1e-05,
+   "captured": 400,
+   "top_exit": 0,
+   "settled_back": 0,
+   "timeout": 0
+  }
+ ],
+ "cycle_ledger_rp20um": {
+  "conveyable_fraction": 1.0,
+  "capture_fraction_of_conveyable": 0.565,
+  "n_per_meter_wire_monolayer": 1750000.0,
+  "particle_capture_rate_per_s_per_m": 84302383.9189883,
+  "t_saturate_s": 0.020758606324605126,
+  "t_field_down_s": 10.0,
+  "t_flush_s": 10.0,
+  "t_cycle_s": 20.020758606324605,
+  "steady_throughput_m2_s_per_m_width": 1.0368541338911821e-07
+ },
+ "meta": {
+  "grad_B2_scale_at_wire_T2_per_m": 13687.431271084184,
+  "geometry": "立式上行（工业HGMS口径）",
+  "honest_note": "单丝保守下限（无钢毛矩阵放大）；过阻尼二维；近丝速度截断0.5m/s；湍流未计"
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "engine": "概念宇宙 LLM · 转移宇宙 v3（模型自身分布版）",
+ "principle": "知世原话：知识内容和质量方向，难道不是与生俱来的吗——不统计语料，直接从权重结构提取",
+ "sources": {
+  "tid2eid": "blk.0.ffn_gate_tid2eid [6,129280] I32 -> token 官方专家路由",
+  "output_head": "output.weight -> 簇中心投影 -> 天然后继 top-8",
+  "attn_assoc": "blk.0.attn.wo_b -> 簇投影余弦 -> 关联边（阈 0.3）"
+ },
+ "cluster_count": 2048,
+ "elapsed_s": 52.7,
+ "honest_note": "v3 与 v1/v2 的区别：v1 从聊天记录统计（污染+天花板），v2 用 gate_inp（选型器），v3 用 output head（模型自己的'想说什么'分布）+ 官方路由表 + attention 关联——全部直接来自权重，零语料依赖"
+}

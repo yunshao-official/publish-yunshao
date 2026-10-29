@@ -1,0 +1,13 @@
+[att0 strat1] construct=OK size=50000/50000 defects=116421
+[att0] match-lns lns=miss;rounds=60;surg=1;best=11111/50000
+[att0] expand-FAIL match=11111/50000
+[att1 strat2] construct=OK size=50000/50000 defects=117611
+[att1] match-lns lns=miss;rounds=60;surg=2;best=10586/50000
+[att1] expand-FAIL match=10586/50000
+[att0 strat1] construct=OK size=50000/50000 defects=115501
+[att0] match-lns lns=miss;rounds=60;surg=7;best=11268/50000
+[att0] expand-FAIL match=11268/50000
+[att1 strat2] construct=OK size=50000/50000 defects=116999
+[att1] match-lns lns=miss;rounds=60;surg=2;best=10580/50000
+[att1] expand-FAIL match=10580/50000
+LONG10E5_DONE3

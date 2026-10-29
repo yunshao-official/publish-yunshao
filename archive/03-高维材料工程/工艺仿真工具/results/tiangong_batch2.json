@@ -1,0 +1,13 @@
+{
+ "T3": {
+  "best_amp_um": 10.7
+ },
+ "T4": {
+  "R8": 2741,
+  "E_density_GJm3": 1300
+ },
+ "T5": {
+  "gamow_exp_room": 6258
+ },
+ "V05_budget": "ok"
+}

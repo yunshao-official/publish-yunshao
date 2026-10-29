@@ -1,0 +1,40 @@
+{
+ "engine": "概念宇宙 LLM · 速度架构实测 v3",
+ "mode_A_pure_traversal": {
+  "speed_tok_s": 4369.0,
+  "diversity": 0.085,
+  "n_tokens": 1230,
+  "elapsed_s": 0.28,
+  "note": "纯图遍历+查表，无 LM 前向；速度=架构上限"
+ },
+ "mode_B_gpu_gate": {
+  "speed_tok_s": 16.23,
+  "note": "Qwen 1.5B Q4_K_M on RX 580 Vulkan (llama-bench / 档案值)"
+ },
+ "mode_C_cpu_gate": {
+  "speed_tok_s": 0.7,
+  "note": "Qwen 1.5B fp32 CPU teacher-forcing（M2 实测）"
+ },
+ "speculative_potential": {
+  "candidate_ratio": 8,
+  "gpu_speculative_est": 129.8,
+  "note": "推测解码思路：遍历出 8 候选 → LM 选 1（LM 调用率 1/8）"
+ },
+ "blacklist": [
+  "但用户",
+  "可能需要",
+  "翻译成英文",
+  "用户可能",
+  "请输入",
+  "-10分",
+  "____"
+ ],
+ "samples_A": {
+  "SMI": "人工智能 AIAI.ai ai AiAi Ai AI人工智能智能智能化智能制造制造制造业製造 manufacturing Manufacturing manuf",
+  "TRF": "人工智能和“云铝、心理学领域，我”在中文数字。他需要被用来表示**：你正在移动的缩写。\n    - 1,3.5/2]。  \n  ",
+  "CNT": "人工智能物联网区块链 blockchain一带一路比特币 Bitcoin人工智能供应链 cryptocur跨境区块链 blockchain物联网人工智能比特币 ",
+  "EXP": "人工智能 AI Ai aiAIAi量化投资。他们“我之前的分析，而是因为他们的系统、被用来表示论和《天同人” ”的地线性的问题：**\n    2",
+  "MIX": "人工智能 AIAI AI Ai AI ai AI人工智能智能智能化智能智能制造智能智慧智能智智能 smart智能 Smart智能人工智能 Artificial "
+ },
+ "elapsed_s": 13.1
+}

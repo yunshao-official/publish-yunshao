@@ -1,0 +1,120 @@
+{
+ "pass": true,
+ "items": [
+  {
+   "name": "G表 zeta(2,m+1) m=5000",
+   "pass": true,
+   "detail": "err=0.0"
+  },
+  {
+   "name": "G表 zeta(3,m+1) m=5000",
+   "pass": true,
+   "detail": "err=3.98e-59"
+  },
+  {
+   "name": "G表 zeta(5,m+1) m=5000",
+   "pass": true,
+   "detail": "err=4.21e-65"
+  },
+  {
+   "name": "G表 zeta(7,m+1) m=5000",
+   "pass": true,
+   "detail": "err=5.52e-65"
+  },
+  {
+   "name": "DG表 -d_w zeta(3,m+1) m=5000",
+   "pass": true,
+   "detail": "err=0.0"
+  },
+  {
+   "name": "G表 H_m=psi(m+1)+gamma m=5000",
+   "pass": true,
+   "detail": "err=2.14e-50"
+  },
+  {
+   "name": "ζ(2)=pi^2/6",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "ζ(3)=zeta(3)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "ζ(2,2)=pi^4/120",
+   "pass": true,
+   "detail": "val=0.81174242528335364364"
+  },
+  {
+   "name": "ζ(2,2,2)=pi^6/7!",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "ζ(3,3)=ζ3²/2-ζ6/2",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "ζ(2,1)=ζ(3)",
+   "pass": true,
+   "detail": "val=1.2020569031595942854"
+  },
+  {
+   "name": "ζ(3,1)=ζ4/4",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "ζ(4,1)=2ζ5-ζ2ζ3",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "ζ(5,1)=Euler闭式",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "v1.0深度2值交叉(12/12)",
+   "pass": true,
+   "detail": "worst=2.76e-10（v1.0字面法精度内）"
+  },
+  {
+   "name": "对偶 ζ(2, 3) = ζ(2, 1, 2)",
+   "pass": true,
+   "detail": "err=9.35e-51"
+  },
+  {
+   "name": "对偶 ζ(3, 3) = ζ(2, 1, 2, 1)",
+   "pass": true,
+   "detail": "err=4.68e-51"
+  },
+  {
+   "name": "对偶 ζ(2, 2, 3) = ζ(2, 1, 2, 2)",
+   "pass": true,
+   "detail": "err=9.02e-51"
+  },
+  {
+   "name": "对偶 ζ(2, 3, 3) = ζ(2, 1, 2, 1, 2)",
+   "pass": true,
+   "detail": "err=2.0e-51"
+  },
+  {
+   "name": "对偶 ζ(3, 2, 2) = ζ(2, 2, 2, 1)",
+   "pass": true,
+   "detail": "err=1.25e-52"
+  },
+  {
+   "name": "自对偶 ζ(2,2,2)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "N/2N自洽残差抽样",
+   "pass": true,
+   "detail": "worst=2.54e-50"
+  }
+ ]
+}

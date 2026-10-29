@@ -1,0 +1,1 @@
+{"walk_len": 151936, "true_edge_rate": 0.6696, "semA": {"adjacent_mean_sim": 0.4405, "random_mean_sim": 0.1077, "lift": 0.3328}, "semB": {"spearman_pos_vs_sim": 0.0375, "note": "负值=路径位置远的词对相似度低（预期方向）"}, "elapsed_s": 5.6}

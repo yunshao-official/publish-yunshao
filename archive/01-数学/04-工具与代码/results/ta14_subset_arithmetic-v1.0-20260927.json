@@ -1,0 +1,73 @@
+{
+ "task": "arithmetic of dual-seen subset",
+ "indices": [
+  5,
+  8,
+  10,
+  11,
+  12,
+  13
+ ],
+ "gaps": [
+  3,
+  2,
+  1,
+  1,
+  1
+ ],
+ "gram_points_approx": [
+  17.846,
+  23.172,
+  27.672,
+  31.718,
+  35.468,
+  39.0,
+  42.364,
+  45.594,
+  48.712,
+  51.734,
+  54.676,
+  57.546,
+  60.352
+ ],
+ "gram_stagger": [
+  {
+   "n": 5,
+   "t": 32.9351,
+   "n_gram_before": 4,
+   "nearest_gram": 31.718
+  },
+  {
+   "n": 8,
+   "t": 43.3271,
+   "n_gram_before": 7,
+   "nearest_gram": 42.364
+  },
+  {
+   "n": 10,
+   "t": 49.7738,
+   "n_gram_before": 9,
+   "nearest_gram": 48.712
+  },
+  {
+   "n": 11,
+   "t": 52.9703,
+   "n_gram_before": 10,
+   "nearest_gram": 51.734
+  },
+  {
+   "n": 12,
+   "t": 56.4462,
+   "n_gram_before": 11,
+   "nearest_gram": 57.546
+  },
+  {
+   "n": 13,
+   "t": 59.347,
+   "n_gram_before": 12,
+   "nearest_gram": 60.352
+  }
+ ],
+ "p_random_4run": 0.0008,
+ "ran_at": "2026-09-27T23:30:53"
+}
