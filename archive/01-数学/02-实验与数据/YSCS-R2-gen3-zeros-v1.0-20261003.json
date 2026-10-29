@@ -1,0 +1,43 @@
+{
+ "frozen": "C4a 收敛性（显式误差不逐点恶化超3倍）/ C4b 记账 ratio",
+ "c4a_result": "成立",
+ "c4b_notebook": "improve_explicit_vs_Li = 显式200零点相对裸Li的误差改善倍数",
+ "rows": [
+  {
+   "x": 1000.0,
+   "pi": 168,
+   "err_Li": 0.05720034517947754,
+   "err_explicit200": 7.255206621742741,
+   "delta3_model": 2.8477800843240946,
+   "ratio_delta_vs_errLi": 0.2963456230432383,
+   "improve_explicit_vs_Li": 0.00788404082222233
+  },
+  {
+   "x": 10000.0,
+   "pi": 1229,
+   "err_Li": 0.013944032464921449,
+   "err_explicit200": 2.136292616788894,
+   "delta3_model": 6.292389289113047,
+   "ratio_delta_vs_errLi": 0.3671768696884767,
+   "improve_explicit_vs_Li": 0.00652721090516196
+  },
+  {
+   "x": 100000.0,
+   "pi": 9592,
+   "err_Li": 0.0039417223781065686,
+   "err_explicit200": 0.44849192119907394,
+   "delta3_model": 15.176102121090498,
+   "ratio_delta_vs_errLi": 0.40138860322441944,
+   "improve_explicit_vs_Li": 0.008788836970726481
+  },
+  {
+   "x": 1000000.0,
+   "pi": 78498,
+   "err_Li": 0.0016503498109783933,
+   "err_explicit200": 0.07803227829355966,
+   "delta3_model": 38.72459130303996,
+   "ratio_delta_vs_errLi": 0.2989181208415672,
+   "improve_explicit_vs_Li": 0.02114957870087722
+  }
+ ]
+}
