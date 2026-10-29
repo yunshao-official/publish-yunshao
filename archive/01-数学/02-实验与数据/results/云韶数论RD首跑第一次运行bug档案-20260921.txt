@@ -1,0 +1,16 @@
+云韶数论 RD-1~RD-4 数值首跑·第一次运行存档（bug 档案用节选，2026-09-21）
+说明：第一次运行 RD-2 的 J→π 腿 FAIL，定位为运行件 Möbius 筛实现错误（μ(6) 误算为 −1），
+修复后重跑（判据未动）。本文件为第一次运行与关键输出的节选存档（原文照录）。
+
+[RD-2] 刻度链封闭（ψ→J / J→π / J→ψ，网格 25 点，容差 1e-9）：
+    psi_to_j: 最差相对偏差 3.105e-14
+    j_to_pi: 最差相对偏差 1.055e-01
+    j_to_psi: 最差相对偏差 3.299e-14
+    判定：FAIL（判负照记）｜素数≤1e7：664,579｜素数幂断点：665,134
+
+[RD-3] 平凡层闭式核对：
+Traceback (most recent call last):
+  File "...云韶数论RD-1至RD-4数值首跑-20260921.py", line 161, in rd3
+    rel = abs(s - closed) / abs(closed)
+ZeroDivisionError: division by zero
+（注：x=1e9 档闭式 log(1-1e-18) 下溢为 0；改 log1p 修复，属实现精度修复非判据改动。）

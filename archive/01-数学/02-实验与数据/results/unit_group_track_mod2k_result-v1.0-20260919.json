@@ -1,0 +1,146 @@
+{
+ "script_clock_first_run": "2026-09-19 23:04:38",
+ "frozen_evidence": "判据书NTFS创建于本脚本首跑之前（时钟见执行报告核对记录）",
+ "W1": {
+  "1": {
+   "m": 2,
+   "phi_actual": 1,
+   "phi_expected": 1,
+   "ok": true
+  },
+  "2": {
+   "m": 4,
+   "phi_actual": 2,
+   "phi_expected": 2,
+   "ok": true
+  },
+  "3": {
+   "m": 8,
+   "phi_actual": 4,
+   "phi_expected": 4,
+   "ok": true
+  },
+  "4": {
+   "m": 16,
+   "phi_actual": 8,
+   "phi_expected": 8,
+   "ok": true
+  },
+  "5": {
+   "m": 32,
+   "phi_actual": 16,
+   "phi_expected": 16,
+   "ok": true
+  },
+  "6": {
+   "m": 64,
+   "phi_actual": 32,
+   "phi_expected": 32,
+   "ok": true
+  },
+  "7": {
+   "m": 128,
+   "phi_actual": 64,
+   "phi_expected": 64,
+   "ok": true
+  },
+  "8": {
+   "m": 256,
+   "phi_actual": 128,
+   "phi_expected": 128,
+   "ok": true
+  }
+ },
+ "W1_pass": true,
+ "W2": {
+  "3": {
+   "ord_minus1": 2,
+   "ord_5": 2,
+   "ord_5_expected": 2,
+   "inter_trivial": true,
+   "product_size": 4,
+   "group_size": 4,
+   "ok": true
+  },
+  "4": {
+   "ord_minus1": 2,
+   "ord_5": 4,
+   "ord_5_expected": 4,
+   "inter_trivial": true,
+   "product_size": 8,
+   "group_size": 8,
+   "ok": true
+  },
+  "5": {
+   "ord_minus1": 2,
+   "ord_5": 8,
+   "ord_5_expected": 8,
+   "inter_trivial": true,
+   "product_size": 16,
+   "group_size": 16,
+   "ok": true
+  },
+  "6": {
+   "ord_minus1": 2,
+   "ord_5": 16,
+   "ord_5_expected": 16,
+   "inter_trivial": true,
+   "product_size": 32,
+   "group_size": 32,
+   "ok": true
+  },
+  "7": {
+   "ord_minus1": 2,
+   "ord_5": 32,
+   "ord_5_expected": 32,
+   "inter_trivial": true,
+   "product_size": 64,
+   "group_size": 64,
+   "ok": true
+  },
+  "8": {
+   "ord_minus1": 2,
+   "ord_5": 64,
+   "ord_5_expected": 64,
+   "inter_trivial": true,
+   "product_size": 128,
+   "group_size": 128,
+   "ok": true
+  }
+ },
+ "W2_pass": true,
+ "W3": {
+  "elements": [
+   1,
+   5,
+   7,
+   11,
+   13,
+   17,
+   19,
+   23
+  ],
+  "orders": {
+   "1": 1,
+   "5": 2,
+   "7": 2,
+   "11": 2,
+   "13": 2,
+   "17": 2,
+   "19": 2,
+   "23": 2
+  },
+  "all_x2_eq_1": true,
+  "pass": true
+ },
+ "W4": {
+  "Z8_order": 8,
+  "U8_order": 4,
+  "Z8_has_order8_elem": true,
+  "U8_max_order": 2,
+  "ok": true
+ },
+ "W4_pass": true,
+ "overall": true,
+ "clock_finished": "2026-09-19 23:04:38"
+}

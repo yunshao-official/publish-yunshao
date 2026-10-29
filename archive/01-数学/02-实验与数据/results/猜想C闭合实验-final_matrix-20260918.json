@@ -1,0 +1,1057 @@
+{
+ "rows": [
+  {
+   "tag": "m3_N1000_s42",
+   "m": 3,
+   "N": 1000,
+   "seed": 42,
+   "cap": "capacity-KILLED",
+   "L": 395,
+   "flow": 705,
+   "demand": 788,
+   "LB": 42,
+   "lambda2": null,
+   "Lambda": null,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     "-",
+     null
+    ]
+   ],
+   "breaks": "-",
+   "pass_": false,
+   "wall": 0.63,
+   "mode": "capacity-KILLED"
+  },
+  {
+   "tag": "m4_N1000_s42",
+   "m": 4,
+   "N": 1000,
+   "seed": 42,
+   "cap": "capacity-PASS",
+   "L": 329,
+   "flow": 658,
+   "demand": 656,
+   "LB": 0,
+   "lambda2": 2.0911927481577406,
+   "Lambda": 0,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     90.0,
+     [
+      0,
+      0
+     ]
+    ]
+   ],
+   "breaks": "0→0",
+   "rot": 41,
+   "rounds": "0/0",
+   "pass_": true,
+   "cap_given": 90.0,
+   "wall": 1.08,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m4_N1000_s13",
+   "m": 4,
+   "N": 1000,
+   "seed": 13,
+   "cap": "capacity-PASS",
+   "L": 354,
+   "flow": 708,
+   "demand": 706,
+   "LB": 0,
+   "lambda2": 2.089206646896295,
+   "Lambda": null,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     90.0,
+     [
+      3,
+      2
+     ]
+    ]
+   ],
+   "breaks": "3→2",
+   "rot": 494,
+   "rounds": "45/52",
+   "pass_": false,
+   "cap_given": 90.0,
+   "wall": 29.09,
+   "mode": "残余断口2"
+  },
+  {
+   "tag": "m4_N1000_s7",
+   "m": 4,
+   "N": 1000,
+   "seed": 7,
+   "cap": "capacity-PASS",
+   "L": 331,
+   "flow": 662,
+   "demand": 660,
+   "LB": 0,
+   "lambda2": 1.9826161450535573,
+   "Lambda": 0,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     90.0,
+     [
+      0,
+      0
+     ]
+    ]
+   ],
+   "breaks": "0→0",
+   "rot": 51,
+   "rounds": "0/0",
+   "pass_": true,
+   "cap_given": 90.0,
+   "wall": 1.05,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m5_N1000_s42",
+   "m": 5,
+   "N": 1000,
+   "seed": 42,
+   "cap": "capacity-PASS",
+   "L": 257,
+   "flow": 514,
+   "demand": 512,
+   "LB": 0,
+   "lambda2": 2.8787112473742416,
+   "Lambda": 0,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     90.0,
+     [
+      0,
+      0
+     ]
+    ]
+   ],
+   "breaks": "0→0",
+   "rot": 6,
+   "rounds": "0/0",
+   "pass_": true,
+   "cap_given": 90.0,
+   "wall": 1.07,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m5_N1000_s13",
+   "m": 5,
+   "N": 1000,
+   "seed": 13,
+   "cap": "capacity-PASS",
+   "L": 277,
+   "flow": 554,
+   "demand": 552,
+   "LB": 0,
+   "lambda2": 2.8852016978142716,
+   "Lambda": 0,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     90.0,
+     [
+      0,
+      0
+     ]
+    ]
+   ],
+   "breaks": "0→0",
+   "rot": 6,
+   "rounds": "0/0",
+   "pass_": true,
+   "cap_given": 90.0,
+   "wall": 1.06,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m5_N1000_s7",
+   "m": 5,
+   "N": 1000,
+   "seed": 7,
+   "cap": "capacity-PASS",
+   "L": 281,
+   "flow": 562,
+   "demand": 560,
+   "LB": 0,
+   "lambda2": 2.892452106315163,
+   "Lambda": 0,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     90.0,
+     [
+      0,
+      0
+     ]
+    ]
+   ],
+   "breaks": "0→0",
+   "rot": 3,
+   "rounds": "0/0",
+   "pass_": true,
+   "cap_given": 90.0,
+   "wall": 1.05,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m6_N1000_s42",
+   "m": 6,
+   "N": 1000,
+   "seed": 42,
+   "cap": "capacity-PASS",
+   "L": 240,
+   "flow": 480,
+   "demand": 478,
+   "LB": 0,
+   "lambda2": 3.777918502267461,
+   "Lambda": 0,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     90.0,
+     [
+      0,
+      0
+     ]
+    ]
+   ],
+   "breaks": "0→0",
+   "rot": 0,
+   "rounds": "0/0",
+   "pass_": true,
+   "cap_given": 90.0,
+   "wall": 1.06,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m6_N1000_s13",
+   "m": 6,
+   "N": 1000,
+   "seed": 13,
+   "cap": "capacity-PASS",
+   "L": 257,
+   "flow": 514,
+   "demand": 512,
+   "LB": 0,
+   "lambda2": 3.753816379603726,
+   "Lambda": 0,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     90.0,
+     [
+      0,
+      0
+     ]
+    ]
+   ],
+   "breaks": "0→0",
+   "rot": 0,
+   "rounds": "0/0",
+   "pass_": true,
+   "cap_given": 90.0,
+   "wall": 1.09,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m6_N1000_s7",
+   "m": 6,
+   "N": 1000,
+   "seed": 7,
+   "cap": "capacity-PASS",
+   "L": 256,
+   "flow": 512,
+   "demand": 510,
+   "LB": 0,
+   "lambda2": 3.824937369466402,
+   "Lambda": 0,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     90.0,
+     [
+      0,
+      0
+     ]
+    ]
+   ],
+   "breaks": "0→0",
+   "rot": 0,
+   "rounds": "0/0",
+   "pass_": true,
+   "cap_given": 90.0,
+   "wall": 1.07,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m3_N10000_s42",
+   "m": 3,
+   "N": 10000,
+   "seed": 42,
+   "cap": "capacity-KILLED",
+   "L": 3998,
+   "flow": 7109,
+   "demand": 7994,
+   "LB": 443,
+   "lambda2": null,
+   "Lambda": null,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     "-",
+     null
+    ]
+   ],
+   "breaks": "-",
+   "pass_": false,
+   "wall": 0.69,
+   "mode": "capacity-KILLED"
+  },
+  {
+   "tag": "m4_N10000_s42",
+   "m": 4,
+   "N": 10000,
+   "seed": 42,
+   "cap": "capacity-PASS",
+   "L": 3279,
+   "flow": 6558,
+   "demand": 6556,
+   "LB": 0,
+   "lambda2": 2.003117257358329,
+   "Lambda": null,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     180.0,
+     [
+      50,
+      50
+     ]
+    ]
+   ],
+   "breaks": "50→50",
+   "rot": 6083,
+   "rounds": "45/3",
+   "pass_": false,
+   "cap_given": 180.0,
+   "wall": 83.3,
+   "mode": "残余断口50"
+  },
+  {
+   "tag": "m4_N10000_s13",
+   "m": 4,
+   "N": 10000,
+   "seed": 13,
+   "cap": "capacity-PASS",
+   "L": 3352,
+   "flow": 6704,
+   "demand": 6702,
+   "LB": 0,
+   "lambda2": 1.9438447951515372,
+   "Lambda": null,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     180.0,
+     [
+      61,
+      60
+     ]
+    ]
+   ],
+   "breaks": "61→60",
+   "rot": 6281,
+   "rounds": "45/13",
+   "pass_": false,
+   "cap_given": 180.0,
+   "wall": 87.66,
+   "mode": "残余断口60"
+  },
+  {
+   "tag": "m4_N10000_s7",
+   "m": 4,
+   "N": 10000,
+   "seed": 7,
+   "cap": "capacity-PASS",
+   "L": 3315,
+   "flow": 6630,
+   "demand": 6628,
+   "LB": 0,
+   "lambda2": 1.989320860006369,
+   "Lambda": null,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     180.0,
+     [
+      49,
+      49
+     ]
+    ]
+   ],
+   "breaks": "49→49",
+   "rot": 6058,
+   "rounds": "45/4",
+   "pass_": false,
+   "cap_given": 180.0,
+   "wall": 89.2,
+   "mode": "残余断口49"
+  },
+  {
+   "tag": "m5_N10000_s42",
+   "m": 5,
+   "N": 10000,
+   "seed": 42,
+   "cap": "capacity-PASS",
+   "L": 2831,
+   "flow": 5662,
+   "demand": 5660,
+   "LB": 0,
+   "lambda2": 2.7939288633028814,
+   "Lambda": 73,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     180.0,
+     [
+      3,
+      0
+     ]
+    ]
+   ],
+   "breaks": "3→0",
+   "rot": 1802,
+   "rounds": "68/5",
+   "pass_": true,
+   "cap_given": 180.0,
+   "wall": 22.39,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m5_N10000_s13",
+   "m": 5,
+   "N": 10000,
+   "seed": 13,
+   "cap": "capacity-PASS",
+   "L": 2879,
+   "flow": 5758,
+   "demand": 5756,
+   "LB": 0,
+   "lambda2": 2.830090236122329,
+   "Lambda": 91,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     180.0,
+     [
+      2,
+      0
+     ]
+    ]
+   ],
+   "breaks": "2→0",
+   "rot": 1357,
+   "rounds": "87/4",
+   "pass_": true,
+   "cap_given": 180.0,
+   "wall": 5.95,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m5_N10000_s7",
+   "m": 5,
+   "N": 10000,
+   "seed": 7,
+   "cap": "capacity-PASS",
+   "L": 2865,
+   "flow": 5730,
+   "demand": 5728,
+   "LB": 0,
+   "lambda2": 2.8325060937904554,
+   "Lambda": 80,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     180.0,
+     [
+      2,
+      0
+     ]
+    ]
+   ],
+   "breaks": "2→0",
+   "rot": 1764,
+   "rounds": "78/2",
+   "pass_": true,
+   "cap_given": 180.0,
+   "wall": 11.52,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m6_N10000_s42",
+   "m": 6,
+   "N": 10000,
+   "seed": 42,
+   "cap": "capacity-PASS",
+   "L": 2525,
+   "flow": 5050,
+   "demand": 5048,
+   "LB": 0,
+   "lambda2": 3.7072855241156604,
+   "Lambda": 0,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     180.0,
+     [
+      0,
+      0
+     ]
+    ]
+   ],
+   "breaks": "0→0",
+   "rot": 24,
+   "rounds": "0/0",
+   "pass_": true,
+   "cap_given": 180.0,
+   "wall": 2.04,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m6_N10000_s13",
+   "m": 6,
+   "N": 10000,
+   "seed": 13,
+   "cap": "capacity-PASS",
+   "L": 2520,
+   "flow": 5040,
+   "demand": 5038,
+   "LB": 0,
+   "lambda2": 3.6865324573875085,
+   "Lambda": 0,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     180.0,
+     [
+      0,
+      0
+     ]
+    ]
+   ],
+   "breaks": "0→0",
+   "rot": 3,
+   "rounds": "0/0",
+   "pass_": true,
+   "cap_given": 180.0,
+   "wall": 1.82,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m6_N10000_s7",
+   "m": 6,
+   "N": 10000,
+   "seed": 7,
+   "cap": "capacity-PASS",
+   "L": 2481,
+   "flow": 4962,
+   "demand": 4960,
+   "LB": 0,
+   "lambda2": 3.7167636586327673,
+   "Lambda": 0,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     180.0,
+     [
+      0,
+      0
+     ]
+    ]
+   ],
+   "breaks": "0→0",
+   "rot": 16,
+   "rounds": "0/0",
+   "pass_": true,
+   "cap_given": 180.0,
+   "wall": 2.95,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m3_N100000_s42",
+   "m": 3,
+   "N": 100000,
+   "seed": 42,
+   "cap": "capacity-KILLED",
+   "L": 40153,
+   "flow": 71461,
+   "demand": 80304,
+   "LB": 4422,
+   "lambda2": null,
+   "Lambda": null,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "runner外补跑(0917)",
+     "-",
+     null
+    ]
+   ],
+   "breaks": "-",
+   "pass_": false,
+   "wall": 0,
+   "mode": "capacity-KILLED"
+  },
+  {
+   "tag": "m4_N100000_s42",
+   "m": 4,
+   "N": 100000,
+   "seed": 42,
+   "cap": "capacity-PASS",
+   "L": 33190,
+   "flow": 66380,
+   "demand": 66378,
+   "LB": 0,
+   "lambda2": 1.9846206062753835,
+   "Lambda": null,
+   "n_passes": 2,
+   "passes_info": [
+    [
+     "summary.json",
+     480.0,
+     [
+      0,
+      0
+     ]
+    ],
+    [
+     "summary_pass4.json",
+     1800.0,
+     [
+      722,
+      716
+     ]
+    ]
+   ],
+   "breaks": "722→716",
+   "rot": 20176,
+   "rounds": "45/222",
+   "pass_": false,
+   "cap_given": 1800.0,
+   "wall": 1180.19,
+   "mode": "残余断口716"
+  },
+  {
+   "tag": "m4_N100000_s13",
+   "m": 4,
+   "N": 100000,
+   "seed": 13,
+   "cap": "capacity-PASS",
+   "L": 33276,
+   "flow": 66552,
+   "demand": 66550,
+   "LB": 0,
+   "lambda2": 1.9545423395307255,
+   "Lambda": null,
+   "n_passes": 2,
+   "passes_info": [
+    [
+     "summary.json",
+     480.0,
+     [
+      0,
+      0
+     ]
+    ],
+    [
+     "summary_pass4.json",
+     1800.0,
+     [
+      754,
+      743
+     ]
+    ]
+   ],
+   "breaks": "754→743",
+   "rot": 13659,
+   "rounds": "45/217",
+   "pass_": false,
+   "cap_given": 1800.0,
+   "wall": 1177.81,
+   "mode": "残余断口743"
+  },
+  {
+   "tag": "m4_N100000_s7",
+   "m": 4,
+   "N": 100000,
+   "seed": 7,
+   "cap": "capacity-PASS",
+   "L": 33407,
+   "flow": 66814,
+   "demand": 66812,
+   "LB": 0,
+   "lambda2": 1.9712199876440026,
+   "Lambda": null,
+   "n_passes": 2,
+   "passes_info": [
+    [
+     "summary.json",
+     480.0,
+     [
+      0,
+      0
+     ]
+    ],
+    [
+     "summary_pass4.json",
+     1800.0,
+     [
+      735,
+      722
+     ]
+    ]
+   ],
+   "breaks": "735→722",
+   "rot": 13863,
+   "rounds": "45/228",
+   "pass_": false,
+   "cap_given": 1800.0,
+   "wall": 1183.13,
+   "mode": "残余断口722"
+  },
+  {
+   "tag": "m5_N100000_s42",
+   "m": 5,
+   "N": 100000,
+   "seed": 42,
+   "cap": "capacity-PASS",
+   "L": 28684,
+   "flow": 57368,
+   "demand": 57366,
+   "LB": 0,
+   "lambda2": 2.8023980148753265,
+   "Lambda": null,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     "-",
+     [
+      45,
+      42
+     ]
+    ]
+   ],
+   "breaks": "45→42",
+   "rot": 5436,
+   "rounds": "-/300",
+   "pass_": false,
+   "cap_given": "R1:1400",
+   "wall": 689.0,
+   "mode": "R1并入·残余断口"
+  },
+  {
+   "tag": "m5_N100000_s13",
+   "m": 5,
+   "N": 100000,
+   "seed": 13,
+   "cap": "capacity-PASS",
+   "L": 28349,
+   "flow": 56698,
+   "demand": 56696,
+   "LB": 0,
+   "lambda2": 2.7635309779799075,
+   "Lambda": null,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     "-",
+     [
+      40,
+      29
+     ]
+    ]
+   ],
+   "breaks": "40→29",
+   "rot": 5152,
+   "rounds": "-/300",
+   "pass_": false,
+   "cap_given": "R1:1400",
+   "wall": 651.4,
+   "mode": "R1并入·残余断口"
+  },
+  {
+   "tag": "m5_N100000_s7",
+   "m": 5,
+   "N": 100000,
+   "seed": 7,
+   "cap": "capacity-PASS",
+   "L": 28596,
+   "flow": 57192,
+   "demand": 57190,
+   "LB": 0,
+   "lambda2": 2.7902598983499836,
+   "Lambda": null,
+   "n_passes": 1,
+   "passes_info": [
+    [
+     "summary.json",
+     "-",
+     [
+      43,
+      33
+     ]
+    ]
+   ],
+   "breaks": "43→33",
+   "rot": 5149,
+   "rounds": "-/300",
+   "pass_": false,
+   "cap_given": "R1:1400",
+   "wall": 558.1,
+   "mode": "R1并入·残余断口"
+  },
+  {
+   "tag": "m6_N100000_s42",
+   "m": 6,
+   "N": 100000,
+   "seed": 42,
+   "cap": "capacity-PASS",
+   "L": 24968,
+   "flow": 49936,
+   "demand": 49934,
+   "LB": 0,
+   "lambda2": 3.5518941357374527,
+   "Lambda": 88,
+   "n_passes": 2,
+   "passes_info": [
+    [
+     "summary.json",
+     480.0,
+     [
+      4,
+      1
+     ]
+    ],
+    [
+     "checkpoint.json",
+     1800.0,
+     [
+      4,
+      0
+     ]
+    ]
+   ],
+   "breaks": "4→0",
+   "rot": 565,
+   "rounds": "87/1",
+   "pass_": true,
+   "cap_given": 1800.0,
+   "wall": 321.84,
+   "mode": "PASS"
+  },
+  {
+   "tag": "m6_N100000_s13",
+   "m": 6,
+   "N": 100000,
+   "seed": 13,
+   "cap": "capacity-PASS",
+   "L": 25154,
+   "flow": 50308,
+   "demand": 50306,
+   "LB": 0,
+   "lambda2": 3.5511906575555923,
+   "Lambda": null,
+   "n_passes": 2,
+   "passes_info": [
+    [
+     "summary.json",
+     480.0,
+     [
+      7,
+      4
+     ]
+    ],
+    [
+     "summary_pass4.json",
+     1800.0,
+     [
+      7,
+      4
+     ]
+    ]
+   ],
+   "breaks": "7→4",
+   "rot": 534,
+   "rounds": "61/0",
+   "pass_": false,
+   "cap_given": 1800.0,
+   "wall": 1023.5,
+   "mode": "残余断口4"
+  },
+  {
+   "tag": "m6_N100000_s7",
+   "m": 6,
+   "N": 100000,
+   "seed": 7,
+   "cap": "capacity-PASS",
+   "L": 24962,
+   "flow": 49924,
+   "demand": 49922,
+   "LB": 0,
+   "lambda2": 3.6286018990055013,
+   "Lambda": 88,
+   "n_passes": 2,
+   "passes_info": [
+    [
+     "summary.json",
+     480.0,
+     [
+      4,
+      1
+     ]
+    ],
+    [
+     "summary_pass4.json",
+     1800.0,
+     [
+      4,
+      0
+     ]
+    ]
+   ],
+   "breaks": "4→0",
+   "rot": 679,
+   "rounds": "86/2",
+   "pass_": true,
+   "cap_given": 1800.0,
+   "wall": 207.49,
+   "mode": "PASS"
+  }
+ ],
+ "verdicts": {
+  "4": {
+   "lams_median": {
+    "1000": 0.0,
+    "10000": null,
+    "100000": null
+   },
+   "b_hat": null,
+   "all_closed": false,
+   "not_closed": [
+    [
+     "m4_N1000_s13",
+     "残余断口2"
+    ],
+    [
+     "m4_N10000_s42",
+     "残余断口50"
+    ],
+    [
+     "m4_N10000_s13",
+     "残余断口60"
+    ],
+    [
+     "m4_N10000_s7",
+     "残余断口49"
+    ],
+    [
+     "m4_N100000_s42",
+     "残余断口716"
+    ],
+    [
+     "m4_N100000_s13",
+     "残余断口743"
+    ],
+    [
+     "m4_N100000_s7",
+     "残余断口722"
+    ]
+   ],
+   "max_Lambda": 0,
+   "status": "判负证据（①过检格点不闭合）",
+   "note": "含Λ̂=0档[1000]（ln拟合无定义，b̂仅对非零档）"
+  },
+  "5": {
+   "lams_median": {
+    "1000": 0,
+    "10000": 80,
+    "100000": null
+   },
+   "b_hat": null,
+   "all_closed": false,
+   "not_closed": [
+    [
+     "m5_N100000_s42",
+     "R1并入·残余断口"
+    ],
+    [
+     "m5_N100000_s13",
+     "R1并入·残余断口"
+    ],
+    [
+     "m5_N100000_s7",
+     "R1并入·残余断口"
+    ]
+   ],
+   "max_Lambda": 91,
+   "status": "判负证据（①过检格点不闭合）",
+   "note": "含Λ̂=0档[1000]（ln拟合无定义，b̂仅对非零档）"
+  },
+  "6": {
+   "lams_median": {
+    "1000": 0,
+    "10000": 0,
+    "100000": 88.0
+   },
+   "b_hat": null,
+   "all_closed": false,
+   "not_closed": [
+    [
+     "m6_N100000_s13",
+     "残余断口4"
+    ]
+   ],
+   "max_Lambda": 88,
+   "status": "判负证据（①过检格点不闭合）",
+   "note": "含Λ̂=0档[1000, 10000]（ln拟合无定义，b̂仅对非零档）"
+  }
+ },
+ "runs_merged": [
+  "summary.json",
+  "checkpoint.json",
+  "summary_pass4.json"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "meta": {
+  "title": "云韶概率论·数值验证"
+ },
+ "EG1": {
+  "test": "EG-1 自然梯度",
+  "standard_final": 0.297969,
+  "natural_final": 0.107441,
+  "true_optimum": 0.7,
+  "natural_faster_in_low_p": false,
+  "convergence_steps_std": "not reached",
+  "convergence_steps_nat": "not reached",
+  "trajectory_std_first10": [
+   0.1,
+   0.1012,
+   0.1024,
+   0.1036,
+   0.1048,
+   0.106,
+   0.1072,
+   0.1083,
+   0.1095,
+   0.1107
+  ],
+  "trajectory_nat_first10": [
+   0.1,
+   0.1,
+   0.1001,
+   0.1001,
+   0.1001,
+   0.1002,
+   0.1002,
+   0.1003,
+   0.1003,
+   0.1003
+  ]
+ },
+ "OT2": {
+  "trials": 20,
+  "monotone": 0,
+  "rate": 0.0
+ }
+}

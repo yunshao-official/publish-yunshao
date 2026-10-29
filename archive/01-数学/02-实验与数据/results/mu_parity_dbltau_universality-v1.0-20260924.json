@@ -1,0 +1,5 @@
+{
+ "meta": "DblTau parity universality (strengthened record): for every c with nonempty DblTau, value m satisfies (m==1)==(d_ref even), d_ref=c/3 if 3|c else c",
+ "checked": 63,
+ "bad": []
+}

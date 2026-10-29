@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "script": "parity_invariant-v1.0-20260924.py",
+  "frozen": "2026-09-24T03:29:44"
+ },
+ "DZ0": {
+  "bad": [],
+  "n_bad": 0
+ },
+ "DZ1": {
+  "n_violations": 0,
+  "sample": []
+ },
+ "DZ3": {
+  "d_even_m0": 5592406,
+  "d_odd_m0": 0
+ },
+ "coverage": {
+  "m1": 5592405,
+  "m2": 5592405,
+  "m0": 5592406
+ },
+ "log": [
+  "tables built",
+  "D-Z0 brute-check bad=0 (2000 sequential + 100000 random)",
+  "D-Z1 invariant violations=0 sample=[]",
+  "D-Z3 m=0 states: D even=5592406, D odd=0",
+  "coverage: |Y|=16777216, m=1: 5592405, m=2: 5592405, m=0: 5592406"
+ ]
+}

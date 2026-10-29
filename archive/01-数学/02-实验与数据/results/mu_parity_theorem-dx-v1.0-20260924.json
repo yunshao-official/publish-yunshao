@@ -1,0 +1,138 @@
+{
+ "meta": {
+  "script": "mu_parity_theorem-v1.0-20260924.py",
+  "frozen": "2026-09-24T02:35:38"
+ },
+ "notes": {},
+ "DX": {
+  "top4": [
+   {
+    "c": -55,
+    "R": 14,
+    "reach": 17,
+    "acc": 2,
+    "M_acc": 1,
+    "M_dead": 3,
+    "M_int": 0,
+    "depth3": 3
+   },
+   {
+    "c": -61,
+    "R": 13,
+    "reach": 16,
+    "acc": 2,
+    "M_acc": 1,
+    "M_dead": 3,
+    "M_int": 0,
+    "depth3": 3
+   },
+   {
+    "c": -56,
+    "R": 13,
+    "reach": 17,
+    "acc": 3,
+    "M_acc": 2,
+    "M_dead": 3,
+    "M_int": 0,
+    "depth3": 3
+   },
+   {
+    "c": -35,
+    "R": 13,
+    "reach": 14,
+    "acc": 2,
+    "M_acc": 1,
+    "M_dead": 1,
+    "M_int": 0,
+    "depth3": 3
+   }
+  ],
+  "bottom4": [
+   {
+    "c": -3,
+    "R": 6,
+    "reach": 6,
+    "acc": 2,
+    "M_acc": 1,
+    "M_dead": 0,
+    "M_int": 0,
+    "depth3": 1
+   },
+   {
+    "c": -2,
+    "R": 5,
+    "reach": 6,
+    "acc": 3,
+    "M_acc": 2,
+    "M_dead": 0,
+    "M_int": 0,
+    "depth3": 0
+   },
+   {
+    "c": -1,
+    "R": 5,
+    "reach": 4,
+    "acc": 2,
+    "M_acc": 0,
+    "M_dead": 0,
+    "M_int": 0,
+    "depth3": 0
+   },
+   {
+    "c": 0,
+    "R": 3,
+    "reach": 2,
+    "acc": 2,
+    "M_acc": 0,
+    "M_dead": 0,
+    "M_int": 0,
+    "depth3": 0
+   }
+  ],
+  "median_R": 11,
+  "target": {
+   "-55": {
+    "R": 14,
+    "reach": 17,
+    "acc": 2,
+    "M_acc": 1,
+    "M_dead": 3,
+    "M_int": 0,
+    "depth3": 3
+   },
+   "-56": {
+    "R": 13,
+    "reach": 17,
+    "acc": 3,
+    "M_acc": 2,
+    "M_dead": 3,
+    "M_int": 0,
+    "depth3": 3
+   },
+   "-35": {
+    "R": 13,
+    "reach": 14,
+    "acc": 2,
+    "M_acc": 1,
+    "M_dead": 1,
+    "M_int": 0,
+    "depth3": 3
+   },
+   "-45": {
+    "R": 9,
+    "reach": 11,
+    "acc": 2,
+    "M_acc": 1,
+    "M_dead": 0,
+    "M_int": 2,
+    "depth3": 3
+   }
+  }
+ },
+ "log": [
+  "== D-X 极值档账（R28 在档数据整理·零新数值运行） ==",
+  "top4=[{\"c\": -55, \"R\": 14, \"reach\": 17, \"acc\": 2, \"M_acc\": 1, \"M_dead\": 3, \"M_int\": 0, \"depth3\": 3}, {\"c\": -61, \"R\": 13, \"reach\": 16, \"acc\": 2, \"M_acc\": 1, \"M_dead\": 3, \"M_int\": 0, \"depth3\": 3}, {\"c\": -56, \"R\": 13, \"reach\": 17, \"acc\": 3, \"M_acc\": 2, \"M_dead\": 3, \"M_int\": 0, \"depth3\": 3}, {\"c\": -35, \"R\": 13, \"reach\": 14, \"acc\": 2, \"M_acc\": 1, \"M_dead\": 1, \"M_int\": 0, \"depth3\": 3}]",
+  "bottom4=[{\"c\": -3, \"R\": 6, \"reach\": 6, \"acc\": 2, \"M_acc\": 1, \"M_dead\": 0, \"M_int\": 0, \"depth3\": 1}, {\"c\": -2, \"R\": 5, \"reach\": 6, \"acc\": 3, \"M_acc\": 2, \"M_dead\": 0, \"M_int\": 0, \"depth3\": 0}, {\"c\": -1, \"R\": 5, \"reach\": 4, \"acc\": 2, \"M_acc\": 0, \"M_dead\": 0, \"M_int\": 0, \"depth3\": 0}, {\"c\": 0, \"R\": 3, \"reach\": 2, \"acc\": 2, \"M_acc\": 0, \"M_dead\": 0, \"M_int\": 0, \"depth3\": 0}]",
+  "target={\"-55\": {\"R\": 14, \"reach\": 17, \"acc\": 2, \"M_acc\": 1, \"M_dead\": 3, \"M_int\": 0, \"depth3\": 3}, \"-56\": {\"R\": 13, \"reach\": 17, \"acc\": 3, \"M_acc\": 2, \"M_dead\": 3, \"M_int\": 0, \"depth3\": 3}, \"-35\": {\"R\": 13, \"reach\": 14, \"acc\": 2, \"M_acc\": 1, \"M_dead\": 1, \"M_int\": 0, \"depth3\": 3}, \"-45\": {\"R\": 9, \"reach\": 11, \"acc\": 2, \"M_acc\": 1, \"M_dead\": 0, \"M_int\": 2, \"depth3\": 3}}"
+ ]
+}

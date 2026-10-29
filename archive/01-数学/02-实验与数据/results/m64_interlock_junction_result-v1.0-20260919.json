@@ -1,0 +1,12 @@
+{
+  "alpha_star": 0.125,
+  "is_1_over_8": true,
+  "at_1_over_8": {
+    "chainA": 6.0,
+    "chainB": 6.0
+  },
+  "tor_order": 64,
+  "M": 64,
+  "equal": true,
+  "labels": "数值【复算一致】；判定【一致性交点成立·强互锁未证实】；体系内部定义·未验证"
+}
