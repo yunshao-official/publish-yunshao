@@ -1,0 +1,214 @@
+1. Neurol India. 2019 Sep-Oct;67(5):1220-1224. doi: 10.4103/0028-3886.271239.
+
+Nucleus Accumbens as a Novel Target for Deep Brain Stimulation in the Treatment 
+of Addiction: A Hypothesis on the Neurochemical and Morphological Basis.
+
+Vannemreddy P(1), Slavin K(1).
+
+Author information:
+(1)Department of Neurosurgery, University of Illinois at Chicago, Chicago,IL, 
+USA.
+
+Addiction is a major cause of mortality and morbidity. Apart from psychotropic 
+substances, alcohol and nicotine remain the common addictive materials 
+responsible for the majority of deaths. Conventional conservative therapies are 
+beneficial to certain populations, but the majority may require interventional 
+treatments such as deep brain stimulation (DBS) in view of increasing mortality 
+from drug abuse in recent years. We present a brief review on a novel 
+neuromodulation target of the nucleus accumbens (NA) and its promising role in 
+the management of addiction. The three stages of the addiction cycle are known 
+to be mediated by dopaminergic pathways located in the mesolimbic dopamine 
+system with connections to dorsal striatum, extended amygdala, cingulate gyrus, 
+orbitofrontal cortex, prefrontal cortex, and ventral tegmental area. Recent 
+advanced neuroimaging in humans and several animal studies demonstrated NA to be 
+a vital anatomical area modulating this network. DBS of NA in animals reduced 
+addictive behavior to alcohol, cocaine, and other narcotics significantly. The 
+accidental observation that DBS of NA for psychiatric illnesses induced relief 
+from addiction to alcohol and smoking has encouraged further research of late. 
+Bilateral NA ablative surgery had shown nonrelapse in more than 50% of cases. 
+Small series of patients have benefited so far from DBS of NA, but larger 
+numbers are required to provide evidence-based treatment. The modulation of 
+dopaminergic pathways through DBS of NA as a valid treatment for addiction is 
+substantiated extensively by animal studies and also in a few clinical studies. 
+However, this needs to be validated by a well-structured, multicenter controlled 
+study in a large group of patients suffering from substance abuse.
+
+DOI: 10.4103/0028-3886.271239
+PMID: 31744946 [Indexed for MEDLINE]
+
+Conflict of interest statement: None
+
+
+2. Fundam Res. 2024 Jul 6;5(1):48-54. doi: 10.1016/j.fmre.2024.06.009.
+eCollection  2025 Jan.
+
+Mechanisms of nucleus accumbens deep brain stimulation in treating mental 
+disorders.
+
+Ruan H(1)(2), Tong G(1), Jin M(1), Koch K(2)(3), Wang Z(1)(4)(5).
+
+Author information:
+(1)Shanghai Mental Health Center, Shanghai Jiao Tong University School of 
+Medicine, Shanghai 200030, China.
+(2)TUM-Neuroimaging Center (TUM-NIC), Technical University of Munich, Munich 
+81675, Germany.
+(3)Department of Neuroradiology, School of Medicine, Klinikum Rechts Der Isar, 
+Technical University of Munich, Munich 81675, Germany.
+(4)School of Psychology, Shanghai Jiao Tong University, Shanghai 200030, China.
+(5)Shanghai Key Laboratory of Psychotic Disorders, Shanghai 200030, China.
+
+Growing evidence supports the effectiveness of deep brain stimulation (DBS) in 
+treating various psychiatric disorders. DBS has the potential to selectively 
+stimulate specific subcortical brain areas thus providing high-frequency 
+electric stimulation of these regions. The nucleus accumbens (NAc), a frequent 
+DBS target, has shown promise in treating psychiatric conditions like 
+depression, obsessive-compulsive disorder, and addiction. In this review, we 
+provide an overview across studies investigating the effects of NAc DBS in 
+humans and animals and discuss potential mechanisms underlying its clinical 
+efficacy. We address the anatomical properties of NAc and discuss, in 
+particular, the frequently reported differential effects of NAc shell and NAc 
+core DBS. Moreover, by outlining the various NAc cell types, transmitter systems 
+(i.e., predominantly GABAergic and dopaminergic systems) and anatomical pathways 
+that have been shown to be relevant for NAc DBS stimulation effects, we aim to 
+further elucidate the neurobiological determinants of NAc DBS efficacy. Finally, 
+since treatment effects of NAc DBS are most probably also related to alterations 
+in NAc connected circuits or networks, we review studies focusing on the 
+investigation of NAc DBS network effects. By examining these various components 
+that are assumed to be of relevance in the context of NAc DBS, this review will 
+hopefully contribute to increasing our knowledge about the mechanisms underlying 
+NAc DBS and optimizing future selection of optimal DBS targets.
+
+© 2024 The Authors. Publishing Services by Elsevier B.V. on behalf of KeAi 
+Communications Co. Ltd.
+
+DOI: 10.1016/j.fmre.2024.06.009
+PMCID: PMC11955059
+PMID: 40166085
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest in this work.
+
+
+3. Ann N Y Acad Sci. 2013 Apr;1282:119-28. doi: 10.1111/j.1749-6632.2012.06834.x.
+ Epub 2012 Dec 10.
+
+Deep brain stimulation of the nucleus accumbens for the treatment of addiction.
+
+Müller UJ(1), Voges J, Steiner J, Galazky I, Heinze HJ, Möller M, Pisapia J, 
+Halpern C, Caplan A, Bogerts B, Kuhn J.
+
+Author information:
+(1)Department of Psychiatry, University of Magdeburg, Magdeburg, Germany. 
+ulfmueller@gmail.com
+
+Despite novel medications and other therapeutic strategies, addiction to 
+psychotropic substances remains one of the most serious public health problems 
+worldwide. In this review, beginning with an introduction of deep brain 
+stimulation (DBS), we highlight the importance of the nucleus accumbens (NAc) in 
+the context of the reward circuitry and addictive behavior. We will provide a 
+short historic overview of other neurosurgical approaches to treat addiction and 
+describe the experimental and preclinical data on DBS in addiction. Finally, we 
+call attention to key ethical issues related to using DBS to treat addiction 
+that are important for future research and the design of clinical trials.
+
+© 2012 New York Academy of Sciences.
+
+DOI: 10.1111/j.1749-6632.2012.06834.x
+PMID: 23227826 [Indexed for MEDLINE]
+
+
+4. Sci China Life Sci. 2020 Sep;63(9):1328-1336. doi: 10.1007/s11427-019-1616-6. 
+Epub 2020 Mar 13.
+
+Noninvasive ultrasound deep brain stimulation of nucleus accumbens induces 
+behavioral avoidance.
+
+Niu L(#)(1), Guo Y(#)(2), Lin Z(#)(1), Shi Z(2)(3), Bian T(1), Qi L(4), Meng 
+L(1), Grace AA(5), Zheng H(6), Yuan TF(7)(8).
+
+Author information:
+(1)Paul C. Lauterbur Research Center for Biomedical Imaging, Institute of 
+Biomedical and Health Engineering, Shenzhen Institutes of Advanced Technology, 
+Chinese Academy of Sciences, Shenzhen, 518055, China.
+(2)Shanghai Key Laboratory of Psychotic Disorders, Shanghai Mental Health 
+Center, Shanghai Jiao Tong University School of Medicine, Shanghai, 200030, 
+China.
+(3)Key Laboratory for Quality Evaluation of Bulk Herbs of Hunan Province, Hunan 
+University of Chinese Medicine, Changsha, 410208, China.
+(4)College of Medicine and Biological Information Engineering, Northeastern 
+University, Shenyang, 110016, China.
+(5)Departments of Neuroscience, Psychiatry and Psychology, University of 
+Pittsburgh, Pittsburgh, PA, 15260, USA. graceaa@pitt.edu.
+(6)Paul C. Lauterbur Research Center for Biomedical Imaging, Institute of 
+Biomedical and Health Engineering, Shenzhen Institutes of Advanced Technology, 
+Chinese Academy of Sciences, Shenzhen, 518055, China. hr.zheng@siat.ac.cn.
+(7)Shanghai Key Laboratory of Psychotic Disorders, Shanghai Mental Health 
+Center, Shanghai Jiao Tong University School of Medicine, Shanghai, 200030, 
+China. ytf0707@126.com.
+(8)Co-innovation Center of Neuroregeneration, Nantong University, Nantong, 
+226001, China. ytf0707@126.com.
+(#)Contributed equally
+
+Ultrasound stimulation is an emerging noninvasive option in treating 
+neuropsychiatric disorders. The present study investigates the behavioral 
+alterations resulting from ultrasound stimulation on the nucleus accumbens (NAc) 
+in freely moving mice. Our results show that an acute ultrasound stimulation on 
+the NAc, rather than the visual cortex or auditory cortex, led to a pronounced 
+avoidance behavior, while repeated NAc ultrasound stimulation resulted in an 
+obvious conditioned place aversion with changes in synaptic protein (GluA1/2 
+subunit) expression. Notably, NAc ultrasound stimulation suppressed the 
+morphine-induced conditioned place preference. The results provide evidence that 
+NAc ultrasound stimulation can be applied as a potential noninvasive therapeutic 
+option in treating psychiatric disorders.
+
+DOI: 10.1007/s11427-019-1616-6
+PMID: 32180109 [Indexed for MEDLINE]
+
+
+5. J Clin Invest. 2023 Sep 15;133(18):e163266. doi: 10.1172/JCI163266.
+
+Nucleus accumbens D1/D2 circuits control opioid withdrawal symptoms in mice.
+
+Zhu Y(1), Wang K(2), Ma T(3), Ji Y(1), Lou Y(1), Fu X(1), Lu Y(1), Liu Y(1), 
+Dang W(4), Zhang Q(5), Yin F(1), Wang K(1), Yu B(3), Zhang H(1), Lai J(1), Wang 
+Y(1)(6)(7).
+
+Author information:
+(1)College of Forensic Science, Key Laboratory of National Health Commission for 
+Forensic Science, National Biosafety Evidence Foundation, Xi'an Jiaotong 
+University, Xi'an, China.
+(2)Fujian Provincial Key Laboratory of Organ and Tissue Regeneration, Xiamen Key 
+Laboratory of Regeneration Medicine, Organ Transplantation Institute of Xiamen 
+University, School of Medicine, Xiamen University, Xiamen, China.
+(3)School of Pharmacy, Nanjing Medical University, Nanjing, China.
+(4)The Sixth Ward, Xi'an Mental Health Center, Xi'an, China.
+(5)Department of Biochemistry and Molecular Biology, School of Basic Medical 
+Sciences, Ningxia Medical University, Yinchuan, China.
+(6)Department of Psychiatry and Center for Brain Science, The First Affiliated 
+Hospital of Xi'an Jiaotong University, Xi'an, China.
+(7)Shaanxi Belt and Road Joint Laboratory of Precision Medicine in Psychiatry, 
+The First Affiliated Hospital of Xi'an Jiaotong University, Xi'an, China.
+
+The nucleus accumbens (NAc) is the most promising target for drug use disorder 
+treatment. Deep brain stimulation (DBS) of NAc is effective for drug use 
+disorder treatment. However, the mechanisms by which DBS produces its 
+therapeutic effects remain enigmatic. Here, we define a behavioral cutoff 
+criterion to distinguish depressive-like behaviors and non-depressive-like 
+behaviors in mice after morphine withdrawal. We identified a basolateral 
+amygdala (BLA) to NAc D1 medium spiny neuron (MSN) pathway that controls 
+depressive-like behaviors after morphine withdrawal. Furthermore, the 
+paraventricular nucleus of thalamus (PVT) to NAc D2 MSN pathway controls 
+naloxone-induced acute withdrawal symptoms. Optogenetically induced long-term 
+potentiation with κ-opioid receptor (KOR) antagonism enhanced BLA to NAc D1 MSN 
+signaling and also altered the excitation/inhibition balance of NAc D2 MSN 
+signaling. We also verified that a new 50 Hz DBS protocol reversed morphine 
+withdrawal-evoked abnormal plasticity in NAc. Importantly, this refined DBS 
+treatment effectively alleviated naloxone-induced withdrawal symptoms and 
+depressive-like behaviors and prevented stress-induced reinstatement. Taken 
+together, the results demonstrated that input- and cell type-specific synaptic 
+plasticity underlies morphine withdrawal, which may lead to novel targets for 
+the treatment of opioid use disorder.
+
+DOI: 10.1172/JCI163266
+PMCID: PMC10503809
+PMID: 37561576 [Indexed for MEDLINE]

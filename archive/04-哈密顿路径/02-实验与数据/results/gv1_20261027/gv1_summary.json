@@ -1,0 +1,152 @@
+{
+ "cells": [
+  {
+   "N": 1000,
+   "m": 4,
+   "arm": "base",
+   "n": 3,
+   "pass_n": 3,
+   "full_n": 3,
+   "breaks0": 3,
+   "breaks1": 0,
+   "rot_mean": 83,
+   "con_mean": 0.496,
+   "rep_mean": 0.053
+  },
+  {
+   "N": 1000,
+   "m": 4,
+   "arm": "geo",
+   "n": 3,
+   "pass_n": 3,
+   "full_n": 3,
+   "breaks0": 3,
+   "breaks1": 0,
+   "rot_mean": 68,
+   "con_mean": 32.226,
+   "rep_mean": 0.035
+  },
+  {
+   "N": 1000,
+   "m": 5,
+   "arm": "base",
+   "n": 3,
+   "pass_n": 3,
+   "full_n": 3,
+   "breaks0": 0,
+   "breaks1": 0,
+   "rot_mean": 25,
+   "con_mean": 0.871,
+   "rep_mean": 0.0
+  },
+  {
+   "N": 1000,
+   "m": 5,
+   "arm": "geo",
+   "n": 3,
+   "pass_n": 3,
+   "full_n": 3,
+   "breaks0": 0,
+   "breaks1": 0,
+   "rot_mean": 30,
+   "con_mean": 5.771,
+   "rep_mean": 0.0
+  },
+  {
+   "N": 10000,
+   "m": 4,
+   "arm": "base",
+   "n": 3,
+   "pass_n": 3,
+   "full_n": 3,
+   "breaks0": 221,
+   "breaks1": 0,
+   "rot_mean": 747,
+   "con_mean": 35.731,
+   "rep_mean": 92.75
+  },
+  {
+   "N": 10000,
+   "m": 4,
+   "arm": "geo",
+   "n": 3,
+   "pass_n": 3,
+   "full_n": 3,
+   "breaks0": 221,
+   "breaks1": 0,
+   "rot_mean": 746,
+   "con_mean": 70.362,
+   "rep_mean": 76.323
+  },
+  {
+   "N": 10000,
+   "m": 5,
+   "arm": "base",
+   "n": 3,
+   "pass_n": 3,
+   "full_n": 3,
+   "breaks0": 14,
+   "breaks1": 0,
+   "rot_mean": 213,
+   "con_mean": 25.712,
+   "rep_mean": 6.572
+  },
+  {
+   "N": 10000,
+   "m": 5,
+   "arm": "geo",
+   "n": 3,
+   "pass_n": 3,
+   "full_n": 3,
+   "breaks0": 14,
+   "breaks1": 0,
+   "rot_mean": 206,
+   "con_mean": 71.282,
+   "rep_mean": 7.341
+  }
+ ],
+ "seeds": [
+  42,
+  777,
+  888
+ ],
+ "cap_note": "cap=240s per case",
+ "pairs": [
+  {
+   "N": 1000,
+   "m": 4,
+   "full_base": 3,
+   "full_geo": 3,
+   "pass_base": 3,
+   "pass_geo": 3,
+   "n": 3
+  },
+  {
+   "N": 1000,
+   "m": 5,
+   "full_base": 3,
+   "full_geo": 3,
+   "pass_base": 3,
+   "pass_geo": 3,
+   "n": 3
+  },
+  {
+   "N": 10000,
+   "m": 4,
+   "full_base": 3,
+   "full_geo": 3,
+   "pass_base": 3,
+   "pass_geo": 3,
+   "n": 3
+  },
+  {
+   "N": 10000,
+   "m": 5,
+   "full_base": 3,
+   "full_geo": 3,
+   "pass_base": 3,
+   "pass_geo": 3,
+   "n": 3
+  }
+ ]
+}

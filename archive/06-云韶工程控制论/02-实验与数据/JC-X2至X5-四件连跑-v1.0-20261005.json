@@ -1,0 +1,61 @@
+{
+ "JC-X2": {
+  "ergodicity_gap": 2.75529,
+  "C-X2a_非遍历存在": "True",
+  "C-X2b_最堵": "底层→最高层最堵",
+  "min_doeblin": 0.02,
+  "bottom_up_2level": 0.2
+ },
+ "JC-X3": {
+  "r_star": 0.35,
+  "V_star": 0.5234,
+  "C-X3a_U型": true,
+  "C-X3b_r星区间": true,
+  "frozen_prediction": "r*∈[0.3,0.5]",
+  "prediction_result": "成立"
+ },
+ "JC-X4": {
+  "Lambda_proxy": 0.2006,
+  "cci_volatility_pct": 411.17,
+  "cci_trend": 1.4608,
+  "corr_Lambda_vs_consumption": 0.395,
+  "C-X4a": "True",
+  "C-X4b": "True"
+ },
+ "JC-X5": {
+  "k0": 4.5,
+  "alpha_decay": 0.125,
+  "decay_rate_pct": 12.5,
+  "C-X5a": true,
+  "multipliers": [
+   4.5,
+   3.9375,
+   3.4453125,
+   3.0146484375,
+   2.6378173828125,
+   2.3080902099609375,
+   2.0195789337158203,
+   1.7671315670013428,
+   1.546240121126175,
+   1.352960105985403
+  ]
+ },
+ "all_results": {
+  "JC-X2": {
+   "C-X2a": "True",
+   "C-X2b": "底层→最高层最堵"
+  },
+  "JC-X3": {
+   "C-X3a": true,
+   "C-X3b": true,
+   "r_star": 0.35
+  },
+  "JC-X4": {
+   "C-X4a": "True",
+   "C-X4b": "True"
+  },
+  "JC-X5": {
+   "C-X5a": true
+  }
+ }
+}

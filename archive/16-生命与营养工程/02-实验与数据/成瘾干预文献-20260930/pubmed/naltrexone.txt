@@ -1,0 +1,411 @@
+1. Nat Rev Dis Primers. 2020 Jan 9;6(1):3. doi: 10.1038/s41572-019-0137-5.
+
+Opioid use disorder.
+
+Strang J(1)(2), Volkow ND(3), Degenhardt L(4), Hickman M(5), Johnson K(6), Koob 
+GF(7), Marshall BDL(8), Tyndall M(9), Walsh SL(10).
+
+Author information:
+(1)National Addiction Centre, Institute of Psychiatry Psychology & Neuroscience, 
+King's College London, London, UK. john.strang@kcl.ac.uk.
+(2)South London & Maudsley NHS Foundation Trust, London, UK. 
+john.strang@kcl.ac.uk.
+(3)National Institute on Drug Abuse, National Institutes of Health, Rockville, 
+MD, USA. nvolkow@nida.nih.gov.
+(4)National Drug and Alcohol Research Centre, University of New South Wales, 
+Sydney, New South Wales, Australia.
+(5)Population Health Sciences, Bristol Medical School, University of Bristol, 
+Bristol, UK.
+(6)Department of Mental Health Law and Policy, College of Community and 
+Behavioural Sciences, University of South Florida, Tampa, FL, USA.
+(7)National Institute on Alcohol Abuse and Alcoholism, National Institutes of 
+Health, Rockville, MD, USA.
+(8)Department of Epidemiology, Brown University School of Public Health, 
+Providence, RI, USA.
+(9)School of Population and Public Health, University of British Columbia, 
+Vancouver, British Columbia, Canada.
+(10)Department of Behavioral Science, College of Medicine, University of 
+Kentucky, Lexington, KT, USA.
+
+Opioid use disorder (OUD) is a chronic relapsing disorder that, whilst initially 
+driven by activation of brain reward neurocircuits, increasingly engages 
+anti-reward neurocircuits that drive adverse emotional states and relapse. 
+However, successful recovery is possible with appropriate treatment, although 
+with a persisting propensity to relapse. The individual and public health 
+burdens of OUD are immense; 26.8 million people were estimated to be living with 
+OUD globally in 2016, with >100,000 opioid overdose deaths annually, including 
+>47,000 in the USA in 2017. Well-conducted trials have demonstrated that 
+long-term opioid agonist therapy with methadone and buprenorphine have great 
+efficacy for OUD treatment and can save lives. New forms of the opioid receptor 
+antagonist naltrexone are also being studied. Some frequently used approaches 
+have less scientifically robust evidence but are nevertheless considered 
+important, including community preventive strategies, harm reduction 
+interventions to reduce adverse sequelae from ongoing use and mutual aid groups. 
+Other commonly used approaches, such as detoxification alone, lack scientific 
+evidence. Delivery of effective prevention and treatment responses is often 
+complicated by coexisting comorbidities and inadequate support, as well as by 
+conflicting public and political opinions. Science has a crucial role to play in 
+informing public attitudes and developing fuller evidence to understand OUD and 
+its associated harms, as well as in obtaining the evidence today that will 
+improve the prevention and treatment interventions of tomorrow.
+
+DOI: 10.1038/s41572-019-0137-5
+PMID: 31919349 [Indexed for MEDLINE]
+
+
+2. Lancet. 2018 Jan 27;391(10118):309-318. doi: 10.1016/S0140-6736(17)32812-X.
+Epub  2017 Nov 14.
+
+Comparative effectiveness of extended-release naltrexone versus 
+buprenorphine-naloxone for opioid relapse prevention (X:BOT): a multicentre, 
+open-label, randomised controlled trial.
+
+Lee JD(1), Nunes EV Jr(2), Novo P(3), Bachrach K(4), Bailey GL(5), Bhatt S(6), 
+Farkas S(3), Fishman M(7), Gauthier P(3), Hodgkins CC(8), King J(9), Lindblad 
+R(9), Liu D(10), Matthews AG(9), May J(9), Peavy KM(11), Ross S(3), Salazar 
+D(9), Schkolnik P(12), Shmueli-Blumberg D(9), Stablein D(9), Subramaniam G(10), 
+Rotrosen J(3).
+
+Author information:
+(1)Department of Population Health, New York University School of Medicine, New 
+York, NY, USA. Electronic address: joshua.lee@nyumc.org.
+(2)Department of Psychiatry, New York State Psychiatric Institute, Columbia 
+University Medical Center, New York, NY, USA.
+(3)Department of Psychiatry, New York University School of Medicine, New York, 
+NY, USA.
+(4)Tarzana Treatment Centers, Tarzana, CA, USA.
+(5)Department of Psychiatry and Human Behavior, Warren Alpert Medical School, 
+Brown University, Providence RI, USA; Stanley Street Treatment and Resources, 
+Fall River, MA, USA.
+(6)Department of Psychiatry and Behavioral Sciences, University of New Mexico 
+School of Medicine, Albuquerque, NM, USA.
+(7)Department of Psychiatry and Behavioral Sciences, Johns Hopkins University 
+School of Medicine, Baltimore, MD, USA; Maryland Treatment Centers, Baltimore, 
+MD, USA.
+(8)Gateway Community Services Inc, Jacksonville, FL, USA.
+(9)The Emmes Corporation, Rockville, MD, USA.
+(10)National Institute on Drug Abuse, Rockville, MD, USA.
+(11)Evergreen Treatment Services, Seattle, WA, USA.
+(12)Maryhaven Inc, Columbus, OH, USA.
+
+Comment in
+    Lancet. 2018 Jan 27;391(10118):285-287. doi: 10.1016/S0140-6736(17)32893-3.
+    Lancet. 2018 Jan 27;391(10118):283-284. doi: 10.1016/S0140-6736(17)32872-6.
+    Lancet. 2023 Aug 12;402(10401):526-527. doi: 10.1016/S0140-6736(23)00113-7.
+
+BACKGROUND: Extended-release naltrexone (XR-NTX), an opioid antagonist, and 
+sublingual buprenorphine-naloxone (BUP-NX), a partial opioid agonist, are 
+pharmacologically and conceptually distinct interventions to prevent opioid 
+relapse. We aimed to estimate the difference in opioid relapse-free survival 
+between XR-NTX and BUP-NX.
+METHODS: We initiated this 24 week, open-label, randomised controlled, 
+comparative effectiveness trial at eight US community-based inpatient services 
+and followed up participants as outpatients. Participants were 18 years or 
+older, had Diagnostic and Statistical Manual of Mental Disorders-5 opioid use 
+disorder, and had used non-prescribed opioids in the past 30 days. We stratified 
+participants by treatment site and opioid use severity and used a web-based 
+permuted block design with random equally weighted block sizes of four and six 
+for randomisation (1:1) to receive XR-NTX or BUP-NX. XR-NTX was monthly 
+intramuscular injections (Vivitrol; Alkermes) and BUP-NX was daily 
+self-administered buprenorphine-naloxone sublingual film (Suboxone; Indivior). 
+The primary outcome was opioid relapse-free survival during 24 weeks of 
+outpatient treatment. Relapse was 4 consecutive weeks of any non-study opioid 
+use by urine toxicology or self-report, or 7 consecutive days of self-reported 
+use. This trial is registered with ClinicalTrials.gov, NCT02032433.
+FINDINGS: Between Jan 30, 2014, and May 25, 2016, we randomly assigned 570 
+participants to receive XR-NTX (n=283) or BUP-NX (n=287). The last follow-up 
+visit was Jan 31, 2017. As expected, XR-NTX had a substantial induction hurdle: 
+fewer participants successfully initiated XR-NTX (204 [72%] of 283) than BUP-NX 
+(270 [94%] of 287; p<0·0001). Among all participants who were randomly assigned 
+(intention-to-treat population, n=570) 24 week relapse events were greater for 
+XR-NTX (185 [65%] of 283) than for BUP-NX (163 [57%] of 287; hazard ratio [HR] 
+1·36, 95% CI 1·10-1·68), most or all of this difference accounted for by early 
+relapse in nearly all (70 [89%] of 79) XR-NTX induction failures. Among 
+participants successfully inducted (per-protocol population, n=474), 24 week 
+relapse events were similar across study groups (p=0·44). Opioid-negative urine 
+samples (p<0·0001) and opioid-abstinent days (p<0·0001) favoured BUP-NX compared 
+with XR-NTX among the intention-to-treat population, but were similar across 
+study groups among the per-protocol population. Self-reported opioid craving was 
+initially less with XR-NTX than with BUP-NX (p=0·0012), then converged by week 
+24 (p=0·20). With the exception of mild-to-moderate XR-NTX injection site 
+reactions, treatment-emergent adverse events including overdose did not differ 
+between treatment groups. Five fatal overdoses occurred (two in the XR-NTX group 
+and three in the BUP-NX group).
+INTERPRETATION: In this population it is more difficult to initiate patients to 
+XR-NTX than BUP-NX, and this negatively affected overall relapse. However, once 
+initiated, both medications were equally safe and effective. Future work should 
+focus on facilitating induction to XR-NTX and on improving treatment retention 
+for both medications.
+FUNDING: NIDA Clinical Trials Network.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(17)32812-X
+PMCID: PMC5806119
+PMID: 29150198 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests All authors report 
+grant or contract funding from the National Institute of Drug Abuse (NIDA) for 
+this study. JDL and JR received other research support from NIDA and National 
+Institute on Alcohol Abuse and in-kind study drug from Alkermes for another 
+trial. EVN Jr received other research support from NIDA, Brainsway, Braeburn 
+Pharma, and Alkermes, unpaid consulting fees from Alkermes, and consulting fees 
+from the University of Arkansas. MF received other research support from 
+Alkermes, US World Meds, MediaRez, and the Laura and John Arnold Foundation, and 
+consulting fees from Alkermes and US World Meds. SR received other research 
+support from NIDA, the Heffter Research Institute, Council on Spiritual 
+Practices, and the Sarlo Foundation, and travel support from the 
+Multidisciplinary Association for Psychedelic Studies. All other authors declare 
+no competing interests.
+
+
+3. Am J Drug Alcohol Abuse. 2025;51(5):658-666. doi:
+10.1080/00952990.2025.2524110.  Epub 2025 Jul 11.
+
+Suicidal ideation in adults with opioid use disorder treated with 
+buprenorphine-naloxone versus extended-release naltrexone.
+
+Rizk MM(1)(2), Stanley B(2)(3), Choo TH(4), Pavlicova M(5), Scodes JM(4), 
+Rotrosen J(6), Nunes EV(3).
+
+Author information:
+(1)Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, 
+NY, USA.
+(2)Molecular Imaging and Neuropathology Division, New York State Psychiatric 
+Institute, New York, NY, USA.
+(3)Department of Psychiatry, Columbia University Irving Medical Center, New 
+York, NY, USA.
+(4)Division of Biostatistics, New York State Psychiatric Institute, New York, 
+NY, USA.
+(5)Department of Biostatistics, Mailman School of Public Health, Columbia 
+University, New York, NY, USA.
+(6)Department of Psychiatry, New York University Grossman School of Medicine, 
+New York, NY, USA.
+
+Background: Depression and suicidal ideation are prevalent in patients with 
+opioid use disorder (OUD).Objectives: This study examined changes in suicidal 
+ideation during OUD treatment with buprenorphine-naloxone or extended-release 
+naltrexone.Methods: 570 adults with OUD (29.6% female) were recruited into a 
+National Drug Abuse Clinical Trials Network randomized trial (NCT02032433) 
+comparing extended-release naltrexone versus buprenorphine-naloxone for opioid 
+relapse prevention (X:BOT). Suicidal ideation was assessed at baseline and 
+regular intervals over 24 weeks using continuous self-reported and binary 
+clinician-rated measures from the Concise Health Risk Tracking-Self Report and 
+the Hamilton Depression Rating Scale, respectively. A mixed-effects model was 
+used to assess the association between continuous outcome self-reported suicidal 
+ideation and treatment over time while adjusted for baseline suicidal 
+ideation.Results: Continuous self-report suicidal ideation scores decreased in 
+both groups with a significant time-by-treatment interaction indicating that the 
+treatment effect differed over time (F(11, 3497) = 1.81, p = .0464). Scores were 
+significantly lower in the buprenorphine group only in weeks 1 and 3 and when 
+averaged across weeks 1-4. Binary clinician-rated suicidal ideation dropped from 
+15 (5.25%) and 12 (4.24%) at baseline, to 5 (1.89%) and 3 (1.49%) at week 1, for 
+buprenorphine and naltrexone groups, respectively.Conclusion: OUD treatment with 
+extended-release naltrexone or buprenorphine-naloxone was associated with 
+suicidal ideation reductions from the first week. Suicidal ideation was lower 
+with buprenorphine-naloxone in the first 4 weeks, with no significant 
+differences thereafter. Despite overall low suicidal ideation scores and modest 
+differences, these findings suggest beneficial effects of both treatments in 
+individuals with OUD and mild baseline suicidality.
+
+DOI: 10.1080/00952990.2025.2524110
+PMCID: PMC12259012
+PMID: 40643356 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure: Edward V Nunes has served as an 
+uncompensated consultant to Alkermes, Braeburn-Camurus and Pear Therapeutics, 
+has served as an investigator on studies funded by Braeburn-Camurus and on 
+studies with medication donated by Alkermes, Indivior (formerly 
+Reckitt-Benckiser), Braeburn, Camurus, and digital therapeutics donated by Pear 
+Therapeutics and CHESS Health. John Rotrosen has received medication and/or 
+funds (through NYU or NIDA) to support research studies from Alkermes 
+(manufacturer of Vivitrol) or from Indivior (manufacturer of Suboxone); a 
+current NIH funded study receives donated and/or discounted medication from 
+Alkermes, Indivior, Braeburn, and Camurus, and digital therapeutics from Pear 
+Therapeutics and CHESS Health. He served as a non-paid member of an Alkermes 
+study steering committee. Barbara Stanley received royalties from the Research 
+Foundation for Mental Hygiene for the commercial use of the Columbia Suicide 
+Severity Rating Scale. Other authors report no relevant disclosures.
+
+
+4. Med J Aust. 2021 Oct 4;215 Suppl 7:S3-S32. doi: 10.5694/mja2.51254.
+
+New Australian guidelines for the treatment of alcohol problems: an overview of 
+recommendations.
+
+Haber PS, Riordan BC, Winter DT, Barrett L, Saunders J, Hides L, Gullo M, 
+Manning V, Day CA, Bonomo Y, Burns L, Assan R, Curry K, Mooney-Somers J, 
+Demirkol A, Monds L, McDonough M, Baillie AJ, Clark P, Ritter A, Quinn C, 
+Cunningham J, Lintzeris N, Rombouts S, Savic M, Norman A, Reid S, Hutchinson D, 
+Zheng C, Iese Y, Black N, Draper B, Ridley N, Gowing L, Stapinski L, Taye B, 
+Lancaster K, Stjepanović D, Kay-Lambkin F, Jamshidi N, Lubman D, Pastor A, White 
+N, Wilson S, Jaworski AL, Memedovic S, Logge W, Mills K, Seear K, Freeburn B, 
+Lea T, Withall A, Marel C, Boffa J, Roxburgh A, Purcell-Khodr G, Doyle M, 
+Conigrave K, Teesson M, Butler K, Connor J, Morley KC.
+
+OF RECOMMENDATIONS AND LEVELS OF EVIDENCE: Chapter 2: Screening and assessment 
+for unhealthy alcohol use Screening Screening for unhealthy alcohol use and 
+appropriate interventions should be implemented in general practice (Level A), 
+hospitals (Level B), emergency departments and community health and welfare 
+settings (Level C). Quantity-frequency measures can detect consumption that 
+exceeds levels in the current Australian guidelines (Level B). The Alcohol Use 
+Disorders Identification Test (AUDIT) is the most effective screening tool and 
+is recommended for use in primary care and hospital settings. For screening in 
+the general community, the AUDIT-C is a suitable alternative (Level A). Indirect 
+biological markers should be used as an adjunct to screening (Level A), and 
+direct measures of alcohol in breath and/or blood can be useful markers of 
+recent use (Level B). Assessment Assessment should include evaluation of alcohol 
+use and its effects, physical examination, clinical investigations and 
+collateral history taking (Level C). Assessment for alcohol-related physical 
+problems, mental health problems and social support should be undertaken 
+routinely (GPP). Where there are concerns regarding the safety of the patient or 
+others, specialist consultation is recommended (Level C). Assessment should lead 
+to a clear, mutually acceptable treatment plan which specifies interventions to 
+meet the patient's needs (Level D). Sustained abstinence is the optimal outcome 
+for most patients with alcohol dependence (Level C). Chapter 3: Caring for and 
+managing patients with alcohol problems: interventions, treatments, relapse 
+prevention, aftercare, and long term follow-up Brief interventions Brief 
+motivational interviewing interventions are more effective than no treatment for 
+people who consume alcohol at risky levels (Level A). Their effectiveness 
+compared with standard care or alternative psychosocial interventions varies by 
+treatment setting. They are most effective in primary care settings (Level A). 
+Psychosocial interventions Cognitive behaviour therapy should be a first-line 
+psychosocial intervention for alcohol dependence. Its clinical benefit is 
+enhanced when it is combined with pharmacotherapy for alcohol dependence or an 
+additional psychosocial intervention (eg, motivational interviewing) (Level A). 
+Motivational interviewing is effective in the short term and in patients with 
+less severe alcohol dependence (Level A). Residential rehabilitation may be of 
+benefit to patients who have moderate-to-severe alcohol dependence and require a 
+structured residential treatment setting (Level D). Alcohol withdrawal 
+management Most cases of withdrawal can be managed in an ambulatory setting with 
+appropriate support (Level B). Tapering diazepam regimens (Level A) with daily 
+staged supply from a pharmacy or clinic are recommended (GPP). Pharmacotherapies 
+for alcohol dependence Acamprosate is recommended to help maintain abstinence 
+from alcohol (Level A). Naltrexone is recommended for prevention of relapse to 
+heavy drinking (Level A). Disulfiram is only recommended in close supervision 
+settings where patients are motivated for abstinence (Level A). Some evidence 
+for off-label therapies baclofen and topiramate exists, but their side effect 
+profiles are complex and neither should be a first-line medication (Level B). 
+Peer support programs Peer-led support programs such as Alcoholics Anonymous and 
+SMART Recovery are effective at maintaining abstinence or reductions in drinking 
+(Level A). Relapse prevention, aftercare and long-term follow-up Return to 
+problematic drinking is common and aftercare should focus on addressing factors 
+that contribute to relapse (GPP). A harm-minimisation approach should be 
+considered for patients who are unable to reduce their drinking (GPP). Chapter 
+4: Providing appropriate treatment and care to people with alcohol problems: a 
+summary for key specific populations Gender-specific issues Screen women and men 
+for domestic abuse (Level C). Consider child protection assessments for 
+caregivers with alcohol use disorder (GPP). Explore contraceptive options with 
+women of reproductive age who regularly consume alcohol (Level B). Pregnant and 
+breastfeeding women Advise pregnant and breastfeeding women that there is no 
+safe level of alcohol consumption (Level B). Pregnant women who are alcohol 
+dependent should be admitted to hospital for treatment in an appropriate 
+maternity unit that has an addiction specialist (GPP). Young people Perform a 
+comprehensive HEEADSSS assessment for young people with alcohol problems (Level 
+B). Treatment should focus on tangible benefits of reducing drinking through 
+psychotherapy and engagement of family and peer networks (Level B). Aboriginal 
+and Torres Strait Islander peoples Collaborate with Aboriginal or Torres Strait 
+Islander health workers, organisations and communities, and seek guidance on 
+patient engagement approaches (GPP). Use validated screening tools and consider 
+integrated mainstream and Aboriginal or Torres Strait Islander-specific 
+approaches to care (Level B). Culturally and linguistically diverse groups Use 
+an appropriate method, such as the "teach-back" technique, to assess the need 
+for language and health literacy support (Level C). Engage with culture-specific 
+agencies as this can improve treatment access and success (Level C). Sexually 
+diverse and gender diverse populations Be mindful that sexually diverse and 
+gender diverse populations experience lower levels of satisfaction, connection 
+and treatment completion (Level C). Seek to incorporate LGBTQ-specific treatment 
+and agencies (Level C). Older people All new patients aged over 50 years should 
+be screened for harmful alcohol use (Level D). Consider alcohol as a possible 
+cause for older patients presenting with unexplained physical or psychological 
+symptoms (Level D). Consider shorter acting benzodiazepines for withdrawal 
+management (Level D). Cognitive impairment Cognitive impairment may impair 
+engagement with treatment (Level A). Perform cognitive screening for patients 
+who have alcohol problems and refer them for neuropsychological assessment if 
+significant impairment is suspected (Level A).
+SUMMARY OF KEY RECOMMENDATIONS AND LEVELS OF EVIDENCE: Chapter 5: Understanding 
+and managing comorbidities for people with alcohol problems: polydrug use and 
+dependence, co-occurring mental disorders, and physical comorbidities Polydrug 
+use and dependence Active alcohol use disorder, including dependence, 
+significantly increases the risk of overdose associated with the administration 
+of opioid drugs. Specialist advice is recommended before treatment of people 
+dependent on both alcohol and opioid drugs (GPP). Older patients requiring 
+management of alcohol withdrawal should have their use of pharmaceutical 
+medications reviewed, given the prevalence of polypharmacy in this age group 
+(GPP). Smoking cessation can be undertaken in patients with alcohol dependence 
+and/or polydrug use problems; some evidence suggests varenicline may help 
+support reduction of both tobacco and alcohol consumption (Level C). 
+Co-occurring mental disorders More intensive interventions are needed for people 
+with comorbid conditions, as this population tends to have more severe problems 
+and carries a worse prognosis than those with single pathology (GPP). The 
+Kessler Psychological Distress Scale (K10 or K6) is recommended for screening 
+for comorbid mental disorders in people presenting for alcohol use disorders 
+(Level A). People with alcohol use disorder and comorbid mental disorders should 
+be offered treatment for both disorders; care should be taken to coordinate 
+intervention (Level C). Physical comorbidities Patients should be advised that 
+alcohol use has no beneficial health effects. There is no clear risk-free 
+threshold for alcohol intake. The safe dose for alcohol intake is dependent on 
+many factors such as underlying liver disease, comorbidities, age and sex (Level 
+A). In patients with alcohol use disorder, early recognition of the risk for 
+liver cirrhosis is critical. Patients with cirrhosis should abstain from alcohol 
+and should be offered referral to a hepatologist for liver disease management 
+and to an addiction physician for management of alcohol use disorder (Level A). 
+Alcohol abstinence reduces the risk of cancer and improves outcomes after a 
+diagnosis of cancer (Level A).
+
+© 2021 AMPCo Pty Ltd.
+
+DOI: 10.5694/mja2.51254
+PMID: 34601742 [Indexed for MEDLINE]
+
+
+5. J Addict Med. 2024 Sep-Oct 01;18(5):511-519. doi:
+10.1097/ADM.0000000000001313.  Epub 2024 May 22.
+
+Machine Learning-Driven Analysis of Individualized Treatment Effects Comparing 
+Buprenorphine and Naltrexone in Opioid Use Disorder Relapse Prevention.
+
+Afshar M(1), Graham Linck EJ, Spicer AB, Rotrosen J, Salisbury-Afshar EM, Sinha 
+P, Semler MW, Churpek MM.
+
+Author information:
+(1)From the University of Wisconsin School of Medicine and Public Health, 
+Madison, WI (MA, EJGL, ABS, EMS-A, MMC); New York University Grossman School of 
+Medicine, New York, NY (JR); Washington University School of Medicine, Saint 
+Louis, MO (PS); and Vanderbilt University Medical Center, Nashville, TN (MWS).
+
+OBJECTIVE: A trial comparing extended-release naltrexone and sublingual 
+buprenorphine-naloxone demonstrated higher relapse rates in individuals 
+randomized to extended-release naltrexone. The effectiveness of treatment might 
+vary based on patient characteristics. We hypothesized that causal machine 
+learning would identify individualized treatment effects for each medication.
+METHODS: This is a secondary analysis of a multicenter randomized trial that 
+compared the effectiveness of extended-release naltrexone versus 
+buprenorphine-naloxone for preventing relapse of opioid misuse. Three machine 
+learning models were derived using all trial participants with 50% randomly 
+selected for training (n = 285) and the remaining 50% for validation. 
+Individualized treatment effect was measured by the Qini value and 
+c-for-benefit, with the absence of relapse denoting treatment success. Patients 
+were grouped into quartiles by predicted individualized treatment effect to 
+examine differences in characteristics and the observed treatment effects.
+RESULTS: The best-performing model had a Qini value of 4.45 (95% confidence 
+interval, 1.02-7.83) and a c-for-benefit of 0.63 (95% confidence interval, 
+0.53-0.68). The quartile most likely to benefit from buprenorphine-naloxone had 
+a 35% absolute benefit from this treatment, and at study entry, they had a high 
+median opioid withdrawal score ( P < 0.001), used cocaine on more days over the 
+prior 30 days than other quartiles ( P < 0.001), and had highest proportions 
+with alcohol and cocaine use disorder ( P ≤ 0.02). Quartile 4 individuals were 
+predicted to be most likely to benefit from extended-release naltrexone, with 
+the greatest proportion having heroin drug preference ( P = 0.02) and all 
+experiencing homelessness ( P < 0.001).
+CONCLUSIONS: Causal machine learning identified differing individualized 
+treatment effects between medications based on characteristics associated with 
+preventing relapse.
+
+Copyright © 2024 American Society of Addiction Medicine.
+
+DOI: 10.1097/ADM.0000000000001313
+PMCID: PMC11446670
+PMID: 38776423 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None.

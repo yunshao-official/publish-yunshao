@@ -1,0 +1,121 @@
+{
+ "meta": {
+  "version": "v1",
+  "判据": "WA-1：激活率=1/N 且 N为3-光滑（2^a·3^b）记在族",
+  "v1变更": "Qwen3/GPT-OSS两行升级为检索已核验（20260918）；DeepSeek共享专家口径分歧显式化（v2裁决项）",
+  "范围声明": "Switch类top-1/超多专家线未计入（非前沿稠密竞争族）；rumor级配置（如GPT-4）不计",
+  "预言": {
+   "P1": "存量前沿MoE激活率全部在3-光滑1/N族（v1样本11/11）",
+   "P2": "下一SOTA级开源MoE激活率∈{1/8,1/16}——发布前可哈希锚定预言",
+   "P3": "能力涌现台阶与激活率跨1/N点相关（控规模后检验）"
+  }
+ },
+ "census": [
+  {
+   "model": "Mixtral 8x7B",
+   "experts": 8,
+   "topk": 2,
+   "ratio": "1/4",
+   "N": 4,
+   "in_family": true,
+   "verify": "知识级（官方docs广泛记载）"
+  },
+  {
+   "model": "Mixtral 8x22B",
+   "experts": 8,
+   "topk": 2,
+   "ratio": "1/4",
+   "N": 4,
+   "in_family": true,
+   "verify": "知识级"
+  },
+  {
+   "model": "Grok-1",
+   "experts": 8,
+   "topk": 2,
+   "ratio": "1/4",
+   "N": 4,
+   "in_family": true,
+   "verify": "知识级"
+  },
+  {
+   "model": "DBRX",
+   "experts": 16,
+   "topk": 4,
+   "ratio": "1/4",
+   "N": 4,
+   "in_family": true,
+   "verify": "知识级"
+  },
+  {
+   "model": "DeepSeek-V2/V3（routed）",
+   "experts": 256,
+   "topk": 8,
+   "ratio": "1/32",
+   "N": 32,
+   "in_family": true,
+   "verify": "知识级",
+   "note": "另有1共享专家，9/257未计入——计入则为1/28.6族外，需注明口径（v2待裁：routed口径vs全口径）"
+  },
+  {
+   "model": "DeepSeek-V4 Flash（档案内2026数据）",
+   "experts": 64,
+   "topk": 8,
+   "ratio": "1/8",
+   "N": 8,
+   "in_family": true,
+   "verify": "引A2件（15域020-实验与数据20260731）"
+  },
+  {
+   "model": "DeepSeek-V4 Pro（档案内2026数据）",
+   "experts": 256,
+   "topk": 8,
+   "ratio": "1/32",
+   "N": 32,
+   "in_family": true,
+   "verify": "引A2件"
+  },
+  {
+   "model": "Qwen3-235B-A22B",
+   "experts": 128,
+   "topk": 8,
+   "ratio": "1/16",
+   "N": 16,
+   "in_family": true,
+   "verify": "**已核验20260918检索**：ModelScope/HF官方卡确认128专家激活8"
+  },
+  {
+   "model": "GPT-OSS-120B",
+   "experts": 128,
+   "topk": 4,
+   "ratio": "1/32",
+   "N": 32,
+   "in_family": true,
+   "verify": "**已核验20260918检索**：OpenAI官方+arXiv模型卡2508.10925确认每MoE层128专家top-4"
+  },
+  {
+   "model": "Phi-3.5-MoE",
+   "experts": 16,
+   "topk": 2,
+   "ratio": "1/8",
+   "N": 8,
+   "in_family": true,
+   "verify": "知识级待核"
+  },
+  {
+   "model": "OLMoE-1B-7B",
+   "experts": 64,
+   "topk": 8,
+   "ratio": "1/8",
+   "N": 8,
+   "in_family": true,
+   "verify": "知识级待核"
+  }
+ ],
+ "score": {
+  "total": 11,
+  "in_family": 11,
+  "out_family": 0,
+  "search_verified": 2
+ }
+}

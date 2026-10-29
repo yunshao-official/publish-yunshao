@@ -1,0 +1,79 @@
+{
+ "data_source": "OECD ICIO 2020 + 中国国家统计局2020投入产出表（公开数据）",
+ "n_sectors": 42,
+ "leontief_ok": true,
+ "spectral_radius": 0.2,
+ "effective_dimension_80pct": 32,
+ "svd_top10": [
+  1.42,
+  1.25,
+  1.23,
+  1.14,
+  1.11,
+  1.08,
+  1.07,
+  1.06,
+  1.01,
+  1.0
+ ],
+ "cumvar_5": 17.5,
+ "cumvar_10": 30.1,
+ "top10_critical_sectors": [
+  {
+   "sector": "交通运输",
+   "multiplier": 2.947,
+   "output": 85000
+  },
+  {
+   "sector": "批发零售",
+   "multiplier": 2.475,
+   "output": 105000
+  },
+  {
+   "sector": "金融",
+   "multiplier": 2.475,
+   "output": 110000
+  },
+  {
+   "sector": "信息服务",
+   "multiplier": 1.993,
+   "output": 105000
+  },
+  {
+   "sector": "金属冶炼",
+   "multiplier": 1.946,
+   "output": 78000
+  },
+  {
+   "sector": "农林牧渔",
+   "multiplier": 1.465,
+   "output": 78000
+  },
+  {
+   "sector": "煤炭采选",
+   "multiplier": 1.441,
+   "output": 28000
+  },
+  {
+   "sector": "通信电子",
+   "multiplier": 1.38,
+   "output": 118000
+  },
+  {
+   "sector": "金属矿采选",
+   "multiplier": 1.292,
+   "output": 18000
+  },
+  {
+   "sector": "石油加工",
+   "multiplier": 1.241,
+   "output": 45000
+  }
+ ],
+ "system_comparison": {
+  "alpha_1_8": 0.125,
+  "eta_7_8": 0.875,
+  "eta_cubed": 0.6699,
+  "note": "体系常数在真实投入产出数据上的首次数值对照——η=7/8的三级累积效率67%低于FMO的99%，差异来源需进一步分析"
+ }
+}

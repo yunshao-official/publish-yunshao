@@ -1,0 +1,2 @@
+[att0 strat1] construct=PARTIAL size=14806/500000 defects=33888
+[att1 strat2] construct=PARTIAL size=12772/500000 defects=30747

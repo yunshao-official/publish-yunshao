@@ -1,0 +1,139 @@
+{
+  "snapshot_version": "2026-09-18-snap0.1",
+  "snapshot_sha256": "2ff4317708ada85b",
+  "coordinates": {
+    "A": {
+      "name": "能量",
+      "norm": 0.3646627347480435,
+      "snap": {
+        "v": 620.0,
+        "src": "IEA口径·公开能源统计·量级",
+        "label": "文献值"
+      },
+      "note": "P=1.965e+13W, K=0.7293, norm=K/2"
+    },
+    "B": {
+      "name": "复杂度",
+      "norm": 0.47491416702800154,
+      "snap": {
+        "v": 500000.0,
+        "src": "Chaisson 2001/2011谱系·量级口径",
+        "label": "文献值"
+      },
+      "note": "norm=log10(Phi_m)/12"
+    },
+    "C": {
+      "name": "信息",
+      "norm": 0.31666666666666665,
+      "snap": {
+        "v": 1.9,
+        "src": "UNESCO口径·世界均值·量级",
+        "label": "文献值"
+      },
+      "note": "norm=GERD/6%"
+    },
+    "D": {
+      "name": "组织",
+      "norm": null,
+      "snap": {
+        "v": null,
+        "src": "Turchin 2018 PNAS·现代政体Z分未公开",
+        "label": "待锚定"
+      },
+      "note": "锚点待首版定锚（裁决单丙5）"
+    },
+    "E": {
+      "name": "福祉",
+      "norm": 0.739,
+      "snap": {
+        "v": 0.739,
+        "src": "UNDP HDR 2023/24（2022年值）",
+        "label": "文献值"
+      },
+      "note": "HDI原值即归一"
+    },
+    "F": {
+      "name": "公平",
+      "norm": null,
+      "snap": {
+        "v": null,
+        "src": "WDI/WID·待定锚",
+        "label": "待锚定"
+      },
+      "note": "锚点待首版定锚（裁决单丙5）"
+    },
+    "G": {
+      "name": "环境",
+      "norm": 0.33333333333333337,
+      "snap": {
+        "v": 6,
+        "src": "Richardson et al. 2023 Science Advances",
+        "label": "文献值"
+      },
+      "note": "norm=1-越界数/9"
+    },
+    "H": {
+      "name": "安全",
+      "norm": null,
+      "snap": {
+        "v": null,
+        "src": "战略层判据库v1.0·门3阈值待首版",
+        "label": "待冻结"
+      },
+      "note": "判据族打分阈值未冻结（门3）"
+    },
+    "Lambda": {
+      "name": "体系Λ",
+      "norm": 0.125,
+      "snap": {
+        "v": "G0",
+        "src": "白皮书v2.0卷四·TFI-1未过",
+        "label": "体系内部定义·未验证"
+      },
+      "note": "分级枚举等步长实现口径"
+    }
+  },
+  "gates": [
+    {
+      "gate": "门1有序相门",
+      "state": "待定义",
+      "note": "Λ_ord文明尺度操作定义待裁决（坐标系§6.4四代理电池=丙4）",
+      "margin": null
+    },
+    {
+      "gate": "门2行星边界门",
+      "state": "不过",
+      "note": "越界6/9条（目标0条）",
+      "margin": -6
+    },
+    {
+      "gate": "门3脆弱性门",
+      "state": "待冻结",
+      "note": "脆弱政体占比阈值待首版数据冻结",
+      "margin": null
+    }
+  ],
+  "weakest_gate": "门2行星边界门",
+  "anchor_checks": [
+    {
+      "anchor": "K值",
+      "expect": "0.72-0.74",
+      "got": 0.7293,
+      "pass": true
+    },
+    {
+      "anchor": "HDI",
+      "expect": 0.739,
+      "got": 0.739,
+      "pass": true
+    },
+    {
+      "anchor": "行星边界越界",
+      "expect": 6,
+      "got": 6,
+      "pass": true
+    }
+  ],
+  "no_total_score": "永久条款：本算子永不输出单一文明总分",
+  "dual_reading": "执行层八轴与轴Λ双读数并列，不混算"
+}

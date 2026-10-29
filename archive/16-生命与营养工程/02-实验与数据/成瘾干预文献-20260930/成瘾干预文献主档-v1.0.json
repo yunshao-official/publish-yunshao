@@ -1,0 +1,212 @@
+[
+ {
+  "q": "closed-loop_neuromod",
+  "id": "2508.11422v2",
+  "title": "Principles of Physiological Closed-Loop Controllers in Neuromodulation",
+  "date": "2025-08",
+  "summary": "As neurostimulation devices increasingly incorporate closed-loop functionality, the greater design complexity brings additional requirements for risk management and special considerations to optimise benefit. This manuscript creates a common framework upon which all current and p"
+ },
+ {
+  "q": "closed-loop_neuromod",
+  "id": "2210.11460v1",
+  "title": "Closed-loop Control of Catalytic Janus Microrobots",
+  "date": "2022-10",
+  "summary": "We report a closed-loop control system for paramagnetic catalytically self-propelled Janus microrobots. We achieve this control by employing electromagnetic coils that direct the magnetic field in a desired orientation to steer the microrobots. The microrobots move due to the cat"
+ },
+ {
+  "q": "closed-loop_neuromod",
+  "id": "1708.00556v3",
+  "title": "WAND: A 128-channel, closed-loop, wireless artifact-free neuromodulation device",
+  "date": "2017-08",
+  "summary": "Closed-loop neuromodulation systems aim to treat a variety of neurological conditions by dynamically delivering and adjusting therapeutic electrical stimulation in response to a patient's neural state, recorded in real-time. Existing systems are limited by low channel counts, lac"
+ },
+ {
+  "q": "closed-loop_neuromod",
+  "id": "1807.11241v1",
+  "title": "Mechanomyography based closed-loop Functional Electrical Stimulation cycling system",
+  "date": "2018-07",
+  "summary": "Functional Electrical Stimulation (FES) systems are successful in restoring motor function and supporting paralyzed users. Commercially available FES products are open loop, meaning that the system is unable to adapt to changing conditions with the user and their muscles which re"
+ },
+ {
+  "q": "closed-loop_neuromod",
+  "id": "2212.11273v1",
+  "title": "A Wearable EEG System for Closed-Loop Neuromodulation of High-Frequency Sleep-Related Oscillations",
+  "date": "2022-12",
+  "summary": "In healthy sleepers, cortical alpha oscillations are present during the transition from wakefulness to sleep, and dissipate at sleep onset. For individuals with insomnia, alpha power is elevated during the wake-sleep transition and can persist throughout the night. Neuromodulatio"
+ },
+ {
+  "q": "closed-loop_neuromod",
+  "id": "2209.04078v3",
+  "title": "Progressive Optimal Path Sampling for Closed-Loop Optimal Control Design with Deep Neural Networks",
+  "date": "2022-09",
+  "summary": "Closed-loop optimal control design for high-dimensional nonlinear systems has been a long-standing challenge. Traditional methods, such as solving the associated Hamilton-Jacobi-Bellman equation, suffer from the curse of dimensionality. Recent literature proposed a new promising "
+ },
+ {
+  "q": "craving_neurofeedbac",
+  "id": "1806.09998v1",
+  "title": "Real time state monitoring and fault diagnosis system for motor based on LabVIEW",
+  "date": "2018-06",
+  "summary": "Motor is the most widely used production equipment in industrial field. In order to realize the real-time state monitoring and multi-fault pre-diagnosis of three-phase motor, this paper presents a design of three-phase motor state monitoring and fault diagnosis system based on La"
+ },
+ {
+  "q": "craving_neurofeedbac",
+  "id": "2512.14002v1",
+  "title": "Real-Time Service Subscription and Adaptive Offloading Control in Vehicular Edge Computing",
+  "date": "2025-12",
+  "summary": "Vehicular Edge Computing (VEC) has emerged as a promising paradigm for enhancing the computational efficiency and service quality in intelligent transportation systems by enabling vehicles to wirelessly offload computation-intensive tasks to nearby Roadside Units. However, effici"
+ },
+ {
+  "q": "craving_neurofeedbac",
+  "id": "1802.00625v1",
+  "title": "Real-Time-Data Analytics in Raw Materials Handling",
+  "date": "2018-02",
+  "summary": "This paper proposes a system for the ingestion and analysis of real-time sensor and actor data of bulk materials handling plants and machinery. It references issues that concern mining sensor data in cyber physical systems (CPS). The advance of cyber physical systems has created "
+ },
+ {
+  "q": "craving_neurofeedbac",
+  "id": "2304.06907v2",
+  "title": "Toward Real-Time Image Annotation Using Marginalized Coupled Dictionary Learning",
+  "date": "2023-04",
+  "summary": "In most image retrieval systems, images include various high-level semantics, called tags or annotations. Virtually all the state-of-the-art image annotation methods that handle imbalanced labeling are search-based techniques which are time-consuming. In this paper, a novel coupl"
+ },
+ {
+  "q": "craving_neurofeedbac",
+  "id": "1406.3858v1",
+  "title": "Real-Time Discrete SPAD Array Readout Architecture for Time of Flight PET",
+  "date": "2014-06",
+  "summary": "Single photon avalanche diode (SPAD) arrays have proven themselves as serious candidates for time of flight positron emission tomography (PET). Discrete readout schemes mitigate the low-noise requirements of analog schemes and offer very fine control over threshold levels and tim"
+ },
+ {
+  "q": "craving_neurofeedbac",
+  "id": "2604.11208v1",
+  "title": "The Neurobiological Craving Signature (NCS) predicts social craving and responds to social isolation",
+  "date": "2026-04",
+  "summary": "Humans are inherently social and seek connection with others for survival. Recent studies suggest that acute social isolation leads to craving for social interactions, but the brain mechanisms of social craving and their relationship to brain networks underlying drug and food cra"
+ },
+ {
+  "q": "deep_brain_stimulati",
+  "id": "2607.26666v1",
+  "title": "Artificial intelligence in deep brain stimulation for movement disorders: a systematic review and technology readiness assessment",
+  "date": "2026-07",
+  "summary": "Artificial intelligence (AI) is increasingly explored across deep brain stimulation (DBS) for movement disorders, yet whether current systems are approaching deployment remains unclear. To characterise their scope, validation maturity, and translational readiness, we systematical"
+ },
+ {
+  "q": "deep_brain_stimulati",
+  "id": "astro-ph/0412590v2",
+  "title": "Precise measurement of CMB polarisation from Dome-C: the BRAIN and CLOVER experiments",
+  "date": "2004-12",
+  "summary": "The characterisation of CMB polarisation is one of the next challenge in observationnal cosmology. This is especially true for the so-called B-modes that are at least 3 order of magnitude lower than CMB temperature fluctuations. A precise measurement of the angular power spectrum"
+ },
+ {
+  "q": "deep_brain_stimulati",
+  "id": "2301.00942v1",
+  "title": "Deep Learning and Computational Physics (Lecture Notes)",
+  "date": "2023-01",
+  "summary": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics.   The main objective of these notes is t"
+ },
+ {
+  "q": "deep_brain_stimulati",
+  "id": "2312.01280v2",
+  "title": "Brain Decodes Deep Nets",
+  "date": "2023-12",
+  "summary": "We developed a tool for visualizing and analyzing large pre-trained vision models by mapping them onto the brain, thus exposing their hidden inside. Our innovation arises from a surprising usage of brain encoding: predicting brain fMRI measurements in response to images. We repor"
+ },
+ {
+  "q": "deep_brain_stimulati",
+  "id": "1912.06732v2",
+  "title": "On the approximation of rough functions with deep neural networks",
+  "date": "2019-12",
+  "summary": "Deep neural networks and the ENO procedure are both efficient frameworks for approximating rough functions. We prove that at any order, the ENO interpolation procedure can be cast as a deep ReLU neural network. This surprising fact enables the transfer of several desirable proper"
+ },
+ {
+  "q": "deep_brain_stimulati",
+  "id": "2107.09957v2",
+  "title": "Memorization in Deep Neural Networks: Does the Loss Function matter?",
+  "date": "2021-07",
+  "summary": "Deep Neural Networks, often owing to the overparameterization, are shown to be capable of exactly memorizing even randomly labelled data. Empirical studies have also shown that none of the standard regularization techniques mitigate such overfitting. We investigate whether the ch"
+ },
+ {
+  "q": "relapse_prediction_m",
+  "id": "2306.04338v1",
+  "title": "Changing Data Sources in the Age of Machine Learning for Official Statistics",
+  "date": "2023-06",
+  "summary": "Data science has become increasingly essential for the production of official statistics, as it enables the automated collection, processing, and analysis of large amounts of data. With such data science practices in place, it enables more timely, more insightful and more flexibl"
+ },
+ {
+  "q": "relapse_prediction_m",
+  "id": "2006.16189v4",
+  "title": "DOME: Recommendations for supervised machine learning validation in biology",
+  "date": "2020-06",
+  "summary": "Modern biology frequently relies on machine learning to provide predictions and improve decision processes. There have been recent calls for more scrutiny on machine learning performance and possible limitations. Here we present a set of community-wide recommendations aiming to h"
+ },
+ {
+  "q": "relapse_prediction_m",
+  "id": "2201.12150v2",
+  "title": "Learning Curves for Decision Making in Supervised Machine Learning: A Survey",
+  "date": "2022-01",
+  "summary": "Learning curves are a concept from social sciences that has been adopted in the context of machine learning to assess the performance of a learning algorithm with respect to a certain resource, e.g., the number of training examples or the number of training iterations. Learning c"
+ },
+ {
+  "q": "relapse_prediction_m",
+  "id": "2302.08893v4",
+  "title": "Active learning for data streams: a survey",
+  "date": "2023-02",
+  "summary": "Online active learning is a paradigm in machine learning that aims to select the most informative data points to label from a data stream. The problem of minimizing the cost associated with collecting labeled observations has gained a lot of attention in recent years, particularl"
+ },
+ {
+  "q": "relapse_prediction_m",
+  "id": "2303.15563v1",
+  "title": "Privacy-preserving machine learning for healthcare: open challenges and future perspectives",
+  "date": "2023-03",
+  "summary": "Machine Learning (ML) has recently shown tremendous success in modeling various healthcare prediction tasks, ranging from disease diagnosis and prognosis to patient treatment. Due to the sensitive nature of medical data, privacy must be considered along the entire ML pipeline, fr"
+ },
+ {
+  "q": "relapse_prediction_m",
+  "id": "2304.02381v2",
+  "title": "Physics-Inspired Interpretability Of Machine Learning Models",
+  "date": "2023-04",
+  "summary": "The ability to explain decisions made by machine learning models remains one of the most significant hurdles towards widespread adoption of AI in highly sensitive areas such as medicine, cybersecurity or autonomous driving. Great interest exists in understanding which features of"
+ },
+ {
+  "q": "transcranial_magneti",
+  "id": "2603.23475v2",
+  "title": "High-Fidelity Transcranial Ultrasound Multi-focal Stimulation via Physics-Aware Hologram Technique",
+  "date": "2026-03",
+  "summary": "Transcranial ultrasound stimulation (TUS) offers non-invasive deep-brain neuromodulation with high spatial precision, but reliably generating complex multi-target acoustic fields through the skull remains challenging. Here, we introduce a physics-aware hologram technique that dir"
+ },
+ {
+  "q": "transcranial_magneti",
+  "id": "2208.13905v1",
+  "title": "A review of transcranial magnetic stimulation and Alzheimer's disease",
+  "date": "2022-08",
+  "summary": "Since four decades ago, that the transcranial magnetic stimulation (TMS) technique was introduced, the increasing attention of neuroscience researchers and medical engineers has been focused on the development of this technique and its use to manage the treatment of a wide range "
+ },
+ {
+  "q": "transcranial_magneti",
+  "id": "1811.06789v1",
+  "title": "Head phantoms for electroencephalography and transcranial electric stimulation: a skull material study",
+  "date": "2018-11",
+  "summary": "Physical head phantoms allow assessing source reconstruction procedures in electroencephalography and electrical stimulation profiles during transcranial electric stimulation. Volume conduction in the head is strongly influenced by the skull representing the main conductivity bar"
+ },
+ {
+  "q": "transcranial_magneti",
+  "id": "2001.08256v2",
+  "title": "The Lorentz Force on Ions in Membrane Channels of Neurons as a Mechanism for Transcranial Static Magnetic Stimulation",
+  "date": "2020-01",
+  "summary": "Transcranial static magnetic stimulation is a novel noninvasive method of reduction of the cortical excitability in certain neurological diseases that, unlike ordinary transcranial magnetic stimulation, makes use of static magnetic fields generated by permanent magnets. The physi"
+ },
+ {
+  "q": "transcranial_magneti",
+  "id": "2604.25661v1",
+  "title": "SlicerRoboTMS: An Open-Source 3D Slicer Extension for Robot-Assisted Transcranial Magnetic Stimulation",
+  "date": "2026-04",
+  "summary": "Robot-assisted Transcranial Magnetic Stimulation (Robo-TMS) is an image-guided robotic intervention that enhances the accuracy and reproducibility of conventional Transcranial Magnetic Stimulation (TMS), a widely used non-invasive brain stimulation procedure in clinical treatment"
+ },
+ {
+  "q": "transcranial_magneti",
+  "id": "2009.04411v1",
+  "title": "Design and Fabrication of Novel Digital Transcranial Electrical Stimulator for Medical and Psychiatry Applications",
+  "date": "2020-09",
+  "summary": "In this article, we design a novel Transcranial Electrical Stimulator for medical applications, which is very cheap and can produce the desired signals very accurately. Our fabricated stimulator generates all current signals related to Transcranial Electrical Stimulation (TES) me"
+ }
+]

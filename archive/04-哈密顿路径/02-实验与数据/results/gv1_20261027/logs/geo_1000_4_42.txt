@@ -1,0 +1,22 @@
+[att0 strat1] construct=OK size=500/500 defects=1045
+[att0] match-lns lns=miss;rounds=6000;surg=8;best=158/500
+[att0] expand-FAIL match=149/500
+[att1 strat2] construct=OK size=500/500 defects=1105
+[att1] match-lns lns=miss;rounds=6000;surg=12;best=156/500
+[att1] expand-FAIL match=139/500
+[att2 strat0] construct=PARTIAL size=8/500 defects=0
+[att3 strat1] construct=OK size=500/500 defects=1058
+[att3] match-lns lns=miss;rounds=6000;surg=4;best=150/500
+[att3] expand-FAIL match=144/500
+[att4 strat2] construct=OK size=500/500 defects=1083
+[att4] match-lns lns=miss;rounds=6000;surg=12;best=167/500
+[att4] expand-FAIL match=147/500
+[att5 strat0] construct=PARTIAL size=14/500 defects=2
+[att6 strat1] construct=OK size=500/500 defects=1110
+[att6] match-lns lns=miss;rounds=6000;surg=12;best=156/500
+[att6] expand-FAIL match=143/500
+[att7 strat2] construct=OK size=500/500 defects=1023
+[att7] match-lns lns=miss;rounds=6000;surg=4;best=168/500
+[att7] expand-FAIL match=160/500
+[GPWIN] b1=1 gpT=0.024s size=1000/1000 dline=tRepairEnd
+BA(N=1000,m=4,s=42,src=genba,arm=base): PASS size=1000 breaks 3->0 rot=79 defects=0 con=86.74s rep=0.10s ver=0.000s mech=gpipe+D2(0726descend+fullclosure);b1;

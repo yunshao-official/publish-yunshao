@@ -1,0 +1,118 @@
+{
+ "meta": {
+  "判据": "WA-1 v0：激活率=1/N 且 N为3-光滑（2^a·3^b，合法扇区维）记在族",
+  "预言": {
+   "P1": "存量前沿MoE激活率全部在3-光滑1/N族上（v0样本11/11）",
+   "P2": "下一个SOTA级开源MoE激活率将落在{1/8,1/16}（发版前哈希锚定可预言）",
+   "P3": "性能涌现台阶与激活率跨1/N点相关（需控制总参/数据规模后检验）"
+  },
+  "诚实": "v0基于模型卡常识记忆，置信分列；Switch类top-1/超多专家线未计入（非前沿稠密竞争族，范围声明）"
+ },
+ "census": [
+  {
+   "model": "Mixtral 8x7B",
+   "experts": 8,
+   "topk": 2,
+   "ratio": "1/4",
+   "N": 4,
+   "in_family": true,
+   "conf": "高"
+  },
+  {
+   "model": "Mixtral 8x22B",
+   "experts": 8,
+   "topk": 2,
+   "ratio": "1/4",
+   "N": 4,
+   "in_family": true,
+   "conf": "高"
+  },
+  {
+   "model": "Grok-1",
+   "experts": 8,
+   "topk": 2,
+   "ratio": "1/4",
+   "N": 4,
+   "in_family": true,
+   "conf": "高"
+  },
+  {
+   "model": "DBRX",
+   "experts": 16,
+   "topk": 4,
+   "ratio": "1/4",
+   "N": 4,
+   "in_family": true,
+   "conf": "高"
+  },
+  {
+   "model": "DeepSeek-V2/V3（routed）",
+   "experts": 256,
+   "topk": 8,
+   "ratio": "1/32",
+   "N": 32,
+   "in_family": true,
+   "conf": "高",
+   "note": "另有1共享专家，9/257≈1/28.6未计"
+  },
+  {
+   "model": "DeepSeek-V4 Flash（档案内2026数据）",
+   "experts": 64,
+   "topk": 8,
+   "ratio": "1/8",
+   "N": 8,
+   "in_family": true,
+   "conf": "高（引A2件）"
+  },
+  {
+   "model": "DeepSeek-V4 Pro（档案内2026数据）",
+   "experts": 256,
+   "topk": 8,
+   "ratio": "1/32",
+   "N": 32,
+   "in_family": true,
+   "conf": "高（引A2件）"
+  },
+  {
+   "model": "Qwen3-235B-A22B",
+   "experts": 128,
+   "topk": 8,
+   "ratio": "1/16",
+   "N": 16,
+   "in_family": true,
+   "conf": "中（待核模型卡）"
+  },
+  {
+   "model": "Phi-3.5-MoE",
+   "experts": 16,
+   "topk": 2,
+   "ratio": "1/8",
+   "N": 8,
+   "in_family": true,
+   "conf": "中"
+  },
+  {
+   "model": "OLMoE-1B-7B",
+   "experts": 64,
+   "topk": 8,
+   "ratio": "1/8",
+   "N": 8,
+   "in_family": true,
+   "conf": "中"
+  },
+  {
+   "model": "GPT-OSS-120B",
+   "experts": 128,
+   "topk": 4,
+   "ratio": "1/32",
+   "N": 32,
+   "in_family": true,
+   "conf": "中"
+  }
+ ],
+ "score": {
+  "total": 11,
+  "in_family": 11,
+  "out_family": 0
+ }
+}

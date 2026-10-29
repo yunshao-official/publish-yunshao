@@ -1,0 +1,378 @@
+1. Am J Psychiatry. 2019 Nov 1;176(11):931-938. doi: 
+10.1176/appi.ajp.2019.18101180. Epub 2019 May 21.
+
+Efficacy and Safety of Deep Transcranial Magnetic Stimulation for 
+Obsessive-Compulsive Disorder: A Prospective Multicenter Randomized Double-Blind 
+Placebo-Controlled Trial.
+
+Carmi L(1), Tendler A(1), Bystritsky A(1), Hollander E(1), Blumberger DM(1), 
+Daskalakis J(1), Ward H(1), Lapidus K(1), Goodman W(1), Casuto L(1), Feifel 
+D(1), Barnea-Ygael N(1), Roth Y(1), Zangen A(1), Zohar J(1).
+
+Author information:
+(1)The School of Psychological Science, Tel Aviv University, Tel Aviv, Israel 
+(Carmi); the Department of Life Sciences and the Zlotowski Center for 
+Neuroscience, Ben-Gurion University of the Negev, Beer-Sheva, Israel (Carmi, 
+Barnea-Ygael, Roth, Zangen); Advanced Mental Health Care, Inc., Palm Beach, Fla. 
+(Tendler); the Department of Psychiatry and Biobehavioral Sciences, University 
+of California Los Angeles, Los Angeles (Bystritsky); the Spectrum Neuroscience 
+and Treatment Center, New York (Hollander); the Temerty Centre for Therapeutic 
+Brain Intervention and the Campbell Family Research Institute, Centre for 
+Addiction and Mental Health, and the Department of Psychiatry, University of 
+Toronto, Ontario (Blumberger, Daskalakis); the Department of Psychiatry, 
+University of Florida, Gainesville (Ward); the Department of Psychiatry, 
+Northwell Health, New York (Lapidus); the Department of Psychiatry and 
+Behavioral Health System, Icahn School of Medicine at Mount Sinai, New York 
+(Goodman); the Lindner Center of HOPE, Mason, Ohio (Casuto); the Department of 
+Psychiatry and Behavioral Neuroscience, University of Cincinnati College of 
+Medicine, Cincinnati (Casuto); the Department of Psychiatry, University of 
+California San Diego, La Jolla (Feifel); the Sackler Faculty of Medicine, Tel 
+Aviv University, Tel Aviv, Israel (Zohar).
+
+OBJECTIVE: Obsessive-compulsive disorder (OCD) is a chronic and disabling 
+condition that often responds unsatisfactorily to pharmacological and 
+psychological treatments. Converging evidence suggests a dysfunction of the 
+cortical-striatal-thalamic-cortical circuit in OCD, and a previous feasibility 
+study indicated beneficial effects of deep transcranial magnetic stimulation 
+(dTMS) targeting the medial prefrontal cortex and the anterior cingulate cortex. 
+The authors examined the therapeutic effect of dTMS in a multicenter 
+double-blind sham-controlled study.
+METHODS: At 11 centers, 99 OCD patients were randomly allocated to treatment 
+with either high-frequency (20 Hz) or sham dTMS and received daily treatments 
+following individualized symptom provocation, for 6 weeks. Clinical response to 
+treatment was determined using the Yale-Brown Obsessive Compulsive Scale 
+(YBOCS), and the primary efficacy endpoint was the change in score from baseline 
+to posttreatment assessment. Additional measures were response rates (defined as 
+a reduction of ≥30% in YBOCS score) at the posttreatment assessment and after 
+another month of follow-up.
+RESULTS: Eighty-nine percent of the active treatment group and 96% of the sham 
+treatment group completed the study. The reduction in YBOCS score among patients 
+who received active dTMS treatment was significantly greater than among patients 
+who received sham treatment (reductions of 6.0 points and 3.3 points, 
+respectively), with response rates of 38.1% and 11.1%, respectively. At the 
+1-month follow-up, the response rates were 45.2% in the active treatment group 
+and 17.8% in the sham treatment group. Significant differences between the 
+groups were maintained at follow-up.
+CONCLUSIONS: High-frequency dTMS over the medial prefrontal cortex and anterior 
+cingulate cortex significantly improved OCD symptoms and may be considered as a 
+potential intervention for patients who do not respond adequately to 
+pharmacological and psychological interventions.
+
+DOI: 10.1176/appi.ajp.2019.18101180
+PMID: 31109199 [Indexed for MEDLINE]
+
+
+2. Psychiatry Res. 2023 Nov;329:115491. doi: 10.1016/j.psychres.2023.115491. Epub
+ 2023 Sep 22.
+
+Effects of transcranial magnetic stimulation on cocaine addiction: A systematic 
+review of randomized controlled trials.
+
+Amerio A(1), Baccino C(2), Breda GS(2), Cortesi D(3), Spiezio V(2), Magnani 
+L(4), De Berardis D(5), Conio B(6), Costanza A(7), De Paola G(8), Rocca G(9), 
+Arduino G(10), Aguglia A(11), Amore M(12), Serafini G(13).
+
+Author information:
+(1)Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, Maternal 
+and Child Health (DINOGMI), Section of Psychiatry, University of Genoa, Genoa, 
+Italy; IRCCS Ospedale Policlinico San Martino, Genoa, Italy. Electronic address: 
+andrea.amerio@unige.it.
+(2)Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, Maternal 
+and Child Health (DINOGMI), Section of Psychiatry, University of Genoa, Genoa, 
+Italy; IRCCS Ospedale Policlinico San Martino, Genoa, Italy.
+(3)Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, Maternal 
+and Child Health (DINOGMI), Section of Psychiatry, University of Genoa, Genoa, 
+Italy; IRCCS Ospedale Policlinico San Martino, Genoa, Italy. Electronic address: 
+cortesidavide96@libero.it.
+(4)Department of Psychiatry, San Maurizio Hospital, Bolzano, Italy.
+(5)NHS, Department of Mental Health, Psychiatric Service for Diagnosis and 
+Treatment, Hospital "G. Mazzini", ASL 4, Teramo, Italy. Electronic address: 
+domenico.deberardis@aslteramo.it.
+(6)IRCCS Ospedale Policlinico San Martino, Genoa, Italy.
+(7)Department of Psychiatry, Faculty of Medicine, Geneva University (UNIGE), 
+Geneva, Switzerland; Department of Psychiatry, Adult Psychiatry Service (SPA), 
+University Hospitals of Geneva (HUG), Geneva, Switzerland; Department of 
+Psychiatry, Faculty of Biomedical Sciences, University of Italian Switzerland 
+(USI), Lugano, Switzerland. Electronic address: alessandra.costanza@unige.ch.
+(8)Ospedale Maria Luigia, Monticelli Terme, Italy.
+(9)R&R Neuromodulation Lab, Piacenza, Italy.
+(10)Department of Mental Health and Pathological Addictions, Piacenza Local 
+Health Authority, Piacenza, Italy.
+(11)Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, 
+Maternal and Child Health (DINOGMI), Section of Psychiatry, University of Genoa, 
+Genoa, Italy; IRCCS Ospedale Policlinico San Martino, Genoa, Italy. Electronic 
+address: andrea.aguglia@unige.it.
+(12)Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, 
+Maternal and Child Health (DINOGMI), Section of Psychiatry, University of Genoa, 
+Genoa, Italy; IRCCS Ospedale Policlinico San Martino, Genoa, Italy. Electronic 
+address: mario.amore@unige.it.
+(13)Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, 
+Maternal and Child Health (DINOGMI), Section of Psychiatry, University of Genoa, 
+Genoa, Italy; IRCCS Ospedale Policlinico San Martino, Genoa, Italy. Electronic 
+address: gianluca.serafini@unige.it.
+
+OBJECTIVE: While pharmacological strategies appear to be ineffective in treating 
+long-term addiction, repetitive transcranial magnetic stimulation (rTMS) is 
+emerging as a promising new tool for the attenuation of craving among multiple 
+substance dependent populations.
+METHOD: A systematic review of randomized controlled trials (RCTs) was conducted 
+on the efficacy and tolerability of rTMS in treating cocaine use disorder (CUD). 
+Relevant papers published in English through November 30th 2022 were identified, 
+searching the electronic databases MEDLINE, Embase, PsycINFO and the Cochrane 
+Library.
+RESULTS: Eight studies matched inclusion criteria. The best findings were 
+reported by the RCTs conducted at high-frequency (≥5 Hz) multiple sessions of 
+rTMS delivered over the left dorsolateral prefrontal cortex (DLPFC): a 
+significant decrease in self-reported cue-induced cocaine craving and lower 
+cocaine craving scores and a considerable amelioration in the tendency to act 
+rashly under extreme negative emotions (impulsivity) were found in the active 
+group compared to controls.
+CONCLUSION: Although still scant and heterogeneous, the strongest evidence so 
+far on the use of rTMS on individuals with CUD support the high frequency 
+stimulation over the left DLPFC as a well tolerated treatment of cocaine craving 
+and impulsivity.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.psychres.2023.115491
+PMID: 37783092 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest Each author 
+declares that he or she has no commercial associations (e.g. consultancies, 
+stock ownership, equity interest, patent/licensing arrangement etc.) that might 
+pose a conflict of interest in connection with the submitted article.
+
+
+3. Lancet. 2018 Apr 28;391(10131):1683-1692. doi: 10.1016/S0140-6736(18)30295-2. 
+Epub 2018 Apr 26.
+
+Effectiveness of theta burst versus high-frequency repetitive transcranial 
+magnetic stimulation in patients with depression (THREE-D): a randomised 
+non-inferiority trial.
+
+Blumberger DM(1), Vila-Rodriguez F(2), Thorpe KE(3), Feffer K(4), Noda Y(5), 
+Giacobbe P(6), Knyahnytska Y(7), Kennedy SH(8), Lam RW(9), Daskalakis ZJ(10), 
+Downar J(11).
+
+Author information:
+(1)Temerty Centre for Therapeutic Brain Intervention at the Centre for Addiction 
+and Mental Health, Toronto, ON, Canada; Department of Psychiatry, University of 
+Toronto, Toronto, ON, Canada; Institute of Medical Science, University of 
+Toronto, Toronto, ON, Canada. Electronic address: daniel.blumberger@camh.ca.
+(2)Non-Invasive Neurostimulation Therapies (NINET) Laboratory, University of 
+British Columbia, Vancouver, BC, Canada; Department of Psychiatry, University of 
+British Columbia, Vancouver, BC, Canada.
+(3)Faculty of Medicine and Dalla Lana School of Public Health, University of 
+Toronto, Toronto, ON, Canada; Applied Health Research Centre (AHRC), St 
+Michael's Hospital, Toronto, ON, Canada; Li Ka Shing Knowledge Institute, St 
+Michael's Hospital, Toronto, ON, Canada.
+(4)Shalvata Mental Health Centre, Hod-Hasharon, Israel; Sackler School of 
+Medicine, Tel Aviv University, Tel Aviv, Israel.
+(5)Department of Neuropsychiatry, School of Medicine, Keio University, Japan.
+(6)Department of Psychiatry, University of Toronto, Toronto, ON, Canada; 
+Harquail Centre for Neuromodulation, Sunnybrook Health Sciences Centre, Toronto, 
+ON, Canada; Centre for Mental Health, University Health Network, Toronto, ON, 
+Canada.
+(7)Temerty Centre for Therapeutic Brain Intervention at the Centre for Addiction 
+and Mental Health, Toronto, ON, Canada; Department of Psychiatry, University of 
+Toronto, Toronto, ON, Canada.
+(8)Department of Psychiatry, University of Toronto, Toronto, ON, Canada; 
+Institute of Medical Science, University of Toronto, Toronto, ON, Canada; Li Ka 
+Shing Knowledge Institute, St Michael's Hospital, Toronto, ON, Canada; Krembil 
+Research Institute, University Health Network, Toronto, ON, Canada.
+(9)Department of Psychiatry, University of British Columbia, Vancouver, BC, 
+Canada.
+(10)Temerty Centre for Therapeutic Brain Intervention at the Centre for 
+Addiction and Mental Health, Toronto, ON, Canada; Department of Psychiatry, 
+University of Toronto, Toronto, ON, Canada; Institute of Medical Science, 
+University of Toronto, Toronto, ON, Canada.
+(11)Department of Psychiatry, University of Toronto, Toronto, ON, Canada; 
+Institute of Medical Science, University of Toronto, Toronto, ON, Canada; Centre 
+for Mental Health, University Health Network, Toronto, ON, Canada; MRI-Guided 
+rTMS Clinic, University Health Network, Toronto, ON, Canada; Krembil Research 
+Institute, University Health Network, Toronto, ON, Canada.
+
+Erratum in
+    Lancet. 2018 Jun 23;391(10139):e24. doi: 10.1016/S0140-6736(18)31323-0.
+
+Comment in
+    Lancet. 2018 Apr 28;391(10131):1639-1640. doi: 
+10.1016/S0140-6736(18)30863-8.
+    Front Hum Neurosci. 2018 Jun 25;12:255. doi: 10.3389/fnhum.2018.00255.
+    Lancet. 2019 Feb 2;393(10170):403. doi: 10.1016/S0140-6736(18)32760-0.
+    J Affect Disord. 2020 Feb 15;263:549-551. doi: 10.1016/j.jad.2019.11.017.
+
+BACKGROUND: Treatment-resistant major depressive disorder is common; repetitive 
+transcranial magnetic stimulation (rTMS) by use of high-frequency (10 Hz) 
+left-side dorsolateral prefrontal cortex stimulation is an evidence-based 
+treatment for this disorder. Intermittent theta burst stimulation (iTBS) is a 
+newer form of rTMS that can be delivered in 3 min, versus 37·5 min for a 
+standard 10 Hz treatment session. We aimed to establish the clinical 
+effectiveness, safety, and tolerability of iTBS compared with standard 10 Hz 
+rTMS in adults with treatment-resistant depression.
+METHODS: In this randomised, multicentre, non-inferiority clinical trial, we 
+recruited patients who were referred to specialty neurostimulation centres based 
+at three Canadian university hospitals (Centre for Addiction and Mental Health 
+and Toronto Western Hospital, Toronto, ON, and University of British Columbia 
+Hospital, Vancouver, BC). Participants were aged 18-65 years, were diagnosed 
+with a current treatment-resistant major depressive episode or could not 
+tolerate at least two antidepressants in the current episode, were receiving 
+stable antidepressant medication doses for at least 4 weeks before baseline, and 
+had an HRSD-17 score of at least 18. Participants were randomly allocated (1:1) 
+to treatment groups (10 Hz rTMS or iTBS) by use of a random permuted block 
+method, with stratification by site and number of adequate trials in which the 
+antidepressants were unsuccessful. Treatment was delivered open-label but 
+investigators and outcome assessors were masked to treatment groups. 
+Participants were treated with 10 Hz rTMS or iTBS to the left dorsolateral 
+prefrontal cortex, administered on 5 days a week for 4-6 weeks. The primary 
+outcome measure was change in 17-item Hamilton Rating Scale for Depression 
+(HRSD-17) score, with a non-inferiority margin of 2·25 points. For the primary 
+outcome measure, we did a per-protocol analysis of all participants who were 
+randomly allocated to groups and who attained the primary completion point of 4 
+weeks. This trial is registered with ClinicalTrials.gov, number NCT01887782.
+FINDINGS: Between Sept 3, 2013, and Oct 3, 2016, we randomly allocated 205 
+participants to receive 10 Hz rTMS and 209 participants to receive iTBS. 192 
+(94%) participants in the 10 Hz rTMS group and 193 (92%) in the iTBS group were 
+assessed for the primary outcome after 4-6 weeks of treatment. HRSD-17 scores 
+improved from 23·5 (SD 4·4) to 13·4 (7·8) in the 10 Hz rTMS group and from 23·6 
+(4·3) to 13·4 (7·9) in the iTBS group (adjusted difference 0·103 [corrected], 
+lower 95% CI -1·16; p=0·0011), which indicated non-inferiority of iTBS. 
+Self-rated intensity of pain associated with treatment was greater in the iTBS 
+group than in the 10 Hz rTMS group (mean score on verbal analogue scale 3·8 [SD 
+2·0] vs 3·4 [2·0] out of 10; p=0·011). Dropout rates did not differ between 
+groups (10 Hz rTMS: 13 [6%] of 205 participants; iTBS: 16 [8%] of 209 
+participants); p=0·6004). The most common treatment-related adverse event was 
+headache in both groups (10 Hz rTMS: 131 [64%] of 204; iTBS: 136 [65%] of 208).
+INTERPRETATION: In patients with treatment-resistant depression, iTBS was 
+non-inferior to 10 Hz rTMS for the treatment of depression. Both treatments had 
+low numbers of dropouts and similar side-effects, safety, and tolerability 
+profiles. By use of iTBS, the number of patients treated per day with current 
+rTMS devices can be increased several times without compromising clinical 
+effectiveness.
+FUNDING: Canadian Institutes of Health Research.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(18)30295-2
+PMID: 29726344 [Indexed for MEDLINE]
+
+
+4. Addiction. 2023 Apr;118(4):750-762. doi: 10.1111/add.16093. Epub 2022 Dec 12.
+
+Clinical management of psychostimulant withdrawal: review of the evidence.
+
+Li MJ(1), Shoptaw SJ(1)(2).
+
+Author information:
+(1)Department of Family Medicine, University of California, Los Angeles, CA, 
+USA.
+(2)Department of Psychiatry and Biobehavioral Sciences, University of 
+California, Los Angeles, CA, USA.
+
+It is estimated that a majority of people who use psychostimulants, particularly 
+methamphetamine (MA) and cocaine, experience withdrawal upon abstinence from 
+sustained use. This review of clinical research reports the evidence regarding 
+biomedical and behavioral treatments for psychostimulant withdrawal symptoms. It 
+provides a framework for clinicians and scientists to increase impact on 
+attenuating MA and cocaine withdrawal during initial and sustained abstinence. 
+Articles reviewed included reports of controlled clinical trials (randomized or 
+non-randomized) reporting at least one withdrawal symptom among the outcomes or 
+specifically studying patients in withdrawal. Potential efficacy for MA 
+withdrawal is noted for a few medications (mirtazapine, naltrexone, bupropion) 
+and repetitive transcranial magnetic stimulation during acute (first week), 
+early protracted (weeks 2-4) and late protracted (> 4 weeks) withdrawal phases. 
+Topiramate shows mixed evidence of efficacy for cocaine withdrawal. In general, 
+there is inconsistent signal for biomedical and behavioral treatments on MA and 
+cocaine withdrawal.
+
+© 2022 Society for the Study of Addiction.
+
+DOI: 10.1111/add.16093
+PMCID: PMC10069411
+PMID: 36401591 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: We declare no conflicts of 
+interests.
+
+
+5. Eur Child Adolesc Psychiatry. 2022 Oct;31(10):1501-1525. doi: 
+10.1007/s00787-022-02021-7. Epub 2022 Jun 24.
+
+Transcranial magnetic stimulation in the treatment of adolescent depression: a 
+systematic review and meta-analysis of aggregated and individual-patient data 
+from uncontrolled studies.
+
+Sigrist C(1), Vöckel J(1), MacMaster FP(2), Farzan F(3)(4), Croarkin PE(5), 
+Galletly C(6)(7)(8), Kaess M(9)(10), Bender S(1), Koenig J(11)(12)(13).
+
+Author information:
+(1)Faculty of Medicine and University Hospital Cologne, Department of Child and 
+Adolescent Psychiatry, Psychosomatics and Psychotherapy, University of Cologne, 
+Cologne, Germany.
+(2)Department of Psychiatry, Cumming School of Medicine, University of Calgary, 
+Calgary, AB, Canada.
+(3)eBrain Lab, School of Mechatronic Systems Engineering, Simon Fraser 
+University, Surrey, BC, Canada.
+(4)Centre for Addiction and Mental Health, Department of Psychiatry, University 
+of Toronto, Toronto, ON, Canada.
+(5)Department of Psychiatry and Psychology, Mayo Clinic, Rochester, MN, USA.
+(6)Adelaide Medical School, The University of Adelaide, Adelaide, SA, Australia.
+(7)Ramsay Health Care (SA) Mental Health, Adelaide, SA, Australia.
+(8)Northern Adelaide Local Health Network, Adelaide, SA, Australia.
+(9)University Hospital of Child and Adolescent Psychiatry and Psychotherapy, 
+University of Bern, Bern, Switzerland.
+(10)Department of Child and Adolescent Psychiatry, Centre for Psychosocial 
+Medicine, University Hospital Heidelberg, Heidelberg, Germany.
+(11)Faculty of Medicine and University Hospital Cologne, Department of Child and 
+Adolescent Psychiatry, Psychosomatics and Psychotherapy, University of Cologne, 
+Cologne, Germany. julian.koenig@uk-koeln.de.
+(12)University Hospital of Child and Adolescent Psychiatry and Psychotherapy, 
+University of Bern, Bern, Switzerland. julian.koenig@uk-koeln.de.
+(13)Department of Child and Adolescent Psychiatry, Centre for Psychosocial 
+Medicine, University Hospital Heidelberg, Heidelberg, Germany. 
+julian.koenig@uk-koeln.de.
+
+Comment in
+    Eur Child Adolesc Psychiatry. 2022 Oct;31(10):1481-1483. doi: 
+10.1007/s00787-022-02089-1.
+
+Transcranial magnetic stimulation (TMS) is a non-invasive treatment for 
+adolescent major depressive disorder (MDD). Existing evidence on the efficacy of 
+TMS in adolescent MDD awaits quantitative synthesis. A systematic literature 
+search was conducted, and data from eligible studies were synthesized using 
+random-effects models. Treatment-covariate interactions were examined in 
+exploratory analyses of individual-patient data (IPD). Systematic search of the 
+literature yielded 1264 hits, of which 10 individual studies (2 randomized 
+trials) were included for quantitative synthesis of mainly uncontrolled studies. 
+Individual patient data (IPD) were available from five trials (all uncontrolled 
+studies). Quantitative synthesis of aggregated data revealed a statistically 
+significant negative overall standardized mean change (pooled SMCC = 2.04, 95% 
+CI [1.46; 2.61], SE = 0.29, p < .001), as well as a significant overall 
+treatment response rate (Transformed Proportion = 41.30%, 95% CI [31.03; 51.57], 
+SE = 0.05; p < 0.001), considering data from baseline to post-treatment. 
+Exploratory IPD analyses suggests TMS might be more effective in younger 
+individuals and individuals with more severe depression, and efficacy might be 
+enhanced with certain treatment modality settings, including higher number of 
+TMS sessions, longer treatment durations, and unilateral and not bilateral 
+stimulation. Existing studies exhibit methodological shortcomings, including 
+small-study effects and lack of control group, blinding, and 
+randomization-compromising the credibility of the present results. To date, two 
+randomized controlled trials on TMS in adolescent depression have been 
+published, and the only large-scale randomized trial suggests TMS is not more 
+effective than sham stimulation. Future large-scale, randomized, and 
+sham-controlled trials are warranted. Future trials should ensure appropriate 
+selection of patients for TMS treatment and guide precision medicine approaches 
+for stimulation protocols.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00787-022-02021-7
+PMCID: PMC9532325
+PMID: 35751003 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Croarkin is supported by National Institute 
+of Mental Health awards R01MH113700 and R01MH124655. The content is solely the 
+responsibility of the authors and does not necessarily reflect the official 
+views of the National Institute of Mental Health or the National Institutes of 
+Health. Dr. MacMaster is supported by the Alberta Children’s Hospital Foundation 
+and the Canadian Institute of Health Research.

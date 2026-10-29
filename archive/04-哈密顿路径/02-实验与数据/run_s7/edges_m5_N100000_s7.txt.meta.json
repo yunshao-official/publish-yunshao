@@ -1,0 +1,10 @@
+{
+ "generator": "networkx.barabasi_albert_graph",
+ "networkx_version": "3.6.1",
+ "N": 100000,
+ "m": 5,
+ "seed": 7,
+ "n_edges": 499975,
+ "n_leaves_deg_eq_m": 28596,
+ "sha256": "c2f3c9776a94a1b2d4643f38bed5b1c2d21363cc21445126b11945c33ea1055d"
+}
