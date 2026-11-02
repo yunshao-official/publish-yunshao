@@ -1,0 +1,284 @@
+{
+ "retrieved": "2026-11-02",
+ "version": "v1.1",
+ "total_records": 487,
+ "v10_total": 467,
+ "per_domain": {
+  "D01": 42,
+  "D02": 42,
+  "D03": 25,
+  "D04": 42,
+  "D05": 42,
+  "D06": 42,
+  "D07": 42,
+  "D08": 42,
+  "D09": 42,
+  "D10": 42,
+  "D11": 42,
+  "D12": 42
+ },
+ "deficit_closed": {
+  "D01": {
+   "v10": 42,
+   "v11": 42
+  },
+  "D02": {
+   "v10": 42,
+   "v11": 42
+  },
+  "D03": {
+   "v10": 18,
+   "v11": 25
+  },
+  "D04": {
+   "v10": 39,
+   "v11": 42
+  },
+  "D05": {
+   "v10": 42,
+   "v11": 42
+  },
+  "D06": {
+   "v10": 42,
+   "v11": 42
+  },
+  "D07": {
+   "v10": 42,
+   "v11": 42
+  },
+  "D08": {
+   "v10": 42,
+   "v11": 42
+  },
+  "D09": {
+   "v10": 33,
+   "v11": 42
+  },
+  "D10": {
+   "v10": 42,
+   "v11": 42
+  },
+  "D11": {
+   "v10": 41,
+   "v11": 42
+  },
+  "D12": {
+   "v10": 42,
+   "v11": 42
+  }
+ },
+ "supp_queries": {
+  "D03": [
+   "shareholder consent rights agreement enumeration",
+   "reserved matters supermajority articles of association",
+   "negative control minority shareholders corporate law",
+   "blocking minority voting thresholds corporate decisions",
+   "venture capital term sheet investor protection rights",
+   "veto power shareholder protection empirical study",
+   "protective provisions preferred shareholders board seats",
+   "minority shareholder veto deadlock corporate governance"
+  ],
+  "D04": [
+   "director nomination rights shareholder agreements board composition",
+   "company seal apparent authority contract validity China",
+   "managing director appointment removal shareholder control",
+   "legal representative corporate liability China governance",
+   "board interlocks shareholder control executive appointments",
+   "chief executive officer dismissal board authority"
+  ],
+  "D09": [
+   "golden shares member states free movement of capital restrictions",
+   "mixed ownership reform control rights state-owned enterprises China",
+   "special management shares Chinese internet platforms",
+   "state ownership pyramid control minority shareholders",
+   "party organizations boards of directors China corporate governance",
+   "soe governance minority investor protection mixed ownership",
+   "golden share proportionality case law European Union"
+  ],
+  "D11": [
+   "dual class shares long term underperformance founder control",
+   "weighted voting rights sunset clause listing rules comparison",
+   "one share multiple votes Singapore listing reform",
+   "controlled company conflicts of interest Delaware doctrine",
+   "differential voting rights ownership structure performance meta analysis",
+   "tech founder controlled firms innovation governance"
+  ]
+ },
+ "per_query_v11": {
+  "D03-cr-v11-01": {
+   "channel": "crossref",
+   "q": "shareholder consent rights agreement enumeration",
+   "returned": 25,
+   "scored": 0
+  },
+  "D03-cr-v11-02": {
+   "channel": "crossref",
+   "q": "reserved matters supermajority articles of association",
+   "returned": 25,
+   "scored": 5
+  },
+  "D03-cr-v11-03": {
+   "channel": "crossref",
+   "q": "negative control minority shareholders corporate law",
+   "returned": 25,
+   "scored": 0
+  },
+  "D03-cr-v11-04": {
+   "channel": "crossref",
+   "q": "blocking minority voting thresholds corporate decisions",
+   "returned": 25,
+   "scored": 1
+  },
+  "D03-cr-v11-05": {
+   "channel": "crossref",
+   "q": "venture capital term sheet investor protection rights",
+   "returned": 25,
+   "scored": 0
+  },
+  "D03-cr-v11-06": {
+   "channel": "crossref",
+   "q": "veto power shareholder protection empirical study",
+   "returned": 25,
+   "scored": 1
+  },
+  "D03-op-v11-01": {
+   "channel": "openalex",
+   "q": "protective provisions preferred shareholders board seats",
+   "returned": 25,
+   "scored": 1
+  },
+  "D03-op-v11-02": {
+   "channel": "openalex",
+   "q": "minority shareholder veto deadlock corporate governance",
+   "returned": 25,
+   "scored": 0
+  },
+  "D04-cr-v11-01": {
+   "channel": "crossref",
+   "q": "director nomination rights shareholder agreements board composition",
+   "returned": 25,
+   "scored": 5
+  },
+  "D04-cr-v11-02": {
+   "channel": "crossref",
+   "q": "company seal apparent authority contract validity China",
+   "returned": 25,
+   "scored": 3
+  },
+  "D04-cr-v11-03": {
+   "channel": "crossref",
+   "q": "managing director appointment removal shareholder control",
+   "returned": 25,
+   "scored": 3
+  },
+  "D04-cr-v11-04": {
+   "channel": "crossref",
+   "q": "legal representative corporate liability China governance",
+   "returned": 25,
+   "scored": 1
+  },
+  "D04-op-v11-01": {
+   "channel": "openalex",
+   "q": "board interlocks shareholder control executive appointments",
+   "returned": 25,
+   "scored": 14
+  },
+  "D04-op-v11-02": {
+   "channel": "openalex",
+   "q": "chief executive officer dismissal board authority",
+   "returned": 25,
+   "scored": 21
+  },
+  "D09-cr-v11-01": {
+   "channel": "crossref",
+   "q": "golden shares member states free movement of capital restrictions",
+   "returned": 25,
+   "scored": 8
+  },
+  "D09-cr-v11-02": {
+   "channel": "crossref",
+   "q": "mixed ownership reform control rights state-owned enterprises China",
+   "returned": 25,
+   "scored": 22
+  },
+  "D09-cr-v11-03": {
+   "channel": "crossref",
+   "q": "special management shares Chinese internet platforms",
+   "returned": 25,
+   "scored": 2
+  },
+  "D09-cr-v11-04": {
+   "channel": "crossref",
+   "q": "state ownership pyramid control minority shareholders",
+   "returned": 25,
+   "scored": 4
+  },
+  "D09-cr-v11-05": {
+   "channel": "crossref",
+   "q": "party organizations boards of directors China corporate governance",
+   "returned": 25,
+   "scored": 0
+  },
+  "D09-op-v11-01": {
+   "channel": "openalex",
+   "q": "soe governance minority investor protection mixed ownership",
+   "returned": 25,
+   "scored": 18
+  },
+  "D09-op-v11-02": {
+   "channel": "openalex",
+   "q": "golden share proportionality case law European Union",
+   "returned": 25,
+   "scored": 8
+  },
+  "D11-cr-v11-01": {
+   "channel": "crossref",
+   "q": "dual class shares long term underperformance founder control",
+   "returned": 25,
+   "scored": 22
+  },
+  "D11-cr-v11-02": {
+   "channel": "crossref",
+   "q": "weighted voting rights sunset clause listing rules comparison",
+   "returned": 25,
+   "scored": 1
+  },
+  "D11-cr-v11-03": {
+   "channel": "crossref",
+   "q": "one share multiple votes Singapore listing reform",
+   "returned": 25,
+   "scored": 0
+  },
+  "D11-cr-v11-04": {
+   "channel": "crossref",
+   "q": "controlled company conflicts of interest Delaware doctrine",
+   "returned": 25,
+   "scored": 0
+  },
+  "D11-op-v11-01": {
+   "channel": "openalex",
+   "q": "differential voting rights ownership structure performance meta analysis",
+   "returned": 25,
+   "scored": 1
+  },
+  "D11-op-v11-02": {
+   "channel": "openalex",
+   "q": "tech founder controlled firms innovation governance",
+   "returned": 25,
+   "scored": 10
+  }
+ },
+ "failed_v11": [],
+ "level_counts": {
+  "核": 355,
+  "待核": 132
+ },
+ "channel_counts": {
+  "crossref": 277,
+  "openalex": 210
+ },
+ "ver_counts": {
+  "v1.0": 411,
+  "v1.1": 76
+ }
+}

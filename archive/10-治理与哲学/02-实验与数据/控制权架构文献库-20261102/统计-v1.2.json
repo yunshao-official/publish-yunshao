@@ -1,0 +1,101 @@
+{
+ "retrieved": "2026-11-02",
+ "version": "v1.2",
+ "total_records": 504,
+ "history": {
+  "v1.0": 467,
+  "v1.1": 487,
+  "v1.2": 504
+ },
+ "per_domain": {
+  "D01": 42,
+  "D02": 42,
+  "D03": 42,
+  "D04": 42,
+  "D05": 42,
+  "D06": 42,
+  "D07": 42,
+  "D08": 42,
+  "D09": 42,
+  "D10": 42,
+  "D11": 42,
+  "D12": 42
+ },
+ "method_change": "仅 D03 域改用 OpenAlex title_and_abstract.search 布尔精确匹配；关键词表/打分/去重/档位口径未改",
+ "v12_queries": {
+  "D03": [
+   "veto AND shareholder",
+   "\"protective provisions\" AND investor",
+   "supermajority AND corporate AND voting",
+   "\"blocking minority\" OR \"minority veto\"",
+   "deadlock AND \"board of directors\"",
+   "shareholder AND (\"consent right\" OR \"approval right\")",
+   "\"term sheet\" AND (veto OR \"protective provision\")",
+   "minority AND protection AND (veto OR \"special majority\")"
+  ]
+ },
+ "per_query_v12": {
+  "D03-op-v12-01": {
+   "channel": "openalex",
+   "expr": "veto AND shareholder",
+   "returned": 25,
+   "scored": 20
+  },
+  "D03-op-v12-02": {
+   "channel": "openalex",
+   "expr": "\"protective provisions\" AND investor",
+   "returned": 23,
+   "scored": 15
+  },
+  "D03-op-v12-03": {
+   "channel": "openalex",
+   "expr": "supermajority AND corporate AND voting",
+   "returned": 25,
+   "scored": 7
+  },
+  "D03-op-v12-04": {
+   "channel": "openalex",
+   "expr": "\"blocking minority\" OR \"minority veto\"",
+   "returned": 25,
+   "scored": 17
+  },
+  "D03-op-v12-05": {
+   "channel": "openalex",
+   "expr": "deadlock AND \"board of directors\"",
+   "returned": 18,
+   "scored": 6
+  },
+  "D03-op-v12-06": {
+   "channel": "openalex",
+   "expr": "shareholder AND (\"consent right\" OR \"approval right\")",
+   "returned": 3,
+   "scored": 3
+  },
+  "D03-op-v12-07": {
+   "channel": "openalex",
+   "expr": "\"term sheet\" AND (veto OR \"protective provision\")",
+   "returned": 8,
+   "scored": 4
+  },
+  "D03-op-v12-08": {
+   "channel": "openalex",
+   "expr": "minority AND protection AND (veto OR \"special majority\")",
+   "returned": 25,
+   "scored": 22
+  }
+ },
+ "failed_v12": [],
+ "level_counts": {
+  "核": 378,
+  "待核": 126
+ },
+ "channel_counts": {
+  "crossref": 263,
+  "openalex": 241
+ },
+ "ver_counts": {
+  "v1.0": 401,
+  "v1.1": 71,
+  "v1.2": 32
+ }
+}

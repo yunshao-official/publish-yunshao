@@ -1,0 +1,620 @@
+{
+ "retrieved": "2026-11-02",
+ "total_records": 467,
+ "candidates_raw": 1415,
+ "per_domain": {
+  "D01": 42,
+  "D02": 42,
+  "D03": 18,
+  "D04": 39,
+  "D05": 42,
+  "D06": 42,
+  "D07": 42,
+  "D08": 42,
+  "D09": 33,
+  "D10": 42,
+  "D11": 41,
+  "D12": 42
+ },
+ "per_query": {
+  "D01-cr-01": {
+   "channel": "crossref",
+   "q": "minority shareholder dividend rights",
+   "returned": 20,
+   "kept_scored": 17
+  },
+  "D01-cr-02": {
+   "channel": "crossref",
+   "q": "profit distribution company law",
+   "returned": 20,
+   "kept_scored": 2
+  },
+  "D01-cr-03": {
+   "channel": "crossref",
+   "q": "legal capital maintenance creditor protection",
+   "returned": 20,
+   "kept_scored": 15
+  },
+  "D01-cr-04": {
+   "channel": "crossref",
+   "q": "dividend policy shareholder wealth",
+   "returned": 20,
+   "kept_scored": 19
+  },
+  "D01-op-01": {
+   "channel": "openalex",
+   "q": "shareholder pre-emptive rights dilution",
+   "returned": 20,
+   "kept_scored": 12
+  },
+  "D01-op-02": {
+   "channel": "openalex",
+   "q": "mandatory dividend judicial intervention",
+   "returned": 20,
+   "kept_scored": 11
+  },
+  "D01-op-03": {
+   "channel": "openalex",
+   "q": "公司 股利 分配 少数股东",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D02-cr-01": {
+   "channel": "crossref",
+   "q": "dual-class shares voting rights",
+   "returned": 20,
+   "kept_scored": 16
+  },
+  "D02-cr-02": {
+   "channel": "crossref",
+   "q": "shareholder voting agreements control",
+   "returned": 20,
+   "kept_scored": 7
+  },
+  "D02-cr-03": {
+   "channel": "crossref",
+   "q": "proxy voting shareholder control",
+   "returned": 20,
+   "kept_scored": 20
+  },
+  "D02-cr-04": {
+   "channel": "crossref",
+   "q": "multiple voting shares",
+   "returned": 20,
+   "kept_scored": 18
+  },
+  "D02-op-01": {
+   "channel": "openalex",
+   "q": "concert party agreement voting control",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D02-op-02": {
+   "channel": "openalex",
+   "q": "一致行动人 协议 表决权",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D02-op-03": {
+   "channel": "openalex",
+   "q": "voting trust founder control",
+   "returned": 20,
+   "kept_scored": 6
+  },
+  "D03-cr-01": {
+   "channel": "crossref",
+   "q": "protective provisions venture capital board",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D03-cr-02": {
+   "channel": "crossref",
+   "q": "veto rights shareholders contract",
+   "returned": 20,
+   "kept_scored": 2
+  },
+  "D03-cr-03": {
+   "channel": "crossref",
+   "q": "supermajority voting corporate charter",
+   "returned": 20,
+   "kept_scored": 11
+  },
+  "D03-cr-04": {
+   "channel": "crossref",
+   "q": "casting vote board deadlock",
+   "returned": 20,
+   "kept_scored": 6
+  },
+  "D03-op-01": {
+   "channel": "openalex",
+   "q": "shareholder agreement negative control",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D03-op-02": {
+   "channel": "openalex",
+   "q": "minority blocking rights",
+   "returned": 20,
+   "kept_scored": 3
+  },
+  "D03-op-03": {
+   "channel": "openalex",
+   "q": "否决权 公司章程 条款",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D04-cr-01": {
+   "channel": "crossref",
+   "q": "board representation shareholder rights",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D04-cr-02": {
+   "channel": "crossref",
+   "q": "executive appointment removal control",
+   "returned": 20,
+   "kept_scored": 3
+  },
+  "D04-cr-03": {
+   "channel": "crossref",
+   "q": "corporate seal authority China",
+   "returned": 20,
+   "kept_scored": 1
+  },
+  "D04-cr-04": {
+   "channel": "crossref",
+   "q": "legal representative company China",
+   "returned": 20,
+   "kept_scored": 7
+  },
+  "D04-op-01": {
+   "channel": "openalex",
+   "q": "chief executive power board dismissal",
+   "returned": 20,
+   "kept_scored": 18
+  },
+  "D04-op-02": {
+   "channel": "openalex",
+   "q": "法定代表人 董事 控制",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D04-op-03": {
+   "channel": "openalex",
+   "q": "chairman appointment control",
+   "returned": 20,
+   "kept_scored": 11
+  },
+  "D05-cr-01": {
+   "channel": "crossref",
+   "q": "marital property division closely held business",
+   "returned": 20,
+   "kept_scored": 5
+  },
+  "D05-cr-02": {
+   "channel": "crossref",
+   "q": "divorce corporate control family firm",
+   "returned": 20,
+   "kept_scored": 13
+  },
+  "D05-cr-03": {
+   "channel": "crossref",
+   "q": "prenuptial agreement business ownership",
+   "returned": 20,
+   "kept_scored": 15
+  },
+  "D05-cr-04": {
+   "channel": "crossref",
+   "q": "inheritance family business succession",
+   "returned": 20,
+   "kept_scored": 9
+  },
+  "D05-op-01": {
+   "channel": "openalex",
+   "q": "spousal property rights corporate control",
+   "returned": 20,
+   "kept_scored": 11
+  },
+  "D05-op-02": {
+   "channel": "openalex",
+   "q": "夫妻 共同财产 股权分割",
+   "returned": 20,
+   "kept_scored": 3
+  },
+  "D05-op-03": {
+   "channel": "openalex",
+   "q": "marital dissolution voting power",
+   "returned": 20,
+   "kept_scored": 16
+  },
+  "D06-cr-01": {
+   "channel": "crossref",
+   "q": "nominee shareholding trust China",
+   "returned": 20,
+   "kept_scored": 5
+  },
+  "D06-cr-02": {
+   "channel": "crossref",
+   "q": "voting trust corporate control",
+   "returned": 20,
+   "kept_scored": 2
+  },
+  "D06-cr-03": {
+   "channel": "crossref",
+   "q": "family limited partnership control",
+   "returned": 20,
+   "kept_scored": 8
+  },
+  "D06-cr-04": {
+   "channel": "crossref",
+   "q": "holding company pyramid ownership control",
+   "returned": 20,
+   "kept_scored": 5
+  },
+  "D06-op-01": {
+   "channel": "openalex",
+   "q": "equity nominee agreement enforceability",
+   "returned": 20,
+   "kept_scored": 13
+  },
+  "D06-op-02": {
+   "channel": "openalex",
+   "q": "trust beneficiary control rights",
+   "returned": 20,
+   "kept_scored": 19
+  },
+  "D06-op-03": {
+   "channel": "openalex",
+   "q": "股权 代持 信托 效力",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D07-cr-01": {
+   "channel": "crossref",
+   "q": "royalty licensing intellectual property valuation",
+   "returned": 20,
+   "kept_scored": 12
+  },
+  "D07-cr-02": {
+   "channel": "crossref",
+   "q": "work for hire invention assignment employee",
+   "returned": 20,
+   "kept_scored": 3
+  },
+  "D07-cr-03": {
+   "channel": "crossref",
+   "q": "patent holding company licensing",
+   "returned": 20,
+   "kept_scored": 12
+  },
+  "D07-cr-04": {
+   "channel": "crossref",
+   "q": "exclusive license bankruptcy licensee",
+   "returned": 20,
+   "kept_scored": 7
+  },
+  "D07-op-01": {
+   "channel": "openalex",
+   "q": "technology transfer royalty pricing",
+   "returned": 20,
+   "kept_scored": 20
+  },
+  "D07-op-02": {
+   "channel": "openalex",
+   "q": "inventor ownership university",
+   "returned": 20,
+   "kept_scored": 13
+  },
+  "D07-op-03": {
+   "channel": "openalex",
+   "q": "职务发明 权利 归属",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D08-cr-01": {
+   "channel": "crossref",
+   "q": "double taxation of dividends corporate income tax",
+   "returned": 20,
+   "kept_scored": 13
+  },
+  "D08-cr-02": {
+   "channel": "crossref",
+   "q": "dividend tax incidence shareholder",
+   "returned": 20,
+   "kept_scored": 20
+  },
+  "D08-cr-03": {
+   "channel": "crossref",
+   "q": "tax treaty royalty withholding",
+   "returned": 20,
+   "kept_scored": 13
+  },
+  "D08-cr-04": {
+   "channel": "crossref",
+   "q": "pass-through taxation small business",
+   "returned": 20,
+   "kept_scored": 16
+  },
+  "D08-op-01": {
+   "channel": "openalex",
+   "q": "imputation system dividend taxation",
+   "returned": 20,
+   "kept_scored": 20
+  },
+  "D08-op-02": {
+   "channel": "openalex",
+   "q": "股息 红利 个人所得税",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D08-op-03": {
+   "channel": "openalex",
+   "q": "corporate tax burden dividend payout",
+   "returned": 20,
+   "kept_scored": 20
+  },
+  "D09-cr-01": {
+   "channel": "crossref",
+   "q": "golden share state ownership control",
+   "returned": 20,
+   "kept_scored": 1
+  },
+  "D09-cr-02": {
+   "channel": "crossref",
+   "q": "mixed ownership reform China state-owned enterprise",
+   "returned": 20,
+   "kept_scored": 12
+  },
+  "D09-cr-03": {
+   "channel": "crossref",
+   "q": "special management shares China media",
+   "returned": 20,
+   "kept_scored": 1
+  },
+  "D09-cr-04": {
+   "channel": "crossref",
+   "q": "state ownership corporate governance performance",
+   "returned": 20,
+   "kept_scored": 3
+  },
+  "D09-op-01": {
+   "channel": "openalex",
+   "q": "party building corporate governance China",
+   "returned": 20,
+   "kept_scored": 10
+  },
+  "D09-op-02": {
+   "channel": "openalex",
+   "q": "golden share proportionality EU",
+   "returned": 20,
+   "kept_scored": 10
+  },
+  "D09-op-03": {
+   "channel": "openalex",
+   "q": "国有企业 治理 控制权",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D10-cr-01": {
+   "channel": "crossref",
+   "q": "valuation adjustment mechanism investor China",
+   "returned": 20,
+   "kept_scored": 6
+  },
+  "D10-cr-02": {
+   "channel": "crossref",
+   "q": "corporate deadlock judicial dissolution",
+   "returned": 20,
+   "kept_scored": 14
+  },
+  "D10-cr-03": {
+   "channel": "crossref",
+   "q": "shareholder inspection rights",
+   "returned": 20,
+   "kept_scored": 19
+  },
+  "D10-cr-04": {
+   "channel": "crossref",
+   "q": "minority shareholder oppression remedy",
+   "returned": 20,
+   "kept_scored": 13
+  },
+  "D10-op-01": {
+   "channel": "openalex",
+   "q": "performance betting dispute enforcement",
+   "returned": 20,
+   "kept_scored": 16
+  },
+  "D10-op-02": {
+   "channel": "openalex",
+   "q": "corporate gridlock buyout remedy",
+   "returned": 20,
+   "kept_scored": 1
+  },
+  "D10-op-03": {
+   "channel": "openalex",
+   "q": "股东 知情权 诉讼",
+   "returned": 20,
+   "kept_scored": 4
+  },
+  "D11-cr-01": {
+   "channel": "crossref",
+   "q": "Delaware dual class stock founder control",
+   "returned": 20,
+   "kept_scored": 10
+  },
+  "D11-cr-02": {
+   "channel": "crossref",
+   "q": "one share ten votes Hong Kong listing",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D11-cr-03": {
+   "channel": "crossref",
+   "q": "Alibaba partnership structure control",
+   "returned": 20,
+   "kept_scored": 9
+  },
+  "D11-cr-04": {
+   "channel": "crossref",
+   "q": "UK golden share privatisation control",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D11-op-01": {
+   "channel": "openalex",
+   "q": "differential voting rights IPO underperformance",
+   "returned": 20,
+   "kept_scored": 8
+  },
+  "D11-op-02": {
+   "channel": "openalex",
+   "q": "founder control technology firms",
+   "returned": 20,
+   "kept_scored": 17
+  },
+  "D11-op-03": {
+   "channel": "openalex",
+   "q": "合伙人 制度 控制权",
+   "returned": 20,
+   "kept_scored": 0
+  },
+  "D12-cr-01": {
+   "channel": "crossref",
+   "q": "separation of ownership and control Berle Means",
+   "returned": 20,
+   "kept_scored": 5
+  },
+  "D12-cr-02": {
+   "channel": "crossref",
+   "q": "private benefits of control",
+   "returned": 20,
+   "kept_scored": 19
+  },
+  "D12-cr-03": {
+   "channel": "crossref",
+   "q": "agency costs corporate governance",
+   "returned": 20,
+   "kept_scored": 20
+  },
+  "D12-cr-04": {
+   "channel": "crossref",
+   "q": "wedge between ownership and voting rights",
+   "returned": 20,
+   "kept_scored": 8
+  },
+  "D12-op-01": {
+   "channel": "openalex",
+   "q": "director primacy corporate control",
+   "returned": 20,
+   "kept_scored": 19
+  },
+  "D12-op-02": {
+   "channel": "openalex",
+   "q": "managerial entrenchment takeover defense",
+   "returned": 20,
+   "kept_scored": 19
+  },
+  "D12-op-03": {
+   "channel": "openalex",
+   "q": "incomplete contracts control rights property rights",
+   "returned": 20,
+   "kept_scored": 19
+  }
+ },
+ "returned_per_query": {
+  "D01-cr-01": 20,
+  "D01-cr-02": 20,
+  "D01-cr-03": 20,
+  "D01-cr-04": 20,
+  "D01-op-01": 20,
+  "D01-op-02": 20,
+  "D01-op-03": 20,
+  "D02-cr-01": 20,
+  "D02-cr-02": 20,
+  "D02-cr-03": 20,
+  "D02-cr-04": 20,
+  "D02-op-01": 20,
+  "D02-op-02": 20,
+  "D02-op-03": 20,
+  "D03-cr-01": 20,
+  "D03-cr-02": 20,
+  "D03-cr-03": 20,
+  "D03-cr-04": 20,
+  "D03-op-01": 20,
+  "D03-op-02": 20,
+  "D03-op-03": 20,
+  "D04-cr-01": 20,
+  "D04-cr-02": 20,
+  "D04-cr-03": 20,
+  "D04-cr-04": 20,
+  "D04-op-01": 20,
+  "D04-op-02": 20,
+  "D04-op-03": 20,
+  "D05-cr-01": 20,
+  "D05-cr-02": 20,
+  "D05-cr-03": 20,
+  "D05-cr-04": 20,
+  "D05-op-01": 20,
+  "D05-op-02": 20,
+  "D05-op-03": 20,
+  "D06-cr-01": 20,
+  "D06-cr-02": 20,
+  "D06-cr-03": 20,
+  "D06-cr-04": 20,
+  "D06-op-01": 20,
+  "D06-op-02": 20,
+  "D06-op-03": 20,
+  "D07-cr-01": 20,
+  "D07-cr-02": 20,
+  "D07-cr-03": 20,
+  "D07-cr-04": 20,
+  "D07-op-01": 20,
+  "D07-op-02": 20,
+  "D07-op-03": 20,
+  "D08-cr-01": 20,
+  "D08-cr-02": 20,
+  "D08-cr-03": 20,
+  "D08-cr-04": 20,
+  "D08-op-01": 20,
+  "D08-op-02": 20,
+  "D08-op-03": 20,
+  "D09-cr-01": 20,
+  "D09-cr-02": 20,
+  "D09-cr-03": 20,
+  "D09-cr-04": 20,
+  "D09-op-01": 20,
+  "D09-op-02": 20,
+  "D09-op-03": 20,
+  "D10-cr-01": 20,
+  "D10-cr-02": 20,
+  "D10-cr-03": 20,
+  "D10-cr-04": 20,
+  "D10-op-01": 20,
+  "D10-op-02": 20,
+  "D10-op-03": 20,
+  "D11-cr-01": 20,
+  "D11-cr-02": 20,
+  "D11-cr-03": 20,
+  "D11-cr-04": 20,
+  "D11-op-01": 20,
+  "D11-op-02": 20,
+  "D11-op-03": 20,
+  "D12-cr-01": 20,
+  "D12-cr-02": 20,
+  "D12-cr-03": 20,
+  "D12-cr-04": 20,
+  "D12-op-01": 20,
+  "D12-op-02": 20,
+  "D12-op-03": 20
+ },
+ "level_counts": {
+  "核": 330,
+  "待核": 137
+ },
+ "channel_counts": {
+  "crossref": 273,
+  "openalex": 194
+ },
+ "failed_queries": []
+}
