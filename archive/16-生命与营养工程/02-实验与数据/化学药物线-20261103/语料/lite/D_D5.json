@@ -1,0 +1,1976 @@
+{
+  "query_id": "D5",
+  "group": "D",
+  "query": "cardiomyocyte renewal AND turnover AND age",
+  "hitCount": 998,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:48.276752+00:00",
+  "results": [
+    {
+      "id": "41884895",
+      "source": "MED",
+      "pmid": "41884895",
+      "pmcid": "PMC13025782",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13025782"
+        ]
+      },
+      "doi": "10.1161/atvbaha.125.323209",
+      "title": "Macrophage Efferocytosis in Heart.",
+      "authorString": "Inui H, Yu X, Pfrender E, Bednarek J, Zhang L, Thorp EB.",
+      "journalTitle": "Arterioscler Thromb Vasc Biol",
+      "issue": "5",
+      "journalVolume": "46",
+      "pubYear": "2026",
+      "journalIssn": "1079-5642; 1524-4636; ",
+      "pageInfo": "e323209",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-26",
+      "firstIndexDate": "2026-03-27"
+    },
+    {
+      "id": "42789924",
+      "source": "MED",
+      "pmid": "42789924",
+      "pmcid": "PMC13722021",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13722021"
+        ]
+      },
+      "doi": "10.1152/ajpheart.00304.2026",
+      "title": "Impaired mitochondrial proteostasis underlies cardiomyocyte bioenergetic dysfunction in a murine three-hit model of heart failure with preserved ejection fraction.",
+      "authorString": "Li X, Fu Y, do Carmo JM, da Silva AA, Mouton AJ, Omoto ACM, Wang L, Hall JE, Wang Z.",
+      "journalTitle": "Am J Physiol Heart Circ Physiol",
+      "issue": "5",
+      "journalVolume": "331",
+      "pubYear": "2026",
+      "journalIssn": "0363-6135; 1522-1539; ",
+      "pageInfo": "H1591-H1607",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-19",
+      "firstIndexDate": "2026-09-26"
+    },
+    {
+      "id": "42747679",
+      "source": "MED",
+      "pmid": "42747679",
+      "pmcid": "PMC13582753",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13582753"
+        ]
+      },
+      "doi": "10.1186/s43556-026-00587-1",
+      "title": "Cardiac fibrosis: mechanistic insights and translational advances.",
+      "authorString": "Xie HY, Zheng XT, Wang XH, Yang JY, Liu YX, Zhao Y, Tang HF, Hu HJ.",
+      "journalTitle": "Mol Biomed",
+      "issue": "1",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2662-8651",
+      "pageInfo": "170",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-16",
+      "firstIndexDate": "2026-09-17"
+    },
+    {
+      "id": "42455390",
+      "source": "MED",
+      "pmid": "42455390",
+      "pmcid": "PMC13372851",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13372851"
+        ]
+      },
+      "doi": "10.1007/s11886-026-02382-4",
+      "title": "Epigenetic Control of Mammalian Cardiomyocyte Proliferation.",
+      "authorString": "Butera F, Elliott DA, Porrello ER.",
+      "journalTitle": "Curr Cardiol Rep",
+      "issue": "1",
+      "journalVolume": "28",
+      "pubYear": "2026",
+      "journalIssn": "1523-3782; 1534-3170; ",
+      "pageInfo": "69",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-15",
+      "firstIndexDate": "2026-07-16"
+    },
+    {
+      "id": "42594166",
+      "source": "MED",
+      "pmid": "42594166",
+      "pmcid": "PMC13475731",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13475731"
+        ]
+      },
+      "doi": "10.1161/circresaha.126.328769",
+      "title": "Shifting the Balance: Mitochondrial Heteroplasmy as a Driver of Cardiac Disease.",
+      "authorString": "Papadaki A, Braga Dias I, Maack C, van der Meer P, Bomer N.",
+      "journalTitle": "Circ Res",
+      "issue": "5",
+      "journalVolume": "139",
+      "pubYear": "2026",
+      "journalIssn": "0009-7330; 1524-4571; ",
+      "pageInfo": "e328769",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-13",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "42737688",
+      "source": "MED",
+      "pmid": "42737688",
+      "pmcid": "PMC13566263",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13566263"
+        ]
+      },
+      "doi": "10.3390/ijms27177793",
+      "title": "Non-Coding RNAs from Cardiac Development to Disease: Regulatory Context, Regenerative Potential, and Translational Limits.",
+      "authorString": "Wang L, Zhao Y, Zhang R, Ning X, Jin B.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "17",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "7793",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "refsnp",
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-31",
+      "firstIndexDate": "2026-09-15"
+    },
+    {
+      "id": "42662706",
+      "source": "MED",
+      "pmid": "42662706",
+      "pmcid": "PMC13521616",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13521616"
+        ]
+      },
+      "doi": "10.20517/jca.2026.07",
+      "title": "Understanding cardiovascular aging as a disorder of mitochondrial network.",
+      "authorString": "Shila TA, Ahmad D, Zhao J, Tan H, Wang B, Zhang J, Wang Y.",
+      "journalTitle": "J Cardiovasc Aging",
+      "issue": "2",
+      "journalVolume": "6",
+      "pubYear": "2026",
+      "journalIssn": "2768-5993",
+      "pageInfo": "12",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-14",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42746146",
+      "source": "MED",
+      "pmid": "42746146",
+      "pmcid": "PMC13575348",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13575348"
+        ]
+      },
+      "doi": "10.3389/fcvm.2026.1925684",
+      "title": "Regulatory mechanisms and interactions of mitophagy and ketone body metabolism in cardiac metabolism.",
+      "authorString": "Ding S, Hu Y, Zhang Q, Liu X, Zhao X, Zhao Y, Zhang W.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2297-055x",
+      "pageInfo": "1925684",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-09-17"
+    },
+    {
+      "id": "41745322",
+      "source": "MED",
+      "pmid": "41745322",
+      "pmcid": "PMC12941982",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12941982"
+        ]
+      },
+      "doi": "10.3390/jcdd13020074",
+      "title": "Mechanisms and Therapeutic Potential of Human Cardiomyocyte Proliferation.",
+      "authorString": "McLane RD, Cheruku A, Williams AB, Karra R.",
+      "journalTitle": "J Cardiovasc Dev Dis",
+      "issue": "2",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2308-3425",
+      "pageInfo": "74",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-02-02",
+      "firstIndexDate": "2026-02-26"
+    },
+    {
+      "id": "42794697",
+      "source": "MED",
+      "pmid": "42794697",
+      "pmcid": "PMC13607918",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13607918"
+        ]
+      },
+      "doi": "10.3390/ijms27188270",
+      "title": "Mitochondrial Quality Control in Inherited Mitochondrial Cardiomyopathy: Convergent Pathobiology and a Testable Therapeutic Framework.",
+      "authorString": "Lee CL, Chuang CK, Chang YH, Chiu HC, Tu YR, Lo YT, Wu JY, Huang HY, Lin HY, Lin SP.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "18",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "8270",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-17",
+      "firstIndexDate": "2026-09-28"
+    },
+    {
+      "id": "42426958",
+      "source": "MED",
+      "pmid": "42426958",
+      "pmcid": "PMC13351028",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13351028"
+        ]
+      },
+      "doi": "10.1111/imr.70139",
+      "title": "Myocardial Immune Niches in Homeostasis and Inflammation.",
+      "authorString": "Perez-Shibayama C, Cadosch N, Schmidt D, Flammer AJ, Ruschitzka F, Gil-Cruz C, Ludewig B.",
+      "journalTitle": "Immunol Rev",
+      "issue": "1",
+      "journalVolume": "340",
+      "pubYear": "2026",
+      "journalIssn": "0105-2896; 1600-065x; ",
+      "pageInfo": "e70139",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-10"
+    },
+    {
+      "id": "42707763",
+      "source": "MED",
+      "pmid": "42707763",
+      "pmcid": "PMC13548130",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13548130"
+        ]
+      },
+      "doi": "10.3389/fragi.2026.1888854",
+      "title": "Repair and regeneration across the lifespan: an ontogenetic perspective.",
+      "authorString": "Barrera-Saldaña HA, Fernández-Garza LE, Guillen-Silva F, Fajardo-Ramirez OR, Iñigo Pavlovich RF, Gómez-Gallardo FV, Rodriguez-Fuentes DE, Avila-Villalobos AY, Barrera-Barrera SA, Somoza RA.",
+      "journalTitle": "Front Aging",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2673-6217",
+      "pageInfo": "1888854",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-24",
+      "firstIndexDate": "2026-09-09"
+    },
+    {
+      "id": "41972571",
+      "source": "MED",
+      "pmid": "41972571",
+      "pmcid": "PMC13072238",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13072238"
+        ]
+      },
+      "doi": "10.3390/biology15070568",
+      "title": "Molecular Regulation of Cardiomyocyte Cell Cycle and Regeneration.",
+      "authorString": "Li F, Son Y, Yang M, Zhu W.",
+      "journalTitle": "Biology (Basel)",
+      "issue": "7",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2079-7737",
+      "pageInfo": "568",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-02",
+      "firstIndexDate": "2026-04-13"
+    },
+    {
+      "id": "39569515",
+      "source": "MED",
+      "pmid": "39569515",
+      "pmcid": "PMC11748904",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11748904"
+        ]
+      },
+      "doi": "10.1161/circulationaha.123.067156",
+      "title": "A Latent Cardiomyocyte Regeneration Potential in Human Heart Disease.",
+      "authorString": "Derks W, Rode J, Collin S, Rost F, Heinke P, Hariharan A, Pickel L, Simonova I, Lázár E, Graham E, Jashari R, Andrä M, Jeppsson A, Salehpour M, Alkass K, Druid H, Kyriakopoulos CP, Taleb I, Shankar TS, Selzman CH, Sadek H, Jovinge S, Brusch L, Frisén J, Drakos S, Bergmann O.",
+      "journalTitle": "Circulation",
+      "issue": "3",
+      "journalVolume": "151",
+      "pubYear": "2025",
+      "journalIssn": "0009-7322; 1524-4539; ",
+      "pageInfo": "245-256",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 34,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "hpa",
+          "uniprot"
+        ]
+      },
+      "firstPublicationDate": "2024-11-21",
+      "firstIndexDate": "2024-11-21"
+    },
+    {
+      "id": "42074196",
+      "source": "MED",
+      "pmid": "42074196",
+      "pmcid": "PMC13115720",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13115720"
+        ]
+      },
+      "doi": "10.3390/ijms27083557",
+      "title": "Mitochondrial Network Dynamics in Aging: Cellular Mechanisms, Intercellular Communication, and Their Impact on Tissue Adaptability.",
+      "authorString": "Labusca L, Gheorghevici TS, Puha B.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "8",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "3557",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-16",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "42455243",
+      "source": "MED",
+      "pmid": "42455243",
+      "pmcid": "PMC13373153",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13373153"
+        ]
+      },
+      "doi": "10.1186/s43556-026-00504-6",
+      "title": "Cardiac regeneration and repair: the emerging mechanisms and therapeutic approaches.",
+      "authorString": "Li Y, Zheng K, Liu Y, Li R, Wang S, Ye W, Luo Z, Li X, Tao Z, Xia J, Zou Z, Hao Y, Zhang X, Wu J.",
+      "journalTitle": "Mol Biomed",
+      "issue": "1",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2662-8651",
+      "pageInfo": "111",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-15",
+      "firstIndexDate": "2026-07-16"
+    },
+    {
+      "id": "42615283",
+      "source": "MED",
+      "pmid": "42615283",
+      "pmcid": "PMC13487651",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13487651"
+        ]
+      },
+      "doi": "10.1002/iub.70127",
+      "title": "Exercise as a Programmable Regulator of Mitophagy Sensitivity in Aging Muscle and Age-Related Disease.",
+      "authorString": "Ran P, Yang L.",
+      "journalTitle": "IUBMB Life",
+      "issue": "8",
+      "journalVolume": "78",
+      "pubYear": "2026",
+      "journalIssn": "1521-6543; 1521-6551; ",
+      "pageInfo": "e70127",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-01",
+      "firstIndexDate": "2026-08-22"
+    },
+    {
+      "id": "42232023",
+      "source": "MED",
+      "pmid": "42232023",
+      "pmcid": "PMC13224372",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13224372"
+        ]
+      },
+      "doi": "10.1016/j.jmccpl.2026.100852",
+      "title": "Multicellular senescence programs in the aged heart.",
+      "authorString": "Bultot L, Tsurudome N, Kumazaki E, Shimizu I.",
+      "journalTitle": "J Mol Cell Cardiol Plus",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2772-9761",
+      "pageInfo": "100852",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-16",
+      "firstIndexDate": "2026-06-03"
+    },
+    {
+      "id": "42123520",
+      "source": "MED",
+      "pmid": "42123520",
+      "pmcid": "PMC13164501",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13164501"
+        ]
+      },
+      "doi": "10.3390/ijms27093930",
+      "title": "Dietary Polyphenols in Aging: A Systems-Level Perspective on Mitochondrial Quality Control and Microbiome Interactions.",
+      "authorString": "Yılmaz A, Park HJ, Ahn EM, Bae J.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "9",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "3930",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-28",
+      "firstIndexDate": "2026-05-15"
+    },
+    {
+      "id": "42935766",
+      "source": "MED",
+      "pmid": "42935766",
+      "pmcid": "PMC13697237",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13697237"
+        ]
+      },
+      "doi": "10.1155/humu/5547171",
+      "title": "Telomere Dynamics in Congenital Heart Defects: Hidden Architects of Cardiogenesis?",
+      "authorString": "Joshi R, Nath S, Gupta S.",
+      "journalTitle": "Hum Mutat",
+      "journalVolume": "2026",
+      "pubYear": "2026",
+      "journalIssn": "1059-7794; 1098-1004; ",
+      "pageInfo": "5547171",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-26",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "38918884",
+      "source": "MED",
+      "pmid": "38918884",
+      "pmcid": "PMC12391674",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12391674"
+        ]
+      },
+      "doi": "10.1093/cvr/cvae124",
+      "title": "Cardiac ageing: from hallmarks to therapeutic opportunities.",
+      "authorString": "Hastings MH, Zhou Q, Wu C, Shabani P, Huang S, Yu X, Singh AP, Guseh JS, Li H, Lerchenmüller C, Rosenzweig A.",
+      "journalTitle": "Cardiovasc Res",
+      "issue": "10",
+      "journalVolume": "121",
+      "pubYear": "2025",
+      "journalIssn": "0008-6363; 1755-3245; ",
+      "pageInfo": "1474-1488",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 33,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-08-01",
+      "firstIndexDate": "2024-06-26"
+    },
+    {
+      "id": "42883700",
+      "source": "MED",
+      "pmid": "42883700",
+      "pmcid": "PMC13665392",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13665392"
+        ]
+      },
+      "doi": "10.3390/ijms27198451",
+      "title": "Mitochondrial Dynamics in Diabetes Mellitus and Its Complications: Mechanisms, Pathological Roles, and Therapeutic Implications.",
+      "authorString": "Wang G, Zhao Y, Liu G, Du Y, Liu S, Yang Y, Bu S, Zhao B.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "19",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "8451",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "42448327",
+      "source": "MED",
+      "pmid": "42448327",
+      "pmcid": "PMC13480925",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13480925"
+        ]
+      },
+      "doi": "10.1152/ajpcell.00139.2026",
+      "title": "Dynamic cardiac hyperplasia and hypertrophy in Burmese pythons.",
+      "authorString": "Tan Y, Martin TG, Peter AK, Ozeroff CD, Ebmeier CC, Doptis R, Harrison B, Leinwand LA.",
+      "journalTitle": "Am J Physiol Cell Physiol",
+      "issue": "3",
+      "journalVolume": "331",
+      "pubYear": "2026",
+      "journalIssn": "0363-6143; 1522-1563; ",
+      "pageInfo": "C641-C652",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "uniprot",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-14",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "42350444",
+      "source": "MED",
+      "pmid": "42350444",
+      "pmcid": "PMC13493869",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13493869"
+        ]
+      },
+      "doi": "10.1038/s41514-026-00421-6",
+      "title": "Somatic mutations impose an entropic upper bound on human lifespan.",
+      "authorString": "Efimov E, Fedotov V, Malaev L, Khrameeva EE, Kriukov D.",
+      "journalTitle": "NPJ Aging",
+      "issue": "1",
+      "journalVolume": "12",
+      "pubYear": "2026",
+      "journalIssn": "2731-6068",
+      "pageInfo": "116",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "refseq",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-25",
+      "firstIndexDate": "2026-06-26"
+    },
+    {
+      "id": "42439639",
+      "source": "MED",
+      "pmid": "42439639",
+      "pmcid": "PMC13360174",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13360174"
+        ]
+      },
+      "doi": "10.3390/cells15131162",
+      "title": "Thrombospondin-2 in Cardiovascular Disease: Molecular Mechanisms, Biomarker Potential, and Therapeutic Perspectives.",
+      "authorString": "Stępień KL, Botor M, Karliński J, Kazik A, Machnik G.",
+      "journalTitle": "Cells",
+      "issue": "13",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2073-4409",
+      "pageInfo": "1162",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-26",
+      "firstIndexDate": "2026-07-13"
+    },
+    {
+      "id": "42816476",
+      "source": "MED",
+      "pmid": "42816476",
+      "pmcid": "PMC13627654",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13627654"
+        ]
+      },
+      "doi": "10.1038/s41392-026-03059-8",
+      "title": "Cell differentiation-related signaling pathways: biological functions, diseases and therapeutic targets.",
+      "authorString": "Xiang Z, Li J, Xu Y, Xu C, Li S, Zheng S, Yang Z, Wei X, Xu X.",
+      "journalTitle": "Signal Transduct Target Ther",
+      "issue": "1",
+      "journalVolume": "11",
+      "pubYear": "2026",
+      "journalIssn": "2095-9907; 2059-3635; ",
+      "pageInfo": "426",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-30",
+      "firstIndexDate": "2026-10-01"
+    },
+    {
+      "id": "PMC13659582",
+      "source": "PMC",
+      "pmcid": "PMC13659582",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13659582"
+        ]
+      },
+      "title": "From marrow memory to adverse ventricular remodeling: trained immunity after myocardial infarction",
+      "authorString": "Huang X, Hu L, Shi X, Hou C, Zhu M.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "journalIssn": "1664-3224",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-16",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "41301698",
+      "source": "MED",
+      "pmid": "41301698",
+      "pmcid": "PMC12650672",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12650672"
+        ]
+      },
+      "doi": "10.3390/biomedicines13112603",
+      "title": "Mitochondrial Dynamics in Aging Heart.",
+      "authorString": "Patyal P, Azhar G, Verma A, Sharma S, Shrivastava J, Abdi SAH, Zhang X, Wei JY.",
+      "journalTitle": "Biomedicines",
+      "issue": "11",
+      "journalVolume": "13",
+      "pubYear": "2025",
+      "journalIssn": "2227-9059",
+      "pageInfo": "2603",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 12,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-10-24",
+      "firstIndexDate": "2025-11-27"
+    },
+    {
+      "id": "42939485",
+      "source": "MED",
+      "pmid": "42939485",
+      "pmcid": "PMC13701815",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13701815"
+        ]
+      },
+      "doi": "10.3390/biology15201884",
+      "title": "Host-Response Engineering in Regenerative Cardiology: Mechanistic Boundaries Between Remuscularization and Immune Reprogramming.",
+      "authorString": "Bonanni L, Ferri N.",
+      "journalTitle": "Biology (Basel)",
+      "issue": "20",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2079-7737",
+      "pageInfo": "1884",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-19",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42726407",
+      "source": "MED",
+      "pmid": "42726407",
+      "pmcid": "PMC13569536",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13569536"
+        ]
+      },
+      "doi": "10.1007/s12016-026-09195-x",
+      "title": "Tissue-Resident Macrophages: Linking Physiology and Inflammation in Infection.",
+      "authorString": "Cardozo ME, Cirilo TM, de Brito Duval I, de Oliveira ALG, Magalhães LMD, Bueno LL, Dumonteil E, Fujiwara RT.",
+      "journalTitle": "Clin Rev Allergy Immunol",
+      "issue": "1",
+      "journalVolume": "69",
+      "pubYear": "2026",
+      "journalIssn": "1080-0549; 1559-0267; ",
+      "pageInfo": "78",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-11",
+      "firstIndexDate": "2026-09-12"
+    },
+    {
+      "id": "41191311",
+      "source": "MED",
+      "pmid": "41191311",
+      "pmcid": "PMC12795978",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12795978"
+        ]
+      },
+      "doi": "10.1007/s43440-025-00805-7",
+      "title": "Cell-free strategies for cardiomyocyte proliferation and heart repair.",
+      "authorString": "Łoboda A, Zieliński T, Dulak J.",
+      "journalTitle": "Pharmacol Rep",
+      "issue": "1",
+      "journalVolume": "78",
+      "pubYear": "2026",
+      "journalIssn": "1734-1140; 2299-5684; ",
+      "pageInfo": "65-89",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-05",
+      "firstIndexDate": "2025-11-05"
+    },
+    {
+      "id": "41596256",
+      "source": "MED",
+      "pmid": "41596256",
+      "pmcid": "PMC12841096",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12841096"
+        ]
+      },
+      "doi": "10.3390/ijms27020601",
+      "title": "Insights into Cardiomyocyte Regeneration from Screening and Transcriptomics Approaches.",
+      "authorString": "Fuller DT, Wasserman AH, Liu R.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "2",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "601",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-07",
+      "firstIndexDate": "2026-01-28"
+    },
+    {
+      "id": "41744815",
+      "source": "MED",
+      "pmid": "41744815",
+      "pmcid": "PMC12938911",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12938911"
+        ]
+      },
+      "doi": "10.3390/cells15040372",
+      "title": "Mitochondria at the Crossroads of Cardiovascular Disease: Mechanistic Drivers and Emerging Therapeutic Strategies.",
+      "authorString": "Alia S, Pedriali G, Compagnucci P, Valeri Y, Membrino V, Di Crescenzo T, Tremoli E, Mazzanti L, Vignini A, Pinton P, Casella M.",
+      "journalTitle": "Cells",
+      "issue": "4",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2073-4409",
+      "pageInfo": "372",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 6,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-20",
+      "firstIndexDate": "2026-02-26"
+    },
+    {
+      "id": "41007357",
+      "source": "MED",
+      "pmid": "41007357",
+      "pmcid": "PMC12467451",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12467451"
+        ]
+      },
+      "doi": "10.3390/biology14091212",
+      "title": "The Role of Mitochondrial Dysfunction and Dynamics in Hypertensive Heart Disease: Mechanisms and Recent Advances.",
+      "authorString": "Mweene BC, Hatwiko H, Povia JP, Masenga SK.",
+      "journalTitle": "Biology (Basel)",
+      "issue": "9",
+      "journalVolume": "14",
+      "pubYear": "2025",
+      "journalIssn": "2079-7737",
+      "pageInfo": "1212",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 12,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-09-08",
+      "firstIndexDate": "2025-09-27"
+    },
+    {
+      "id": "42311068",
+      "source": "MED",
+      "pmid": "42311068",
+      "pmcid": "PMC13441120",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13441120"
+        ]
+      },
+      "doi": "10.1097/cm9.0000000000004078",
+      "title": "Cardiac immunity and heart repair: Mechanism, challenge, and future direction.",
+      "authorString": "Liu Y, Ren Q, Wang H, Jiang X, Zhao M, Min Q, Xie Y, Cai D, Nie Y.",
+      "journalTitle": "Chin Med J (Engl)",
+      "issue": "15",
+      "journalVolume": "139",
+      "pubYear": "2026",
+      "journalIssn": "0366-6999; 2542-5641; ",
+      "pageInfo": "2237-2279",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-17",
+      "firstIndexDate": "2026-06-18"
+    },
+    {
+      "id": "42221763",
+      "source": "MED",
+      "pmid": "42221763",
+      "pmcid": "PMC13219384",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13219384"
+        ]
+      },
+      "doi": "10.3389/fnut.2026.1819082",
+      "title": "Nutritional redox reprogramming in cardiometabolic diseases: alpha-lipoic acid, urolithin A, and ergothioneine as modulators of the ferroptosis-mitophagy axis and mitochondrial metabolic remodeling.",
+      "authorString": "Yang W, Jian W.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2296-861x",
+      "pageInfo": "1819082",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "geo",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-15",
+      "firstIndexDate": "2026-06-02"
+    },
+    {
+      "id": "42577687",
+      "source": "MED",
+      "pmid": "42577687",
+      "pmcid": "PMC13454933",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13454933"
+        ]
+      },
+      "doi": "10.3389/fcell.2026.1850852",
+      "title": "OverlappING and DivergING roles of ING4 and ING5 in cancer, differentiation and development.",
+      "authorString": "Dadoyan S, Bartizal TJ, Amarsingha S, Riabowol K.",
+      "journalTitle": "Front Cell Dev Biol",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2296-634x",
+      "pageInfo": "1850852",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "uniprot",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-27",
+      "firstIndexDate": "2026-08-13"
+    },
+    {
+      "id": "41194190",
+      "source": "MED",
+      "pmid": "41194190",
+      "pmcid": "PMC12587650",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12587650"
+        ]
+      },
+      "doi": "10.1186/s13287-025-04731-6",
+      "title": "Cellular senescence and cell therapy in cardiovascular diseases.",
+      "authorString": "Chang D, Wang J, Zhu S, Shentu Y, Wang Y, Zhu P, Ono M.",
+      "journalTitle": "Stem Cell Res Ther",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2025",
+      "journalIssn": "1757-6512",
+      "pageInfo": "613",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-05",
+      "firstIndexDate": "2025-11-06"
+    },
+    {
+      "id": "42936448",
+      "source": "MED",
+      "pmid": "42936448",
+      "pmcid": "PMC13697615",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13697615"
+        ]
+      },
+      "doi": "10.3389/fimmu.2026.1998563",
+      "title": "Hypoxia-inducible factor-1α-mediated metabolic reprogramming in sepsis-associated organ dysfunction: organ-specific metabolic mismatch and therapeutic perspectives.",
+      "authorString": "Wu Y, Lu J, Mo Y, Xu Y, Yan X, Yan C, Wang Y.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-3224",
+      "pageInfo": "1998563",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-12",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "41832537",
+      "source": "MED",
+      "pmid": "41832537",
+      "pmcid": "PMC13101344",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13101344"
+        ]
+      },
+      "doi": "10.1186/s12967-026-07990-w",
+      "title": "Integrated epigenetic networks in aging: from histone to RNA modifications.",
+      "authorString": "Wang X, Zhu Q, Liu J, Fu Y, Xu J, Dong Z, Tang B, Li J.",
+      "journalTitle": "J Transl Med",
+      "issue": "1",
+      "journalVolume": "24",
+      "pubYear": "2026",
+      "journalIssn": "1479-5876",
+      "pageInfo": "566",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-14",
+      "firstIndexDate": "2026-03-15"
+    },
+    {
+      "id": "42792518",
+      "source": "MED",
+      "pmid": "42792518",
+      "pmcid": "PMC13603675",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13603675"
+        ]
+      },
+      "doi": "10.3390/biology15181573",
+      "title": "SIRT1 in Senescence: Mitochondria and Immune Crosstalk.",
+      "authorString": "Namkaew J, Kongpracha P, Mahawan T, Jaroonwitchawan T.",
+      "journalTitle": "Biology (Basel)",
+      "issue": "18",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2079-7737",
+      "pageInfo": "1573",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-08",
+      "firstIndexDate": "2026-09-26"
+    },
+    {
+      "id": "42010239",
+      "source": "MED",
+      "pmid": "42010239",
+      "pmcid": "PMC13096361",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13096361"
+        ]
+      },
+      "doi": "10.1038/s41392-026-02630-7",
+      "title": "Cardiovascular ageing: hallmarks, signaling pathways, diseases and therapeutic targets.",
+      "authorString": "Zheng P, Yan W, Ding Y, Zhang Y, Chen Z, Qian J, Ge J.",
+      "journalTitle": "Signal Transduct Target Ther",
+      "issue": "1",
+      "journalVolume": "11",
+      "pubYear": "2026",
+      "journalIssn": "2095-9907; 2059-3635; ",
+      "pageInfo": "142",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 12,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-21",
+      "firstIndexDate": "2026-04-21"
+    },
+    {
+      "id": "42578265",
+      "source": "MED",
+      "pmid": "42578265",
+      "pmcid": "PMC13491400",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13491400"
+        ]
+      },
+      "doi": "10.1161/circulationaha.126.080761",
+      "title": "YAP Promotes Microtubule Growth to Facilitate Sarcomere Disassembly in Adult Cardiomyocytes.",
+      "authorString": "Zhang F, Cusick JK, Liang J, Wang F, Fernandes AT, Gafranek JT, Waxman JS, Chen Z, Yutzey KE, Liu S.",
+      "journalTitle": "Circulation",
+      "issue": "10",
+      "journalVolume": "154",
+      "pubYear": "2026",
+      "journalIssn": "0009-7322; 1524-4539; ",
+      "pageInfo": "934-955",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "geo"
+        ]
+      },
+      "firstPublicationDate": "2026-08-11",
+      "firstIndexDate": "2026-08-13"
+    },
+    {
+      "id": "40681845",
+      "source": "MED",
+      "pmid": "40681845",
+      "pmcid": "PMC12274510",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12274510"
+        ]
+      },
+      "doi": "10.1038/s42003-025-08360-w",
+      "title": "Myc overexpression improves recovery from myocardial infarction associated with cardiomyocyte hyperplasia in the mouse heart.",
+      "authorString": "Villa Del Campo C, Raiola M, Sierra R, Ms I, Peña-Peña J, Esteban I, Torres M.",
+      "journalTitle": "Commun Biol",
+      "issue": "1",
+      "journalVolume": "8",
+      "pubYear": "2025",
+      "journalIssn": "2399-3642",
+      "pageInfo": "1069",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 7,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen"
+        ]
+      },
+      "firstPublicationDate": "2025-07-18",
+      "firstIndexDate": "2025-07-20"
+    },
+    {
+      "id": "41373801",
+      "source": "MED",
+      "pmid": "41373801",
+      "pmcid": "PMC12692183",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12692183"
+        ]
+      },
+      "doi": "10.3390/ijms262311655",
+      "title": "Elevated Cardiac Troponin in Non-Cardiac Conditions Unrelated to Acute Myocardial Infarction.",
+      "authorString": "Savic L, Stankovic S, Antonijevic N, Matic D, Lasica R, Krljanac G, Asanin M.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "23",
+      "journalVolume": "26",
+      "pubYear": "2025",
+      "journalIssn": "1422-0067",
+      "pageInfo": "11655",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-01",
+      "firstIndexDate": "2025-12-11"
+    },
+    {
+      "id": "42571123",
+      "source": "MED",
+      "pmid": "42571123",
+      "pmcid": "PMC13451158",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13451158"
+        ]
+      },
+      "doi": "10.1002/mco2.70892",
+      "title": "Cardiovascular Diseases and Cancer: Convergent Proteostasis Networks at the Crossroads of Mechanisms and Therapeutic Opportunities.",
+      "authorString": "García Torres JE, Frey N, Rangrez AY.",
+      "journalTitle": "MedComm (2020)",
+      "issue": "8",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2688-2663",
+      "pageInfo": "e70892",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-07",
+      "firstIndexDate": "2026-08-13"
+    },
+    {
+      "id": "41892295",
+      "source": "MED",
+      "pmid": "41892295",
+      "pmcid": "PMC13025846",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13025846"
+        ]
+      },
+      "doi": "10.3390/cells15060505",
+      "title": "Heart-Specific and Conditional Deletion of the &lt;i&gt;Immt&lt;/i&gt; Gene Reveals Its Role in Regulating Mitochondrial Structure and Total Heart Metabolism.",
+      "authorString": "Kuwabara Y, Keezer C, Lin SJ, Rajput A, Molkentin JD.",
+      "journalTitle": "Cells",
+      "issue": "6",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2073-4409",
+      "pageInfo": "505",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "geo",
+          "gen",
+          "uniprot",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-12",
+      "firstIndexDate": "2026-03-28"
+    },
+    {
+      "id": "42072095",
+      "source": "MED",
+      "pmid": "42072095",
+      "pmcid": "PMC13113012",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13113012"
+        ]
+      },
+      "doi": "10.3390/antiox15040453",
+      "title": "ROS-SUMO Crosstalk in Oxidative Stress: Disease Mechanisms and Reproductive Health.",
+      "authorString": "Na AY, Lee HS, Ryu HY.",
+      "journalTitle": "Antioxidants (Basel)",
+      "issue": "4",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2076-3921",
+      "pageInfo": "453",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-04",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "41952650",
+      "source": "MED",
+      "pmid": "41952650",
+      "pmcid": "PMC12805180",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12805180"
+        ]
+      },
+      "doi": "10.1016/j.jacadv.2025.102347",
+      "title": "Skeletal Muscle-Cardiac Muscle Aging: Shared Mechanisms and Multimodal Interventions.",
+      "authorString": "Kalra K, Berchie P, Singh S, Jamil Y, Karthikeyan N, Ancheta OG, Hashmi A, Martyn T, Kapadia S, Menon V, Zidar DA, Damluji AA.",
+      "journalTitle": "JACC Adv",
+      "issue": "12 pt 1",
+      "journalVolume": "4",
+      "pubYear": "2025",
+      "journalIssn": "2772-963x",
+      "pageInfo": "102347",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 9,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-01",
+      "firstIndexDate": "2026-04-10"
+    },
+    {
+      "id": "40354877",
+      "source": "MED",
+      "pmid": "40354877",
+      "pmcid": "PMC12162190",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12162190"
+        ]
+      },
+      "doi": "10.1016/j.yjmcc.2025.05.001",
+      "title": "Cardiac macrophage: Insights from murine models to translational potential for human studies.",
+      "authorString": "Liu Y, Wang TT, Lu Y, Riaz M, Qyang Y.",
+      "journalTitle": "J Mol Cell Cardiol",
+      "journalVolume": "204",
+      "pubYear": "2025",
+      "journalIssn": "0022-2828; 1095-8584; ",
+      "pageInfo": "17-31",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-05-10",
+      "firstIndexDate": "2025-05-20"
+    }
+  ]
+}

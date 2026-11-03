@@ -1,0 +1,1874 @@
+{
+  "query_id": "B5",
+  "group": "B",
+  "query": "fisetin AND senolytic",
+  "hitCount": 1240,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:10.538656+00:00",
+  "results": [
+    {
+      "id": "PMC13636053",
+      "source": "PMC",
+      "pmcid": "PMC13636053",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13636053"
+        ]
+      },
+      "title": "Fisetin as a nutritional senotherapeutic: mechanisms, translational promise, and lessons from chronic kidney disease",
+      "authorString": "Mohammed N, Baird D, O'Sullivan E.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "13",
+      "journalIssn": "2296-861x",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-06",
+      "firstIndexDate": "2026-10-06"
+    },
+    {
+      "id": "PMC13640056",
+      "source": "PMC",
+      "pmcid": "PMC13640056",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13640056"
+        ]
+      },
+      "title": "Novel Flavonoid Senotherapeutics Identified by Phenotypic Drug Discovery Reduce Senescence and Improve Multiple Markers of Healthspan",
+      "authorString": "Zhang L, Salekeen R, Soto‐Palma C, Wu Q, He Y, Elsallabi O, Bdiri B, Hughes B, Nunes A, Xu W, Zhang B, Mohamed A, McGowan S, Angelini L, O'Kelly R, Kamenecka T, Niedernhofer L, Robbins P.",
+      "journalTitle": "Aging Cell",
+      "issue": "10",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-07"
+    },
+    {
+      "id": "42782736",
+      "source": "MED",
+      "pmid": "42782736",
+      "pmcid": "PMC13605440",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13605440"
+        ]
+      },
+      "doi": "10.3390/cells15181634",
+      "title": "The Development of Cellular Aging Models Based on AD-MSCs.",
+      "authorString": "Elizova NV, Zhivodernikov IV, Vasilyev VS, Tolkachev YD, Markina YV, Markin AM, Kirichenko TV.",
+      "journalTitle": "Cells",
+      "issue": "18",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2073-4409",
+      "pageInfo": "1634",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-09",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "42835952",
+      "source": "MED",
+      "pmid": "42835952",
+      "doi": "10.3389/fnut.2026.1867121",
+      "title": "Fisetin as a nutritional senotherapeutic: mechanisms, translational promise, and lessons from chronic kidney disease.",
+      "authorString": "Mohammed NWB, Baird DP, O'Sullivan ED.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2296-861x",
+      "pageInfo": "1867121",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-21",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42836501",
+      "source": "MED",
+      "pmid": "42836501",
+      "doi": "10.1111/acel.70736",
+      "title": "Novel Flavonoid Senotherapeutics Identified by Phenotypic Drug Discovery Reduce Senescence and Improve Multiple Markers of Healthspan.",
+      "authorString": "Zhang LJ, Salekeen R, Soto-Palma C, Wu Q, He Y, Elsallabi O, Bdiri B, Hughes B, Nunes A, Xu W, Zhang B, Mohamed A, McGowan SJ, Angelini L, O'Kelly R, Kamenecka TM, Niedernhofer LJ, Robbins PD.",
+      "journalTitle": "Aging Cell",
+      "issue": "10",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pageInfo": "e70736",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42796982",
+      "source": "MED",
+      "pmid": "42796982",
+      "pmcid": "PMC13610105",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13610105"
+        ]
+      },
+      "doi": "10.3390/nu18182999",
+      "title": "Clinical Translation of Fisetin for Age-Related Diseases: Current Evidence and Future Opportunities.",
+      "authorString": "Sandoval-Caballero C, Roemer Z, Kotz CM, Puskarich MA, Mavanji V, Schmidt EL, Sibley SD.",
+      "journalTitle": "Nutrients",
+      "issue": "18",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2999",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-14",
+      "firstIndexDate": "2026-09-28"
+    },
+    {
+      "id": "42588134",
+      "source": "MED",
+      "pmid": "42588134",
+      "pmcid": "PMC13468152",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13468152"
+        ]
+      },
+      "doi": "10.3390/nu18152511",
+      "title": "Natural Bioactive Compounds Targeting Key Hallmarks of Aging: Functional Food Potential of Spermidine, Fisetin, Berberine, and Urolithin A.",
+      "authorString": "Rzeski W, Rzeska W.",
+      "journalTitle": "Nutrients",
+      "issue": "15",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2511",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-03",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "42653188",
+      "source": "MED",
+      "pmid": "42653188",
+      "pmcid": "PMC13513267",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13513267"
+        ]
+      },
+      "doi": "10.3390/ijms27167181",
+      "title": "Plant-Derived Senotherapeutics in Cellular Senescence: A Scoping Review of Preclinical Evidence, Mechanistic Pathways, and Metabolomic-Guided Discovery.",
+      "authorString": "Hussin NMH, Mediani A, Abd Latip N, Fenech M, Widyanto RM, Sharif R.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "16",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "7181",
+      "pubType": "scoping review; review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-11",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42021544",
+      "source": "MED",
+      "pmid": "42021544",
+      "pmcid": "PMC13103471",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13103471"
+        ]
+      },
+      "doi": "10.1111/acel.70500",
+      "title": "Senolytic Treatment With Fisetin Reverses Age-Related Endothelial Dysfunction Partially Mediated by SASP Factor CXCL12.",
+      "authorString": "Mahoney SA, Mazan-Mamczarz K, Tsitsipatis D, VanDongen NS, Henry-Smith C, Okereke AN, Munk R, Darvish S, Murray KO, De S, Gorospe M, Seals DR, Rossman MJ, Herman AB, Clayton ZS.",
+      "journalTitle": "Aging Cell",
+      "issue": "5",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pageInfo": "e70500",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 6,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "geo",
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-04-23"
+    },
+    {
+      "id": "PMC13659427",
+      "source": "PMC",
+      "pmcid": "PMC13659427",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13659427"
+        ]
+      },
+      "title": "Plant‐Derived Senolytic Ingredient, Camellia sinensis Root Extract, Ameliorates Skin Aging‐Associated Phenotypes",
+      "authorString": "Park S, Cho S, Min D, Choi H, Hwang K, Kil I, Park W, Kim H.",
+      "journalTitle": "Exp Dermatol",
+      "issue": "10",
+      "journalVolume": "35",
+      "pubYear": "2026",
+      "journalIssn": "0906-6705; 1600-0625; ",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42707630",
+      "source": "MED",
+      "pmid": "42707630",
+      "pmcid": "PMC13547944",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13547944"
+        ]
+      },
+      "doi": "10.3389/fendo.2026.1917096",
+      "title": "Senescent immune cells, inflammaging, and bone loss: therapeutic potential and translational challenges of senolytics in osteoporosis.",
+      "authorString": "Zhu M, Zhang J, Fang H, Cai K, Wu Q, Gao C, Wang Y, Chen J.",
+      "journalTitle": "Front Endocrinol (Lausanne)",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-2392",
+      "pageInfo": "1917096",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-24",
+      "firstIndexDate": "2026-09-09"
+    },
+    {
+      "id": "42553227",
+      "source": "MED",
+      "pmid": "42553227",
+      "pmcid": "PMC13433523",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13433523"
+        ]
+      },
+      "doi": "10.3389/fragi.2026.1863781",
+      "title": "Accelerated biological aging: the role of chronic inflammation, weathering and novel therapeutic strategies.",
+      "authorString": "Marin-Maldonado FM, Santiago-Rosario MJ, Fonseca-Ferrer W, Vlaar CP, Martinez-Ferrer M, Colon-Saez J, Duconge-Soler J.",
+      "journalTitle": "Front Aging",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2673-6217",
+      "pageInfo": "1863781",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-21",
+      "firstIndexDate": "2026-08-05"
+    },
+    {
+      "id": "42609608",
+      "source": "MED",
+      "pmid": "42609608",
+      "pmcid": "PMC13478959",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13478959"
+        ]
+      },
+      "doi": "10.3389/fnut.2026.1824908",
+      "title": "Targeting cellular senescence through nutritional senotherapeutics in brain aging and neurodegenerative diseases.",
+      "authorString": "Salas-Venegas V, López-Diazguerrero NE, Ramírez-Carreto RJ, Konigsberg M, Chavarría A.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2296-861x",
+      "pageInfo": "1824908",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-03",
+      "firstIndexDate": "2026-08-19"
+    },
+    {
+      "id": "42144546",
+      "source": "MED",
+      "pmid": "42144546",
+      "pmcid": "PMC13180696",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13180696"
+        ]
+      },
+      "doi": "10.1111/acel.70535",
+      "title": "Fisetin Supplementation Attenuates Premature Vascular Aging Induced by Doxorubicin via Suppression of Cellular Senescence and Mitochondrial Oxidative Stress.",
+      "authorString": "Darrah MA, Mahoney SA, Venkatasubramanian R, VanDongen NS, Ludwig KR, Seals DR, Rossman MJ, Clayton ZS.",
+      "journalTitle": "Aging Cell",
+      "issue": "5",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pageInfo": "e70535",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-05-19"
+    },
+    {
+      "id": "PPR1256669",
+      "source": "PPR",
+      "doi": "10.64898/2026.06.18.732453",
+      "title": "Decoding and Targeting Coordinated CDKN1A and CDKN2A Senescence Programs in ECM-Dominant Cardiovascular Pathologies",
+      "authorString": "Gao F, Fung A, Zhang D, Lou X, Nam J, Yang M, Tian X, Farzad N, Wang D, Li G, Di X, He S, Zhong M, Geirsson A, Liu Y, Fan R.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-20",
+      "firstIndexDate": "2026-06-22"
+    },
+    {
+      "id": "42184749",
+      "source": "MED",
+      "pmid": "42184749",
+      "doi": "10.1016/j.biomaterials.2026.124330",
+      "title": "A photo-responsive, fisetin-functionalized DNA nanocage for programmed therapy to accelerate early-stage wound healing in aged skin.",
+      "authorString": "Yue Z, Jiang Z, Yang Y, Yin W, Lin Y, Gao Y, Cai X.",
+      "journalTitle": "Biomaterials",
+      "journalVolume": "334",
+      "pubYear": "2026",
+      "journalIssn": "0142-9612; 1878-5905; ",
+      "pageInfo": "124330",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-21",
+      "firstIndexDate": "2026-05-26"
+    },
+    {
+      "id": "42502879",
+      "source": "MED",
+      "pmid": "42502879",
+      "pmcid": "PMC13401732",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13401732"
+        ]
+      },
+      "doi": "10.1002/eji.70239",
+      "title": "Inflammaging: Experimental Insights and Translational Advances.",
+      "authorString": "Cossarizza A.",
+      "journalTitle": "Eur J Immunol",
+      "issue": "7",
+      "journalVolume": "56",
+      "pubYear": "2026",
+      "journalIssn": "0014-2980; 1521-4141; ",
+      "pageInfo": "e70239",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42722379",
+      "source": "MED",
+      "pmid": "42722379",
+      "pmcid": "PMC13561656",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13561656"
+        ]
+      },
+      "doi": "10.4093/dmj.2026.0599",
+      "title": "Hypothalamic Inflammaging: A Central Driver of Type 2 Diabetes Mellitus and Metabolic Disease in Aging.",
+      "authorString": "Lyoo SH, Kim KH, Kim KW.",
+      "journalTitle": "Diabetes Metab J",
+      "issue": "5",
+      "journalVolume": "50",
+      "pubYear": "2026",
+      "journalIssn": "2233-6079; 2233-6087; ",
+      "pageInfo": "863-883",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-09-11"
+    },
+    {
+      "id": "42074288",
+      "source": "MED",
+      "pmid": "42074288",
+      "pmcid": "PMC13116106",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13116106"
+        ]
+      },
+      "doi": "10.3390/ijms27083651",
+      "title": "Exploring the Senotherapeutic Potential of Polyphenols in Aging and Disease: A Literature Review.",
+      "authorString": "Braučič Mitrovic L, Semen KO.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "8",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "3651",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-19",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "42688195",
+      "source": "MED",
+      "pmid": "42688195",
+      "pmcid": "PMC13533926",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13533926"
+        ]
+      },
+      "doi": "10.3389/fragi.2026.1856979",
+      "title": "A minimal three-arm oral regimen for healthspan: mechanistic alignment with transcriptomic signals from a large parental-lifespan GWAS.",
+      "authorString": "Cheung N.",
+      "journalTitle": "Front Aging",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2673-6217",
+      "pageInfo": "1856979",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-19",
+      "firstIndexDate": "2026-09-04"
+    },
+    {
+      "id": "42781074",
+      "source": "MED",
+      "pmid": "42781074",
+      "pmcid": "PMC13599794",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13599794"
+        ]
+      },
+      "doi": "10.2147/cia.s620882",
+      "title": "Therapeutic Targeting of Inflammaging and Emerging Strategies for Managing Age-Related Multimorbidity: A Narrative Review.",
+      "authorString": "Ayoub NR.",
+      "journalTitle": "Clin Interv Aging",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1176-9092; 1178-1998; ",
+      "pageInfo": "620882",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-19",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "42073546",
+      "source": "MED",
+      "pmid": "42073546",
+      "pmcid": "PMC13114409",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13114409"
+        ]
+      },
+      "doi": "10.3390/cancers18081220",
+      "title": "The Emerging Role of Senolytics as a Next-Generation Strategy Against Glioma Recurrence: A Narrative Review.",
+      "authorString": "Filardo A, Coscarella I, Bria J, Di Vito A, La Torre D, Chiarella E, Giovinazzo A, Procopio E, Egiziano MT, Lavano A, Della Torre A.",
+      "journalTitle": "Cancers (Basel)",
+      "issue": "8",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6694",
+      "pageInfo": "1220",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-12",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "41948554",
+      "source": "MED",
+      "pmid": "41948554",
+      "pmcid": "PMC13050697",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13050697"
+        ]
+      },
+      "doi": "10.3389/fendo.2026.1799261",
+      "title": "Cellular senescence and metabolic aging in type 2 diabetes: mechanistic insights and translational implications.",
+      "authorString": "Syed AR, Aloti RA, Awad BJ, Alghoul WII, Hassan MAMSA, Kharoufeh A, Rangraze I.",
+      "journalTitle": "Front Endocrinol (Lausanne)",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-2392",
+      "pageInfo": "1799261",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-23",
+      "firstIndexDate": "2026-04-08"
+    },
+    {
+      "id": "41730842",
+      "source": "MED",
+      "pmid": "41730842",
+      "pmcid": "PMC13078590",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13078590"
+        ]
+      },
+      "doi": "10.1177/21621918261426580",
+      "title": "Fisetin-Mediated Topical Modulation of Senescent Cells in Skin Improves Wound Healing Dynamics in Diabetic Mice.",
+      "authorString": "Numani A, Carrasco-Jeldres M, Hernandez-Rovira B, Purushothaman KR, Melin MM, Kirkland JL, Wyles S.",
+      "journalTitle": "Adv Wound Care (New Rochelle)",
+      "pubYear": "2026",
+      "journalIssn": "2162-1918; 2162-1934; ",
+      "pageInfo": "21621918261426580",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-23",
+      "firstIndexDate": "2026-02-24"
+    },
+    {
+      "id": "41835341",
+      "source": "MED",
+      "pmid": "41835341",
+      "pmcid": "PMC12979913",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12979913"
+        ]
+      },
+      "doi": "10.1177/17588359261424668",
+      "title": "A phase II randomized placebo-controlled study of fisetin to improve physical function in breast cancer survivors: the TROFFi study rationale and trial design.",
+      "authorString": "Ji J, Crespi CM, Yee L, Zekster YA, Al-Saleem A, Petersen L, Lee C, Son N, Smith C, Evans T, Tchkonia T, Kirkland JL, Kuchel GA, Cohen HJ, Sedrak MS.",
+      "journalTitle": "Ther Adv Med Oncol",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "1758-8340; 1758-8359; ",
+      "pageInfo": "17588359261424668",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "pdb",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-11",
+      "firstIndexDate": "2026-03-16"
+    },
+    {
+      "id": "42024235",
+      "source": "MED",
+      "pmid": "42024235",
+      "doi": "10.1007/s00210-026-05309-6",
+      "title": "Targeting the FOXO4-p53 axis by retro-inverso peptide senolytic agents: a pharmacological strategy to mitigate brain aging and cognitive decline.",
+      "authorString": "Alameen AAM, Al-Kuraishy HM, Fawzy MN, Batiha GE.",
+      "journalTitle": "Naunyn Schmiedebergs Arch Pharmacol",
+      "issue": "10",
+      "journalVolume": "399",
+      "pubYear": "2026",
+      "journalIssn": "0028-1298; 1432-1912; ",
+      "pageInfo": "14659-14676",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-04-23",
+      "firstIndexDate": "2026-04-23"
+    },
+    {
+      "id": "42639431",
+      "source": "MED",
+      "pmid": "42639431",
+      "pmcid": "PMC13501911",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13501911"
+        ]
+      },
+      "doi": "10.3389/fnins.2026.1862748",
+      "title": "Cellular senescence and senolytic therapy in traumatic brain injury.",
+      "authorString": "Brann DW, Singh HD, Wang J, Lu Y, Carr C, Dhandapani KM.",
+      "journalTitle": "Front Neurosci",
+      "journalVolume": "20",
+      "pubYear": "2026",
+      "journalIssn": "1662-4548; 1662-453x; ",
+      "pageInfo": "1862748",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-05",
+      "firstIndexDate": "2026-08-26"
+    },
+    {
+      "id": "42633989",
+      "source": "MED",
+      "pmid": "42633989",
+      "pmcid": "PMC13500367",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13500367"
+        ]
+      },
+      "doi": "10.1111/bcpt.70290",
+      "title": "Low-Dose Fisetin Supplementation and Its Association With Chronic Inflammation in Middle-Aged and Older Adults: Study Protocol for a Triple-Blind, Randomised, Placebo-Controlled Trial.",
+      "authorString": "Tavenier J, Berglind M, Hach LF, Christensen LWS, Masarikova MJ, Yahya R, Lindstrøm MB, Jawad BN, Zatkova A, Nielsen RL, Juul-Larsen HG, Kallemose T, Nehlin JO, Houlind MB, Andersen O, Rasmussen LJH.",
+      "journalTitle": "Basic Clin Pharmacol Toxicol",
+      "issue": "3",
+      "journalVolume": "139",
+      "pubYear": "2026",
+      "journalIssn": "1742-7835; 1742-7843; ",
+      "pageInfo": "e70290",
+      "pubType": "clinical trial protocol; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-08-25"
+    },
+    {
+      "id": "42233590",
+      "source": "MED",
+      "pmid": "42233590",
+      "pmcid": "PMC13344150",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13344150"
+        ]
+      },
+      "doi": "10.1152/ajpheart.00012.2026",
+      "title": "Progranulin deficiency induces premature vascular senescence and dysfunction.",
+      "authorString": "Luvizotto RAM, Nascimento AF, Pimenta GF, de Costa RM, Beling T, Singh S, Alves JV, Awata WMC, Russ A, Haastrup AI, Cuevas RA, Behzadi P, St Hilaire C, Roberts JT, Bruder A, Bruder-Nascimento T.",
+      "journalTitle": "Am J Physiol Heart Circ Physiol",
+      "issue": "1",
+      "journalVolume": "331",
+      "pubYear": "2026",
+      "journalIssn": "0363-6135; 1522-1539; ",
+      "pageInfo": "H260-H275",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-03",
+      "firstIndexDate": "2026-06-03"
+    },
+    {
+      "id": "41683217",
+      "source": "MED",
+      "pmid": "41683217",
+      "pmcid": "PMC12899922",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12899922"
+        ]
+      },
+      "doi": "10.3390/nu18030393",
+      "title": "Beneficial Effects of Fisetin, a Senotherapeutic Compound, in Women's Reproductive Health and Diseases: Evidence from In Vitro to Clinical Studies.",
+      "authorString": "El Sayed S, Saiyed D, Macri VI, Asamoah-Mensah A, Segars JH, Islam MS.",
+      "journalTitle": "Nutrients",
+      "issue": "3",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "393",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi",
+          "pdb"
+        ]
+      },
+      "firstPublicationDate": "2026-01-25",
+      "firstIndexDate": "2026-02-13"
+    },
+    {
+      "id": "42863347",
+      "source": "MED",
+      "pmid": "42863347",
+      "pmcid": "PMC13682449",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13682449"
+        ]
+      },
+      "doi": "10.1016/j.neurot.2026.e01096",
+      "title": "Immunosenescence as a modifiable driver of neurodegenerative diseases: Pathways and multidimensional emerging strategies for Alzheimer's and Parkinson's diseases.",
+      "authorString": "Zhao J, Qu L, Guan H, Che H, Shi F, Yang Y.",
+      "journalTitle": "Neurotherapeutics",
+      "issue": "6",
+      "journalVolume": "23",
+      "pubYear": "2026",
+      "journalIssn": "1933-7213; 1878-7479; ",
+      "pageInfo": "e01096",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-12",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "42448049",
+      "source": "MED",
+      "pmid": "42448049",
+      "pmcid": "PMC13408882",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13408882"
+        ]
+      },
+      "doi": "10.1016/j.arr.2026.103254",
+      "title": "A compendium of circulating biomarkers of senescence in humans: Insights on mechanistic impact across health domains and modulation by therapeutic interventions.",
+      "authorString": "Olinger B, Basisty N.",
+      "journalTitle": "Ageing Res Rev",
+      "journalVolume": "121",
+      "pubYear": "2026",
+      "journalIssn": "1568-1637; 1872-9649; ",
+      "pageInfo": "103254",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-14",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "41515219",
+      "source": "MED",
+      "pmid": "41515219",
+      "pmcid": "PMC12787847",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12787847"
+        ]
+      },
+      "doi": "10.3390/nu18010102",
+      "title": "Mechanistic Analysis of Fisetin in Liver Diseases and Its Potential Therapeutic Application in IFALD-A Review of In Vitro and In Vivo Studies.",
+      "authorString": "Belka M, Stawny M, Masternak MM, Krajka-Kuźniak V.",
+      "journalTitle": "Nutrients",
+      "issue": "1",
+      "journalVolume": "18",
+      "pubYear": "2025",
+      "journalIssn": "2072-6643",
+      "pageInfo": "102",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-28",
+      "firstIndexDate": "2026-01-10"
+    },
+    {
+      "id": "42764426",
+      "source": "MED",
+      "pmid": "42764426",
+      "pmcid": "PMC13590875",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13590875"
+        ]
+      },
+      "doi": "10.1111/jcmm.71357",
+      "title": "Skin Aging: From Molecular Mechanisms to Therapeutic and Technological Innovations.",
+      "authorString": "Chen S, Yang Y, Pan X, Pan Y, Cai S.",
+      "journalTitle": "J Cell Mol Med",
+      "issue": "18",
+      "journalVolume": "30",
+      "pubYear": "2026",
+      "journalIssn": "1582-1838; 1582-4934; ",
+      "pageInfo": "e71357",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-09-21"
+    },
+    {
+      "id": "41350483",
+      "source": "MED",
+      "pmid": "41350483",
+      "pmcid": "PMC12743690",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12743690"
+        ]
+      },
+      "doi": "10.1007/s11912-025-01733-8",
+      "title": "Senotherapeutics in Malignant Brain Cancer Therapy.",
+      "authorString": "Kaina B, Christmann M.",
+      "journalTitle": "Curr Oncol Rep",
+      "issue": "12",
+      "journalVolume": "27",
+      "pubYear": "2025",
+      "journalIssn": "1523-3790; 1534-6269; ",
+      "pageInfo": "1524-1536",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-06",
+      "firstIndexDate": "2025-12-08"
+    },
+    {
+      "id": "PMC13658983",
+      "source": "PMC",
+      "pmcid": "PMC13658983",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13658983"
+        ]
+      },
+      "title": "Therapy-induced senescence in breast cancer and cardiovascular disease: a double-edged biological process",
+      "authorString": "Belcastro E, Fanelli G, Schiavone M, Di Cocco F, Cateni C, Naccarato A, Scatena C, Schini-Kerth V.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "13",
+      "journalIssn": "2297-055x",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-16",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "41582000",
+      "source": "MED",
+      "pmid": "41582000",
+      "doi": "10.1002/ptr.70220",
+      "title": "Celastrol Targets Hsc70-Bim Interaction as a Novel Senolytic to Extend Lifespan and Mitigate Organ Fibrosis.",
+      "authorString": "Xu W, Chen H, Gong H, Zhao T, Yang Y, Wang F, Huang N, Yang M, Gao N, Li H, Huang X, Li Y, Xiao H.",
+      "journalTitle": "Phytother Res",
+      "issue": "3",
+      "journalVolume": "40",
+      "pubYear": "2026",
+      "journalIssn": "0951-418x; 1099-1573; ",
+      "pageInfo": "1472-1494",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-01-25",
+      "firstIndexDate": "2026-01-26"
+    },
+    {
+      "id": "PMC12759346",
+      "source": "PMC",
+      "pmcid": "PMC12759346",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12759346"
+        ]
+      },
+      "title": "Translating Senolytics From Mice to Humans",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 2",
+      "journalVolume": "9",
+      "pubYear": "2025",
+      "journalIssn": "2399-5300",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-12-01",
+      "firstIndexDate": "2026-01-05"
+    },
+    {
+      "id": "41807411",
+      "source": "MED",
+      "pmid": "41807411",
+      "pmcid": "PMC13315954",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13315954"
+        ]
+      },
+      "doi": "10.1038/s41514-026-00355-z",
+      "title": "Emerging strategies in senotherapeutics: from broad-spectrum senolysis to precision reprogramming.",
+      "authorString": "Zhang W, Song S, Zhang Y, Pan Y, Hu D, Wang Y.",
+      "journalTitle": "NPJ Aging",
+      "issue": "1",
+      "journalVolume": "12",
+      "pubYear": "2026",
+      "journalIssn": "2731-6068",
+      "pageInfo": "92",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-10",
+      "firstIndexDate": "2026-03-11"
+    },
+    {
+      "id": "42339134",
+      "source": "MED",
+      "pmid": "42339134",
+      "pmcid": "PMC13283931",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13283931"
+        ]
+      },
+      "doi": "10.3389/ti.2026.16347",
+      "title": "Integrating senotherapeutics into transplantation: liver reconditioning in an aging donor pool.",
+      "authorString": "Buch ML, Esser H, Perera H, Zheng R, Ferreira-Gonzalez S, Forbes SJ.",
+      "journalTitle": "Transpl Int",
+      "journalVolume": "39",
+      "pubYear": "2026",
+      "journalIssn": "0934-0874; 1432-2277; ",
+      "pageInfo": "16347",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-08",
+      "firstIndexDate": "2026-06-24"
+    },
+    {
+      "id": "42378907",
+      "source": "MED",
+      "pmid": "42378907",
+      "doi": "10.1016/j.coph.2026.102646",
+      "title": "Senotherapeutic strategies for ovarian aging: Mechanistic insights and translational perspectives.",
+      "authorString": "Alsirhani AM, El-Nablaway M, Yousef TA, Ali Elewa YH, Al-Hazani TMI.",
+      "journalTitle": "Curr Opin Pharmacol",
+      "journalVolume": "89",
+      "pubYear": "2026",
+      "journalIssn": "1471-4892; 1471-4973; ",
+      "pageInfo": "102646",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-17",
+      "firstIndexDate": "2026-07-02"
+    },
+    {
+      "id": "41513056",
+      "source": "MED",
+      "pmid": "41513056",
+      "pmcid": "PMC13075518",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13075518"
+        ]
+      },
+      "doi": "10.1016/j.hrthm.2026.01.007",
+      "title": "Senolytic reduction of senescent cells mitigates atrial arrhythmia vulnerability in aging rabbits.",
+      "authorString": "Sengun E, Zhou L, Kelsey M, Turan NN, Lu Y, Kabakov AY, Bronk P, Mi E, Kim TY, Vijayakumar S, Price D, Nussbaum SS, Song C, Feng J, Sellke FW, Dubielecka-Szczerba P, Del Monte F, Nerbonne J, Uydes-Dogan BS, Roder K, Choi BR, Van Wagoner DR, Sedivy JM, Koren G.",
+      "journalTitle": "Heart Rhythm",
+      "issue": "4",
+      "journalVolume": "23",
+      "pubYear": "2026",
+      "journalIssn": "1547-5271; 1556-3871; ",
+      "pageInfo": "e675-e691",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-07",
+      "firstIndexDate": "2026-01-10"
+    },
+    {
+      "id": "42196384",
+      "source": "MED",
+      "pmid": "42196384",
+      "pmcid": "PMC13207486",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13207486"
+        ]
+      },
+      "doi": "10.3390/ijms27104406",
+      "title": "Exploratory Effects of a Novel Nutraceutical on Senescence-Related Protein Biomarkers in Healthy Adults: A Pilot Proteomics Study.",
+      "authorString": "Blomquist SA, Kelly G, D'Adamo CR, Han C, Parker H, Adães S, Gardner CR, Ardagh A, Ramer S, Scuba W.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "10",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "4406",
+      "pubType": "clinical trial; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-15",
+      "firstIndexDate": "2026-05-28"
+    },
+    {
+      "id": "41470139",
+      "source": "MED",
+      "pmid": "41470139",
+      "pmcid": "PMC12734613",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12734613"
+        ]
+      },
+      "doi": "10.3390/medicina61122137",
+      "title": "The Emerging Role of Senolysis in Atherosclerosis.",
+      "authorString": "Vagena S, Theocharous G, Theodorou A, Pantelis P, Gravanis M, Tscheuschner L, Theodorou A, Galyfos G, Sigala F, Lagopati N, Kotsinas A.",
+      "journalTitle": "Medicina (Kaunas)",
+      "issue": "12",
+      "journalVolume": "61",
+      "pubYear": "2025",
+      "journalIssn": "1010-660x; 1648-9144; ",
+      "pageInfo": "2137",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-29",
+      "firstIndexDate": "2026-01-02"
+    },
+    {
+      "id": "PMC12726866",
+      "source": "PMC",
+      "pmcid": "PMC12726866",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12726866"
+        ]
+      },
+      "title": "The Dual Role of Tau in Neuroprotection and Disease: Neuronal Senescence as a Therapeutic Target",
+      "authorString": "Orr M.",
+      "journalTitle": "Alzheimers Dement",
+      "issue": "suppl 1",
+      "journalVolume": "21",
+      "pubYear": "2025",
+      "journalIssn": "1552-5260; 1552-5279; ",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2025-12-01",
+      "firstIndexDate": "2026-01-02"
+    },
+    {
+      "id": "42605630",
+      "source": "MED",
+      "pmid": "42605630",
+      "pmcid": "PMC13479111",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13479111"
+        ]
+      },
+      "doi": "10.1111/acel.70672",
+      "title": "Mesenchymal Stromal Cell Rejuvenation Strategies to Enhance Clinical Translation in Cell Therapy.",
+      "authorString": "Sodomaco A, Bernardi I, Rambaldi A, Lombardi P, Rossi M, Paris F, Manzoli L, Ratti S, Alviano F.",
+      "journalTitle": "Aging Cell",
+      "issue": "8",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pageInfo": "e70672",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-01",
+      "firstIndexDate": "2026-08-18"
+    },
+    {
+      "id": "42573875",
+      "source": "MED",
+      "pmid": "42573875",
+      "pmcid": "PMC13601480",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13601480"
+        ]
+      },
+      "doi": "10.1007/s11357-026-02470-x",
+      "title": "Chronic subdural hematoma through the hallmarks of aging: a geroscience framework for the commonest neurosurgical condition of older adults.",
+      "authorString": "Zammit Dimech D.",
+      "journalTitle": "Geroscience",
+      "issue": "5",
+      "journalVolume": "48",
+      "pubYear": "2026",
+      "journalIssn": "2509-2715; 2509-2723; ",
+      "pageInfo": "6277-6288",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-10",
+      "firstIndexDate": "2026-08-13"
+    },
+    {
+      "id": "PPR1068041",
+      "source": "PPR",
+      "doi": "10.1101/2025.08.13.670216",
+      "title": "Senolytic treatment with fisetin reverses age-related endothelial dysfunction partially mediated by SASP factor CXCL12",
+      "authorString": "Mahoney SA, Mazan-Mamczarz K, Tsitsipatis D, VanDongen NS, Henry-Smith C, Okereke AN, Munk R, Darvish S, Murray KO, De S, Gorospe M, Seals DR, Rossman MJ, Herman AB, Clayton ZS.",
+      "pubYear": "2025",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2025
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-08-18",
+      "firstIndexDate": "2025-08-22"
+    },
+    {
+      "id": "42539827",
+      "source": "MED",
+      "pmid": "42539827",
+      "pmcid": "PMC13424404",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13424404"
+        ]
+      },
+      "doi": "10.3389/fragi.2026.1812724",
+      "title": "Breaking barriers in pulmonary health of patients with metabolic diseases: senolytics and beyond.",
+      "authorString": "Rennerova M, Zaloudikova M, Haluzik M, Stemberkova Hubackova S.",
+      "journalTitle": "Front Aging",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2673-6217",
+      "pageInfo": "1812724",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-17",
+      "firstIndexDate": "2026-08-03"
+    },
+    {
+      "id": "PMC12732539",
+      "source": "PMC",
+      "pmcid": "PMC12732539",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12732539"
+        ]
+      },
+      "title": "Head‐to‐head comparison of two senolytic therapies in a mouse model of tauopathy",
+      "authorString": "Garbarino V, Orr T, Orr M.",
+      "journalTitle": "Alzheimers Dement",
+      "issue": "suppl 1",
+      "journalVolume": "21",
+      "pubYear": "2025",
+      "journalIssn": "1552-5260; 1552-5279; ",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-12-01",
+      "firstIndexDate": "2026-01-02"
+    }
+  ]
+}

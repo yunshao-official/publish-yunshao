@@ -1,0 +1,1822 @@
+{
+  "query_id": "B10",
+  "group": "B",
+  "query": "senescence AND intervention AND aged",
+  "hitCount": 34364,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:19.349896+00:00",
+  "results": [
+    {
+      "id": "PMC13644388",
+      "source": "PMC",
+      "pmcid": "PMC13644388",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13644388"
+        ]
+      },
+      "title": "Chronic Senolytic Treatment and/or Aerobic Exercise Reduce Senescence and Improve Myocardial Function During Aging in the Heart",
+      "authorString": "Bevington R, Johnson A, Hockey B, Fajardo V, Parise G.",
+      "journalTitle": "Aging Cell",
+      "issue": "10",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-08"
+    },
+    {
+      "id": "42965644",
+      "source": "MED",
+      "pmid": "42965644",
+      "doi": "10.1007/s11357-026-02622-z",
+      "title": "Sesaminol attenuates alcohol-induced colonic senescence in middle-aged mice: potential involvement of the AhR-Nrf2 axis. ",
+      "authorString": "Oikawa D, Ohira H, Omura A, Kiyomoto K, Nakagawa-Tsutsui W, Mamoto R, Fujioka Y, Nakayama T.",
+      "journalTitle": "Geroscience",
+      "pubYear": "2026",
+      "journalIssn": "2509-2715; 2509-2723; ",
+      "pubType": "im; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-31",
+      "firstIndexDate": "2026-11-01"
+    },
+    {
+      "id": "42841582",
+      "source": "MED",
+      "pmid": "42841582",
+      "doi": "10.1111/acel.70759",
+      "title": "Chronic Senolytic Treatment and/or Aerobic Exercise Reduce Senescence and Improve Myocardial Function During Aging in the Heart.",
+      "authorString": "Bevington RT, Johnson AL, Hockey BL, Fajardo VA, Parise G.",
+      "journalTitle": "Aging Cell",
+      "issue": "10",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pageInfo": "e70759",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42927243",
+      "source": "MED",
+      "pmid": "42927243",
+      "pmcid": "PMC13694972",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13694972"
+        ]
+      },
+      "doi": "10.1016/j.mtbio.2026.103751",
+      "title": "Aged microenvironment-triggered nanoreactors rejuvenate senescent LepR&lt;sup&gt;+&lt;/sup&gt; cells to remodel aged bone marrow.",
+      "authorString": "Li K, Li Z, Xue Y, Liu H, Guo J, Zhang X, Li B, Rui Y.",
+      "journalTitle": "Mater Today Bio",
+      "journalVolume": "41",
+      "pubYear": "2026",
+      "journalIssn": "2590-0064",
+      "pageInfo": "103751",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-12",
+      "firstIndexDate": "2026-10-26"
+    },
+    {
+      "id": "PMC13640007",
+      "source": "PMC",
+      "pmcid": "PMC13640007",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13640007"
+        ]
+      },
+      "title": "Osteoimmune senescence in aging bone: from inflammaging dogma to cell-type-specific therapeutic windows",
+      "authorString": "Zhang L, Yao Y, Chen J.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "journalIssn": "1664-3224",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-07",
+      "firstIndexDate": "2026-10-07"
+    },
+    {
+      "id": "42941762",
+      "source": "MED",
+      "pmid": "42941762",
+      "pmcid": "PMC13704523",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13704523"
+        ]
+      },
+      "doi": "10.3390/ijms27208987",
+      "title": "Is Aging a Failure to Resolve? Integrating Damage Responses, Regenerative Decline, and Geroscience Interventions.",
+      "authorString": "Chmielewski PP, Strzelec B.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "20",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "8987",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-10",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42458214",
+      "source": "MED",
+      "pmid": "42458214",
+      "pmcid": "PMC13521270",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13521270"
+        ]
+      },
+      "doi": "10.1093/procel/pwag012",
+      "title": "Astragalus membranaceus ameliorates endometrial aging and restores receptivity by enhancing mitochondrial function in stromal and epithelial cells.",
+      "authorString": "Chen X, Niu H, Deng F, Ke Y, Huang Z, Ning K, Lin Z, Pan R, Ma J, Xing D, Wang Y, Liao B, Lin G, Yu Y, Pan H, Zhou P, Li R.",
+      "journalTitle": "Protein Cell",
+      "issue": "9",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1674-800x; 1674-8018; ",
+      "pageInfo": "876-882",
+      "pubType": "letter; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "geo",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-07-16"
+    },
+    {
+      "id": "42761827",
+      "source": "MED",
+      "pmid": "42761827",
+      "pmcid": "PMC13587694",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13587694"
+        ]
+      },
+      "doi": "10.3389/fimmu.2026.1929891",
+      "title": "The ageing microenvironment in sarcopenia: early alterations and targeted therapeutic strategies.",
+      "authorString": "Zhang L, Li G, Long L, Pan L, Bai Y, Ni L, Han L, Cao R.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-3224",
+      "pageInfo": "1929891",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-04",
+      "firstIndexDate": "2026-09-20"
+    },
+    {
+      "id": "42827534",
+      "source": "MED",
+      "pmid": "42827534",
+      "pmcid": "PMC13631003",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13631003"
+        ]
+      },
+      "doi": "10.3389/fimmu.2026.1917140",
+      "title": "&lt;i&gt;Kazachstania pintolopesii&lt;/i&gt; accelerates splenic senescence in aged mice via immune cell reprogramming, immunosenescence and amelioration by Astragaloside IV.",
+      "authorString": "Zhang Y, Guo Y, Li L, Zhang X, Zhang H, Chen D.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-3224",
+      "pageInfo": "1917140",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen"
+        ]
+      },
+      "firstPublicationDate": "2026-09-18",
+      "firstIndexDate": "2026-10-04"
+    },
+    {
+      "id": "42700868",
+      "source": "MED",
+      "pmid": "42700868",
+      "doi": "10.1016/j.arr.2026.103348",
+      "title": "Breaking the self-reinforcing cycle of aging: Biomaterial strategies for aged bone regeneration.",
+      "authorString": "Wang Y, Chen J, Liu X, Pei Y, Chen S, Zhou Y.",
+      "journalTitle": "Ageing Res Rev",
+      "journalVolume": "122",
+      "pubYear": "2026",
+      "journalIssn": "1568-1637; 1872-9649; ",
+      "pageInfo": "103348",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-05",
+      "firstIndexDate": "2026-09-06"
+    },
+    {
+      "id": "PMC13636325",
+      "source": "PMC",
+      "pmcid": "PMC13636325",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13636325"
+        ]
+      },
+      "title": "Stem cell senescence as a regenerative bottleneck in age-related skeletal degeneration: Mechanistic crosstalk and translational strategies",
+      "authorString": "Wang X, Huang Y, Zhu T, Qiu H.",
+      "journalTitle": "Regen Ther",
+      "journalVolume": "33",
+      "pubYear": "2026",
+      "journalIssn": "2352-3204",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-27",
+      "firstIndexDate": "2026-10-06"
+    },
+    {
+      "id": "42951861",
+      "source": "MED",
+      "pmid": "42951861",
+      "pmcid": "PMC13716848",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13716848"
+        ]
+      },
+      "doi": "10.1111/acel.70780",
+      "title": "Senescent Mesenchymal Stromal Cells Drive Stem Cell Aging Through Dysregulated Chemokine Synthesis.",
+      "authorString": "Stein SN, Braid LR.",
+      "journalTitle": "Aging Cell",
+      "issue": "11",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pageInfo": "e70780",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-11-01",
+      "firstIndexDate": "2026-10-29"
+    },
+    {
+      "id": "42738843",
+      "source": "MED",
+      "pmid": "42738843",
+      "pmcid": "PMC13565560",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13565560"
+        ]
+      },
+      "doi": "10.3390/cells15171548",
+      "title": "Mitochondria-Lysosome Quality Flux in Aging Mesenchymal Stem/Stromal Cells: Quality-Control Bottlenecks and Therapeutic Opportunities for Regenerative Decline.",
+      "authorString": "Cheng L, Song G.",
+      "journalTitle": "Cells",
+      "issue": "17",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2073-4409",
+      "pageInfo": "1548",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-27",
+      "firstIndexDate": "2026-09-15"
+    },
+    {
+      "id": "42769716",
+      "source": "MED",
+      "pmid": "42769716",
+      "pmcid": "PMC13591223",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13591223"
+        ]
+      },
+      "doi": "10.1002/mco2.70995",
+      "title": "Aging of Skeletal Muscle: From Molecular Mechanisms to Therapeutic Interventions.",
+      "authorString": "Liu T, Hu Y.",
+      "journalTitle": "MedComm (2020)",
+      "issue": "10",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2688-2663",
+      "pageInfo": "e70995",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-21",
+      "firstIndexDate": "2026-09-23"
+    },
+    {
+      "id": "42966513",
+      "source": "MED",
+      "pmid": "42966513",
+      "doi": "10.1016/j.arr.2026.103431",
+      "title": "The Senescent Macrophage as a Central Hub in Skeletal Aging: Mechanisms, Niche Disruption, and Systemic Consequences. ",
+      "authorString": "Li Z, Li Y, Sui L, Ma C.",
+      "journalTitle": "Ageing Res Rev",
+      "pubYear": "2026",
+      "journalIssn": "1568-1637; 1872-9649; ",
+      "pageInfo": "103431",
+      "pubType": "im; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-31",
+      "firstIndexDate": "2026-11-01"
+    },
+    {
+      "id": "42667070",
+      "source": "MED",
+      "pmid": "42667070",
+      "pmcid": "PMC13524491",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13524491"
+        ]
+      },
+      "doi": "10.1016/j.bioactmat.2026.08.017",
+      "title": "A dual-targeting mRNA lipid nanoparticle restores ABCA1-dependent cholesterol homeostasis to promote repair of age-related bone defects.",
+      "authorString": "Cheng M, Xi K, Ni Z, Wang L, Tang J, Wang W, Li Z, Zhou L, Jiang X, Wu J, Guo Q, Zhu Y, Tao Z, Li T, Cui C, Cui W, Chen L, Gu Y.",
+      "journalTitle": "Bioact Mater",
+      "journalVolume": "67",
+      "pubYear": "2027",
+      "journalIssn": "2452-199x",
+      "pageInfo": "620-642",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-20",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42939758",
+      "source": "MED",
+      "pmid": "42939758",
+      "pmcid": "PMC13702451",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13702451"
+        ]
+      },
+      "doi": "10.3390/biom16101504",
+      "title": "Lifestyle-Associated Biomarkers of Cellular and Whole-Organism Aging: A Practical Roadmap for Human Geroscience Trials.",
+      "authorString": "Rose SC, Rizvanov AA, Haines DD, Cowan FM, Silverstein RH, Mahmoud FF, Solovyeva VV, Kitaeva KV, Hyo-Seok S, Tosaki A.",
+      "journalTitle": "Biomolecules",
+      "issue": "10",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2218-273x",
+      "pageInfo": "1504",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-15",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "PMC13691269",
+      "source": "PMC",
+      "pmcid": "PMC13691269",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13691269"
+        ]
+      },
+      "title": "Senescence and tumor immunology: A multifaceted interplay of influence",
+      "authorString": "Xie Y, Zhang J, Wang S, Rao D, Zhang J, Ao Y.",
+      "journalTitle": "iScience",
+      "issue": "11",
+      "journalVolume": "29",
+      "pubYear": "2026",
+      "journalIssn": "2589-0042",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-15",
+      "firstIndexDate": "2026-10-24"
+    },
+    {
+      "id": "42775811",
+      "source": "MED",
+      "pmid": "42775811",
+      "doi": "10.1002/adma.75099",
+      "title": "Engineered Extracellular Vesicle Revitalizing Macrophage Energy Metabolism for Aged Wound Repair.",
+      "authorString": "Ding J, Li J, Ji T, Huang M, Liu P, Zhang K, Li J, Ma J, Chen X, Qiu F, Chen M, Shu G, Chen W, Ji J.",
+      "journalTitle": "Adv Mater",
+      "pubYear": "2026",
+      "journalIssn": "0935-9648; 1521-4095; ",
+      "pageInfo": "e75099",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-23",
+      "firstIndexDate": "2026-09-24"
+    },
+    {
+      "id": "42733056",
+      "source": "MED",
+      "pmid": "42733056",
+      "pmcid": "PMC13572547",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13572547"
+        ]
+      },
+      "doi": "10.1038/s41413-026-00582-w",
+      "title": "Bone aging: a paradigm of multiscale degeneration and targeted rejuvenation.",
+      "authorString": "Li K, Gao C, Zhang T, Wang C, Geng X, Wang X, Tian H.",
+      "journalTitle": "Bone Res",
+      "issue": "1",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2095-4700; 2095-6231; ",
+      "pageInfo": "99",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-14",
+      "firstIndexDate": "2026-09-14"
+    },
+    {
+      "id": "42589194",
+      "source": "MED",
+      "pmid": "42589194",
+      "pmcid": "PMC13464930",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13464930"
+        ]
+      },
+      "doi": "10.3390/biology15151328",
+      "title": "Mitochondria-Targeted Natural-Derived Compounds in Cellular Senescence: Mechanisms, Therapeutic Potential, and Future Directions.",
+      "authorString": "Namkaew J, Kongpracha P, Jaroonwitchawan T.",
+      "journalTitle": "Biology (Basel)",
+      "issue": "15",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2079-7737",
+      "pageInfo": "1328",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-06",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "42774423",
+      "source": "MED",
+      "pmid": "42774423",
+      "pmcid": "PMC13594517",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13594517"
+        ]
+      },
+      "doi": "10.2147/ijgm.s633240",
+      "title": "Cellular Senescence and SASP in Bladder Ageing: Mechanisms and Emerging Interventions.",
+      "authorString": "Yan J, Zhang D, Zhao F.",
+      "journalTitle": "Int J Gen Med",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1178-7074",
+      "pageInfo": "633240",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-17",
+      "firstIndexDate": "2026-09-24"
+    },
+    {
+      "id": "42949633",
+      "source": "MED",
+      "pmid": "42949633",
+      "pmcid": "PMC13715673",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13715673"
+        ]
+      },
+      "doi": "10.1002/advs.78545",
+      "title": "A Bi-Adjuvant Senolytic Nanovaccine Modulating Dendritic Cell Senescence Ameliorates Aging-Related Metabolic Dysfunction.",
+      "authorString": "Song Q, Du X, Dong W, Wang Y, Wang X, Yin Q.",
+      "journalTitle": "Adv Sci (Weinh)",
+      "pubYear": "2026",
+      "journalIssn": "2198-3844",
+      "pageInfo": "e78545",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-28",
+      "firstIndexDate": "2026-10-29"
+    },
+    {
+      "id": "42583998",
+      "source": "MED",
+      "pmid": "42583998",
+      "pmcid": "PMC13463676",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13463676"
+        ]
+      },
+      "doi": "10.1002/rmv.70195",
+      "title": "Oncoviruses at the Crossroads of Ageing and Cancer: Molecular Mechanisms and Key Signalling Pathways.",
+      "authorString": "Allehyani N, Alissa M, Alghamdi A, Alshehri MA, Abusalim GS, Juraybi TN, Alsuwat MA, Safhi AY.",
+      "journalTitle": "Rev Med Virol",
+      "issue": "5",
+      "journalVolume": "36",
+      "pubYear": "2026",
+      "journalIssn": "1052-9276; 1099-1654; ",
+      "pageInfo": "e70195",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-08-13"
+    },
+    {
+      "id": "PMC13547764",
+      "source": "PMC",
+      "pmcid": "PMC13547764",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13547764"
+        ]
+      },
+      "title": "Effects of a Dietary Supplement on Systemic Aging Related Biomarkers and Skin Aging Outcomes in Middle‐Aged Women: In Vitro and Clinical Studies",
+      "authorString": "Chen J, Ding L, Lv P, Li W, Tai M, Yin R, Yu Y, Huang Y, Zheng J, Wang E, Liu H, Fu J, Wang H, Huang R, Ma J.",
+      "journalTitle": "J Cosmet Dermatol",
+      "issue": "9",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1473-2130; 1473-2165; ",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-09-13"
+    },
+    {
+      "id": "42645185",
+      "source": "MED",
+      "pmid": "42645185",
+      "pmcid": "PMC13510570",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13510570"
+        ]
+      },
+      "doi": "10.3390/cells15161457",
+      "title": "Potential Roles of Cellular Senescence and Inflammaging in Prostate Cancer: Aging Microenvironment, Immune Remodeling, and Therapeutic Implications.",
+      "authorString": "Zhang Q, Shen K, Liu S.",
+      "journalTitle": "Cells",
+      "issue": "16",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2073-4409",
+      "pageInfo": "1457",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-13",
+      "firstIndexDate": "2026-08-27"
+    },
+    {
+      "id": "42792191",
+      "source": "MED",
+      "pmid": "42792191",
+      "pmcid": "PMC13603535",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13603535"
+        ]
+      },
+      "doi": "10.3390/antiox15091152",
+      "title": "Oxidative Stress in Vascular Aging: Therapeutic Potential of the Antioxidant Paradox. A State-of-the-Art Review.",
+      "authorString": "Veliz Perez A, Badea M, Bilal S.",
+      "journalTitle": "Antioxidants (Basel)",
+      "issue": "9",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2076-3921",
+      "pageInfo": "1152",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-10",
+      "firstIndexDate": "2026-09-26"
+    },
+    {
+      "id": "42652250",
+      "source": "MED",
+      "pmid": "42652250",
+      "pmcid": "PMC13509596",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13509596"
+        ]
+      },
+      "doi": "10.3390/biomedicines14081869",
+      "title": "Ferroptosis-Senescence Crosstalk in Sepsis-Associated Acute Lung Injury: Mechanisms and Therapeutic Opportunities.",
+      "authorString": "Luo R, Chen Q, Wang J, Nie Z, Dan L, Xie S.",
+      "journalTitle": "Biomedicines",
+      "issue": "8",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2227-9059",
+      "pageInfo": "1869",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-21",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42884740",
+      "source": "MED",
+      "pmid": "42884740",
+      "doi": "10.3390/nu18193289",
+      "title": "&lt;i&gt;Codonopsis tangshen&lt;/i&gt; Attenuates Age-Related Pulmonary Fibrosis Through Senescence and Gut-Lung Axis Modulation.",
+      "authorString": "Zhao Y, Gong Y, Zhu H, Zhang W, Cai M, Yang C, Silva O, Xu L, Guan Y, Zhu W.",
+      "journalTitle": "Nutrients",
+      "issue": "19",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "3289",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-07",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "42633989",
+      "source": "MED",
+      "pmid": "42633989",
+      "pmcid": "PMC13500367",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13500367"
+        ]
+      },
+      "doi": "10.1111/bcpt.70290",
+      "title": "Low-Dose Fisetin Supplementation and Its Association With Chronic Inflammation in Middle-Aged and Older Adults: Study Protocol for a Triple-Blind, Randomised, Placebo-Controlled Trial.",
+      "authorString": "Tavenier J, Berglind M, Hach LF, Christensen LWS, Masarikova MJ, Yahya R, Lindstrøm MB, Jawad BN, Zatkova A, Nielsen RL, Juul-Larsen HG, Kallemose T, Nehlin JO, Houlind MB, Andersen O, Rasmussen LJH.",
+      "journalTitle": "Basic Clin Pharmacol Toxicol",
+      "issue": "3",
+      "journalVolume": "139",
+      "pubYear": "2026",
+      "journalIssn": "1742-7835; 1742-7843; ",
+      "pageInfo": "e70290",
+      "pubType": "clinical trial protocol; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-08-25"
+    },
+    {
+      "id": "PMC13665534",
+      "source": "PMC",
+      "pmcid": "PMC13665534",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13665534"
+        ]
+      },
+      "title": "Effects and Therapeutic Strategies of Intra-Hepatic Cellular Senescence and Regeneration ",
+      "authorString": "Yang J, Li Y, Feng Y, Chen Y, Li Z, Zhang N, Lai M, Zou W.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "19",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-28",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42794511",
+      "source": "MED",
+      "pmid": "42794511",
+      "pmcid": "PMC13607713",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13607713"
+        ]
+      },
+      "doi": "10.3390/ijms27188080",
+      "title": "The Hallmarks of Aging: From Molecular Mechanisms to Clinical Translation.",
+      "authorString": "Chmielewski PP, Strzelec B.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "18",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "8080",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-11",
+      "firstIndexDate": "2026-09-28"
+    },
+    {
+      "id": "42939781",
+      "source": "MED",
+      "pmid": "42939781",
+      "pmcid": "PMC13702484",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13702484"
+        ]
+      },
+      "doi": "10.3390/biom16101527",
+      "title": "Skeletal Muscle Aging Is a Significant Contributor to Systemic Aging.",
+      "authorString": "Li MM, Liu X, Li Y, Li H, Wang Y, Qiu K, Kong W.",
+      "journalTitle": "Biomolecules",
+      "issue": "10",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2218-273x",
+      "pageInfo": "1527",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-20",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "PMC13719551",
+      "source": "PMC",
+      "pmcid": "PMC13719551",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13719551"
+        ]
+      },
+      "title": "Immune microenvironment in rotator cuff healing: from macrophage dynamics to immunomodulatory regenerative therapies",
+      "authorString": "Li F, Fu Z, Zhang X, Ke X, Gao X.",
+      "journalTitle": "Front Bioeng Biotechnol",
+      "journalVolume": "14",
+      "journalIssn": "2296-4185",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-31",
+      "firstIndexDate": "2026-10-31"
+    },
+    {
+      "id": "42791602",
+      "source": "MED",
+      "pmid": "42791602",
+      "pmcid": "PMC13615172",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13615172"
+        ]
+      },
+      "doi": "10.1111/acel.70737",
+      "title": "A Deep-Learning Based Biomarker of Systemic Cellular Senescence Burden to Predict Mortality and Health Outcomes.",
+      "authorString": "Zhao S, Kuo CL, Lenze EJ, Wetherell JL, Haynes L, El-Ahmad P, Fortinsky R, Kuchel G, Harris T, Diniz BS.",
+      "journalTitle": "Aging Cell",
+      "issue": "10",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pageInfo": "e70737",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-09-26"
+    },
+    {
+      "id": "42729803",
+      "source": "MED",
+      "pmid": "42729803",
+      "pmcid": "PMC13563124",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13563124"
+        ]
+      },
+      "doi": "10.3389/fgene.2026.1881856",
+      "title": "Homeostatic conflict as a driver for brain aging.",
+      "authorString": "Wulkop-Gil CA, Petrascheck M.",
+      "journalTitle": "Front Genet",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-8021",
+      "pageInfo": "1881856",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-28",
+      "firstIndexDate": "2026-09-13"
+    },
+    {
+      "id": "PMC13656253",
+      "source": "PMC",
+      "pmcid": "PMC13656253",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13656253"
+        ]
+      },
+      "title": "Polystyrene-associated pulmonary fibrosis: a summary based on the available evidence and prospects",
+      "authorString": "Sang S, Liu Y, Zhao H, Wang B, Lv G, Feng S, Wang K.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "journalIssn": "1664-3224",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-16",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42959374",
+      "source": "MED",
+      "pmid": "42959374",
+      "pmcid": "PMC13716949",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13716949"
+        ]
+      },
+      "doi": "10.3389/fnut.2026.1984798",
+      "title": "Gut microbial metabolism in aging: from metabolite production to organ-specific immunometabolic effects.",
+      "authorString": "Wang Z, Liu Y.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2296-861x",
+      "pageInfo": "1984798",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-15",
+      "firstIndexDate": "2026-10-31"
+    },
+    {
+      "id": "42953779",
+      "source": "MED",
+      "pmid": "42953779",
+      "pmcid": "PMC13715846",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13715846"
+        ]
+      },
+      "doi": "10.2147/dddt.s639353",
+      "title": "Traditional Chinese Medicine for Regulating Reproductive Aging: Pharmacological Activities and Mechanisms.",
+      "authorString": "Liu J, Zhao QH, Jiang HT, Dai XW, Yang JZ, Gu JN, Wang W, He ZM.",
+      "journalTitle": "Drug Des Devel Ther",
+      "journalVolume": "20",
+      "pubYear": "2026",
+      "journalIssn": "1177-8881",
+      "pageInfo": "639353",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-24",
+      "firstIndexDate": "2026-10-30"
+    },
+    {
+      "id": "42796982",
+      "source": "MED",
+      "pmid": "42796982",
+      "pmcid": "PMC13610105",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13610105"
+        ]
+      },
+      "doi": "10.3390/nu18182999",
+      "title": "Clinical Translation of Fisetin for Age-Related Diseases: Current Evidence and Future Opportunities.",
+      "authorString": "Sandoval-Caballero C, Roemer Z, Kotz CM, Puskarich MA, Mavanji V, Schmidt EL, Sibley SD.",
+      "journalTitle": "Nutrients",
+      "issue": "18",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2999",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-14",
+      "firstIndexDate": "2026-09-28"
+    },
+    {
+      "id": "42830759",
+      "source": "MED",
+      "pmid": "42830759",
+      "pmcid": "PMC13634101",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13634101"
+        ]
+      },
+      "doi": "10.1016/j.jot.2026.101213",
+      "title": "Exercise alleviates age-related osteoarthritis associated with PGC-1α activation to suppress chondrocyte senescence and aberrant glycolysis.",
+      "authorString": "Cao Y, Lao A, Zhu S, Jin F, Sha Z, Zhuang Y, Zhan H, Wang L, Li H, Lin K, Zhu R.",
+      "journalTitle": "J Orthop Translat",
+      "journalVolume": "60",
+      "pubYear": "2026",
+      "journalIssn": "2214-031x; 2214-0328; ",
+      "pageInfo": "101213",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-10-05"
+    },
+    {
+      "id": "42680955",
+      "source": "MED",
+      "pmid": "42680955",
+      "doi": "10.1007/s11357-026-02500-8",
+      "title": "Frailty assessment in naturally aged mouse models: classification, limitations, and future directions.",
+      "authorString": "Ji F, Li S, Yang L.",
+      "journalTitle": "Geroscience",
+      "pubYear": "2026",
+      "journalIssn": "2509-2715; 2509-2723; ",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-02",
+      "firstIndexDate": "2026-09-02"
+    },
+    {
+      "id": "41875394",
+      "source": "MED",
+      "pmid": "41875394",
+      "pmcid": "PMC13521284",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13521284"
+        ]
+      },
+      "doi": "10.1093/procel/pwag020",
+      "title": "Restoring the FOXO1 geroprotective pathway via seno-resistant mesenchymal progenitor cells alleviates primate epididymal aging.",
+      "authorString": "Lu H, Cai L, Lv D, Sun G, Lei J, Ning T, Xin Z, Huang H, Jing Y, Huang D, Sun S, Ma S, Zhang W, Gao F, Chen R, Qin Y, Song W, Xiang AP, Izpisua Belmonte JC, Liu GH, Qu J, Wang S.",
+      "journalTitle": "Protein Cell",
+      "issue": "9",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1674-800x; 1674-8018; ",
+      "pageInfo": "840-857",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-03-24"
+    },
+    {
+      "id": "42451123",
+      "source": "MED",
+      "pmid": "42451123",
+      "pmcid": "PMC13364093",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13364093"
+        ]
+      },
+      "doi": "10.3390/nu18132120",
+      "title": "Plant-Derived Bioactives in Tendon and Enthesis Biology: An Evidence-Tiered Narrative Review.",
+      "authorString": "Park D, Koh HS, Choi YH, Kim KK, Park I.",
+      "journalTitle": "Nutrients",
+      "issue": "13",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2120",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-30",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "42440782",
+      "source": "MED",
+      "pmid": "42440782",
+      "pmcid": "PMC13334145",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13334145"
+        ]
+      },
+      "doi": "10.1002/mco2.70827",
+      "title": "Cellular Senescence and Aging: Mechanisms, Disease Convergence, and Therapeutic Frontiers.",
+      "authorString": "Cai G, Ren J, Wang L, Wu Y, Wang H, Cao X, Shang H, Hou X, Wang Y, Xue H, Dong T.",
+      "journalTitle": "MedComm (2020)",
+      "issue": "7",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2688-2663",
+      "pageInfo": "e70827",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-05",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "PPR1314237",
+      "source": "PPR",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PPR1314237"
+        ]
+      },
+      "doi": "10.21203/rs.3.rs-10930426/v1",
+      "title": "Spatial evidence of senescence-associated pathology after myocardial infarction in humans and therapeutic targeting in ageing mice",
+      "authorString": "Redgrave RE, Zormpas E, Mathison L, Encina MC, Spyridopoulos I, Cockell SJ, Tual-Chalot S, Richardson GD.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "Research Square",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-08",
+      "firstIndexDate": "2026-09-09",
+      "versionNumber": 1
+    },
+    {
+      "id": "42682459",
+      "source": "MED",
+      "pmid": "42682459",
+      "pmcid": "PMC13529490",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13529490"
+        ]
+      },
+      "doi": "10.3389/fimmu.2026.1958202",
+      "title": "Editorial: Exploring immunological factors in inner ear disorders: allergy and inflammation.",
+      "authorString": "Szczepek AJ, Van Rompaey V, Hu B.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-3224",
+      "pageInfo": "1958202",
+      "pubType": "editorial",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-18",
+      "firstIndexDate": "2026-09-03"
+    },
+    {
+      "id": "42907920",
+      "source": "MED",
+      "pmid": "42907920",
+      "pmcid": "PMC13689309",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13689309"
+        ]
+      },
+      "doi": "10.1186/s12964-026-03194-3",
+      "title": "Ferro-aging: a potential driver of degenerative bone and joint diseases.",
+      "authorString": "Liang S, Gao S, Wang F, Qu X, Kong L, Wang C, Li N.",
+      "journalTitle": "Cell Commun Signal",
+      "issue": "1",
+      "journalVolume": "24",
+      "pubYear": "2026",
+      "journalIssn": "1478-811x",
+      "pageInfo": "572",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-04",
+      "firstIndexDate": "2026-10-23"
+    },
+    {
+      "id": "42289617",
+      "source": "MED",
+      "pmid": "42289617",
+      "doi": "10.1007/s10522-026-10459-4",
+      "title": "Nacre extract attenuates age-related functional and tissue alterations under post-onset intervention conditions in two murine aging models.",
+      "authorString": "Kawaminami M, Kimoto S, Yamamoto H, Hasegawa Y.",
+      "journalTitle": "Biogerontology",
+      "issue": "4",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1389-5729; 1573-6768; ",
+      "pageInfo": "114",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-15",
+      "firstIndexDate": "2026-06-16"
+    },
+    {
+      "id": "PMC13719894",
+      "source": "PMC",
+      "pmcid": "PMC13719894",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13719894"
+        ]
+      },
+      "title": "DNA damage response as a driver of PD-L1 expression in cellular senescence: implications for immune evasion and immunosenescence",
+      "authorString": "Wang Y, Qin L.",
+      "journalTitle": "Front Cell Dev Biol",
+      "journalVolume": "14",
+      "journalIssn": "2296-634x",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-31",
+      "firstIndexDate": "2026-10-31"
+    }
+  ]
+}

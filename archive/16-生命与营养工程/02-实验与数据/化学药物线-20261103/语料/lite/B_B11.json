@@ -1,0 +1,1902 @@
+{
+  "query_id": "B11",
+  "group": "B",
+  "query": "caloric restriction AND primate",
+  "hitCount": 1504,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:21.061619+00:00",
+  "results": [
+    {
+      "id": "PPR1220233",
+      "source": "PPR",
+      "doi": "10.64898/2026.03.11.711076",
+      "title": "Metabolic reprogramming by caloric restriction enhances acute phase virological control and reduces chronic inflammation in SIV-infected rhesus macaques",
+      "authorString": "Suresh Babu N, Perdios C, Hallmets M, Brown AT, Coleman C, Fennessey CM, Allers C, Moström MJ, Khare P, Zhang C, Smith BT, Golden NA, Myers A, Doyle-Meyers L, Blaney A, Blair RV, Saied AA, Colman R, Keele BF, Le A, Palmer CS, Mudd JC.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-12",
+      "firstIndexDate": "2026-05-19"
+    },
+    {
+      "id": "42819019",
+      "source": "MED",
+      "pmid": "42819019",
+      "pmcid": "PMC13623523",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13623523"
+        ]
+      },
+      "doi": "10.1093/emph/eoag020",
+      "title": "Evolutionary mismatch between stomach capacity and modern diets: Implications for obesity and metabolic disease.",
+      "authorString": "Allouch M, Attieh P, Abdallah R, El Jamal K, Mohtar F, Zreika B, Kanso H, Ghadieh HE.",
+      "journalTitle": "Evol Med Public Health",
+      "issue": "1",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2050-6201",
+      "pageInfo": "1-12",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-10",
+      "firstIndexDate": "2026-10-02"
+    },
+    {
+      "id": "41579355",
+      "source": "MED",
+      "pmid": "41579355",
+      "pmcid": "PMC13078920",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13078920"
+        ]
+      },
+      "doi": "10.1152/physiolgenomics.00213.2025",
+      "title": "Monitored food intake in early pregnancy modulates the maternal microbiome in the obese BPH/5 mouse model of superimposed preeclampsia.",
+      "authorString": "Fan K, Liu CC, Beckers KF, Schulz CJ, Childers GW, Sones JL.",
+      "journalTitle": "Physiol Genomics",
+      "issue": "3",
+      "journalVolume": "58",
+      "pubYear": "2026",
+      "journalIssn": "1094-8341; 1531-2267; ",
+      "pageInfo": "144-151",
+      "pubType": "research-article; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "bioproject",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-24",
+      "firstIndexDate": "2026-01-25"
+    },
+    {
+      "id": "42104473",
+      "source": "MED",
+      "pmid": "42104473",
+      "pmcid": "PMC13237944",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13237944"
+        ]
+      },
+      "doi": "10.1186/s13395-026-00422-9",
+      "title": "Caloric restriction reprograms skeletal muscle molecular pathways in non-human primates: potential relevance to human aging biology.",
+      "authorString": "Das JK, Banskota N, Donega S, Shehadeh N, Piao Y, Price N, Mattison JA, Candia J, de Cabo R, Ferrucci L.",
+      "journalTitle": "Skelet Muscle",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2044-5040",
+      "pageInfo": "22",
+      "pubType": "research support, n.i.h., intramural; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "ensembl",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-08",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "42650097",
+      "source": "MED",
+      "pmid": "42650097",
+      "pmcid": "PMC13512875",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13512875"
+        ]
+      },
+      "doi": "10.3390/genes17080905",
+      "title": "Non-Human Primates as a Comprehensive Model for Studying Epigenetic Markers of Aging.",
+      "authorString": "Petrova VM, Simoroz EV, Dudko NA, Vasilevska J.",
+      "journalTitle": "Genes (Basel)",
+      "issue": "8",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2073-4425",
+      "pageInfo": "905",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-30",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42807406",
+      "source": "MED",
+      "pmid": "42807406",
+      "pmcid": "PMC13617655",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13617655"
+        ]
+      },
+      "doi": "10.7150/ijbs.140033",
+      "title": "Regenerative extracellular vesicles reshape systemic aging: lessons from antler stem cells.",
+      "authorString": "Lee SJ, Bae J, Cheon YJ, Kim EK.",
+      "journalTitle": "Int J Biol Sci",
+      "issue": "14",
+      "journalVolume": "22",
+      "pubYear": "2026",
+      "journalIssn": "1449-2288",
+      "pageInfo": "7606-7609",
+      "pubType": "article-commentary; comment; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-24",
+      "firstIndexDate": "2026-09-30"
+    },
+    {
+      "id": "42741667",
+      "source": "MED",
+      "pmid": "42741667",
+      "pmcid": "PMC13573582",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13573582"
+        ]
+      },
+      "doi": "10.1093/jbmrpl/ziag150",
+      "title": "Skeletal and body composition effects of orchiectomy in a colony of diet-induced obese cynomolgus macaques.",
+      "authorString": "Kirigiti MA, Bader L, Zaro C, McGuire CM, Hansen JJ, Christoffersen BO, Straarup EM, Kievit P, Sauter KA.",
+      "journalTitle": "JBMR Plus",
+      "issue": "10",
+      "journalVolume": "10",
+      "pubYear": "2026",
+      "journalIssn": "2473-4039",
+      "pageInfo": "ziag150",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-09-16"
+    },
+    {
+      "id": "40935365",
+      "source": "MED",
+      "pmid": "40935365",
+      "pmcid": "PMC12694246",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12694246"
+        ]
+      },
+      "doi": "10.30802/aalas-jaalas-25-123",
+      "title": "Association of Primate Veterinarians Guidelines for Weight Management in Research Nonhuman Primates.",
+      "authorString": "Association of Primate Veterinarians.",
+      "journalTitle": "J Am Assoc Lab Anim Sci",
+      "pubYear": "2025",
+      "journalIssn": "1559-6109; 2769-6677; ",
+      "pageInfo": "1-5",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-09-01",
+      "firstIndexDate": "2025-09-12"
+    },
+    {
+      "id": "42529505",
+      "source": "MED",
+      "pmid": "42529505",
+      "pmcid": "PMC13417683",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13417683"
+        ]
+      },
+      "doi": "10.3389/fnut.2026.1856944",
+      "title": "The role of diet in the pathogenesis and management of premature ovarian insufficiency.",
+      "authorString": "Pan L, Yao Y, Zhao W, Li X.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2296-861x",
+      "pageInfo": "1856944",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-15",
+      "firstIndexDate": "2026-07-31"
+    },
+    {
+      "id": "42939546",
+      "source": "MED",
+      "pmid": "42939546",
+      "pmcid": "PMC13703335",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13703335"
+        ]
+      },
+      "doi": "10.3390/cimb48101008",
+      "title": "Metformin, SGLT2 Inhibitors, and Intermittent Fasting: Convergent Pathways to Healthspan Extension, Cardiovascular Longevity, and Cancer Prevention-A Narrative Review.",
+      "authorString": "Cozma D, Tudoran C, Vacarescu C.",
+      "journalTitle": "Curr Issues Mol Biol",
+      "issue": "10",
+      "journalVolume": "48",
+      "pubYear": "2026",
+      "journalIssn": "1467-3037; 1467-3045; ",
+      "pageInfo": "1008",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-30",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "41372706",
+      "source": "MED",
+      "pmid": "41372706",
+      "pmcid": "PMC12864875",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12864875"
+        ]
+      },
+      "doi": "10.1038/s44320-025-00177-3",
+      "title": "Aging-linked systemic lipid signature is reprogrammed by caloric restriction in rhesus monkeys.",
+      "authorString": "Abou Elhassan SI, Clark JP, Kuang D, Rhoads TW, Colman RJ, Coon JJ, Anderson RM, Overmyer KA.",
+      "journalTitle": "Mol Syst Biol",
+      "issue": "2",
+      "journalVolume": "22",
+      "pubYear": "2026",
+      "journalIssn": "1744-4292",
+      "pageInfo": "281-305",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-10",
+      "firstIndexDate": "2025-12-11"
+    },
+    {
+      "id": "42399926",
+      "source": "MED",
+      "pmid": "42399926",
+      "pmcid": "PMC13637166",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13637166"
+        ]
+      },
+      "doi": "10.1186/s12903-026-09090-z",
+      "title": "How dietary interventions impact oral conditions: a systematic review.",
+      "authorString": "Poilvet M, Quemeneur A, Fouillen KJ, Jali S, Orliaguet M, Boisramé S.",
+      "journalTitle": "BMC Oral Health",
+      "issue": "1",
+      "journalVolume": "26",
+      "pubYear": "2026",
+      "journalIssn": "1472-6831",
+      "pageInfo": "1919",
+      "pubType": "systematic review; review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-03",
+      "firstIndexDate": "2026-07-04"
+    },
+    {
+      "id": "40413724",
+      "source": "MED",
+      "pmid": "40413724",
+      "pmcid": "PMC12151502",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12151502"
+        ]
+      },
+      "doi": "10.18632/aging.206253",
+      "title": "Short-term moderate caloric restriction in the rhesus macaque attenuates markers of ovarian aging in select populations.",
+      "authorString": "Gargus ES, Sharma R, Gu R, Mulcahy C, Johnson BW, Song J, Lee J, Zelinski M, Duncan FE.",
+      "journalTitle": "Aging (Albany NY)",
+      "issue": "5",
+      "journalVolume": "17",
+      "pubYear": "2025",
+      "journalIssn": "1945-4589",
+      "pageInfo": "1164-1189",
+      "pubType": "research-article; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-05-20",
+      "firstIndexDate": "2025-05-26"
+    },
+    {
+      "id": "41042069",
+      "source": "MED",
+      "pmid": "41042069",
+      "pmcid": "PMC12686577",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12686577"
+        ]
+      },
+      "doi": "10.1111/acel.70254",
+      "title": "Caloric Restriction Reprograms Adipose Tissues in Rhesus Monkeys.",
+      "authorString": "Clark JP, Rhoads TW, McIlwain SJ, Polewski MA, Pavelec DM, Colman RJ, Anderson RM.",
+      "journalTitle": "Aging Cell",
+      "issue": "12",
+      "journalVolume": "24",
+      "pubYear": "2025",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pageInfo": "e70254",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "bioproject",
+          "geo",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-10-03",
+      "firstIndexDate": "2025-10-03"
+    },
+    {
+      "id": "41695773",
+      "source": "MED",
+      "pmid": "41695773",
+      "pmcid": "PMC12900492",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12900492"
+        ]
+      },
+      "doi": "10.3389/fgene.2026.1771707",
+      "title": "Molecular mechanisms underlying the lifespan and healthspan benefits of dietary restriction across species.",
+      "authorString": "Fan J, Xu Y.",
+      "journalTitle": "Front Genet",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-8021",
+      "pageInfo": "1771707",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 5,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-30",
+      "firstIndexDate": "2026-02-16"
+    },
+    {
+      "id": "41559287",
+      "source": "MED",
+      "pmid": "41559287",
+      "pmcid": "PMC12965963",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12965963"
+        ]
+      },
+      "doi": "10.1007/s40120-025-00877-w",
+      "title": "Anti-aging and Anti-inflammatory Dietary Interventions in Multiple Sclerosis: A Narrative Review.",
+      "authorString": "Kabakibo TS, Martinez F, Gledel P, Hogue C, Bémeur C, Larochelle C.",
+      "journalTitle": "Neurol Ther",
+      "issue": "2",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2193-8253; 2193-6536; ",
+      "pageInfo": "497-520",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-20",
+      "firstIndexDate": "2026-01-22"
+    },
+    {
+      "id": "39319380",
+      "source": "MED",
+      "pmid": "39319380",
+      "doi": "10.1242/jeb.246769",
+      "title": "The response of grey mouse lemurs to acute caloric restriction before reproduction supports the 'thrifty female hypothesis'.",
+      "authorString": "Noiret A, Aujard F, Terrien J.",
+      "journalTitle": "J Exp Biol",
+      "issue": "21",
+      "journalVolume": "227",
+      "pubYear": "2024",
+      "journalIssn": "0022-0949; 1477-9145; ",
+      "pageInfo": "jeb246769",
+      "pubType": "research support, non-u.s. gov't; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-10-30",
+      "firstIndexDate": "2024-09-26"
+    },
+    {
+      "id": "42044038",
+      "source": "MED",
+      "pmid": "42044038",
+      "pmcid": "PMC13368364",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13368364"
+        ]
+      },
+      "doi": "10.1210/clinem/dgag181",
+      "title": "Stress-associated testosterone suppression: central adaptation or hypogonadism?",
+      "authorString": "Friedl KE, Nindl BC, Potter AW.",
+      "journalTitle": "J Clin Endocrinol Metab",
+      "issue": "8",
+      "journalVolume": "111",
+      "pubYear": "2026",
+      "journalIssn": "0021-972x; 1945-7197; ",
+      "pageInfo": "e1951-e1960",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-04-27"
+    },
+    {
+      "id": "41988378",
+      "source": "MED",
+      "pmid": "41988378",
+      "pmcid": "PMC13077501",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13077501"
+        ]
+      },
+      "doi": "10.1021/acsptsci.6c00026",
+      "title": "Translational Geroscience Strategies for Delaying Multimorbidity.",
+      "authorString": "Khanal P, Chand J, Patil VS, Singh L, Bhattacharya K.",
+      "journalTitle": "ACS Pharmacol Transl Sci",
+      "issue": "4",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2575-9108",
+      "pageInfo": "839-858",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-16",
+      "firstIndexDate": "2026-04-17"
+    },
+    {
+      "id": "41998865",
+      "source": "MED",
+      "pmid": "41998865",
+      "pmcid": "PMC13090412",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13090412"
+        ]
+      },
+      "doi": "10.1111/jmp.70076",
+      "title": "Estrogen Deprivation During Primate (Papio anubis) Pregnancy: Impact on Systemic Microvascular Flow and Cardiovascular Development and Function After Birth in Offspring.",
+      "authorString": "Turan S, Babischkin JS, Aberdeen GW, Pepe GJ, Albrecht ED.",
+      "journalTitle": "J Med Primatol",
+      "issue": "3",
+      "journalVolume": "55",
+      "pubYear": "2026",
+      "journalIssn": "0047-2565; 1600-0684; ",
+      "pageInfo": "e70076",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-04-18"
+    },
+    {
+      "id": "40474775",
+      "source": "MED",
+      "pmid": "40474775",
+      "pmcid": "PMC12142304",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12142304"
+        ]
+      },
+      "doi": "10.1002/cph4.70020",
+      "title": "Maternal Nutritional Environment and the Development of the Melanocortin System.",
+      "authorString": "Martins MG, Abizaid A.",
+      "journalTitle": "Compr Physiol",
+      "issue": "3",
+      "journalVolume": "15",
+      "pubYear": "2025",
+      "journalIssn": "2040-4603",
+      "pageInfo": "e70020",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-06-01",
+      "firstIndexDate": "2025-06-11"
+    },
+    {
+      "id": "41951103",
+      "source": "MED",
+      "pmid": "41951103",
+      "pmcid": "PMC13172636",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13172636"
+        ]
+      },
+      "doi": "10.3803/enm.2026.2986",
+      "title": "Beyond Weight Loss: Skeletal Considerations in Obesity Treatment.",
+      "authorString": "Kim MJ, Cho YK.",
+      "journalTitle": "Endocrinol Metab (Seoul)",
+      "issue": "2",
+      "journalVolume": "41",
+      "pubYear": "2026",
+      "journalIssn": "2093-596x; 2093-5978; ",
+      "pageInfo": "210-221",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-08",
+      "firstIndexDate": "2026-04-10"
+    },
+    {
+      "id": "40849602",
+      "source": "MED",
+      "pmid": "40849602",
+      "pmcid": "PMC12375061",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12375061"
+        ]
+      },
+      "doi": "10.1038/s41598-025-16749-0",
+      "title": "Manipulating dietary protein and amino acids in the common marmoset Callithrix jacchus impacts circulating metabolites and FGF21 levels.",
+      "authorString": "Fujita Y, Ishibuchi T, Uematsu A, Hayashi T, Obata F.",
+      "journalTitle": "Sci Rep",
+      "issue": "1",
+      "journalVolume": "15",
+      "pubYear": "2025",
+      "journalIssn": "2045-2322",
+      "pageInfo": "31055",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-08-23",
+      "firstIndexDate": "2025-08-24"
+    },
+    {
+      "id": "41096907",
+      "source": "MED",
+      "pmid": "41096907",
+      "pmcid": "PMC12525316",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12525316"
+        ]
+      },
+      "doi": "10.3390/ijms26199643",
+      "title": "Dietary and Pharmacological Modulation of Aging-Related Metabolic Pathways: Molecular Insights, Clinical Evidence, and a Translational Model.",
+      "authorString": "Murillo-Cancho AF, Lozano-Paniagua D, Nievas-Soriano BJ.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "19",
+      "journalVolume": "26",
+      "pubYear": "2025",
+      "journalIssn": "1422-0067",
+      "pageInfo": "9643",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 9,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-10-02",
+      "firstIndexDate": "2025-10-16"
+    },
+    {
+      "id": "42647454",
+      "source": "MED",
+      "pmid": "42647454",
+      "pmcid": "PMC13514029",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13514029"
+        ]
+      },
+      "doi": "10.1371/journal.pone.0355204",
+      "title": "Small vertebrate consumption by capuchin monkeys (Sapajus libidinosus): Insights into the human predatory pattern.",
+      "authorString": "Carvalho S, Spagnoletti N, d'Oliveira Coelho J, Beardmore-Herd M, Mendonça-Furtado O, Verderane M, Prieto J, Cavallaro DI, Izar P, Visalberghi E.",
+      "journalTitle": "PLoS One",
+      "issue": "8",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1932-6203",
+      "pageInfo": "e0355204",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-26",
+      "firstIndexDate": "2026-08-27"
+    },
+    {
+      "id": "42776350",
+      "source": "MED",
+      "pmid": "42776350",
+      "pmcid": "PMC13601120",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13601120"
+        ]
+      },
+      "doi": "10.1007/s13679-026-00763-y",
+      "title": "Beyond Pleasure: Unraveling the Multifaceted Role of Dopamine in Obesity and Metabolic Regulation.",
+      "authorString": "Yang S, Huang Z, Lu W, Wang W, Wu S, Wang Y, Huang L, Chen L, Chen R, Liang F.",
+      "journalTitle": "Curr Obes Rep",
+      "issue": "1",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2162-4968",
+      "pageInfo": "87",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-23",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "41976189",
+      "source": "MED",
+      "pmid": "41976189",
+      "pmcid": "PMC13074460",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13074460"
+        ]
+      },
+      "doi": "10.3390/molecules31071147",
+      "title": "The Molecular Exposome of Visible Age Reversal: From Organ-Skin Axes to Regenerative Aesthetics.",
+      "authorString": "Yamada H.",
+      "journalTitle": "Molecules",
+      "issue": "7",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "1420-3049",
+      "pageInfo": "1147",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-31",
+      "firstIndexDate": "2026-04-14"
+    },
+    {
+      "id": "42274600",
+      "source": "MED",
+      "pmid": "42274600",
+      "pmcid": "PMC13257440",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13257440"
+        ]
+      },
+      "doi": "10.3390/cells15111008",
+      "title": "Metabolic Crosstalk Between Host and Tumor as a Circuit of Resilience in Cancer Therapy.",
+      "authorString": "Wang J, Wu H, Wang T, Nie M.",
+      "journalTitle": "Cells",
+      "issue": "11",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2073-4409",
+      "pageInfo": "1008",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-30",
+      "firstIndexDate": "2026-06-12"
+    },
+    {
+      "id": "41080185",
+      "source": "MED",
+      "pmid": "41080185",
+      "pmcid": "PMC12507597",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12507597"
+        ]
+      },
+      "doi": "10.3389/fnut.2025.1655811",
+      "title": "Animal models for understanding the mechanisms of malnutrition: a literature review.",
+      "authorString": "Shahzad M, Ahmad HA, Ghani M, Al Nabhani Z.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2296-861x",
+      "pageInfo": "1655811",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-09-25",
+      "firstIndexDate": "2025-10-13"
+    },
+    {
+      "id": "41657073",
+      "source": "MED",
+      "pmid": "41657073",
+      "pmcid": "PMC12884218",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12884218"
+        ]
+      },
+      "doi": "10.1002/ajpa.70211",
+      "title": "Minimal Evidence of Inflammaging in Naturalistic Chimpanzee Populations.",
+      "authorString": "Cole MF, Emery Thompson M, Thompson González N, Paskus E, Rukundo J, Atencia R, Rosati AG.",
+      "journalTitle": "Am J Biol Anthropol",
+      "issue": "2",
+      "journalVolume": "189",
+      "pubYear": "2026",
+      "journalIssn": "2692-7691",
+      "pageInfo": "e70211",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-01",
+      "firstIndexDate": "2026-02-10"
+    },
+    {
+      "id": "41204352",
+      "source": "MED",
+      "pmid": "41204352",
+      "pmcid": "PMC12595738",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12595738"
+        ]
+      },
+      "doi": "10.1186/s13293-025-00771-y",
+      "title": "Sexually dimorphic responses in androgen metabolism and signalling in the non-human primate placenta to moderate maternal undernutrition.",
+      "authorString": "Meakin AS, Nathanielsz PW, Li C, Clifton VL, Huber HF, Wiese MD, Morrison JL.",
+      "journalTitle": "Biol Sex Differ",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2025",
+      "journalIssn": "2042-6410",
+      "pageInfo": "93",
+      "pubType": "research-article; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-11-07",
+      "firstIndexDate": "2025-11-09"
+    },
+    {
+      "id": "41471752",
+      "source": "MED",
+      "pmid": "41471752",
+      "pmcid": "PMC12735892",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12735892"
+        ]
+      },
+      "doi": "10.3390/molecules30244728",
+      "title": "From Elixirs to Geroscience: A Historical and Molecular Perspective on Anti-Aging Medicine.",
+      "authorString": "Nicoletti GRP, Mangano K, Nicoletti F, Cavalli E.",
+      "journalTitle": "Molecules",
+      "issue": "24",
+      "journalVolume": "30",
+      "pubYear": "2025",
+      "journalIssn": "1420-3049",
+      "pageInfo": "4728",
+      "pubType": "historical article; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-10",
+      "firstIndexDate": "2026-01-02"
+    },
+    {
+      "id": "42203874",
+      "source": "MED",
+      "pmid": "42203874",
+      "pmcid": "PMC13233323",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13233323"
+        ]
+      },
+      "doi": "10.1038/s41586-026-10542-3",
+      "title": "Universal transcriptomic hallmarks of mammalian ageing and mortality.",
+      "authorString": "Tyshkovskiy A, Kholdina D, Davitadze M, Molière A, Moldakozhayev A, Tongu Y, Kasahara T, Glubokov D, Eames A, Kats LM, Vladimirova A, Ying K, Liu H, Zhang B, Khasanova U, Moqri M, Van Raamsdonk JM, Harrison DE, Strong R, Abe T, Dmitriev SE, Gladyshev VN.",
+      "journalTitle": "Nature",
+      "issue": "8117",
+      "journalVolume": "654",
+      "pubYear": "2026",
+      "journalIssn": "0028-0836; 1476-4687; ",
+      "pageInfo": "173-188",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 21,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "geo",
+          "bioproject",
+          "arrayexpress",
+          "dbgap",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-27",
+      "firstIndexDate": "2026-05-28"
+    },
+    {
+      "id": "42039766",
+      "source": "MED",
+      "pmid": "42039766",
+      "pmcid": "PMC13106888",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13106888"
+        ]
+      },
+      "doi": "10.1002/fsn3.71801",
+      "title": "The Role of Gut Microbiome in Obesity and Weight Management: A Review of Current Evidence and Future Directions.",
+      "authorString": "Rehman A, Ali N, Tariq MR, Ali SW, Mushtaq A, Safdar W, Yusuf AM.",
+      "journalTitle": "Food Sci Nutr",
+      "issue": "4",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2048-7177",
+      "pageInfo": "e71801",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-04-23",
+      "firstIndexDate": "2026-04-27"
+    },
+    {
+      "id": "40829555",
+      "source": "MED",
+      "pmid": "40829555",
+      "pmcid": "PMC12375240",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12375240"
+        ]
+      },
+      "doi": "10.1016/j.jnha.2025.100651",
+      "title": "Effects of caloric restriction and exercise-induced weight loss on physiological dysregulation in postmenopausal women: The mediating role of fat mass and adipose tissue distribution.",
+      "authorString": "Routhier É, Brochu M, Cohen AA, Prudhomme D, Ghachem A.",
+      "journalTitle": "J Nutr Health Aging",
+      "issue": "9",
+      "journalVolume": "29",
+      "pubYear": "2025",
+      "journalIssn": "1760-4788; 1279-7707; ",
+      "pageInfo": "100651",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-08-18",
+      "firstIndexDate": "2025-08-22"
+    },
+    {
+      "id": "39556489",
+      "source": "MED",
+      "pmid": "39556489",
+      "doi": "10.1146/annurev-animal-111523-102354",
+      "title": "The Rhesus Macaque as an Animal Model for Human Nutrition: An Ecological-Evolutionary Perspective.",
+      "authorString": "Cui Z, Dong Y, Sholl J, Lu J, Raubenheimer D.",
+      "journalTitle": "Annu Rev Anim Biosci",
+      "issue": "1",
+      "journalVolume": "13",
+      "pubYear": "2025",
+      "journalIssn": "2165-8102; 2165-8110; ",
+      "pageInfo": "441-464",
+      "pubType": "research support, non-u.s. gov't; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-11-18",
+      "firstIndexDate": "2024-11-18"
+    },
+    {
+      "id": "40488879",
+      "source": "MED",
+      "pmid": "40488879",
+      "pmcid": "PMC12289793",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12289793"
+        ]
+      },
+      "doi": "10.1007/s00360-025-01616-1",
+      "title": "The cold truth: torpor as a confound in studies of caloric restriction.",
+      "authorString": "Wheatley WSR, Marshall CJ, Taddei L, Hitrec T, Pickering AE, Ambler MT.",
+      "journalTitle": "J Comp Physiol B",
+      "issue": "3",
+      "journalVolume": "195",
+      "pubYear": "2025",
+      "journalIssn": "0174-1578; 1432-136x; ",
+      "pageInfo": "263-276",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 7,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-06-09",
+      "firstIndexDate": "2025-06-12"
+    },
+    {
+      "id": "39604627",
+      "source": "MED",
+      "pmid": "39604627",
+      "pmcid": "PMC11872957",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11872957"
+        ]
+      },
+      "doi": "10.1007/s11357-024-01431-6",
+      "title": "Dysregulation of astrocytic Aquaporin-1 in the brains of oldest-old rhesus macaques: the NIA caloric restriction study.",
+      "authorString": "Stayer-Wilburn O, Brown DI, Woltjer RL, Srinivasan S, Park BS, Shultz P, Vitantonio A, Dimovasili C, Vaughan KL, Starost MF, Rosene D, Mattison JA, Urbanski HF, Kohama SG.",
+      "journalTitle": "Geroscience",
+      "issue": "1",
+      "journalVolume": "47",
+      "pubYear": "2025",
+      "journalIssn": "2509-2715; 2509-2723; ",
+      "pageInfo": "781-793",
+      "pubType": "research support, n.i.h., intramural; research-article; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-11-28",
+      "firstIndexDate": "2024-11-28"
+    },
+    {
+      "id": "38569326",
+      "source": "MED",
+      "pmid": "38569326",
+      "doi": "10.1016/j.jtherbio.2024.103829",
+      "title": "Sex-specific heterothermy patterns in wintering captive Microcebus murinus do not translate into differences in energy balance.",
+      "authorString": "Noiret A, Karanewsky C, Aujard F, Terrien J.",
+      "journalTitle": "J Therm Biol",
+      "journalVolume": "121",
+      "pubYear": "2024",
+      "journalIssn": "0306-4565",
+      "pageInfo": "103829",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-03-27",
+      "firstIndexDate": "2024-04-04"
+    },
+    {
+      "id": "40574888",
+      "source": "MED",
+      "pmid": "40574888",
+      "pmcid": "PMC12202095",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12202095"
+        ]
+      },
+      "doi": "10.1093/emph/eoaf010",
+      "title": "An evolutionary medicine and life history perspective on aging and disease: Trade-offs, hyperfunction, and mismatch.",
+      "authorString": "Aronoff JE, Trumble BC.",
+      "journalTitle": "Evol Med Public Health",
+      "issue": "1",
+      "journalVolume": "13",
+      "pubYear": "2025",
+      "journalIssn": "2050-6201",
+      "pageInfo": "111-124",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 9,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-05-15",
+      "firstIndexDate": "2025-06-28"
+    },
+    {
+      "id": "42475006",
+      "source": "MED",
+      "pmid": "42475006",
+      "pmcid": "PMC13390780",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13390780"
+        ]
+      },
+      "doi": "10.1037/rev0000643",
+      "title": "Famine, plague, and slaughters: The fleeing famine hypothesis of anorexia nervosa reconsidered.",
+      "authorString": "Udupa NS, Velimirović M, Robison M, Duffy ME, Joiner TE.",
+      "journalTitle": "Psychol Rev",
+      "pubYear": "2026",
+      "journalIssn": "0033-295x; 1939-1471; ",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-20",
+      "firstIndexDate": "2026-07-21"
+    },
+    {
+      "id": "PMC13299945",
+      "source": "PMC",
+      "pmcid": "PMC13299945",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13299945"
+        ]
+      },
+      "title": "A Healthy Lifestyle Can Slow Immune System Aging and Reduce Age-Related Chronic Inflammation: A Narrative Review",
+      "authorString": "Cąkała-Jakimowicz M, Domaszewska-Szostek A, Puzianowska-Kuźnicka M.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "12",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-06-26"
+    },
+    {
+      "id": "40360507",
+      "source": "MED",
+      "pmid": "40360507",
+      "pmcid": "PMC12075787",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12075787"
+        ]
+      },
+      "doi": "10.1038/s41467-025-59485-9",
+      "title": "GDF8 and activin A blockade protects against GLP-1-induced muscle loss while enhancing fat loss in obese male mice and non-human primates.",
+      "authorString": "Mastaitis JW, Gomez D, Raya JG, Li D, Min S, Stec M, Kleiner S, McWilliams T, Altarejos JY, Murphy AJ, Yancopoulos GD, Sleeman MW.",
+      "journalTitle": "Nat Commun",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2025",
+      "journalIssn": "2041-1723",
+      "pageInfo": "4377",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 53,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-05-13",
+      "firstIndexDate": "2025-05-21"
+    },
+    {
+      "id": "41217600",
+      "source": "MED",
+      "pmid": "41217600",
+      "pmcid": "PMC12605627",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12605627"
+        ]
+      },
+      "doi": "10.1007/s10522-025-10336-6",
+      "title": "miRNA changes with ageing and caloric restriction in male rat skeletal muscle: potential roles in muscle cell function.",
+      "authorString": "Altab G, Merry BJ, Beckett CW, Raina P, Soriano-Arroquia A, Zhang B, Vasilaki A, Goljanek-Whysall K, de Magalhães JP.",
+      "journalTitle": "Biogerontology",
+      "issue": "6",
+      "journalVolume": "26",
+      "pubYear": "2025",
+      "journalIssn": "1389-5729; 1573-6768; ",
+      "pageInfo": "202",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "Y",
+      "dbCrossReferenceList": {
+        "dbName": [
+          "EMBL"
+        ]
+      },
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-11",
+      "firstIndexDate": "2025-11-11"
+    },
+    {
+      "id": "40841512",
+      "source": "MED",
+      "pmid": "40841512",
+      "pmcid": "PMC12371100",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12371100"
+        ]
+      },
+      "doi": "10.1038/s41419-025-07958-6",
+      "title": "Rewriting destiny-gene-hacked stem cells ignite a revolution against aging.",
+      "authorString": "Lin L, Xue Q, Melino G, Shi Y.",
+      "journalTitle": "Cell Death Dis",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2025",
+      "journalIssn": "2041-4889",
+      "pageInfo": "635",
+      "pubType": "brief-report; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-08-21",
+      "firstIndexDate": "2025-08-23"
+    },
+    {
+      "id": "38481969",
+      "source": "MED",
+      "pmid": "38481969",
+      "pmcid": "PMC10936542",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC10936542"
+        ]
+      },
+      "doi": "10.3389/fnut.2024.1363181",
+      "title": "Requirements for essential micronutrients during caloric restriction and fasting.",
+      "authorString": "Zhang W, Chen P, Huo S, Huang X, Zhao Y.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "11",
+      "pubYear": "2024",
+      "journalIssn": "2296-861x",
+      "pageInfo": "1363181",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 12,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-02-28",
+      "firstIndexDate": "2024-03-14"
+    },
+    {
+      "id": "42650774",
+      "source": "MED",
+      "pmid": "42650774",
+      "pmcid": "PMC13511549",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13511549"
+        ]
+      },
+      "doi": "10.3390/biom16081106",
+      "title": "Mitochondrial Dysfunction: A Critical Link Between Maternal Diet and Offspring Metabolic Health.",
+      "authorString": "Shao C, Lin H, Yu J, Chen H, Ren Y, Ren J, Zeng Y, Wu Y, Zhang Q, Xiao X.",
+      "journalTitle": "Biomolecules",
+      "issue": "8",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2218-273x",
+      "pageInfo": "1106",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-29",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42769983",
+      "source": "MED",
+      "pmid": "42769983",
+      "pmcid": "PMC13591641",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13591641"
+        ]
+      },
+      "doi": "10.1093/lifemeta/loag023",
+      "title": "Lithocholic acid alleviates fatty liver in mice and non-human primate macaques.",
+      "authorString": "Qu Q, Chen Y, Shen G, Huang X, Li FH, Wang X, Zhang C, Wei Z, Xie L, Wu J, Yang J, Xu Q, Xu N, Xu W, Chen S, Qi J, Zhang CS, Lin SC.",
+      "journalTitle": "Life Metab",
+      "issue": "6",
+      "journalVolume": "5",
+      "pubYear": "2026",
+      "journalIssn": "2755-0230",
+      "pageInfo": "loag023",
+      "pubType": "letter",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-23",
+      "firstIndexDate": "2026-09-23"
+    },
+    {
+      "id": "42672919",
+      "source": "MED",
+      "pmid": "42672919",
+      "pmcid": "PMC13674207",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13674207"
+        ]
+      },
+      "doi": "10.1113/jp291758",
+      "title": "Maternal protein restriction programs the ageing kidney: Proteomic signatures of early-life origin renal and metabolic dysfunction.",
+      "authorString": "Pires MP, Fioretto MN, Ferreira MR, Ribeiro IT, Barata LA, Maciel FA, Lemos LS, Mattos R, Portela LMF, Souza PV, Gomes LC, Cordeiro GM, Scarano WR, Boer PA, Gontijo JAR, Justulin LA.",
+      "journalTitle": "J Physiol",
+      "issue": "20",
+      "journalVolume": "604",
+      "pubYear": "2026",
+      "journalIssn": "0022-3751; 1469-7793; ",
+      "pageInfo": "8636-8661",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-31",
+      "firstIndexDate": "2026-09-01"
+    },
+    {
+      "id": "40097041",
+      "source": "MED",
+      "pmid": "40097041",
+      "pmcid": "PMC11998122",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11998122"
+        ]
+      },
+      "doi": "10.1016/j.peptides.2025.171391",
+      "title": "Adropin: A cardio-metabolic hormone in the periphery, a neurohormone in the brain?",
+      "authorString": "Butler AA, Havel PJ.",
+      "journalTitle": "Peptides",
+      "journalVolume": "187",
+      "pubYear": "2025",
+      "journalIssn": "0079-0753; 1873-5169; 0196-9781; ",
+      "pageInfo": "171391",
+      "pubType": "research-article; review; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-03-15",
+      "firstIndexDate": "2025-03-18"
+    }
+  ]
+}

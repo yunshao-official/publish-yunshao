@@ -1,0 +1,9 @@
+{
+  "query_id": "A1",
+  "group": "A",
+  "query": "digoxin AND heart failure AND PUBTYPE:\"Clinical Trial\"",
+  "hitCount": 0,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:27:43.331560+00:00",
+  "results": []
+}

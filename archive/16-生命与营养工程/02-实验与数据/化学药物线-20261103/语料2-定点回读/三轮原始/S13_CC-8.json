@@ -1,0 +1,1 @@
+{"version": "6.9", "hitCount": 0, "request": {"queryString": "ABSTRACT:\"senolytic\" AND (ABSTRACT:\"clearance\" OR ABSTRACT:\"dasatinib\") AND (ABSTRACT:\"old\" OR ABSTRACT:\"aged\") AND ABSTRACT:\"healthspan\"", "resultType": "core", "cursorMark": "*", "pageSize": 25, "sort": "", "synonym": false}, "resultList": {"result": []}}

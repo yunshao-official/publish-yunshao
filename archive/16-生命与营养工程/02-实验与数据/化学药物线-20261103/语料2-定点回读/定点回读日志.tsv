@@ -1,0 +1,31 @@
+编号	判据	回读检索式	执行UTC	HTTP	hitCount	取回	保存文件
+T01	CC-2	TITLE:"Effects of oral milrinone on mortality in severe chronic heart failure"	2026-11-03T04:36:31Z	200	0	0	T01_CC-2.json
+T02	CC-2	TITLE:"The effect of digoxin on mortality and morbidity in patients with heart failure"	2026-11-03T04:36:31Z	200	1	1	T02_CC-2.json
+T03	CC-2	TITLE:"A trial of the beta-blocker bisoprolol in patients with chronic cardiac failure"	2026-11-03T04:36:31Z	200	0	0	T03_CC-2.json
+T04	CC-2	TITLE:"Effect of metoprolol CR/XL in chronic heart failure: Randomised Intervention Assessment Study"	2026-11-03T04:36:31Z	200	0	0	T04_CC-2.json
+T05	CC-2	TITLE:"Effect of carvedilol on the morbidity of patients with severe chronic heart failure"	2026-11-03T04:36:31Z	200	1	1	T05_CC-2.json
+T06	CC-2	TITLE:"Ivabradine, heart rate, and heart failure"	2026-11-03T04:36:31Z	200	0	0	T06_CC-2.json
+T07	CC-3	TITLE:"Effects of ivabradine in patients with chronic systolic heart failure, in atrial fibrillation and with or without beta-blockers"	2026-11-03T04:36:31Z	200	0	0	T07_CC-3.json
+T08	CC-3	TITLE:"SHIFT Investigators" AND ivabradine	2026-11-03T04:36:31Z	200	0	0	T08_CC-3.json
+T09	CC-2	TITLE:"Xanamivir" OR (TITLE:"levosimendan" AND TITLE:"mortality")	2026-11-03T04:36:31Z	200	42	4	T09_CC-2.json
+T10	CC-2	TITLE:"omecamtiv mecarbil" AND TITLE:"GALACTIC-HF"	2026-11-03T04:36:31Z	200	16	4	T10_CC-2.json
+T11	CC-2	TITLE:"Enoximone" AND TITLE:"mortality" AND TITLE:"heart failure"	2026-11-03T04:36:31Z	200	1	1	T11_CC-2.json
+T12	CC-5	("myocardial external efficiency" OR "myocardial efficiency") AND (ABSTRACT:"%")	2026-11-03T04:36:31Z	200	1145	4	T12_CC-5.json
+T13	CC-5	"cardiac power output" AND (ABSTRACT:"W" OR ABSTRACT:"watts")	2026-11-03T04:36:31Z	200	108	4	T13_CC-5.json
+T14	CC-4	TITLE:"Cardiomyocyte renewal in humans"	2026-11-03T04:36:31Z	200	3	3	T14_CC-4.json
+T15	CC-4	cardiomyocyte AND turnover AND (ABSTRACT:"% per year" OR ABSTRACT:"annual" OR ABSTRACT:"age")	2026-11-03T04:36:31Z	200	707	4	T15_CC-4.json
+T16	CC-1	"action spectrum" AND "cytochrome c oxidase"	2026-11-03T04:36:31Z	200	123	4	T16_CC-1.json
+T17	CC-1	(photobiomodulation OR "near infrared") AND (ABSTRACT:"730" OR ABSTRACT:"740" OR ABSTRACT:"760") AND mitochondria	2026-11-03T04:36:31Z	200	80	4	T17_CC-1.json
+T18	CC-1	(photobiomodulation OR "laser irradiation") AND (ABSTRACT:"960" OR ABSTRACT:"970" OR ABSTRACT:"980") AND (ABSTRACT:"nm")	2026-11-03T04:36:31Z	200	703	4	T18_CC-1.json
+T19	CC-1	"optical window" AND tissue AND (ABSTRACT:"650" OR ABSTRACT:"900" OR ABSTRACT:"1350") AND (ABSTRACT:"nm")	2026-11-03T04:36:31Z	200	82	4	T19_CC-1.json
+T20	CC-10	TITLE:"The Effect of Rapamycin on Gait and Activity in the Dog Aging Project" OR (rapamycin AND dogs AND randomized AND aging)	2026-11-03T04:36:31Z	200	578	4	T20_CC-10.json
+T21	CC-10	(caloric restriction AND rhesus AND survival AND (ABSTRACT:"no") )	2026-11-03T04:36:31Z	200	977	4	T21_CC-10.json
+T22	CC-10	TITLE:"Caloric restriction does not improve survival in rhesus monkeys" OR ("Rhesus monkey studies" AND caloric restriction)	2026-11-03T04:36:31Z	200	13	4	T22_CC-10.json
+T23	CC-10	TITLE:"Rapamycin fed late in life extends lifespan in genetically heterogeneous mice"	2026-11-03T04:36:31Z	200	1	1	T23_CC-10.json
+T24	CC-9	(rapamycin OR "tor1" OR autophagy) AND lifespan AND (ABSTRACT:"required" OR ABSTRACT:"blocked") AND (ABSTRACT:"autophagy")	2026-11-03T04:36:31Z	200	458	4	T24_CC-9.json
+T25	CC-8	senolytic AND (ABSTRACT:"aged" OR ABSTRACT:"old") AND (ABSTRACT:"young") AND lifespan	2026-11-03T04:36:31Z	200	91	4	T25_CC-8.json
+T26	CC-7	(hypometabolism OR torpor) AND (ABSTRACT:"lifespan" OR ABSTRACT:"longevity")	2026-11-03T04:36:31Z	200	280	4	T26_CC-7.json
+T27	CC-12	(NMN OR "nicotinamide mononucleotide") AND randomized AND (ABSTRACT:"no significant" OR ABSTRACT:"did not")	2026-11-03T04:36:31Z	200	308	4	T27_CC-12.json
+T28	CC-12	aducanumab AND (ABSTRACT:"withdrawn" OR ABSTRACT:"accelerated approval")	2026-11-03T04:36:31Z	200	84	4	T28_CC-12.json
+T29	CC-3	"resting heart rate" AND (ABSTRACT:"mortality") AND (ABSTRACT:"hazard" OR ABSTRACT:"risk") AND general population	2026-11-03T04:36:31Z	200	927	4	T29_CC-3.json
+T30	CC-4	"mitochondrial" AND turnover AND (ABSTRACT:"myocardium" OR ABSTRACT:"cardiac") AND (ABSTRACT:"half-life" OR ABSTRACT:"turnover rate")	2026-11-03T04:36:31Z	200	31	4	T30_CC-4.json

@@ -1,0 +1,1822 @@
+{
+  "query_id": "B8",
+  "group": "B",
+  "query": "(glycine AND N-acetylcysteine) OR GlyNAC",
+  "hitCount": 6544,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:15.795100+00:00",
+  "results": [
+    {
+      "id": "42220095",
+      "source": "MED",
+      "pmid": "42220095",
+      "pmcid": "PMC13239810",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13239810"
+        ]
+      },
+      "doi": "10.1002/prp2.70273",
+      "title": "Morphological and Biochemical Insights Into the Renoprotective Effects of Combined N-Acetylcysteine and Glycine Treatment in Experimental Diabetic Nephropathy.",
+      "authorString": "Ejubović M, Belančić A, Lam YW, Javid F, Kapić D, Ćosović E, Jahić R, Lepara O, Ejubović AJ, Alić L, Topuz A, Ajanović Z, Fajkić A.",
+      "journalTitle": "Pharmacol Res Perspect",
+      "issue": "3",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2052-1707",
+      "pageInfo": "e70273",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-06-02"
+    },
+    {
+      "id": "42232577",
+      "source": "MED",
+      "pmid": "42232577",
+      "pmcid": "PMC13223053",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13223053"
+        ]
+      },
+      "doi": "10.3389/fnut.2026.1775264",
+      "title": "Glycine and N-acetylcysteine supplementation, with or without exercise, in brain health and functional aging: implications for sarcopenia and frailty in older adults.",
+      "authorString": "Wang X, Hou R, Chen Z, Wang X, Wang H.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2296-861x",
+      "pageInfo": "1775264",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-18",
+      "firstIndexDate": "2026-06-03"
+    },
+    {
+      "id": "42451135",
+      "source": "MED",
+      "pmid": "42451135",
+      "pmcid": "PMC13363415",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13363415"
+        ]
+      },
+      "doi": "10.3390/nu18132132",
+      "title": "Efficacy and Safety of Glutathione Supplementation in Type 2 Diabetes &amp; Diabetes Complications.",
+      "authorString": "Au S, Dawi J, Affa S, Misakyan Y, Gonzalez E, Chorbajian A, Hammi M, Dave P, Qumsieh K, Venketaraman V.",
+      "journalTitle": "Nutrients",
+      "issue": "13",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2132",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "41980553",
+      "source": "MED",
+      "pmid": "41980553",
+      "pmcid": "PMC13092076",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13092076"
+        ]
+      },
+      "doi": "10.1016/j.psj.2026.106910",
+      "title": "Effect of heat stress and GlyNAC supplementation on jejunal morphology, hepatic inflammation infiltration and distribution of GSH content in chickens.",
+      "authorString": "Wang C, Jin L, Jia Z, Ma T, Wei Q, Li Y.",
+      "journalTitle": "Poult Sci",
+      "issue": "7",
+      "journalVolume": "105",
+      "pubYear": "2026",
+      "journalIssn": "0032-5791; 1525-3171; ",
+      "pageInfo": "106910",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-04-08",
+      "firstIndexDate": "2026-04-15"
+    },
+    {
+      "id": "42654282",
+      "source": "MED",
+      "pmid": "42654282",
+      "pmcid": "PMC13517046",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13517046"
+        ]
+      },
+      "doi": "10.3390/nu18162702",
+      "title": "Micronutrition as a Therapeutic Strategy for Mitochondrial Dysfunction in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Fibromyalgia: A Narrative Review.",
+      "authorString": "Abanades S, Fernández I, Capdevila N, Cardona F.",
+      "journalTitle": "Nutrients",
+      "issue": "16",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2702",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-19",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42924826",
+      "source": "MED",
+      "pmid": "42924826",
+      "pmcid": "PMC13692483",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13692483"
+        ]
+      },
+      "doi": "10.3390/pathophysiology33040075",
+      "title": "Effects of N-Acetylcysteine and Glycine Administration on Serum Levels of Soluble Suppressor of Tumorigenicity 2 and Cardiac Morphological Characteristics in an Animal Model of Streptozotocin-Induced Diabetes.",
+      "authorString": "Ejubović M, Jadrić R, Hasić S, Kiseljaković E, Alić L, Ćosović E, Kapić D, Lepara O, Ejubović AJ, Fajkić A.",
+      "journalTitle": "Pathophysiology",
+      "issue": "4",
+      "journalVolume": "33",
+      "pubYear": "2026",
+      "journalIssn": "0928-4680; 1873-149x; ",
+      "pageInfo": "75",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-07",
+      "firstIndexDate": "2026-10-25"
+    },
+    {
+      "id": "42234350",
+      "source": "MED",
+      "pmid": "42234350",
+      "pmcid": "PMC13233893",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13233893"
+        ]
+      },
+      "doi": "10.1007/s13668-026-00776-y",
+      "title": "Targeted Supplementation and Nutritional Strategies for Healthy Aging: A Review of Physiological and Molecular Benefits.",
+      "authorString": "Kurtz JA, Singleton KM, Vasenina E, Jäger R, Gonzalez D, Schwarz A, Howard J, Antonio J.",
+      "journalTitle": "Curr Nutr Rep",
+      "issue": "1",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2161-3311",
+      "pageInfo": "53",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-03",
+      "firstIndexDate": "2026-06-03"
+    },
+    {
+      "id": "42197099",
+      "source": "MED",
+      "pmid": "42197099",
+      "pmcid": "PMC13209742",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13209742"
+        ]
+      },
+      "doi": "10.3390/nu18101640",
+      "title": "Glutathione in Our Diet and Its Role in the Body: From Disease Prevention to Anti-Aging.",
+      "authorString": "Bradauskienė V, Moščenkova E, Šniepienė G, Kubiliūtė R, Vaičiulytė L.",
+      "journalTitle": "Nutrients",
+      "issue": "10",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "1640",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-21",
+      "firstIndexDate": "2026-05-28"
+    },
+    {
+      "id": "42653505",
+      "source": "MED",
+      "pmid": "42653505",
+      "pmcid": "PMC13513660",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13513660"
+        ]
+      },
+      "doi": "10.3390/ijms27167507",
+      "title": "Glutathione Biology in Neurodegenerative and Metabolic Diseases: Molecular Mechanisms, Pathophysiological Roles, and Therapeutic Perspectives.",
+      "authorString": "Gromadzka G, Kąkol M, Klimkiewicz M, Bendykowska M.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "16",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "7507",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-21",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "41754089",
+      "source": "MED",
+      "pmid": "41754089",
+      "pmcid": "PMC12943115",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12943115"
+        ]
+      },
+      "doi": "10.3390/nu18040571",
+      "title": "Efficacy and Safety of Glutathione Supplementation in Patients with HIV Infection and HIV-Tuberculosis Co-Infection.",
+      "authorString": "Dawi J, Affa S, Au S, Misakyan Y, Gonzalez E, Chorbajian A, Hammi M, Dave P, Qumsieh K, Venketaraman V.",
+      "journalTitle": "Nutrients",
+      "issue": "4",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "571",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-02-09",
+      "firstIndexDate": "2026-02-27"
+    },
+    {
+      "id": "PMC11688995",
+      "source": "PMC",
+      "pmcid": "PMC11688995",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11688995"
+        ]
+      },
+      "title": "BRAIN GLUTATHIONE, MITOCHONDRIA, GLUCOSE METABOLISM, AND COGNITION IN AGED MICE: IMPACT OF GLYNAC SUPPLEMENTATION",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "129-129",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "PMC11688924",
+      "source": "PMC",
+      "pmcid": "PMC11688924",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11688924"
+        ]
+      },
+      "title": "GLYNAC SUPPLEMENTATION LOWERS POSTPRANDIAL INFLAMMATION AND OXIDATIVE STRESS TO PROMOTE HEALTH IN OLDER HUMANS",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "129-129",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "PMC11454801",
+      "source": "PMC",
+      "pmcid": "PMC11454801",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11454801"
+        ]
+      },
+      "title": "7447 Rare KSR2 Variants: The Effect of Glycine and N-acetylcysteine (GlyNAC) Supplementation",
+      "journalTitle": "J Endocr Soc",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2472-1972",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-10-05",
+      "firstIndexDate": "2024-10-29"
+    },
+    {
+      "id": "PMC11689385",
+      "source": "PMC",
+      "pmcid": "PMC11689385",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11689385"
+        ]
+      },
+      "title": "IMPROVING GLUTATHIONE, MITOCHONDRIA, INFLAMMATION, AND COGNITIVE DECLINE: A PILOT CLINICAL TRIAL OF GLYNAC IN AGING",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "250-250",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "PMC11689086",
+      "source": "PMC",
+      "pmcid": "PMC11689086",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11689086"
+        ]
+      },
+      "title": "BRAIN GLUTATHIONE, MITOCHONDRIA, GLUCOSE METABOLISM, AND COGNITION IN AGED MICE: IMPACT OF GLYNAC SUPPLEMENTATION",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "250-250",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "PMC11689771",
+      "source": "PMC",
+      "pmcid": "PMC11689771",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11689771"
+        ]
+      },
+      "title": "GLYNAC SUPPLEMENTATION IN OLDER ADULTS IMPROVES GLUTATHIONE, MITOCHONDRIA, AGING HALLMARKS, AND FUNCTION",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "203-203",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "PMC11689570",
+      "source": "PMC",
+      "pmcid": "PMC11689570",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11689570"
+        ]
+      },
+      "title": "GLUTATHIONE DEFICIENCY AS A NOVEL RISK FACTOR FOR ALZHEIMER’S DISEASE: IMPLICATIONS FOR GLYNAC SUPPLEMENTATION",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "251-251",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "PMC11689849",
+      "source": "PMC",
+      "pmcid": "PMC11689849",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11689849"
+        ]
+      },
+      "title": "JGMS EDITOR’S CHOICE ARTICLES OF 2023: RISK AND RECOVERY OF FUNCTIONAL DECLINE AND FRAILTY",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "202-202",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "41953516",
+      "source": "MED",
+      "pmid": "41953516",
+      "pmcid": "PMC13055913",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13055913"
+        ]
+      },
+      "doi": "10.1039/d5md01173f",
+      "title": "Redefining the role of the thiol-based agent &lt;i&gt;N&lt;/i&gt;-acetylcysteine in human health and disease and elucidating potential advantages of its amide derivative.",
+      "authorString": "Qu HQ, Kao C, Hakonarson H.",
+      "journalTitle": "RSC Med Chem",
+      "issue": "5",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2632-8682",
+      "pageInfo": "2183-2196",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "eudract",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-01",
+      "firstIndexDate": "2026-04-10"
+    },
+    {
+      "id": "PMC11689556",
+      "source": "PMC",
+      "pmcid": "PMC11689556",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11689556"
+        ]
+      },
+      "title": "GLYNAC AND THE AGING MOUSE HEART: SEX-RELATED DIFFERENCES AND OUTCOMES",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "128-129",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "39742223",
+      "source": "MED",
+      "pmid": "39742223",
+      "pmcid": "PMC11683719",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11683719"
+        ]
+      },
+      "doi": "10.31083/j.rcm2512460",
+      "title": "Functional Foods and Nutraceuticals for the Management of Cardiovascular Disease Risk in Postmenopausal Women.",
+      "authorString": "Meegaswatte H, Speer K, McKune AJ, Naumovski N.",
+      "journalTitle": "Rev Cardiovasc Med",
+      "issue": "12",
+      "journalVolume": "25",
+      "pubYear": "2024",
+      "journalIssn": "1530-6550",
+      "pageInfo": "460",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 5,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2024-12-25",
+      "firstIndexDate": "2025-01-02"
+    },
+    {
+      "id": "41093311",
+      "source": "MED",
+      "pmid": "41093311",
+      "pmcid": "PMC12530991",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12530991"
+        ]
+      },
+      "doi": "10.20463/pan.2025.0026",
+      "title": "Effects of Amino Acid Supplementation on Muscle protein metabolism and adaptation: a narrative review of effects on muscle mass, strength, and sex differences.",
+      "authorString": "Noh KW, Park S.",
+      "journalTitle": "Phys Act Nutr",
+      "issue": "3",
+      "journalVolume": "29",
+      "pubYear": "2025",
+      "journalIssn": "2733-7545",
+      "pageInfo": "53-63",
+      "pubType": "review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-09-30",
+      "firstIndexDate": "2025-10-16"
+    },
+    {
+      "id": "PMC11689603",
+      "source": "PMC",
+      "pmcid": "PMC11689603",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11689603"
+        ]
+      },
+      "title": "THE ASSOCIATION OF PERIPHERAL AND CENTRAL OLFACTION WITH FRAILTY IN OLDER ADULTS",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "202-203",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "39492659",
+      "source": "MED",
+      "pmid": "39492659",
+      "pmcid": "PMC11788829",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11788829"
+        ]
+      },
+      "doi": "10.1093/gerona/glae258",
+      "title": "Sex Differences in Response to Diet Enriched With Glutathione Precursors in the Aging Heart.",
+      "authorString": "Angelini A, Garcia Marquez G, Malovannaya A, Fiorotto ML, Saltzman A, Jain A, Trial J, Taffet GE, Cieslik KA.",
+      "journalTitle": "J Gerontol A Biol Sci Med Sci",
+      "issue": "2",
+      "journalVolume": "80",
+      "pubYear": "2025",
+      "journalIssn": "1079-5006; 1758-535x; ",
+      "pageInfo": "glae258",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "Y",
+      "dbCrossReferenceList": {
+        "dbName": [
+          "PRIDE"
+        ]
+      },
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "pxd",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-01-01",
+      "firstIndexDate": "2024-11-05"
+    },
+    {
+      "id": "PMC11689265",
+      "source": "PMC",
+      "pmcid": "PMC11689265",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11689265"
+        ]
+      },
+      "title": "MORE THAN JUST A RIDE: TRANSPORTATION PROGRAMS TO MEET THE NEEDS OF OLDER ADULTS IN RURAL COMMUNITIES",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "129-130",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "42156484",
+      "source": "MED",
+      "pmid": "42156484",
+      "pmcid": "PMC13187136",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13187136"
+        ]
+      },
+      "doi": "10.1038/s41598-026-52735-w",
+      "title": "Combining glycine with thymoquinone offers a promising strategy for diabetes treatment.",
+      "authorString": "Bash NN, Saad EA, El-Sayed IH, Radwan KH.",
+      "journalTitle": "Sci Rep",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2045-2322",
+      "pageInfo": "15504",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-19",
+      "firstIndexDate": "2026-05-21"
+    },
+    {
+      "id": "PMC11689480",
+      "source": "PMC",
+      "pmcid": "PMC11689480",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11689480"
+        ]
+      },
+      "title": "PERIPHERAL BLOOD CELL MITOCHONDRIAL FUNCTIONS ARE ASSOCIATED WITH COGNITIVE PERFORMANCE AND ALZHEIMER’S DISEASE",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "249-250",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "37975960",
+      "source": "MED",
+      "pmid": "37975960",
+      "pmcid": "PMC11074018",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11074018"
+        ]
+      },
+      "doi": "10.1007/s10753-023-01929-9",
+      "title": "The Effect of Glycine and N-Acetylcysteine on Oxidative Stress in the Spinal Cord and Skeletal Muscle After Spinal Cord Injury.",
+      "authorString": "Xu X, Zhang CJ, Talifu Z, Liu WB, Li ZH, Wang XX, Du HY, Ke H, Yang DG, Gao F, Du LJ, Yu Y, Jing YL, Li JJ.",
+      "journalTitle": "Inflammation",
+      "issue": "2",
+      "journalVolume": "47",
+      "pubYear": "2024",
+      "journalIssn": "0360-3997; 1573-2576; ",
+      "pageInfo": "557-571",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 9,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2023-11-17",
+      "firstIndexDate": "2023-11-19"
+    },
+    {
+      "id": "PMC11689144",
+      "source": "PMC",
+      "pmcid": "PMC11689144",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11689144"
+        ]
+      },
+      "title": "MITOCHONDRIAL ENERGETICS IN SKELETAL MUSCLE ARE ASSOCIATED WITH LEG POWER AND CARDIORESPIRATORY FITNESS IN SOMMA",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "203-203",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "39060742",
+      "source": "MED",
+      "pmid": "39060742",
+      "pmcid": "PMC11393155",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11393155"
+        ]
+      },
+      "doi": "10.1007/s40279-024-02072-7",
+      "title": "Mitochondria as Nutritional Targets to Maintain Muscle Health and Physical Function During Ageing.",
+      "authorString": "Broome SC, Whitfield J, Karagounis LG, Hawley JA.",
+      "journalTitle": "Sports Med",
+      "issue": "9",
+      "journalVolume": "54",
+      "pubYear": "2024",
+      "journalIssn": "0112-1642; 1179-2035; ",
+      "pageInfo": "2291-2309",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 25,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2024-07-26",
+      "firstIndexDate": "2024-07-28"
+    },
+    {
+      "id": "42186383",
+      "source": "MED",
+      "pmid": "42186383",
+      "doi": "10.1097/mco.0000000000001240",
+      "title": "Glutathione precursors: a new opportunity for dietary interventions in obesity and metabolic health?",
+      "authorString": "Draganidis D, Rosvoglou A, Fatouros IG, Jamurtas AZ.",
+      "journalTitle": "Curr Opin Clin Nutr Metab Care",
+      "issue": "4",
+      "journalVolume": "29",
+      "pubYear": "2026",
+      "journalIssn": "1363-1950; 1473-6519; ",
+      "pageInfo": "371-376",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-04",
+      "firstIndexDate": "2026-05-26"
+    },
+    {
+      "id": "40427426",
+      "source": "MED",
+      "pmid": "40427426",
+      "pmcid": "PMC12108522",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12108522"
+        ]
+      },
+      "doi": "10.3390/antiox14050544",
+      "title": "RNA-DNA Differences: Mechanisms, Oxidative Stress, Transcriptional Fidelity, and Health Implications.",
+      "authorString": "Stolc V, Preto O, Karhanek M, Freund F, Griko Y, Loftus DJ, Ohayon MM.",
+      "journalTitle": "Antioxidants (Basel)",
+      "issue": "5",
+      "journalVolume": "14",
+      "pubYear": "2025",
+      "journalIssn": "2076-3921",
+      "pageInfo": "544",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 11,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "refsnp",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-04-30",
+      "firstIndexDate": "2025-05-28"
+    },
+    {
+      "id": "41149623",
+      "source": "MED",
+      "pmid": "41149623",
+      "pmcid": "PMC12566164",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12566164"
+        ]
+      },
+      "doi": "10.3390/metabo15100645",
+      "title": "Targeting Metabolic Dysregulation in Obesity and Metabolic Syndrome: The Emerging Role of N-Acetylcysteine.",
+      "authorString": "Radomska-Leśniewska DM, Niderla-Bielińska J, Kujawa M, Jankowska-Steifer E.",
+      "journalTitle": "Metabolites",
+      "issue": "10",
+      "journalVolume": "15",
+      "pubYear": "2025",
+      "journalIssn": "2218-1989",
+      "pageInfo": "645",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-09-26",
+      "firstIndexDate": "2025-10-28"
+    },
+    {
+      "id": "37960231",
+      "source": "MED",
+      "pmid": "37960231",
+      "pmcid": "PMC10649910",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC10649910"
+        ]
+      },
+      "doi": "10.3390/nu15214578",
+      "title": "Glycine and N-Acetylcysteine (GlyNAC) Combined with Body Weight Support Treadmill Training Improved Spinal Cord and Skeletal Muscle Structure and Function in Rats with Spinal Cord Injury.",
+      "authorString": "Xu X, Du HY, Talifu Z, Zhang CJ, Li ZH, Liu WB, Liang YX, Xu XL, Zhang JM, Yang DG, Gao F, Du LJ, Yu Y, Jing YL, Li JJ.",
+      "journalTitle": "Nutrients",
+      "issue": "21",
+      "journalVolume": "15",
+      "pubYear": "2023",
+      "journalIssn": "2072-6643",
+      "pageInfo": "4578",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2023-10-28",
+      "firstIndexDate": "2023-11-14"
+    },
+    {
+      "id": "PMC11689843",
+      "source": "PMC",
+      "pmcid": "PMC11689843",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11689843"
+        ]
+      },
+      "title": "ASSOCIATION OF PRO-INFLAMMATORY DIET WITH FRAILTY ONSET AMONG ADULTS WITH AND WITHOUT DEPRESSIVE SYMPTOMS",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "202-202",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "42304744",
+      "source": "MED",
+      "pmid": "42304744",
+      "doi": "10.2174/0118715273429122260523223942",
+      "title": "The Therapeutic Effects of Dietary Supplements on OCD: A Narrative Review.",
+      "authorString": "Tavakoli G, Bakhtiar LS, Ghanbari A, Mohammadzadeh P, Ghodousi M, Asadi KK, Sheikhzadeh F, Amirian R, Nikzad F, Ghoushi E, Olangian-Tehrani S, Poudineh M.",
+      "journalTitle": "CNS Neurol Disord Drug Targets",
+      "pubYear": "2026",
+      "journalIssn": "1871-5273; 1996-3181; ",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-11",
+      "firstIndexDate": "2026-06-18"
+    },
+    {
+      "id": "41471752",
+      "source": "MED",
+      "pmid": "41471752",
+      "pmcid": "PMC12735892",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12735892"
+        ]
+      },
+      "doi": "10.3390/molecules30244728",
+      "title": "From Elixirs to Geroscience: A Historical and Molecular Perspective on Anti-Aging Medicine.",
+      "authorString": "Nicoletti GRP, Mangano K, Nicoletti F, Cavalli E.",
+      "journalTitle": "Molecules",
+      "issue": "24",
+      "journalVolume": "30",
+      "pubYear": "2025",
+      "journalIssn": "1420-3049",
+      "pageInfo": "4728",
+      "pubType": "historical article; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-10",
+      "firstIndexDate": "2026-01-02"
+    },
+    {
+      "id": "42300531",
+      "source": "MED",
+      "pmid": "42300531",
+      "doi": "10.1039/d6fo00434b",
+      "title": "Dietary chlorogenic acid improves lipid metabolism through modulation of the gut-liver microbiota axis in hyperlipidemic mice.",
+      "authorString": "Basit A, Mueed A, Shahzad R, Rong W, Shahrokh K, Shehzad A, Khan S, Shutian T.",
+      "journalTitle": "Food Funct",
+      "issue": "13",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2042-6496; 2042-650x; ",
+      "pageInfo": "5986-6004",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-06",
+      "firstIndexDate": "2026-06-18"
+    },
+    {
+      "id": "PMC11689150",
+      "source": "PMC",
+      "pmcid": "PMC11689150",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11689150"
+        ]
+      },
+      "title": "PRIORITIES ALIGNED DEPRESCRIBING FOR PERSONS LIVING WITH DEMENTIA AND THEIR CARE PARTNERS",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "201-202",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "42540566",
+      "source": "MED",
+      "pmid": "42540566",
+      "pmcid": "PMC13426117",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13426117"
+        ]
+      },
+      "doi": "10.1016/bs.ant.2026.03.001",
+      "title": "Nutraceuticals and obsessive-compulsive disorder therapy.",
+      "authorString": "Mohammadi AH, Amin N, Tavousi SA, Mahabady MK, Aschner M, Mirzaei H.",
+      "journalTitle": "Adv Neurotoxicol",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2468-7480",
+      "pageInfo": "129-163",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-17",
+      "firstIndexDate": "2026-08-03"
+    },
+    {
+      "id": "42363800",
+      "source": "MED",
+      "pmid": "42363800",
+      "pmcid": "PMC13320070",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13320070"
+        ]
+      },
+      "doi": "10.1177/03000605261463447",
+      "title": "Therapeutic effect of N-acetylcysteine in severe or critical coronavirus disease 2019 pneumonia: A retrospective cohort study.",
+      "authorString": "Jin X, Zhao Y, Jiang X.",
+      "journalTitle": "J Int Med Res",
+      "issue": "6",
+      "journalVolume": "54",
+      "pubYear": "2026",
+      "journalIssn": "0300-0605; 1473-2300; ",
+      "pageInfo": "3000605261463447",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-27",
+      "firstIndexDate": "2026-07-02"
+    },
+    {
+      "id": "35975308",
+      "source": "MED",
+      "pmid": "35975308",
+      "pmcid": "PMC9879756",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC9879756"
+        ]
+      },
+      "doi": "10.1093/gerona/glac135",
+      "title": "Supplementing Glycine and N-Acetylcysteine (GlyNAC) in Older Adults Improves Glutathione Deficiency, Oxidative Stress, Mitochondrial Dysfunction, Inflammation, Physical Function, and Aging Hallmarks: A Randomized Clinical Trial.",
+      "authorString": "Kumar P, Liu C, Suliburk J, Hsu JW, Muthupillai R, Jahoor F, Minard CG, Taffet GE, Sekhar RV.",
+      "journalTitle": "J Gerontol A Biol Sci Med Sci",
+      "issue": "1",
+      "journalVolume": "78",
+      "pubYear": "2023",
+      "journalIssn": "1079-5006; 1758-535x; ",
+      "pageInfo": "75-89",
+      "pubType": "research support, non-u.s. gov't; research-article; randomized controlled trial; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 121,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2023-01-01",
+      "firstIndexDate": "2022-08-17"
+    },
+    {
+      "id": "42133068",
+      "source": "MED",
+      "pmid": "42133068",
+      "pmcid": "PMC13503443",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13503443"
+        ]
+      },
+      "doi": "10.1007/s00210-026-05421-7",
+      "title": "N-acetylcysteine mitigates oxidative stress and reduces alveolar bone damage on experimental periodontitis in rats.",
+      "authorString": "Silva APA, Dos Santos EA, Frazão DR, Dos Santos VRN, Matos-Sousa JM, Peinado BR, Souza-Monteiro D, Melo WWP, da Silva ZA, Varela ELP, da Cruz JN, da Silva-Boghossian CM, Collares FM, de Souza-Rodrigues RD, Lima RR.",
+      "journalTitle": "Naunyn Schmiedebergs Arch Pharmacol",
+      "issue": "11",
+      "journalVolume": "399",
+      "pubYear": "2026",
+      "journalIssn": "0028-1298; 1432-1912; ",
+      "pageInfo": "16963-16978",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-14",
+      "firstIndexDate": "2026-05-15"
+    },
+    {
+      "id": "42622409",
+      "source": "MED",
+      "pmid": "42622409",
+      "doi": "10.1002/marc.70416",
+      "title": "Regulating the Dynamic Properties of Knoevenagel Condensation Cross-Linked Hydrogels via Thia-Michael Addition Reaction.",
+      "authorString": "Yan Y, Yang R, Zhao M, Ji Y, Sun Z, Zhang X, Xiao C.",
+      "journalTitle": "Macromol Rapid Commun",
+      "pubYear": "2026",
+      "journalIssn": "1022-1336; 1521-3927; ",
+      "pageInfo": "e70416",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-20",
+      "firstIndexDate": "2026-08-21"
+    },
+    {
+      "id": "37237908",
+      "source": "MED",
+      "pmid": "37237908",
+      "pmcid": "PMC10215265",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC10215265"
+        ]
+      },
+      "doi": "10.3390/antiox12051042",
+      "title": "GlyNAC (Glycine and N-Acetylcysteine) Supplementation in Old Mice Improves Brain Glutathione Deficiency, Oxidative Stress, Glucose Uptake, Mitochondrial Dysfunction, Genomic Damage, Inflammation and Neurotrophic Factors to Reverse Age-Associated Cognitive Decline: Implications for Improving Brain Health in Aging.",
+      "authorString": "Kumar P, Osahon OW, Sekhar RV.",
+      "journalTitle": "Antioxidants (Basel)",
+      "issue": "5",
+      "journalVolume": "12",
+      "pubYear": "2023",
+      "journalIssn": "2076-3921",
+      "pageInfo": "1042",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 16,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2023-05-04",
+      "firstIndexDate": "2023-05-28"
+    },
+    {
+      "id": "42952919",
+      "source": "MED",
+      "pmid": "42952919",
+      "pmcid": "PMC13714177",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13714177"
+        ]
+      },
+      "doi": "10.3389/fvets.2026.1946016",
+      "title": "Free-choice Mongolian herbal-mineral supplementation improves serum mineral, antioxidant, endocrine, and metabolic indices in rams with pica.",
+      "authorString": "Man D, Chen L, Ao X, Zhang W, Na R.",
+      "journalTitle": "Front Vet Sci",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2297-1769",
+      "pageInfo": "1946016",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-14",
+      "firstIndexDate": "2026-10-30"
+    },
+    {
+      "id": "42428158",
+      "source": "MED",
+      "pmid": "42428158",
+      "pmcid": "PMC13346225",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13346225"
+        ]
+      },
+      "doi": "10.3389/fragi.2026.1732426",
+      "title": "A multi-modal longevity protocol integrating lifestyle, supplements, and autologous pro-regenerative cell-conditioned media: a pilot study.",
+      "authorString": "Ortega E, Addor G, Bhatia S, Lewinsohn M, Sottas PE.",
+      "journalTitle": "Front Aging",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2673-6217",
+      "pageInfo": "1732426",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-25",
+      "firstIndexDate": "2026-07-10"
+    },
+    {
+      "id": "PMC9766452",
+      "source": "PMC",
+      "pmcid": "PMC9766452",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC9766452"
+        ]
+      },
+      "title": "SUPPLEMENTING GLYNAC IN AGING IMPROVES GLUTATHIONE, MITOCHONDRIA, AND AGING HALLMARKS: A RANDOMIZED CLINICAL TRIAL",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "6",
+      "pubYear": "2022",
+      "journalIssn": "2399-5300",
+      "pageInfo": "98-98",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2022-11-01",
+      "firstIndexDate": "2022-12-24"
+    },
+    {
+      "id": "42506456",
+      "source": "MED",
+      "pmid": "42506456",
+      "pmcid": "PMC13414332",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13414332"
+        ]
+      },
+      "doi": "10.3390/metabo16070505",
+      "title": "The Effects of Short-Term N-Acetylcysteine Supplementation on Biochemical Parameters in Endurance-Trained Adults: A Randomized Clinical Trial.",
+      "authorString": "Sadowski M, Zawieja E, Muzsik-Kazimierska A, Bulczak E, Chmurzynska A.",
+      "journalTitle": "Metabolites",
+      "issue": "7",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2218-1989",
+      "pageInfo": "505",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-18",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42464118",
+      "source": "MED",
+      "pmid": "42464118",
+      "pmcid": "PMC13656602",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13656602"
+        ]
+      },
+      "doi": "10.1186/s12870-026-09484-9",
+      "title": "Cysteine derivatives coordinate photosynthetic performance and osmotic adjustment to enhance drought tolerance in vegetable soybean.",
+      "authorString": "Khoza BM, Bowden NB, Moloi MJ.",
+      "journalTitle": "BMC Plant Biol",
+      "issue": "1",
+      "journalVolume": "26",
+      "pubYear": "2026",
+      "journalIssn": "1471-2229",
+      "pageInfo": "1742",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-16",
+      "firstIndexDate": "2026-07-17"
+    }
+  ]
+}

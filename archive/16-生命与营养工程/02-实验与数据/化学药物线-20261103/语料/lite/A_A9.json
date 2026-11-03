@@ -1,0 +1,1876 @@
+{
+  "query_id": "A9",
+  "group": "A",
+  "query": "ivabradine AND SHIFT",
+  "hitCount": 1528,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:27:58.500681+00:00",
+  "results": [
+    {
+      "id": "42771286",
+      "source": "MED",
+      "pmid": "42771286",
+      "pmcid": "PMC13597995",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13597995"
+        ]
+      },
+      "doi": "10.1186/s43044-026-00782-z",
+      "title": "Early administration of ivabradine in patients with acute anterior ST-elevation myocardial infarction: a prospective, randomized, open-label study on in-hospital and short-term major adverse cardiac events and left ventricular function.",
+      "authorString": "Al Hawwari OM, Zahran ME, Othman KMS, Mansour H.",
+      "journalTitle": "Egypt Heart J",
+      "issue": "1",
+      "journalVolume": "78",
+      "pubYear": "2026",
+      "journalIssn": "1110-2608; 2090-911x; ",
+      "pageInfo": "72",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-09-23"
+    },
+    {
+      "id": "42621434",
+      "source": "MED",
+      "pmid": "42621434",
+      "pmcid": "PMC13487810",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13487810"
+        ]
+      },
+      "doi": "10.1002/hsr2.73068",
+      "title": "Comparative Efficacy and Safety of Ivabradine vs. Beta Blockers in Heart Transplant Patients: A Systematic Review and Meta-Analysis.",
+      "authorString": "Hassan A, Amir M, Naeem M, Ali EF, Ullah U, Jahangir MA, Hassaan MU, Aman R, Rifat HR, Nazir MF, Awais MN, Alizai A, Gul S, Asif A.",
+      "journalTitle": "Health Sci Rep",
+      "issue": "8",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2398-8835",
+      "pageInfo": "e73068",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-19",
+      "firstIndexDate": "2026-08-22"
+    },
+    {
+      "id": "41817681",
+      "source": "MED",
+      "pmid": "41817681",
+      "pmcid": "PMC13044813",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13044813"
+        ]
+      },
+      "doi": "10.57264/cer-2025-0119",
+      "title": "Personalized management of angina and heart failure in clinical practice in the Middle East: a narrative review.",
+      "authorString": "Ali JA, Mittal B, Deeb FE, Semaan C, Sabbour HM.",
+      "journalTitle": "J Comp Eff Res",
+      "issue": "4",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2042-6305; 2042-6313; ",
+      "pageInfo": "e250119",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-12",
+      "firstIndexDate": "2026-03-13"
+    },
+    {
+      "id": "42299219",
+      "source": "MED",
+      "pmid": "42299219",
+      "pmcid": "PMC13264706",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13264706"
+        ]
+      },
+      "doi": "10.7759/cureus.108875",
+      "title": "Impact of Once-Daily Ivabradine on Average Resting Heart Rate in Patients With Reduced Ejection Fraction With Systolic Dysfunction: A Multicenter, Post-marketing Observational Study.",
+      "authorString": "Mullasari A, Abdullakutty J, Suryavanshi S, Gadkari MA, Aggrawal RK, Sable A, Sawant P.",
+      "journalTitle": "Cureus",
+      "issue": "5",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e108875",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-15",
+      "firstIndexDate": "2026-06-16"
+    },
+    {
+      "id": "42164725",
+      "source": "MED",
+      "pmid": "42164725",
+      "pmcid": "PMC13184922",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13184922"
+        ]
+      },
+      "doi": "10.21037/cdt-2025-1-676",
+      "title": "Rethinking heart rate modulation in heart failure: physiological basis, clinical evidence, and individualized targets: a narrative review.",
+      "authorString": "Yumita Y, Nagatomo Y, Kawai A, Iwashita M, Mizutani K, Naito A, Chishiki T, Ikegami Y, Adachi T.",
+      "journalTitle": "Cardiovasc Diagn Ther",
+      "issue": "2",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2223-3652; 2223-3660; ",
+      "pageInfo": "27",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-21",
+      "firstIndexDate": "2026-05-21"
+    },
+    {
+      "id": "42022957",
+      "source": "MED",
+      "pmid": "42022957",
+      "pmcid": "PMC13096886",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13096886"
+        ]
+      },
+      "doi": "10.1039/d6ra00744a",
+      "title": "A sustainable spectrofluorimetric method for ivabradine quantification based on erythrosin B quenching with quantum mechanical modeling and Box-Behnken design optimization.",
+      "authorString": "Alqahtani AS, Abduljabbar MH, Alnemari RM, Althobaiti MM, Aldawsari MF, Al-Mutairi AA, Serag A, Almalki AH.",
+      "journalTitle": "RSC Adv",
+      "issue": "23",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2046-2069",
+      "pageInfo": "20559-20574",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-04-21",
+      "firstIndexDate": "2026-04-23"
+    },
+    {
+      "id": "41815737",
+      "source": "MED",
+      "pmid": "41815737",
+      "pmcid": "PMC12972838",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12972838"
+        ]
+      },
+      "doi": "10.1002/joa3.70312",
+      "title": "The Evolving Role of Ivabradine for Focal Atrial Tachycardia: A Systematic Review.",
+      "authorString": "Balweel H, Eri RR, Zahrani S, Quinncilla KH, Tafriend NA, Harsoyo A.",
+      "journalTitle": "J Arrhythm",
+      "issue": "2",
+      "journalVolume": "42",
+      "pubYear": "2026",
+      "journalIssn": "1880-4276; 1883-2148; ",
+      "pageInfo": "e70312",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-10",
+      "firstIndexDate": "2026-03-12"
+    },
+    {
+      "id": "41347156",
+      "source": "MED",
+      "pmid": "41347156",
+      "pmcid": "PMC12672418",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12672418"
+        ]
+      },
+      "doi": "10.3389/fphar.2025.1638923",
+      "title": "Ivabradine, atrial fibrillation and stroke: a combined meta-analysis and FAERS disproportionality analysis.",
+      "authorString": "Spadotto A, Fusaroli M, Carelli M, Nardi E, Amadori M, Massaro G, De Angelis V, Gatti M, Ciubine V, Raschi E, Poluzzi E, Diemberger I.",
+      "journalTitle": "Front Pharmacol",
+      "journalVolume": "16",
+      "pubYear": "2025",
+      "journalIssn": "1663-9812",
+      "pageInfo": "1638923",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-19",
+      "firstIndexDate": "2025-12-05"
+    },
+    {
+      "id": "41863817",
+      "source": "MED",
+      "pmid": "41863817",
+      "pmcid": "PMC13221172",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13221172"
+        ]
+      },
+      "doi": "10.1159/000551617",
+      "title": "Comparative Effectiveness of Ivabradine versus Digoxin in Patients with Heart Failure with Reduced Ejection Fraction and Chronic Kidney Disease: A Real-World Multicenter Cohort Study.",
+      "authorString": "Wu JY, Lee KW, Huang SC, Chang HY, Lin YM.",
+      "journalTitle": "Cardiorenal Med",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "1664-3828; 1664-5502; ",
+      "pageInfo": "190-200",
+      "pubType": "comparative study; research-article; multicenter study; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-21",
+      "firstIndexDate": "2026-03-23"
+    },
+    {
+      "id": "42172672",
+      "source": "MED",
+      "pmid": "42172672",
+      "pmcid": "PMC13395091",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13395091"
+        ]
+      },
+      "doi": "10.1093/eschf/xvag141",
+      "title": "Landmark clinical trials shaping contemporary guideline-directed medical therapy for heart failure.",
+      "authorString": "Tkaczyszyn M, Kapłon-Cieślicka A, Janiszewski M, Klimczak-Tomaniak D, Jędrzejczyk-Patej E, Burchardt P, Abdin A, Böhm M, Chioncel O, Baudry G, Cobo Marcos M, Zymliński R, Núñez J, Metra M, Ponikowski P.",
+      "journalTitle": "ESC Heart Fail",
+      "issue": "4",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2055-5822",
+      "pageInfo": "xvag141",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-05-23"
+    },
+    {
+      "id": "41746444",
+      "source": "MED",
+      "pmid": "41746444",
+      "pmcid": "PMC12945984",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12945984"
+        ]
+      },
+      "doi": "10.1007/s11033-026-11553-z",
+      "title": "Cardiac drug potential: exploring individual and combined cardiac drugs to promote differentiation of adipose-derived stem cells into cardiomyocytes.",
+      "authorString": "Alshammari H, Abuhaimed J, Alshehri S, Siyal A, Shaheen S, Al-Saud SA.",
+      "journalTitle": "Mol Biol Rep",
+      "issue": "1",
+      "journalVolume": "53",
+      "pubYear": "2026",
+      "journalIssn": "0301-4851; 1573-4978; ",
+      "pageInfo": "434",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-26",
+      "firstIndexDate": "2026-02-26"
+    },
+    {
+      "id": "41868102",
+      "source": "MED",
+      "pmid": "41868102",
+      "pmcid": "PMC12999974",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12999974"
+        ]
+      },
+      "doi": "10.3389/fmolb.2026.1781854",
+      "title": "Novel drugs targeting genetic variants: current applications and future prospects in heart failure treatment.",
+      "authorString": "Li X, Bai S, Luo Y.",
+      "journalTitle": "Front Mol Biosci",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2296-889x",
+      "pageInfo": "1781854",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-05",
+      "firstIndexDate": "2026-03-23"
+    },
+    {
+      "id": "41056634",
+      "source": "MED",
+      "pmid": "41056634",
+      "doi": "10.1016/j.hrtlng.2025.09.020",
+      "title": "Impact of rhBNP and ivabradine on outcomes, cardiac markers, and microcirculation in ischemic heart failure.",
+      "authorString": "Zhang L, Jiang Z, Ma H, Dong L, Feng S, Xu J, Chen J.",
+      "journalTitle": "Heart Lung",
+      "journalVolume": "75",
+      "pubYear": "2026",
+      "journalIssn": "0147-9563; 1527-3288; ",
+      "pageInfo": "178-183",
+      "pubType": "randomized controlled trial; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 1,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-10-06",
+      "firstIndexDate": "2025-10-08"
+    },
+    {
+      "id": "41006397",
+      "source": "MED",
+      "pmid": "41006397",
+      "pmcid": "PMC12475017",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12475017"
+        ]
+      },
+      "doi": "10.1038/s41598-025-09352-w",
+      "title": "Achieved targeted heart rate following ivabradine therapy correlates with left ventricular reverse remodeling in non-ischemic dilated cardiomyopathy.",
+      "authorString": "Lee J, Oh J, Ha J, Lee CJ, Kang SM.",
+      "journalTitle": "Sci Rep",
+      "issue": "1",
+      "journalVolume": "15",
+      "pubYear": "2025",
+      "journalIssn": "2045-2322",
+      "pageInfo": "33043",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-09-26",
+      "firstIndexDate": "2025-09-27"
+    },
+    {
+      "id": "41161035",
+      "source": "MED",
+      "pmid": "41161035",
+      "pmcid": "PMC12605292",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12605292"
+        ]
+      },
+      "doi": "10.1016/j.jacadv.2025.102282",
+      "title": "Ivabradine and Atrial Fibrillation Incidence: A Nested Matching Study.",
+      "authorString": "Kim K, Keur J, Anderson H, Radwański PB, Munger MA.",
+      "journalTitle": "JACC Adv",
+      "issue": "12 pt 2",
+      "journalVolume": "4",
+      "pubYear": "2025",
+      "journalIssn": "2772-963x",
+      "pageInfo": "102282",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-10-28",
+      "firstIndexDate": "2025-10-30"
+    },
+    {
+      "id": "42384408",
+      "source": "MED",
+      "pmid": "42384408",
+      "pmcid": "PMC13394998",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13394998"
+        ]
+      },
+      "doi": "10.1113/ep093664",
+      "title": "How physiology solves the gene-centric impasse.",
+      "authorString": "Noble D, Bourret R.",
+      "journalTitle": "Exp Physiol",
+      "issue": "8",
+      "journalVolume": "111",
+      "pubYear": "2026",
+      "journalIssn": "0958-0670; 1469-445x; ",
+      "pageInfo": "3546-3556",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-02"
+    },
+    {
+      "id": "41339124",
+      "source": "MED",
+      "pmid": "41339124",
+      "doi": "10.1021/jacs.5c08640",
+      "title": "Carbonylative Ring Expansion of Cyclic Carboxylic Acids.",
+      "authorString": "Shimono H, Kusakabe M, Nagao K, Ohmiya H.",
+      "journalTitle": "J Am Chem Soc",
+      "issue": "50",
+      "journalVolume": "147",
+      "pubYear": "2025",
+      "journalIssn": "0002-7863; 1520-5126; ",
+      "pageInfo": "45884-45892",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 7,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-12-03",
+      "firstIndexDate": "2025-12-05"
+    },
+    {
+      "id": "41356297",
+      "source": "MED",
+      "pmid": "41356297",
+      "pmcid": "PMC12681002",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12681002"
+        ]
+      },
+      "doi": "10.31083/rcm44109",
+      "title": "Pediatric Heart Failure Pharmacotherapy: Transformative Insights for the Future.",
+      "authorString": "Das BB.",
+      "journalTitle": "Rev Cardiovasc Med",
+      "issue": "11",
+      "journalVolume": "26",
+      "pubYear": "2025",
+      "journalIssn": "1530-6550",
+      "pageInfo": "44109",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-11-25",
+      "firstIndexDate": "2025-12-08"
+    },
+    {
+      "id": "41224786",
+      "source": "MED",
+      "pmid": "41224786",
+      "pmcid": "PMC12612095",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12612095"
+        ]
+      },
+      "doi": "10.1038/s41598-025-23262-x",
+      "title": "Heart rate management using ivabradine in acute myocardial infarction: a propensity score-matched single-center study.",
+      "authorString": "Chen M, Zhong P, Li C, Gao Q, Luo Z, Gu D.",
+      "journalTitle": "Sci Rep",
+      "issue": "1",
+      "journalVolume": "15",
+      "pubYear": "2025",
+      "journalIssn": "2045-2322",
+      "pageInfo": "39645",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-11-12",
+      "firstIndexDate": "2025-11-14"
+    },
+    {
+      "id": "40159840",
+      "source": "MED",
+      "pmid": "40159840",
+      "pmcid": "PMC12482831",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12482831"
+        ]
+      },
+      "doi": "10.1002/ejhf.3648",
+      "title": "Ivabradine improves win ratios of heart failure outcomes in patients with reduced ejection fraction - insights from the SHIFT trial.",
+      "authorString": "Abdin A, Kulenthiran S, Komajda M, Borer JS, Ford I, Tavazzi L, Batailler C, Swedberg K, Böhm M,  on behalf of the SHIFT Investigators.",
+      "journalTitle": "Eur J Heart Fail",
+      "issue": "8",
+      "journalVolume": "27",
+      "pubYear": "2025",
+      "journalIssn": "1388-9842; 1879-0844; ",
+      "pageInfo": "1479-1481",
+      "pubType": "brief-report; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-03-30",
+      "firstIndexDate": "2025-04-01"
+    },
+    {
+      "id": "40004605",
+      "source": "MED",
+      "pmid": "40004605",
+      "pmcid": "PMC11856570",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11856570"
+        ]
+      },
+      "doi": "10.3390/jcm14041074",
+      "title": "Heart Rate Reduction and the Prognosis of Heart Failure Focused on Ivabradine.",
+      "authorString": "Kiuchi S, Ikeda T.",
+      "journalTitle": "J Clin Med",
+      "issue": "4",
+      "journalVolume": "14",
+      "pubYear": "2025",
+      "journalIssn": "2077-0383",
+      "pageInfo": "1074",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-02-07",
+      "firstIndexDate": "2025-02-27"
+    },
+    {
+      "id": "41447282",
+      "source": "MED",
+      "pmid": "41447282",
+      "pmcid": "PMC12834078",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12834078"
+        ]
+      },
+      "doi": "10.1016/j.jacadv.2025.102356",
+      "title": "Patient-Centered Outcomes in Heart Failure Pharmacotherapy: A Meta-Analysis of Randomized Controlled Trials.",
+      "authorString": "Kido K, Hashiguchi M, Guglin M.",
+      "journalTitle": "JACC Adv",
+      "issue": "12 pt 2",
+      "journalVolume": "4",
+      "pubYear": "2025",
+      "journalIssn": "2772-963x",
+      "pageInfo": "102356",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "pdb",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-01",
+      "firstIndexDate": "2025-12-25"
+    },
+    {
+      "id": "42438234",
+      "source": "MED",
+      "pmid": "42438234",
+      "pmcid": "PMC13368462",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13368462"
+        ]
+      },
+      "doi": "10.4070/kcj.2026.0191",
+      "title": "Korean Society of Interventional Cardiology Expert Consensus for the Management of Chronic Coronary Syndrome: Part 1.",
+      "authorString": "Lee JM, Kim Y, Lee SY, Kwon W, Hwang D, Chon MK, Joh HS, Lee SH, Lee KY, Seo YH, Bu S, Park SD, Kim N, Kim JS, Min PK, Nam CW, Lee CW, Hong YJ, Gwon HC, Hahn JY, Ahn Y.",
+      "journalTitle": "Korean Circ J",
+      "issue": "7",
+      "journalVolume": "56",
+      "pubYear": "2026",
+      "journalIssn": "1738-5520; 1738-5555; ",
+      "pageInfo": "531-561",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-13"
+    },
+    {
+      "id": "41446482",
+      "source": "MED",
+      "pmid": "41446482",
+      "pmcid": "PMC12726858",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12726858"
+        ]
+      },
+      "doi": "10.7759/cureus.97581",
+      "title": "Clinical Presentation, Diagnostic Delays, and Treatment Outcomes in Postural Orthostatic Tachycardia Syndrome (POTS): An Observational Case Series Study in a Single-Centre District General Hospital.",
+      "authorString": "Chaudhury D, Atia N, Obiechina N, Gill A, Michael A, Sampathy K.",
+      "journalTitle": "Cureus",
+      "issue": "11",
+      "journalVolume": "17",
+      "pubYear": "2025",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e97581",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-23",
+      "firstIndexDate": "2025-12-25"
+    },
+    {
+      "id": "40999181",
+      "source": "MED",
+      "pmid": "40999181",
+      "pmcid": "PMC12920388",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12920388"
+        ]
+      },
+      "doi": "10.1007/s40256-025-00766-5",
+      "title": "Contemporary Antianginal Therapy.",
+      "authorString": "Patel S, Patel V, Ayyad M, Palani A, Allencherril J.",
+      "journalTitle": "Am J Cardiovasc Drugs",
+      "issue": "2",
+      "journalVolume": "26",
+      "pubYear": "2026",
+      "journalIssn": "1175-3277; 1179-187x; ",
+      "pageInfo": "137-155",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-09-25",
+      "firstIndexDate": "2025-09-27"
+    },
+    {
+      "id": "40450212",
+      "source": "MED",
+      "pmid": "40450212",
+      "pmcid": "PMC12125783",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12125783"
+        ]
+      },
+      "doi": "10.1186/s12872-025-04854-x",
+      "title": "Long-term safety and efficacy of ivabradine after direct percutaneous coronary intervention in patients with acute myocardial infarction complicated by heart failure: a single-center retrospective study.",
+      "authorString": "Guo X, Yang W, Cui Y, Guo R, Zhu Y, Liu T, Chen K, Liu C.",
+      "journalTitle": "BMC Cardiovasc Disord",
+      "issue": "1",
+      "journalVolume": "25",
+      "pubYear": "2025",
+      "journalIssn": "1471-2261",
+      "pageInfo": "422",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-05-31",
+      "firstIndexDate": "2025-06-11"
+    },
+    {
+      "id": "41862909",
+      "source": "MED",
+      "pmid": "41862909",
+      "pmcid": "PMC13126721",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13126721"
+        ]
+      },
+      "doi": "10.1186/s12985-025-02991-5",
+      "title": "Pharmacological and non-pharmacological management of long COVID.",
+      "authorString": "Khalid K, Abdullah ADI, Lim HX, Ali RAR.",
+      "journalTitle": "Virol J",
+      "issue": "1",
+      "journalVolume": "23",
+      "pubYear": "2026",
+      "journalIssn": "1743-422x",
+      "pageInfo": "115",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-21",
+      "firstIndexDate": "2026-03-23"
+    },
+    {
+      "id": "41599125",
+      "source": "MED",
+      "pmid": "41599125",
+      "pmcid": "PMC12845478",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12845478"
+        ]
+      },
+      "doi": "10.3390/pharmaceutics18010018",
+      "title": "Engineering Human 3D Cardiac Tissues for Predictive Functional Drug Screening.",
+      "authorString": "Baruch ES, Rosner D, Riska E, Yadid M, Shapira A, Dvir T.",
+      "journalTitle": "Pharmaceutics",
+      "issue": "1",
+      "journalVolume": "18",
+      "pubYear": "2025",
+      "journalIssn": "1999-4923",
+      "pageInfo": "18",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "hPSCreg"
+        ]
+      },
+      "firstPublicationDate": "2025-12-22",
+      "firstIndexDate": "2026-01-28"
+    },
+    {
+      "id": "42605371",
+      "source": "MED",
+      "pmid": "42605371",
+      "pmcid": "PMC13477731",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13477731"
+        ]
+      },
+      "doi": "10.7759/cureus.112862",
+      "title": "Persistent Cognitive Dysfunction in Postural Orthostatic Tachycardia Syndrome: A Scoping Review of Neural Mechanisms, Interventions, and Critical Research Gaps.",
+      "authorString": "Prassanna AR.",
+      "journalTitle": "Cureus",
+      "issue": "7",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e112862",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-17",
+      "firstIndexDate": "2026-08-17"
+    },
+    {
+      "id": "40863360",
+      "source": "MED",
+      "pmid": "40863360",
+      "pmcid": "PMC12386311",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12386311"
+        ]
+      },
+      "doi": "10.3390/jcdd12080294",
+      "title": "A Rationale for the Use of Ivabradine in the Perioperative Phase of Cardiac Surgery: A Review.",
+      "authorString": "Ballas CE, Katsouras CS, Siaravas KC, Tzourtzos I, Moula AI, Alexiou C.",
+      "journalTitle": "J Cardiovasc Dev Dis",
+      "issue": "8",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2308-3425",
+      "pageInfo": "294",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-07-31",
+      "firstIndexDate": "2025-09-01"
+    },
+    {
+      "id": "41416334",
+      "source": "MED",
+      "pmid": "41416334",
+      "pmcid": "PMC12711321",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12711321"
+        ]
+      },
+      "doi": "10.7759/cureus.97101",
+      "title": "Sinoatrial Node Dynamics: Clinical Relevance and microRNA-Based Modulation of Pacemaker Activity.",
+      "authorString": "Nur H.",
+      "journalTitle": "Cureus",
+      "issue": "11",
+      "journalVolume": "17",
+      "pubYear": "2025",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e97101",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-11-17",
+      "firstIndexDate": "2025-12-19"
+    },
+    {
+      "id": "41696592",
+      "source": "MED",
+      "pmid": "41696592",
+      "pmcid": "PMC12895671",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12895671"
+        ]
+      },
+      "doi": "10.1039/d5sc08859c",
+      "title": "Few-shot molecular property optimization &lt;i&gt;via&lt;/i&gt; a domain-specialized large language model.",
+      "authorString": "Guo Y, Luo M, Zhang W, Liu P, Liu J, Huang S, Lv J, Ke B, Liu X.",
+      "journalTitle": "Chem Sci",
+      "issue": "10",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2041-6520; 2041-6539; ",
+      "pageInfo": "4928-4941",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-07",
+      "firstIndexDate": "2026-02-16"
+    },
+    {
+      "id": "42936607",
+      "source": "MED",
+      "pmid": "42936607",
+      "pmcid": "PMC13700396",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13700396"
+        ]
+      },
+      "doi": "10.1016/j.hroo.2026.07.006",
+      "title": "Accelerated pacing rates to improve exercise tolerance, quality of life, and arrhythmia burden in patients with evidence of heart failure with preserved ejection fraction: The PACE-UP rationale and design.",
+      "authorString": "Howie JO, Dziano JK, Ariyaratnam JP, Emami M, Evans S, Middeldorp ME, Puvrez A, Kenny GT, Sanders P, Elliott AD.",
+      "journalTitle": "Heart Rhythm O2",
+      "issue": "10",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2666-5018",
+      "pageInfo": "1997-2005",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-13",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "40052260",
+      "source": "MED",
+      "pmid": "40052260",
+      "pmcid": "PMC11995853",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11995853"
+        ]
+      },
+      "doi": "10.1161/circheartfailure.124.012484",
+      "title": "Heart Rate Reduction Is Associated With Reverse Left Ventricular Remodeling and Mechanism-Specific Molecular Phenotypes in Dilated Cardiomyopathy.",
+      "authorString": "Altman NL, Gill EA, Kahwash R, Meyer LK, Wagner JA, Karimpour-Fard A, Berning AA, Minobe WA, Carroll IA, Jonas ER, Slavov D, Emani S, Abraham WT, Gollah AR, Ellis SL, Taylor MRG, Graw SL, Mestroni L, McKinsey TA, Buttrick PM, Kao DP, Bristow MR.",
+      "journalTitle": "Circ Heart Fail",
+      "issue": "4",
+      "journalVolume": "18",
+      "pubYear": "2025",
+      "journalIssn": "1941-3289; 1941-3297; ",
+      "pageInfo": "e012484",
+      "pubType": "research-article; randomized controlled trial; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-03-07",
+      "firstIndexDate": "2025-03-07"
+    },
+    {
+      "id": "40357644",
+      "source": "MED",
+      "pmid": "40357644",
+      "pmcid": "PMC12184598",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12184598"
+        ]
+      },
+      "doi": "10.1161/jaha.124.039745",
+      "title": "Randomized, Placebo-Controlled, Triple-Blind Clinical Trial of Ivabradine for the Prevention of Cardiac Dysfunction During Anthracycline-Based Cancer Therapy.",
+      "authorString": "Rizk SI, Costa IBSDS, Cruz CBBV, Pileggi B, de Almeida Andrade FT, Gonzalez TB, Bittar CS, Fukushima JT, Quintao VC, Osawa EA, Alves JBS, Fonseca SMR, Garcia DR, Pereira J, Buccheri V, Avila J, Kawahara LT, Barros CCS, Ikeoka LT, Nakada LN, Fellini M, Rocha VG, Rego EM, Hoff PMG, Filho RK, Landoni G, Hajjar LA.",
+      "journalTitle": "J Am Heart Assoc",
+      "issue": "10",
+      "journalVolume": "14",
+      "pubYear": "2025",
+      "journalIssn": "2047-9980",
+      "pageInfo": "e039745",
+      "pubType": "research support, non-u.s. gov't; research-article; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 5,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2025-05-13",
+      "firstIndexDate": "2025-05-20"
+    },
+    {
+      "id": "PMC13719635",
+      "source": "PMC",
+      "pmcid": "PMC13719635",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13719635"
+        ]
+      },
+      "title": "Digoxin Revisited: An Updated Review in the Light of Recent Trials",
+      "authorString": "Saad M, Abdullah M, Yelamarthy A, John K, Mallick A, Khan B, Tahir H, Krishnamani R.",
+      "journalTitle": "Cardiol Res",
+      "issue": "6",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1923-2829; 1923-2837; ",
+      "pageInfo": "553-560",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-24",
+      "firstIndexDate": "2026-10-31"
+    },
+    {
+      "id": "40013960",
+      "source": "MED",
+      "pmid": "40013960",
+      "pmcid": "PMC13134433",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13134433"
+        ]
+      },
+      "doi": "10.1113/jp287209",
+      "title": "Structure mirroring function: What's the 'matter' with the funny current?",
+      "authorString": "Saponaro A, DiFrancesco D.",
+      "journalTitle": "J Physiol",
+      "issue": "9",
+      "journalVolume": "604",
+      "pubYear": "2026",
+      "journalIssn": "0022-3751; 1469-7793; ",
+      "pageInfo": "3513-3532",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-02-27",
+      "firstIndexDate": "2025-02-28"
+    },
+    {
+      "id": "42195342",
+      "source": "MED",
+      "pmid": "42195342",
+      "pmcid": "PMC13208127",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13208127"
+        ]
+      },
+      "doi": "10.3390/life16050786",
+      "title": "Aglianico Grape Pomace Extract Reduces Cardiac Pacemaker Activity by Decreasing Hyperpolarization-Activated Current Density Independently of cAMP Signaling.",
+      "authorString": "De Zio R, Certini M, Pignataro E, Russo D, Scorza SI, Milano S, Procino G, Marsano RM, Svelto M, Maiellaro I, Milella L, Carmosino M, Gerbino A.",
+      "journalTitle": "Life (Basel)",
+      "issue": "5",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2075-1729",
+      "pageInfo": "786",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-08",
+      "firstIndexDate": "2026-05-28"
+    },
+    {
+      "id": "39963303",
+      "source": "MED",
+      "pmid": "39963303",
+      "pmcid": "PMC11832250",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11832250"
+        ]
+      },
+      "doi": "10.1155/cric/2601345",
+      "title": "Ivabradine for Incessant Atrial Tachycardia in a 1-Year-Old Child After Tetralogy of Fallot Repair.",
+      "authorString": "Balweel H, Sukardi R, Marwali EM, Eri RR, Tafriend NA, Harsoyo A.",
+      "journalTitle": "Case Rep Cardiol",
+      "journalVolume": "2025",
+      "pubYear": "2025",
+      "journalIssn": "2090-6404; 2090-6412; ",
+      "pageInfo": "2601345",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-02-10",
+      "firstIndexDate": "2025-02-19"
+    },
+    {
+      "id": "42109756",
+      "source": "MED",
+      "pmid": "42109756",
+      "pmcid": "PMC13156541",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13156541"
+        ]
+      },
+      "doi": "10.26599/1671-5411.2026.03.003",
+      "title": "Time to Ditch 'Diurese &amp; Discharge'- Spotlight on Heart Failure in Malaysia.",
+      "authorString": "Raja Shariff RE, Yusoff MR, Ibrahim KS, Kasim S.",
+      "journalTitle": "J Geriatr Cardiol",
+      "issue": "3",
+      "journalVolume": "23",
+      "pubYear": "2026",
+      "journalIssn": "1671-5411",
+      "pageInfo": "206-210",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-01",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "41143175",
+      "source": "MED",
+      "pmid": "41143175",
+      "pmcid": "PMC12546162",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12546162"
+        ]
+      },
+      "doi": "10.3389/fcvm.2025.1571468",
+      "title": "Influencing factors analysis of clinical effect of heart failure patients treated with ivabradine and metoprolol succinate and construction and validation of nomogram prediction model.",
+      "authorString": "Wu G, Chen D, Chen L, Wu Y, Guan S, Wu F, Chen Y, Ye X, Yang T.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2297-055x",
+      "pageInfo": "1571468",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-10-09",
+      "firstIndexDate": "2025-10-27"
+    },
+    {
+      "id": "42775828",
+      "source": "MED",
+      "pmid": "42775828",
+      "pmcid": "PMC13599594",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13599594"
+        ]
+      },
+      "doi": "10.1002/clc.70473",
+      "title": "Long-Term Renal Function and Clinical Outcomes of Sacubitril/Valsartan in HFrEF and Stage 3-4 Chronic Kidney Disease: A 24-Month Single-Centre Cohort.",
+      "authorString": "Akkaya F, Şeker OO, Türkmen E, Dereli S.",
+      "journalTitle": "Clin Cardiol",
+      "issue": "9",
+      "journalVolume": "49",
+      "pubYear": "2026",
+      "journalIssn": "0160-9289; 1932-8737; ",
+      "pageInfo": "e70473",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-09-24"
+    },
+    {
+      "id": "38775538",
+      "source": "MED",
+      "pmid": "38775538",
+      "pmcid": "PMC11101182",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11101182"
+        ]
+      },
+      "doi": "10.1590/1806-9282.20240093",
+      "title": "How to demonstrate the impact of ivabradine on suppressing ventricular arrhythmia.",
+      "authorString": "Sannomiya D, Kataoka N, Imamura T.",
+      "journalTitle": "Rev Assoc Med Bras (1992)",
+      "issue": "5",
+      "journalVolume": "70",
+      "pubYear": "2024",
+      "journalIssn": "0104-4230; 1806-9282; ",
+      "pageInfo": "e20240093",
+      "pubType": "letter",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-05-17",
+      "firstIndexDate": "2024-05-22"
+    },
+    {
+      "id": "42910058",
+      "source": "MED",
+      "pmid": "42910058",
+      "pmcid": "PMC13686246",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13686246"
+        ]
+      },
+      "doi": "10.37616/2212-5043.1516",
+      "title": "2026 Focused Update of the Saudi Heart Association Guidelines on Best Practices in the Management of Chronic Coronary Syndromes.",
+      "authorString": "Alshammeri O, Alshehri H, Alsaif S, Alasnag M, Qaddoura F, Alqahtani F, Turkistani YAA, Alharbi W, Tash A, Alshehri M, Al Faraidy K, Alhabeeb W.",
+      "journalTitle": "J Saudi Heart Assoc",
+      "issue": "3",
+      "journalVolume": "38",
+      "pubYear": "2026",
+      "journalIssn": "1016-7315; 2212-5043; ",
+      "pageInfo": "4",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-18",
+      "firstIndexDate": "2026-10-24"
+    },
+    {
+      "id": "40764992",
+      "source": "MED",
+      "pmid": "40764992",
+      "pmcid": "PMC12323259",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12323259"
+        ]
+      },
+      "doi": "10.1186/s12967-025-06902-8",
+      "title": "Ivabradine induces RAD51 degradation, potentiating PARP inhibitor efficacy in non-germline BRCA pathogenic variant triple-negative breast cancer.",
+      "authorString": "Tsoi H, Leung GMH, Man EPS, You CP, Cheung KHL, Chan KYK, Gong C, Huen MSY, Khoo US.",
+      "journalTitle": "J Transl Med",
+      "issue": "1",
+      "journalVolume": "23",
+      "pubYear": "2025",
+      "journalIssn": "1479-5876",
+      "pageInfo": "860",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 6,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen"
+        ]
+      },
+      "firstPublicationDate": "2025-08-05",
+      "firstIndexDate": "2025-08-07"
+    },
+    {
+      "id": "41116946",
+      "source": "MED",
+      "pmid": "41116946",
+      "pmcid": "PMC12535787",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12535787"
+        ]
+      },
+      "doi": "10.7759/cureus.92735",
+      "title": "Evidence-Based Management of Heart Failure: Clinical Impact and National Health Service Implications.",
+      "authorString": "Guleria R, Singh A, Majmudar HP, Ang ZY, Awasthi P.",
+      "journalTitle": "Cureus",
+      "issue": "9",
+      "journalVolume": "17",
+      "pubYear": "2025",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e92735",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-09-19",
+      "firstIndexDate": "2025-10-21"
+    },
+    {
+      "id": "38736845",
+      "source": "MED",
+      "pmid": "38736845",
+      "pmcid": "PMC11081702",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11081702"
+        ]
+      },
+      "doi": "10.1253/circrep.cr-24-0034",
+      "title": "Effect of Ivabradine on Left Ventricular Reverse Remodeling in Relatively Stable Heart Failure Outpatients With Reduced Ejection Fraction.",
+      "authorString": "Tanaka H.",
+      "journalTitle": "Circ Rep",
+      "issue": "5",
+      "journalVolume": "6",
+      "pubYear": "2024",
+      "journalIssn": "2434-0790",
+      "pageInfo": "183-186",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-04-19",
+      "firstIndexDate": "2024-05-13"
+    },
+    {
+      "id": "39895450",
+      "source": "MED",
+      "pmid": "39895450",
+      "pmcid": "PMC12043409",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12043409"
+        ]
+      },
+      "doi": "10.1016/j.jacep.2024.11.016",
+      "title": "Effect of the Membrane Environment on Pharmacologic Inhibition of hERG K&lt;sup&gt;+&lt;/sup&gt; Channel Activity.",
+      "authorString": "Fiore CM, Quigley K, Vorobyov I, Clancy CE, Harvey RD.",
+      "journalTitle": "JACC Clin Electrophysiol",
+      "issue": "4",
+      "journalVolume": "11",
+      "pubYear": "2025",
+      "journalIssn": "2405-500x; 2405-5018; ",
+      "pageInfo": "708-719",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-01-29",
+      "firstIndexDate": "2025-02-03"
+    },
+    {
+      "id": "PPR1192568",
+      "source": "PPR",
+      "doi": "10.22541/au.173641488.81853825/v1",
+      "title": "INVESTIGATIONS ON DONEPEZIL AS hHCN1 CHANNEL BLOCKER USING COMPUTATIONAL AND ELECTROPHYSIOLOGICAL ANALYSIS",
+      "authorString": "Apotikar A, Sikdar SK.",
+      "pubYear": "2025",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "Authorea Preprints",
+        "yearOfPublication": 2025
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-01-09",
+      "firstIndexDate": "2026-05-13",
+      "versionNumber": 1
+    },
+    {
+      "id": "38819505",
+      "source": "MED",
+      "pmid": "38819505",
+      "pmcid": "PMC11143102",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11143102"
+        ]
+      },
+      "doi": "10.1186/s43044-024-00500-7",
+      "title": "Evaluation of ivabradine plus beta-blocker versus beta-blocker alone in addition to standard care in reducing hospitalization and major adverse cardiovascular event in patients with chronic heart failure: a prospective observational study in tertiary care hospital in central India.",
+      "authorString": "Desingu R, Kaore S, Kandelwal G, Balakrishnan S.",
+      "journalTitle": "Egypt Heart J",
+      "issue": "1",
+      "journalVolume": "76",
+      "pubYear": "2024",
+      "journalIssn": "1110-2608; 2090-911x; ",
+      "pageInfo": "67",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2024-05-31",
+      "firstIndexDate": "2024-06-01"
+    }
+  ]
+}

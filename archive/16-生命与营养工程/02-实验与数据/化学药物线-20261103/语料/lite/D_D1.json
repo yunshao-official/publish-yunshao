@@ -1,0 +1,1909 @@
+{
+  "query_id": "D1",
+  "group": "D",
+  "query": "\"cytochrome c oxidase\" AND near-infrared AND absorption spectrum",
+  "hitCount": 1374,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:39.742003+00:00",
+  "results": [
+    {
+      "id": "42827784",
+      "source": "MED",
+      "pmid": "42827784",
+      "pmcid": "PMC13630729",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13630729"
+        ]
+      },
+      "doi": "10.3389/fbioe.2026.1921612",
+      "title": "Photobiomodulation for skeletal muscle regeneration: mechanisms, dosimetry, and translational challenges.",
+      "authorString": "Ahmed R, Zhang KL, Hamzah R, Artan NS, Alghazali K.",
+      "journalTitle": "Front Bioeng Biotechnol",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2296-4185",
+      "pageInfo": "1921612",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-18",
+      "firstIndexDate": "2026-10-04"
+    },
+    {
+      "id": "42804413",
+      "source": "MED",
+      "pmid": "42804413",
+      "pmcid": "PMC13685624",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13685624"
+        ]
+      },
+      "doi": "10.1159/nim/adxag001",
+      "title": "The Forgotten Beats.",
+      "authorString": "Sommer AP.",
+      "journalTitle": "Neuroimmunomodulation",
+      "issue": "1",
+      "journalVolume": "33",
+      "pubYear": "2026",
+      "journalIssn": "1021-7401; 1423-0216; ",
+      "pageInfo": "349-354",
+      "pubType": "letter",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-28",
+      "firstIndexDate": "2026-09-29"
+    },
+    {
+      "id": "42955214",
+      "source": "MED",
+      "pmid": "42955214",
+      "pmcid": "PMC13719794",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13719794"
+        ]
+      },
+      "doi": "10.1007/s12035-026-06294-w",
+      "title": "Red Light Therapy and Mitochondrial Rejuvenation in Age-Related Disorders.",
+      "authorString": "Iglewska M, Flis KA, Kołakowska M, Hryniewicz WW, Pluto-Prądzyńska A.",
+      "journalTitle": "Mol Neurobiol",
+      "issue": "1",
+      "journalVolume": "63",
+      "pubYear": "2026",
+      "journalIssn": "0893-7648; 1559-1182; ",
+      "pageInfo": "996",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-28",
+      "firstIndexDate": "2026-10-30"
+    },
+    {
+      "id": "42883688",
+      "source": "MED",
+      "pmid": "42883688",
+      "pmcid": "PMC13665187",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13665187"
+        ]
+      },
+      "doi": "10.3390/ijms27198438",
+      "title": "Photobiomodulation as a Potential Regenerative Signal in the Inner Ear: Linking Mitochondrial Redox Signaling to Cell-Fate Regulation.",
+      "authorString": "Lee MY.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "19",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "8438",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "42226948",
+      "source": "MED",
+      "pmid": "42226948",
+      "pmcid": "PMC13214509",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13214509"
+        ]
+      },
+      "doi": "10.46582/jsrm.2201001",
+      "title": "From Photosynthesis to Photobiomodulation: Expanding the Therapeutic Potential of Light.",
+      "authorString": "Jürgen HH, Samuel JA.",
+      "journalTitle": "J Stem Cells Regen Med",
+      "issue": "1",
+      "journalVolume": "22",
+      "pubYear": "2026",
+      "journalIssn": "0973-7154",
+      "pageInfo": "1-2",
+      "pubType": "editorial",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-12",
+      "firstIndexDate": "2026-06-03"
+    },
+    {
+      "id": "42514168",
+      "source": "MED",
+      "pmid": "42514168",
+      "pmcid": "PMC13412990",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13412990"
+        ]
+      },
+      "doi": "10.3390/life16071098",
+      "title": "Photobiomodulation in Age-Related Macular Degeneration: A Mitochondrial Bioenergetic Framework and Translational Perspective.",
+      "authorString": "Desmettre T, Mordon S.",
+      "journalTitle": "Life (Basel)",
+      "issue": "7",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2075-1729",
+      "pageInfo": "1098",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-30",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42510500",
+      "source": "MED",
+      "pmid": "42510500",
+      "pmcid": "PMC13403696",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13403696"
+        ]
+      },
+      "doi": "10.3390/bioengineering13070835",
+      "title": "Reconstruction Accuracy vs. Discriminative Power: Spectral Unmixing Performance in Brain Tissue Hyperspectral Imaging.",
+      "authorString": "Martinez de Ternero A, Martín-Pérez A, Villa M, Juarez E.",
+      "journalTitle": "Bioengineering (Basel)",
+      "issue": "7",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2306-5354",
+      "pageInfo": "835",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-21",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "PMC13720910",
+      "source": "PMC",
+      "pmcid": "PMC13720910",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13720910"
+        ]
+      },
+      "title": "Photobiomodulation as a regulator of neuroinflammation: mechanistic insights and therapeutic potential in brain disorders",
+      "authorString": "Blivet G, Bertrand C, Brauge D, Delrieu J, Touchon J.",
+      "journalTitle": "Front Neurol",
+      "journalVolume": "17",
+      "journalIssn": "1664-2295",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-31",
+      "firstIndexDate": "2026-10-31"
+    },
+    {
+      "id": "42193872",
+      "source": "MED",
+      "pmid": "42193872",
+      "pmcid": "PMC13204864",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13204864"
+        ]
+      },
+      "doi": "10.3390/cells15100861",
+      "title": "Wavelength-Dependent Modulation of Mesenchymal Stem Cell Fate: A Systems Biology Framework for Tissue Repair and Regenerative Medicine.",
+      "authorString": "Amouroux B, Asghari KM, De Sousa M, Gueguen V, Chauvierre C, Barzegari A, Pavon-Djavid G.",
+      "journalTitle": "Cells",
+      "issue": "10",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2073-4409",
+      "pageInfo": "861",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-08",
+      "firstIndexDate": "2026-05-28"
+    },
+    {
+      "id": "42650298",
+      "source": "MED",
+      "pmid": "42650298",
+      "pmcid": "PMC13509332",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13509332"
+        ]
+      },
+      "doi": "10.3390/antiox15081034",
+      "title": "Photobiomodulation for Photoreceptor Rescue in Retinal Disease: Mitochondrial, Redox, Vascular, and Translational Perspectives-A Narrative Review.",
+      "authorString": "Toro MD, Avitabile A, Amato R, Rusciano D, Gagliano C.",
+      "journalTitle": "Antioxidants (Basel)",
+      "issue": "8",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2076-3921",
+      "pageInfo": "1034",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-19",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42719107",
+      "source": "MED",
+      "pmid": "42719107",
+      "pmcid": "PMC13555410",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13555410"
+        ]
+      },
+      "doi": "10.1016/j.atssr.2026.01.015",
+      "title": "Real-time Myocardial Oximetry-Preclinical Monitoring Device Validation in a Porcine Beating-Heart Cardiopulmonary Bypass Model.",
+      "authorString": "Haavisto E, Haapanen H, Petäjä L, Raivio P, Kankuri E, Jormalainen M, Kotilahti K, Juvonen T, Pätilä T.",
+      "journalTitle": "Ann Thorac Surg Short Rep",
+      "issue": "3",
+      "journalVolume": "4",
+      "pubYear": "2026",
+      "journalIssn": "2772-9931",
+      "pageInfo": "1058-1065",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "pdb"
+        ]
+      },
+      "firstPublicationDate": "2026-02-09",
+      "firstIndexDate": "2026-09-11"
+    },
+    {
+      "id": "41939583",
+      "source": "MED",
+      "pmid": "41939583",
+      "pmcid": "PMC13050267",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13050267"
+        ]
+      },
+      "doi": "10.7759/cureus.104721",
+      "title": "Mechanistic Insights Into Photobiomodulation for Primary Dysmenorrhea: A Narrative Review.",
+      "authorString": "Pelevin E, Pabian L, Auerbach S, Ballard A, Goempel J, Jiang L, Oro J, Searles J, Sloan K, Walter E, Bouras A, Jacobs RJ.",
+      "journalTitle": "Cureus",
+      "issue": "3",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e104721",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-05",
+      "firstIndexDate": "2026-04-07"
+    },
+    {
+      "id": "41368101",
+      "source": "MED",
+      "pmid": "41368101",
+      "pmcid": "PMC12684037",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12684037"
+        ]
+      },
+      "doi": "10.1364/boe.567105",
+      "title": "Quantification of oxidized and reduced cytochrome-c-oxidase by combining discrete-wavelength time-resolved and broadband continuous-wave near-infrared spectroscopy.",
+      "authorString": "Eskandari R, Li NC, Samaei S, Milej D, St Lawrence K, Diop M.",
+      "journalTitle": "Biomed Opt Express",
+      "issue": "9",
+      "journalVolume": "16",
+      "pubYear": "2025",
+      "journalIssn": "2156-7085",
+      "pageInfo": "3797-3812",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 5,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-08-25",
+      "firstIndexDate": "2025-12-11"
+    },
+    {
+      "id": "42895402",
+      "source": "MED",
+      "pmid": "42895402",
+      "pmcid": "PMC13685413",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13685413"
+        ]
+      },
+      "doi": "10.1021/acs.inorgchem.6c04238",
+      "title": "Tetranuclear Copper Cluster of N2O Reductase: A Distinctive Copper-Sulfur Metallocluster.",
+      "authorString": "Pauleta SR, Moura JJG, Moura I.",
+      "journalTitle": "Inorg Chem",
+      "issue": "41",
+      "journalVolume": "65",
+      "pubYear": "2026",
+      "journalIssn": "0020-1669; 1520-510x; ",
+      "pageInfo": "24083-24096",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-21"
+    },
+    {
+      "id": "42820134",
+      "source": "MED",
+      "pmid": "42820134",
+      "pmcid": "PMC13626173",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13626173"
+        ]
+      },
+      "doi": "10.7759/cureus.115511",
+      "title": "Melanocyte-Fibroblast Crosstalk Under Visible Light and Infrared-A Exposure: A Narrative Review of Implications for Photoaging and Dyschromia.",
+      "authorString": "Rojas López AK, Arragan Lezama CA, Maradiaga Irias AY, Romero HV, Arguello Hernández JLJ, Flores Rodríguez JC.",
+      "journalTitle": "Cureus",
+      "issue": "8",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e115511",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-31",
+      "firstIndexDate": "2026-10-02"
+    },
+    {
+      "id": "42676781",
+      "source": "MED",
+      "pmid": "42676781",
+      "pmcid": "PMC13527699",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13527699"
+        ]
+      },
+      "doi": "10.34172/jlms.50021",
+      "title": "Effects of Photobiomodulation on Ventilatory Mechanics and Inflammatory Response in a Rat Model of Acute Lung Injury.",
+      "authorString": "Figueiredo RR, Pereira GS, Generoso LP, de Araújo JE, da Silva JRT, da Silva ML.",
+      "journalTitle": "J Lasers Med Sci",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2008-9783; 2228-6721; ",
+      "pageInfo": "e50021",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-16",
+      "firstIndexDate": "2026-09-02"
+    },
+    {
+      "id": "42449957",
+      "source": "MED",
+      "pmid": "42449957",
+      "pmcid": "PMC13361460",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13361460"
+        ]
+      },
+      "doi": "10.3390/ijms27135683",
+      "title": "Molecular Mechanisms of Photobiomodulation in Retinal Diseases: Cytochrome c Oxidase, Mitochondrial Bioenergetics and Cytoprotective Signalling.",
+      "authorString": "Siqueira RC.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "13",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "5683",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-24",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "42944934",
+      "source": "MED",
+      "pmid": "42944934",
+      "pmcid": "PMC13714148",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13714148"
+        ]
+      },
+      "doi": "10.1007/s10103-026-05077-y",
+      "title": "Red and near-infrared photobiomodulation in precision medicine: mechanisms, dosimetry, and clinical translation.",
+      "authorString": "Shi L, Lu J, Wei B, Zhou P.",
+      "journalTitle": "Lasers Med Sci",
+      "issue": "1",
+      "journalVolume": "41",
+      "pubYear": "2026",
+      "journalIssn": "0268-8921; 1435-604x; ",
+      "pageInfo": "276",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-27",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42316441",
+      "source": "MED",
+      "pmid": "42316441",
+      "pmcid": "PMC13279625",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13279625"
+        ]
+      },
+      "doi": "10.1002/hbm.70578",
+      "title": "Interhemispheric Metabolic Effects of Transcranial Infrared Laser Stimulation of the Prefrontal Cortex.",
+      "authorString": "O'Connor P, Lime T, Barrett DW, Huang LD, Gonzalez-Lima F.",
+      "journalTitle": "Hum Brain Mapp",
+      "issue": "9",
+      "journalVolume": "47",
+      "pubYear": "2026",
+      "journalIssn": "1065-9471; 1097-0193; ",
+      "pageInfo": "e70578",
+      "pubType": "research-article; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-06-19"
+    },
+    {
+      "id": "40071075",
+      "source": "MED",
+      "pmid": "40071075",
+      "pmcid": "PMC11892566",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11892566"
+        ]
+      },
+      "doi": "10.17691/stm2025.17.1.12",
+      "title": "Study of Minor Chromophores in Biological Tissues by Diffuse Optical Spectroscopy (Review).",
+      "authorString": "Bylinskaya KA, Perekatova VV, Turchin IV.",
+      "journalTitle": "Sovrem Tekhnologii Med",
+      "issue": "1",
+      "journalVolume": "17",
+      "pubYear": "2025",
+      "journalIssn": "2076-4243; 2309-995x; ",
+      "pageInfo": "146-162",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-02-28",
+      "firstIndexDate": "2025-03-12"
+    },
+    {
+      "id": "41721935",
+      "source": "MED",
+      "pmid": "41721935",
+      "pmcid": "PMC12924862",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12924862"
+        ]
+      },
+      "doi": "10.1007/s11064-026-04681-2",
+      "title": "Transcranial Photobiomodulation Modulates Oxidative Stress Biomarkers and Complex IV Activity in Anhedonic-Like Behavior.",
+      "authorString": "Bortoluzzi L, Colombo R, da Motta Pinto KB, Viscardi LH, Missiaggia R, Turella DJ, Schwantess L, Salvador M, Branco CS, Rigotti M, Scotton E, Schons T, Ribeiro SB, Caldieraro MA, Rosa AR.",
+      "journalTitle": "Neurochem Res",
+      "issue": "2",
+      "journalVolume": "51",
+      "pubYear": "2026",
+      "journalIssn": "0364-3190; 1573-6903; ",
+      "pageInfo": "83",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-21",
+      "firstIndexDate": "2026-02-22"
+    },
+    {
+      "id": "42734463",
+      "source": "MED",
+      "pmid": "42734463",
+      "pmcid": "PMC13667356",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13667356"
+        ]
+      },
+      "doi": "10.4103/mgr.medgasres-d-26-00051",
+      "title": "Application of medical gases in prevention and treatment of electromagnetic radiation injury.",
+      "authorString": "Xing Y, Chen F, Liu G, Bao S, Zhang X, Guo Z, Shou Z, Guo J.",
+      "journalTitle": "Med Gas Res",
+      "issue": "1",
+      "journalVolume": "17",
+      "pubYear": "2027",
+      "journalIssn": "2045-9912",
+      "pageInfo": "251-260",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-12",
+      "firstIndexDate": "2026-09-15"
+    },
+    {
+      "id": "42111017",
+      "source": "MED",
+      "pmid": "42111017",
+      "pmcid": "PMC13155822",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13155822"
+        ]
+      },
+      "doi": "10.1364/boe.590418",
+      "title": "MW-FlexNIRS: wearable, low-cost, LED-based, multi-wavelength NIRS oximeter for cytochrome c oxidase recovery in neonates.",
+      "authorString": "Otic N, Robinson MB, Wu KC, Sunwoo J, Davis J, Kierul O, Herzberg E, Franceschini MA, Renna M.",
+      "journalTitle": "Biomed Opt Express",
+      "issue": "4",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2156-7085",
+      "pageInfo": "1649-1672",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-04",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "41789284",
+      "source": "MED",
+      "pmid": "41789284",
+      "pmcid": "PMC12958274",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12958274"
+        ]
+      },
+      "doi": "10.34172/jlms.2025.69",
+      "title": "Biological and Therapeutic Responses of Human Skin to Different Wavelengths of Light: A Comprehensive Review.",
+      "authorString": "Ziveh T, Arjmand B, Razzaghi Z, Hossein-Khannazer N.",
+      "journalTitle": "J Lasers Med Sci",
+      "journalVolume": "16",
+      "pubYear": "2025",
+      "journalIssn": "2008-9783; 2228-6721; ",
+      "pageInfo": "e69",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-23",
+      "firstIndexDate": "2026-03-07"
+    },
+    {
+      "id": "41983886",
+      "source": "MED",
+      "pmid": "41983886",
+      "pmcid": "PMC13075973",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13075973"
+        ]
+      },
+      "doi": "10.1590/1516-3180.2025.3358.26012026",
+      "title": "Is photobiomodulation therapy free from racial bias?: a narrative review of skin pigmentation.",
+      "authorString": "Girasol CE, Bachmann L.",
+      "journalTitle": "Sao Paulo Med J",
+      "issue": "2",
+      "journalVolume": "144",
+      "pubYear": "2026",
+      "journalIssn": "1516-3180; 1806-9460; ",
+      "pageInfo": "e20253358",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-04-10",
+      "firstIndexDate": "2026-04-15"
+    },
+    {
+      "id": "42323782",
+      "source": "MED",
+      "pmid": "42323782",
+      "pmcid": "PMC13424281",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13424281"
+        ]
+      },
+      "doi": "10.1007/s40123-026-01427-9",
+      "title": "Near-Infrared and Red-Light Photobiomodulation for Ocular Aging and Diseases: A Narrative Review.",
+      "authorString": "Waisberg E, Ong J, Yaldo L, Kumar R, Wang W, Calabresi V, Coco G, Gonzalez-Lima F, Lee AG, Giannaccare G.",
+      "journalTitle": "Ophthalmol Ther",
+      "issue": "8",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2193-8245; 2193-6528; ",
+      "pageInfo": "2519-2543",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-21",
+      "firstIndexDate": "2026-06-22"
+    },
+    {
+      "id": "41752213",
+      "source": "MED",
+      "pmid": "41752213",
+      "pmcid": "PMC12940873",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12940873"
+        ]
+      },
+      "doi": "10.3390/ijms27042078",
+      "title": "Photobiomodulation and Low-Level Laser Therapy as Complementary Strategies in Diabetes Treatment.",
+      "authorString": "Kurhaluk N, Tomin V, Kołodziejska R, Tkaczenko H.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "4",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "2078",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-02-23",
+      "firstIndexDate": "2026-02-27"
+    },
+    {
+      "id": "42911963",
+      "source": "MED",
+      "pmid": "42911963",
+      "pmcid": "PMC13690205",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13690205"
+        ]
+      },
+      "doi": "10.1371/journal.pone.0351995",
+      "title": "630 nm light-emitting diode irradiation suppresses inflammation and promotes osteoblast differentiation in periodontal cell models - in vitro study.",
+      "authorString": "Lee JK, Lee MS, Jeong JH, Ahn SH.",
+      "journalTitle": "PLoS One",
+      "issue": "10",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1932-6203",
+      "pageInfo": "e0351995",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-22",
+      "firstIndexDate": "2026-10-24"
+    },
+    {
+      "id": "42416092",
+      "source": "MED",
+      "pmid": "42416092",
+      "pmcid": "PMC13337905",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13337905"
+        ]
+      },
+      "doi": "10.3389/fped.2026.1819736",
+      "title": "Alterations in urinary metals following pulsed 660 nm photobiomodulation in a pediatric patient with autism spectrum disorder: a case report.",
+      "authorString": "Zaharakis A, Bogner C.",
+      "journalTitle": "Front Pediatr",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2296-2360",
+      "pageInfo": "1819736",
+      "pubType": "brief-report; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-23",
+      "firstIndexDate": "2026-07-08"
+    },
+    {
+      "id": "41076475",
+      "source": "MED",
+      "pmid": "41076475",
+      "pmcid": "PMC13221298",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13221298"
+        ]
+      },
+      "doi": "10.1038/s41390-025-04446-7",
+      "title": "Neonatal cerebral hemodynamics under elevated intracranial pressure: a near-infrared spectroscopy study in piglets.",
+      "authorString": "Karagulleoglu-Kunduraci S, Kamar F, Eskandari R, Samaei S, Diop M.",
+      "journalTitle": "Pediatr Res",
+      "issue": "5",
+      "journalVolume": "99",
+      "pubYear": "2026",
+      "journalIssn": "0031-3998; 1530-0447; ",
+      "pageInfo": "2019-2026",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-10-11",
+      "firstIndexDate": "2025-10-12"
+    },
+    {
+      "id": "42510506",
+      "source": "MED",
+      "pmid": "42510506",
+      "pmcid": "PMC13404922",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13404922"
+        ]
+      },
+      "doi": "10.3390/bioengineering13070841",
+      "title": "Ce3Light: Design, Construction, and Testing of a Light-Irradiation System for In Vitro Cell Studies.",
+      "authorString": "Handl J, Radochlibová H, Čapek J, Roušar T, Babicová P, Ferenčík N, Danko M, Hudák R.",
+      "journalTitle": "Bioengineering (Basel)",
+      "issue": "7",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2306-5354",
+      "pageInfo": "841",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-21",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "41994801",
+      "source": "MED",
+      "pmid": "41994801",
+      "pmcid": "PMC13082436",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13082436"
+        ]
+      },
+      "doi": "10.7759/cureus.105322",
+      "title": "Optimizing Brain Biology Through Near-Infrared-Induced Mitochondrial Melatonin Synthesis: A Hypothesis Paper.",
+      "authorString": "Mercola J.",
+      "journalTitle": "Cureus",
+      "issue": "3",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e105322",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "refsnp",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-16",
+      "firstIndexDate": "2026-04-18"
+    },
+    {
+      "id": "PMC13673771",
+      "source": "PMC",
+      "pmcid": "PMC13673771",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13673771"
+        ]
+      },
+      "title": "The impact of photobiomodulation therapy by diode lasers at wavelengths of 450 nm, 980 nm and their combinations on the proliferation and differentiation of periodontal ligament mesenchymal stem cells",
+      "authorString": "Etemadi A, Kiani K, Saligheh Rad M, Chiniforush N.",
+      "journalTitle": "BMC Oral Health",
+      "issue": "1",
+      "journalVolume": "26",
+      "pubYear": "2026",
+      "journalIssn": "1472-6831",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-01-01",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "41486327",
+      "source": "MED",
+      "pmid": "41486327",
+      "pmcid": "PMC12936234",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12936234"
+        ]
+      },
+      "doi": "10.1007/s13555-025-01642-5",
+      "title": "Visible Light Protection Strategies for Diverse Populations.",
+      "authorString": "Visser WI, Amien A, Moola H, Naidoo K.",
+      "journalTitle": "Dermatol Ther (Heidelb)",
+      "issue": "2",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2193-8210; 1476-5829; ",
+      "pageInfo": "833-854",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-05",
+      "firstIndexDate": "2026-01-05"
+    },
+    {
+      "id": "42147463",
+      "source": "MED",
+      "pmid": "42147463",
+      "pmcid": "PMC13176143",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13176143"
+        ]
+      },
+      "doi": "10.3389/fnagi.2026.1757765",
+      "title": "Cerebrovascular-CSF coupling measured by broadband near-infrared spectroscopy as a physiological marker of brain aging and Alzheimer's disease.",
+      "authorString": "Saeed F, Siepker KL, Jang S, Shahdadian S, Liu H.",
+      "journalTitle": "Front Aging Neurosci",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "1663-4365",
+      "pageInfo": "1757765",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-05-19"
+    },
+    {
+      "id": "42434508",
+      "source": "MED",
+      "pmid": "42434508",
+      "pmcid": "PMC13353059",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13353059"
+        ]
+      },
+      "doi": "10.1039/d6sc02528e",
+      "title": "Tuning the microenvironment of bioinspired Fe-Cu molecular electrocatalysts for efficient oxygen reduction reaction in zinc-air batteries.",
+      "authorString": "Yang KZ, Dong J, Xu C, Guo PP, Zhao YM, Jia L, Yang Y, Zhu HN, Yuan WQ, Wei PJ, Wang ZQ, Liu JG.",
+      "journalTitle": "Chem Sci",
+      "issue": "33",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2041-6520; 2041-6539; ",
+      "pageInfo": "15965-15974",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "pdb"
+        ]
+      },
+      "firstPublicationDate": "2026-07-02",
+      "firstIndexDate": "2026-07-12"
+    },
+    {
+      "id": "42315692",
+      "source": "MED",
+      "pmid": "42315692",
+      "pmcid": "PMC13279567",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13279567"
+        ]
+      },
+      "doi": "10.1007/s10103-026-04928-y",
+      "title": "Clinical dosimetry and efficacy of LED photobiomodulation for chronic lower-limb wound healing: a systematic review of randomized trials.",
+      "authorString": "Miranda MB, Barros ACS, de Paula AVL, Alves RF, da Rocha RB, Cardoso VS.",
+      "journalTitle": "Lasers Med Sci",
+      "issue": "1",
+      "journalVolume": "41",
+      "pubYear": "2026",
+      "journalIssn": "0268-8921; 1435-604x; ",
+      "pageInfo": "117",
+      "pubType": "systematic review; review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-19",
+      "firstIndexDate": "2026-06-19"
+    },
+    {
+      "id": "41466382",
+      "source": "MED",
+      "pmid": "41466382",
+      "pmcid": "PMC12751248",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12751248"
+        ]
+      },
+      "doi": "10.1186/s12967-025-07466-3",
+      "title": "From light to healing: photobiomodulation therapy in medical disciplines.",
+      "authorString": "Shivappa P, Basha S, Biswas S, Prabhu V, Prabhu SS, Pai AR, Mahato KK.",
+      "journalTitle": "J Transl Med",
+      "issue": "1",
+      "journalVolume": "23",
+      "pubYear": "2025",
+      "journalIssn": "1479-5876",
+      "pageInfo": "1430",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 15,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-29",
+      "firstIndexDate": "2026-01-02"
+    },
+    {
+      "id": "41255732",
+      "source": "MED",
+      "pmid": "41255732",
+      "pmcid": "PMC12620531",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12620531"
+        ]
+      },
+      "doi": "10.34172/jlms.2025.35",
+      "title": "Effectiveness of 808 nm Near Infrared (NIR) Laser Photobiomodulation for Accelerating Postoperative Wound Healing.",
+      "authorString": "Nurfitri WE, Astuti SD, Widiyanti P, Wibowo R, Wibowo H, Arifianto D, Winarno W, Yaqubi AK, Nurdin M, Abd Razak NA.",
+      "journalTitle": "J Lasers Med Sci",
+      "journalVolume": "16",
+      "pubYear": "2025",
+      "journalIssn": "2008-9783; 2228-6721; ",
+      "pageInfo": "e35",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-09-17",
+      "firstIndexDate": "2025-11-19"
+    },
+    {
+      "id": "41112941",
+      "source": "MED",
+      "pmid": "41112941",
+      "pmcid": "PMC12530142",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12530142"
+        ]
+      },
+      "doi": "10.1117/1.jbo.30.s3.s34113",
+      "title": "Single-distance, phase-only frequency-domain NIRS for vascular oxygenation and tissue metabolism: a Monte Carlo simulation study.",
+      "authorString": "Faiyazuddin M, Tang H, Hu Y, Bartlett M, Nelson MD, Liu H.",
+      "journalTitle": "J Biomed Opt",
+      "issue": "suppl 3",
+      "journalVolume": "30",
+      "pubYear": "2025",
+      "journalIssn": "1083-3668; 1560-2281; ",
+      "pageInfo": "S34113",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-10-16",
+      "firstIndexDate": "2025-10-20"
+    },
+    {
+      "id": "42326590",
+      "source": "MED",
+      "pmid": "42326590",
+      "pmcid": "PMC13282753",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13282753"
+        ]
+      },
+      "doi": "10.1016/j.arrct.2026.100585",
+      "title": "Efficacy of Adjunctive Photobiomodulation in Patellofemoral Pain Syndrome: A Systematic Review and Meta-Analysis.",
+      "authorString": "Chen H, Asawaphureekorn S, Manimmanakorn N, Wang X, Eungpinichpong W.",
+      "journalTitle": "Arch Rehabil Res Clin Transl",
+      "issue": "2",
+      "journalVolume": "8",
+      "pubYear": "2026",
+      "journalIssn": "2590-1095",
+      "pageInfo": "100585",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-01-16",
+      "firstIndexDate": "2026-06-23"
+    },
+    {
+      "id": "41577976",
+      "source": "MED",
+      "pmid": "41577976",
+      "pmcid": "PMC12830801",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12830801"
+        ]
+      },
+      "doi": "10.1038/s41598-026-35389-6",
+      "title": "LED lighting (350-650nm) undermines human visual performance unless supplemented by wider spectra (400-1500nm+) like daylight.",
+      "authorString": "Barrett EM, Jeffery G.",
+      "journalTitle": "Sci Rep",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2045-2322",
+      "pageInfo": "3061",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-23",
+      "firstIndexDate": "2026-01-24"
+    },
+    {
+      "id": "41403976",
+      "source": "MED",
+      "pmid": "41403976",
+      "pmcid": "PMC12704368",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12704368"
+        ]
+      },
+      "doi": "10.1117/1.jbo.30.12.126007",
+      "title": "Versatile and comprehensive hyperspectral imaging tool for molecular neuronavigation: a case study on cerebral gliomas.",
+      "authorString": "Nardini D, Toaha A, Bonaudo C, Ezhov I, Artemiou A, Camelia M, Nozzoli F, Giannoni L, Tachtsidis I, Della Puppa A, Rueckert D, Ricci P, Pavone F.",
+      "journalTitle": "J Biomed Opt",
+      "issue": "12",
+      "journalVolume": "30",
+      "pubYear": "2025",
+      "journalIssn": "1083-3668; 1560-2281; ",
+      "pageInfo": "126007",
+      "pubType": "research-article; clinical study; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-15",
+      "firstIndexDate": "2025-12-17"
+    },
+    {
+      "id": "41397700",
+      "source": "MED",
+      "pmid": "41397700",
+      "pmcid": "PMC12977303",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12977303"
+        ]
+      },
+      "doi": "10.1002/jbio.202500374",
+      "title": "A Label-Free Hyperspectral Imaging Device for Ex Vivo Characterization and Grading of Meningioma Tissues.",
+      "authorString": "Ricci P, Bonaudo C, Ezhov I, Toaha A, Nardini D, Camelia M, Lucidi F, Nozzoli F, Mach T, Tachtsidis I, Rueckert D, Della Puppa A, Giannoni L, Pavone FS.",
+      "journalTitle": "J Biophotonics",
+      "issue": "3",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1864-063x; 1864-0648; ",
+      "pageInfo": "e202500374",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-15",
+      "firstIndexDate": "2025-12-16"
+    },
+    {
+      "id": "42378379",
+      "source": "MED",
+      "pmid": "42378379",
+      "pmcid": "PMC13318167",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13318167"
+        ]
+      },
+      "doi": "10.1002/cbf.70250",
+      "title": "Integration of Three-Dimensional Cell Culture Techniques and Photobiomodulation for Supportive Differentiation of Adipose-Derived Stem Cells into Smooth Muscle.",
+      "authorString": "Mbuyu C, Abrahamse H, Crous A.",
+      "journalTitle": "Cell Biochem Funct",
+      "issue": "7",
+      "journalVolume": "44",
+      "pubYear": "2026",
+      "journalIssn": "0263-6484; 1099-0844; ",
+      "pageInfo": "e70250",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-02"
+    },
+    {
+      "id": "41587416",
+      "source": "MED",
+      "pmid": "41587416",
+      "pmcid": "PMC12892251",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12892251"
+        ]
+      },
+      "doi": "10.1021/acsbiomaterials.5c01969",
+      "title": "Synergistic Neuroprotection in Parkinson's Disease via Photobiomodulation and Liposomal Rosmarinic Acid Delivery.",
+      "authorString": "Su TY, Wang CY, Huang WT, Chang MY, Chan MH, Liu RS.",
+      "journalTitle": "ACS Biomater Sci Eng",
+      "issue": "2",
+      "journalVolume": "12",
+      "pubYear": "2026",
+      "journalIssn": "2373-9878",
+      "pageInfo": "906-921",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-26",
+      "firstIndexDate": "2026-01-26"
+    },
+    {
+      "id": "42934669",
+      "source": "MED",
+      "pmid": "42934669",
+      "pmcid": "PMC13711705",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13711705"
+        ]
+      },
+      "doi": "10.1186/s12943-026-02754-y",
+      "title": "Trace elements and tumors: homeostatic networks, molecular mechanisms and new horizons for precision intervention.",
+      "authorString": "Zhang S, Tan K, Zhang Q, Zhao Y, Cheng Z, Yang X, Dong J, Liu J, Ma X.",
+      "journalTitle": "Mol Cancer",
+      "issue": "1",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1476-4598",
+      "pageInfo": "255",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-30",
+      "firstIndexDate": "2026-10-27"
+    },
+    {
+      "id": "42923700",
+      "source": "MED",
+      "pmid": "42923700",
+      "pmcid": "PMC13687937",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13687937"
+        ]
+      },
+      "doi": "10.1002/nap2.70340",
+      "title": "Ultra-Weak Photon Emission as a By-Product of Mitochondrial Oxidative Metabolism: Mechanisms, Limits, and Implications.",
+      "authorString": "Crowther S, Attenborough A, Vollmer F.",
+      "journalTitle": "Nanophotonics",
+      "issue": "20",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2192-8606; 2192-8614; ",
+      "pageInfo": "e70340",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-22",
+      "firstIndexDate": "2026-10-25"
+    },
+    {
+      "id": "40703263",
+      "source": "MED",
+      "pmid": "40703263",
+      "pmcid": "PMC12283276",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12283276"
+        ]
+      },
+      "doi": "10.3389/fmed.2025.1550662",
+      "title": "Photobiomodulation therapy in keloid management: a comprehensive review.",
+      "authorString": "Prananda AT, Syahputra RA.",
+      "journalTitle": "Front Med (Lausanne)",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2296-858x",
+      "pageInfo": "1550662",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-07-09",
+      "firstIndexDate": "2025-07-24"
+    },
+    {
+      "id": "41114886",
+      "source": "MED",
+      "pmid": "41114886",
+      "pmcid": "PMC12537602",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12537602"
+        ]
+      },
+      "doi": "10.1007/s10103-025-04688-1",
+      "title": "Comparative photobiomodulatory effects of 660 nm, 810 nm, and 940 nm diode lasers on platelet-rich fibrin: an ex vivo study on structural remodeling and VEGF/PDGF-BB release for enhanced periodontal healing.",
+      "authorString": "Kohir S, V Kurumathur A, Sharma A, A Sharma L, Alavi SE, Suresh R.",
+      "journalTitle": "Lasers Med Sci",
+      "issue": "1",
+      "journalVolume": "40",
+      "pubYear": "2025",
+      "journalIssn": "0268-8921; 1435-604x; ",
+      "pageInfo": "446",
+      "pubType": "comparative study; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-10-20",
+      "firstIndexDate": "2025-10-20"
+    }
+  ]
+}

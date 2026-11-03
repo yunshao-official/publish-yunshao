@@ -1,0 +1,15 @@
+编号	判据	检索式	执行UTC	HTTP	hitCount	取回	句数	文件
+S1	CC-1	ABSTRACT:"action spectrum" AND (ABSTRACT:"cytochrome c oxidase" OR ABSTRACT:"cytochrome oxidase")	2026-11-03T04:39:23Z	200	16	16	6	S1_CC-1.json
+S2	CC-1	ABSTRACT:"cytochrome c oxidase" AND ABSTRACT:"absorption peak" AND ABSTRACT:nm	2026-11-03T04:39:23Z	200	8	8	6	S2_CC-1.json
+S3	CC-1	ABSTRACT:"optical window" AND ABSTRACT:"tissue" AND ABSTRACT:nm	2026-11-03T04:39:23Z	200	94	25	6	S3_CC-1.json
+S4	CC-5	ABSTRACT:"myocardial external efficiency"	2026-11-03T04:39:23Z	200	29	25	8	S4_CC-5.json
+S5	CC-5	ABSTRACT:"cardiac power output" AND ABSTRACT:(W OR watts)	2026-11-03T04:39:23Z	200	92	25	6	S5_CC-5.json
+S6	CC-4	ABSTRACT:"cardiomyocyte" AND (ABSTRACT:"renewal" OR ABSTRACT:"turnover")	2026-11-03T04:39:23Z	200	413	25	6	S6_CC-4.json
+S7	CC-2	ABSTRACT:(PROMISE OR vesnarinone) AND ABSTRACT:milrinone AND ABSTRACT:mortality	2026-11-03T04:39:23Z	200	15	15	6	S7_CC-2.json
+S8	CC-2	ABSTRACT:"MERIT-HF" AND ABSTRACT:"mortality"	2026-11-03T04:39:23Z	200	54	25	8	S8_CC-2.json
+S9	CC-2	ABSTRACT:"CIBIS-II" AND ABSTRACT:"death"	2026-11-03T04:39:23Z	200	15	15	8	S9_CC-2.json
+S10	CC-3	ABSTRACT:"SHIFT" AND ABSTRACT:"ivabradine" AND ABSTRACT:"hospitalization"	2026-11-03T04:39:23Z	200	41	25	8	S10_CC-3.json
+S11	CC-10	ABSTRACT:"Dog Aging Project" AND (ABSTRACT:rapamycin OR ABSTRACT:"clinical trial")	2026-11-03T04:39:23Z	200	1	1	0	S11_CC-10.json
+S12	CC-10	ABSTRACT:"caloric restriction" AND ABSTRACT:"rhesus" AND ABSTRACT:survival	2026-11-03T04:39:23Z	200	5	5	2	S12_CC-10.json
+S13	CC-8	ABSTRACT:"senolytic" AND (ABSTRACT:"clearance" OR ABSTRACT:"dasatinib") AND (ABSTRACT:"old" OR ABSTRACT:"aged") AND ABSTRACT:"healthspan"	2026-11-03T04:39:23Z	200	0	0	0	S13_CC-8.json
+S14	CC-12	ABSTRACT:"nicotinamide riboside" AND ABSTRACT:"randomized"	2026-11-03T04:39:23Z	200	58	25	6	S14_CC-12.json

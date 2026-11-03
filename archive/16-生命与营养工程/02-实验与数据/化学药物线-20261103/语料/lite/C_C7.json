@@ -1,0 +1,211 @@
+{
+  "query_id": "C7",
+  "group": "C",
+  "query": "\"dietary supplement\" AND \"adjunctive cancer therapy\" AND adverse",
+  "hitCount": 5,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:35.917457+00:00",
+  "results": [
+    {
+      "id": "41311798",
+      "source": "MED",
+      "pmid": "41311798",
+      "pmcid": "PMC12649713",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12649713"
+        ]
+      },
+      "doi": "10.3389/fnut.2025.1677464",
+      "title": "A systematic review on the health effects of fermented wheat germ extract with emphasis on cancer.",
+      "authorString": "Berkel Kasikci M, Issa A, Baglam N, Dincer E, Gérard A, Kabakci S, Özyurt VH, Zalán Z, Şar T, Gündüz Ergün B, Chassard C, Praćer S, Vergères G, Guzel M.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2296-861x",
+      "pageInfo": "1677464",
+      "pubType": "systematic review; systematic-review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-12",
+      "firstIndexDate": "2025-11-28"
+    },
+    {
+      "id": "40837429",
+      "source": "MED",
+      "pmid": "40837429",
+      "pmcid": "PMC12361135",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12361135"
+        ]
+      },
+      "doi": "10.3389/fnut.2025.1654911",
+      "title": "Mushroom marvels: understanding their role in human health.",
+      "authorString": "Noreen S, Sultan H, Hashmi B, Aja PM, Atoki AV.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2296-861x",
+      "pageInfo": "1654911",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-08-05",
+      "firstIndexDate": "2025-08-22"
+    },
+    {
+      "id": "37776274",
+      "source": "MED",
+      "pmid": "37776274",
+      "pmcid": "PMC10976464",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC10976464"
+        ]
+      },
+      "doi": "10.1177/03915603231202304",
+      "title": "Effects of curcumin and ursolic acid in prostate cancer: A systematic review.",
+      "authorString": "Besasie BD, Saha A, DiGiovanni J, Liss MA.",
+      "journalTitle": "Urologia",
+      "issue": "1",
+      "journalVolume": "91",
+      "pubYear": "2024",
+      "journalIssn": "0391-5603; 1724-6075; ",
+      "pageInfo": "90-106",
+      "pubType": "systematic review; review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 11,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2023-09-30",
+      "firstIndexDate": "2023-10-01"
+    },
+    {
+      "id": "42204538",
+      "source": "MED",
+      "pmid": "42204538",
+      "pmcid": "PMC13411983",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13411983"
+        ]
+      },
+      "doi": "10.1186/s12943-026-02698-3",
+      "title": "The mycobiome, virome and archaeome in gastrointestinal cancers: molecular pathogenesis and therapeutic intervention.",
+      "authorString": "Cheng CH, Wong CC.",
+      "journalTitle": "Mol Cancer",
+      "issue": "1",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1476-4598",
+      "pageInfo": "182",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-28",
+      "firstIndexDate": "2026-05-28"
+    },
+    {
+      "id": "31728156",
+      "source": "MED",
+      "pmid": "31728156",
+      "pmcid": "PMC6842171",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC6842171"
+        ]
+      },
+      "doi": "10.1186/s13020-019-0271-8",
+      "title": "Endophytes from <i>Ginkgo biloba</i> and their secondary metabolites.",
+      "authorString": "Yuan Z, Tian Y, He F, Zhou H.",
+      "journalTitle": "Chin Med",
+      "journalVolume": "14",
+      "pubYear": "2019",
+      "journalIssn": "1749-8546",
+      "pageInfo": "51",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 17,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen"
+        ]
+      },
+      "firstPublicationDate": "2019-11-08",
+      "firstIndexDate": "2019-11-16"
+    }
+  ]
+}

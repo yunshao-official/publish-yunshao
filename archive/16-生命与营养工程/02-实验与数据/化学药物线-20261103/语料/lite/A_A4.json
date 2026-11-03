@@ -1,0 +1,1836 @@
+{
+  "query_id": "A4",
+  "group": "A",
+  "query": "levosimendan AND trial",
+  "hitCount": 2131,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:27:48.415679+00:00",
+  "results": [
+    {
+      "id": "42824027",
+      "source": "MED",
+      "pmid": "42824027",
+      "pmcid": "PMC13627038",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13627038"
+        ]
+      },
+      "doi": "10.3389/fcvm.2026.1850394",
+      "title": "Early use of levosimendan to improve survival and neurological outcomes after cardiac arrest with myocardial dysfunction: a protocol for a randomized controlled trial.",
+      "authorString": "De Z, Xu N, Zhang H, Yang F, Du L.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2297-055x",
+      "pageInfo": "1850394",
+      "pubType": "methods-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-17",
+      "firstIndexDate": "2026-10-03"
+    },
+    {
+      "id": "42595680",
+      "source": "MED",
+      "pmid": "42595680",
+      "doi": "10.1053/j.jvca.2026.07.044",
+      "title": "Levosimendan During VA-ECMO for Cardiogenic Shock: An Updated Systematic Review and Meta-analysis Including the LEVOECMO Trial.",
+      "authorString": "Jiang Z, Zhang Y, Zhang G.",
+      "journalTitle": "J Cardiothorac Vasc Anesth",
+      "pubYear": "2026",
+      "journalIssn": "1053-0770; 1532-8422; ",
+      "pageInfo": "S1053-0770(26)00634-8",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-24",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "42757330",
+      "source": "MED",
+      "pmid": "42757330",
+      "pmcid": "PMC13585204",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13585204"
+        ]
+      },
+      "doi": "10.7759/cureus.114745",
+      "title": "Levosimendan for Weaning From Veno-Arterial Extracorporeal Membrane Oxygenation in Cardiogenic Shock: An Umbrella Review.",
+      "authorString": "Kshatri AHS, Saif M, Saleem S, Habib M, Malik MZ, Hussain A, Arif S.",
+      "journalTitle": "Cureus",
+      "issue": "8",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e114745",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-18",
+      "firstIndexDate": "2026-09-19"
+    },
+    {
+      "id": "42161542",
+      "source": "MED",
+      "pmid": "42161542",
+      "pmcid": "PMC13202070",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13202070"
+        ]
+      },
+      "doi": "10.1136/bmjopen-2026-117615",
+      "title": "Weaning from invasive ventilation with levosimendan (WEANLESS): study protocol for a multicentre randomised clinical trial.",
+      "authorString": "De Leijer E, Hofma C, Serpa Neto A, Hunfeld NGM, Schultz MJ, Doorduin J, Heunks L.",
+      "journalTitle": "BMJ Open",
+      "issue": "5",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2044-6055",
+      "pageInfo": "e117615",
+      "pubType": "clinical trial protocol; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-20",
+      "firstIndexDate": "2026-05-21"
+    },
+    {
+      "id": "42032778",
+      "source": "MED",
+      "pmid": "42032778",
+      "pmcid": "PMC13107766",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13107766"
+        ]
+      },
+      "doi": "10.1186/s40560-026-00884-5",
+      "title": "Drug sequestration and metabolite formation: key pharmacokinetic challenges for levosimendan use during ECMO support in cardiogenic shock.",
+      "authorString": "Tebib N, Liaudet L, Ltaief Z.",
+      "journalTitle": "J Intensive Care",
+      "issue": "1",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2052-0492",
+      "pageInfo": "40",
+      "pubType": "letter",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-04-24",
+      "firstIndexDate": "2026-04-25"
+    },
+    {
+      "id": "42238618",
+      "source": "MED",
+      "pmid": "42238618",
+      "pmcid": "PMC13227365",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13227365"
+        ]
+      },
+      "doi": "10.31083/rcm47062",
+      "title": "Levosimendan in Cardiogenic Shock: A Review of Mechanisms, Clinical Evidence, and Therapeutic Use.",
+      "authorString": "Salvini S, Trivelloni V, Monaco I, Bouhaik FS, Chouarfia I, Guefrachi I, Bencharef Y, Sedrati M, Mouhand C, Bottigliero D.",
+      "journalTitle": "Rev Cardiovasc Med",
+      "issue": "5",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1530-6550",
+      "pageInfo": "47062",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-21",
+      "firstIndexDate": "2026-06-05"
+    },
+    {
+      "id": "42101006",
+      "source": "MED",
+      "pmid": "42101006",
+      "pmcid": "PMC13460331",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13460331"
+        ]
+      },
+      "doi": "10.1097/aln.0000000000006143",
+      "title": "Short- and Long-term Efficacy and Safety of Levosimendan in Veno-arterial Extracorporeal Membrane Oxygenation Weaning: The WEANILEVO Randomized Double-blind Multicenter Trial.",
+      "authorString": "Guinot PG, Berthoud V, Soudry-Faure A, Abou-Arab O, Mertes PM, Fischer MO, Moussa M, Ellouze O, Nguyen M, Bouhemad B, for WEANILEVO trial group.",
+      "journalTitle": "Anesthesiology",
+      "issue": "3",
+      "journalVolume": "145",
+      "pubYear": "2026",
+      "journalIssn": "0003-3022; 1528-1175; ",
+      "pageInfo": "676-688",
+      "pubType": "research-article; multicenter study; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-05-08",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "42299625",
+      "source": "MED",
+      "pmid": "42299625",
+      "pmcid": "PMC13282894",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13282894"
+        ]
+      },
+      "doi": "10.1093/eschf/xvag164",
+      "title": "Premature stopping of LEIA-HF: protecting trial participants while preserving clinical knowledge.",
+      "authorString": "Grand J, Olesen ASO, Jakobsen JC.",
+      "journalTitle": "ESC Heart Fail",
+      "issue": "3",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2055-5822",
+      "pageInfo": "xvag164",
+      "pubType": "letter; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-06-16"
+    },
+    {
+      "id": "42828358",
+      "source": "MED",
+      "pmid": "42828358",
+      "pmcid": "PMC13632881",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13632881"
+        ]
+      },
+      "doi": "10.1021/acsptsci.6c00195",
+      "title": "Cross-Sectional Plasma Proteomic Phenotypes Associated with Prolonged Intermittent Levosimendan Exposure in Advanced Heart Failure.",
+      "authorString": "Mesquita Bastos J, Cruz I, Santos L, Vitorino R.",
+      "journalTitle": "ACS Pharmacol Transl Sci",
+      "issue": "9",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2575-9108",
+      "pageInfo": "2513-2524",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-25",
+      "firstIndexDate": "2026-10-04"
+    },
+    {
+      "id": "42029150",
+      "source": "MED",
+      "pmid": "42029150",
+      "pmcid": "PMC13178255",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13178255"
+        ]
+      },
+      "doi": "10.1093/eschf/xvag120",
+      "title": "The quantitative haemodynamic effect of levosimendan, dobutamine, and milrinone in heart failure patients: a meta-analysis.",
+      "authorString": "Nuzzi V, Madaudo C, Manca P, Cannata A, Raffa G, Mulè M, Cannata S, La Franca E, Pisano C, Cipriani M, Lorusso R.",
+      "journalTitle": "ESC Heart Fail",
+      "issue": "3",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2055-5822",
+      "pageInfo": "xvag120",
+      "pubType": "meta-analysis; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-04-24"
+    },
+    {
+      "id": "41705523",
+      "source": "MED",
+      "pmid": "41705523",
+      "pmcid": "PMC12917909",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12917909"
+        ]
+      },
+      "doi": "10.21470/1678-9741-2025-0057",
+      "title": "Levosimendan vs. Intra-Aortic Balloon Pump in Coronary Artery Bypass Grafting: A Meta-Analysis.",
+      "authorString": "Wang Y, Qu J, Sheng D, Sun X, Zhong L, Wu Y, Liang H.",
+      "journalTitle": "Braz J Cardiovasc Surg",
+      "issue": "3",
+      "journalVolume": "41",
+      "pubYear": "2026",
+      "journalIssn": "0102-7638; 1678-9741; ",
+      "pubType": "meta-analysis; comparative study; research-article; systematic review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-02-19"
+    },
+    {
+      "id": "42739538",
+      "source": "MED",
+      "pmid": "42739538",
+      "pmcid": "PMC13566849",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13566849"
+        ]
+      },
+      "doi": "10.3390/jcm15176532",
+      "title": "Update on Perioperative Prevention of Cardiac Surgery-Associated Acute Kidney Injury.",
+      "authorString": "Baeza L, Avanzas P, Delgado-Martí C, García-Delgado M, Gómez-Estanga S, González JML, Montero-López P, Vives M.",
+      "journalTitle": "J Clin Med",
+      "issue": "17",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2077-0383",
+      "pageInfo": "6532",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-24",
+      "firstIndexDate": "2026-09-15"
+    },
+    {
+      "id": "42871223",
+      "source": "MED",
+      "pmid": "42871223",
+      "doi": "10.3389/fcvm.2026.1918976",
+      "title": "Reading discordant bedside indices in sepsis-induced cardiomyopathy: an evidence-mapping framework for diagnosis and trial design.",
+      "authorString": "Zhang L, Zhang S.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2297-055x",
+      "pageInfo": "1918976",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-29",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "41756164",
+      "source": "MED",
+      "pmid": "41756164",
+      "pmcid": "PMC12932496",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12932496"
+        ]
+      },
+      "doi": "10.3389/fcvm.2025.1673410",
+      "title": "Effect of levosimendan treatment in cardiac surgery: a network meta-analysis of randomized controlled trials.",
+      "authorString": "Zhu B, Zhao W, Li Y.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2297-055x",
+      "pageInfo": "1673410",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-11",
+      "firstIndexDate": "2026-02-27"
+    },
+    {
+      "id": "42907944",
+      "source": "MED",
+      "pmid": "42907944",
+      "pmcid": "PMC13689082",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13689082"
+        ]
+      },
+      "doi": "10.1186/s44158-026-00408-5",
+      "title": "Pharmacology of vasopressors and inotropes during extracorporeal membrane oxygenation.",
+      "authorString": "Brinkman HM, Ortoleva JP, Elliott AG, Pisano DV, Ripoll JG, Martin NJ, Seelhammer TG, Kraybill MA, Elmadhoun O, Bottussi A, Leone M, Wittwer ED, Bignami EG, D'Andria Ursoleo J, Wieruszewski PM.",
+      "journalTitle": "J Anesth Analg Crit Care",
+      "issue": "1",
+      "journalVolume": "6",
+      "pubYear": "2026",
+      "journalIssn": "2731-3786",
+      "pageInfo": "133",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-27",
+      "firstIndexDate": "2026-10-23"
+    },
+    {
+      "id": "41568919",
+      "source": "MED",
+      "pmid": "41568919",
+      "doi": "10.1097/fjc.0000000000001797",
+      "title": "Safety of Repeated Levosimendan Use in Chronic Heart Failure.",
+      "authorString": "Semenycheva I, Larina S, Zakharova L, Vakolyuk R.",
+      "journalTitle": "J Cardiovasc Pharmacol",
+      "issue": "3",
+      "journalVolume": "87",
+      "pubYear": "2026",
+      "journalIssn": "0160-2446; 1533-4023; ",
+      "pageInfo": "150-159",
+      "pubType": "multicenter study; randomized controlled trial; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-01",
+      "firstIndexDate": "2026-01-23"
+    },
+    {
+      "id": "42244820",
+      "source": "MED",
+      "pmid": "42244820",
+      "pmcid": "PMC13232745",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13232745"
+        ]
+      },
+      "doi": "10.1093/ehjcr/ytag349",
+      "title": "Successful use of levosimendan in managing refractory coronary vasospasm leading to recurrent cardiac arrests: a case report.",
+      "authorString": "Ralota KK, Wang W, Layland J.",
+      "journalTitle": "Eur Heart J Case Rep",
+      "issue": "6",
+      "journalVolume": "10",
+      "pubYear": "2026",
+      "journalIssn": "2514-2119",
+      "pageInfo": "ytag349",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-15",
+      "firstIndexDate": "2026-06-06"
+    },
+    {
+      "id": "41287413",
+      "source": "MED",
+      "pmid": "41287413",
+      "pmcid": "PMC12645084",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12645084"
+        ]
+      },
+      "doi": "10.1111/aas.70159",
+      "title": "Levosimendan in Cardiac Arrest (LeiCA): Protocol for a Randomized, Double-Blind, Phase II Clinical Trial.",
+      "authorString": "Rysz S, Flam B, Hedberg M, Galmén K, Mårtensson J, Djärv T, Jonsson Fagerlund M.",
+      "journalTitle": "Acta Anaesthesiol Scand",
+      "issue": "1",
+      "journalVolume": "70",
+      "pubYear": "2026",
+      "journalIssn": "0001-5172; 1399-6576; ",
+      "pageInfo": "e70159",
+      "pubType": "clinical trial protocol; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-01",
+      "firstIndexDate": "2025-11-25"
+    },
+    {
+      "id": "41711226",
+      "source": "MED",
+      "pmid": "41711226",
+      "pmcid": "PMC13108320",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13108320"
+        ]
+      },
+      "doi": "10.1093/eschf/xvag021",
+      "title": "The possible impact of levosimendan infusions on clinical course of heart failure: the results of the LEIA-HF study.",
+      "authorString": "Kazimierczyk E, Kazimierczyk R, Imiela AM, Południewska D, Rogalska E, Szyszkowska A, Mickiewicz K, Kukliński F, Fernandez-Moreno T, Gierlotka M, Straburzyńska-Migaj E, Nessler JM, Pawlak A, Gąsior M, Kubica J, Jaguszewski M, Kasprzak JD, Bielecka-Dąbrowa A, Wojakowski W, Leszek P, Szarpak Ł, Tycińska A.",
+      "journalTitle": "ESC Heart Fail",
+      "issue": "1",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2055-5822",
+      "pageInfo": "xvag021",
+      "pubType": "research-article; multicenter study; randomized controlled trial; journal article; clinical trial, phase iv",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-01",
+      "firstIndexDate": "2026-02-20"
+    },
+    {
+      "id": "41324946",
+      "source": "MED",
+      "pmid": "41324946",
+      "pmcid": "PMC12670262",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12670262"
+        ]
+      },
+      "doi": "10.1001/jama.2025.19843",
+      "title": "Levosimendan to Facilitate Weaning From ECMO in Patients With Severe Cardiogenic Shock: The LEVOECMO Randomized Clinical Trial.",
+      "authorString": "Combes A, Saura O, Nesseler N, Lebbah S, Rozec B, Levy B, Fellahi JL, Beurton A, Meslin S, Gaudard P, Bouglé A, Vincentelli A, Sonneville R, Lebreton G, Lévy D, Ouattara A, Tubach F, LEVOECMO Trial Group and the International ECMO Network (ECMONet).",
+      "journalTitle": "JAMA",
+      "issue": "1",
+      "journalVolume": "335",
+      "pubYear": "2026",
+      "journalIssn": "0098-7484; 1538-3598; ",
+      "pageInfo": "60-69",
+      "pubType": "clinical trial, phase iii; research-article; multicenter study; randomized controlled trial; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 11,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-01",
+      "firstIndexDate": "2025-12-01"
+    },
+    {
+      "id": "42450052",
+      "source": "MED",
+      "pmid": "42450052",
+      "pmcid": "PMC13360814",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13360814"
+        ]
+      },
+      "doi": "10.3390/ijms27135779",
+      "title": "Istaroxime in Acute Heart Failure and Early Cardiogenic Shock: A Calcium-Cycling Approach to Inotropic Therapy.",
+      "authorString": "Krasińska B, Maria Raffa G, Pisano C, Nuzzi V, Manca P, Filipiak KJ, Rahnama M, Olasińska-Wiśniewska A, Kowalewski M, Krasiński Z, Suwalski P, Grywalska E, Urbanowicz T.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "13",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "5779",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-26",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "41790314",
+      "source": "MED",
+      "pmid": "41790314",
+      "pmcid": "PMC12965941",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12965941"
+        ]
+      },
+      "doi": "10.1186/s40635-026-00881-w",
+      "title": "Milrinone and levosimendan improve microvascular perfusion in septic rats: a randomized, placebo-controlled trial.",
+      "authorString": "Marcus C, Hof S, Gesing A, Thelen P, Orzol S, Vocke A, Schulz J, Kuebart AKC, Truse R, Vollmer C, Bauer I, Picker O, Herminghaus A.",
+      "journalTitle": "Intensive Care Med Exp",
+      "issue": "1",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2197-425x",
+      "pageInfo": "30",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-06",
+      "firstIndexDate": "2026-03-07"
+    },
+    {
+      "id": "41737078",
+      "source": "MED",
+      "pmid": "41737078",
+      "pmcid": "PMC12927664",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12927664"
+        ]
+      },
+      "doi": "10.7759/cureus.102204",
+      "title": "Comparative Efficacy and Safety of Vasopressors and Inotropes in Acute Myocardial Infarction-Related Cardiogenic Shock: A Systematic Review and Network Meta Analysis of Randomized and Observational Studies.",
+      "authorString": "Ali AOH, Ameer F, Ibrahim AA, Ali MS, Abdelhamid TA, Elmasry MH, Alrumaih F, Soliman KAR, Alghannami A, Abdalla SS, Hassan AA.",
+      "journalTitle": "Cureus",
+      "issue": "1",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e102204",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-01-24",
+      "firstIndexDate": "2026-02-25"
+    },
+    {
+      "id": "41868102",
+      "source": "MED",
+      "pmid": "41868102",
+      "pmcid": "PMC12999974",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12999974"
+        ]
+      },
+      "doi": "10.3389/fmolb.2026.1781854",
+      "title": "Novel drugs targeting genetic variants: current applications and future prospects in heart failure treatment.",
+      "authorString": "Li X, Bai S, Luo Y.",
+      "journalTitle": "Front Mol Biosci",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2296-889x",
+      "pageInfo": "1781854",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-05",
+      "firstIndexDate": "2026-03-23"
+    },
+    {
+      "id": "42743904",
+      "source": "MED",
+      "pmid": "42743904",
+      "pmcid": "PMC13595213",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13595213"
+        ]
+      },
+      "doi": "10.1016/j.jacadv.2026.103225",
+      "title": "Evolving Evidence-Driven Strategies in Cardiogenic Shock Management.",
+      "authorString": "Bhardwaj A, Hillerson D, Narang N, Pelter MN, Sinha A, Guglin M.",
+      "journalTitle": "JACC Adv",
+      "issue": "10 pt 2",
+      "journalVolume": "5",
+      "pubYear": "2026",
+      "journalIssn": "2772-963x",
+      "pageInfo": "103225",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-15",
+      "firstIndexDate": "2026-09-16"
+    },
+    {
+      "id": "42512003",
+      "source": "MED",
+      "pmid": "42512003",
+      "pmcid": "PMC13406885",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13406885"
+        ]
+      },
+      "doi": "10.3390/biomedicines14071530",
+      "title": "Cardiovascular Diseases in the Critically Ill: Bridging Evidence Gaps Between Cardiology and Intensive Care Medicine.",
+      "authorString": "Vazgiourakis V.",
+      "journalTitle": "Biomedicines",
+      "issue": "7",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2227-9059",
+      "pageInfo": "1530",
+      "pubType": "editorial",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-08",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "PMC13675830",
+      "source": "PMC",
+      "pmcid": "PMC13675830",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13675830"
+        ]
+      },
+      "title": "Why Circulating Interleukin‐6 Is Not Yet a Standalone Clinically Actionable Biomarker in HFrEF: A Context‐of‐Use Review",
+      "authorString": "Ye Y, Colombo M, Meessen J, Tyl B, Novelli D, Hajizadeh N, Brunner‐La Rocca H, Voors A, Klas S, Schwers S, Follin B, Latini R.",
+      "journalTitle": "Eur J Clin Invest",
+      "issue": "10",
+      "journalVolume": "56",
+      "pubYear": "2026",
+      "journalIssn": "0014-2972; 1365-2362; ",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "41892507",
+      "source": "MED",
+      "pmid": "41892507",
+      "pmcid": "PMC13025122",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13025122"
+        ]
+      },
+      "doi": "10.3390/clinpract16030063",
+      "title": "Preoperative Administration of Levosimendan to Prevent Low Cardiac Output Syndrome Following Pediatric Cardiac Surgery: A Retrospective Study.",
+      "authorString": "Boillat L, Pache-Wannaz L, Maitre G, Rizzati F, Marin MP, Chanez V, Di Bernardo S, Perez MH.",
+      "journalTitle": "Clin Pract",
+      "issue": "3",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2039-7275; 2039-7283; ",
+      "pageInfo": "63",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-22",
+      "firstIndexDate": "2026-03-28"
+    },
+    {
+      "id": "42016282",
+      "source": "MED",
+      "pmid": "42016282",
+      "pmcid": "PMC13094494",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13094494"
+        ]
+      },
+      "doi": "10.1016/j.ccrj.2026.100178",
+      "title": "The effect of intravenous calcium administration on haemodynamics in perioperative cardiothoracic surgery and intensive care: A narrative review.",
+      "authorString": "Miller A, Omassoli J, Simpson J, Brooks K, Almeida A, Ling RR, Subramaniam A.",
+      "journalTitle": "Crit Care Resusc",
+      "issue": "2",
+      "journalVolume": "28",
+      "pubYear": "2026",
+      "journalIssn": "1441-2772; 2652-9335; ",
+      "pageInfo": "100178",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-04-18",
+      "firstIndexDate": "2026-04-22"
+    },
+    {
+      "id": "41133649",
+      "source": "MED",
+      "pmid": "41133649",
+      "pmcid": "PMC12551075",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12551075"
+        ]
+      },
+      "doi": "10.3390/medicines12040023",
+      "title": "Levosimendan in Decompensated Heart Failure with Reduced Ejection Fraction in Older Adults: A Systematic Review of Safety and Efficacy.",
+      "authorString": "Zavaleta-Monestel E, Mora-Jiménez J, Cruz-Mora K, Martinez-Vargas E, Díaz-Madriz JP, Arguedas-Chacón S, Fallas-Mora A, Wu-Chin C, Chaverrí-Fernandez JM.",
+      "journalTitle": "Medicines (Basel)",
+      "issue": "4",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2305-6320",
+      "pageInfo": "23",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-09-30",
+      "firstIndexDate": "2025-10-24"
+    },
+    {
+      "id": "41711719",
+      "source": "MED",
+      "pmid": "41711719",
+      "pmcid": "PMC13108296",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13108296"
+        ]
+      },
+      "doi": "10.1093/eschf/xvag017",
+      "title": "Clinical and echocardiographic changes after intermittent levosimendan infusion in patients with advanced heart failure.",
+      "authorString": "Riccardi M, D'Elia E, Fazzari F, Cirelli C, Bisegna S, Bellicini MG, Pagnesi M, Nodari S, Pini D, Bragato RM, Senni M, Lombardi CM, Metra M, Inciardi RM.",
+      "journalTitle": "ESC Heart Fail",
+      "issue": "1",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2055-5822",
+      "pageInfo": "xvag017",
+      "pubType": "research-article; multicenter study; journal article; observational study",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-02-01",
+      "firstIndexDate": "2026-02-20"
+    },
+    {
+      "id": "41048529",
+      "source": "MED",
+      "pmid": "41048529",
+      "pmcid": "PMC12491170",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12491170"
+        ]
+      },
+      "doi": "10.3389/fcvm.2025.1641604",
+      "title": "Levosimendan versus dobutamine in septic cardiomyopathy: a randomized clinical trial on cardiac function and safety.",
+      "authorString": "Zhao F, Wei H, Lin L, Wang H, Zhang Z, Guo L.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2297-055x",
+      "pageInfo": "1641604",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-09-19",
+      "firstIndexDate": "2025-10-06"
+    },
+    {
+      "id": "41206374",
+      "source": "MED",
+      "pmid": "41206374",
+      "doi": "10.1007/s11239-025-03201-3",
+      "title": "Effects of Xuebijing combined with levosimendan on immune function and coagulation function in sepsis patients with myocardial injury.",
+      "authorString": "Yu W, Liu C, Zhou Y, Lin P.",
+      "journalTitle": "J Thromb Thrombolysis",
+      "issue": "4",
+      "journalVolume": "59",
+      "pubYear": "2026",
+      "journalIssn": "0929-5305; 1573-742x; ",
+      "pageInfo": "917-927",
+      "pubType": "randomized controlled trial; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-11-08",
+      "firstIndexDate": "2025-11-09"
+    },
+    {
+      "id": "40659505",
+      "source": "MED",
+      "pmid": "40659505",
+      "doi": "10.1136/heartjnl-2025-326009",
+      "title": "Vericiguat in advanced heart failure patients receiving chronic intermittent levosimendan infusions: a prospective pilot study.",
+      "authorString": "Sciatti E, Di Odoardo L, Zucchetti O, Senni M, D'Elia E.",
+      "journalTitle": "Heart",
+      "issue": "1",
+      "journalVolume": "112",
+      "pubYear": "2025",
+      "journalIssn": "1355-6037; 1468-201x; ",
+      "pageInfo": "53-56",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-12-11",
+      "firstIndexDate": "2025-07-15"
+    },
+    {
+      "id": "42110961",
+      "source": "MED",
+      "pmid": "42110961",
+      "pmcid": "PMC13153924",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13153924"
+        ]
+      },
+      "doi": "10.15420/cfr.2025.45",
+      "title": "Efficacy and Safety of Vericiguat in a Real-life Population with Heart Failure after 1 Year of Treatment: The VERITA Study.",
+      "authorString": "Galván-Ruiz M, Fernández de Sanmamed-Girón M, Groba-Marco MDV, Rojo-Jorge L, Peña-Saavedra C, Martín-Bou E, Andrade-Guerra R, Suarez-Benitez MA, Aguiar-Bujanda M, Burgos-Ramírez L, Caballero-Dorta E, García-Quintana A.",
+      "journalTitle": "Card Fail Rev",
+      "journalVolume": "12",
+      "pubYear": "2026",
+      "journalIssn": "2057-7540; 2057-7559; ",
+      "pageInfo": "e08",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-20",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "42589920",
+      "source": "MED",
+      "pmid": "42589920",
+      "pmcid": "PMC13466630",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13466630"
+        ]
+      },
+      "doi": "10.3390/jcm15155816",
+      "title": "Factors Associated with Progression to SCAI-Defined Hemodynamic Instability at 72 Hours in Patients with Acute Decompensated Heart Failure Receiving Inotropic Therapy.",
+      "authorString": "Avcı R, Yılmaz Öztekin GM.",
+      "journalTitle": "J Clin Med",
+      "issue": "15",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2077-0383",
+      "pageInfo": "5816",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-25",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "41096098",
+      "source": "MED",
+      "pmid": "41096098",
+      "pmcid": "PMC12524444",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12524444"
+        ]
+      },
+      "doi": "10.3390/jcm14197018",
+      "title": "Home Inotropes in Advanced Heart Failure: A Practical Review.",
+      "authorString": "Manca P, Matassini MV, Fazzini L, Bianco M, Di Nora C, Rizzello V, Carigi S, De Gennaro L, Tinti MD, De Maria R, Colivicchi F, Grimaldi M, Oliva F, Gori M.",
+      "journalTitle": "J Clin Med",
+      "issue": "19",
+      "journalVolume": "14",
+      "pubYear": "2025",
+      "journalIssn": "2077-0383",
+      "pageInfo": "7018",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-10-03",
+      "firstIndexDate": "2025-10-16"
+    },
+    {
+      "id": "42506183",
+      "source": "MED",
+      "pmid": "42506183",
+      "pmcid": "PMC13414154",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13414154"
+        ]
+      },
+      "doi": "10.3390/membranes16070217",
+      "title": "Repurposed cAMP-Modulating Agents Enhance 5-Fluorouracil Response Through Membrane-Dependent Mechanisms.",
+      "authorString": "Ribeiro E, Vale N.",
+      "journalTitle": "Membranes (Basel)",
+      "issue": "7",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2077-0375",
+      "pageInfo": "217",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-26",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42572609",
+      "source": "MED",
+      "pmid": "42572609",
+      "pmcid": "PMC13453045",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13453045"
+        ]
+      },
+      "doi": "10.1016/j.jhlto.2026.100627",
+      "title": "Inhaled pulmonary vasodilators in pulmonary hypertension: Perioperative use and clinical considerations.",
+      "authorString": "Klingbeil R, Hjalmarsson C, Colvin B, Kozarek K, Shapiro AB.",
+      "journalTitle": "JHLT Open",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2950-1334",
+      "pageInfo": "100627",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-10",
+      "firstIndexDate": "2026-08-13"
+    },
+    {
+      "id": "41811276",
+      "source": "MED",
+      "pmid": "41811276",
+      "doi": "10.1016/j.jacc.2026.01.024",
+      "title": "Pulmonary Hypertension Associated With Left Heart Disease: Challenges, Emerging Strategies, and Future Directions.",
+      "authorString": "Khan MS, Borlaug BA, Butler J, Gomberg-Maitland M, Humbert M, Lam CSP, Reddy YNV, Stone GW, Zannad F, Tedford RJ.",
+      "journalTitle": "J Am Coll Cardiol",
+      "issue": "4",
+      "journalVolume": "88",
+      "pubYear": "2026",
+      "journalIssn": "0735-1097; 1558-3597; ",
+      "pageInfo": "454-488",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-11",
+      "firstIndexDate": "2026-03-12"
+    },
+    {
+      "id": "41675848",
+      "source": "MED",
+      "pmid": "41675848",
+      "pmcid": "PMC12889367",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12889367"
+        ]
+      },
+      "doi": "10.1097/ms9.0000000000004706",
+      "title": "Comparative safety and efficacy of levosimendan versus dobutamine in acute heart failure: a systematic review, meta-analysis, and meta-regression.",
+      "authorString": "Raja A, Kumar L, Kumar M, Khurram L, Ali SME, Kumar N, Rao H, Mustafa I, Warisha S, Parvez M, Gulfaraz S, Saeed T, Saeed M, Sanober L, Tabasum, Abdullah, Ayalew BD, Chaulagain A.",
+      "journalTitle": "Ann Med Surg (Lond)",
+      "issue": "2",
+      "journalVolume": "88",
+      "pubYear": "2026",
+      "journalIssn": "2049-0801",
+      "pageInfo": "1826-1841",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-21",
+      "firstIndexDate": "2026-02-12"
+    },
+    {
+      "id": "40807117",
+      "source": "MED",
+      "pmid": "40807117",
+      "pmcid": "PMC12347308",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12347308"
+        ]
+      },
+      "doi": "10.3390/jcm14155496",
+      "title": "Levosimendan vs. Dobutamine in Patients with Septic Shock: A Systematic Review and Meta-Analysis with Trial Sequential Analysis.",
+      "authorString": "Rodríguez EE, Jaramillo GAD, Cuellar LMR, Herran SEP, Lima DRR, Herpain A.",
+      "journalTitle": "J Clin Med",
+      "issue": "15",
+      "journalVolume": "14",
+      "pubYear": "2025",
+      "journalIssn": "2077-0383",
+      "pageInfo": "5496",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-08-05",
+      "firstIndexDate": "2025-08-21"
+    },
+    {
+      "id": "42305569",
+      "source": "MED",
+      "pmid": "42305569",
+      "pmcid": "PMC13265466",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13265466"
+        ]
+      },
+      "doi": "10.3389/fped.2026.1845899",
+      "title": "Management of arterial hypotension in critically Ill children: a narrative review and practical approach.",
+      "authorString": "Schneider H.",
+      "journalTitle": "Front Pediatr",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2296-2360",
+      "pageInfo": "1845899",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-06-18"
+    },
+    {
+      "id": "41033771",
+      "source": "MED",
+      "pmid": "41033771",
+      "pmcid": "PMC12496040",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12496040"
+        ]
+      },
+      "doi": "10.1136/bmjopen-2025-101995",
+      "title": "Clinical outcomes of levosimendan administration in veno-arterial extracorporeal membrane oxygenation: a meta-analysis.",
+      "authorString": "Zhao GM, Zhao GM, Zhang H, Chen W, Zhou JX, Li HL.",
+      "journalTitle": "BMJ Open",
+      "issue": "9",
+      "journalVolume": "15",
+      "pubYear": "2025",
+      "journalIssn": "2044-6055",
+      "pageInfo": "e101995",
+      "pubType": "meta-analysis; research-article; systematic review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-09-30",
+      "firstIndexDate": "2025-10-03"
+    },
+    {
+      "id": "41404203",
+      "source": "MED",
+      "pmid": "41404203",
+      "pmcid": "PMC12703546",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12703546"
+        ]
+      },
+      "doi": "10.7759/cureus.96887",
+      "title": "Sepsis-Induced Myocardial Dysfunction and Its Prognostic Implications for Mortality in the Intensive Care Unit: A Systematic Review.",
+      "authorString": "Gapizov A, Mohammad A, Sadiq A, Singla B, Singla S, Kumari S, Kumawat S, Iqbal A.",
+      "journalTitle": "Cureus",
+      "issue": "11",
+      "journalVolume": "17",
+      "pubYear": "2025",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e96887",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-15",
+      "firstIndexDate": "2025-12-17"
+    },
+    {
+      "id": "41299325",
+      "source": "MED",
+      "pmid": "41299325",
+      "pmcid": "PMC12763961",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12763961"
+        ]
+      },
+      "doi": "10.1186/s12872-025-05224-3",
+      "title": "Efficacy of levosimendan for acute decompensated heart failure with preserved ejection fraction in the elderly: a single-center retrospective analysis.",
+      "authorString": "Xu X, Lv F, Xu C, Lai X.",
+      "journalTitle": "BMC Cardiovasc Disord",
+      "issue": "1",
+      "journalVolume": "26",
+      "pubYear": "2025",
+      "journalIssn": "1471-2261",
+      "pageInfo": "1",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-26",
+      "firstIndexDate": "2025-11-27"
+    },
+    {
+      "id": "41149835",
+      "source": "MED",
+      "pmid": "41149835",
+      "pmcid": "PMC12564945",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12564945"
+        ]
+      },
+      "doi": "10.3390/jpm15100473",
+      "title": "Phenotype-Guided Outpatient Levosimendan as a Bridge-to-Transplant in Low-Output Advanced Heart Failure: A Single-Center Cohort.",
+      "authorString": "Carvalheiro R, Santos AR, Teixeira AR, Reis JF, Gonçalves AV, Moreira RI, Pereira da Silva T, Gomes V, Coelho P, Ferreira RC.",
+      "journalTitle": "J Pers Med",
+      "issue": "10",
+      "journalVolume": "15",
+      "pubYear": "2025",
+      "journalIssn": "2075-4426",
+      "pageInfo": "473",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-10-02",
+      "firstIndexDate": "2025-10-28"
+    },
+    {
+      "id": "42516694",
+      "source": "MED",
+      "pmid": "42516694",
+      "pmcid": "PMC13404789",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13404789"
+        ]
+      },
+      "doi": "10.1002/pul2.70379",
+      "title": "Sotatercept Rescue Therapy for Acute Right Heart Failure in HIV-Associated PAH.",
+      "authorString": "Li Y, Grund D, Kremer N, Müller-Redetzky H, Zajonz M, Gaebler C, Witzenrath M, Olschewski H, Yogeswaran A.",
+      "journalTitle": "Pulm Circ",
+      "issue": "3",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2045-8932; 2045-8940; ",
+      "pageInfo": "e70379",
+      "pubType": "case-study; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-27",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "41848124",
+      "source": "MED",
+      "pmid": "41848124",
+      "pmcid": "PMC13713145",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13713145"
+        ]
+      },
+      "doi": "10.62438/tunismed.v103i9.6513",
+      "title": "Effect of Inotropes in Patients with Advanced Heart Failure: A Meta-Analysis of Randomized Trials.",
+      "authorString": "Ghabara R, Ben Kaab B, Antit S, Boussabeh I, Bousnina S, Dziri C, Zakhama L.",
+      "journalTitle": "Tunis Med",
+      "issue": "9",
+      "journalVolume": "103",
+      "pubYear": "2025",
+      "journalIssn": "0041-4131; 2724-7031; ",
+      "pageInfo": "1165-1174",
+      "pubType": "meta-analysis; systematic review; review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-09-09",
+      "firstIndexDate": "2026-03-18"
+    },
+    {
+      "id": "40633684",
+      "source": "MED",
+      "pmid": "40633684",
+      "doi": "10.1016/j.cardfail.2025.06.009",
+      "title": "Oral Levosimendan for the Treatment of Pulmonary Hypertension due to Heart Failure With Preserved Ejection Fraction: Rationale and Design of the LEVEL Trial.",
+      "authorString": "Yaku H, Burkhoff D, Borlaug BA, Lala A, Butler J, Rich S, Shah SJ.",
+      "journalTitle": "J Card Fail",
+      "issue": "6",
+      "journalVolume": "32",
+      "pubYear": "2026",
+      "journalIssn": "1071-9164; 1532-8414; ",
+      "pageInfo": "1059-1071",
+      "pubType": "clinical trial protocol; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-07-07",
+      "firstIndexDate": "2025-07-10"
+    }
+  ]
+}

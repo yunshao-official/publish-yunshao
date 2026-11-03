@@ -1,0 +1,1811 @@
+{
+  "query_id": "D4",
+  "group": "D",
+  "query": "myocardial efficiency AND oxygen consumption",
+  "hitCount": 17860,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:46.545390+00:00",
+  "results": [
+    {
+      "id": "42925569",
+      "source": "MED",
+      "pmid": "42925569",
+      "doi": "10.1097/tp.0000000000005923",
+      "title": "Myocardial External Efficiency and Energetic Adaptation After Heart Transplantation: An Exploratory Study.",
+      "authorString": "Berg Okholm K, Kjærulff MLG, Berg Hansen K, Clemmensen TS, Poulsen SH, Tolbod LP, Gormsen LC, Wiggers H, Bøtker HE, Nielsen BRR, Eiskjær H.",
+      "journalTitle": "Transplantation",
+      "pubYear": "2026",
+      "journalIssn": "0041-1337; 1534-6080; ",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-23",
+      "firstIndexDate": "2026-10-25"
+    },
+    {
+      "id": "42723391",
+      "source": "MED",
+      "pmid": "42723391",
+      "pmcid": "PMC13720659",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13720659"
+        ]
+      },
+      "doi": "10.1111/aor.70213",
+      "title": "Monitoring Mitochondrial Function With High-Resolution Respirometry During Ex-Situ Heart Perfusion.",
+      "authorString": "Stastny L, Hofmann J, Meszaros AT, Ampferer A, Putzer G, Perkins N, Huemer N, Sommerauer F, Martini J, Wagner J, Grimm M, Schneeberger S, Dumfarth J.",
+      "journalTitle": "Artif Organs",
+      "issue": "11",
+      "journalVolume": "50",
+      "pubYear": "2026",
+      "journalIssn": "0160-564x; 1525-1594; ",
+      "pageInfo": "1575-1584",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-10",
+      "firstIndexDate": "2026-09-11"
+    },
+    {
+      "id": "42790709",
+      "source": "MED",
+      "pmid": "42790709",
+      "doi": "10.1016/j.jocmr.2026.102800",
+      "title": "Impaired myocardial oxygen metabolism and energy efficiency in patients with dilated cardiomyopathy.",
+      "authorString": "Dai L, Qiao J, Wang K, Li R, Yang Y, Berberet C, Huang Q, Lu C, Ji J, Bugenhagen SM, Schindler TH, Peterson LR, Woodard PK, Zhang Y, Zheng J.",
+      "journalTitle": "J Cardiovasc Magn Reson",
+      "pubYear": "2026",
+      "journalIssn": "1097-6647; 1532-429x; ",
+      "pageInfo": "102800",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-25",
+      "firstIndexDate": "2026-09-26"
+    },
+    {
+      "id": "42163800",
+      "source": "MED",
+      "pmid": "42163800",
+      "pmcid": "PMC13240110",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13240110"
+        ]
+      },
+      "doi": "10.14814/phy2.70890",
+      "title": "Myocardial oxygen consumption, myocardial efficiency, and mechanical efficiency: A review across pathologic and physiologic states.",
+      "authorString": "Pierson JA, Mitrev L, Hill JC, Mulligan LJ.",
+      "journalTitle": "Physiol Rep",
+      "issue": "10",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2051-817x",
+      "pageInfo": "e70890",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-05-21"
+    },
+    {
+      "id": "PMC13657212",
+      "source": "PMC",
+      "pmcid": "PMC13657212",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13657212"
+        ]
+      },
+      "title": "Bidirectional metabolic-vascular feedback loops in heart failure: From myocardial energetics to multisystem cardiometabolic crosstalk",
+      "authorString": "Wang H, Li Y, Qin C, Chen X, Wang K, Zhang M, Cheng W.",
+      "journalTitle": "iScience",
+      "issue": "10",
+      "journalVolume": "29",
+      "pubYear": "2026",
+      "journalIssn": "2589-0042",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-02",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42726701",
+      "source": "MED",
+      "pmid": "42726701",
+      "pmcid": "PMC13567763",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13567763"
+        ]
+      },
+      "doi": "10.1371/journal.pone.0351511",
+      "title": "Acute and prolonged effects of anti-malarial drugs on mitochondrial respiration in atrial cardiomyocytes for cardiac safety evaluation.",
+      "authorString": "Safakli RN, Lee B, Chadda KR, Sathivelu S, Smyrnias I, Huang CLH, Tarning J, Terracciano C, Tse G, Edling CE, Jeevaratnam K.",
+      "journalTitle": "PLoS One",
+      "issue": "9",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1932-6203",
+      "pageInfo": "e0351511",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-11",
+      "firstIndexDate": "2026-09-12"
+    },
+    {
+      "id": "42506330",
+      "source": "MED",
+      "pmid": "42506330",
+      "pmcid": "PMC13414472",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13414472"
+        ]
+      },
+      "doi": "10.3390/medsci14030361",
+      "title": "Membrane Oxygenation Improves Functional Myocardial Preservation and Enables Colloid-Enriched Perfusion in the Langendorff Isolated Heart Model.",
+      "authorString": "Leivaditis V, Mulita F, Papatriantafyllou A, Liolis E, Panagiotopoulos I, Dahm M, Dougenis D, Koletsis E.",
+      "journalTitle": "Med Sci (Basel)",
+      "issue": "3",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2076-3271",
+      "pageInfo": "361",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-30",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42924333",
+      "source": "MED",
+      "pmid": "42924333",
+      "pmcid": "PMC13690172",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13690172"
+        ]
+      },
+      "doi": "10.22088/cjim.17.3.688",
+      "title": "Levosimendan in Trastuzumab-induced cardiotoxicity: A mechanism-based perspective.",
+      "authorString": "Nazari Taloki Z.",
+      "journalTitle": "Caspian J Intern Med",
+      "issue": "3",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2008-6164; 2008-6172; ",
+      "pageInfo": "688-689",
+      "pubType": "letter",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-10-25"
+    },
+    {
+      "id": "42622135",
+      "source": "MED",
+      "pmid": "42622135",
+      "pmcid": "PMC13695794",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13695794"
+        ]
+      },
+      "doi": "10.1161/jaha.125.042725",
+      "title": "Circulating Factors in Single Ventricle Heart Disease Impair Cardiomyocyte Bioenergetics, With Partial Rescue by PDE5 Inhibition.",
+      "authorString": "Garcia AM, Pietra AE, Turner ME, Da Silva JP, Baybayon-Grandgeorge A, Sparagna GC, Jeffrey DA, Stauffer BL, Sucharov CC, Miyamoto SD.",
+      "journalTitle": "J Am Heart Assoc",
+      "issue": "17",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2047-9980",
+      "pageInfo": "e042725",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen"
+        ]
+      },
+      "firstPublicationDate": "2026-08-20",
+      "firstIndexDate": "2026-08-22"
+    },
+    {
+      "id": "41880521",
+      "source": "MED",
+      "pmid": "41880521",
+      "doi": "10.1126/scitranslmed.ady6269",
+      "title": "Quantifying myocardial oxygen consumption and efficiency with motion-resolved cardiac MRI.",
+      "authorString": "Huang LT, Yang CC, Wang G, Zhang H, Zhang R, Ho H, Malagi A, Huang Y, Li X, Yoosefian G, Zhang X, Long Z, Bi X, Wei J, Kwan AC, Nelson MD, Merz CNB, Berman D, Christodoulou A, Li D, Dharmakumar R, Yang HJ.",
+      "journalTitle": "Sci Transl Med",
+      "issue": "842",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "1946-6234; 1946-6242; ",
+      "pageInfo": "eady6269",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-25",
+      "firstIndexDate": "2026-03-27"
+    },
+    {
+      "id": "42450123",
+      "source": "MED",
+      "pmid": "42450123",
+      "pmcid": "PMC13361475",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13361475"
+        ]
+      },
+      "doi": "10.3390/ijms27135849",
+      "title": "Bioenergetics-Driven Extracellular Vesicle Therapies for Heart Failure: From Preclinical Insights to Regenerative Translation.",
+      "authorString": "Shahannaz DC, Sugiura T.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "13",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "5849",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-29",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "42906833",
+      "source": "MED",
+      "pmid": "42906833",
+      "doi": "10.1016/j.vph.2026.107713",
+      "title": "Systemic OPA1 overexpression reshapes cardiovascular metabolism and cardiac physiology during high-fat diet feeding.",
+      "authorString": "Da Dalt L, Giancane G, Fantini F, Castiglioni L, Uboldi P, Pedretti S, Mitro N, Moregola A, Terenghi O, Sironi L, Baragetti A, Norata GD.",
+      "journalTitle": "Vascul Pharmacol",
+      "journalVolume": "165",
+      "pubYear": "2026",
+      "journalIssn": "1537-1891; 1879-3649; ",
+      "pageInfo": "107713",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-21",
+      "firstIndexDate": "2026-10-23"
+    },
+    {
+      "id": "42167358",
+      "source": "MED",
+      "pmid": "42167358",
+      "doi": "10.1123/pes.2025-0028",
+      "title": "Cardiopulmonary Exercise Testing Combined With Stress Echocardiography for the Evaluation of Myocardial Dysfunction in Patients at Risk for Coronary Insufficiency.",
+      "authorString": "Schöffl I, Trager E, Kessler L, Paech C, Weigelt A, Dittrich S, Wällisch W.",
+      "journalTitle": "Pediatr Exerc Sci",
+      "issue": "3",
+      "journalVolume": "38",
+      "pubYear": "2026",
+      "journalIssn": "0899-8493; 1543-2920; ",
+      "pageInfo": "315-323",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-21",
+      "firstIndexDate": "2026-05-22"
+    },
+    {
+      "id": "42647240",
+      "source": "MED",
+      "pmid": "42647240",
+      "pmcid": "PMC13510898",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13510898"
+        ]
+      },
+      "doi": "10.3390/pathophysiology33030063",
+      "title": "Assessment of Exercise Intolerance and Evaluation for HFpEF: A Literature Review of Pathophysiology, Diagnosis, and Management.",
+      "authorString": "Moradi A, Ramey K, Tabbaa K, Sahyouni A, Sanchez Garcez K, Kumar S, Pan E, Barton G, Oyesanmi O, Subbiondo R.",
+      "journalTitle": "Pathophysiology",
+      "issue": "3",
+      "journalVolume": "33",
+      "pubYear": "2026",
+      "journalIssn": "0928-4680; 1873-149x; ",
+      "pageInfo": "63",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-20",
+      "firstIndexDate": "2026-08-27"
+    },
+    {
+      "id": "42588074",
+      "source": "MED",
+      "pmid": "42588074",
+      "pmcid": "PMC13468427",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13468427"
+        ]
+      },
+      "doi": "10.3390/nu18152451",
+      "title": "Diet-Associated Regulation of Cardiac Metabolism: Molecular Determinants and Pathophysiological Consequences.",
+      "authorString": "Pacinella G, Ciaccio AM, Maida CD, Della Corte V, Miceli G, Daidone M, Quaranta C, Soldano JS, Tuttolomondo A.",
+      "journalTitle": "Nutrients",
+      "issue": "15",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2451",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-27",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "42731576",
+      "source": "MED",
+      "pmid": "42731576",
+      "doi": "10.1016/j.hrtlng.2026.102953",
+      "title": "Prognostic significance of cardiopulmonary exercise testing parameters for predicting all-cause mortality in patients with heart failure: a cohort study.",
+      "authorString": "Chrysohoou C, Dulay MS, Fragoulis C, Xydis P, Iliakis P, Baron A, Kariori M, Leontsinis G, Angouridaki E, Vlaikou D, Spinthakis SK, Dar O, Tsioufis K.",
+      "journalTitle": "Heart Lung",
+      "journalVolume": "80",
+      "pubYear": "2026",
+      "journalIssn": "0147-9563; 1527-3288; ",
+      "pageInfo": "102953",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-12",
+      "firstIndexDate": "2026-09-13"
+    },
+    {
+      "id": "42572037",
+      "source": "MED",
+      "pmid": "42572037",
+      "pmcid": "PMC13455251",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13455251"
+        ]
+      },
+      "doi": "10.1186/s44156-026-00131-5",
+      "title": "Trajectories and determinants of echocardiographic myocardial work indices after acute myocardial infarction: a pilot study.",
+      "authorString": "Ballo H, Nammas W, Paunonen C, Teuho J, Siekkinen R, Li XG, Roivainen A, Knuuti J, Saraste A.",
+      "journalTitle": "Echo Res Pract",
+      "issue": "1",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2055-0464",
+      "pageInfo": "29",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-08-10",
+      "firstIndexDate": "2026-08-13"
+    },
+    {
+      "id": "42965362",
+      "source": "MED",
+      "pmid": "42965362",
+      "doi": "10.3791/73566",
+      "title": "Human Pluripotent Stem Cell-Derived Neuromyocardial Organoids for Modeling Cardiomyocyte Development and Recovery from Hypoxia/Reoxygenation Injury. ",
+      "authorString": "Daiou A, Hatzistergos KE.",
+      "journalTitle": "J Vis Exp",
+      "issue": "236",
+      "pubYear": "2026",
+      "journalIssn": "1940-087x",
+      "pubType": "video-audio media; im; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-30",
+      "firstIndexDate": "2026-11-01"
+    },
+    {
+      "id": "42749876",
+      "source": "MED",
+      "pmid": "42749876",
+      "pmcid": "PMC13582966",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13582966"
+        ]
+      },
+      "doi": "10.1038/s43856-026-01901-2",
+      "title": "Integration of multiple perspectives to understand the left ventricular pressure-volume relationship.",
+      "authorString": "Tonti G, Pedrizzetti G, Salustri A.",
+      "journalTitle": "Commun Med (Lond)",
+      "issue": "1",
+      "journalVolume": "6",
+      "pubYear": "2026",
+      "journalIssn": "2730-664x",
+      "pageInfo": "485",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-16",
+      "firstIndexDate": "2026-09-17"
+    },
+    {
+      "id": "PPR1334037",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-11234834/v1",
+      "title": "Ventricular-Arterial Coupling in Endurance-Trained Athletes and Sedentary Adults",
+      "authorString": "Cipriano IN, Castanheira J, Liz MM, Caseiro A, Valado A, Costa G, Rama L, Pereira T, Teixeira A, Valente P, Nilsson PM, Jujic A, Holm H.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "Research Square",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-05",
+      "firstIndexDate": "2026-10-06",
+      "versionNumber": 1
+    },
+    {
+      "id": "42449988",
+      "source": "MED",
+      "pmid": "42449988",
+      "pmcid": "PMC13361337",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13361337"
+        ]
+      },
+      "doi": "10.3390/ijms27135716",
+      "title": "Circulating β-Hydroxybutyrate in Glycemic Progression and Diabetic Cardiomyopathy: Adaptive Signal or Maladaptive Substrate?",
+      "authorString": "Kim SR, Lee BW.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "13",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "5716",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-24",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "42705015",
+      "source": "MED",
+      "pmid": "42705015",
+      "pmcid": "PMC13578966",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13578966"
+        ]
+      },
+      "doi": "10.1016/j.clinsp.2026.101101",
+      "title": "Role of PET imaging in evaluating right ventricular function and prognosis in pulmonary hypertension.",
+      "authorString": "Pinto S, Salvi de Souza G, Jeckel CMM, Bodanese LC, Buchpiguel CA, Souza R, Marques da Silva AM.",
+      "journalTitle": "Clinics (Sao Paulo)",
+      "journalVolume": "81",
+      "pubYear": "2026",
+      "journalIssn": "1807-5932; 1980-5322; ",
+      "pageInfo": "101101",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-07",
+      "firstIndexDate": "2026-09-09"
+    },
+    {
+      "id": "42483452",
+      "source": "MED",
+      "pmid": "42483452",
+      "pmcid": "PMC13385174",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13385174"
+        ]
+      },
+      "doi": "10.3389/fcvm.2026.1825961",
+      "title": "Alterations in submaximal cardiopulmonary indicators in CVD patients participating in APBCRE-a comprehensive CPET-based study.",
+      "authorString": "Liang Y, Ma M.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2297-055x",
+      "pageInfo": "1825961",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-07",
+      "firstIndexDate": "2026-07-22"
+    },
+    {
+      "id": "42743347",
+      "source": "MED",
+      "pmid": "42743347",
+      "pmcid": "PMC13676308",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13676308"
+        ]
+      },
+      "doi": "10.1161/circheartfailure.126.014307",
+      "title": "A Recovery-Focused Framework for the Management of Cardiogenic Shock.",
+      "authorString": "Kyriakopoulos CP, Taleb I, Hamouche R, Tseliou E, Drakos SG.",
+      "journalTitle": "Circ Heart Fail",
+      "issue": "9",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1941-3289; 1941-3297; ",
+      "pageInfo": "e014307",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-09-15",
+      "firstIndexDate": "2026-09-16"
+    },
+    {
+      "id": "PPR1172306",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-9131141/v1",
+      "title": "Increased Cardiac Glucose Uptake in Sepsis-Induced Myocardial Dysfunction: A Three- Tracer Positron Emission Tomography Imaging Observational Cohort Study",
+      "authorString": "Lesur O, Molnar T, Chagnon F, Farand P, Croteau E.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "Research Square",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-03-31",
+      "firstIndexDate": "2026-04-01",
+      "versionNumber": 1
+    },
+    {
+      "id": "42450052",
+      "source": "MED",
+      "pmid": "42450052",
+      "pmcid": "PMC13360814",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13360814"
+        ]
+      },
+      "doi": "10.3390/ijms27135779",
+      "title": "Istaroxime in Acute Heart Failure and Early Cardiogenic Shock: A Calcium-Cycling Approach to Inotropic Therapy.",
+      "authorString": "Krasińska B, Maria Raffa G, Pisano C, Nuzzi V, Manca P, Filipiak KJ, Rahnama M, Olasińska-Wiśniewska A, Kowalewski M, Krasiński Z, Suwalski P, Grywalska E, Urbanowicz T.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "13",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "5779",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-26",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "PMC13639578",
+      "source": "PMC",
+      "pmcid": "PMC13639578",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13639578"
+        ]
+      },
+      "title": "Disrupted thyroid hormone–mitochondrial coupling in diabetic cardiomyopathy: a candidate upstream amplifier of metabolic and redox maladaptation",
+      "authorString": "Xia Y, Zhang W, Guo J.",
+      "journalTitle": "Front Endocrinol (Lausanne)",
+      "journalVolume": "17",
+      "journalIssn": "1664-2392",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-07",
+      "firstIndexDate": "2026-10-07"
+    },
+    {
+      "id": "PMC13648184",
+      "source": "PMC",
+      "pmcid": "PMC13648184",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13648184"
+        ]
+      },
+      "title": "Exogenous ketosis in breath‐hold diving: Promise, paradox and physiological risk",
+      "authorString": "Drviš I, Stalmans M, Vrdoljak D, Foretic N, Bailey D, Dujić Ž.",
+      "journalTitle": "Exp Physiol",
+      "pubYear": "2026",
+      "journalIssn": "0958-0670; 1469-445x; ",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-08",
+      "firstIndexDate": "2026-10-09"
+    },
+    {
+      "id": "42487674",
+      "source": "MED",
+      "pmid": "42487674",
+      "pmcid": "PMC13389800",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13389800"
+        ]
+      },
+      "doi": "10.25122/jml-2026-0040",
+      "title": "Our experience regarding parametric assistance and modulation of physical interventions for the recovery of effort capacity in patients after acute myocardial infarction - partial results.",
+      "authorString": "Mandu M, Onose G, Andrei CL, Lacraru AE, Andone I, Ion A, Trache DA, Andronache LF, Vasile AM, Busnatu SS.",
+      "journalTitle": "J Med Life",
+      "issue": "5",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1844-122x; 1844-3117; ",
+      "pageInfo": "373-386",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-07-23"
+    },
+    {
+      "id": "42886507",
+      "source": "MED",
+      "pmid": "42886507",
+      "pmcid": "PMC13679059",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13679059"
+        ]
+      },
+      "doi": "10.1152/ajpheart.00430.2026",
+      "title": "The pathophysiology of wild-type transthyretin amyloidosis: implications for exercise intolerance.",
+      "authorString": "Iacovelli JJ, Carter SJ, Wray DW.",
+      "journalTitle": "Am J Physiol Heart Circ Physiol",
+      "issue": "5",
+      "journalVolume": "331",
+      "pubYear": "2026",
+      "journalIssn": "0363-6135; 1522-1539; ",
+      "pageInfo": "H1530-H1545",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-18",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "42393314",
+      "source": "MED",
+      "pmid": "42393314",
+      "pmcid": "PMC13434232",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13434232"
+        ]
+      },
+      "doi": "10.1038/s12276-026-01767-3",
+      "title": "Sphingosine-1-phosphate receptor 1 signaling stimulates human pluripotent stem cell-derived cardiomyocyte differentiation and maturation.",
+      "authorString": "Yu WD, Lee SG, Jung KB, Hyun SA, Kim YD, Son YS, Lee H, Cho HS, Kim DS, Lee KJ, Yoo J, Kim CY, Lee MO, Kwon O, Son MY.",
+      "journalTitle": "Exp Mol Med",
+      "issue": "7",
+      "journalVolume": "58",
+      "pubYear": "2026",
+      "journalIssn": "1226-3613; 2092-6413; ",
+      "pageInfo": "2223-2234",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-02",
+      "firstIndexDate": "2026-07-03"
+    },
+    {
+      "id": "42963201",
+      "source": "MED",
+      "pmid": "42963201",
+      "pmcid": "PMC13722603",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13722603"
+        ]
+      },
+      "doi": "10.1111/1753-0407.70292",
+      "title": "Exercise-Based Management of Diabetic Cardiomyopathy: Preclinical Mechanisms, Clinical Evidence, and Translational Strategies.",
+      "authorString": "Li X, Wang Z, Liu J.",
+      "journalTitle": "J Diabetes",
+      "issue": "11",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "1753-0393; 1753-0407; ",
+      "pageInfo": "e70292",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-11-01",
+      "firstIndexDate": "2026-10-31"
+    },
+    {
+      "id": "42943360",
+      "source": "MED",
+      "pmid": "42943360",
+      "pmcid": "PMC13708437",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13708437"
+        ]
+      },
+      "doi": "10.3390/ph19101663",
+      "title": "Trimetazidine in Heart Failure: From Metabolic Modulation to Clinical Outcomes-A Narrative Review.",
+      "authorString": "Pradhan A, Prajapathi S, Mahajan K, Batta A, Perrone MA.",
+      "journalTitle": "Pharmaceuticals (Basel)",
+      "issue": "10",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1424-8247",
+      "pageInfo": "1663",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-21",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42810981",
+      "source": "MED",
+      "pmid": "42810981",
+      "pmcid": "PMC13623666",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13623666"
+        ]
+      },
+      "doi": "10.14814/phy2.71103",
+      "title": "Persistent endothelial dysfunction is associated with exercise intolerance in adults despite preserved myocardial work 3 years after SARS-CoV-2 infection.",
+      "authorString": "de Araújo Alves CC, Goulart CDL, D'Ávila L, de Souza Silva BHE, Alves IM, Aguiar BVS, Conde C, Stein R, Cipriano G.",
+      "journalTitle": "Physiol Rep",
+      "issue": "19",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2051-817x",
+      "pageInfo": "e71103",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-09-30"
+    },
+    {
+      "id": "42939835",
+      "source": "MED",
+      "pmid": "42939835",
+      "pmcid": "PMC13700630",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13700630"
+        ]
+      },
+      "doi": "10.3390/antiox15101261",
+      "title": "Redox Phenotyping of the Donor Heart: A New Paradigm for Precision Heart Transplantation.",
+      "authorString": "Urbanowicz T, Kowalewski M, Raffa GM, Krasińska B, Pisano C, Nuzzi V, Rahnama M, Suwalski P, Krasiński Z, Grywalska E.",
+      "journalTitle": "Antioxidants (Basel)",
+      "issue": "10",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2076-3921",
+      "pageInfo": "1261",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42421106",
+      "source": "MED",
+      "pmid": "42421106",
+      "pmcid": "PMC13637282",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13637282"
+        ]
+      },
+      "doi": "10.1186/s13287-026-05160-9",
+      "title": "Psoralen enhances direct cardiac reprogramming via activating PPARα and driving mitochondrial fission and improves cardiac function after myocardial infarction.",
+      "authorString": "Li W, Liu H, Wan X, Cheng D, Zhang Z, Zhu R.",
+      "journalTitle": "Stem Cell Res Ther",
+      "issue": "1",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1757-6512",
+      "pageInfo": "350",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen"
+        ]
+      },
+      "firstPublicationDate": "2026-07-08",
+      "firstIndexDate": "2026-07-09"
+    },
+    {
+      "id": "41906576",
+      "source": "MED",
+      "pmid": "41906576",
+      "pmcid": "PMC13045579",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13045579"
+        ]
+      },
+      "doi": "10.1016/j.jaccas.2026.107475",
+      "title": "Return-to-Sport Evaluation After ST-Segment Elevation Myocardial Infarction and Persistent Systolic Dysfunction in a Masters Athlete.",
+      "authorString": "Meagher SP, Kong N, Zimetbaum PJ, Rao P.",
+      "journalTitle": "JACC Case Rep",
+      "issue": "12",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "2666-0849",
+      "pageInfo": "107475",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-01",
+      "firstIndexDate": "2026-03-30"
+    },
+    {
+      "id": "41661147",
+      "source": "MED",
+      "pmid": "41661147",
+      "doi": "10.1152/ajpheart.00669.2025",
+      "title": "Serial measurements of myocardial efficiency in patients with aortic valve stenosis: pathophysiological mechanisms and prognostic implications.",
+      "authorString": "Hansson NH, Sörensen J, Harms HJ, Kim WY, Tolbod LP, Nielsen RR, Berg-Hansen K, Larsen AH, Frøkiær J, Bouchelouche K, Dodt KK, Poulsen SH, Wiggers H.",
+      "journalTitle": "Am J Physiol Heart Circ Physiol",
+      "issue": "3",
+      "journalVolume": "330",
+      "pubYear": "2026",
+      "journalIssn": "0363-6135; 1522-1539; ",
+      "pageInfo": "H874-H882",
+      "pubType": "research support, non-u.s. gov't; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-02-09",
+      "firstIndexDate": "2026-02-10"
+    },
+    {
+      "id": "42451583",
+      "source": "MED",
+      "pmid": "42451583",
+      "pmcid": "PMC13363412",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13363412"
+        ]
+      },
+      "doi": "10.3390/molecules31132212",
+      "title": "TRPV1 Activation Is Associated with Improved Mitochondrial Function and Cardioprotection in Experimental Hypertension.",
+      "authorString": "Ruiz-Ramírez A, Correa-Segura F, Valle-Mondragón LD, Márquez-Ramírez AM, Pérez-Torres I, Rodríguez OM, Velázquez-Espejel R, Vargas-González A, Ibarra-Lara L, Oidor-Chan VH, Díaz-Juárez JA, Martínez-Memíje R, Castrejón-Téllez V, Torres-Narváez JC.",
+      "journalTitle": "Molecules",
+      "issue": "13",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "1420-3049",
+      "pageInfo": "2212",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-23",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "42894112",
+      "source": "MED",
+      "pmid": "42894112",
+      "pmcid": "PMC13679159",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13679159"
+        ]
+      },
+      "doi": "10.1186/s12872-026-06298-3",
+      "title": "Analysis of myocardial work in different obesity phenotypes and its association with epicardial adipose tissue.",
+      "authorString": "Wang Z, Tan C, Lyu Z, Wen Z, Wu T, Geng D, Zheng S.",
+      "journalTitle": "BMC Cardiovasc Disord",
+      "issue": "1",
+      "journalVolume": "26",
+      "pubYear": "2026",
+      "journalIssn": "1471-2261",
+      "pageInfo": "936",
+      "pubType": "comparative study; research-article; journal article; observational study",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-22",
+      "firstIndexDate": "2026-10-21"
+    },
+    {
+      "id": "42520300",
+      "source": "MED",
+      "pmid": "42520300",
+      "pmcid": "PMC13412605",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13412605"
+        ]
+      },
+      "doi": "10.1002/ame2.70268",
+      "title": "Analysis of energy expenditure and behavioral characteristics in different mouse strains under normal and disease conditions.",
+      "authorString": "Zeng J, Ji Y, Zou Y, Tan J, Wu T, Shen C, Huang T, Xiong S, Liu M, Yang M, Lai J, Ma J, Wan J, Fu X, Qian J, Li H, Yuan L, Cai W.",
+      "journalTitle": "Animal Model Exp Med",
+      "issue": "8",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2096-5451; 2576-2095; ",
+      "pageInfo": "1633-1647",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-28",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42746146",
+      "source": "MED",
+      "pmid": "42746146",
+      "pmcid": "PMC13575348",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13575348"
+        ]
+      },
+      "doi": "10.3389/fcvm.2026.1925684",
+      "title": "Regulatory mechanisms and interactions of mitophagy and ketone body metabolism in cardiac metabolism.",
+      "authorString": "Ding S, Hu Y, Zhang Q, Liu X, Zhao X, Zhao Y, Zhang W.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2297-055x",
+      "pageInfo": "1925684",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-09-17"
+    },
+    {
+      "id": "42589389",
+      "source": "MED",
+      "pmid": "42589389",
+      "pmcid": "PMC13467196",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13467196"
+        ]
+      },
+      "doi": "10.3390/ijms27156733",
+      "title": "Cardiopulmonary Performance and Subclinical Myocardial Remodeling in Virologically Suppressed HIV Patients: The Role of the Metabolic Age Gap.",
+      "authorString": "Luput-Andrica IM, Marinescu AR, Cut TG, Herlo A, Laza R, Oancea CI, Septimiu-Radu S, Dumitrescu AS, Pescaru CC, Lazureanu VE.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "15",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "6733",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-28",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "42947138",
+      "source": "MED",
+      "pmid": "42947138",
+      "pmcid": "PMC13715113",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13715113"
+        ]
+      },
+      "doi": "10.1186/s13023-026-04515-y",
+      "title": "Peripheral and cardiac determinants of exercise intolerance in classic Anderson-Fabry disease: insights from cardiopulmonary exercise testing and advanced echocardiography.",
+      "authorString": "Spinelli L, Cuomo A, Bianco A, Riccio E, Donato AD, Pisani A, Iaccarino G.",
+      "journalTitle": "Orphanet J Rare Dis",
+      "issue": "1",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1750-1172",
+      "pageInfo": "377",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-27",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42029502",
+      "source": "MED",
+      "pmid": "42029502",
+      "pmcid": "PMC13108157",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13108157"
+        ]
+      },
+      "doi": "10.3390/jfmk11020134",
+      "title": "Intramyocardial Bridge in Sports Medicine: Proposal of a Possible Follow-Up Strategy in Asymptomatic Athletes.",
+      "authorString": "Palazzo R, Orlandi M, Fu F, Bini V, Stefani L.",
+      "journalTitle": "J Funct Morphol Kinesiol",
+      "issue": "2",
+      "journalVolume": "11",
+      "pubYear": "2026",
+      "journalIssn": "2411-5142",
+      "pageInfo": "134",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-24",
+      "firstIndexDate": "2026-04-24"
+    },
+    {
+      "id": "42643259",
+      "source": "MED",
+      "pmid": "42643259",
+      "pmcid": "PMC13503221",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13503221"
+        ]
+      },
+      "doi": "10.3389/fcvm.2026.1873004",
+      "title": "Real-time CMR combined with cardiopulmonary exercise testing enables integrated assessment of cardiac function during exercise.",
+      "authorString": "Röwer LM, Vu DT, Goundi MA, Malik H, Verde PE, Voit D, Frahm J, Müller-Lutz A, Antoch G, Steinmetz M, Meierhofer C, Klee D, Pillekamp F.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2297-055x",
+      "pageInfo": "1873004",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-11",
+      "firstIndexDate": "2026-08-26"
+    },
+    {
+      "id": "42311412",
+      "source": "MED",
+      "pmid": "42311412",
+      "pmcid": "PMC13268912",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13268912"
+        ]
+      },
+      "doi": "10.3389/fphar.2026.1805965",
+      "title": "Establishing a direct interaction between the 19,20-EDP analog SA-22 and SIRT3: impact on cardiac mitochondrial homeostasis.",
+      "authorString": "Kranrod JW, Valencia R, Heidari M, Ibrahim KM, Adebesin AM, Munnuri S, Falck JR, Seubert JM.",
+      "journalTitle": "Front Pharmacol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1663-9812",
+      "pageInfo": "1805965",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-02",
+      "firstIndexDate": "2026-06-18"
+    },
+    {
+      "id": "PMC13638497",
+      "source": "PMC",
+      "pmcid": "PMC13638497",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13638497"
+        ]
+      },
+      "title": "Relationship between change in body composition and cardiorespiratory fitness during cardiac rehabilitation in patients with cardiovascular disease",
+      "authorString": "Sharif S, Taylor J, Bonikowske A, Olson T.",
+      "journalTitle": "Front Endocrinol (Lausanne)",
+      "journalVolume": "17",
+      "journalIssn": "1664-2392",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-07",
+      "firstIndexDate": "2026-10-07"
+    },
+    {
+      "id": "41858918",
+      "source": "MED",
+      "pmid": "41858918",
+      "pmcid": "PMC12998368",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12998368"
+        ]
+      },
+      "doi": "10.2147/dddt.s568587",
+      "title": "Cardiac Myosin Activators in Heart Failure: Experimental Advances Amid Clinical Uncertainty.",
+      "authorString": "Hou L, Lin B, Ji X, Huang A.",
+      "journalTitle": "Drug Des Devel Ther",
+      "journalVolume": "20",
+      "pubYear": "2026",
+      "journalIssn": "1177-8881",
+      "pageInfo": "568587",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-12",
+      "firstIndexDate": "2026-03-20"
+    },
+    {
+      "id": "42723719",
+      "source": "MED",
+      "pmid": "42723719",
+      "pmcid": "PMC13557962",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13557962"
+        ]
+      },
+      "doi": "10.3389/fcvm.2026.1891480",
+      "title": "Mechanisms underlying the reversal of hypoxia-induced energy metabolic reprogramming in cardiomyocytes by Poria cocos triterpenoids: integrated regulation of mitochondrial dynamics and the autophagy-lysosomal pathway.",
+      "authorString": "Wu Z, Liao J, Xu H, Hou H, Song J.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2297-055x",
+      "pageInfo": "1891480",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-27",
+      "firstIndexDate": "2026-09-12"
+    }
+  ]
+}

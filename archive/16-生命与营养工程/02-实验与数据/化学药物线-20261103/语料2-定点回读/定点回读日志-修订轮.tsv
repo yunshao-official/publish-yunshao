@@ -1,0 +1,15 @@
+编号	判据	修订后检索式	执行UTC	HTTP	hitCount	取回	修订前编号	保存文件
+R01	CC-2	milrinone AND PROMISE AND mortality	2026-11-03T04:37:49Z	200	630	5	T01	R01_CC-2.json
+R02	CC-2	TITLE:"The Cardiac Insufficiency Bisoprolol Study II"	2026-11-03T04:37:49Z	200	10	5	T03	R02_CC-2.json
+R03	CC-2	MERIT-HF AND metoprolol AND mortality	2026-11-03T04:37:49Z	200	656	5	T04	R03_CC-2.json
+R04	CC-3	TITLE:"Ivabradine for patients with heart failure" OR (SHIFT AND ivabradine AND randomized)	2026-11-03T04:37:49Z	200	770	5	T06/T07/T08	R04_CC-3.json
+R05	CC-2	carvedilol AND COPERNICUS AND mortality	2026-11-03T04:37:49Z	200	345	5	T05	R05_CC-2.json
+R06	CC-2	vesnarinone OR (PDE3 AND inhibitor AND heart failure AND mortality)	2026-11-03T04:37:49Z	200	989	5	A3	R06_CC-2.json
+R07	CC-1	"cytochrome oxidase" AND (action OR absorption) AND (760 OR 850 OR 905 OR 980) AND (nm)	2026-11-03T04:37:49Z	200	537	5	T16	R07_CC-1.json
+R08	CC-1	photobiomodulation AND review AND (660 OR 810 OR 880) AND (nm OR wavelength)	2026-11-03T04:37:49Z	200	1540	5	T17/T18	R08_CC-1.json
+R09	CC-5	myocardial external efficiency AND (pet OR carbon-11 OR acetate)	2026-11-03T04:37:49Z	200	9854	5	T12	R09_CC-5.json
+R10	CC-4	"cardiomyocyte" AND ("1%" OR "0.45") AND renewal AND age	2026-11-03T04:37:49Z	200	3085	5	T14/T15	R10_CC-4.json
+R11	CC-10	Dog Aging Project AND rapamycin	2026-11-03T04:37:49Z	200	436	5	T20	R11_CC-10.json
+R12	CC-10	"caloric restriction" AND rhesus monkeys AND survival AND (NIA OR Wisconsin OR 2017 OR 2009)	2026-11-03T04:37:49Z	200	459	5	T21/T22	R12_CC-10.json
+R13	CC-7	therapeutic hypothermia OR torpor AND ("metabolic rate" OR hypometabolism) AND (longevity OR aging)	2026-11-03T04:37:49Z	200	113	5	T26	R13_CC-7.json
+R14	CC-12	nicotinamide riboside AND randomized AND ("no effect" OR "did not improve") AND (insulin OR muscle OR vascular)	2026-11-03T04:37:49Z	200	1045	5	T27	R14_CC-12.json

@@ -1,0 +1,1916 @@
+{
+  "query_id": "B3",
+  "group": "B",
+  "query": "(nicotinamide riboside OR NMN) AND human trial",
+  "hitCount": 22385,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:06.779543+00:00",
+  "results": [
+    {
+      "id": "42489969",
+      "source": "MED",
+      "pmid": "42489969",
+      "pmcid": "PMC13395945",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13395945"
+        ]
+      },
+      "doi": "10.1007/s11033-026-12351-3",
+      "title": "NAD⁺ biology and supplementation: From mechanisms to clinical perspectives.",
+      "authorString": "Pandolfi S, Ghezzi C, Björklund G, Metalla M, Paone FM, Chirumbolo S.",
+      "journalTitle": "Mol Biol Rep",
+      "issue": "1",
+      "journalVolume": "53",
+      "pubYear": "2026",
+      "journalIssn": "0301-4851; 1573-4978; ",
+      "pageInfo": "1249",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-23",
+      "firstIndexDate": "2026-07-23"
+    },
+    {
+      "id": "PMC13643272",
+      "source": "PMC",
+      "pmcid": "PMC13643272",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13643272"
+        ]
+      },
+      "title": "Restoring NAD+ pathways in brain aging and neurodegenerative diseases: roles of vitamin B3 metabolites, gut microbiota, and exercise in cognitive health",
+      "authorString": "Zhang W.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "13",
+      "journalIssn": "2296-861x",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-08",
+      "firstIndexDate": "2026-10-08"
+    },
+    {
+      "id": "42304075",
+      "source": "MED",
+      "pmid": "42304075",
+      "pmcid": "PMC13534420",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13534420"
+        ]
+      },
+      "doi": "10.1038/s41598-026-57552-9",
+      "title": "Sublingual NMN administration increases early circulating terminal catabolites 2PY and 4PY compared with oral administration in healthy adult men.",
+      "authorString": "Wakabayashi J, Higashi S, Morifuji M.",
+      "journalTitle": "Sci Rep",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2045-2322",
+      "pageInfo": "27464",
+      "pubType": "comparative study; research support, non-u.s. gov't; research-article; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen"
+        ]
+      },
+      "firstPublicationDate": "2026-06-16",
+      "firstIndexDate": "2026-06-18"
+    },
+    {
+      "id": "42787547",
+      "source": "MED",
+      "pmid": "42787547",
+      "pmcid": "PMC13601825",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13601825"
+        ]
+      },
+      "doi": "10.3389/fragi.2026.1887175",
+      "title": "Narrative review of intravenous NAD&lt;sup&gt;+&lt;/sup&gt; and NAD&lt;sup&gt;+&lt;/sup&gt; precursors in wellness and translational medicine.",
+      "authorString": "Alangari A, Arif J, Al Qureshah F, Alkhodairy F.",
+      "journalTitle": "Front Aging",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2673-6217",
+      "pageInfo": "1887175",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-10",
+      "firstIndexDate": "2026-09-26"
+    },
+    {
+      "id": "42943256",
+      "source": "MED",
+      "pmid": "42943256",
+      "pmcid": "PMC13708063",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13708063"
+        ]
+      },
+      "doi": "10.3390/ph19101557",
+      "title": "Lysine Acetylation as a Regulatory Mechanism in Cardiometabolic Disease: A Focus on Sirtuins.",
+      "authorString": "Trivedi K, Dolinsky VW.",
+      "journalTitle": "Pharmaceuticals (Basel)",
+      "issue": "10",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1424-8247",
+      "pageInfo": "1557",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42739057",
+      "source": "MED",
+      "pmid": "42739057",
+      "pmcid": "PMC13567524",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13567524"
+        ]
+      },
+      "doi": "10.3390/nu18172885",
+      "title": "Nicotinamide Supplementation in Glaucoma: A Systematic Review of Human Studies.",
+      "authorString": "Giudiceandrea A, Cocuzza M, Gravina G, Silvestri V, Amore F, Sulfaro M, De Dominicis F, Bruzio S, Giudiceandrea E, Salgarello M, Cozzupoli GM, Savastano MC, Falsini B, Rizzo S, Salgarello T.",
+      "journalTitle": "Nutrients",
+      "issue": "17",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2885",
+      "pubType": "systematic review; review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-03",
+      "firstIndexDate": "2026-09-15"
+    },
+    {
+      "id": "42603990",
+      "source": "MED",
+      "pmid": "42603990",
+      "pmcid": "PMC13476503",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13476503"
+        ]
+      },
+      "doi": "10.1016/j.ekir.2026.106700",
+      "title": "Nicotinamide Adenine Dinucleotide Augmentation in Diabetic Kidney Disease: Randomized Trial Study Protocol.",
+      "authorString": "Chandra MS, Gagliano-Jucá T, Shekhar S, Pencina KM, Travison TG, Garg R, McDonnell ME, Reid KF, Latham NK, Lam H, Meritus D, Yan Y, Isaza I, Weiss MF, Beleva YM, Bracken EM, Ruiz E, Wang C, Forman J, Waikar SS, Bhasin S.",
+      "journalTitle": "Kidney Int Rep",
+      "issue": "10",
+      "journalVolume": "11",
+      "pubYear": "2026",
+      "journalIssn": "2468-0249",
+      "pageInfo": "106700",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-07-16",
+      "firstIndexDate": "2026-08-16"
+    },
+    {
+      "id": "42653764",
+      "source": "MED",
+      "pmid": "42653764",
+      "pmcid": "PMC13516611",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13516611"
+        ]
+      },
+      "doi": "10.3390/ph19081268",
+      "title": "Pyrroloquinoline Quinone and NAD&lt;sup&gt;+&lt;/sup&gt; Metabolism in Glaucoma: A Molecular Rationale for Combined Neuroprotection.",
+      "authorString": "Medoro A, Davinelli S, Mazzotta CG, Agnifili L, Scapagnini G.",
+      "journalTitle": "Pharmaceuticals (Basel)",
+      "issue": "8",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1424-8247",
+      "pageInfo": "1268",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-11",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42125559",
+      "source": "MED",
+      "pmid": "42125559",
+      "pmcid": "PMC13158811",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13158811"
+        ]
+      },
+      "doi": "10.2903/j.efsa.2026.10007",
+      "title": "Safety of beta-nicotinamide mononucleotide (β-NMN) pursuant the regulation (EU) 2015/2283 and the bioavailability of nicotinamide from this source in the context of Directive 2002/46/EC.",
+      "authorString": "EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA), Turck D, Bohn T, Cámara M, Castenmiller J, De Henauw S, Jos Á, Maciuk A, Mangelsdorf I, McNulty B, Naska A, Pentieva K, Siani A, Thies F, Aguilera-Gómez M, Cubadda F, Frenzel T, Gundert-Remy U, Marcon F, McArdle HJ, Neuhäuser-Berthold M, Maradona MP, Siskos A, Wright M, Beneventi E, Rossi A, Magani M, Hirsch-Ernst KI.",
+      "journalTitle": "EFSA J",
+      "issue": "5",
+      "journalVolume": "24",
+      "pubYear": "2026",
+      "journalIssn": "1831-4732",
+      "pageInfo": "e10007",
+      "pubType": "other; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-11",
+      "firstIndexDate": "2026-05-15"
+    },
+    {
+      "id": "42278444",
+      "source": "MED",
+      "pmid": "42278444",
+      "pmcid": "PMC13256647",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13256647"
+        ]
+      },
+      "doi": "10.3390/ijms27114918",
+      "title": "Skin Cancer Prevention and Antiaging: Role of Nicotinamide.",
+      "authorString": "Moro F, Panebianco ASI, Bartolocci V, Capone A, Di Guardo A, Hyeraci M, Gemma GPA, Di Lella G, Colonna L, Ricci F, Dellambra E, Fania L.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "11",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "4918",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-29",
+      "firstIndexDate": "2026-06-12"
+    },
+    {
+      "id": "42774067",
+      "source": "MED",
+      "pmid": "42774067",
+      "pmcid": "PMC13593507",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13593507"
+        ]
+      },
+      "doi": "10.3389/fnut.2026.1890335",
+      "title": "Domain-specific effects of NAD&lt;sup&gt;+&lt;/sup&gt; precursors on fatigue and functional performance: a systematic review and network meta-analysis.",
+      "authorString": "Gao Y, Li S, Guan J, Yin Y, Kong X, Yu L.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2296-861x",
+      "pageInfo": "1890335",
+      "pubType": "systematic review; systematic-review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-08",
+      "firstIndexDate": "2026-09-24"
+    },
+    {
+      "id": "42478598",
+      "source": "MED",
+      "pmid": "42478598",
+      "pmcid": "PMC13386481",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13386481"
+        ]
+      },
+      "doi": "10.1002/alz.71605",
+      "title": "A phase-II randomized controlled pilot study of nicotinamide riboside supplementation in older adults with amnestic mild cognitive impairment.",
+      "authorString": "Martens CR, Decker KP, DeConne TM, Sanjana F, Horvat F, Rizzi NA, Awad C, Habash E, Hobson JC, Kramer MK, Armstrong ML, Reisdorph N, Pohlig RT, Lanzi AM, Johnson CL, Cohen ML, Ellison JM.",
+      "journalTitle": "Alzheimers Dement",
+      "issue": "7",
+      "journalVolume": "22",
+      "pubYear": "2026",
+      "journalIssn": "1552-5260; 1552-5279; ",
+      "pageInfo": "e71605",
+      "pubType": "clinical trial, phase ii; research-article; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-21"
+    },
+    {
+      "id": "42514320",
+      "source": "MED",
+      "pmid": "42514320",
+      "pmcid": "PMC13414721",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13414721"
+        ]
+      },
+      "doi": "10.3390/nu18142251",
+      "title": "Safety and Metabolism-Related Outcomes of Oral Nicotinamide Mononucleotide Supplementation in Adults: A Systematic Review and Meta-Analysis.",
+      "authorString": "Yang W, Huang J, Tang Z, Chen C, Sun Y.",
+      "journalTitle": "Nutrients",
+      "issue": "14",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2251",
+      "pubType": "meta-analysis; systematic review; review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-10",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42737424",
+      "source": "MED",
+      "pmid": "42737424",
+      "pmcid": "PMC13565775",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13565775"
+        ]
+      },
+      "doi": "10.3390/ijms27177521",
+      "title": "Geroprotective Effects of Drugs Modulating Metabolic Pathways: Perspectives of Pharmacology in Anti-Aging Therapy.",
+      "authorString": "Grycan M, Zyśk R, Grycan G, Jakiel G, Dudek A, Gromadzka G.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "17",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "7521",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-22",
+      "firstIndexDate": "2026-09-15"
+    },
+    {
+      "id": "41858901",
+      "source": "MED",
+      "pmid": "41858901",
+      "pmcid": "PMC12996706",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12996706"
+        ]
+      },
+      "doi": "10.1016/j.isci.2026.114764",
+      "title": "The NAD-brain pharmacokinetic study of NAD augmentation in blood and brain using oral precursor supplementation.",
+      "authorString": "Berven H, Svensen M, Eikeland H, Tvedten N, Sheard EV, Af Geijerstam SA, Søgnen M, McCann A, Arnsten L, Årseth O, Skjeie V, Hjellbrekke A, Skeie GO, Torres Cleuren YN, Nido GS, Haugarvoll K, Riemer F, Tzoulis C, Dölle C.",
+      "journalTitle": "iScience",
+      "issue": "3",
+      "journalVolume": "29",
+      "pubYear": "2026",
+      "journalIssn": "2589-0042",
+      "pageInfo": "114764",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 5,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-27",
+      "firstIndexDate": "2026-03-20"
+    },
+    {
+      "id": "42107767",
+      "source": "MED",
+      "pmid": "42107767",
+      "pmcid": "PMC13233546",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13233546"
+        ]
+      },
+      "doi": "10.1016/j.advnut.2026.100646",
+      "title": "Nutrition Information Briefs - Niacin.",
+      "authorString": "Meyer-Ficca ML, Chini CC.",
+      "journalTitle": "Adv Nutr",
+      "issue": "6",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2161-8313; 2156-5376; ",
+      "pageInfo": "100646",
+      "pubType": "brief-report; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-08",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "42781074",
+      "source": "MED",
+      "pmid": "42781074",
+      "pmcid": "PMC13599794",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13599794"
+        ]
+      },
+      "doi": "10.2147/cia.s620882",
+      "title": "Therapeutic Targeting of Inflammaging and Emerging Strategies for Managing Age-Related Multimorbidity: A Narrative Review.",
+      "authorString": "Ayoub NR.",
+      "journalTitle": "Clin Interv Aging",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1176-9092; 1178-1998; ",
+      "pageInfo": "620882",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-19",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "42708068",
+      "source": "MED",
+      "pmid": "42708068",
+      "pmcid": "PMC13549304",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13549304"
+        ]
+      },
+      "doi": "10.2147/ijn.s626615",
+      "title": "Precision Nanodelivery Enables Spatiotemporal Control of NAD⁺ Metabolism in Ageing and Disease.",
+      "authorString": "Pei Z, Wang X, Liang F, Zhong M, Jiang Q, Li H.",
+      "journalTitle": "Int J Nanomedicine",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1176-9114; 1178-2013; ",
+      "pageInfo": "626615",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-03",
+      "firstIndexDate": "2026-09-09"
+    },
+    {
+      "id": "42909696",
+      "source": "MED",
+      "pmid": "42909696",
+      "doi": "10.1007/s12031-026-02612-y",
+      "title": "NMN Ameliorates STXBP1-R292C Variant-mediated Developmental and Motor Dysfunction: Molecular Docking and Functional Studies.",
+      "authorString": "Ben-Moshe H, Levine J, Ben-Zeev E, Bielopolski N, Wald-Altman S, Brock T, Levichev A, Gordon E, Gidali S, Ben-Zeev B, Gozes I.",
+      "journalTitle": "J Mol Neurosci",
+      "issue": "4",
+      "journalVolume": "76",
+      "pubYear": "2026",
+      "journalIssn": "0895-8696; 1559-1166; ",
+      "pageInfo": "159",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-23",
+      "firstIndexDate": "2026-10-24"
+    },
+    {
+      "id": "42843881",
+      "source": "MED",
+      "pmid": "42843881",
+      "doi": "10.1136/bmjopen-2026-118516",
+      "title": "Does nicotinamide riboside supplementation increase milk production in postpartum women with infants admitted to a neonatal intensive care unit? Protocol for the MOONRISE randomised, double-blind, placebo-controlled pilot feasibility trial.",
+      "authorString": "Khanal L, Cernioglo K, Smilowitz JT, German JB, Underwood MA, Kuhn-Riordon K, Cacho NT.",
+      "journalTitle": "BMJ Open",
+      "issue": "10",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2044-6055",
+      "pageInfo": "e118516",
+      "pubType": "clinical trial protocol; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-10-07",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42654282",
+      "source": "MED",
+      "pmid": "42654282",
+      "pmcid": "PMC13517046",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13517046"
+        ]
+      },
+      "doi": "10.3390/nu18162702",
+      "title": "Micronutrition as a Therapeutic Strategy for Mitochondrial Dysfunction in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome and Fibromyalgia: A Narrative Review.",
+      "authorString": "Abanades S, Fernández I, Capdevila N, Cardona F.",
+      "journalTitle": "Nutrients",
+      "issue": "16",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2702",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-19",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42481916",
+      "source": "MED",
+      "pmid": "42481916",
+      "pmcid": "PMC13388492",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13388492"
+        ]
+      },
+      "doi": "10.1111/acel.70638",
+      "title": "The Divergent Effects of Nicotinamide Riboside and High-Intensity Exercise Training on Skeletal Muscle Epigenetic Aging.",
+      "authorString": "Heikkinen A, Uusitalo-Kylmälä L, Blom I, Helge JW, Gillberg L, Seaborne R, Larsen S, Jacques M, Grolaux R, Aaltonen S, Kaprio J, van der Kolk BW, Heinonen S, Eynon N, Pietiläinen KH, Kivelä R, Pirinen E, Ollikainen M.",
+      "journalTitle": "Aging Cell",
+      "issue": "8",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pageInfo": "e70638",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "geo",
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-01",
+      "firstIndexDate": "2026-07-22"
+    },
+    {
+      "id": "42646333",
+      "source": "MED",
+      "pmid": "42646333",
+      "pmcid": "PMC13515651",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13515651"
+        ]
+      },
+      "doi": "10.3390/metabo16080597",
+      "title": "Nicotinamide Mononucleotide Adenylyltransferase 1 and NAD&lt;sup&gt;+&lt;/sup&gt; Homeostasis in Neuroprotection and Aging.",
+      "authorString": "Sun Y, Li B, Qian Z.",
+      "journalTitle": "Metabolites",
+      "issue": "8",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2218-1989",
+      "pageInfo": "597",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-21",
+      "firstIndexDate": "2026-08-27"
+    },
+    {
+      "id": "41901171",
+      "source": "MED",
+      "pmid": "41901171",
+      "pmcid": "PMC13029165",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13029165"
+        ]
+      },
+      "doi": "10.3390/nu18060996",
+      "title": "Niacin Derivatives in MASLD: Metabolic and Therapeutic Insights.",
+      "authorString": "Rojo-López MI, Niño-Narvión J, Antentas M, Fernández-Camins B, Martínez-Rojo E, Poca M, Martínez-Sánchez MA, Ramos-Molina B, Rossell J, Mauricio D, Julve J.",
+      "journalTitle": "Nutrients",
+      "issue": "6",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "996",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-20",
+      "firstIndexDate": "2026-03-29"
+    },
+    {
+      "id": "42563993",
+      "source": "MED",
+      "pmid": "42563993",
+      "pmcid": "PMC13441750",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13441750"
+        ]
+      },
+      "doi": "10.3389/fimmu.2026.1831494",
+      "title": "Metabolic reprogramming orchestrates microglial fate in cerebral ischemia-reperfusion injury: a spatiotemporal immunometabolic perspective.",
+      "authorString": "Zhang M, Li H, Zhang W.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-3224",
+      "pageInfo": "1831494",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-23",
+      "firstIndexDate": "2026-08-07"
+    },
+    {
+      "id": "42471920",
+      "source": "MED",
+      "pmid": "42471920",
+      "pmcid": "PMC13380124",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13380124"
+        ]
+      },
+      "doi": "10.7759/cureus.112906",
+      "title": "CPT2 as a Convergent Node Linking Age-Associated Neuronal H3K27me3 Remodeling to Nicotinamide Mononucleotide (NMN)-Induced Expression Rescue in Metabolic Tissues.",
+      "authorString": "Cheung N.",
+      "journalTitle": "Cureus",
+      "issue": "7",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e112906",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "geo",
+          "reactome",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-18",
+      "firstIndexDate": "2026-07-21"
+    },
+    {
+      "id": "41608092",
+      "source": "MED",
+      "pmid": "41608092",
+      "pmcid": "PMC12835989",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12835989"
+        ]
+      },
+      "doi": "10.4239/wjd.v17.i1.114082",
+      "title": "Exploring novel pathways and potential therapeutic targets for diabetic nephropathy: The interplay of podocytes and proximal tubular epithelial cells.",
+      "authorString": "Abdelaziz TS.",
+      "journalTitle": "World J Diabetes",
+      "issue": "1",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1948-9358",
+      "pageInfo": "114082",
+      "pubType": "editorial",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-01-01",
+      "firstIndexDate": "2026-02-06"
+    },
+    {
+      "id": "42577302",
+      "source": "MED",
+      "pmid": "42577302",
+      "pmcid": "PMC13454030",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13454030"
+        ]
+      },
+      "doi": "10.3389/fmicb.2026.1856217",
+      "title": "Gut microbiota-derived butyrate and the SIRT1/FoxO1 axis: epigenetic-metabolic regulation of ovarian function in premature ovarian insufficiency-a comprehensive review.",
+      "authorString": "Tian S, Song Y, Liu L, Chen S, Wu S, Tuo Y.",
+      "journalTitle": "Front Microbiol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-302x",
+      "pageInfo": "1856217",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-27",
+      "firstIndexDate": "2026-08-13"
+    },
+    {
+      "id": "41516357",
+      "source": "MED",
+      "pmid": "41516357",
+      "pmcid": "PMC12786874",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12786874"
+        ]
+      },
+      "doi": "10.3390/ijms27010485",
+      "title": "Mitochondrial Health Through Nicotinamide Riboside and Berberine: Shared Pathways and Therapeutic Potential.",
+      "authorString": "Visalli F, Capobianco M, Cappellani F, Rapisarda L, Spinello A, Avitabile A, Cannizzaro L, Gagliano C, Zeppieri M.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "1",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "485",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 10,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-02",
+      "firstIndexDate": "2026-01-10"
+    },
+    {
+      "id": "42329791",
+      "source": "MED",
+      "pmid": "42329791",
+      "pmcid": "PMC13292451",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13292451"
+        ]
+      },
+      "doi": "10.1099/jgv.0.002285",
+      "title": "NAD&lt;sup&gt;+&lt;/sup&gt; metabolism at the host-virus interface.",
+      "authorString": "Jhandai P, Vaddadi K, Liu L.",
+      "journalTitle": "J Gen Virol",
+      "issue": "6",
+      "journalVolume": "107",
+      "pubYear": "2026",
+      "journalIssn": "0022-1317; 1465-2099; ",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-06-23"
+    },
+    {
+      "id": "42417865",
+      "source": "MED",
+      "pmid": "42417865",
+      "pmcid": "PMC13346127",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13346127"
+        ]
+      },
+      "doi": "10.1007/s10495-026-02394-z",
+      "title": "Mitochondrial dysfunction and cellular senescence drive accelerated gestational aging in spontaneous preterm birth: a narrative review.",
+      "authorString": "Hanumaiah G, Srinivas T, Vasudeva A.",
+      "journalTitle": "Apoptosis",
+      "issue": "7",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "1360-8185; 1573-675x; ",
+      "pageInfo": "187",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-08",
+      "firstIndexDate": "2026-07-09"
+    },
+    {
+      "id": "42634749",
+      "source": "MED",
+      "pmid": "42634749",
+      "pmcid": "PMC13499948",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13499948"
+        ]
+      },
+      "doi": "10.7759/cureus.114956",
+      "title": "Nicotinamide Mononucleotide (NMN) Prevents Age-Associated Transcriptional Drift in a Tissue-Dependent Manner: Mechanistic Leads From Ras-Related Protein Rab-11A-Mediated Trafficking and Carnitine Palmitoyltransferase 2-Linked Fatty Acid Oxidation.",
+      "authorString": "Cheung N.",
+      "journalTitle": "Cureus",
+      "issue": "8",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e114956",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "geo",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-21",
+      "firstIndexDate": "2026-08-25"
+    },
+    {
+      "id": "41901064",
+      "source": "MED",
+      "pmid": "41901064",
+      "pmcid": "PMC13028934",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13028934"
+        ]
+      },
+      "doi": "10.3390/nu18060890",
+      "title": "Effects of Nicotinamide Mononucleotide Supplementation on Blood Pressure: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "authorString": "Zhang M, Chen Y, Jiang N, Zeng J, Zhang J, Wu C, Liu Y, Nie Z, Yang J, Han S.",
+      "journalTitle": "Nutrients",
+      "issue": "6",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "890",
+      "pubType": "meta-analysis; systematic review; review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-11",
+      "firstIndexDate": "2026-03-29"
+    },
+    {
+      "id": "42009009",
+      "source": "MED",
+      "pmid": "42009009",
+      "pmcid": "PMC13162205",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13162205"
+        ]
+      },
+      "doi": "10.1016/s1474-4422(26)00082-7",
+      "title": "Safety and efficacy of individualised exercise and NAD&lt;sup&gt;+&lt;/sup&gt; precursor supplementation in patients with Friedreich's ataxia in the USA: a single-centre, 2 × 2 factorial, randomised controlled trial.",
+      "authorString": "Lin KY, Bucha A, McSweeney K, Wade KL, Karaj A, Tamaroff J, O'Malley S, Chung NM, Cilenti NA, Wanner J, Adzika GK, Mesaros C, Blair IA, Rojsajjakul T, Serai S, Farmer J, Bryant K, Lu Y, Harhay MO, Weber DR, Paridon SM, Seifert EL, Putt ME, Zamani P, Baur JA, Lynch DR, McCormack SE.",
+      "journalTitle": "Lancet Neurol",
+      "issue": "5",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-4422; 1474-4465; ",
+      "pageInfo": "469-481",
+      "pubType": "clinical trial, phase ii; research-article; randomized controlled trial; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-04-21"
+    },
+    {
+      "id": "42495453",
+      "source": "MED",
+      "pmid": "42495453",
+      "pmcid": "PMC13395530",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13395530"
+        ]
+      },
+      "doi": "10.7759/cureus.111384",
+      "title": "The Role of Oxidative Stress in Heart Failure: Mechanisms and Therapeutic Targets.",
+      "authorString": "Hussain T, Pandey A, Karki D, Neupane P.",
+      "journalTitle": "Cureus",
+      "issue": "6",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e111384",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "omim"
+        ]
+      },
+      "firstPublicationDate": "2026-06-23",
+      "firstIndexDate": "2026-07-24"
+    },
+    {
+      "id": "42959468",
+      "source": "MED",
+      "pmid": "42959468",
+      "pmcid": "PMC13717060",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13717060"
+        ]
+      },
+      "doi": "10.1002/fsn3.72465",
+      "title": "Hepatoprotective Effect of Nicotinamide Mononucleotide on High-Fat Diet-Induced Non-Alcoholic Fatty Liver Disease in Mice.",
+      "authorString": "Zhang Y, Wu Y, Wei Y, Liu X, Lei X, Huang H, Li M.",
+      "journalTitle": "Food Sci Nutr",
+      "issue": "11",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2048-7177",
+      "pageInfo": "e72465",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "refseq",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-28",
+      "firstIndexDate": "2026-10-31"
+    },
+    {
+      "id": "42238644",
+      "source": "MED",
+      "pmid": "42238644",
+      "pmcid": "PMC13227359",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13227359"
+        ]
+      },
+      "doi": "10.31083/rcm47549",
+      "title": "Mitochondrial-Endothelial Crosstalk in Cardiometabolic Disease: Mechanisms and Translational Opportunities in the Multi-omics Era.",
+      "authorString": "Liu D, Sun J, He Y, Sun Y, Yin M, Zhang J, Zhao X.",
+      "journalTitle": "Rev Cardiovasc Med",
+      "issue": "5",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1530-6550",
+      "pageInfo": "47549",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-25",
+      "firstIndexDate": "2026-06-05"
+    },
+    {
+      "id": "42225972",
+      "source": "MED",
+      "pmid": "42225972",
+      "pmcid": "PMC13527098",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13527098"
+        ]
+      },
+      "doi": "10.1038/s42003-026-10398-3",
+      "title": "Hepatic Hamp restoration contributes to nicotinamide mononucleotide (NMN)-alleviated hepatic steatosis in chronic alcohol-fed mice.",
+      "authorString": "Cao F, Ge X, Pi A, Huang Q, Pei L, Chen R, Cao W, Ding Q, Yang M, Song Q, Wang H, Li S.",
+      "journalTitle": "Commun Biol",
+      "issue": "1",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2399-3642",
+      "pageInfo": "1154",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "geo"
+        ]
+      },
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-06-02"
+    },
+    {
+      "id": "41783773",
+      "source": "MED",
+      "pmid": "41783773",
+      "pmcid": "PMC12954315",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12954315"
+        ]
+      },
+      "doi": "10.1016/j.jtumed.2026.02.004",
+      "title": "The geroscience hypothesis: Economic paradigms and pharmacological strategies for healthspan extension.",
+      "authorString": "Alotaibi AF, Aljasser AI, Alkattan AN, Alkhoraisi A, Assiri AM.",
+      "journalTitle": "J Taibah Univ Med Sci",
+      "issue": "2",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1658-3612",
+      "pageInfo": "193-194",
+      "pubType": "letter",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-02-25",
+      "firstIndexDate": "2026-03-06"
+    },
+    {
+      "id": "41338979",
+      "source": "MED",
+      "pmid": "41338979",
+      "pmcid": "PMC12887104",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12887104"
+        ]
+      },
+      "doi": "10.1292/jvms.25-0258",
+      "title": "Beta-nicotinamide mononucleotide attenuates creatine kinase release in Duchenne muscular dystrophy model rats.",
+      "authorString": "Nakamura K, Kanou M, Ito S, Jimbo T, Kouzaki K, Nakazato K, Nakamjima R, Yamanouchi K, Ueda H, Yamana K.",
+      "journalTitle": "J Vet Med Sci",
+      "issue": "2",
+      "journalVolume": "88",
+      "pubYear": "2026",
+      "journalIssn": "0916-7250; 1347-7439; ",
+      "pageInfo": "244-250",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-02",
+      "firstIndexDate": "2025-12-05"
+    },
+    {
+      "id": "41540253",
+      "source": "MED",
+      "pmid": "41540253",
+      "pmcid": "PMC12855009",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12855009"
+        ]
+      },
+      "doi": "10.1038/s42255-025-01421-8",
+      "title": "The differential impact of three different NAD<sup>+</sup> boosters on circulatory NAD and microbial metabolism in humans.",
+      "authorString": "Christen S, Redeuil K, Goulet L, Giner MP, Breton I, Rota R, Frézal A, Nazari A, Van den Abbeele P, Godin JP, Nutten S, Cuenoud B.",
+      "journalTitle": "Nat Metab",
+      "issue": "1",
+      "journalVolume": "8",
+      "pubYear": "2026",
+      "journalIssn": "2522-5812",
+      "pageInfo": "62-73",
+      "pubType": "research-article; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 6,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-15",
+      "firstIndexDate": "2026-01-16"
+    },
+    {
+      "id": "PMC13643068",
+      "source": "PMC",
+      "pmcid": "PMC13643068",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13643068"
+        ]
+      },
+      "title": "Novel applications of SIRT1 in Chronic Kidney Disease",
+      "authorString": "Han Y, Wang Q, Pan X, Dai L.",
+      "journalTitle": "Front Med (Lausanne)",
+      "journalVolume": "13",
+      "journalIssn": "2296-858x",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-08",
+      "firstIndexDate": "2026-10-08"
+    },
+    {
+      "id": "42068909",
+      "source": "MED",
+      "pmid": "42068909",
+      "pmcid": "PMC13144588",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13144588"
+        ]
+      },
+      "doi": "10.1016/j.redox.2026.104191",
+      "title": "An integrated anti-aging framework targeting NAD&lt;sup&gt;+&lt;/sup&gt; homeostasis, mitochondrial quality control, and redox stability: Roles of NMN/NR, PQQ, and EGT.",
+      "authorString": "Sun Y, Han JC, Tran K, Pham T, Zhou Q, Lu J.",
+      "journalTitle": "Redox Biol",
+      "journalVolume": "93",
+      "pubYear": "2026",
+      "journalIssn": "2213-2317",
+      "pageInfo": "104191",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-24",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "41096641",
+      "source": "MED",
+      "pmid": "41096641",
+      "pmcid": "PMC12524491",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12524491"
+        ]
+      },
+      "doi": "10.3390/ijms26199372",
+      "title": "Rewinding the Clock: Emerging Pharmacological Strategies for Human Anti-Aging Therapy.",
+      "authorString": "Delrue C, Speeckaert R, Speeckaert MM.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "19",
+      "journalVolume": "26",
+      "pubYear": "2025",
+      "journalIssn": "1422-0067",
+      "pageInfo": "9372",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 7,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-09-25",
+      "firstIndexDate": "2025-10-16"
+    },
+    {
+      "id": "42280416",
+      "source": "MED",
+      "pmid": "42280416",
+      "pmcid": "PMC13259046",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13259046"
+        ]
+      },
+      "doi": "10.3390/nu18111773",
+      "title": "Nutritional Regulation of Ovarian Bioenergetics: Implications for Reproductive Aging and Female Infertility.",
+      "authorString": "Kim J, Lee J.",
+      "journalTitle": "Nutrients",
+      "issue": "11",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "1773",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-30",
+      "firstIndexDate": "2026-06-12"
+    },
+    {
+      "id": "42366180",
+      "source": "MED",
+      "pmid": "42366180",
+      "pmcid": "PMC13449016",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13449016"
+        ]
+      },
+      "doi": "10.1111/dom.71037",
+      "title": "The Ageing Adipose Paradox: Implications for Metabolic Health.",
+      "authorString": "Matar DB, Elahi MA, Nassar WK, Alotaibi MI, Murphy D, Fakhoury HMA, Aljada A.",
+      "journalTitle": "Diabetes Obes Metab",
+      "issue": "9",
+      "journalVolume": "28",
+      "pubYear": "2026",
+      "journalIssn": "1462-8902; 1463-1326; ",
+      "pageInfo": "7752-7767",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-28",
+      "firstIndexDate": "2026-07-02"
+    },
+    {
+      "id": "41706850",
+      "source": "MED",
+      "pmid": "41706850",
+      "pmcid": "PMC12915611",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12915611"
+        ]
+      },
+      "doi": "10.1126/sciadv.aea9014",
+      "title": "Redox therapy for neuropsychiatric disorders: Molecular mechanisms and biomarker development.",
+      "authorString": "Cuklanz KW, Stein A, Chouinard VA, Ongur D, Du F.",
+      "journalTitle": "Sci Adv",
+      "issue": "8",
+      "journalVolume": "12",
+      "pubYear": "2026",
+      "journalIssn": "2375-2548",
+      "pageInfo": "eaea9014",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-18",
+      "firstIndexDate": "2026-02-19"
+    },
+    {
+      "id": "42936152",
+      "source": "MED",
+      "pmid": "42936152",
+      "pmcid": "PMC13696920",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13696920"
+        ]
+      },
+      "doi": "10.3389/fragi.2026.1912337",
+      "title": "Retinal neurodegeneration as accelerated ocular aging: a review of nutritional and metabolic supplements.",
+      "authorString": "Moshtaghion SM, Shayan M, Ramakrishnan S, Ham A, Gharehkoshan AS, Morley MG, Zebardast N, Díaz-Corrales FJ, Rodríguez de la Rúa E, Husain D, Sobrin L, Elze T, Friedman DS, Eslami M.",
+      "journalTitle": "Front Aging",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2673-6217",
+      "pageInfo": "1912337",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-12",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42769337",
+      "source": "MED",
+      "pmid": "42769337",
+      "pmcid": "PMC13591146",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13591146"
+        ]
+      },
+      "doi": "10.3389/fendo.2026.1900161",
+      "title": "Myosteatosis in type 1 diabetes: immunometabolic mechanisms, biomarkers, and therapeutic targets.",
+      "authorString": "Al-Rashed F, AlSaeed H, Fennelly KP, Al Mulla F, Ahmad R.",
+      "journalTitle": "Front Endocrinol (Lausanne)",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-2392",
+      "pageInfo": "1900161",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-07",
+      "firstIndexDate": "2026-09-23"
+    },
+    {
+      "id": "42670437",
+      "source": "MED",
+      "pmid": "42670437",
+      "pmcid": "PMC13526230",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13526230"
+        ]
+      },
+      "doi": "10.2147/dddt.s627814",
+      "title": "A Staged Translational Framework for Evaluating Oral Glutamatergic and Senescence-Modulating Strategies in Treatment-Resistant Depression.",
+      "authorString": "Cheung N.",
+      "journalTitle": "Drug Des Devel Ther",
+      "journalVolume": "20",
+      "pubYear": "2026",
+      "journalIssn": "1177-8881",
+      "pageInfo": "627814",
+      "pubType": "discussion; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-24",
+      "firstIndexDate": "2026-09-01"
+    }
+  ]
+}
