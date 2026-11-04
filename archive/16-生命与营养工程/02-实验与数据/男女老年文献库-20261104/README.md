@@ -49,6 +49,7 @@
 ## 四、手稿与图件
 
 - `manuscript/SCI_manuscript.docx`：35 页，正文约 15,000 词，107 条参考文献，含 4 图 4 表。
+- `manuscript/SCI_manuscript.pdf`：同一稿的 PDF 版，便于手机与打印查看。
 - `manuscript/manuscript_with_refs.md`：手稿源文，引用以 `[n]` 编号。
 - `manuscript/manuscript_draft.md`：投稿前草稿，引用为 `[[PMID:...]]` 占位。
 - `manuscript/build_refs.py`：按首次出现顺序把 PMID 占位替换为 Vancouver 编号，并生成参考文献表。
