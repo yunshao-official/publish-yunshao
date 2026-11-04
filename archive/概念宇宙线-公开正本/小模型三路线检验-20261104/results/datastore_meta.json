@@ -1,0 +1,8 @@
+{
+  "n_keys": 18801,
+  "dim": 896,
+  "layer": 12,
+  "n_train_para": 257,
+  "n_test_para": 64,
+  "build_sec": 143.3
+}

@@ -1,0 +1,175 @@
+{
+  "passed": 28,
+  "total": 28,
+  "all_pass": true,
+  "items": {
+    "f_c_THz": {
+      "computed": 6.462477421100047,
+      "stated": 6.4625,
+      "rel_err": 3e-06,
+      "pass_": true
+    },
+    "f0_THz": {
+      "computed": 413.598554950403,
+      "stated": 413.62,
+      "rel_err": 5.2e-05,
+      "pass_": true
+    },
+    "lambda_nm": {
+      "computed": 724.8392297597603,
+      "stated": 724.84,
+      "rel_err": 1e-06,
+      "pass_": true
+    },
+    "exp_m64": {
+      "computed": 1.603810890548638e-28,
+      "stated": 1.603e-28,
+      "rel_err": 0.000506,
+      "pass_": true
+    },
+    "kBT64_eV": {
+      "computed": 1.710506183202769,
+      "stated": 1.7105,
+      "rel_err": 4e-06,
+      "pass_": true
+    },
+    "kBT64_kJmol": {
+      "computed": 165.0387571822528,
+      "stated": 165.0,
+      "rel_err": 0.000235,
+      "pass_": true
+    },
+    "alpha4": {
+      "computed": 0.586181640625,
+      "stated": 0.586,
+      "rel_err": 0.00031,
+      "pass_": true
+    },
+    "alpha80": {
+      "computed": 0.4487953186035156,
+      "stated": 0.449,
+      "rel_err": 0.000456,
+      "pass_": true
+    },
+    "half_life_12.5": {
+      "computed": 5.1908930696844315,
+      "stated": 5.19,
+      "rel_err": 0.000172,
+      "pass_": true
+    },
+    "half_life_1.25": {
+      "computed": 55.1044742774801,
+      "stated": 55.1,
+      "rel_err": 8.1e-05,
+      "pass_": true
+    },
+    "intensity_Wcm2": {
+      "computed": 13.272093639924964,
+      "stated": 13.3,
+      "rel_err": 0.002098,
+      "pass_": true
+    },
+    "organ_mass": {
+      "computed": 70.0,
+      "stated": 70.0,
+      "rel_err": 0.0,
+      "pass_": true
+    },
+    "REE": {
+      "computed": 1691.77,
+      "stated": 1692,
+      "rel_err": 0.000136,
+      "pass_": true
+    },
+    "four_mass": {
+      "computed": 3.84,
+      "stated": 3.84,
+      "rel_err": 0.0,
+      "pass_": true
+    },
+    "four_share_mass": {
+      "computed": 5.485714285714286,
+      "stated": 5.49,
+      "rel_err": 0.000781,
+      "pass_": true
+    },
+    "four_q": {
+      "computed": 977.6,
+      "stated": 977,
+      "rel_err": 0.000614,
+      "pass_": true
+    },
+    "four_share_q": {
+      "computed": 57.785632798784704,
+      "stated": 57.8,
+      "rel_err": 0.000249,
+      "pass_": true
+    },
+    "mass_weighted": {
+      "computed": 24.168142857142858,
+      "stated": 24.2,
+      "rel_err": 0.001316,
+      "pass_": true
+    },
+    "flux_weighted": {
+      "computed": 168.4636002529895,
+      "stated": 168.8,
+      "rel_err": 0.001993,
+      "pass_": true
+    },
+    "ratio_weighted": {
+      "computed": 6.9704818135498705,
+      "stated": 7.0,
+      "rel_err": 0.004217,
+      "pass_": true
+    },
+    "K_range": {
+      "computed": 97.77777777777777,
+      "stated": 98,
+      "rel_err": 0.002268,
+      "pass_": true
+    },
+    "K_vs_rest": {
+      "computed": 36.666666666666664,
+      "stated": 37,
+      "rel_err": 0.009009,
+      "pass_": true
+    },
+    "ATP_kg": {
+      "computed": 41.28442274704569,
+      "stated": 41.4,
+      "rel_err": 0.002792,
+      "pass_": true
+    },
+    "SV_at_HR30": {
+      "computed": 166.66666666666666,
+      "stated": 167,
+      "rel_err": 0.001996,
+      "pass_": true
+    },
+    "EDV_EF65": {
+      "computed": 256.4102564102564,
+      "stated": 257,
+      "rel_err": 0.002295,
+      "pass_": true
+    },
+    "EDV_EF80": {
+      "computed": 208.33333333333331,
+      "stated": 209,
+      "rel_err": 0.00319,
+      "pass_": true
+    },
+    "CO_maxSV": {
+      "computed": 3.6,
+      "stated": 3.6,
+      "rel_err": 0.0,
+      "pass_": true
+    },
+    "CO_deficit": {
+      "computed": 27.999999999999996,
+      "stated": 28,
+      "rel_err": 0.0,
+      "pass_": true
+    }
+  }
+}

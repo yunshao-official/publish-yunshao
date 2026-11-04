@@ -1,0 +1,14 @@
+{
+  "steps": 40,
+  "batch": 1,
+  "maxlen": 128,
+  "train_sec": 79.1,
+  "train_loss_first20": 4.0790118932723995,
+  "train_loss_last20": 3.2341567456722258,
+  "ppl_base": 50.06043243408203,
+  "ppl_after": 34.961456298828125,
+  "ood_ppl_base": 46.04010009765625,
+  "ood_ppl_after": 82.1659927368164,
+  "n_train": 257,
+  "n_test": 64
+}
