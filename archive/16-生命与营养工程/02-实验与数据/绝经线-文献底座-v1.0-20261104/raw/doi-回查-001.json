@@ -1,0 +1,674 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2026-09-16T14:09:44Z",
+      "timestamp": 1789567784826,
+      "version": "build-2803163510"
+    },
+    "reference-count": 64,
+    "publisher": "Informa UK Limited",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              16
+            ]
+          ],
+          "date-time": "2026-09-16T00:00:00Z",
+          "timestamp": 1789516800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              16
+            ]
+          ],
+          "date-time": "2026-09-16T00:00:00Z",
+          "timestamp": 1789516800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.1080/policies-text-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Climacteric"
+    ],
+    "DOI": "10.1080/13697137.2026.2722609",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2026-09-16T13:44:07Z",
+      "timestamp": 1789566247000
+    },
+    "page": "1-14",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Global prevalence of vasomotor symptoms in the menopause transition: systematic review and meta-analysis"
+    ],
+    "prefix": "10.1080",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0001-1513-834X",
+        "authenticated-orcid": false,
+        "given": "Shahara Aziz",
+        "family": "Ellahi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Research Department of Clinical, Educational and Health Psychology, Division of Psychology and Language Sciences, University College London",
+            "place": [
+              "London, UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4448-8143",
+        "authenticated-orcid": false,
+        "given": "Aimee",
+        "family": "Spector",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Research Department of Clinical, Educational and Health Psychology, Division of Psychology and Language Sciences, University College London",
+            "place": [
+              "London, UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vikram",
+        "family": "Talaulikar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Research Department of Clinical, Educational and Health Psychology, Division of Psychology and Language Sciences, University College London",
+            "place": [
+              "London, UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexandra",
+        "family": "Faulkner",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Research Department of Clinical, Educational and Health Psychology, Division of Psychology and Language Sciences, University College London",
+            "place": [
+              "London, UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Roopal",
+        "family": "Desai",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Research Department of Clinical, Educational and Health Psychology, Division of Psychology and Language Sciences, University College London",
+            "place": [
+              "London, UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_4_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/03630242.2024.2392136"
+      },
+      {
+        "key": "e_1_3_4_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0306-4530(95)00030-5"
+      },
+      {
+        "key": "e_1_3_4_4_1",
+        "unstructured": "Woods M. Symptoms during the perimenopause: prevalence severity trajectory and significance in women’s lives – PubMed; [cited 2026 Jul 16]. Available from: https://pubmed.ncbi.nlm.nih.gov/16414323/."
+      },
+      {
+        "key": "e_1_3_4_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697130601181486"
+      },
+      {
+        "key": "e_1_3_4_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/9781316341261.020"
+      },
+      {
+        "key": "e_1_3_4_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1258/136218002100321965"
+      },
+      {
+        "key": "e_1_3_4_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000001424"
+      },
+      {
+        "key": "e_1_3_4_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2024.108045"
+      },
+      {
+        "key": "e_1_3_4_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000002061"
+      },
+      {
+        "key": "e_1_3_4_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00404-014-3314-5"
+      },
+      {
+        "key": "e_1_3_4_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.n71"
+      },
+      {
+        "key": "e_1_3_4_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/XEB.0000000000000054"
+      },
+      {
+        "key": "e_1_3_4_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1477-7525-2-67"
+      },
+      {
+        "key": "e_1_3_4_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0378-5122(96)82006-8"
+      },
+      {
+        "key": "e_1_3_4_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0378-5122(98)00024-3"
+      },
+      {
+        "key": "e_1_3_4_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2147/PPA.S42852"
+      },
+      {
+        "key": "e_1_3_4_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/13697137.2011.590617"
+      },
+      {
+        "key": "e_1_3_4_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/cmt.4.4.267.272"
+      },
+      {
+        "key": "e_1_3_4_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjmed.2005.11.002"
+      },
+      {
+        "key": "e_1_3_4_21_1",
+        "unstructured": "Joanna Briggs Institute. The Joanna Briggs Institute critical appraisal tools for use in JBI systematic reviews: checklist for prevalence studies. 2017. Available from: https://jbi.global/sites/default/files/2019-05/JBI_Critical_Appraisal-Checklist_for_Prevalence_Studies2017_0.pdf."
+      },
+      {
+        "key": "e_1_3_4_22_1",
+        "volume-title": "Standard country or area codes for statistical use (M49)",
+        "author": "United Nations Statistics Division",
+        "year": "2023",
+        "unstructured": "United Nations Statistics Division. Standard country or area codes for statistical use (M49). New York, N.Y. United Nations; 2023; cited 2026Jul 16]. Available from: https://unstats.un.org/unsd/methodology/m49/"
+      },
+      {
+        "key": "e_1_3_4_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18637/jss.v036.i03"
+      },
+      {
+        "key": "e_1_3_4_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000000635"
+      },
+      {
+        "key": "e_1_3_4_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.12891/ceog1828.2015"
+      },
+      {
+        "key": "e_1_3_4_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2019.1646719"
+      },
+      {
+        "key": "e_1_3_4_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.26719/2017.23.8.527"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_3_4_28_1",
+        "first-page": "2",
+        "article-title": "Prevalence and severity of menopausal symptoms in peri- and post-menopausal women",
+        "volume": "118",
+        "author": "Heavey P",
+        "year": "2025",
+        "unstructured": "Heavey P, Keegan B, Dunne N. Prevalence and severity of menopausal symptoms in peri- and post-menopausal women. Ir Med J. 2025;118(1):2.",
+        "journal-title": "Ir Med J"
+      },
+      {
+        "key": "e_1_3_4_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2018.07.014"
+      },
+      {
+        "key": "e_1_3_4_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1590/1678-7153.201528413"
+      },
+      {
+        "key": "e_1_3_4_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/03630242.2013.871767"
+      },
+      {
+        "key": "e_1_3_4_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijerph17082640"
+      },
+      {
+        "key": "e_1_3_4_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12905-023-02728-y"
+      },
+      {
+        "key": "e_1_3_4_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2020.05.023"
+      },
+      {
+        "key": "e_1_3_4_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.53902/tnhcr.2022.02.000512"
+      },
+      {
+        "key": "e_1_3_4_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000001836"
+      },
+      {
+        "key": "e_1_3_4_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000000906"
+      },
+      {
+        "key": "e_1_3_4_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000000438"
+      },
+      {
+        "key": "e_1_3_4_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000000660"
+      },
+      {
+        "key": "e_1_3_4_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18502/ijrm.v19i9.9711"
+      },
+      {
+        "key": "e_1_3_4_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000000931"
+      },
+      {
+        "key": "e_1_3_4_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/0976-7800.141190"
+      },
+      {
+        "key": "e_1_3_4_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/13697137.2014.929108"
+      },
+      {
+        "key": "e_1_3_4_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18621/eurj.1423025"
+      },
+      {
+        "key": "e_1_3_4_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2018.1493452"
+      },
+      {
+        "key": "e_1_3_4_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/jmh.jmh_64_19"
+      },
+      {
+        "key": "e_1_3_4_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7860/JCDR/2017/26994.10515"
+      },
+      {
+        "key": "e_1_3_4_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5281/zenodo.5095348"
+      },
+      {
+        "key": "e_1_3_4_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/13697137.2014.898266"
+      },
+      {
+        "key": "e_1_3_4_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.34172/bshj.15"
+      },
+      {
+        "key": "e_1_3_4_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/26410397.2022.2141255"
+      },
+      {
+        "key": "e_1_3_4_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5455/njcm.20201215020144"
+      },
+      {
+        "issue": "9",
+        "key": "e_1_3_4_53_1",
+        "first-page": "26",
+        "article-title": "A comparative study on health problems among the rural and urban post-menopausal women of Telangana",
+        "volume": "13",
+        "author": "Apoorva MS",
+        "year": "2023",
+        "unstructured": "Apoorva MS, Krishna YS, Thomas V. A comparative study on health problems among the rural and urban post-menopausal women of Telangana. Int J Toxicolog Pharmacolog Res. 2023;13(9):26–30.",
+        "journal-title": "Int J Toxicolog Pharmacolog Res"
+      },
+      {
+        "key": "e_1_3_4_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/ijabmr.ijabmr_428_19"
+      },
+      {
+        "key": "e_1_3_4_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/0976-7800.185336"
+      },
+      {
+        "key": "e_1_3_4_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5958/0974-360X.2017.00004.X"
+      },
+      {
+        "key": "e_1_3_4_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.48047/AFJBS.6.14.2024.6166-6179"
+      },
+      {
+        "key": "e_1_3_4_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/jmh.jmh_196_20"
+      },
+      {
+        "key": "e_1_3_4_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5455/ijmsph.2018.0719814112017"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_3_4_60_1",
+        "first-page": "1676",
+        "article-title": "Comparative assessment of menopausal health issues in urban and rural females in India: a cross-sectional clinical study",
+        "volume": "15",
+        "author": "Rathore D",
+        "year": "2024",
+        "unstructured": "Rathore D, Sisodia GS, Maheshram S, et al. Comparative assessment of menopausal health issues in urban and rural females in India: a cross-sectional clinical study. J Cardiovasc Dis Res. 2024;15(3):1676–1684.",
+        "journal-title": "J Cardiovasc Dis Res"
+      },
+      {
+        "key": "e_1_3_4_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.31729/jnma.7052"
+      },
+      {
+        "key": "e_1_3_4_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/0976-7800.133989"
+      },
+      {
+        "key": "e_1_3_4_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/jmh.jmh_198_22"
+      },
+      {
+        "key": "e_1_3_4_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.47583/ijpsrr.2022.v73i02.024"
+      },
+      {
+        "key": "e_1_3_4_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/13697137.2013.852169"
+      }
+    ],
+    "container-title": [
+      "Climacteric"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/13697137.2026.2722609",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.tandfonline.com/doi/full-xml/10.1080/13697137.2026.2722609",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/13697137.2026.2722609",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2026-09-16T13:44:12Z",
+      "timestamp": 1789566252000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/13697137.2026.2722609"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ]
+    },
+    "references-count": 64,
+    "alternative-id": [
+      "10.1080/13697137.2026.2722609"
+    ],
+    "URL": "https://doi.org/10.1080/13697137.2026.2722609",
+    "relation": {},
+    "ISSN": [
+      "1369-7137",
+      "1473-0804"
+    ],
+    "issn-type": [
+      {
+        "value": "1369-7137",
+        "type": "print"
+      },
+      {
+        "value": "1473-0804",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=icmt20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=icmt20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2026-02-27",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-07-23",
+        "order": 1,
+        "name": "revised",
+        "label": "Revised",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-08-18",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-09-16",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

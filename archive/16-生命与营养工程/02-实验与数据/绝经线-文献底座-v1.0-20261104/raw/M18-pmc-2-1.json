@@ -1,0 +1,3381 @@
+{
+  "version": "6.9",
+  "hitCount": 12,
+  "request": {
+    "queryString": "TITLE:(postmenopausal OR menopause) AND (TITLE:\"traditional Chinese medicine\" OR acupuncture AND TITLE:\"Chinese\")",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "CITED desc",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "27922934",
+        "source": "MED",
+        "pmid": "27922934",
+        "pmcid": "PMC5404407",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC5404407"
+          ]
+        },
+        "doi": "10.1097/gme.0000000000000784",
+        "title": "Psychometric properties of the Chinese version of the Menopause-Specific Quality-of-Life questionnaire.",
+        "authorString": "Nie G, Yang H, Liu J, Zhao C, Wang X.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Nie G",
+              "lastName": "Nie",
+              "firstName": "Guangning",
+              "initials": "G",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "1Guangdong Provincial Hospital of Chinese Medicine, Guangzhou, China 2Maternal and Child Health Hospital of Guangdong Province, Guangzhou, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Yang H",
+              "lastName": "Yang",
+              "firstName": "Hongyan",
+              "initials": "H"
+            },
+            {
+              "fullName": "Liu J",
+              "lastName": "Liu",
+              "firstName": "Jian",
+              "initials": "J"
+            },
+            {
+              "fullName": "Zhao C",
+              "lastName": "Zhao",
+              "firstName": "ChunMei",
+              "initials": "C"
+            },
+            {
+              "fullName": "Wang X",
+              "lastName": "Wang",
+              "firstName": "Xiaoyun",
+              "initials": "X"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "5",
+          "volume": "24",
+          "journalIssueId": 2550042,
+          "dateOfPublication": "2017 May",
+          "monthOfPublication": 5,
+          "yearOfPublication": 2017,
+          "journal": {
+            "medlineAbbreviation": "Menopause",
+            "title": "Menopause (New York, N.Y.)",
+            "essn": "1530-0374",
+            "issn": "1072-3714",
+            "nlmid": "9433353",
+            "isoabbreviation": "Menopause"
+          },
+          "printPublicationDate": "2017-05-01"
+        },
+        "pubYear": "2017",
+        "pageInfo": "546-554",
+        "abstractText": "<h4>Objective</h4>The Menopause-Specific Quality-of-Life (MENQOL) questionnaire was developed as a specific tool to measure the health-related quality-of-life of postmenopausal women. Thus far, the Chinese version questionnaire has not been subjected to psychometric assessment with a large sample. This study aims to evaluate the validity and reliability of the Chinese version of the MENQOL specific to postmenopausal women in China.<h4>Methods</h4>A total of 1,137 menopausal symptomatic and 491 menopausal asymptomatic women from eight cities in China were recruited using a convenience sampling method. Psychometric properties were evaluated by descriptive statistics, validity, and reliability. Reliability was assessed for each subscale of the MENQOL through internal consistency reliability with Cronbach's α and intersubscale correlations. Item-domain correlations, principal components analysis (PCA), and confirmatory factor analysis were performed to determine construct validity. t tests were used to compare the differences between the menopausal symptomatic and asymptomatic women and to evaluate the discriminate validity. Pearson correlation coefficients were calculated between MENQOL scores and the Kupperman index to assess criterion-related validity.<h4>Results</h4>The most common symptoms in Chinese menopausal symptomatic women were \"experiencing poor memory\" (94.4%), \"feeling tired or worn out\" (93.8%), \"aching in muscle and joints\" (89.4%), \"low backache\" (86.9%), \"decrease in physical strength\" (86.6%), \"aches in back of neck or head\" (86.2%), \"difficulty sleeping\" (83.6%), \"accomplishing less than I used to\" (83.4%), \"feeling a lack of energy\" (83.3%), \"change in your sexual desire\" (81%), and \"hot flash\" (80.7%) among others. The symptoms of \"increased facial hair\" were rarely seen (9.9%). The vasomotor domain, as well as psychosocial, physical, and sexual domains showed high reliability (Cronbach's α 0.84, 0.87, 0.89, and 0.86, respectively). Item-domain correlation analysis showed that all items correlated more strongly with their own domains than with other domains. In the PCA, after deleting the \"increased facial hair\" item, items in the vasomotor, sexual, and psychosocial subscales loaded on their respective domains by and large, and items in the physical subscale divided into two factors. The PCA revealed a latent structure of the Chinese version of MENQOL nearly identical to the original MENQOL domains. The confirmatory factor analysis demonstrated that the questionnaire fits well with a four-domain model. The MENQOL can discriminate between menopausal symptomatic women with asymptomatic women as it showed good discriminate validity. Criterion-related validity was confirmed by a significant correlation between MENQOL scores and the Kupperman index.<h4>Conclusions</h4>This study showed that Chinese version of MENQOL has good psychometric properties and would be suitable to measure the health-related quality-of-life of Chinese menopausal women except for item 21 (increased facial hair).",
+        "affiliation": "1Guangdong Provincial Hospital of Chinese Medicine, Guangzhou, China 2Maternal and Child Health Hospital of Guangdong Province, Guangzhou, China.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Validation Study",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Reproducibility of Results"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Psychometrics"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Menopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PX",
+                    "qualifierName": "psychology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Quality of Life"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Adult"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Women's Health"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "China"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Surveys and Questionnaires"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Asian People"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1097/GME.0000000000000784"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC5404407"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC5404407?pdf=render"
+            }
+          ]
+        },
+        "commentCorrectionList": {
+          "commentCorrection": [
+            {
+              "source": "MED",
+              "id": "28323769",
+              "reference": "Menopause. 2017 Jun;24(6):716. doi: 10.1097/GME.0000000000000870",
+              "type": "Comment in",
+              "orderIn": 1
+            },
+            {
+              "source": "MED",
+              "id": "28375936",
+              "reference": "Menopause. 2017 Jun;24(6):715-716. doi: 10.1097/GME.0000000000000869",
+              "type": "Comment in",
+              "orderIn": 2
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 29,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "license": "cc by-nc-nd",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCompletion": "2018-02-22",
+        "dateOfCreation": "2016-12-07",
+        "dateOfRevision": "2022-12-07",
+        "firstPublicationDate": "2017-05-01",
+        "firstIndexDate": "2016-12-07",
+        "fullTextReceivedDate": "2025-02-03",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "23676632",
+        "source": "MED",
+        "pmid": "23676632",
+        "doi": "10.1097/gme.0b013e31829374e8",
+        "title": "Effects of acupuncture and Chinese herbal medicine (Zhi Mu 14) on hot flushes and quality of life in postmenopausal women: results of a four-arm randomized controlled pilot trial.",
+        "authorString": "Nedeljkovic M, Tian L, Ji P, Déglon-Fischer A, Stute P, Ocon E, Birkhäuser M, Ausfeld-Hafter B.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Nedeljkovic M",
+              "lastName": "Nedeljkovic",
+              "firstName": "Marko",
+              "initials": "M",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "From the 1Institute of Complementary Medicine KIKOM, University of Bern, Bern, Switzerland; and 2Department of Gynecologic Endocrinology and Reproductive Medicine, University Women's Hospital, Bern, Switzerland."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Tian L",
+              "lastName": "Tian",
+              "firstName": "Li",
+              "initials": "L"
+            },
+            {
+              "fullName": "Ji P",
+              "lastName": "Ji",
+              "firstName": "Ping",
+              "initials": "P"
+            },
+            {
+              "fullName": "Déglon-Fischer A",
+              "lastName": "Déglon-Fischer",
+              "firstName": "Agnès",
+              "initials": "A"
+            },
+            {
+              "fullName": "Stute P",
+              "lastName": "Stute",
+              "firstName": "Petra",
+              "initials": "P",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-5591-1552"
+              }
+            },
+            {
+              "fullName": "Ocon E",
+              "lastName": "Ocon",
+              "firstName": "Erika",
+              "initials": "E"
+            },
+            {
+              "fullName": "Birkhäuser M",
+              "lastName": "Birkhäuser",
+              "firstName": "Martin",
+              "initials": "M"
+            },
+            {
+              "fullName": "Ausfeld-Hafter B",
+              "lastName": "Ausfeld-Hafter",
+              "firstName": "Brigitte",
+              "initials": "B"
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0002-5591-1552"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "1",
+          "volume": "21",
+          "journalIssueId": 2108530,
+          "dateOfPublication": "2014 Jan",
+          "monthOfPublication": 1,
+          "yearOfPublication": 2014,
+          "journal": {
+            "medlineAbbreviation": "Menopause",
+            "title": "Menopause (New York, N.Y.)",
+            "essn": "1530-0374",
+            "issn": "1072-3714",
+            "nlmid": "9433353",
+            "isoabbreviation": "Menopause"
+          },
+          "printPublicationDate": "2014-01-01"
+        },
+        "pubYear": "2014",
+        "pageInfo": "15-24",
+        "abstractText": "<h4>Objective</h4>The aim of this study was to evaluate the feasibility of a clinical trial investigating the effects of acupuncture (AP) and Chinese herbal medicine (CHM) on hot flushes and quality of life in postmenopausal women.<h4>Methods</h4>Forty postmenopausal women reporting at least 20 hot flushes per week were enrolled in a randomized controlled trial. They were randomly allocated to receive traditional Chinese medicine (TCM) AP, sham AP, verum CHM, or placebo CHM for 12 weeks. Follow-up assessment was conducted 12 weeks after intervention. Primary outcome measures included hot flush frequency and severity. As a secondary outcome measure, the severity of menopausal symptoms was assessed using the Menopause Rating Scale (MRS) II.<h4>Results</h4>TCM AP induced a significant decline in all outcome measures from pretreatment to posttreatment compared with sham AP (hot flush frequency, P = 0.016; hot flush severity, P = 0.013; MRS, P < 0.001). In the TCM AP group, a larger decrease in MRS scores persisted from pretreatment to follow-up (P = 0.048). No significant differences were noted between the verum CHM group and the placebo CHM group. Compared with the verum CHM group, there was a significant decrease in MRS scores (P = 0.002) and a trend toward a stronger decrease in hot flush severity (P = 0.06) in the TCM AP group from pretreatment to posttreatment.<h4>Conclusions</h4>TCM AP is superior to sham AP and verum CHM in reducing menopausal symptoms, whereas verum CHM shows no significant improvements when compared with placebo CHM.",
+        "affiliation": "From the 1Institute of Complementary Medicine KIKOM, University of Bern, Bern, Switzerland; and 2Department of Gynecologic Endocrinology and Reproductive Medicine, University Women's Hospital, Bern, Switzerland.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "Randomized Controlled Trial",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Hot Flashes",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "TH",
+                    "qualifierName": "therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Drugs, Chinese Herbal",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "TU",
+                    "qualifierName": "therapeutic use"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Severity of Illness Index"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Prospective Studies"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Pilot Projects"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Double-Blind Method"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Acupuncture"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Postmenopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PX",
+                    "qualifierName": "psychology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Quality of Life"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            }
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Drugs, Chinese Herbal",
+              "registryNumber": "0"
+            },
+            {
+              "name": "Chinese herbal medicine zhi mu 14",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1097/GME.0b013e31829374e8"
+            }
+          ]
+        },
+        "commentCorrectionList": {
+          "commentCorrection": [
+            {
+              "source": "MED",
+              "id": "24326282",
+              "reference": "Menopause. 2014 Jan;21(1):3-5. doi: 10.1097/GME.0000000000000156",
+              "type": "Comment in",
+              "orderIn": 1
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 27,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2014-09-24",
+        "dateOfCreation": "2013-05-17",
+        "dateOfRevision": "2013-12-23",
+        "firstPublicationDate": "2014-01-01",
+        "firstIndexDate": "2013-05-17",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "19734379",
+        "source": "MED",
+        "pmid": "19734379",
+        "doi": "10.1136/aim.2009.000612",
+        "title": "The acupuncture treatment for postmenopausal hot flushes (Acuflash) study: traditional Chinese medicine diagnoses and acupuncture points used, and their relation to the treatment response.",
+        "authorString": "Borud EK, Alræk T, White A, Grimsgaard S.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Borud EK",
+              "lastName": "Borud",
+              "firstName": "Einar Kristian",
+              "initials": "EK",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7848-7662"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The National Research Center in Complementary and Alternative Medicine, University of Tromsø, N-9037 Tromsø, Norway. einar.borud@uit.no"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Alræk T",
+              "lastName": "Alræk",
+              "firstName": "Terje",
+              "initials": "T"
+            },
+            {
+              "fullName": "White A",
+              "lastName": "White",
+              "firstName": "Adrian",
+              "initials": "A"
+            },
+            {
+              "fullName": "Grimsgaard S",
+              "lastName": "Grimsgaard",
+              "firstName": "Sameline",
+              "initials": "S"
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-7848-7662"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "3",
+          "volume": "27",
+          "journalIssueId": 1648935,
+          "dateOfPublication": "2009 Sep",
+          "monthOfPublication": 9,
+          "yearOfPublication": 2009,
+          "journal": {
+            "medlineAbbreviation": "Acupunct Med",
+            "title": "Acupuncture in medicine : journal of the British Medical Acupuncture Society",
+            "essn": "1759-9873",
+            "issn": "0964-5284",
+            "nlmid": "9304117",
+            "isoabbreviation": "Acupunct Med"
+          },
+          "printPublicationDate": "2009-09-01"
+        },
+        "pubYear": "2009",
+        "pageInfo": "101-108",
+        "abstractText": "<h4>Introduction</h4>the multicentre, pragmatic, randomised controlled Acuflash study evaluated the effect of traditional Chinese medicine (TCM) acupuncture on postmenopausal vasomotor symptoms and health-related quality of life. It concluded that use of acupuncture in addition to self-care can contribute to a clinically relevant reduction of hot flushes and increased health-related quality of life. This article reports on the TCM syndrome diagnoses and acupuncture points used and their relation to the treatment response, and on treatment reactions and adverse events.<h4>Methods</h4>the acupuncture group (n = 134) received 10 acupuncture treatment sessions and advice on self-care; the control group (n = 133) received advice on self-care only. The study acupuncturists met the current membership criteria of the Norwegian Acupuncture Society, and had at least 3 years' experience of practising TCM acupuncture. They were free to diagnose and select acupuncture points for each participant, after initial discussion.<h4>Results</h4>fifty per cent of the participants in the acupuncture group were diagnosed with Kidney Yin Xu as their primary TCM syndrome diagnosis. No statistically significant differences were demonstrated between the syndrome groups regarding the distribution of responders and non-responders, nor regarding the change in health-related quality of life scores. A core of common acupuncture points (SP6, HT6, KI7, KI6, CV4, LU7, LI4, and LR3) were used in all the syndromes, and in addition multiple idiosyncratic points. Core point selection and frequency of use did not differ between responders and non-responders. No serious adverse events were reported.<h4>Conclusion</h4>factors other than the TCM syndrome diagnoses and the point selection may be of importance regarding the outcome of the treatment.",
+        "affiliation": "The National Research Center in Complementary and Alternative Medicine, University of Tromsø, N-9037 Tromsø, Norway. einar.borud@uit.no",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "Multicenter Study",
+            "Randomized Controlled Trial",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Hot Flashes",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "TH",
+                    "qualifierName": "therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Treatment Outcome"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Combined Modality Therapy"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Acupuncture Therapy",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "MT",
+                    "qualifierName": "methods"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Self Care",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "MT",
+                    "qualifierName": "methods"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Health Status"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Postmenopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Research Design"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Quality of Life"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Women's Health"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Patient Satisfaction"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Norway"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1136/aim.2009.000612"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 20,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2011-05-04",
+        "dateOfCreation": "2009-09-08",
+        "dateOfRevision": "2009-09-07",
+        "firstPublicationDate": "2009-09-01",
+        "firstIndexDate": "2009-12-23",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "31780032",
+        "source": "MED",
+        "pmid": "31780032",
+        "doi": "10.1016/j.ctim.2019.03.019",
+        "title": "Clinical evidence of Chinese medicine therapies for depression in women during perimenopause and menopause.",
+        "authorString": "Di YM, Yang L, Shergis JL, Zhang AL, Li Y, Guo X, Xue CC, Lu C.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Di YM",
+              "lastName": "Di",
+              "firstName": "Yuan Ming",
+              "initials": "YM",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The China-AustraliaInternational Research Centre for Chinese Medicine, School of Health and Biomedical Sciences, RMIT University, Bundoora, VIC, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Yang L",
+              "lastName": "Yang",
+              "firstName": "Lingling",
+              "initials": "L",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Guangdong Provincial Hospital of Chinese Medicine, Guangdong Provincial Academy of Chinese Medical Sciences, and The Second Clinical College, Guangzhou University of Chinese Medicine, Yuexiu District, Guangzhou, PR China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Shergis JL",
+              "lastName": "Shergis",
+              "firstName": "Johannah L",
+              "initials": "JL",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1840-1617"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The China-AustraliaInternational Research Centre for Chinese Medicine, School of Health and Biomedical Sciences, RMIT University, Bundoora, VIC, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zhang AL",
+              "lastName": "Zhang",
+              "firstName": "Anthony L",
+              "initials": "AL",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-0968-9380"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The China-AustraliaInternational Research Centre for Chinese Medicine, School of Health and Biomedical Sciences, RMIT University, Bundoora, VIC, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Li Y",
+              "lastName": "Li",
+              "firstName": "Yan",
+              "initials": "Y",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Guangdong Provincial Hospital of Chinese Medicine, Guangdong Provincial Academy of Chinese Medical Sciences, and The Second Clinical College, Guangzhou University of Chinese Medicine, Yuexiu District, Guangzhou, PR China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Guo X",
+              "lastName": "Guo",
+              "firstName": "Xinfeng",
+              "initials": "X",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2699-9740"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Guangdong Provincial Hospital of Chinese Medicine, Guangdong Provincial Academy of Chinese Medical Sciences, and The Second Clinical College, Guangzhou University of Chinese Medicine, Yuexiu District, Guangzhou, PR China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Xue CC",
+              "lastName": "Xue",
+              "firstName": "Charlie C",
+              "initials": "CC",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6937-9088"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The China-AustraliaInternational Research Centre for Chinese Medicine, School of Health and Biomedical Sciences, RMIT University, Bundoora, VIC, Australia; Guangdong Provincial Hospital of Chinese Medicine, Guangdong Provincial Academy of Chinese Medical Sciences, and The Second Clinical College, Guangzhou University of Chinese Medicine, Yuexiu District, Guangzhou, PR China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lu C",
+              "lastName": "Lu",
+              "firstName": "Chuanjian",
+              "initials": "C",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Guangdong Provincial Hospital of Chinese Medicine, Guangdong Provincial Academy of Chinese Medical Sciences, and The Second Clinical College, Guangzhou University of Chinese Medicine, Yuexiu District, Guangzhou, PR China. Electronic address: luchuanjian888@vip.sina.com."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6937-9088"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-0968-9380"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-1840-1617"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-2699-9740"
+            }
+          ]
+        },
+        "journalInfo": {
+          "volume": "47",
+          "journalIssueId": 2886028,
+          "dateOfPublication": "2019 Dec",
+          "monthOfPublication": 12,
+          "yearOfPublication": 2019,
+          "journal": {
+            "medlineAbbreviation": "Complement Ther Med",
+            "title": "Complementary therapies in medicine",
+            "essn": "1873-6963",
+            "issn": "0965-2299",
+            "nlmid": "9308777",
+            "isoabbreviation": "Complement Ther Med"
+          },
+          "printPublicationDate": "2019-12-01"
+        },
+        "pubYear": "2019",
+        "pageInfo": "102071",
+        "abstractText": "<h4>Background</h4>Depression is common in women during perimenopause and menopause. Complementary therapies such as acupuncture and Chinese herbal medicine (CHM) are often utilized by these women. However, the efficacy and safety of these treatments have not been systematically evaluated.<h4>Methods</h4>We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs). Nine English and Chinese databases were searched and search terms included perimenopause, menopause, depression, Chinese herbal medicine, acupuncture, RCTs, and their synonyms. Methodological quality was assessed using the Cochrane Risk of Bias Tool.<h4>Results</h4>A total of 18 RCTs were identified (6 CHM, 11 acupuncture related therapies, 1 combination of CHM and acupuncture). For Hamilton Rating Scale of Depression (HRSD) and Kuppermans Index of Menopause, tuina-massage, combined therapy of CHM plus acupuncture showed significant benefits at end of treatment compared to antidepressants. Either CHM and acupuncture reduced HRSD scores, indicating less severe depression, showing comparable effects to antidepressants.<h4>Conclusion</h4>CHM and acupuncture treatment in perimenopause and menopausal women resulted in reduced severity of depression. Results should be interpreted with caution given the small number of studies included in this review and further RCTs are warranted to validate findings from this review.",
+        "affiliation": "The China-AustraliaInternational Research Centre for Chinese Medicine, School of Health and Biomedical Sciences, RMIT University, Bundoora, VIC, Australia.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Meta-Analysis",
+            "Systematic Review",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "Australia and the Guangdong Provincial Academy of Chinese Medical Sciences, China",
+              "orderIn": 0
+            },
+            {
+              "agency": "China-Australia International Research Centre for Chinese Medicine (CAIRCCM) - a joint initiative of RMIT University",
+              "orderIn": 0
+            },
+            {
+              "agency": "Guangdong Provincial Hospital of Traditional Chinese Medicine",
+              "grantId": "YN2016QL05",
+              "orderIn": 0
+            },
+            {
+              "agency": "Ministry of Science &amp; Technology of China",
+              "grantId": "2012DFA31760",
+              "orderIn": 0
+            }
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Drugs, Chinese Herbal",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "TU",
+                    "qualifierName": "therapeutic use"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Acupuncture Therapy"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Medicine, Chinese Traditional",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "MT",
+                    "qualifierName": "methods"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Depression",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "TH",
+                    "qualifierName": "therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Perimenopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Randomized Controlled Trials as Topic"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Review",
+            "Depression",
+            "Acupuncture",
+            "Chinese herbal medicine",
+            "menopause",
+            "perimenopause"
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Drugs, Chinese Herbal",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1016/j.ctim.2019.03.019"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 16,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2020-04-10",
+        "dateOfCreation": "2019-11-30",
+        "dateOfRevision": "2020-04-10",
+        "electronicPublicationDate": "2019-03-28",
+        "firstPublicationDate": "2019-03-28",
+        "firstIndexDate": "2019-11-30",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "22314633",
+        "source": "MED",
+        "pmid": "22314633",
+        "title": "Menopause-related symptoms: traditional Chinese medicine vs hormone therapy.",
+        "authorString": "Azizi H, Feng Liu Y, Du L, Hua Wang C, Bahrami-Taghanaki H, Ollah Esmaily H, Azizi H, Ou Xue X.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Azizi H",
+              "lastName": "Azizi",
+              "firstName": "Hoda",
+              "initials": "H",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Traditional and Complementary Medicine, Mashhad University of Medical Sciences, Iran. azizih@mums.ac.ir"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Feng Liu Y",
+              "lastName": "Feng Liu",
+              "firstName": "Yan",
+              "initials": "Y"
+            },
+            {
+              "fullName": "Du L",
+              "lastName": "Du",
+              "firstName": "Lin",
+              "initials": "L"
+            },
+            {
+              "fullName": "Hua Wang C",
+              "lastName": "Hua Wang",
+              "firstName": "Chao",
+              "initials": "C"
+            },
+            {
+              "fullName": "Bahrami-Taghanaki H",
+              "lastName": "Bahrami-Taghanaki",
+              "firstName": "Hamidreza",
+              "initials": "H"
+            },
+            {
+              "fullName": "Ollah Esmaily H",
+              "lastName": "Ollah Esmaily",
+              "firstName": "Habib",
+              "initials": "H"
+            },
+            {
+              "fullName": "Azizi H",
+              "lastName": "Azizi",
+              "firstName": "Hamideh",
+              "initials": "H"
+            },
+            {
+              "fullName": "Ou Xue X",
+              "lastName": "Ou Xue",
+              "firstName": "Xiao",
+              "initials": "X"
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "4",
+          "volume": "17",
+          "journalIssueId": 1903779,
+          "dateOfPublication": "2011 Jul-Aug",
+          "monthOfPublication": 0,
+          "yearOfPublication": 2011,
+          "journal": {
+            "medlineAbbreviation": "Altern Ther Health Med",
+            "title": "Alternative therapies in health and medicine",
+            "issn": "1078-6791",
+            "nlmid": "9502013",
+            "isoabbreviation": "Altern Ther Health Med"
+          },
+          "printPublicationDate": "2011-07-01"
+        },
+        "pubYear": "2011",
+        "pageInfo": "48-53",
+        "abstractText": "<h4>Objective</h4>To compare the therapeutic effect of Chinese herbal medicine (CHM), acupuncture, and hormone therapy on menopause- related symptoms of peri- and postmenopausal women.<h4>Study design</h4>Fifty-seven Chinese women completed 2 months of treatment with either CHM (5 g twice daily, n = 22), acupuncture plus CHM (Kun Bao Wan) 5 g twice daily plus sessions of acupuncture, n = 20), or hormone therapy (n = 15).<h4>Main outcome measures</h4>Kupperman index score, levels of follicle-stimulating hormone (FSH) and estradiol, and the number of symptoms before and after treatment were the main outcome measures.<h4>Results</h4>CHM, acupuncture plus CHM, and hormone therapy significantly decreased Kupperman score (P < .001 in each group) and number of symptoms (P < .05). The mean difference in Kupperman score between baseline and 2 months among the three groups was significantly varied (P = .02). The difference was only between acupuncture plus CHM and CHM with significantly better results by acupuncture plus CHM. Acupuncture plus CHM, as well as hormone therapy, significantly reduced the level of FSH (P < .05), but CHM alone didn't cause any significant decrease in FSH levels (P > .05). The mean difference in the level of FSH between baseline and 2 months among the three groups was significantly different (P = .02). This difference was only between CHM and hormone therapy with significantly better results by hormone therapy. The three treatments didn't make any significant increase in the level of E2 (P > .05).<h4>Conclusion</h4>application of the combination of Chinese herbal medicine and acupuncture proved as effective as hormone therapy in the treatment of menopause-related symptoms, and it achieved better outcomes than herbal medicine alone.",
+        "affiliation": "School of Traditional and Complementary Medicine, Mashhad University of Medical Sciences, Iran. azizih@mums.ac.ir",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "Randomized Controlled Trial",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Hot Flashes",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "DT",
+                    "qualifierName": "drug therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Estrogens, Conjugated (USP)",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "AD",
+                    "qualifierName": "administration & dosage"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Drugs, Chinese Herbal",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "AD",
+                    "qualifierName": "administration & dosage"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Treatment Outcome"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Combined Modality Therapy"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Acupuncture Therapy",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "MT",
+                    "qualifierName": "methods"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Phytotherapy",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "MT",
+                    "qualifierName": "methods"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Estrogen Replacement Therapy",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "MT",
+                    "qualifierName": "methods"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Quality of Life"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Adult"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Women's Health"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "China"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            }
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Estrogens, Conjugated (USP)",
+              "registryNumber": "0"
+            },
+            {
+              "name": "Drugs, Chinese Herbal",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 13,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2012-05-01",
+        "dateOfCreation": "2012-02-09",
+        "dateOfRevision": "2012-02-08",
+        "firstPublicationDate": "2011-07-01",
+        "firstIndexDate": "2012-02-09",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "24827469",
+        "source": "MED",
+        "pmid": "24827469",
+        "doi": "10.1089/acm.2012.0499",
+        "title": "Acupuncture and traditional Chinese medicine for hot flushes in menopause: a randomized trial.",
+        "authorString": "Baccetti S, Da Frè M, Becorpi A, Faedda M, Guerrera A, Monechi MV, Munizzi RM, Parazzini F.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Baccetti S",
+              "lastName": "Baccetti",
+              "firstName": "Sonia",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "1 Referring Center for Complementary Medicine , Tuscany Region, San Donnino, Campi Bisenzio, Italy ."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Da Frè M",
+              "lastName": "Da Frè",
+              "firstName": "Monica",
+              "initials": "M"
+            },
+            {
+              "fullName": "Becorpi A",
+              "lastName": "Becorpi",
+              "firstName": "Angelamaria",
+              "initials": "A"
+            },
+            {
+              "fullName": "Faedda M",
+              "lastName": "Faedda",
+              "firstName": "Marina",
+              "initials": "M"
+            },
+            {
+              "fullName": "Guerrera A",
+              "lastName": "Guerrera",
+              "firstName": "Antonella",
+              "initials": "A"
+            },
+            {
+              "fullName": "Monechi MV",
+              "lastName": "Monechi",
+              "firstName": "M Valeria",
+              "initials": "MV"
+            },
+            {
+              "fullName": "Munizzi RM",
+              "lastName": "Munizzi",
+              "firstName": "Rosa Maria",
+              "initials": "RM"
+            },
+            {
+              "fullName": "Parazzini F",
+              "lastName": "Parazzini",
+              "firstName": "Fabio",
+              "initials": "F",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-5624-4854"
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-5624-4854"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "7",
+          "volume": "20",
+          "journalIssueId": 2179429,
+          "dateOfPublication": "2014 Jul",
+          "monthOfPublication": 7,
+          "yearOfPublication": 2014,
+          "journal": {
+            "medlineAbbreviation": "J Altern Complement Med",
+            "title": "Journal of alternative and complementary medicine (New York, N.Y.)",
+            "essn": "1557-7708",
+            "issn": "1075-5535",
+            "nlmid": "9508124",
+            "isoabbreviation": "J Altern Complement Med"
+          },
+          "printPublicationDate": "2014-07-01"
+        },
+        "pubYear": "2014",
+        "pageInfo": "550-557",
+        "abstractText": "<h4>Objective</h4>To evaluate the effect of acupuncture on hot flushes and other menopause-related symptoms used in an integrated system, including such therapeutic techniques as diet therapy and Tuina self-massage.<h4>Design</h4>Randomized trial.<h4>Setting</h4>Outpatient center.<h4>Participants</h4>One hundred women in spontaneous menopause with at least three episodes of hot flushes daily were randomly allocated to two treatment groups (50 per group): Women in group A were given diet, self-massage training, and treatment with acupuncture, and women in group B (the control group) were given the same diet and self-massage training, but treatment with acupuncture started 6 weeks after they were enrolled into the study.<h4>Intervention</h4>Acupuncture treatments were scheduled twice weekly for 6 consecutive weeks.<h4>Outcome measures</h4>Mean change in frequency and/or intensity in menopause-related symptoms were estimated by questionnaire after treatment at week 4.<h4>Results</h4>Treatment with acupuncture significantly reduced the occurrence of hot flushes and sudden sweating (p<.001). Other symptoms (sleep disorders, tightness in the chest, irritability, bone pain, feeling depressed) significantly improved.<h4>Conclusions</h4>Acupuncture in an integrated system that includes therapeutic techniques such as diet therapy and Tuina self-massage can be used to treat hot flushes and selected symptoms in postmenopausal women.",
+        "affiliation": "1 Referring Center for Complementary Medicine , Tuscany Region, San Donnino, Campi Bisenzio, Italy .",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Randomized Controlled Trial",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Hot Flashes",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PP",
+                    "qualifierName": "physiopathology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PX",
+                    "qualifierName": "psychology"
+                  },
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "TH",
+                    "qualifierName": "therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Acupuncture Therapy"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Medicine, Chinese Traditional",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "MT",
+                    "qualifierName": "methods"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Massage"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Diet Therapy"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Self Care"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Menopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  },
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PX",
+                    "qualifierName": "psychology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Surveys and Questionnaires"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1089/acm.2012.0499"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 12,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2015-03-04",
+        "dateOfCreation": "2014-05-16",
+        "dateOfRevision": "2022-03-31",
+        "electronicPublicationDate": "2014-05-14",
+        "firstPublicationDate": "2014-05-14",
+        "firstIndexDate": "2014-05-16",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "34951191",
+        "source": "MED",
+        "pmid": "34951191",
+        "doi": "10.19540/j.cnki.cjcmm.20210709.501",
+        "title": "[Clinical practice guideline for postmenopausal osteoporosis with traditional Chinese medicine].",
+        "authorString": "Xie YM, Liu H, Jiang JJ, Wei X, Shen H, Zhi YJ, Sun J, Li JY, Bao XX, Shi W, Zhang YL.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Xie YM",
+              "lastName": "Xie",
+              "firstName": "Yan-Ming",
+              "initials": "YM",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Institute of Basic Research in Clinical Medicine, China Academy of Chinese Medical Sciences Beijing 100700, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Liu H",
+              "lastName": "Liu",
+              "firstName": "Huan",
+              "initials": "H",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Institute of Basic Research in Clinical Medicine, China Academy of Chinese Medical Sciences Beijing 100700, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Jiang JJ",
+              "lastName": "Jiang",
+              "firstName": "Jun-Jie",
+              "initials": "JJ",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Institute of Basic Research in Clinical Medicine, China Academy of Chinese Medical Sciences Beijing 100700, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Wei X",
+              "lastName": "Wei",
+              "firstName": "Xu",
+              "initials": "X",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Wangjing Hospital, Chinese Academy of Chinese Medical Sciences Beijing 100102, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Shen H",
+              "lastName": "Shen",
+              "firstName": "Hao",
+              "initials": "H",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Changxindian Community Health Service Center of Fengtai District Beijing 100072, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zhi YJ",
+              "lastName": "Zhi",
+              "firstName": "Ying-Jie",
+              "initials": "YJ",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Institute of Basic Research in Clinical Medicine, China Academy of Chinese Medical Sciences Beijing 100700, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Sun J",
+              "lastName": "Sun",
+              "firstName": "Jing",
+              "initials": "J",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Affiliated Hospital of Liaoning University of Traditional Chinese Medicine Shenyang 110032, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Li JY",
+              "lastName": "Li",
+              "firstName": "Jin-Yu",
+              "initials": "JY",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Dongzhimen Hospital, Beijing University of Chinese Medicine Beijing 100700, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Bao XX",
+              "lastName": "Bao",
+              "firstName": "Xiao-Xia",
+              "initials": "XX",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Dongzhimen Hospital, Beijing University of Chinese Medicine Beijing 100700, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Shi W",
+              "lastName": "Shi",
+              "firstName": "Wei",
+              "initials": "W",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Affiliated Hospital of Shandong University of Traditional Chinese Medicine Ji'nan 250355, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zhang YL",
+              "lastName": "Zhang",
+              "firstName": "Yi-Li",
+              "initials": "YL",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Beijing University of Chinese Medicine Beijing 100029, China."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-7201-9518"
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "22",
+          "volume": "46",
+          "journalIssueId": 3283562,
+          "dateOfPublication": "2021 Nov",
+          "monthOfPublication": 11,
+          "yearOfPublication": 2021,
+          "journal": {
+            "medlineAbbreviation": "Zhongguo Zhong Yao Za Zhi",
+            "title": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+            "issn": "1001-5302",
+            "nlmid": "8913656",
+            "isoabbreviation": "Zhongguo Zhong Yao Za Zhi"
+          },
+          "printPublicationDate": "2021-11-01"
+        },
+        "pubYear": "2021",
+        "pageInfo": "5992-5998",
+        "abstractText": "The editorial group of the clinical practice guideline for postmenopausal osteoporosis(PMOP) with traditional Chinese medicine(TCM)(hereinafter referred to as &quot;guideline&quot;) is composed of experts specialized in TCM orthopedics, TCM gynecology, clinical epidemiology, etc. The guideline was formulated through registration, collection and selection of clinical issues/outcome indicators, evidence retrieval and screening, preparation of systematic reviews, evaluation of evidence quality, formation of recommendations, drafting, and peer review. The syndromes and treatment of PMOP are elaborated in detail. Specifically, Liuwei Dihuang Pills and Zuogui Pills are recommended for PMOP with Yin deficiency in the liver and kidney, Qing'e Pills for PMOP with kidney deficiency and blood stasis, Yougui Pills and Jingui Shenqi Pills for PMOP with Yang deficiency in the spleen and kidney, and Er'xian Decoction for PMOP with Yin and Yang deficiency in the kidney. In addition, Duhuo Jisheng Decoction can be used to relieve pain. The commonly used Chinese patent medicines include Xianling Gubao Capsules, Qianggu Capsules, Jintiange Capsules, Gushukang Capsules, Hugu Capsules, Jinwu Gutong Capsules, and Guyuling Capsules. Acupuncture and moxibustion are also effective approaches for PMOP. The rehabilitation and daily management were carried out by exercise therapies such as Baduanjin(eight-section brocade), Wuqinxi(five-animal exercises), and Taijiquan(Tai Chi), Chinese medicine diet, health education, and fall prevention. The promotion and application of this guideline will facilitate the implementation of TCM prevention and treatment of PMOP, ensure the quality of life of PMOP patients, provide effective and safe TCM treatment measures for PMOP, and reduce the risk of fracture complications.",
+        "affiliation": "Institute of Basic Research in Clinical Medicine, China Academy of Chinese Medical Sciences Beijing 100700, China.",
+        "publicationStatus": "ppublish",
+        "language": "chi",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "Practice Guideline",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Animals"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Osteoporosis, Postmenopausal",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DT",
+                    "qualifierName": "drug therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Yin Deficiency"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Drugs, Chinese Herbal",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "TU",
+                    "qualifierName": "therapeutic use"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Medicine, Chinese Traditional"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Quality of Life"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Systematic Reviews as Topic"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Postmenopausal Osteoporosis",
+            "Evidence-based Guideline",
+            "Tcm Clinical Practice Guideline"
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Drugs, Chinese Herbal",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.19540/j.cnki.cjcmm.20210709.501"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 10,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2021-12-27",
+        "dateOfCreation": "2021-12-24",
+        "dateOfRevision": "2026-02-13",
+        "firstPublicationDate": "2021-11-01",
+        "firstIndexDate": "2021-12-25",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "38213257",
+        "source": "MED",
+        "pmid": "38213257",
+        "pmcid": "PMC10774716",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC10774716"
+          ]
+        },
+        "doi": "10.19852/j.cnki.jtcm.20230904.006",
+        "title": "Identifying the effective combination of acupuncture and traditional Chinese medicinal herbs for postmenopausal osteoporosis therapy through studies of their molecular regulation of bone homeostasis.",
+        "authorString": "Ping R, Quanwu W, Wei B, Miao S, Zheling L, Ming G, Liang W, Bo P, Liguang XU.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Ping R",
+              "lastName": "Ping",
+              "firstName": "Ren",
+              "initials": "R",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Health Management, the Third Affiliated Clinical Hospital of Changchun University of Chinese Medicine, Changchun 130117, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Quanwu W",
+              "lastName": "Quanwu",
+              "firstName": "Wang",
+              "initials": "W",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Dirty Tuina, the affiliated Hospital to Changchun University of Chinese Medicine, Changchun 130117, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Wei B",
+              "lastName": "Wei",
+              "firstName": "Bai",
+              "initials": "B",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Acupuncture, the affiliated Hospital to Changchun University of Chinese Medicine, Changchun 130117, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Miao S",
+              "lastName": "Miao",
+              "firstName": "Sun",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Rehabilitation Medicine, the 924th Hospital of the PLA Joint Logistic Support Force, Foshan 528226, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zheling L",
+              "lastName": "Zheling",
+              "firstName": "Liu",
+              "initials": "L",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of College of Acupuncture and Massage, Changchun University of Chinese Medicine, Changchun 130117, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Ming G",
+              "lastName": "Ming",
+              "firstName": "Gao",
+              "initials": "G",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of College of Acupuncture and Massage, Changchun University of Chinese Medicine, Changchun 130117, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Liang W",
+              "lastName": "Liang",
+              "firstName": "Wang",
+              "initials": "W",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of College of Acupuncture and Massage, Changchun University of Chinese Medicine, Changchun 130117, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Bo P",
+              "lastName": "Bo",
+              "firstName": "Peng",
+              "initials": "P",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of College of Acupuncture and Massage, Changchun University of Chinese Medicine, Changchun 130117, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Liguang XU",
+              "lastName": "Liguang",
+              "firstName": "X U",
+              "initials": "XU",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Acupuncture, the affiliated Hospital to Changchun University of Chinese Medicine, Changchun 130117, China."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "1",
+          "volume": "44",
+          "journalIssueId": 3696043,
+          "dateOfPublication": "2024 Feb",
+          "monthOfPublication": 2,
+          "yearOfPublication": 2024,
+          "journal": {
+            "medlineAbbreviation": "J Tradit Chin Med",
+            "title": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+            "essn": "2589-451X",
+            "issn": "0255-2922",
+            "nlmid": "8211546",
+            "isoabbreviation": "J Tradit Chin Med"
+          },
+          "printPublicationDate": "2024-02-01"
+        },
+        "pubYear": "2024",
+        "pageInfo": "212-219",
+        "abstractText": "Worldwide, as the population age, osteoporosis is becoming increasingly common, and osteoporotic fractures have a significant economic burden. Postmenopausal women are the most susceptible to developing osteoporosis and the most critical time to prevent it is during the perimenopausal and early menopausal years. In this regard, we hypothesize rational combination of acupuncture and Traditional Chinese Medicine (TCM) in the form of herbal extract could prevent osteoporosis in women. Estrogen deficiency during menopause causes low-level inflammation that stimulates the formation of osteoclasts, the bone-resorbing cells, and simultaneously inhibits the viability and function of osteoblasts, the bone-forming cells. The most potent inflammatory cytokine in skeletal homeostasis is the receptor activator of nuclear factor kappa B ligand (RANKL) that stimulates osteoclast function. Conversely, the canonical Wnt pathway is essential for osteoblastogenesis and bone formation, and estrogen deficiency leads to diminished functioning of this pathway. TCM and acupuncture could target the RANKL and the Wnt pathway in favorable ways to prevent the accelerated bone loss experienced during the early menopausal stage and promote the gain in bone mass in postmenopausal women. In this review, we propose a rational combination of specific TCM and acupuncture targeting those signaling molecules/pathways by the drugs that are in clinical use for the treatment of postmenopausal osteoporosis. Our rational approach revealed that Danshen (<i>Radix Salviae Miltiorrhizae</i>) could exert a synergistic effect with acupuncture. We then propose a translational path for developing the putative combination in women with postmenopausal osteoporosis to curtail the risk of osteoporotic fractures.",
+        "affiliation": "Department of Health Management, the Third Affiliated Clinical Hospital of Changchun University of Chinese Medicine, Changchun 130117, China.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Review",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Plants, Medicinal"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Osteoporosis",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DT",
+                    "qualifierName": "drug therapy"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Osteoporosis, Postmenopausal",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DT",
+                    "qualifierName": "drug therapy"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Estrogens",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Acupuncture Therapy"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Homeostasis"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "RANK Ligand",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Osteoporotic Fractures"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Review",
+            "Medicine, Traditional",
+            "Anti-resorptive",
+            "Osteogenic"
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Estrogens",
+              "registryNumber": "0"
+            },
+            {
+              "name": "RANK ligand",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.19852/j.cnki.jtcm.20230904.006"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC10774716"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC10774716?pdf=render"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.19852/j.cnki.jtcm.20230904.006"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 5,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2024-01-15",
+        "dateOfCreation": "2024-01-12",
+        "dateOfRevision": "2026-08-27",
+        "firstPublicationDate": "2024-02-01",
+        "firstIndexDate": "2024-01-13",
+        "fullTextReceivedDate": "2024-02-16",
+        "embargoDate": "2024-02-15",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "33080732",
+        "source": "MED",
+        "pmid": "33080732",
+        "pmcid": "PMC7572013",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC7572013"
+          ]
+        },
+        "doi": "10.1097/md.0000000000022734",
+        "title": "Comparison of efficacy and safety of Chinese patent medicine in the treatment of postmenopausal osteoporosis: A protocol for systematic review and network meta-analysis.",
+        "authorString": "An H, Zhao J, Wang J, Li C, Jiang Z, Yao J, Zhang X, Wu J.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "An H",
+              "lastName": "An",
+              "firstName": "Hongqiang",
+              "initials": "H",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6648-4384"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Shandong University of Traditional Chinese Medicine."
+                  },
+                  {
+                    "affiliation": "Xintai People's Hospital."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zhao J",
+              "lastName": "Zhao",
+              "firstName": "Jifeng",
+              "initials": "J",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Jinan city Hospital of Integrated Traditional Chinese and Western Medicine, PR China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Wang J",
+              "lastName": "Wang",
+              "firstName": "Jiahao",
+              "initials": "J",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Shandong University of Traditional Chinese Medicine."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Li C",
+              "lastName": "Li",
+              "firstName": "Chuancheng",
+              "initials": "C",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Shandong University of Traditional Chinese Medicine."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Jiang Z",
+              "lastName": "Jiang",
+              "firstName": "Zhenyuan",
+              "initials": "Z",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Shandong University of Traditional Chinese Medicine."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Yao J",
+              "lastName": "Yao",
+              "firstName": "Junpeng",
+              "initials": "J",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Shandong University of Traditional Chinese Medicine."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zhang X",
+              "lastName": "Zhang",
+              "firstName": "Xiao",
+              "initials": "X",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Shandong University of Traditional Chinese Medicine."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Wu J",
+              "lastName": "Wu",
+              "firstName": "Jianlin",
+              "initials": "J",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Shandong University of Traditional Chinese Medicine."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6648-4384"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "42",
+          "volume": "99",
+          "journalIssueId": 3041307,
+          "dateOfPublication": "2020 Oct",
+          "monthOfPublication": 10,
+          "yearOfPublication": 2020,
+          "journal": {
+            "medlineAbbreviation": "Medicine (Baltimore)",
+            "title": "Medicine",
+            "essn": "1536-5964",
+            "issn": "0304-5412",
+            "nlmid": "2985248R",
+            "isoabbreviation": "Medicine (Baltimore)"
+          },
+          "printPublicationDate": "2020-10-01"
+        },
+        "pubYear": "2020",
+        "pageInfo": "e22734",
+        "abstractText": "<h4>Background</h4>Postmenopausal osteoporosis (PMOP) is the focus and difficult problem in the world at present, and we found that Chinese patent medicine(CPM) shown a more miraculous effect. Many kinds of Chinese patent medicine have been proved to be effective in the treatment of this disease, but it is still unclear which kind of Chinese patent medicine has the best effect. Therefore, we propose a network meta-analysis (NMA) protocol to observe the efficacy of various CPM for this disease and provide guidance for clinical practice.<h4>Methods</h4>We will use the NMA method to complete this study. First, all the randomized controlled trials of CPM or CPM combined with western medicine in the treatment of PMOP were collected by searching all online Chinese and English databases. The information time limit is from the establishment of the database to August 30, 2020. Then 2 staff members will sift through all the literature and analyze the data using Stata and Winbugs.<h4>Results</h4>Through this analysis, we will observe and rank the clinical effects of different CPM for PMOP. The main evaluation indexes include: New fracture, Quality of life, Severe side effects, Death from all causes. Secondary outcome indicators include Bone Mineral density, clinical efficiency, and some laboratory indicators, such as estradiol, serum calcium, serum, etc. CONCLUSION:: This study will rank the therapeutic effects of various proprietary Chinese medicines in the treatment of PMOP, which will be helpful in improving the PMOP treatment regimen.INPLASY registration number: INPLASY202090047.",
+        "affiliation": "Shandong University of Traditional Chinese Medicine.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "review-article",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "Postgraduate Education Quality Improvement Plan",
+              "grantId": "SDYJG19144",
+              "orderIn": 0
+            },
+            {
+              "agency": "Shandong Science and Technology Development Plan",
+              "grantId": "2012GGB14067",
+              "orderIn": 0
+            }
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Osteoporosis, Postmenopausal",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "DT",
+                    "qualifierName": "drug therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Medicine, Chinese Traditional"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Research Design"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Nonprescription Drugs",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "TU",
+                    "qualifierName": "therapeutic use"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Systematic Reviews as Topic"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Network Meta-Analysis as Topic"
+            }
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Nonprescription Drugs",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1097/MD.0000000000022734"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC7572013"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC7572013?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 3,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "Y",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCompletion": "2020-11-02",
+        "dateOfCreation": "2020-10-21",
+        "dateOfRevision": "2025-06-25",
+        "firstPublicationDate": "2020-10-01",
+        "firstIndexDate": "2020-10-21",
+        "fullTextReceivedDate": "2025-02-03",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "42675712",
+        "source": "MED",
+        "pmid": "42675712",
+        "pmcid": "PMC13529136",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13529136"
+          ]
+        },
+        "doi": "10.1097/md.0000000000050311",
+        "title": "Evidence mapping and meta-analysis of traditional Chinese medicine for postmenopausal osteoporosis.",
+        "authorString": "Xi X, Yan X, Fan J, Zhang Y, Wang Z.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Xi X",
+              "lastName": "Xi",
+              "firstName": "Xi",
+              "initials": "X",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0007-9482-8309"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "First Clinical Medical College, Gansu University of Chinese Medicine, Lanzhou, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Yan X",
+              "lastName": "Yan",
+              "firstName": "Xue",
+              "initials": "X",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "First Clinical Medical College, Gansu University of Chinese Medicine, Lanzhou, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Fan J",
+              "lastName": "Fan",
+              "firstName": "Jingchun",
+              "initials": "J",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Public Health, Gansu University of Chinese Medicine, Lanzhou, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zhang Y",
+              "lastName": "Zhang",
+              "firstName": "Yanying",
+              "initials": "Y",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Gansu Provincial Experimental Animal Industry Technology Center, Lanzhou, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Wang Z",
+              "lastName": "Wang",
+              "firstName": "Zhandong",
+              "initials": "Z",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Integrated Traditional Chinese and Western Medicine, Gansu University of Chinese Medicine, Lanzhou, China."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0009-0007-9482-8309"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "35",
+          "volume": "105",
+          "journalIssueId": 4251582,
+          "dateOfPublication": "2026 Aug",
+          "monthOfPublication": 8,
+          "yearOfPublication": 2026,
+          "journal": {
+            "medlineAbbreviation": "Medicine (Baltimore)",
+            "title": "Medicine",
+            "essn": "1536-5964",
+            "issn": "0304-5412",
+            "nlmid": "2985248R",
+            "isoabbreviation": "Medicine (Baltimore)"
+          },
+          "printPublicationDate": "2026-08-01"
+        },
+        "pubYear": "2026",
+        "pageInfo": "e50311",
+        "abstractText": "<h4>Background</h4>Postmenopausal osteoporosis (PMOP) is a common metabolic bone disorder characterized by estrogen deficiency - induced bone loss and increased fracture risk. Traditional Chinese medicine (TCM) has demonstrated unique advantages in PMOP management, but comprehensive, standardized evidence synthesis remains limited.<h4>Methods</h4>Chinese and English databases (CNKI, Wanfang, VIP, SinoMed, PubMed, EMBASE, Web of Science, and Cochrane Library) were systematically searched up to July 31, 2024. Eligible studies included interventional, observational, and evidence-based research. Data extraction and quality assessment followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 statement. Meta-analyses were performed using RevMan 5.4 with random- or fixed-effects models depending on heterogeneity.<h4>Results</h4>A total of 319 studies were included: 232 interventional, 60 observational, 25 systematic reviews or meta-analyses, and 2 guidelines. Among 99 randomized controlled trials, TCM interventions significantly improved clinical efficacy (risk ratio = 1.22, 95% confidence interval [CI]: 1.17-1.27, I2 = 55%) and reduced pain (standardized mean difference [SMD] = -2.15, 95% CI: -2.95 to - 2.17, I2 = 96%). TCM also enhanced bone mineral density at both lumbar (SMD = 0.74, 95% CI: 0.57-0.91, I2 = 90%) and femoral sites (SMD = 0.60, 95% CI: 0.41-0.80, I2 = 89%).<h4>Conclusion</h4>TCM interventions significantly improve bone density and pain outcomes in PMOP. However, high heterogeneity and moderate methodological quality highlight the need for high-quality, standardized clinical trials integrating syndrome differentiation.",
+        "affiliation": "First Clinical Medical College, Gansu University of Chinese Medicine, Lanzhou, China.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "Meta-Analysis",
+            "research-article",
+            "Systematic Review",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Osteoporosis, Postmenopausal",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DT",
+                    "qualifierName": "drug therapy"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "TH",
+                    "qualifierName": "therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Drugs, Chinese Herbal",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "TU",
+                    "qualifierName": "therapeutic use"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Medicine, Chinese Traditional",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "MT",
+                    "qualifierName": "methods"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Bone Density",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DE",
+                    "qualifierName": "drug effects"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Randomized Controlled Trials as Topic"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Traditional Chinese medicine",
+            "Meta-analysis",
+            "Postmenopausal Osteoporosis",
+            "Evidence Map"
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Drugs, Chinese Herbal",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1097/MD.0000000000050311"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC13529136"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC13529136?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasData": "Y",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCompletion": "2026-09-01",
+        "dateOfCreation": "2026-09-01",
+        "dateOfRevision": "2026-10-14",
+        "firstPublicationDate": "2026-08-01",
+        "firstIndexDate": "2026-09-02",
+        "fullTextReceivedDate": "2026-09-11",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "42460309",
+        "source": "MED",
+        "pmid": "42460309",
+        "pmcid": "PMC13368563",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13368563"
+          ]
+        },
+        "doi": "10.3389/fendo.2026.1784394",
+        "title": "Evaluating combined acupuncture and antiresorptive therapy in Chinese women with postmenopausal osteoporosis: a systematic review and network meta-analysis.",
+        "authorString": "Zhuang J, Su D, Gao Q, Hu L, Jiang Y, Yu G, Chen X, Xi D.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Zhuang J",
+              "lastName": "Zhuang",
+              "firstName": "Jiamei",
+              "initials": "J",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Seventh Clinical College of Guangzhou University of Chinese Medicine, Shenzhen Bao'an Chinese Medicine Hospital, Guangzhou University of Chinese Medicine, Shenzhen, Guangdong, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Su D",
+              "lastName": "Su",
+              "firstName": "Dan",
+              "initials": "D",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Seventh Clinical College of Guangzhou University of Chinese Medicine, Shenzhen Bao'an Chinese Medicine Hospital, Guangzhou University of Chinese Medicine, Shenzhen, Guangdong, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Gao Q",
+              "lastName": "Gao",
+              "firstName": "Qinlong",
+              "initials": "Q",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Seventh Clinical College of Guangzhou University of Chinese Medicine, Shenzhen Bao'an Chinese Medicine Hospital, Guangzhou University of Chinese Medicine, Shenzhen, Guangdong, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hu L",
+              "lastName": "Hu",
+              "firstName": "Lingsan",
+              "initials": "L",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Seventh Clinical College of Guangzhou University of Chinese Medicine, Shenzhen Bao'an Chinese Medicine Hospital, Guangzhou University of Chinese Medicine, Shenzhen, Guangdong, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Jiang Y",
+              "lastName": "Jiang",
+              "firstName": "Yue",
+              "initials": "Y",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinical Medical College of Acupuncture Moxibustion and Rehabilitation, Guangzhou University of Chinese Medicine, Guangzhou, Guangdong, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Yu G",
+              "lastName": "Yu",
+              "firstName": "Guangbin",
+              "initials": "G",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-5500-9545"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinical Medical College of Acupuncture Moxibustion and Rehabilitation, Guangzhou University of Chinese Medicine, Guangzhou, Guangdong, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Chen X",
+              "lastName": "Chen",
+              "firstName": "Xiong",
+              "initials": "X",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinical Medical College of Acupuncture Moxibustion and Rehabilitation, Guangzhou University of Chinese Medicine, Guangzhou, Guangdong, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Xi D",
+              "lastName": "Xi",
+              "firstName": "Dan",
+              "initials": "D",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Seventh Clinical College of Guangzhou University of Chinese Medicine, Shenzhen Bao'an Chinese Medicine Hospital, Guangzhou University of Chinese Medicine, Shenzhen, Guangdong, China."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-5500-9545"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "volume": "17",
+          "journalIssueId": 4112185,
+          "dateOfPublication": "2026 ",
+          "monthOfPublication": 0,
+          "yearOfPublication": 2026,
+          "journal": {
+            "medlineAbbreviation": "Front Endocrinol (Lausanne)",
+            "title": "Frontiers in endocrinology",
+            "essn": "1664-2392",
+            "issn": "1664-2392",
+            "nlmid": "101555782",
+            "isoabbreviation": "Front Endocrinol (Lausanne)"
+          },
+          "printPublicationDate": "2026-01-01"
+        },
+        "pubYear": "2026",
+        "pageInfo": "1784394",
+        "abstractText": "<h4>Background</h4>Postmenopausal osteoporosis (PMOP) is a common metabolic disorder in middle-aged and older women, leading to fractures, disability, and increased mortality. Current treatments include bisphosphonates (BPs), calcitonin (CT), vitamin D (VD), and acupuncture (Acu), often used in combination, but comparative evidence on different combined strategies remain limited.<h4>Objective</h4>To systematically compare the efficacy and safety of acupuncture combined with various medications for PMOP, supporting evidence-based clinical decisions.<h4>Methods</h4>We searched eight databases from inception to April 11, 2026 for randomized controlled trials (RCTs) evaluating acupuncture plus pharmacotherapy for PMOP. Primary outcomes included lumbar spine (LS) and femoral neck (FN) bone mineral density (BMD), clinical efficacy, Traditional Chinese Medicine (TCM) syndrome scores, and Visual Analog Scale (VAS) pain scores. Secondary outcomes were procollagen type I N-terminal propeptide (PINP), C-terminal telopeptide (CTX), estradiol (E2), alkaline phosphatase (ALP), and osteocalcin (OCN). A Bayesian network meta-analysis was performed, ranking treatments by surface under the cumulative ranking curve (SUCRA).<h4>Results</h4>We included 112 RCTs (9, 908 patients, 83 treatment strategies). For LS-BMD, Calcitriol (Cal)_Electroacupuncture (ElecAcu) ranked highest. For FN-BMD, CT_VD_Traditional Chinese Medicine (TCM)_Fire dragon moxibustion (FDMox) (without BP) and CT_VD_BP_TCM_Acu (with BP) were best. TCM_Acu showed the best clinical efficacy. For TCM syndrome total score, CT_VD_ Du-moxibustion (DuMox) ranked lowest. For low back pain, TCM_Acu (without BP) and CT_VD_BP_Acu_Moxibustion (Mox) (with BP) were best. CT_VD_BP_Acu_Point Application Therapy (Pat) ranked lowest for VAS. CT_VD_BP_Acupoint injection (AcuInj) produced the lowest PINP, CT_VD_TCM_Acu the lowest CTX, and CT_VD_BP_TCM_Acupoint catgut embedding (ACE) the highest E2. For ALP, CT_VD_BP_Acu ranked lowest with BP, and CT_VD_Mox highest without BP. For OCN, CT_VD_Mox ranked highest without BP, and CT_VD_BP_TCM_Acu_Mox highest with BP.<h4>Conclusion</h4>Acupuncture combined with pharmacotherapy offers differential benefits across efficacy outcomes in PMOP. However, fracture data were nearly absent (only one trial reported two hip fractures) and follow-up was short (≤12 months), limiting any inference on fracture prevention. Treatment selection should be individualized based on therapeutic priorities and patient characteristics, supporting personalized integrative management strategies.<h4>Systematic review registration</h4>https://www.crd.york.ac.uk/PROSPERO/, identifier CRD420251233374.",
+        "affiliation": "The Seventh Clinical College of Guangzhou University of Chinese Medicine, Shenzhen Bao'an Chinese Medicine Hospital, Guangzhou University of Chinese Medicine, Shenzhen, Guangdong, China.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic-eCollection",
+        "pubTypeList": {
+          "pubType": [
+            "Systematic Review",
+            "systematic-review",
+            "Network Meta-Analysis",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Osteoporosis, Postmenopausal",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "TH",
+                    "qualifierName": "therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Treatment Outcome"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Combined Modality Therapy"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Acupuncture Therapy",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "MT",
+                    "qualifierName": "methods"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Medicine, Chinese Traditional"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Bone Density"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "China",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "EP",
+                    "qualifierName": "epidemiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Bone Density Conservation Agents",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "TU",
+                    "qualifierName": "therapeutic use"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Randomized Controlled Trials as Topic"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Acupuncture",
+            "Postmenopausal Osteoporosis",
+            "Personalized Treatment",
+            "Network Meta-analysis",
+            "Antiresorptive Therapy"
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Bone Density Conservation Agents",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.3389/fendo.2026.1784394"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC13368563"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC13368563?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasData": "Y",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCompletion": "2026-07-16",
+        "dateOfCreation": "2026-07-16",
+        "dateOfRevision": "2026-08-13",
+        "electronicPublicationDate": "2026-07-01",
+        "firstPublicationDate": "2026-07-01",
+        "firstIndexDate": "2026-07-16",
+        "fullTextReceivedDate": "2026-09-03",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "PMC3373454",
+        "source": "PMC",
+        "pmcid": "PMC3373454",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC3373454"
+          ]
+        },
+        "doi": "10.1186/1472-6882-12-s1-p195",
+        "title": "P02.139. A comparative study of Chinese medicine and hormone therapy in the treatment of menopausal symptoms in perimenopausal and postmenopausal women",
+        "authorString": "Azizi H, Liu Y, Du L, Wang C, Esmaily H, Bahrami-Taghanaki H, Azizi H, Soleimannejad M, Xue X.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Azizi H",
+              "lastName": "Azizi",
+              "firstName": "H",
+              "initials": "H",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Mashhad University of Medical Sciences, Mashad, Iran"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Liu Y",
+              "lastName": "Liu",
+              "firstName": "Y",
+              "initials": "Y",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Beijing University of Chinese Medicine, Beijing, China"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Du L",
+              "lastName": "Du",
+              "firstName": "L",
+              "initials": "L",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Beijing University of Chinese Medicine, Beijing, China"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Wang C",
+              "lastName": "Wang",
+              "firstName": "C",
+              "initials": "C",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Peking University People Hospital, Beijing, China"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Esmaily H",
+              "lastName": "Esmaily",
+              "firstName": "H",
+              "initials": "H",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Mashhad University of Medical Sciences, Mashad, Iran"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Bahrami-Taghanaki H",
+              "lastName": "Bahrami-Taghanaki",
+              "firstName": "H",
+              "initials": "H",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Mashhad University of Medical Sciences, Mashad, Iran"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Azizi H",
+              "lastName": "Azizi",
+              "firstName": "H",
+              "initials": "H",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Islamic Azad University of Mashhad, Mashad, Iran"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Soleimannejad M",
+              "lastName": "Soleimannejad",
+              "firstName": "M",
+              "initials": "M",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Cardiology, Imam Reza Hospital, Amol, Iran"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Xue X",
+              "lastName": "Xue",
+              "firstName": "X",
+              "initials": "X",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Beijing University of Chinese Medicine, Beijing, China"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "Suppl 1",
+          "volume": "12",
+          "journalIssueId": 3023019,
+          "dateOfPublication": "2012 Jan",
+          "monthOfPublication": 1,
+          "yearOfPublication": 2012,
+          "journal": {
+            "medlineAbbreviation": "BMC Complement Altern Med",
+            "title": "BMC complementary and alternative medicine",
+            "essn": "1472-6882",
+            "issn": "1472-6882",
+            "nlmid": "101088661",
+            "isoabbreviation": "BMC Complement Altern Med"
+          },
+          "printPublicationDate": "2012-01-01"
+        },
+        "pubYear": "2012",
+        "pageInfo": "P195-P195",
+        "affiliation": "Mashhad University of Medical Sciences, Mashad, Iran",
+        "language": "eng",
+        "pubModel": "Undetermined",
+        "pubTypeList": {
+          "pubType": [
+            "Abstract"
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Unpaywall",
+              "url": "https://bmccomplementmedtherapies.biomedcentral.com/track/pdf/10.1186/1472-6882-12-S1-P195"
+            },
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1186/1472-6882-12-S1-P195"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "PubMedCentral",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3373454/?tool=EBI"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "pdf",
+              "site": "PubMedCentral",
+              "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3373454/pdf/?tool=EBI"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC3373454"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC3373454?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCreation": "2025-02-02",
+        "dateOfRevision": "2026-08-29",
+        "electronicPublicationDate": "2012-01-01",
+        "firstPublicationDate": "2012-01-01",
+        "firstIndexDate": "2012-06-14",
+        "fullTextReceivedDate": "2025-02-02",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

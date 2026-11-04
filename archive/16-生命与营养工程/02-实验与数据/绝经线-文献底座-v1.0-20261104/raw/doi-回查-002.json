@@ -1,0 +1,729 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ],
+      "date-time": "2026-09-30T16:14:16Z",
+      "timestamp": 1790784856796,
+      "version": "4.1.0"
+    },
+    "reference-count": 35,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2026-06-01T00:00:00Z",
+          "timestamp": 1780272000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2026-06-01T00:00:00Z",
+          "timestamp": 1780272000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              27
+            ]
+          ],
+          "date-time": "2026-04-27T00:00:00Z",
+          "timestamp": 1777248000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "maturitas.org",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Maturitas"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.maturitas.2026.108958",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2026-04-24T15:47:31Z",
+      "timestamp": 1777045651000
+    },
+    "page": "108958",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "special_numbering": "C",
+    "title": [
+      "Prevalence of vasomotor symptoms and the associated risk factors: the “Mi Menopausia” app study"
+    ],
+    "prefix": "10.1016",
+    "volume": "209",
+    "author": [
+      {
+        "given": "Pluvio J.",
+        "family": "Coronado",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nicolás",
+        "family": "Mendoza",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Silvia P.",
+        "family": "González",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sonia",
+        "family": "Sánchez-Méndez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jesús",
+        "family": "Presa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ana R.",
+        "family": "Jurado",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Esther",
+        "family": "de la Viuda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francisco",
+        "family": "Quereda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "María",
+        "family": "Fasero",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.maturitas.2026.108958_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "66",
+        "DOI": "10.1016/j.maturitas.2022.09.006",
+        "article-title": "Prevalence and quality-of-life burden of vasomotor symptoms associated with menopause: a European cross-sectional survey",
+        "volume": "167",
+        "author": "Nappi",
+        "year": "2023",
+        "journal-title": "Maturitas"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.maturitas.2026.108958_bb0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1080/13697137.2022.2139598",
+        "article-title": "Population-based survey on menopausal symptoms and treatment use",
+        "volume": "26",
+        "author": "Baquedano",
+        "year": "2023",
+        "journal-title": "Climacteric"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.maturitas.2026.108958_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "531",
+        "DOI": "10.1001/jamainternmed.2014.8063",
+        "article-title": "Study of Women's Health Across the Nation. Duration of menopausal vasomotor symptoms over the menopause transition",
+        "volume": "175",
+        "author": "Avis",
+        "year": "2015",
+        "journal-title": "JAMA Intern. Med."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.maturitas.2026.108958_bb0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "516",
+        "DOI": "10.1002/ijgo.15278",
+        "article-title": "Counseling in menopausal women: how to address the benefits and risks of menopause hormone therapy. A FIGO position paper",
+        "volume": "164",
+        "author": "Genazzani",
+        "year": "2024",
+        "journal-title": "Int. J. Gynaecol. Obstet."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.maturitas.2026.108958_bb0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "478.e1",
+        "DOI": "10.1016/j.ajog.2019.10.103",
+        "article-title": "Obesity, smoking, and risk of vasomotor menopausal symptoms: a pooled analysis of eight cohort studies",
+        "volume": "222",
+        "author": "Anderson",
+        "year": "2020",
+        "journal-title": "Am. J. Obstet. Gynecol."
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.maturitas.2026.108958_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "681",
+        "DOI": "10.1080/13543784.2021.1893305",
+        "article-title": "Fezolinetant in the treatment of vasomotor symptoms associated with menopause",
+        "volume": "30",
+        "author": "Depypere",
+        "year": "2021",
+        "journal-title": "Expert Opin. Investig. Drugs"
+      },
+      {
+        "key": "10.1016/j.maturitas.2026.108958_bb0035",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.maturitas.2025.108267",
+        "article-title": "REIM (“Red Española de Investigación en Menopausia”). Quality of life at peri- and postmenopause: analysis of the results from app “Mi Menopausia”",
+        "volume": "197",
+        "author": "Coronado",
+        "year": "2025",
+        "journal-title": "Maturitas"
+      },
+      {
+        "issue": "25",
+        "key": "10.1016/j.maturitas.2026.108958_bb0040",
+        "article-title": "Management of menopausal hot flushes. Recommendations from the Spanish Menopause Society",
+        "volume": "23",
+        "author": "Fasero",
+        "year": "2025",
+        "journal-title": "Eur. J. Obstet. Gynecol. Reprod. Biol. X"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.maturitas.2026.108958_bb0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "325",
+        "DOI": "10.1097/GME.0000000000000321",
+        "article-title": "Structural validity of a 16-item abridged version of the Cervantes Health-Related Quality of Life scale for menopause: the Cervantes Short-Form Scale",
+        "volume": "22",
+        "author": "Coronado",
+        "year": "2015",
+        "journal-title": "Menopause"
+      },
+      {
+        "key": "10.1016/j.maturitas.2026.108958_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "34",
+        "DOI": "10.1016/j.maturitas.2021.01.004",
+        "article-title": "Population-based norms for the Cervantes-SF short-form questionnaire assessing health-related quality of life in menopause",
+        "volume": "146",
+        "author": "Coronado",
+        "year": "2021",
+        "journal-title": "Maturitas"
+      },
+      {
+        "key": "10.1016/j.maturitas.2026.108958_bb0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "55",
+        "DOI": "10.1016/j.maturitas.2015.10.013",
+        "article-title": "Psychometric attributes of the Cervantes short form questionnaire for measuring health-related quality of life in menopausal women",
+        "volume": "84",
+        "author": "Coronado",
+        "year": "2016",
+        "journal-title": "Maturitas"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.maturitas.2026.108958_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "1179",
+        "DOI": "10.1097/GME.0000000000002265",
+        "article-title": "Prevalence and impact of vasomotor symptoms due to menopause among women in Brazil, Canada, Mexico, and Nordic Europe: a cross-sectional survey",
+        "volume": "30",
+        "author": "Todorova",
+        "year": "2023",
+        "journal-title": "Menopause"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.maturitas.2026.108958_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "875",
+        "DOI": "10.1097/GME.0000000000001793",
+        "article-title": "Global cross-sectional survey of women with vasomotor symptoms associated with menopause: prevalence and quality of life burden",
+        "volume": "28",
+        "author": "Nappi",
+        "year": "2021",
+        "journal-title": "Menopause"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.maturitas.2026.108958_bb0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "1767",
+        "DOI": "10.1186/s12889-024-19280-5",
+        "article-title": "Mapping global prevalence of menopausal symptoms among middle-aged women: a systematic review and meta-analysis",
+        "volume": "24",
+        "author": "Fang",
+        "year": "2024",
+        "journal-title": "BMC Public Health"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.maturitas.2026.108958_bb0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "385",
+        "DOI": "10.1097/01.GME.0000151656.92317.A9",
+        "article-title": "Correlates of sexual function among multi-ethnic middle-aged women: results from the Study of Women’s Health Across the Nation (SWAN)",
+        "volume": "12",
+        "author": "Avis",
+        "year": "2005",
+        "journal-title": "Menopause"
+      },
+      {
+        "key": "10.1016/j.maturitas.2026.108958_bb0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "2195",
+        "DOI": "10.2147/CIA.S278976",
+        "article-title": "Menopausal symptoms and associated social and environmental factors in midlife Chinese women",
+        "volume": "15",
+        "author": "Zhang",
+        "year": "2020",
+        "journal-title": "Clin. Interv. Aging"
+      },
+      {
+        "key": "10.1016/j.maturitas.2026.108958_bb0085",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.maturitas.2024.107983",
+        "article-title": "Menopause in the workplace: challenges, impact, and next steps",
+        "volume": "185",
+        "author": "Safwan",
+        "year": "2024",
+        "journal-title": "Maturitas"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.maturitas.2026.108958_bb0090",
+        "first-page": "483",
+        "article-title": "Menopause and work: a narrative literature review about menopause, work and health",
+        "volume": "72",
+        "author": "Verdonk",
+        "year": "2022",
+        "journal-title": "Work"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.maturitas.2026.108958_bb0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "867",
+        "DOI": "10.3109/13697137.2015.1045483",
+        "article-title": "Resilience and related factors in urban, midaged Spanish women",
+        "volume": "18",
+        "author": "Coronado",
+        "year": "2015",
+        "journal-title": "Climacteric"
+      },
+      {
+        "key": "10.1016/j.maturitas.2026.108958_bb0100",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Coronado PJ, Fasero M, Otero B, Sanchez S, Viuda E, Ramirez-Polo I, Llaneza P, Mendoza N, Baquedano L. Health-related quality of life and resilience in peri- and postmenopausal women during Covid-19 confinement. Maturitas 2021 Feb;144:4–10. doi:https://doi.org/10.1016/j.maturitas.2020.09.004. Epub 2020 Sep 28. PMID: 33358207; PMCID: PMC7521907.",
+        "DOI": "10.1016/j.maturitas.2020.09.004"
+      },
+      {
+        "key": "10.1016/j.maturitas.2026.108958_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "87",
+        "DOI": "10.1016/j.maturitas.2016.09.013",
+        "article-title": "Female sexual dysfunction (FSD): prevalence and impact on quality of life (QoL)",
+        "volume": "94",
+        "author": "Nappi",
+        "year": "2016",
+        "journal-title": "Maturitas"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.maturitas.2026.108958_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1097/GME.0000000000002624",
+        "article-title": "Menopausal experience and sexuality: women's perceptions",
+        "volume": "33",
+        "author": "Renou",
+        "year": "2026",
+        "journal-title": "Menopause"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.maturitas.2026.108958_bb0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "323",
+        "DOI": "10.1097/YCO.0000000000000280",
+        "article-title": "Sexuality in menopausal women",
+        "volume": "29",
+        "author": "Caruso",
+        "year": "2016",
+        "journal-title": "Curr. Opin. Psychiatry"
+      },
+      {
+        "key": "10.1016/j.maturitas.2026.108958_bb0120",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1097/GME.0000000000002725",
+        "article-title": "Associations between vasomotor symptoms, sleep disturbances, and frequent mood changes individually and within symptom groups across the menopausal transition and early postmenopause: observations from the Study of Women’s Health Across the Nation",
+        "author": "Maki",
+        "year": "2026",
+        "journal-title": "Menopause"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.maturitas.2026.108958_bb0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1016/j.ecl.2015.05.001",
+        "article-title": "Menopausal symptoms and their management",
+        "volume": "44",
+        "author": "Santoro",
+        "year": "2015",
+        "journal-title": "Endocrinol. Metab. Clin. N. Am."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.maturitas.2026.108958_bb0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "640",
+        "DOI": "10.1038/s41598-024-84208-3",
+        "article-title": "Clustering of > 145,000 symptom logs reveals distinct pre, peri, and menopausal phenotypes",
+        "volume": "15",
+        "author": "Aras",
+        "year": "2025",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.maturitas.2026.108958_bb0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "202",
+        "DOI": "10.1097/01.AOG.0000441353.20693.78",
+        "article-title": "ACOG Practice Bulletin No. 141: management of menopausal symptoms",
+        "volume": "123",
+        "year": "2014",
+        "journal-title": "Obstet. Gynecol."
+      },
+      {
+        "key": "10.1016/j.maturitas.2026.108958_bb0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.1016/j.maturitas.2022.08.008",
+        "article-title": "Eligibility criteria for Menopausal Hormone Therapy (MHT): a position statement from a consortium of scientific societies for the use of MHT in women with medical conditions. MHT Eligibility Criteria Group",
+        "volume": "166",
+        "author": "Mendoza",
+        "year": "2022",
+        "journal-title": "Maturitas"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.maturitas.2026.108958_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "874",
+        "DOI": "10.1001/jamainternmed.2025.0990",
+        "article-title": "Nonhormonal treatment of menopausal vasomotor symptoms",
+        "volume": "185",
+        "author": "Huang",
+        "year": "2025",
+        "journal-title": "JAMA Intern. Med."
+      },
+      {
+        "issue": "10430",
+        "key": "10.1016/j.maturitas.2026.108958_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "947",
+        "DOI": "10.1016/S0140-6736(23)02799-X",
+        "article-title": "An empowerment model for managing menopause",
+        "volume": "403",
+        "author": "Hickey",
+        "year": "2024",
+        "journal-title": "Lancet"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.maturitas.2026.108958_bb0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "429",
+        "DOI": "10.1513/AnnalsATS.201902-180OC",
+        "article-title": "Early age at natural menopause is related to lower post-bronchodilator lung function. A longitudinal population-based study",
+        "volume": "17",
+        "author": "Campbell",
+        "year": "2020",
+        "journal-title": "Ann. Am. Thorac. Soc."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.maturitas.2026.108958_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "520",
+        "DOI": "10.1097/GME.0000000000001033",
+        "article-title": "Vasomotor symptom characteristics: are they risk factors for incident diabetes?",
+        "volume": "25",
+        "author": "Gray",
+        "year": "2018",
+        "journal-title": "Menopause"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.maturitas.2026.108958_bb0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "3487",
+        "DOI": "10.1210/jc.2012-1410",
+        "article-title": "Vasomotor symptoms and insulin resistance in the study of women's health across the nation",
+        "volume": "97",
+        "author": "Thurston",
+        "year": "2012",
+        "journal-title": "J. Clin. Endocrinol. Metab."
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.maturitas.2026.108958_bb0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "1329",
+        "DOI": "10.1007/s00198-024-07075-8",
+        "article-title": "The association of vasomotor symptoms with fracture risk and bone mineral density in postmenopausal women: a systematic review and meta-analysis of observational studies",
+        "volume": "35",
+        "author": "Anagnostis",
+        "year": "2024",
+        "journal-title": "Osteoporos. Int."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.maturitas.2026.108958_bb0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "524",
+        "DOI": "10.1210/jc.2014-3062",
+        "article-title": "Associations of menopausal vasomotor symptoms with fracture incidence",
+        "volume": "100",
+        "author": "Crandall",
+        "year": "2015",
+        "journal-title": "J. Clin. Endocrinol. Metab."
+      }
+    ],
+    "container-title": [
+      "Maturitas"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0378512226001350?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0378512226001350?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          31
+        ]
+      ],
+      "date-time": "2026-08-31T20:35:23Z",
+      "timestamp": 1788208523000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0378512226001350"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "references-count": 35,
+    "alternative-id": [
+      "S0378512226001350"
+    ],
+    "URL": "https://doi.org/10.1016/j.maturitas.2026.108958",
+    "relation": {},
+    "ISSN": [
+      "0378-5122"
+    ],
+    "issn-type": [
+      {
+        "value": "0378-5122",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Prevalence of vasomotor symptoms and the associated risk factors: the “Mi Menopausia” app study",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Maturitas",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.maturitas.2026.108958",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2026 The Authors. Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "108958"
+  }
+}
