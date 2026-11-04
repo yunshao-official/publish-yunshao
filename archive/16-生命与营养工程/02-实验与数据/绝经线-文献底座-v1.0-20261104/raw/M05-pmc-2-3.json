@@ -1,0 +1,2862 @@
+{
+  "version": "6.9",
+  "hitCount": 10,
+  "request": {
+    "queryString": "TITLE:(vaginal OR laser) AND TITLE:\"sexual function\" AND TITLE:menopaus*",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "CITED desc",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "36763359",
+        "source": "MED",
+        "pmid": "36763359",
+        "pmcid": "PMC9918877",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC9918877"
+          ]
+        },
+        "doi": "10.1001/jamanetworkopen.2022.55697",
+        "title": "Effect of Fractional Carbon Dioxide vs Sham Laser on Sexual Function in Survivors of Breast Cancer Receiving Aromatase Inhibitors for Genitourinary Syndrome of Menopause: The LIGHT Randomized Clinical Trial.",
+        "authorString": "Mension E, Alonso I, Anglès-Acedo S, Ros C, Otero J, Villarino Á, Farré R, Saco A, Vega N, Castrejón N, Ordi J, Rakislova N, Tortajada M, Matas I, Gómez S, Ribera L, Castelo-Branco C.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Mension E",
+              "lastName": "Mension",
+              "firstName": "Eduard",
+              "initials": "E",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinic Institute of Gynecology, Obstetrics and Neonatology, Faculty of Medicine-University of Barcelona, Hospital Clínic of Barcelona, Barcelona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Alonso I",
+              "lastName": "Alonso",
+              "firstName": "Inmaculada",
+              "initials": "I",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Gynecology, Obstetrics and Neonatology Service, Hospital Joan XXIII, Tarragona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Anglès-Acedo S",
+              "lastName": "Anglès-Acedo",
+              "firstName": "Sònia",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinic Institute of Gynecology, Obstetrics and Neonatology, Faculty of Medicine-University of Barcelona, Hospital Clínic of Barcelona, Barcelona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Ros C",
+              "lastName": "Ros",
+              "firstName": "Cristina",
+              "initials": "C",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinic Institute of Gynecology, Obstetrics and Neonatology, Faculty of Medicine-University of Barcelona, Hospital Clínic of Barcelona, Barcelona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Otero J",
+              "lastName": "Otero",
+              "firstName": "Jorge",
+              "initials": "J",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Unit of Biophysics and Bioengineering, Faculty of Medicine, University of Barcelona, Barcelona, Spain."
+                  },
+                  {
+                    "affiliation": "CIBER de enfermedades Respiratorias, Madrid, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Villarino Á",
+              "lastName": "Villarino",
+              "firstName": "Álvaro",
+              "initials": "Á",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Unit of Biophysics and Bioengineering, Faculty of Medicine, University of Barcelona, Barcelona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Farré R",
+              "lastName": "Farré",
+              "firstName": "Ramon",
+              "initials": "R",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Unit of Biophysics and Bioengineering, Faculty of Medicine, University of Barcelona, Barcelona, Spain."
+                  },
+                  {
+                    "affiliation": "CIBER de enfermedades Respiratorias, Madrid, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Saco A",
+              "lastName": "Saco",
+              "firstName": "Adela",
+              "initials": "A",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9935-9045"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Pathology, Hospital Clínic of Barcelona, University of Barcelona, Barcelona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Vega N",
+              "lastName": "Vega",
+              "firstName": "Naiara",
+              "initials": "N",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Pathology, Hospital Clínic of Barcelona, University of Barcelona, Barcelona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Castrejón N",
+              "lastName": "Castrejón",
+              "firstName": "Natalia",
+              "initials": "N",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-0647-3058"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Pathology, Hospital Clínic of Barcelona, University of Barcelona, Barcelona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Ordi J",
+              "lastName": "Ordi",
+              "firstName": "Jaume",
+              "initials": "J",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Pathology, Hospital Clínic of Barcelona, University of Barcelona, Barcelona, Spain."
+                  },
+                  {
+                    "affiliation": "Barcelona Institute for Global Health, Hospital Clínic, Universitat de Barcelona, Barcelona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Rakislova N",
+              "lastName": "Rakislova",
+              "firstName": "Natalia",
+              "initials": "N",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Pathology, Hospital Clínic of Barcelona, University of Barcelona, Barcelona, Spain."
+                  },
+                  {
+                    "affiliation": "Barcelona Institute for Global Health, Hospital Clínic, Universitat de Barcelona, Barcelona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Tortajada M",
+              "lastName": "Tortajada",
+              "firstName": "Marta",
+              "initials": "M",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinic Institute of Gynecology, Obstetrics and Neonatology, Faculty of Medicine-University of Barcelona, Hospital Clínic of Barcelona, Barcelona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Matas I",
+              "lastName": "Matas",
+              "firstName": "Isabel",
+              "initials": "I",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinic Institute of Gynecology, Obstetrics and Neonatology, Faculty of Medicine-University of Barcelona, Hospital Clínic of Barcelona, Barcelona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Gómez S",
+              "lastName": "Gómez",
+              "firstName": "Sílvia",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinic Institute of Gynecology, Obstetrics and Neonatology, Faculty of Medicine-University of Barcelona, Hospital Clínic of Barcelona, Barcelona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Ribera L",
+              "lastName": "Ribera",
+              "firstName": "Laura",
+              "initials": "L",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinic Institute of Gynecology, Obstetrics and Neonatology, Faculty of Medicine-University of Barcelona, Hospital Clínic of Barcelona, Barcelona, Spain."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Castelo-Branco C",
+              "lastName": "Castelo-Branco",
+              "firstName": "Camil",
+              "initials": "C",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinic Institute of Gynecology, Obstetrics and Neonatology, Faculty of Medicine-University of Barcelona, Hospital Clínic of Barcelona, Barcelona, Spain."
+                  },
+                  {
+                    "affiliation": "Institut d´Investigacions Biomèdiques August Pi i Sunyer, Barcelona, Spain."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6551-0210"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0001-9935-9045"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-0647-3058"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-1787-7947"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics",
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "2",
+          "volume": "6",
+          "journalIssueId": 3498705,
+          "dateOfPublication": "2023 Feb",
+          "monthOfPublication": 2,
+          "yearOfPublication": 2023,
+          "journal": {
+            "medlineAbbreviation": "JAMA Netw Open",
+            "title": "JAMA network open",
+            "essn": "2574-3805",
+            "issn": "2574-3805",
+            "nlmid": "101729235",
+            "isoabbreviation": "JAMA Netw Open"
+          },
+          "printPublicationDate": "2023-02-01"
+        },
+        "pubYear": "2023",
+        "pageInfo": "e2255697",
+        "abstractText": "<h4>Importance</h4>Survivors of breast cancer present more severe symptoms of genitourinary syndrome of menopause (GSM) than patients without history of breast cancer. Recently, new treatments, such as vaginal laser therapy, have appeared, but evidence of their efficacy remains scarce.<h4>Objective</h4>To assess the safety and efficacy of carbon dioxide (CO2) vs sham vaginal laser therapy after 6 months of follow-up in survivors of breast cancer with GSM receiving aromatase inhibitors.<h4>Design, setting, and participants</h4>This prospective double-blind sham-controlled randomized clinical trial with two parallel study groups was performed during October 2020 to March 2022 in a tertiary referral hospital. Survivors of breast cancer using aromatase inhibitors were assessed for eligibility, and eligible patients were randomized into the 2 treatment groups. Follow-up was conducted at 6 months. Data were analyzed in July 2022.<h4>Interventions</h4>All patients from both groups were instructed to use the first-line treatment (FLT) based on nonhormonal moisturizers and vaginal vibrator stimulation. Patients for each group were allocated to 5 monthly sessions of fractional CO2 laser therapy (CLT) or sham laser therapy (SLT).<h4>Main outcomes and measures</h4>The primary outcome was sexual function, evaluated through Female Sexual Function Index (FSFI) score. Other subjective measures of efficacy included a visual analog scale of dyspareunia, vaginal pH, a Vaginal Health Index, quality of life (assessed via Short-Form 12), and body image (assessed with the Spanish Body Image Scale). Objective measures of efficacy included vaginal maturation index, vaginal epithelial elasticity (measured in Pascals) and vaginal epithelial thickness (measured in millimeters). Measures were assessed before and after the intervention. Tolerance (measured on a Likert scale), adverse effects, and estradiol levels were recorded.<h4>Results</h4>Among 211 survivors of breast cancer assessed, 84 women were deemed eligible and 72 women (mean [SD] age, 52.6 [8.3] years) were randomized to CLT (35 participants) or SLT (37 participants) and analyzed. There were no statistically significant differences between groups at baseline. At 6 months, both groups showed improvement in FSFI (mean [SD] score at baseline vs 6 months: CLT, 14.8 [8.8] points vs 20.0 [9.5] points; SLT, 15.6 [7.0] points vs 23.5 [6.5] points), but there was no significant difference between CLT and SLT groups in the improvement of sexual function evaluated through the FSFI test overall (mean [SD] difference, 5.2 [1.5] points vs 7.9 [1.2] points; P = .15) or after excluding women who were not sexually active (mean [SD] difference, 2.9 [1.4] points vs 5.5 [1.1] points; P = .15). There were also no differences between improvement of the 2 groups at 6 months of follow-up in the other assessed subjective outcomes, including dyspareunia (mean [SD] difference, -4.3 [3.4] vs -4.5 [2.3]; P = .73), Vaginal Health Index (mean [SD] difference, 3.3 [4.1] vs 5.0 [4.5]; P = .17), body image (mean [SD] difference, -3.7 [4.5] vs -2.7 [4.8]; P = .35), and quality of life (mean [SD] difference, -0.3 [3.6] vs -0.7 [3.2]; P = .39). Similarly, there were no differences in improvements in objective outcomes, including vaginal pH (mean [SD] difference, -0.6 [0.9] vs -0.8 [1.2]; P = .29), vaginal maturation index (mean [SD] difference, 10.2 [17.4] vs 14.4 [17.1]; P = .15), vaginal epithelial thickness (mean [SD] difference, 0.021 [0.014] mm vs 0.013 [0.012] mm; P = .30), vaginal epithelial elasticity (mean [SD] difference, -1373 [3197] Pascals vs -2103 [3771] Pascals; P = .64). There were significant improvements in the overall analysis regardless of group in many outcomes. The 2 interventions were well tolerated, but tolerance was significantly lower in the CLT group than the SLT group (mean [SD] Likert scale score, 3.3 [1.3] vs 4.1 [1.0]; P = .007). No differences were observed in complications or serum estradiol levels.<h4>Conclusions and relevance</h4>In this randomized clinical trial, vaginal laser treatment was found to be safe after 6 months of follow-up, but no statistically significant differences in efficacy were observed between CLT and SLT.<h4>Trial registration</h4>ClinicalTrials.gov identifier: NCT04619485.",
+        "affiliation": "Clinic Institute of Gynecology, Obstetrics and Neonatology, Faculty of Medicine-University of Barcelona, Hospital Clínic of Barcelona, Barcelona, Spain.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "research-article",
+            "Randomized Controlled Trial",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Breast Neoplasms",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "CO",
+                    "qualifierName": "complications"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "TH",
+                    "qualifierName": "therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Dyspareunia",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "CO",
+                    "qualifierName": "complications"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Syndrome"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Carbon Dioxide"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Estradiol"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Aromatase Inhibitors",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "AE",
+                    "qualifierName": "adverse effects"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Prospective Studies"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Lasers"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Quality of Life"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Survivors"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            }
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Aromatase Inhibitors",
+              "registryNumber": "0"
+            },
+            {
+              "name": "Carbon Dioxide",
+              "registryNumber": "142M471B3J"
+            },
+            {
+              "name": "Estradiol",
+              "registryNumber": "4TI98Z838E"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1001/jamanetworkopen.2022.55697"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC9918877"
+            }
+          ]
+        },
+        "commentCorrectionList": {
+          "commentCorrection": [
+            {
+              "source": "MED",
+              "id": "36763366",
+              "reference": "JAMA Netw Open. 2023 Feb 1;6(2):e2255706. doi: 10.1001/jamanetworkopen.2022.55706",
+              "type": "Comment in",
+              "orderIn": 1
+            },
+            {
+              "source": "MED",
+              "id": "36897597",
+              "reference": "JAMA Netw Open. 2023 Mar 1;6(3):e235334. doi: 10.1001/jamanetworkopen.2023.5334",
+              "type": "Erratum in",
+              "orderIn": 2
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 62,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "nct"
+          ]
+        },
+        "dateOfCompletion": "2023-02-14",
+        "dateOfCreation": "2023-02-10",
+        "dateOfRevision": "2023-03-10",
+        "electronicPublicationDate": "2023-02-01",
+        "firstPublicationDate": "2023-02-01",
+        "firstIndexDate": "2023-02-11",
+        "fullTextReceivedDate": "2025-02-04",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "31453969",
+        "source": "MED",
+        "pmid": "31453969",
+        "doi": "10.1097/gme.0000000000001353",
+        "title": "The effect of vaginal erbium laser treatment on sexual function and vaginal health in women with a history of breast cancer and symptoms of the genitourinary syndrome of menopause: a prospective study.",
+        "authorString": "Arêas F, Valadares ALR, Conde DM, Costa-Paiva L.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Arêas F",
+              "lastName": "Arêas",
+              "firstName": "Fernanda",
+              "initials": "F",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Gynecology and Obstetrics, State University of Campinas (UNICAMP), Campinas, São Paulo, Brazil."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Valadares ALR",
+              "lastName": "Valadares",
+              "firstName": "Ana L R",
+              "initials": "ALR",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Gynecology and Obstetrics, State University of Campinas (UNICAMP), Campinas, São Paulo, Brazil."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Conde DM",
+              "lastName": "Conde",
+              "firstName": "Délio Marques",
+              "initials": "DM",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Gynecology and Obstetrics, Federal University of Goiás, Goiânia, Goiás, Brazil."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Costa-Paiva L",
+              "lastName": "Costa-Paiva",
+              "firstName": "Lúcia",
+              "initials": "L",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-9088-6700"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Gynecology and Obstetrics, State University of Campinas (UNICAMP), Campinas, São Paulo, Brazil."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0002-9088-6700"
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "9",
+          "volume": "26",
+          "journalIssueId": 2851963,
+          "dateOfPublication": "2019 Sep",
+          "monthOfPublication": 9,
+          "yearOfPublication": 2019,
+          "journal": {
+            "medlineAbbreviation": "Menopause",
+            "title": "Menopause (New York, N.Y.)",
+            "essn": "1530-0374",
+            "issn": "1072-3714",
+            "nlmid": "9433353",
+            "isoabbreviation": "Menopause"
+          },
+          "printPublicationDate": "2019-09-01"
+        },
+        "pubYear": "2019",
+        "pageInfo": "1052-1058",
+        "abstractText": "<h4>Objectives</h4>To assess the effects of vaginal erbium laser treatment on the vaginal health and sexual function of postmenopausal women with a history of breast cancer.<h4>Methods</h4>An open, prospective, therapeutic intervention study was conducted with 24 postmenopausal women with a history of breast cancer and vaginal dryness, and/or dyspareunia, who had not used vaginal hormone therapy for at least 6 months. The women were treated using a 2,940-nm Erbium: YAG laser (Etherea-MX, Athena, São Carlos, São Paulo, Brazil), with 90 and 360 scanning scopes, between August, 2017 and October, 2017 in a private clinic in a city of southeastern Brazil. Vaginal erbium laser treatment was performed at three sessions with a 30-day interval between each session. Sexual function was assessed before and 1 month after treatment using the Short Personal Experiences Questionnaire. Questions related to genitourinary symptoms were also applied. Vaginal health was assessed before each laser session using the Vaginal Health Index Score.<h4>Results</h4>Mean age was 53.7 years. Vaginal health improved, as shown by an increased overall score (P < 0.001). The effect size was large between pretreatment and post-treatment scores for vaginal elasticity, fluid volume, epithelial integrity, and moisture. The effect size was also significant for the overall sexual function score and for the score in the dyspareunia domain between pretreatment and 1 month after the final treatment session.<h4>Conclusion</h4>Vaginal erbium laser may represent a novel therapeutic option for improving vaginal health and sexual function in postmenopausal women with a history of breast cancer.",
+        "affiliation": "Department of Gynecology and Obstetrics, State University of Campinas (UNICAMP), Campinas, São Paulo, Brazil.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Breast Neoplasms"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Vaginal Diseases",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "CO",
+                    "qualifierName": "complications"
+                  },
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "SU",
+                    "qualifierName": "surgery"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Erbium"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Treatment Outcome"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Prospective Studies"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Sexual Dysfunction, Physiological",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "CO",
+                    "qualifierName": "complications"
+                  },
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "SU",
+                    "qualifierName": "surgery"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Lasers, Solid-State"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Surveys and Questionnaires"
+            }
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Erbium",
+              "registryNumber": "77B218D3YE"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1097/GME.0000000000001353"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 40,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2020-07-16",
+        "dateOfCreation": "2019-08-28",
+        "dateOfRevision": "2024-02-29",
+        "firstPublicationDate": "2019-09-01",
+        "firstIndexDate": "2019-08-28",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "30103082",
+        "source": "MED",
+        "pmid": "30103082",
+        "doi": "10.1016/j.ejogrb.2018.08.008",
+        "title": "Efficacy of vaginal therapies alternative to vaginal estrogens on sexual function and orgasm of menopausal women: A systematic review and meta-analysis of randomized controlled trials.",
+        "authorString": "Pitsouni E, Grigoriadis T, Douskos A, Kyriakidou M, Falagas ME, Athanasiou S.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Pitsouni E",
+              "lastName": "Pitsouni",
+              "firstName": "Eleni",
+              "initials": "E",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Urogynaecology Unit, 1st Department of Obstetrics and Gynecology, \"Alexandra\" Hospital, National and Kapodistrian University of Athens, Greece."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Grigoriadis T",
+              "lastName": "Grigoriadis",
+              "firstName": "Themos",
+              "initials": "T",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-4301-8775"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Urogynaecology Unit, 1st Department of Obstetrics and Gynecology, \"Alexandra\" Hospital, National and Kapodistrian University of Athens, Greece."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Douskos A",
+              "lastName": "Douskos",
+              "firstName": "Athanasios",
+              "initials": "A",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Urogynaecology Unit, 1st Department of Obstetrics and Gynecology, \"Alexandra\" Hospital, National and Kapodistrian University of Athens, Greece."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Kyriakidou M",
+              "lastName": "Kyriakidou",
+              "firstName": "Margarita",
+              "initials": "M",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Alfa Institute of Biomedical Sciences (AIBS), Athens, Greece."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Falagas ME",
+              "lastName": "Falagas",
+              "firstName": "Matthew E",
+              "initials": "ME",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Alfa Institute of Biomedical Sciences (AIBS), Athens, Greece; Department of Internal Medicine, Henry Dunant Hospital Center, Athens, Greece; Department of Medicine, Tufts University School of Medicine, Boston, MA, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Athanasiou S",
+              "lastName": "Athanasiou",
+              "firstName": "Stavros",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Urogynaecology Unit, 1st Department of Obstetrics and Gynecology, \"Alexandra\" Hospital, National and Kapodistrian University of Athens, Greece. Electronic address: stavros.athanasiou@gmail.com."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0002-4301-8775"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics",
+            "recommended_reviews"
+          ]
+        },
+        "journalInfo": {
+          "volume": "229",
+          "journalIssueId": 2730362,
+          "dateOfPublication": "2018 Oct",
+          "monthOfPublication": 10,
+          "yearOfPublication": 2018,
+          "journal": {
+            "medlineAbbreviation": "Eur J Obstet Gynecol Reprod Biol",
+            "title": "European journal of obstetrics, gynecology, and reproductive biology",
+            "essn": "1872-7654",
+            "issn": "0301-2115",
+            "nlmid": "0375672",
+            "isoabbreviation": "Eur J Obstet Gynecol Reprod Biol"
+          },
+          "printPublicationDate": "2018-10-01"
+        },
+        "pubYear": "2018",
+        "pageInfo": "45-56",
+        "abstractText": "Genitourinary syndrome of menopause (GSM) increases the probability of female sexual dysfunction (FSD). The aim of the current study is to systematically assess data regarding sexual function and use of vaginal therapies, alternative to vaginal estrogens (VE), in menopausal women with GSM. PubMed, Scopus and Cochrane Library were searched (May-September 2017) using combination keywords: \"dyspareunia and vaginal therapy\", \"sexual function and vaginal therapy\", \"orgasm and vaginal therapy\", \"vaginal atrophy\" and \"genitourinary syndrome of menopause\". Eligible studies were RCTs focusing on the use of vaginal therapies, alternative to VE, in menopausal women. These studies were written in English language and published in peer-reviewed journals with impact factor. Assessment of risk of bias was performed using the Cochrane Risk of Bias Tool. Outcomes involved dyspareunia, vaginal dryness, orgasm and all parameters of sexual function. Twenty-nine RCTs including 3689 menopausal women, were included. Vaginal therapies, alternative to VE included non-hormonal (vaginal laser, lubricants/moisturizers, phytoestrogens and lidocaine) and hormonal ones (Dehyadroapiandrosterone (DHEA), testosterone and oxytocin). Dyspareunia and/or vaginal dryness were assessed in 72% of the articles, while the FSD and orgasm in 45% and 28% of articles, respectively. Dyspareunia and vaginal dryness improved in all relevant studies. Sexuality scores of lubricants were inferior to estrogens [3 studies, n = 138, standardized mean difference (smd) -0.64, (95%CI -1.1, -0.2)]. Orgasm domain was the same for the DHEA 0.5% and placebo (2 studies, n = 663, smd 1.29 (95% -0.47, 3.05), I<sup>2</sup>:90%). Sexual satisfaction and sexuality score were the same when testosterone was compared or added to estrogen therapy (2 studies, n = 99, smd 0.16 (95%CI-0.23,0.56), I<sup>2</sup>:12% and 2 studies (n = 87), smd 0.20 (95%CI-0.23,0.62), I<sup>2</sup>:0%, respectively. Available data are not adequate to provide counseling by the physicians in menopausal women regarding the efficacy of vaginal therapies as an alternative to estrogens, on all parameters of sexual function.",
+        "affiliation": "Urogynaecology Unit, 1st Department of Obstetrics and Gynecology, \"Alexandra\" Hospital, National and Kapodistrian University of Athens, Greece.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Meta-Analysis",
+            "Systematic Review",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Vaginal Diseases",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "TH",
+                    "qualifierName": "therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Sexual Dysfunction, Physiological",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "TH",
+                    "qualifierName": "therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Randomized Controlled Trials as Topic"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Testosterone",
+            "Hyaluronic acid",
+            "Isoflavones",
+            "Laser therapy",
+            "Dyspareunia",
+            "Female Sexual Dysfunction",
+            "Genitourinary Syndrome Of Menopause",
+            "Dehydroapiandros",
+            "Terone"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1016/j.ejogrb.2018.08.008"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 35,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2019-01-29",
+        "dateOfCreation": "2018-08-14",
+        "dateOfRevision": "2019-01-29",
+        "electronicPublicationDate": "2018-08-06",
+        "firstPublicationDate": "2018-08-06",
+        "firstIndexDate": "2018-08-14",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "28843942",
+        "source": "MED",
+        "pmid": "28843942",
+        "doi": "10.1016/j.sxmr.2017.07.003",
+        "title": "Sexual Function in Women Suffering From Genitourinary Syndrome of Menopause Treated With Fractionated CO<sub>2</sub> Laser.",
+        "authorString": "Salvatore S, Pitsouni E, Del Deo F, Parma M, Athanasiou S, Candiani M.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Salvatore S",
+              "lastName": "Salvatore",
+              "firstName": "Stefano",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Obstetrics and Gynecology Unit, Vita-Salute San Raffaele University and IRCCS San Raffaele Hospital, Milan, Italy. Electronic address: salvatore.stefano@hsr.it."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Pitsouni E",
+              "lastName": "Pitsouni",
+              "firstName": "Eleni",
+              "initials": "E",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "First Department of Obstetrics and Gynecology, Urogynecology Unit, National and Kapodistrian University of Athens, Athens, Greece."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Del Deo F",
+              "lastName": "Del Deo",
+              "firstName": "Fabio",
+              "initials": "F",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Obstetrics and Gynecology Unit, Vita-Salute San Raffaele University and IRCCS San Raffaele Hospital, Milan, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Parma M",
+              "lastName": "Parma",
+              "firstName": "Marta",
+              "initials": "M",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Obstetrics and Gynecology Unit, Vita-Salute San Raffaele University and IRCCS San Raffaele Hospital, Milan, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Athanasiou S",
+              "lastName": "Athanasiou",
+              "firstName": "Stavros",
+              "initials": "S",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-0005-0369"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "First Department of Obstetrics and Gynecology, Urogynecology Unit, National and Kapodistrian University of Athens, Athens, Greece."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Candiani M",
+              "lastName": "Candiani",
+              "firstName": "Massimo",
+              "initials": "M",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2129-2626"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Obstetrics and Gynecology Unit, Vita-Salute San Raffaele University and IRCCS San Raffaele Hospital, Milan, Italy."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0002-2129-2626"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-0005-0369"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "4",
+          "volume": "5",
+          "journalIssueId": 2600957,
+          "dateOfPublication": "2017 Oct",
+          "monthOfPublication": 10,
+          "yearOfPublication": 2017,
+          "journal": {
+            "medlineAbbreviation": "Sex Med Rev",
+            "title": "Sexual medicine reviews",
+            "essn": "2050-0521",
+            "issn": "2050-0513",
+            "nlmid": "101614773",
+            "isoabbreviation": "Sex Med Rev"
+          },
+          "printPublicationDate": "2017-10-01"
+        },
+        "pubYear": "2017",
+        "pageInfo": "486-494",
+        "abstractText": "<h4>Introduction</h4>Genitourinary syndrome of menopause (GSM) has a significant impact on the trophism of the genital and lower urinary tracts and can considerably impair sexual function. Fractional CO<sub>2</sub> laser has a regenerative effect on vulvovaginal tissue trophism after menopause.<h4>Aim</h4>To review the available literature on the effect of fractional CO<sub>2</sub> laser on the sexual function of postmenopausal women affected by GSM.<h4>Methods</h4>A database search was carried out using the terms CO<sub>2</sub>laser, vaginal atrophy, sexual function, dyspareunia, and genitourinary syndrome of menopause and excluding studies using other types of laser or including breast cancer survivors with vulvovaginal atrophy. For statistical analysis, the estimated overall laser effect was computed (when at least two studies were involved) and data type of generic inverse variance was computed using inverse variance as the statistical method, a random-effects model, and the difference in means as an effect measurement.<h4>Main outcome measures</h4>Different methods of evaluating sexual function were reported and studies were grouped and analyzed accordingly. Subjective assessment for dyspareunia was evaluated with a 10-point visual analog scale. Patient-reported outcome for an overall perception of sexual function was evaluated with a Likert scale. The Female Sexual Function Index was used as a condition-specific questionnaire.<h4>Results</h4>Six articles were considered for this review. A total of 273 women (mean age = 57.8 years) were treated with the same protocol in all studies. Compared with baseline, at the end of the treatment, dyspareunia significantly decreased in severity (P < .001), and the patient's perception of overall sexual function showed a statistically significant improvement (P < .001). At the last follow-up visit, the Female Sexual Function Index score for each single domain and overall score was significantly better than at entry (P < .001).<h4>Conclusion</h4>Fractional CO<sub>2</sub> laser can improve sexual function in postmenopausal women affected by GSM by restoring a better trophism in the lower genitourinary tract. Salvatore S, Pitsouni E, Del Deo F, et al. Sexual Function in Women Suffering From Genitourinary Syndrome of Menopause Treated With Fractionated CO<sub>2</sub>Laser. Sex Med Rev 2017;5:486-494.",
+        "affiliation": "Obstetrics and Gynecology Unit, Vita-Salute San Raffaele University and IRCCS San Raffaele Hospital, Milan, Italy. Electronic address: salvatore.stefano@hsr.it.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Review",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Dyspareunia",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ET",
+                    "qualifierName": "etiology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "SU",
+                    "qualifierName": "surgery"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Vaginal Diseases",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "SU",
+                    "qualifierName": "surgery"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Syndrome"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Sexual Dysfunction, Physiological",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ET",
+                    "qualifierName": "etiology"
+                  },
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "SU",
+                    "qualifierName": "surgery"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female Urogenital Diseases",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "SU",
+                    "qualifierName": "surgery"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Lasers, Gas"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Sexual function",
+            "Quality of life",
+            "Co(2) Laser",
+            "Genitourinary Syndrome Of Menopause"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1016/j.sxmr.2017.07.003"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 27,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2018-12-11",
+        "dateOfCreation": "2017-08-28",
+        "dateOfRevision": "2018-12-11",
+        "electronicPublicationDate": "2017-08-23",
+        "firstPublicationDate": "2017-08-23",
+        "firstIndexDate": "2017-08-28",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "33534429",
+        "source": "MED",
+        "pmid": "33534429",
+        "doi": "10.1097/gme.0000000000001738",
+        "title": "Patient-reported sexual function of breast cancer survivors with genitourinary syndrome of menopause after fractional CO2 laser therapy.",
+        "authorString": "Quick AM, Zvinovski F, Hudson C, Hundley A, Evans C, Stephens JA, Arthur E, Ramaswamy B, Reinbolt RE, Noonan AM, VanDeusen JB, Wesolowski R, Stover DG, Williams NO, Sardesai SD, Faubion SS, Loprinzi CL, Lustberg MB.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Quick AM",
+              "lastName": "Quick",
+              "firstName": "Allison M",
+              "initials": "AM",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zvinovski F",
+              "lastName": "Zvinovski",
+              "firstName": "Filadelfiya",
+              "initials": "F",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hudson C",
+              "lastName": "Hudson",
+              "firstName": "Catherine",
+              "initials": "C",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hundley A",
+              "lastName": "Hundley",
+              "firstName": "Andrew",
+              "initials": "A",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Evans C",
+              "lastName": "Evans",
+              "firstName": "Cynthia",
+              "initials": "C",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Stephens JA",
+              "lastName": "Stephens",
+              "firstName": "Julie A",
+              "initials": "JA",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Center for Biostatistics, Department of Biomedical Informatics, The Ohio State University College of Medicine, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Arthur E",
+              "lastName": "Arthur",
+              "firstName": "Elizabeth",
+              "initials": "E",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Ramaswamy B",
+              "lastName": "Ramaswamy",
+              "firstName": "Bhuvaneswari",
+              "initials": "B",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Reinbolt RE",
+              "lastName": "Reinbolt",
+              "firstName": "Raquel E",
+              "initials": "RE",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Noonan AM",
+              "lastName": "Noonan",
+              "firstName": "Anne M",
+              "initials": "AM",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "VanDeusen JB",
+              "lastName": "VanDeusen",
+              "firstName": "Jeffrey Bryan",
+              "initials": "JB",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-4171-5649"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Wesolowski R",
+              "lastName": "Wesolowski",
+              "firstName": "Robert",
+              "initials": "R",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Stover DG",
+              "lastName": "Stover",
+              "firstName": "Daniel G",
+              "initials": "DG",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Williams NO",
+              "lastName": "Williams",
+              "firstName": "Nicole Olivia",
+              "initials": "NO",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Sardesai SD",
+              "lastName": "Sardesai",
+              "firstName": "Sagar D",
+              "initials": "SD",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2688-0486"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Faubion SS",
+              "lastName": "Faubion",
+              "firstName": "Stephanie S",
+              "initials": "SS",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Mayo Clinic, Jacksonville, FL."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Loprinzi CL",
+              "lastName": "Loprinzi",
+              "firstName": "Charles L",
+              "initials": "CL",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Mayo Clinic, Rochester, MN."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lustberg MB",
+              "lastName": "Lustberg",
+              "firstName": "Maryam B",
+              "initials": "MB",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-8559-5645"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ohio State University Medical Center, Columbus, OH."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-8559-5645"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-2688-0486"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-4171-5649"
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "6",
+          "volume": "28",
+          "journalIssueId": 3173424,
+          "dateOfPublication": "2021 Feb",
+          "monthOfPublication": 2,
+          "yearOfPublication": 2021,
+          "journal": {
+            "medlineAbbreviation": "Menopause",
+            "title": "Menopause (New York, N.Y.)",
+            "essn": "1530-0374",
+            "issn": "1072-3714",
+            "nlmid": "9433353",
+            "isoabbreviation": "Menopause"
+          },
+          "printPublicationDate": "2021-02-01"
+        },
+        "pubYear": "2021",
+        "pageInfo": "642-649",
+        "abstractText": "<h4>Objective</h4>The objective of this pilot study was to evaluate the change in sexual function following treatment with fractional CO2 laser therapy in breast cancer (BC) survivors with genitourinary syndrome of menopause (GSM).<h4>Methods</h4>A single-arm feasibility study of BC survivors with symptoms of GSM, including dyspareunia and/or vaginal dryness, was conducted. Participants who received three treatments with fractional CO2 laser and 4-week follow-up were contacted for patient-reported outcomes and adverse events at 12 months. Sexual function was measured using the Female Sexual Function Index (FSFI) and Female Sexual Distress Scale Revised (FSDS-R). Descriptive statistics were calculated for patient demographics and disease characteristics for the set of participants who agreed to long-term follow-up and those who were lost to follow-up. FSFI and FSDS-R scores were summarized at baseline, 4 weeks and 12 months, as well as the change from baseline, and were compared using a Wilcoxon signed rank test.<h4>Results</h4>A total of 67 BC survivors enrolled, 59 completed treatments and 4-week follow-up; 39 participated in the 12 month follow-up. The overall FSFI score improved from baseline to 4-week follow-up (median Δ 8.8 [Q1, Q3] (QS) (2.2, 16.7)], P < 0.001). There were improvements at 4 weeks in all domains of the FSFI (P < 0.001 for each) including desire (median Δ 1.2; QS [0.6, 1.8]), arousal (median Δ 1.2; QS [0.3, 2.7]), lubrication (median Δ 1.8 (0, 3.3), orgasm (median Δ 1.2; QS [0, 3.6]), satisfaction (median Δ 1.6 (0.4, 3.2)), and pain (median Δ 1.6 (0, 3.6). The FSDS-R score also improved from baseline to 4-week follow-up (median Δ -10.0; QS [-16, -5] P < 0.001) indicating less sexually related distress. The scores of the FSFI and FSDS-R remained improved at 12 months and there were no serious adverse events reported.<h4>Conclusions</h4>In BC survivors with GSM, the total and individual domain scores of the FSFI and the FSDS-R improved after fractional CO2 laser therapy.",
+        "affiliation": "The Ohio State University Medical Center, Columbus, OH.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Breast Neoplasms",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "RT",
+                    "qualifierName": "radiotherapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Syndrome"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Carbon Dioxide"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Pilot Projects"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Female Urogenital Diseases",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ET",
+                    "qualifierName": "etiology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "SU",
+                    "qualifierName": "surgery"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Laser Therapy"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Lasers, Gas",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "TU",
+                    "qualifierName": "therapeutic use"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Patient Reported Outcome Measures"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Cancer Survivors"
+            }
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Carbon Dioxide",
+              "registryNumber": "142M471B3J"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1097/GME.0000000000001738"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 24,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2021-05-24",
+        "dateOfCreation": "2021-02-03",
+        "dateOfRevision": "2023-08-14",
+        "electronicPublicationDate": "2021-02-01",
+        "firstPublicationDate": "2021-02-01",
+        "firstIndexDate": "2021-02-04",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "32802290",
+        "source": "MED",
+        "pmid": "32802290",
+        "pmcid": "PMC7369558",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC7369558"
+          ]
+        },
+        "doi": "10.34172/jlms.2020.49",
+        "title": "The Effect of the CO<sub>2</sub> Fractional Laser or Premarin Vaginal Cream on Improving Sexual Function in Menopausal Women: A Randomized Controlled Trial.",
+        "authorString": "Eftekhar T, Forooghifar T, Khalili T, Shariat M, Haghollahi F.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Eftekhar T",
+              "lastName": "Eftekhar",
+              "firstName": "Tahereh",
+              "initials": "T",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Associate Professor, Vali-Asr Reproductive Health Research Center, Tehran University of Medical Sciences, Tehran, Iran."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Forooghifar T",
+              "lastName": "Forooghifar",
+              "firstName": "Tahereh",
+              "initials": "T",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Urogynecology Fellowship, Baharloo Hospital, Department of Pelvic Floor (Urogynecology), Tehran University of Medical Sciences, Tehran, Iran."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Khalili T",
+              "lastName": "Khalili",
+              "firstName": "Tahereh",
+              "initials": "T",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "M.D, Vali-Asr Reproductive Health Research Center, Tehran University of Medical Sciences, Tehran, Iran."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Shariat M",
+              "lastName": "Shariat",
+              "firstName": "Mamak",
+              "initials": "M",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Professor, Maternal, Fetal & Neonatal Research Center, Tehran University of Medical Sciences, Tehran, Iran."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Haghollahi F",
+              "lastName": "Haghollahi",
+              "firstName": "Fedyeh",
+              "initials": "F",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "MSC, Vali-Asr Reproductive Health Research Center, Tehran University of Medical Sciences, Tehran, Iran."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0003-4726-206X"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "3",
+          "volume": "11",
+          "journalIssueId": 2996623,
+          "dateOfPublication": "2020 ",
+          "monthOfPublication": 0,
+          "yearOfPublication": 2020,
+          "journal": {
+            "medlineAbbreviation": "J Lasers Med Sci",
+            "title": "Journal of lasers in medical sciences",
+            "essn": "2228-6721",
+            "issn": "2008-9783",
+            "nlmid": "101580415",
+            "isoabbreviation": "J Lasers Med Sci"
+          },
+          "printPublicationDate": "2020-01-01"
+        },
+        "pubYear": "2020",
+        "pageInfo": "292-298",
+        "abstractText": "<b>Introduction:</b> Sexual dysfunction is a complex problem in postmenopausal women with a prevalence rate of 68%-86%. This study aimed to evaluate the effect of a fractional CO<sub>2</sub> laser or vaginal cream on the improvement of sexual function in menopausal women. <b>Methods:</b> This is a two-group clinical trial study. Postmenopausal women with the inclusion criterion were enrolled and randomly divided into 2 groups of intervention (n=25) and control group (n=25). In the intervention group, CO<sub>2</sub> laser therapy was performed every month for three months, and in the control group, Premarin vaginal cream was applied (0.625 mg, 3 nights a week for 3 months. Vaginal health index (VHI) scoring and Female Sexual Function Index (FSFI) questionnaires were completed before and three months after the treatment. <b>Results:</b> The effects of the laser treatment were greater than the Premarin group with respect to improvement in sexual desire, orgasms, sexual satisfaction, less pain during sexual relations, and overall sexual function (<i>P</i> <0.05). <b>Conclusion:</b> It seems that the fractional CO<sub>2</sub> laser may be more effective than hormonal therapy in improving sexual function in postmenopausal women.",
+        "affiliation": "Associate Professor, Vali-Asr Reproductive Health Research Center, Tehran University of Medical Sciences, Tehran, Iran.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Journal Article"
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "menopause",
+            "Co2 Laser",
+            "Premarin",
+            "Sexual Function Index"
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Unpaywall",
+              "url": "https://journals.sbmu.ac.ir/jlms/article/download/26797/pdf"
+            },
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.34172/jlms.2020.49"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC7369558"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC7369558?pdf=render"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.34172/jlms.2020.49"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 17,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "Y",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCreation": "2020-08-18",
+        "dateOfRevision": "2020-09-28",
+        "electronicPublicationDate": "2020-06-21",
+        "firstPublicationDate": "2020-06-21",
+        "firstIndexDate": "2020-08-18",
+        "fullTextReceivedDate": "2025-02-03",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "32458469",
+        "source": "MED",
+        "pmid": "32458469",
+        "doi": "10.1002/lsm.23263",
+        "title": "The Efficacy and Safety of CO<sub>2</sub> Laser Treatment for Sexual Function and Vaginal Laxity Improvement in Pre-Menopausal Women.",
+        "authorString": "Lauterbach R, Dabaja H, Matanes E, Gruenwald I, Lowenstein L.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Lauterbach R",
+              "lastName": "Lauterbach",
+              "firstName": "Roy",
+              "initials": "R",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1598-3586"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Obstetrics and Gynecology, Rambam Health Care Campus, and Ruth and Bruce Rappaport Faculty of Medicine, Hàalia Hàshnia 8, Technion, Haifa, 3109601, Israel."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Dabaja H",
+              "lastName": "Dabaja",
+              "firstName": "Hanin",
+              "initials": "H",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Obstetrics and Gynecology, Rambam Health Care Campus, and Ruth and Bruce Rappaport Faculty of Medicine, Hàalia Hàshnia 8, Technion, Haifa, 3109601, Israel."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Matanes E",
+              "lastName": "Matanes",
+              "firstName": "Emad",
+              "initials": "E",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Obstetrics and Gynecology, Rambam Health Care Campus, and Ruth and Bruce Rappaport Faculty of Medicine, Hàalia Hàshnia 8, Technion, Haifa, 3109601, Israel."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Gruenwald I",
+              "lastName": "Gruenwald",
+              "firstName": "Ilan",
+              "initials": "I",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Neuro-Urology, Rambam Health Care Campus, and Ruth and Bruce Rappaport Faculty of Medicine, Hàalia Hàshnia 8, Technion, Haifa, 3109601, Israel."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lowenstein L",
+              "lastName": "Lowenstein",
+              "firstName": "Lior",
+              "initials": "L",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Obstetrics and Gynecology, Rambam Health Care Campus, and Ruth and Bruce Rappaport Faculty of Medicine, Hàalia Hàshnia 8, Technion, Haifa, 3109601, Israel."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0002-1598-3586"
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "2",
+          "volume": "53",
+          "journalIssueId": 3115448,
+          "dateOfPublication": "2021 Feb",
+          "monthOfPublication": 2,
+          "yearOfPublication": 2021,
+          "journal": {
+            "medlineAbbreviation": "Lasers Surg Med",
+            "title": "Lasers in surgery and medicine",
+            "essn": "1096-9101",
+            "issn": "0196-8092",
+            "nlmid": "8007168",
+            "isoabbreviation": "Lasers Surg Med"
+          },
+          "printPublicationDate": "2021-02-01"
+        },
+        "pubYear": "2021",
+        "pageInfo": "199-203",
+        "abstractText": "<h4>Background and objectives</h4>Vaginal laxity lacks standardized diagnosis and severity criteria. It is considered as a subjective complaint that reflects decreased sexual satisfaction due to vaginal loosening. Treatment modalities have included physiotherapy and plastic surgery. Recently, laser treatments have also gained popularity as a means of relieving gynecological complaints such as pelvic organ prolapse, stress urinary incontinence, and genitourinary syndrome of menopause. The aim of the current study was to evaluate the efficacy of CO<sub>2</sub> laser treatment in women for whom a decrease in sexual sensation during intercourse and vaginal loosening were their primary complaints.<h4>Study design/materials and methods</h4>For this prospective study, women with reported vaginal laxity and decreased sensation during intercourse were recruited from the Sexual Dysfunction Clinic in our health care campus. Each participant received three outpatient treatments with laser therapy, according to the same protocol. Treatment efficacy was assessed by changes in the Vaginal Health Index (VHI) and Female Sexual Function Index (FSFI).<h4>Results</h4>Overall, 84 pre-menopause women, with a mean age of 47.7 years, were included in the study. Mean VHI and FSFI were increased significantly at 3 months post-treatment and decreased again at 6 months post-treatment: 11.8 ± 1.6, 13.5 ± 1.1, and 11.8 ± 1.2, respectively, P = 0.013; and 21.3 ± 1.7, 29.9 ± 1.6, and 22.5 ± 1.8, respectively, P = 0.022. The rate of sexual intercourse doubled during the period of maximal treatment effect (P < 0.0001).<h4>Conclusions</h4>CO<sub>2</sub> laser treatment has both a statistically and clinically significant effect on participants' complaints and sex-life, which wanes by 6 months post-treatment. Laser therapy seems to be safe in the short term, with no serious adverse events reported in the current study. Further studies are warranted to determine the long-term safety and the efficacy of maintenance laser treatments. Lasers Surg. Med. © 2020 Wiley Periodicals LLC.",
+        "affiliation": "Department of Obstetrics and Gynecology, Rambam Health Care Campus, and Ruth and Bruce Rappaport Faculty of Medicine, Hàalia Hàshnia 8, Technion, Haifa, 3109601, Israel.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Journal Article",
+            "Case Reports"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Vagina",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "SU",
+                    "qualifierName": "surgery"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Carbon Dioxide"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Prospective Studies"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Premenopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Lasers, Gas",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "TU",
+                    "qualifierName": "therapeutic use"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Safety",
+            "Sensation",
+            "efficacy",
+            "Co2 Laser",
+            "Vaginal Laxity"
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Carbon Dioxide",
+              "registryNumber": "142M471B3J"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1002/lsm.23263"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 16,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2021-10-28",
+        "dateOfCreation": "2020-05-28",
+        "dateOfRevision": "2021-10-28",
+        "electronicPublicationDate": "2020-05-26",
+        "firstPublicationDate": "2020-05-26",
+        "firstIndexDate": "2020-05-28",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "40743861",
+        "source": "MED",
+        "pmid": "40743861",
+        "doi": "10.1016/j.maturitas.2025.108681",
+        "title": "Sexual function after menopause: the role of vaginal estrogens.",
+        "authorString": "Cucinella L, Cassani C, Martini E, Parrotta GE, Monne G, Colombo GM, Morteo V, Nappi RE.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Cucinella L",
+              "lastName": "Cucinella",
+              "firstName": "Laura",
+              "initials": "L",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, 27100 Pavia, Italy; Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. Matteo Foundation, 27100 Pavia, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Cassani C",
+              "lastName": "Cassani",
+              "firstName": "Chiara",
+              "initials": "C",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, 27100 Pavia, Italy; Unit of Obstetrics and Gynecology, IRCCS S. Matteo Foundation, 27100 Pavia, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Martini E",
+              "lastName": "Martini",
+              "firstName": "Ellis",
+              "initials": "E",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. Matteo Foundation, 27100 Pavia, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Parrotta GE",
+              "lastName": "Parrotta",
+              "firstName": "Giorgia E",
+              "initials": "GE",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, 27100 Pavia, Italy; Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. Matteo Foundation, 27100 Pavia, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Monne G",
+              "lastName": "Monne",
+              "firstName": "Greta",
+              "initials": "G",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, 27100 Pavia, Italy; Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. Matteo Foundation, 27100 Pavia, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Colombo GM",
+              "lastName": "Colombo",
+              "firstName": "Giulia M",
+              "initials": "GM",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, 27100 Pavia, Italy; Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. Matteo Foundation, 27100 Pavia, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Morteo V",
+              "lastName": "Morteo",
+              "firstName": "Vittoria",
+              "initials": "V",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, 27100 Pavia, Italy; Unit of Obstetrics and Gynecology, IRCCS S. Matteo Foundation, 27100 Pavia, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Nappi RE",
+              "lastName": "Nappi",
+              "firstName": "Rossella E",
+              "initials": "RE",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, 27100 Pavia, Italy; Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. Matteo Foundation, 27100 Pavia, Italy. Electronic address: nappi@rossellanappi.com."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "volume": "200",
+          "journalIssueId": 4003520,
+          "dateOfPublication": "2025 Sep",
+          "monthOfPublication": 9,
+          "yearOfPublication": 2025,
+          "journal": {
+            "medlineAbbreviation": "Maturitas",
+            "title": "Maturitas",
+            "essn": "1873-4111",
+            "issn": "0378-5122",
+            "nlmid": "7807333",
+            "isoabbreviation": "Maturitas"
+          },
+          "printPublicationDate": "2025-09-01"
+        },
+        "pubYear": "2025",
+        "pageInfo": "108681",
+        "abstractText": "Sexual health and well-being are challenged by the biopsychosocial changes associated with menopause. Local estrogen therapy (LET) represents the mainstay of managing genitourinary syndrome of menopause (GSM). However, most studies have investigated the role of LET on signs and symptoms of vulvovaginal atrophy (VVA) without fully capturing the sexual cluster of symptoms that makes women vulnerable to sexual dysfunction. The present review summarizes studies that have reported the impact of LET on sexual function and its domains (desire, arousal, lubrication, orgasm, pain, and satisfaction). Different formulations (tablet, soft gel inserts, vaginal ring, cream and gel) of estradiol and conjugated equine estrogens at low or ultra-low doses have been investigated. Most evidence supports a positive effect of LET on dyspareunia, while there is less information on the overall sexual experience in healthy postmenopausal women and in those with breast cancer. Importantly, LET has been considered as a class of drugs, with few studies addressing effects of different products on specific symptoms of the GSM constellation to provide evidence for a tailored treatment choice. It appears that GSM management at menopause is a priority to maintain sexual longevity. LET is part of the multifaceted approach to address women's needs and expectations. An evidence-based standard of care is warranted for the use of LET in the management of sexual dysfunction associated with menopause.",
+        "affiliation": "Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, 27100 Pavia, Italy; Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. Matteo Foundation, 27100 Pavia, Italy.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Review",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Vagina",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DE",
+                    "qualifierName": "drug effects"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PA",
+                    "qualifierName": "pathology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Vulva",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PA",
+                    "qualifierName": "pathology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Dyspareunia",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DT",
+                    "qualifierName": "drug therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Atrophy",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DT",
+                    "qualifierName": "drug therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Estrogens",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "AD",
+                    "qualifierName": "administration & dosage"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "TU",
+                    "qualifierName": "therapeutic use"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Estrogen Replacement Therapy"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Administration, Intravaginal"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Postmenopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Sexual Dysfunction, Physiological",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DT",
+                    "qualifierName": "drug therapy"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ET",
+                    "qualifierName": "etiology"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Breast cancer",
+            "Dyspareunia",
+            "Female Sexual Dysfunction",
+            "Vulvovaginal Atrophy",
+            "Local Estrogen Therapy",
+            "Genitourinary Syndrome Of Menopause"
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Estrogens",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1016/j.maturitas.2025.108681"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 2,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2025-08-28",
+        "dateOfCreation": "2025-07-31",
+        "dateOfRevision": "2025-08-28",
+        "electronicPublicationDate": "2025-07-26",
+        "firstPublicationDate": "2025-07-26",
+        "firstIndexDate": "2025-08-01",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "39057528",
+        "source": "MED",
+        "pmid": "39057528",
+        "pmcid": "PMC11275429",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC11275429"
+          ]
+        },
+        "doi": "10.3390/healthcare12141385",
+        "title": "Multifaceted Impact of CO<sub>2</sub> Laser Therapy on Genitourinary Syndrome of Menopause, Vulvovaginal Atrophy and Sexual Function.",
+        "authorString": "Jankovic S, Rovcanin M, Zamurovic M, Jovanovic B, Raicevic T, Tomic A.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Jankovic S",
+              "lastName": "Jankovic",
+              "firstName": "Svetlana",
+              "initials": "S",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-9623-2994"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinic for Gynecology and Obstetrics, Narodni Front, Kraljice Natalije 62, 11000 Belgrade, Serbia."
+                  },
+                  {
+                    "affiliation": "Faculty of Medicine, University of Belgrade, Dr Subotica Starijeg 8, 11000 Belgrade, Serbia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Rovcanin M",
+              "lastName": "Rovcanin",
+              "firstName": "Marija",
+              "initials": "M",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0003-3275-0885"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinic for Gynecology and Obstetrics, Narodni Front, Kraljice Natalije 62, 11000 Belgrade, Serbia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zamurovic M",
+              "lastName": "Zamurovic",
+              "firstName": "Milena",
+              "initials": "M",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0005-5850-453X"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinic for Gynecology and Obstetrics, Narodni Front, Kraljice Natalije 62, 11000 Belgrade, Serbia."
+                  },
+                  {
+                    "affiliation": "Faculty of Medicine, University of Belgrade, Dr Subotica Starijeg 8, 11000 Belgrade, Serbia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Jovanovic B",
+              "lastName": "Jovanovic",
+              "firstName": "Branka",
+              "initials": "B",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinic for Gynecology and Obstetrics, Narodni Front, Kraljice Natalije 62, 11000 Belgrade, Serbia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Raicevic T",
+              "lastName": "Raicevic",
+              "firstName": "Tatjana",
+              "initials": "T",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Clinic for Gynecology and Obstetrics, Narodni Front, Kraljice Natalije 62, 11000 Belgrade, Serbia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Tomic A",
+              "lastName": "Tomic",
+              "firstName": "Ana",
+              "initials": "A",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0003-4212-0182"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Center for Radiology and Magnetic Resonance Imaging, University Clinical Center of Serbia, 11000 Belgrade, Serbia."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0002-9623-2994"
+            },
+            {
+              "type": "ORCID",
+              "value": "0009-0003-3275-0885"
+            },
+            {
+              "type": "ORCID",
+              "value": "0009-0003-4212-0182"
+            },
+            {
+              "type": "ORCID",
+              "value": "0009-0005-5850-453X"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "14",
+          "volume": "12",
+          "journalIssueId": 3804800,
+          "dateOfPublication": "2024 Jul",
+          "monthOfPublication": 7,
+          "yearOfPublication": 2024,
+          "journal": {
+            "medlineAbbreviation": "Healthcare (Basel)",
+            "title": "Healthcare (Basel, Switzerland)",
+            "essn": "2227-9032",
+            "issn": "2227-9032",
+            "nlmid": "101666525",
+            "isoabbreviation": "Healthcare (Basel)"
+          },
+          "printPublicationDate": "2024-07-01"
+        },
+        "pubYear": "2024",
+        "pageInfo": "1385",
+        "abstractText": "Genitourinary syndrome of menopause (GSM) encompasses a range of distressing symptoms in the vulvovaginal and/or bladder-urethral regions related to menopause changes, negatively influencing woman's quality of life and sexual activity. Fractional micro-ablative CO<sub>2</sub> laser therapy has shown the potential to reinstate the vaginal epithelium to a condition akin to the premenopausal state, thereby ameliorating the subjective symptoms associated with GSM. We conducted a prospective, pilot study in 73 sexually active postmenopausal women treated with CO<sub>2</sub> laser for their GSM symptoms, while assessing Vaginal Health Index Score (VHIS) and sexual function through the Female Sexual Function Index (FSFI) Questionnaire. The laser treatment resulted in a decrease in VHIS and patient-reported vulvovaginal atrophy (VVA) symptoms, with a significantly lower prevalence of vaginal itching, dryness, and burning (<i>p</i> < 0.001), as well as dyspareunia (<i>p</i> = 0.002). The occurrence of urinary incontinence, urgency, and vaginal heaviness significantly reduced, with an improvement in the staging of cystocele, either to Stage 1 or complete resolution (<i>p</i> < 0.001). FSFI total and domain scores were significantly higher after the treatment, indicating better sexual function, with a post-treatment score median of 25 (<i>p</i> < 0.001). Therefore, using a three-cycle fractional CO<sub>2</sub> laser was an effective choice for reducing urogenital discomfort related to GSM in postmenopausal women.",
+        "affiliation": "Clinic for Gynecology and Obstetrics, Narodni Front, Kraljice Natalije 62, 11000 Belgrade, Serbia.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Journal Article"
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "menopause",
+            "Fractional Co2 Laser",
+            "Female Sexual Health",
+            "Genitourinary Syndrome"
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.3390/healthcare12141385"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC11275429"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC11275429?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 2,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCreation": "2024-07-26",
+        "dateOfRevision": "2024-07-28",
+        "electronicPublicationDate": "2024-07-11",
+        "firstPublicationDate": "2024-07-11",
+        "firstIndexDate": "2024-07-26",
+        "fullTextReceivedDate": "2025-02-04",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "40329963",
+        "source": "MED",
+        "pmid": "40329963",
+        "pmcid": "PMC12053603",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12053603"
+          ]
+        },
+        "doi": "10.1016/j.xagr.2025.100485",
+        "title": "Healthcare professionals' experiences of discussing sexual function with menopausal women using a vaginal pessary.",
+        "authorString": "Quinlan M, Olagundoye V.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Quinlan M",
+              "lastName": "Quinlan",
+              "firstName": "Monica",
+              "initials": "M",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Urogynecology Department, Birmingham City Hospital, Birmingham, United Kingdom."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Olagundoye V",
+              "lastName": "Olagundoye",
+              "firstName": "Victor",
+              "initials": "V",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-3176-5714"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Urogynecology Department, Birmingham City Hospital, Birmingham, United Kingdom."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0002-3176-5714"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "2",
+          "volume": "5",
+          "journalIssueId": 3918916,
+          "dateOfPublication": "2025 May",
+          "monthOfPublication": 5,
+          "yearOfPublication": 2025,
+          "journal": {
+            "medlineAbbreviation": "AJOG Glob Rep",
+            "title": "AJOG global reports",
+            "essn": "2666-5778",
+            "issn": "2666-5778",
+            "nlmid": "101777907",
+            "isoabbreviation": "AJOG Glob Rep"
+          },
+          "printPublicationDate": "2025-05-01"
+        },
+        "pubYear": "2025",
+        "pageInfo": "100485",
+        "abstractText": "<h4>Background</h4>Pelvic organ prolapse is a common condition with high prevalence among postmenopausal women, many of whom are sexually active. A vaginal pessary is an effective, nonsurgical treatment alternative for well-selected, motivated patients and those unfit for surgical management. Open discussion on sexual function is a crucial part of counseling in these women to ensure that they are fitted with the most appropriate pessary and minimize complications.<h4>Objective</h4>This study aimed to explore healthcare professionals' experiences of discussing sexual function with postmenopausal women with pelvic organ prolapse receiving vaginal pessary management in a urogynecology clinic.<h4>Study design</h4>Semistructured, in-depth qualitative interviews were conducted in a tertiary university teaching hospital in England with an established urogynecology department. The sample comprised 10 volunteers (7 female and 3 male, consisting of 3 consultants, 1 advanced nurse practitioner, 2 clinical nurse specialists, and 4 specialist registrars). All volunteers were experienced in managing women with prolapse, including inserting and removing vaginal pessaries and discussing sexual intercourse and intimacy.<h4>Results</h4>Postmenopausal women were found to be reluctant and embarrassed to engage in open discussion on sexual intimacy, which can be improved by building trust. Being seen by female healthcare professionals, having a female chaperone, and using appropriate interpreters (in cases of language barriers) significantly improved women's willingness to discuss sexual issues.<h4>Conclusion</h4>The study demonstrated that postmenopausal women found it difficult and were hesitant and embarrassed to openly discuss sexual issues, which is important in choosing the most suitable vaginal pessary. This problem can be alleviated by building trust between healthcare professionals and patients, by healthcare professionals remaining sensitive to patients' ethnic and cultural backgrounds, and by respecting women's choice of healthcare professional.",
+        "affiliation": "Urogynecology Department, Birmingham City Hospital, Birmingham, United Kingdom.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic-eCollection",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Journal Article"
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Sexual dysfunction",
+            "Pelvic Organ Prolapse",
+            "Postmenopausal Women",
+            "Vaginal Pessary",
+            "Sexual Intimacy"
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1016/j.xagr.2025.100485"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC12053603"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC12053603?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "Y",
+        "license": "cc by-nc-nd",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCreation": "2025-05-07",
+        "dateOfRevision": "2025-05-09",
+        "electronicPublicationDate": "2025-03-27",
+        "firstPublicationDate": "2025-03-27",
+        "firstIndexDate": "2025-05-07",
+        "fullTextReceivedDate": "2025-12-04",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

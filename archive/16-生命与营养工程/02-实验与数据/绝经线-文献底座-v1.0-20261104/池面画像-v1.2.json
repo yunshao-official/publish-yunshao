@@ -1,0 +1,567 @@
+{
+ "池1池2": 554,
+ "待裁决": 166,
+ "每模块前三高被引": {
+  "M01": [
+   {
+    "PMID": "18332882",
+    "年份": 2008,
+    "被引": 748,
+    "刊": "Int J Obes (Lond)",
+    "标题": "Increased visceral fat and decreased energy expenditure during the menopausal transition.",
+    "池": 1
+   },
+   {
+    "PMID": "16735636",
+    "年份": 2006,
+    "被引": 654,
+    "刊": "Am J Public Health",
+    "标题": "Longitudinal analysis of the association between vasomotor symptoms and race/ethnicity across the me",
+    "池": 1
+   },
+   {
+    "PMID": "11323317",
+    "年份": 2001,
+    "被引": 594,
+    "刊": "Am J Epidemiol",
+    "标题": "Factors associated with age at natural menopause in a multiethnic sample of midlife women.",
+    "池": 1
+   }
+  ],
+  "M02": [
+   {
+    "PMID": "18239123",
+    "年份": 2008,
+    "被引": 654,
+    "刊": "Science",
+    "标题": "Oocyte-specific deletion of Pten causes premature activation of the primordial follicle pool.",
+    "池": 1
+   },
+   {
+    "PMID": "12456604",
+    "年份": 2002,
+    "被引": 653,
+    "刊": "Hum Reprod",
+    "标题": "Serum anti-Müllerian hormone levels: a novel measure of ovarian reserve.",
+    "池": 1
+   },
+   {
+    "PMID": "24821925",
+    "年份": 2014,
+    "被引": 471,
+    "刊": "Hum Reprod Update",
+    "标题": "Anti-Müllerian hormone: ovarian reserve testing and its potential clinical implications.",
+    "池": 1
+   }
+  ],
+  "M03": [
+   {
+    "PMID": "3012369",
+    "年份": 1986,
+    "被引": 707,
+    "刊": "Nature",
+    "标题": "Purification and characterization of an FSH releasing protein from porcine ovarian follicular fluid.",
+    "池": 1
+   },
+   {
+    "PMID": "27028912",
+    "年份": 2016,
+    "被引": 554,
+    "刊": "N Engl J Med",
+    "标题": "Vascular Effects of Early versus Late Postmenopausal Treatment with Estradiol.",
+    "池": 1
+   },
+   {
+    "PMID": "12571168",
+    "年份": 2003,
+    "被引": 417,
+    "刊": "Hum Reprod",
+    "标题": "Serum anti-Müllerian hormone is more strongly related to ovarian follicular status than serum inhibi",
+    "池": 1
+   }
+  ],
+  "M04": [
+   {
+    "PMID": "25686030",
+    "年份": 2015,
+    "被引": 682,
+    "刊": "JAMA Intern Med",
+    "标题": "Duration of menopausal vasomotor symptoms over the menopause transition.",
+    "池": 1
+   },
+   {
+    "PMID": "11731510",
+    "年份": 2001,
+    "被引": 366,
+    "刊": "J Clin Oncol",
+    "标题": "Methodologic lessons learned from hot flash studies.",
+    "池": 1
+   },
+   {
+    "PMID": "21961716",
+    "年份": 2011,
+    "被引": 314,
+    "刊": "Obstet Gynecol Clin North Am",
+    "标题": "Vasomotor symptoms and menopause: findings from the Study of Women's Health across the Nation.",
+    "池": 1
+   }
+  ],
+  "M05": [
+   {
+    "PMID": "25160739",
+    "年份": 2014,
+    "被引": 425,
+    "刊": "Menopause",
+    "标题": "Genitourinary syndrome of menopause: new terminology for vulvovaginal atrophy from the International",
+    "池": 1
+   },
+   {
+    "PMID": "23985562",
+    "年份": 2013,
+    "被引": 402,
+    "刊": "Menopause",
+    "标题": "Management of symptomatic vulvovaginal atrophy: 2013 position statement of The North American Menopa",
+    "池": 1
+   },
+   {
+    "PMID": "20042564",
+    "年份": 2010,
+    "被引": 333,
+    "刊": "Mayo Clin Proc",
+    "标题": "Vulvovaginal atrophy.",
+    "池": 1
+   }
+  ],
+  "M06": [
+   {
+    "PMID": "7696835",
+    "年份": 1994,
+    "被引": 1726,
+    "刊": "Osteoporos Int",
+    "标题": "Assessment of fracture risk and its application to screening for postmenopausal osteoporosis: synops",
+    "池": 1
+   },
+   {
+    "PMID": "17476007",
+    "年份": 2007,
+    "被引": 1638,
+    "刊": "N Engl J Med",
+    "标题": "Once-yearly zoledronic acid for treatment of postmenopausal osteoporosis.",
+    "池": 1
+   },
+   {
+    "PMID": "10527181",
+    "年份": 1999,
+    "被引": 1557,
+    "刊": "JAMA",
+    "标题": "Effects of risedronate treatment on vertebral and nonvertebral fractures in women with postmenopausa",
+    "池": 1
+   }
+  ],
+  "M07": [
+   {
+    "PMID": "17405972",
+    "年份": 2007,
+    "被引": 1120,
+    "刊": "JAMA",
+    "标题": "Postmenopausal hormone therapy and risk of cardiovascular disease by age and years since menopause.",
+    "池": 1
+   },
+   {
+    "PMID": "12788835",
+    "年份": 2003,
+    "被引": 946,
+    "刊": "J Clin Endocrinol Metab",
+    "标题": "The emergence of the metabolic syndrome with menopause.",
+    "池": 1
+   },
+   {
+    "PMID": "970770",
+    "年份": 1976,
+    "被引": 927,
+    "刊": "Ann Intern Med",
+    "标题": "Menopause and risk of cardiovascular disease: the Framingham study.",
+    "池": 1
+   }
+  ],
+  "M08": [
+   {
+    "PMID": "8709781",
+    "年份": 1996,
+    "被引": 1071,
+    "刊": "Lancet",
+    "标题": "Effect of oestrogen during menopause on risk and age at onset of Alzheimer's disease.",
+    "池": 1
+   },
+   {
+    "PMID": "17761551",
+    "年份": 2007,
+    "被引": 613,
+    "刊": "Neurology",
+    "标题": "Increased risk of cognitive impairment or dementia in women who underwent oophorectomy before menopa",
+    "池": 1
+   },
+   {
+    "PMID": "3067252",
+    "年份": 1988,
+    "被引": 461,
+    "刊": "Psychoneuroendocrinology",
+    "标题": "Estrogen and/or androgen replacement therapy and cognitive functioning in surgically menopausal wome",
+    "池": null
+   }
+  ],
+  "M09": [
+   {
+    "PMID": "16585466",
+    "年份": 2006,
+    "被引": 567,
+    "刊": "Arch Gen Psychiatry",
+    "标题": "Associations of hormones and menopausal status with depressed mood in women with no history of depre",
+    "池": 1
+   },
+   {
+    "PMID": "14706945",
+    "年份": 2004,
+    "被引": 413,
+    "刊": "Arch Gen Psychiatry",
+    "标题": "Hormones and menopausal status as predictors of depression in women in transition to menopause.",
+    "池": 1
+   },
+   {
+    "PMID": "12646300",
+    "年份": 2003,
+    "被引": 363,
+    "刊": "J Affect Disord",
+    "标题": "Hormones and mood: from menarche to menopause and beyond.",
+    "池": 1
+   }
+  ],
+  "M10": [
+   {
+    "PMID": "12117397",
+    "年份": 2002,
+    "被引": 10248,
+    "刊": "JAMA",
+    "标题": "Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results Fro",
+    "池": 1
+   },
+   {
+    "PMID": "9718051",
+    "年份": 1998,
+    "被引": 3702,
+    "刊": "JAMA",
+    "标题": "Randomized trial of estrogen plus progestin for secondary prevention of coronary heart disease in po",
+    "池": 1
+   },
+   {
+    "PMID": "15082697",
+    "年份": 2004,
+    "被引": 2914,
+    "刊": "JAMA",
+    "标题": "Effects of conjugated equine estrogen in postmenopausal women with hysterectomy: the Women's Health ",
+    "池": 1
+   }
+  ],
+  "M11": [
+   {
+    "PMID": "14519707",
+    "年份": 2003,
+    "被引": 757,
+    "刊": "JAMA",
+    "标题": "Effects of estrogen plus progestin on risk of fracture and bone mineral density: the Women's Health ",
+    "池": 1
+   },
+   {
+    "PMID": "26182172",
+    "年份": 2015,
+    "被引": 485,
+    "刊": "JAMA Oncol",
+    "标题": "Overweight, Obesity, and Postmenopausal Invasive Breast Cancer Risk: A Secondary Analysis of the Wom",
+    "池": 1
+   },
+   {
+    "PMID": "16467232",
+    "年份": 2006,
+    "被引": 470,
+    "刊": "JAMA",
+    "标题": "Low-fat dietary pattern and risk of invasive breast cancer: the Women's Health Initiative Randomized",
+    "池": 1
+   }
+  ],
+  "M12": [
+   {
+    "PMID": "26054060",
+    "年份": 2015,
+    "被引": 698,
+    "刊": "Ann Intern Med",
+    "标题": "Cognitive Behavioral Therapy for Chronic Insomnia: A Systematic Review and Meta-analysis.",
+    "池": 1
+   },
+   {
+    "PMID": "18457236",
+    "年份": 2008,
+    "被引": 581,
+    "刊": "Sleep",
+    "标题": "Cognitive behavioral therapy for insomnia enhances depression outcome in patients with comorbid majo",
+    "池": 1
+   },
+   {
+    "PMID": "11308399",
+    "年份": 2001,
+    "被引": 363,
+    "刊": "JAMA",
+    "标题": "Cognitive behavioral therapy for treatment of chronic primary insomnia: a randomized controlled tria",
+    "池": 1
+   }
+  ],
+  "M13": [
+   {
+    "PMID": "35797481",
+    "年份": 2022,
+    "被引": 591,
+    "刊": "Menopause",
+    "标题": "The 2022 hormone therapy position statement of The North American Menopause Society.",
+    "池": 1
+   },
+   {
+    "PMID": "22367731",
+    "年份": 2012,
+    "被引": 437,
+    "刊": "Menopause",
+    "标题": "The 2012 hormone therapy position statement of: The North American Menopause Society.",
+    "池": 1
+   },
+   {
+    "PMID": "34448749",
+    "年份": 2021,
+    "被引": 298,
+    "刊": "Menopause",
+    "标题": "Management of osteoporosis in postmenopausal women: the 2021 position statement of The North America",
+    "池": 1
+   }
+  ],
+  "M14": [
+   {
+    "PMID": "10334533",
+    "年份": 1999,
+    "被引": 1508,
+    "刊": "J Clin Oncol",
+    "标题": "Estrogen receptor status by immunohistochemistry is superior to the ligand-binding assay for predict",
+    "池": 1
+   },
+   {
+    "PMID": "29117498",
+    "年份": 2017,
+    "被引": 1482,
+    "刊": "N Engl J Med",
+    "标题": "20-Year Risks of Breast-Cancer Recurrence after Stopping Endocrine Therapy at 5 Years.",
+    "池": 1
+   },
+   {
+    "PMID": "26947331",
+    "年份": 2016,
+    "被引": 1417,
+    "刊": "Lancet Oncol",
+    "标题": "Fulvestrant plus palbociclib versus fulvestrant plus placebo for treatment of hormone-receptor-posit",
+    "池": 1
+   }
+  ],
+  "M15": [
+   {
+    "PMID": "15351195",
+    "年份": 2004,
+    "被引": 423,
+    "刊": "Lancet",
+    "标题": "Parkinsonism, premature menopause, and mitochondrial DNA polymerase gamma mutations: clinical and mo",
+    "池": 1
+   },
+   {
+    "PMID": "27457926",
+    "年份": 2016,
+    "被引": 412,
+    "刊": "Proc Natl Acad Sci U S A",
+    "标题": "Menopause accelerates biological aging.",
+    "池": 1
+   },
+   {
+    "PMID": "27451320",
+    "年份": 2016,
+    "被引": 227,
+    "刊": "Maturitas",
+    "标题": "Menopause and the vaginal microbiome.",
+    "池": 1
+   }
+  ],
+  "M16": [
+   {
+    "PMID": "15488215",
+    "年份": 2004,
+    "被引": 1020,
+    "刊": "Lancet",
+    "标题": "Livebirth after orthotopic transplantation of cryopreserved ovarian tissue.",
+    "池": 1
+   },
+   {
+    "PMID": "15833827",
+    "年份": 2005,
+    "被引": 571,
+    "刊": "Cancer Res",
+    "标题": "Stem and progenitor-like cells contribute to the aggressive behavior of human epithelial ovarian can",
+    "池": 1
+   },
+   {
+    "PMID": "16849428",
+    "年份": 2006,
+    "被引": 542,
+    "刊": "Proc Natl Acad Sci U S A",
+    "标题": "Ovarian cancer side population defines cells with stem cell-like characteristics and Mullerian Inhib",
+    "池": 1
+   }
+  ],
+  "M17": [
+   {
+    "PMID": "10960625",
+    "年份": 2000,
+    "被引": 573,
+    "刊": "Obstet Gynecol",
+    "标题": "A prospective population-based study of menopausal symptoms.",
+    "池": 1
+   },
+   {
+    "PMID": "29393299",
+    "年份": 2018,
+    "被引": 545,
+    "刊": "Nat Rev Endocrinol",
+    "标题": "Symptoms of menopause - global prevalence, physiology and implications.",
+    "池": 1
+   },
+   {
+    "PMID": "11330770",
+    "年份": 2001,
+    "被引": 422,
+    "刊": "Soc Sci Med",
+    "标题": "Is there a menopausal syndrome? Menopausal status and symptoms across racial/ethnic groups.",
+    "池": 1
+   }
+  ],
+  "M18": [
+   {
+    "PMID": "27457513",
+    "年份": 2017,
+    "被引": 601,
+    "刊": "Ann Rheum Dis",
+    "标题": "EULAR recommendations for women's health and the management of family planning, assisted reproductio",
+    "池": 1
+   },
+   {
+    "PMID": "9448332",
+    "年份": 1998,
+    "被引": 571,
+    "刊": "Proc Natl Acad Sci U S A",
+    "标题": "Grandmothering, menopause, and the evolution of human life histories.",
+    "池": 1
+   },
+   {
+    "PMID": "21789206",
+    "年份": 2011,
+    "被引": 329,
+    "刊": "PLoS One",
+    "标题": "A validated model of serum anti-müllerian hormone from conception to menopause.",
+    "池": 1
+   }
+  ]
+ },
+ "刊物前20": [
+  [
+   "Menopause",
+   51
+  ],
+  [
+   "JAMA",
+   30
+  ],
+  [
+   "J Clin Endocrinol Metab",
+   26
+  ],
+  [
+   "J Clin Oncol",
+   23
+  ],
+  [
+   "Fertil Steril",
+   19
+  ],
+  [
+   "Lancet",
+   17
+  ],
+  [
+   "N Engl J Med",
+   15
+  ],
+  [
+   "Climacteric",
+   14
+  ],
+  [
+   "Obstet Gynecol",
+   14
+  ],
+  [
+   "Maturitas",
+   12
+  ],
+  [
+   "Hum Reprod Update",
+   9
+  ],
+  [
+   "Hum Reprod",
+   9
+  ],
+  [
+   "Am J Epidemiol",
+   8
+  ],
+  [
+   "Ann Intern Med",
+   8
+  ],
+  [
+   "Am J Obstet Gynecol",
+   7
+  ],
+  [
+   "J Bone Miner Res",
+   7
+  ],
+  [
+   "PLoS One",
+   7
+  ],
+  [
+   "Neurology",
+   6
+  ],
+  [
+   "Lancet Oncol",
+   6
+  ],
+  [
+   "Sleep",
+   5
+  ]
+ ],
+ "被引统计": {
+  "min": 10,
+  "p25": 98,
+  "中位": 207.0,
+  "p75": 378,
+  "max": 10248,
+  "≥1000条数": 21,
+  "≥500条数": 92,
+  "总被引和": 176055
+ },
+ "顶刊条数": 81
+}

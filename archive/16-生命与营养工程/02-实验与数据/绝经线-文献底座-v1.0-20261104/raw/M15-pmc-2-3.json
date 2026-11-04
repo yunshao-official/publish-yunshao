@@ -1,0 +1,3176 @@
+{
+  "version": "6.9",
+  "hitCount": 10,
+  "request": {
+    "queryString": "TITLE:menopaus* AND (TITLE:\"epigenetic age\" OR TITLE:\"biological aging\" OR TITLE:\"aging clock\")",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "CITED desc",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "27457926",
+        "source": "MED",
+        "pmid": "27457926",
+        "pmcid": "PMC4995944",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC4995944"
+          ]
+        },
+        "doi": "10.1073/pnas.1604558113",
+        "title": "Menopause accelerates biological aging.",
+        "authorString": "Levine ME, Lu AT, Chen BH, Hernandez DG, Singleton AB, Ferrucci L, Bandinelli S, Salfati E, Manson JE, Quach A, Kusters CD, Kuh D, Wong A, Teschendorff AE, Widschwendter M, Ritz BR, Absher D, Assimes TL, Horvath S.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Levine ME",
+              "lastName": "Levine",
+              "firstName": "Morgan E",
+              "initials": "ME",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Human Genetics, David Geffen School of Medicine, University of California, Los Angeles, CA 90095; Center for Neurobehavioral Genetics, University of California, Los Angeles, CA 90095;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lu AT",
+              "lastName": "Lu",
+              "firstName": "Ake T",
+              "initials": "AT",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Human Genetics, David Geffen School of Medicine, University of California, Los Angeles, CA 90095;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Chen BH",
+              "lastName": "Chen",
+              "firstName": "Brian H",
+              "initials": "BH",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9065-3301"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Longitudinal Studies Section, Translational Gerontology Branch, Intramural Research Program, National Institute on Aging, National Institutes of Health, Bethesda, MD 20892;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hernandez DG",
+              "lastName": "Hernandez",
+              "firstName": "Dena G",
+              "initials": "DG",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Laboratory of Neurogenetics, Intramural Research Program, National Institute on Aging, National Institutes of Health, Bethesda, MD 20892;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Singleton AB",
+              "lastName": "Singleton",
+              "firstName": "Andrew B",
+              "initials": "AB",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Laboratory of Neurogenetics, Intramural Research Program, National Institute on Aging, National Institutes of Health, Bethesda, MD 20892;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Ferrucci L",
+              "lastName": "Ferrucci",
+              "firstName": "Luigi",
+              "initials": "L",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-6273-1613"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Longitudinal Studies Section, Translational Gerontology Branch, Intramural Research Program, National Institute on Aging, National Institutes of Health, Bethesda, MD 20892;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Bandinelli S",
+              "lastName": "Bandinelli",
+              "firstName": "Stefania",
+              "initials": "S",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-6491-0850"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Geriatric Unit, Azienda Sanitaria di Firenze, 50100; Florence, Italy;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Salfati E",
+              "lastName": "Salfati",
+              "firstName": "Elias",
+              "initials": "E",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Manson JE",
+              "lastName": "Manson",
+              "firstName": "JoAnn E",
+              "initials": "JE",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA 02115;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Quach A",
+              "lastName": "Quach",
+              "firstName": "Austin",
+              "initials": "A",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Human Genetics, David Geffen School of Medicine, University of California, Los Angeles, CA 90095;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Kusters CD",
+              "lastName": "Kusters",
+              "firstName": "Cynthia D J",
+              "initials": "CD",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-8099-9026"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Epidemiology, School of Public Health, University of California, Los Angeles, CA 90095;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Kuh D",
+              "lastName": "Kuh",
+              "firstName": "Diana",
+              "initials": "D",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Medical Research Council Unit for Lifelong Health and Ageing, University College London, London WC1B 5JU, United Kingdom;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Wong A",
+              "lastName": "Wong",
+              "firstName": "Andrew",
+              "initials": "A",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2079-4779"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Medical Research Council Unit for Lifelong Health and Ageing, University College London, London WC1B 5JU, United Kingdom;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Teschendorff AE",
+              "lastName": "Teschendorff",
+              "firstName": "Andrew E",
+              "initials": "AE",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Women's Cancer, University College London, London WC1 6BT, United Kingdom; University College London Cancer Institute, University College London, London WC1 6BT, United Kingdom; Statistical Genomics Group, University College London Cancer Institute, University College London, London WC1E 6DD, United Kingdom; Chinese Academy of Sciences Key Laboratory of Computational Biology, Chinese Academy of Sciences-Max Planck Society Partner Institute for Computational Biology, Chinese Academy of Sciences, Shanghai Institute for Biology, Shanghai 200031, China;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Widschwendter M",
+              "lastName": "Widschwendter",
+              "firstName": "Martin",
+              "initials": "M",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-7778-8380"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Women's Cancer, University College London, London WC1 6BT, United Kingdom;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Ritz BR",
+              "lastName": "Ritz",
+              "firstName": "Beate R",
+              "initials": "BR",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Epidemiology, School of Public Health, University of California, Los Angeles, CA 90095;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Absher D",
+              "lastName": "Absher",
+              "firstName": "Devin",
+              "initials": "D",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "HudsonAlpha Institute for Biotechnology, Huntsville, AL 35806;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Assimes TL",
+              "lastName": "Assimes",
+              "firstName": "Themistocles L",
+              "initials": "TL",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2349-0009"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305;"
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Horvath S",
+              "lastName": "Horvath",
+              "firstName": "Steve",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Human Genetics, David Geffen School of Medicine, University of California, Los Angeles, CA 90095; Department of Biostatistics, Fielding School of Public Health, University of California, Los Angeles, CA 90095 shorvath@mednet.ucla.edu."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-8099-9026"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0001-9065-3301"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-6273-1613"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-6491-0850"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-7778-8380"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-2079-4779"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-2349-0009"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics",
+            "supporting_data",
+            "recommended_reviews",
+            "related_data",
+            "wikipedia"
+          ]
+        },
+        "journalInfo": {
+          "issue": "33",
+          "volume": "113",
+          "journalIssueId": 2442078,
+          "dateOfPublication": "2016 Aug",
+          "monthOfPublication": 8,
+          "yearOfPublication": 2016,
+          "journal": {
+            "medlineAbbreviation": "Proc Natl Acad Sci U S A",
+            "title": "Proceedings of the National Academy of Sciences of the United States of America",
+            "essn": "1091-6490",
+            "issn": "0027-8424",
+            "isoabbreviation": "Proc Natl Acad Sci U S A",
+            "nlmid": "7505876"
+          },
+          "printPublicationDate": "2016-08-01"
+        },
+        "pubYear": "2016",
+        "pageInfo": "9327-9332",
+        "abstractText": "Although epigenetic processes have been linked to aging and disease in other systems, it is not yet known whether they relate to reproductive aging. Recently, we developed a highly accurate epigenetic biomarker of age (known as the \"epigenetic clock\"), which is based on DNA methylation levels. Here we carry out an epigenetic clock analysis of blood, saliva, and buccal epithelium using data from four large studies: the Women's Health Initiative (n = 1,864); Invecchiare nel Chianti (n = 200); Parkinson's disease, Environment, and Genes (n = 256); and the United Kingdom Medical Research Council National Survey of Health and Development (n = 790). We find that increased epigenetic age acceleration in blood is significantly associated with earlier menopause (P = 0.00091), bilateral oophorectomy (P = 0.0018), and a longer time since menopause (P = 0.017). Conversely, epigenetic age acceleration in buccal epithelium and saliva do not relate to age at menopause; however, a higher epigenetic age in saliva is exhibited in women who undergo bilateral oophorectomy (P = 0.0079), while a lower epigenetic age in buccal epithelium was found for women who underwent menopausal hormone therapy (P = 0.00078). Using genetic data, we find evidence of coheritability between age at menopause and epigenetic age acceleration in blood. Using Mendelian randomization analysis, we find that two SNPs that are highly associated with age at menopause exhibit a significant association with epigenetic age acceleration. Overall, our Mendelian randomization approach and other lines of evidence suggest that menopause accelerates epigenetic aging of blood, but mechanistic studies will be needed to dissect cause-and-effect relationships further.",
+        "affiliation": "Department of Human Genetics, David Geffen School of Medicine, University of California, Los Angeles, CA 90095; Center for Neurobehavioral Genetics, University of California, Los Angeles, CA 90095;",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "research-article",
+            "Journal Article",
+            "Research Support, N.I.H., Extramural"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "Medical Research Council",
+              "acronym": "MRC_",
+              "grantId": "MC_UU_12019/1",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIH/NIEHS",
+              "grantId": "R21 ES024356",
+              "orderIn": 0
+            },
+            {
+              "agency": "NINDS NIH HHS",
+              "acronym": "NS",
+              "grantId": "T32 NS048004",
+              "orderIn": 0
+            },
+            {
+              "agency": "NHLBI NIH HHS",
+              "acronym": "HL",
+              "grantId": "HHSN268201100001I",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIH/NHLBI",
+              "grantId": "60442456 BAA23",
+              "orderIn": 0
+            },
+            {
+              "agency": "WHI NIH HHS",
+              "acronym": "WH",
+              "grantId": "HHSN268201100003C",
+              "orderIn": 0
+            },
+            {
+              "agency": "NHLBI NIH HHS",
+              "acronym": "HL",
+              "grantId": "HHSN268201100004I",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIEHS NIH HHS",
+              "acronym": "ES",
+              "grantId": "R21 ES024356",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIH/NIA",
+              "grantId": "1U34AG051425-01",
+              "orderIn": 0
+            },
+            {
+              "agency": "WHI NIH HHS",
+              "acronym": "WH",
+              "grantId": "HHSN268201100004C",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIH/NIEHS",
+              "grantId": "RO1-ES10544",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIA NIH HHS",
+              "acronym": "AG",
+              "grantId": "R01 AG042511",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIH/NINDS",
+              "grantId": "T32NS048004",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIA NIH HHS",
+              "acronym": "AG",
+              "grantId": "U34 AG051425",
+              "orderIn": 0
+            },
+            {
+              "agency": "WHI NIH HHS",
+              "acronym": "WH",
+              "grantId": "HHSN268201100002C",
+              "orderIn": 0
+            },
+            {
+              "agency": "NHLBI NIH HHS",
+              "acronym": "HL",
+              "grantId": "HHSN268201100002I",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIA NIH HHS",
+              "acronym": "AG",
+              "grantId": "HHSN271201100004C",
+              "orderIn": 0
+            },
+            {
+              "agency": "WHI NIH HHS",
+              "acronym": "WH",
+              "grantId": "HHSN268201100001C",
+              "orderIn": 0
+            },
+            {
+              "agency": "NHLBI NIH HHS",
+              "acronym": "HL",
+              "grantId": "HHSN268201100046C",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIEHS NIH HHS",
+              "acronym": "ES",
+              "grantId": "R01 ES010544",
+              "orderIn": 0
+            }
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Ovariectomy"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Epigenesis, Genetic"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Aging",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Menopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Polymorphism, Single Nucleotide"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Adult"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Mendelian Randomization Analysis"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Aging",
+            "DNA methylation",
+            "menopause",
+            "Whi",
+            "Epigenetic Clock"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1073/pnas.1604558113"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC4995944"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC4995944?pdf=render"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1073/pnas.1604558113"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 412,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "Y",
+        "dbCrossReferenceList": {
+          "dbName": [
+            "EMBL"
+          ]
+        },
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "geo",
+            "refsnp",
+            "doi"
+          ]
+        },
+        "dateOfCompletion": "2018-01-24",
+        "dateOfCreation": "2016-07-27",
+        "dateOfRevision": "2025-05-30",
+        "electronicPublicationDate": "2016-07-25",
+        "firstPublicationDate": "2016-07-25",
+        "firstIndexDate": "2016-07-27",
+        "fullTextReceivedDate": "2020-07-12",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "25413841",
+        "source": "MED",
+        "pmid": "25413841",
+        "doi": "10.1093/ajh/hpu212",
+        "title": "Impact of gender and menopausal status on relationships between biological aging, as indexed by telomere length, and aortic stiffness.",
+        "authorString": "Raymond AR, Norton GR, Woodiwiss AJ, Brooksbank RL.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Raymond AR",
+              "lastName": "Raymond",
+              "firstName": "Andrew R",
+              "initials": "AR",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Cardiovascular Pathophysiology and Genomics Research Unit, School of Physiology, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Norton GR",
+              "lastName": "Norton",
+              "firstName": "Gavin R",
+              "initials": "GR",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6416-6104"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Cardiovascular Pathophysiology and Genomics Research Unit, School of Physiology, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Woodiwiss AJ",
+              "lastName": "Woodiwiss",
+              "firstName": "Angela J",
+              "initials": "AJ",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Cardiovascular Pathophysiology and Genomics Research Unit, School of Physiology, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Brooksbank RL",
+              "lastName": "Brooksbank",
+              "firstName": "Richard L",
+              "initials": "RL",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Cardiovascular Pathophysiology and Genomics Research Unit, School of Physiology, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa. richard.brooksbank@wits.ac.za."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6416-6104"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-2555-4125"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "5",
+          "volume": "28",
+          "journalIssueId": 2274255,
+          "dateOfPublication": "2015 May",
+          "monthOfPublication": 5,
+          "yearOfPublication": 2015,
+          "journal": {
+            "medlineAbbreviation": "Am J Hypertens",
+            "title": "American journal of hypertension",
+            "essn": "1941-7225",
+            "issn": "0895-7061",
+            "isoabbreviation": "Am J Hypertens",
+            "nlmid": "8803676"
+          },
+          "printPublicationDate": "2015-05-01"
+        },
+        "pubYear": "2015",
+        "pageInfo": "623-630",
+        "abstractText": "<h4>Background</h4>Telomere length predicts cardiovascular disease (CVD) possibly through an impact of telomere attrition on aortic stiffness. Whether reduced biological aging and a lack of telomere length-aortic stiffness relationships in women contribute to the lower prevalence of CVD in women, prior to menopause, is uncertain.<h4>Methods</h4>We evaluated the relationship between telomere length and carotid-femoral (aortic) pulse wave velocity (PWV) in 580 randomly recruited participants of Black African descent (age = 44 ± 19 years; women: n = 361; premenopausal: n = 195). PWV was determined using carotid and femoral applanation tonometry (SphygmoCor). Relative leukocyte telomere length (T/S) was measured using quantitative real-time polymerase chain reaction assays.<h4>Results</h4>Men and women had similar T/S. T/S was inversely correlated with age (r = -0.14, P < 0.001) and this association was similar in all (r = -0.14, P < 0.01) and premenopausal (r = -0.17, P < 0.05) women as in men (r = -0.14, P < 0.05). An inverse relationship between T/S and PWV was noted both before (r = -0.20, P < 0.0001) and after (partial r = -0.14, P < 0.001) adjustments for confounders. No interaction between T/S and either sex or menopausal status was independently associated with PWV, and T/S was independently correlated with PWV in all (partial r = -0.14, P < 0.01) and premenopausal (partial r = -0.18, P < 0.05) women and in men (partial r = -0.15, P < 0.05).<h4>Conclusions</h4>Gender and premenopausal status do not affect age-related decreases in T/S and associations between T/S and PWV. In participants of African descent in whom telomere length did not differ by gender, the impact of gender prior to menopause on CVD is unlikely to be attributed to differences in the effect of biological aging on aortic stiffness.",
+        "affiliation": "Cardiovascular Pathophysiology and Genomics Research Unit, School of Physiology, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Telomere",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Hypertension",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PP",
+                    "qualifierName": "physiopathology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "DNA",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "AN",
+                    "qualifierName": "analysis"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Blood Flow Velocity",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Sex Factors"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Aging"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Blood Pressure",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Adult"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Male"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Real-Time Polymerase Chain Reaction"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Vascular Stiffness",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Telomere Homeostasis",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Pulse Wave Analysis"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Hypertension",
+            "Blood pressure",
+            "Gender",
+            "Pulse wave velocity",
+            "Aortic Stiffness",
+            "Telomere Length."
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "DNA",
+              "registryNumber": "9007-49-2"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1093/ajh/hpu212"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 12,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2016-01-07",
+        "dateOfCreation": "2014-11-22",
+        "dateOfRevision": "2015-04-14",
+        "electronicPublicationDate": "2014-11-19",
+        "firstPublicationDate": "2014-11-19",
+        "firstIndexDate": "2014-11-22",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "38944998",
+        "source": "MED",
+        "pmid": "38944998",
+        "pmcid": "PMC11372440",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC11372440"
+          ]
+        },
+        "doi": "10.1016/j.yhbeh.2024.105596",
+        "title": "Linking menopause-related factors, history of depression, APOE ε4, and proxies of biological aging in the UK biobank cohort.",
+        "authorString": "Crestol A, de Lange AG, Schindler L, Subramaniapillai S, Nerland S, Oppenheimer H, Westlye LT, Andreassen OA, Agartz I, Tamnes CK, Barth C.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Crestol A",
+              "lastName": "Crestol",
+              "firstName": "Arielle",
+              "initials": "A",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Mental Health and Substance Abuse, Diakonhjemmet Hospital, Oslo, Norway; Center for Precision Psychiatry, Division of Mental Health and Addiction, Oslo University Hospital & Institute of Clinical Medicine, University of Oslo, Oslo, Norway. Electronic address: arielle.crestol@studmed.uio.no."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "de Lange AG",
+              "lastName": "de Lange",
+              "firstName": "Ann-Marie G",
+              "initials": "AG",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-5150-6656"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Centre for Research in Neurosciences, Department of Clinical Neurosciences, Lausanne University Hospital (CHUV) and University of Lausanne, Lausanne, Switzerland; Department of Psychology, University of Oslo, Oslo, Norway; Department of Psychiatry, University of Oxford, Oxford, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Schindler L",
+              "lastName": "Schindler",
+              "firstName": "Louise",
+              "initials": "L",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2995-6263"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Centre for Research in Neurosciences, Department of Clinical Neurosciences, Lausanne University Hospital (CHUV) and University of Lausanne, Lausanne, Switzerland; Department of Psychology, University of Oslo, Oslo, Norway; Department of Psychiatry, University of Oxford, Oxford, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Subramaniapillai S",
+              "lastName": "Subramaniapillai",
+              "firstName": "Sivaniya",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Centre for Research in Neurosciences, Department of Clinical Neurosciences, Lausanne University Hospital (CHUV) and University of Lausanne, Lausanne, Switzerland; Department of Psychology, University of Oslo, Oslo, Norway."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Nerland S",
+              "lastName": "Nerland",
+              "firstName": "Stener",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Mental Health and Substance Abuse, Diakonhjemmet Hospital, Oslo, Norway; Division of Mental Health and Addiction, Institute of Clinical Medicine, University of Oslo, Oslo, Norway."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Oppenheimer H",
+              "lastName": "Oppenheimer",
+              "firstName": "Hannah",
+              "initials": "H",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0000-3365-763X"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Mental Health and Substance Abuse, Diakonhjemmet Hospital, Oslo, Norway; Department of Psychology, University of Oslo, Oslo, Norway."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Westlye LT",
+              "lastName": "Westlye",
+              "firstName": "Lars T",
+              "initials": "LT",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Center for Precision Psychiatry, Division of Mental Health and Addiction, Oslo University Hospital & Institute of Clinical Medicine, University of Oslo, Oslo, Norway; Department of Psychology, University of Oslo, Oslo, Norway; KG Jebsen Centre for Neurodevelopmental Disorders, University of Oslo & Oslo University Hospital, Oslo, Norway."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Andreassen OA",
+              "lastName": "Andreassen",
+              "firstName": "Ole A",
+              "initials": "OA",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Center for Precision Psychiatry, Division of Mental Health and Addiction, Oslo University Hospital & Institute of Clinical Medicine, University of Oslo, Oslo, Norway; KG Jebsen Centre for Neurodevelopmental Disorders, University of Oslo & Oslo University Hospital, Oslo, Norway."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Agartz I",
+              "lastName": "Agartz",
+              "firstName": "Ingrid",
+              "initials": "I",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Mental Health and Substance Abuse, Diakonhjemmet Hospital, Oslo, Norway; KG Jebsen Centre for Neurodevelopmental Disorders, University of Oslo & Oslo University Hospital, Oslo, Norway; Department of Clinical Neuroscience, Centre for Psychiatry Research, Stockholm Health Care Services, Karolinska Institute, Stockholm County Council, Stockholm, Sweden; Division of Mental Health and Addiction, Institute of Clinical Medicine, University of Oslo, Oslo, Norway."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Tamnes CK",
+              "lastName": "Tamnes",
+              "firstName": "Christian K",
+              "initials": "CK",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Mental Health and Substance Abuse, Diakonhjemmet Hospital, Oslo, Norway; PROMENTA Research Center, Department of Psychology, University of Oslo, Oslo, Norway."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Barth C",
+              "lastName": "Barth",
+              "firstName": "Claudia",
+              "initials": "C",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6544-0945"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Mental Health and Substance Abuse, Diakonhjemmet Hospital, Oslo, Norway. Electronic address: claudia.barth@medisin.uio.no."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6544-0945"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-2995-6263"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-5150-6656"
+            },
+            {
+              "type": "ORCID",
+              "value": "0009-0000-3365-763X"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics",
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "volume": "164",
+          "journalIssueId": 3818462,
+          "dateOfPublication": "2024 Aug",
+          "monthOfPublication": 8,
+          "yearOfPublication": 2024,
+          "journal": {
+            "medlineAbbreviation": "Horm Behav",
+            "title": "Hormones and behavior",
+            "essn": "1095-6867",
+            "issn": "0018-506X",
+            "isoabbreviation": "Horm Behav",
+            "nlmid": "0217764"
+          },
+          "printPublicationDate": "2024-08-01"
+        },
+        "pubYear": "2024",
+        "pageInfo": "105596",
+        "abstractText": "In a subset of females, postmenopausal status has been linked to accelerated aging and neurological decline. A complex interplay between reproductive-related factors, mental disorders, and genetics may influence brain function and accelerate the rate of aging in the postmenopausal phase. Using multiple regressions corrected for age, in this preregistered study we investigated the associations between menopause-related factors (i.e., menopausal status, menopause type, age at menopause, and reproductive span) and proxies of cellular aging (leukocyte telomere length, LTL) and brain aging (white and gray matter brain age gap, BAG) in 13,780 females from the UK Biobank (age range 39-82). We then determined how these proxies of aging were associated with each other, and evaluated the effects of menopause-related factors, history of depression (= lifetime broad depression), and APOE ε4 genotype on BAG and LTL, examining both additive and interactive relationships. We found that postmenopausal status and older age at natural menopause were linked to longer LTL and lower BAG. Surgical menopause and longer natural reproductive span were also associated with longer LTL. BAG and LTL were not significantly associated with each other. The greatest variance in each proxy of biological aging was most consistently explained by models with the addition of both lifetime broad depression and APOE ε4 genotype. Overall, this study demonstrates a complex interplay between menopause-related factors, lifetime broad depression, APOE ε4 genotype, and proxies of biological aging. However, results are potentially influenced by a disproportionate number of healthier participants among postmenopausal females. Future longitudinal studies incorporating heterogeneous samples are an essential step towards advancing female health.",
+        "affiliation": "Division of Mental Health and Substance Abuse, Diakonhjemmet Hospital, Oslo, Norway; Center for Precision Psychiatry, Division of Mental Health and Addiction, Oslo University Hospital & Institute of Clinical Medicine, University of Oslo, Oslo, Norway. Electronic address: arielle.crestol@studmed.uio.no.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "research-article",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "Norges Forskningsråd",
+              "grantId": "298646",
+              "orderIn": 0
+            },
+            {
+              "agency": "Swiss National Science Foundation",
+              "grantId": "193658",
+              "orderIn": 0
+            },
+            {
+              "agency": "Helse Sør-Øst RHF",
+              "grantId": "2019104",
+              "orderIn": 0
+            },
+            {
+              "agency": "Helse Sør-Øst RHF",
+              "grantId": "2023037",
+              "orderIn": 0
+            },
+            {
+              "agency": "Norges Forskningsråd",
+              "grantId": "223273",
+              "orderIn": 0
+            },
+            {
+              "agency": "Norges Forskningsråd",
+              "grantId": "323951",
+              "orderIn": 0
+            },
+            {
+              "agency": "Helse Sør-Øst RHF",
+              "grantId": "500189",
+              "orderIn": 0
+            },
+            {
+              "agency": "European Research Council",
+              "acronym": "ERC_",
+              "orderIn": 0
+            },
+            {
+              "agency": "Helse Sør-Øst RHF",
+              "grantId": "2019101",
+              "orderIn": 0
+            },
+            {
+              "agency": "Helse Sør-Øst RHF",
+              "grantId": "2020020",
+              "orderIn": 0
+            },
+            {
+              "agency": "Norges Forskningsråd",
+              "grantId": "213700",
+              "orderIn": 0
+            },
+            {
+              "agency": "Universitetet i Oslo",
+              "orderIn": 0
+            },
+            {
+              "agency": "Helse Sør-Øst RHF",
+              "grantId": "2023012",
+              "orderIn": 0
+            },
+            {
+              "agency": "Norges Forskningsråd",
+              "grantId": "250358",
+              "orderIn": 0
+            },
+            {
+              "agency": "Norges Forskningsråd",
+              "grantId": "324499",
+              "orderIn": 0
+            },
+            {
+              "agency": "Norges Forskningsråd",
+              "grantId": "249795",
+              "orderIn": 0
+            },
+            {
+              "agency": "Norges Forskningsråd",
+              "grantId": "273345",
+              "orderIn": 0
+            },
+            {
+              "agency": "Norges Forskningsråd",
+              "grantId": "288083",
+              "orderIn": 0
+            },
+            {
+              "agency": "Swiss National Science Foundation",
+              "grantId": "TMPFP3_217174",
+              "orderIn": 0
+            },
+            {
+              "agency": "Helse Sør-Øst RHF",
+              "grantId": "2021070",
+              "orderIn": 0
+            },
+            {
+              "agency": "Norges Forskningsråd",
+              "grantId": "300768",
+              "orderIn": 0
+            },
+            {
+              "agency": "Horizon 2020",
+              "grantId": "847776",
+              "orderIn": 0
+            },
+            {
+              "agency": "Natural Sciences and Engineering Research Council of Canada",
+              "orderIn": 0
+            },
+            {
+              "agency": "Helse Sør-Øst RHF",
+              "grantId": "2017097",
+              "orderIn": 0
+            },
+            {
+              "agency": "Helse Sør-Øst RHF",
+              "grantId": "2018076",
+              "orderIn": 0
+            },
+            {
+              "agency": "Helse Sør-Øst RHF",
+              "grantId": "2022103",
+              "orderIn": 0
+            },
+            {
+              "agency": "European Research Council",
+              "acronym": "ERC_",
+              "grantId": "802998",
+              "orderIn": 0
+            },
+            {
+              "agency": "Swiss National Science Foundation",
+              "grantId": "PZ00P3_193658",
+              "orderIn": 0
+            }
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Brain",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ME",
+                    "qualifierName": "metabolism"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Cohort Studies"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Depression",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Aging",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Adult"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Aged, 80 and over"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Apolipoprotein E4",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "United Kingdom"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "UK Biobank"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Depression",
+            "Cellular aging",
+            "Magnetic Resonance Imaging",
+            "menopause",
+            "Telomere Length",
+            "Apoe Ε4",
+            "Brain Age Gap"
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Apolipoprotein E4",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1016/j.yhbeh.2024.105596"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC11372440"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 8,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "license": "cc by-nc-nd",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "refsnp",
+            "doi"
+          ]
+        },
+        "dateOfCompletion": "2024-08-18",
+        "dateOfCreation": "2024-06-30",
+        "dateOfRevision": "2026-09-23",
+        "electronicPublicationDate": "2024-06-29",
+        "firstPublicationDate": "2024-06-29",
+        "firstIndexDate": "2024-07-01",
+        "fullTextReceivedDate": "2025-02-04",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "40460368",
+        "source": "MED",
+        "pmid": "40460368",
+        "pmcid": "PMC12236146",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12236146"
+          ]
+        },
+        "doi": "10.1097/gme.0000000000002555",
+        "title": "Early menopause, hysterectomy, and biological aging: Health and Retirement Study.",
+        "authorString": "Kim JK, Crimmins EM.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Kim JK",
+              "lastName": "Kim",
+              "firstName": "Jung Ki",
+              "initials": "JK",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-4842-0579"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Crimmins EM",
+              "lastName": "Crimmins",
+              "firstName": "Eileen M",
+              "initials": "EM"
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0002-4842-0579"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics",
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "8",
+          "volume": "32",
+          "journalIssueId": 3985167,
+          "dateOfPublication": "2025 Aug",
+          "monthOfPublication": 8,
+          "yearOfPublication": 2025,
+          "journal": {
+            "medlineAbbreviation": "Menopause",
+            "title": "Menopause (New York, N.Y.)",
+            "essn": "1530-0374",
+            "issn": "1072-3714",
+            "isoabbreviation": "Menopause",
+            "nlmid": "9433353"
+          },
+          "printPublicationDate": "2025-08-01"
+        },
+        "pubYear": "2025",
+        "pageInfo": "692-701",
+        "abstractText": "<h4>Objective</h4>This study examines the association between the timing of menopause and hysterectomy and biological aging, focusing on epigenetic and physiological aging markers.<h4>Methods</h4>Data were analyzed from women aged 56 and over in the nationally representative Health and Retirement Study (HRS). Regressions of biological aging measured by accelerated epigenetic aging and biological age based on physiological dysregulation on menopause/hysterectomy history were conducted to examine associations of normal-aged and early menopause with and without hysterectomy with biological aging.<h4>Results</h4>Hysterectomy, whether following normal-aged or early menopause, or in younger ages, was significantly associated with markers of accelerated biological aging. Women with early menopause or hysterectomy showed accelerated epigenetic aging. Early menopause was associated with accelerated physiological dysregulation only when combined with hysterectomy, suggesting that surgical menopause may be related to accelerated systemic aging processes. Epigenetic clocks were associated with early cellular and molecular aging changes linked to natural early menopause, while physiological dysregulation was associated with the cumulative systemic impacts related to hysterectomy.<h4>Conclusions</h4>This study highlights associations between reproductive history and biological aging. These findings underscore the importance of considering both natural and surgical factors in menopause in evaluating aging-related health risks and suggest avenues for targeted interventions to mitigate health risks in women with these reproductive histories.",
+        "affiliation": "Davis School of Gerontology, University of Southern California, Los Angeles, CA.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "NIA NIH HHS",
+              "acronym": "AG",
+              "grantId": "P30 AG017265",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIA NIH HHS",
+              "acronym": "AG",
+              "grantId": "U01 AG009740",
+              "orderIn": 0
+            }
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause, Premature",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Hysterectomy",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "AE",
+                    "qualifierName": "adverse effects"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "SN",
+                    "qualifierName": "statistics & numerical data"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Epigenesis, Genetic"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Aging",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Retirement"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "United States"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "menopause",
+            "hysterectomy",
+            "Health And Retirement Study",
+            "Biological Age",
+            "Epigenetic Aging"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1097/GME.0000000000002555"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC12236146"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC12236146?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 7,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "license": "cc by-nc-nd",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCompletion": "2025-07-31",
+        "dateOfCreation": "2025-06-03",
+        "dateOfRevision": "2026-04-22",
+        "electronicPublicationDate": "2025-08-01",
+        "firstPublicationDate": "2025-08-01",
+        "firstIndexDate": "2025-06-11",
+        "fullTextReceivedDate": "2025-12-02",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "40770753",
+        "source": "MED",
+        "pmid": "40770753",
+        "pmcid": "PMC12330081",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12330081"
+          ]
+        },
+        "doi": "10.1186/s12916-025-04223-7",
+        "title": "Menopausal status, transition, and age at menopause with accelerated biological aging across multiple organ systems: findings from two cohort studies.",
+        "authorString": "Xiang Y, Meng Q, Huang Z, Zhang N, Zhang Y, Ding X, Yu J, Baimakangzhuo, Liu L, Xiao X, Zhao X.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Xiang Y",
+              "lastName": "Xiang",
+              "firstName": "Yi",
+              "initials": "Y",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Meng Q",
+              "lastName": "Meng",
+              "firstName": "Qiong",
+              "initials": "Q",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Public Health, Kunming Medical University, Kunming, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Huang Z",
+              "lastName": "Huang",
+              "firstName": "Zitong",
+              "initials": "Z",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zhang N",
+              "lastName": "Zhang",
+              "firstName": "Ning",
+              "initials": "N",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zhang Y",
+              "lastName": "Zhang",
+              "firstName": "Yuan",
+              "initials": "Y",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Ding X",
+              "lastName": "Ding",
+              "firstName": "Xianbin",
+              "initials": "X",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Chongqing Municipal Center for Disease Control and Prevention, Chongqing, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Yu J",
+              "lastName": "Yu",
+              "firstName": "Jianhong",
+              "initials": "J",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Pidu District Center for Disease Control and Prevention, Chengdu, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Baimakangzhuo",
+              "lastName": "Baimakangzhuo",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Medicine, Tibet University, Lhasa, Tibet, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Liu L",
+              "lastName": "Liu",
+              "firstName": "Leilei",
+              "initials": "L",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Public Health, Key Laboratory of Environmental Pollution Monitoring and Disease Control, Ministry of Education, Guizhou Medical University, Guiyang, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Xiao X",
+              "lastName": "Xiao",
+              "firstName": "Xiong",
+              "initials": "X",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China. xiaoxiong.scu@scu.edu.cn."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zhao X",
+              "lastName": "Zhao",
+              "firstName": "Xing",
+              "initials": "X",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics",
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "1",
+          "volume": "23",
+          "journalIssueId": 3985773,
+          "dateOfPublication": "2025 Aug",
+          "monthOfPublication": 8,
+          "yearOfPublication": 2025,
+          "journal": {
+            "medlineAbbreviation": "BMC Med",
+            "title": "BMC medicine",
+            "essn": "1741-7015",
+            "issn": "1741-7015",
+            "isoabbreviation": "BMC Med",
+            "nlmid": "101190723"
+          },
+          "printPublicationDate": "2025-08-01"
+        },
+        "pubYear": "2025",
+        "pageInfo": "461",
+        "abstractText": "<h4>Background</h4>Biological aging is a heterogeneous process that varies across organs and systems. The dynamic hormonal changes during the menopausal transition may have profound and organ-specific impacts on biological aging. However, the relationship between the menopausal transition and both comprehensive and organ-specific biological aging remains poorly understood. This study aimed to investigate the associations between menopausal factors and both comprehensive and organ-specific biological aging, as well as the modifying role of reproductive history.<h4>Methods</h4>This study included 37,244 women from the China Multi-Ethnic Cohort (CMEC) and 140,479 from the UK Biobank (UKB). Menopausal factors included menopausal status, menopausal transition, and age at menopause. Comprehensive and organ-specific biological ages (BAs) were calculated using the Klemera-Doubal method and clinical biomarkers and have been shown to predict age-related health outcomes. Multiple linear regression and change-to-change models were applied, with stratified analyses based on reproductive history.<h4>Results</h4>Compared with pre-menopausal women, those who were peri- or post-menopausal or had undergone hysterectomy or oophorectomy exhibited greater acceleration in comprehensive, liver, metabolic, and kidney BA. In longitudinal change-to-change models, women undergoing menopausal transition showed greater increases in comprehensive BA (CMEC: β = 1.33, 95% CI = 0.89, 1.76; UKB: β = 2.60, 95% CI = 1.91, 3.30), as well as liver, metabolic, and kidney BAs compared to those remaining pre-menopausal. Earlier age at menopause was associated with accelerated comprehensive BA in UKB (< 40 years: β = 0.69, 95% CI = 0.39, 0.98; 40-44 years: β = 0.24, 95% CI = 0.09, 0.40). Across organ-specific BAs, liver BA showed the strongest associations with menopausal factors. Reproductive history like age at live birth and number of live births emerged as potential modifiers of these associations.<h4>Conclusions</h4>Menopause, particularly the menopausal transition, was associated with accelerated comprehensive and organ-specific biological aging, with liver aging being most affected. These findings underscore the menopausal transition as a critical window for interventions to enhance women's health and longevity.",
+        "affiliation": "School of Public Health and West China Fourth Hospital, Sichuan University, Chengdu, China.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "Natural Science Foundation of Sichuan Province",
+              "grantId": "2024NSFSC0552",
+              "orderIn": 0
+            },
+            {
+              "agency": "National Natural Science Foundation of China",
+              "grantId": "82273740",
+              "orderIn": 0
+            }
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Cohort Studies"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Age Factors"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Aging",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Adult"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "China"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "United Kingdom"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Biological Aging",
+            "Menopausal Transition",
+            "Age At Menopause",
+            "Organ-specific Aging",
+            "Change-To-Change Analysis"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1186/s12916-025-04223-7"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC12330081"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC12330081?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 6,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "license": "cc by-nc-nd",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2025-08-07",
+        "dateOfCreation": "2025-08-07",
+        "dateOfRevision": "2025-08-09",
+        "electronicPublicationDate": "2025-08-06",
+        "firstPublicationDate": "2025-08-06",
+        "firstIndexDate": "2025-08-07",
+        "fullTextReceivedDate": "2025-08-09",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "40595729",
+        "source": "MED",
+        "pmid": "40595729",
+        "pmcid": "PMC12216968",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC12216968"
+          ]
+        },
+        "doi": "10.1038/s41514-025-00249-6",
+        "title": "Years since menopause and its metabolomic signature with biological aging in women at midlife: a population-based study.",
+        "authorString": "Xie B, Li M, Wang Q, Fu C, Wang X, Zhu D.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Xie B",
+              "lastName": "Xie",
+              "firstName": "Bo",
+              "initials": "B",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Epidemiology, School of Public Health. Cheeloo College of Medicine, Shandong University, Jinan, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Li M",
+              "lastName": "Li",
+              "firstName": "Meiling",
+              "initials": "M",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Epidemiology, School of Public Health. Cheeloo College of Medicine, Shandong University, Jinan, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Wang Q",
+              "lastName": "Wang",
+              "firstName": "Qi",
+              "initials": "Q",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Epidemiology, School of Public Health. Cheeloo College of Medicine, Shandong University, Jinan, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Fu C",
+              "lastName": "Fu",
+              "firstName": "Chunying",
+              "initials": "C",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Epidemiology, School of Public Health. Cheeloo College of Medicine, Shandong University, Jinan, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Wang X",
+              "lastName": "Wang",
+              "firstName": "Xiaoyi",
+              "initials": "X",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Epidemiology, School of Public Health. Cheeloo College of Medicine, Shandong University, Jinan, China."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Zhu D",
+              "lastName": "Zhu",
+              "firstName": "Dongshan",
+              "initials": "D",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Epidemiology, School of Public Health. Cheeloo College of Medicine, Shandong University, Jinan, China. dongshan.zhu@uq.net.au."
+                  },
+                  {
+                    "affiliation": "Center for Clinical Epidemiology and Evidence-Based Medicine, Shandong University, Jinan, China. dongshan.zhu@uq.net.au."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "1",
+          "volume": "11",
+          "journalIssueId": 3969041,
+          "dateOfPublication": "2025 Jul",
+          "monthOfPublication": 7,
+          "yearOfPublication": 2025,
+          "journal": {
+            "medlineAbbreviation": "NPJ Aging",
+            "title": "npj aging",
+            "essn": "2731-6068",
+            "issn": "2731-6068",
+            "isoabbreviation": "NPJ Aging",
+            "nlmid": "9918402285106676"
+          },
+          "printPublicationDate": "2025-07-01"
+        },
+        "pubYear": "2025",
+        "pageInfo": "58",
+        "abstractText": "This study analyzed UK Biobank data from 46,463 postmenopausal women to investigate metabolic changes linked to years since menopause (YSM) and their impact on aging biomarkers. Elastic net regression identified 115 YSM-associated metabolites, forming a metabolic signature strongly correlated with YSM (r = 0.30, P < 0.001). Each standard deviation increase in this metabolic signature was associated with decreased odds of long telomere length (0.94, 0.92-0.96), increased odds of high allostatic load (1.53, 1.50-1.56) and high PhenoAge (2.30, 2.17-2.44). Mediation analysis indicated that the metabolic signature explained 43.5% of the association between YSM and allostatic load, 9.09% between YSM and telomere length, and 89.3% between YSM and PhenoAge. These findings reveal how menopause-related metabolic shifts drive biological aging, highlighting potential intervention targets for postmenopausal health.",
+        "affiliation": "Department of Epidemiology, School of Public Health. Cheeloo College of Medicine, Shandong University, Jinan, China.",
+        "publicationStatus": "epublish",
+        "language": "eng",
+        "pubModel": "Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Journal Article"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "National Key Research and Development Program of China",
+              "grantId": "2022YFC2703800",
+              "orderIn": 0
+            },
+            {
+              "agency": "Taishan Scholars Project Special Fund",
+              "grantId": "tsqnz20221103",
+              "orderIn": 0
+            },
+            {
+              "agency": "Science Fund Program for Excellent Young Scholars of Shandong Province (Overseas)",
+              "grantId": "2022HWYQ-030",
+              "orderIn": 0
+            },
+            {
+              "agency": "National Natural Science Foundation of China",
+              "grantId": "82273702",
+              "orderIn": 0
+            },
+            {
+              "agency": "Science Fund Program for Excellent Young Scholars of Shandong Province",
+              "grantId": "2022HWYQ-030",
+              "orderIn": 0
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1038/s41514-025-00249-6"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC12216968"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC12216968?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 1,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "N",
+        "hasData": "Y",
+        "license": "cc by-nc-nd",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCreation": "2025-07-02",
+        "dateOfRevision": "2025-07-04",
+        "electronicPublicationDate": "2025-07-01",
+        "firstPublicationDate": "2025-07-01",
+        "firstIndexDate": "2025-07-03",
+        "fullTextReceivedDate": "2025-07-05",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "PPR1305624",
+        "source": "PPR",
+        "doi": "10.21203/rs.3.rs-10709927/v1",
+        "title": "Menopause transition timing reflects systemic biological aging",
+        "authorString": "Komar D, Baudin J, Costa A, Tadeo-Orellana L, Garcia L, Gordevicius J, Giménez JR, Calderón-Pérez L, Domingo-Tàrrech A, Crescenti A, Torrell H, Caimari A, Canela N.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Komar D",
+              "lastName": "Komar",
+              "firstName": "Dorota",
+              "initials": "D"
+            },
+            {
+              "fullName": "Baudin J",
+              "lastName": "Baudin",
+              "firstName": "Julio",
+              "initials": "J"
+            },
+            {
+              "fullName": "Costa A",
+              "lastName": "Costa",
+              "firstName": "Andrea",
+              "initials": "A"
+            },
+            {
+              "fullName": "Tadeo-Orellana L",
+              "lastName": "Tadeo-Orellana",
+              "firstName": "Lucía",
+              "initials": "L"
+            },
+            {
+              "fullName": "Garcia L",
+              "lastName": "Garcia",
+              "firstName": "Lorena",
+              "initials": "L"
+            },
+            {
+              "fullName": "Gordevicius J",
+              "lastName": "Gordevicius",
+              "firstName": "Juozas",
+              "initials": "J"
+            },
+            {
+              "fullName": "Giménez JR",
+              "lastName": "Giménez",
+              "firstName": "Jordi Romero",
+              "initials": "JR"
+            },
+            {
+              "fullName": "Calderón-Pérez L",
+              "lastName": "Calderón-Pérez",
+              "firstName": "Lorena",
+              "initials": "L"
+            },
+            {
+              "fullName": "Domingo-Tàrrech A",
+              "lastName": "Domingo-Tàrrech",
+              "firstName": "Alícia",
+              "initials": "A"
+            },
+            {
+              "fullName": "Crescenti A",
+              "lastName": "Crescenti",
+              "firstName": "Anna",
+              "initials": "A"
+            },
+            {
+              "fullName": "Torrell H",
+              "lastName": "Torrell",
+              "firstName": "Helena",
+              "initials": "H"
+            },
+            {
+              "fullName": "Caimari A",
+              "lastName": "Caimari",
+              "firstName": "Antoni",
+              "initials": "A"
+            },
+            {
+              "fullName": "Canela N",
+              "lastName": "Canela",
+              "firstName": "Nuria",
+              "initials": "N"
+            }
+          ]
+        },
+        "pubYear": "2026",
+        "abstractText": "<title>Abstract</title>  <p>Natural menopause marks the end of female reproductive capacity, yet its relationship with biological aging remains unclear. Earlier menopause has been associated with reduced lifespan and increased disease risk, but whether menopause itself accelerates aging or reflects an underlying faster biological aging trajectory remains unresolved. Here, we combined animal models of menopausal transition with epigenetic analyses in postmenopausal women, to investigate this relationship. In rats, neither ovariectomy-induced menopause nor natural reproductive senescence resulted in increased epigenetic age acceleration. In postmenopausal women, accelerated epigenetic aging was observed only in individuals who reached postmenopause earlier than the cohort median, independent of metabolic health status. Exploratory differential DNA methylation analysis suggested an association between age at menopause and pathways involved in longevity, chromatin regulation, and neurodegeneration. Together, these findings support a model in which the timing of reproductive aging reflects systemic biological aging rather than driving it, positioning age at menopause as a potential biomarker of the rate of biological aging.</p>",
+        "pubTypeList": {
+          "pubType": [
+            "Preprint"
+          ]
+        },
+        "bookOrReportDetails": {
+          "publisher": "Research Square",
+          "yearOfPublication": 2026
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.21203/rs.3.rs-10709927/v1"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "license": "cc by",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCreation": "2026-08-27",
+        "firstPublicationDate": "2026-08-26",
+        "firstIndexDate": "2026-08-27",
+        "versionList": {
+          "version": [
+            {
+              "id": "PPR1305624",
+              "source": "PPR",
+              "versionNumber": 1,
+              "firstPublishDate": "2026-08-26",
+              "pubTypeList": {
+                "pubType": [
+                  "preprint"
+                ]
+              },
+              "hasEvaluations": "N"
+            }
+          ]
+        },
+        "versionNumber": 1,
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "42065350",
+        "source": "MED",
+        "pmid": "42065350",
+        "doi": "10.1080/13697137.2026.2663898",
+        "title": "Do menopausal symptoms signal early biological aging? Mitochondrial, endocrine and clinical insights.",
+        "authorString": "Blümel JE, Chedraui P, Vallejo MS.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Blümel JE",
+              "lastName": "Blümel",
+              "firstName": "Juan E",
+              "initials": "JE",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Departamento Medicina Interna Sur, Facultad de Medicina, Universidad de Chile, Santiago de Chile, Chile."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Chedraui P",
+              "lastName": "Chedraui",
+              "firstName": "Peter",
+              "initials": "P",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Escuela de Postgrado en Salud, Universidad Espíritu Santo, Samborondón, Ecuador."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Vallejo MS",
+              "lastName": "Vallejo",
+              "firstName": "María S",
+              "initials": "MS",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Servicio de Obstetricia y Ginecología, Hospital Clínico, Universidad de Chile, Santiago de Chile, Chile."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "3",
+          "volume": "29",
+          "journalIssueId": 4219463,
+          "dateOfPublication": "2026 Jun",
+          "monthOfPublication": 6,
+          "yearOfPublication": 2026,
+          "journal": {
+            "medlineAbbreviation": "Climacteric",
+            "title": "Climacteric : the journal of the International Menopause Society",
+            "essn": "1473-0804",
+            "issn": "1369-7137",
+            "isoabbreviation": "Climacteric",
+            "nlmid": "9810959"
+          },
+          "printPublicationDate": "2026-06-01"
+        },
+        "pubYear": "2026",
+        "pageInfo": "358-363",
+        "abstractText": "The menopausal transition represents a pivotal period in female aging, marked by profound endocrine, metabolic and cellular shifts. Increasing evidence indicates that menopausal symptoms - vasomotor instability, sleep disturbances, fatigue and cognitive complaints - are more than consequences of estrogen withdrawal, and may serve as a potential clinical indicator of biological aging. Experimental and clinical data suggest that declining estrogen signaling contributes to mitochondrial dysfunction, inflammation and telomere attrition, processes that are closely linked to cellular senescence and tissue deterioration. In addition to estrogen decline, the menopausal transition involves broader endocrine changes. Rising follicle stimulating hormone (FSH) levels, alteration in androgen balance and cortisol dysregulation of the hypothalamic-pituitary-adrenal axis may influence metabolic regulation, musculoskeletal health, stress physiology and body composition. Through these mechanisms, menopausal hormonal changes may contribute to increased cardiometabolic, musculoskeletal and neurocognitive vulnerability in midlife women. Clinical observations increasingly show that severe menopausal symptoms are associated with adverse cardiometabolic profiles, vascular dysfunction and markers of accelerated biological aging. Sleep disturbances and fatigue may further exacerbate metabolic dysregulation and systemic vulnerability, while cognitive complaints may reflect neuroinflammatory and vascular processes associated with aging. By restoring estrogen signaling, menopausal hormone therapy alleviates menopausal symptoms and may influence biological pathways involved in aging. Whether these effects translate into a modification of the aging trajectory remains unclear.",
+        "affiliation": "Departamento Medicina Interna Sur, Facultad de Medicina, Universidad de Chile, Santiago de Chile, Chile.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Review",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Pituitary-Adrenal System"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Hypothalamo-Hypophyseal System"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Mitochondria",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Fatigue",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PP",
+                    "qualifierName": "physiopathology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Follicle Stimulating Hormone",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "BL",
+                    "qualifierName": "blood"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Estrogens"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Signal Transduction"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Aging",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Sleep Wake Disorders",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PP",
+                    "qualifierName": "physiopathology"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Follicle stimulating hormone",
+            "menopause",
+            "neuroinflammation",
+            "Biological Aging",
+            "Sarcopenia",
+            "Mitochondrial Dysfunction",
+            "Menopause Hormone Therapy"
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Follicle Stimulating Hormone",
+              "registryNumber": "9002-68-0"
+            },
+            {
+              "name": "Estrogens",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1080/13697137.2026.2663898"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2026-06-23",
+        "dateOfCreation": "2026-05-01",
+        "dateOfRevision": "2026-07-06",
+        "electronicPublicationDate": "2026-05-01",
+        "firstPublicationDate": "2026-05-01",
+        "firstIndexDate": "2026-05-02",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "39626174",
+        "source": "MED",
+        "pmid": "39626174",
+        "doi": "10.1097/gme.0000000000002457",
+        "title": "The prospective association of cellular markers of biological aging with menopause in the Coronary Artery Risk Development in Young Adults Study.",
+        "authorString": "Appiah D, Wellons MF, Schreiner PJ, Puterman E, Hou L, Kim C.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Appiah D",
+              "lastName": "Appiah",
+              "firstName": "Duke",
+              "initials": "D",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-5128-9295"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "From the Department of Public Health, Texas Tech University Health Sciences Center, Lubbock, TX."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Wellons MF",
+              "lastName": "Wellons",
+              "firstName": "Melissa F",
+              "initials": "MF",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Diabetes, Endocrinology, and Metabolism, Vanderbilt University Medical Center, Nashville, TN."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Schreiner PJ",
+              "lastName": "Schreiner",
+              "firstName": "Pamela J",
+              "initials": "PJ",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-9920-6257"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Epidemiology and Community Health, University of Minnesota, Minneapolis, MN."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Puterman E",
+              "lastName": "Puterman",
+              "firstName": "Eli",
+              "initials": "E",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-5898-2348"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Kinesiology, University of British Columbia, Vancouver, British Columbia, Canada."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hou L",
+              "lastName": "Hou",
+              "firstName": "Lifang",
+              "initials": "L",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-4877-0031"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Preventive Medicine, Northwestern University, Chicago, IL."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Kim C",
+              "lastName": "Kim",
+              "firstName": "Catherine",
+              "initials": "C",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9237-0532"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Departments of Medicine and Obstetrics and Gynecology, University of Michigan, Ann Arbor, MI."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-5128-9295"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0001-9237-0532"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-5898-2348"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-9920-6257"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-4877-0031"
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "1",
+          "volume": "32",
+          "journalIssueId": 3875780,
+          "dateOfPublication": "2025 Jan",
+          "monthOfPublication": 1,
+          "yearOfPublication": 2025,
+          "journal": {
+            "medlineAbbreviation": "Menopause",
+            "title": "Menopause (New York, N.Y.)",
+            "essn": "1530-0374",
+            "issn": "1072-3714",
+            "isoabbreviation": "Menopause",
+            "nlmid": "9433353"
+          },
+          "printPublicationDate": "2025-01-01"
+        },
+        "pubYear": "2025",
+        "pageInfo": "91-94",
+        "abstractText": "<h4>Objective</h4>Evidence from cross-sectional studies mainly among postmenopausal women suggests that biological aging is associated with reproductive senescence. We evaluated the prospective association of cellular markers of biological aging measured during the premenopausal period, and changes in these markers, with age at menopause.<h4>Methods</h4>We studied 583 premenopausal women (39% Black) from the Coronary Artery Risk Development in Young Adults Study who had data on biological aging markers in 2000-2001 and reached menopause by 2020-2021. Linear regression models were used to evaluate the association of telomere length, mitochondrial DNA copy number, intrinsic or extrinsic epigenetic age acceleration, and PhenoAge or GrimAge acceleration with age at menopause.<h4>Results</h4>The mean age at baseline was 41.2 ± 3.3 years, with the mean age at menopause being 49.1 (median, 50) years. About one in five women had surgical menopause. In chronological age-adjusted models, only baseline GrimAge acceleration was associated with age at menopause; women whose epigenetic age was older than their chronological age reached menopause at 0.12 years (~6 weeks) earlier compared with women with equal epigenetic and chronological age ( β = -0.123; 95% CI, -0.224 to -0.022; P = 0.018). However, this association was not statistically significant after adjustment for sociodemographic, behavior/lifestyle, and metabolic factors. Similar results were observed when changes in these biological aging markers were evaluated. The same associations were observed in analyses limited to women who reached natural menopause.<h4>Conclusions</h4>Sociodemographic, behavior/lifestyle, and metabolic factors remain comparable, if not more robust predictors of the age at menopause compared with cellular measures of biological age.",
+        "affiliation": "From the Department of Public Health, Texas Tech University Health Sciences Center, Lubbock, TX.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "DNA, Mitochondrial",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Prospective Studies"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Age Factors"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Epigenesis, Genetic"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Aging",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Premenopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Adult"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Coronary Artery Disease",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Young Adult"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Biomarkers",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "BL",
+                    "qualifierName": "blood"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "DNA, Mitochondrial",
+              "registryNumber": "0"
+            },
+            {
+              "name": "Biomarkers",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1097/GME.0000000000002457"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2024-12-27",
+        "dateOfCreation": "2024-12-03",
+        "dateOfRevision": "2024-12-27",
+        "electronicPublicationDate": "2024-12-03",
+        "firstPublicationDate": "2024-12-03",
+        "firstIndexDate": "2024-12-05",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "39302684",
+        "source": "MED",
+        "pmid": "39302684",
+        "doi": "10.1001/jama.2024.19133",
+        "title": "Hormone Therapy Associated With Slower Biological Aging in Menopause.",
+        "authorString": "Anderer S.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Anderer S",
+              "lastName": "Anderer",
+              "firstName": "Samantha",
+              "initials": "S"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "15",
+          "volume": "332",
+          "journalIssueId": 3839967,
+          "dateOfPublication": "2024 Oct",
+          "monthOfPublication": 10,
+          "yearOfPublication": 2024,
+          "journal": {
+            "medlineAbbreviation": "JAMA",
+            "title": "JAMA",
+            "essn": "1538-3598",
+            "issn": "0098-7484",
+            "isoabbreviation": "JAMA",
+            "nlmid": "7501160"
+          },
+          "printPublicationDate": "2024-10-01"
+        },
+        "pubYear": "2024",
+        "pageInfo": "1229",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "News"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1001/jama.2024.19133"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "N",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2024-10-15",
+        "dateOfCreation": "2024-09-20",
+        "dateOfRevision": "2024-12-06",
+        "firstPublicationDate": "2024-10-01",
+        "firstIndexDate": "2024-09-20",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2026-10-12T14:14:03Z",
+      "timestamp": 1791814443683,
+      "version": "4.3.4"
+    },
+    "reference-count": 27,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "1",
+    "content-domain": {
+      "domain": [
+        "lww.com",
+        "ovid.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Menopause"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>Evidence from cross-sectional studies mainly among postmenopausal women suggests that biological aging is associated with reproductive senescence. We evaluated the prospective association of cellular markers of biological aging measured during the premenopausal period, and changes in these markers, with age at menopause.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>We studied 583 premenopausal women (39% Black) from the Coronary Artery Risk Development in Young Adults Study who had data on biological aging markers in 2000-2001 and reached menopause by 2020-2021. Linear regression models were used to evaluate the association of telomere length, mitochondrial DNA copy number, intrinsic or extrinsic epigenetic age acceleration, and PhenoAge or GrimAge acceleration with age at menopause.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>\n                      The mean age at baseline was 41.2 ± 3.3 years, with the mean age at menopause being 49.1 (median, 50) years. About one in five women had surgical menopause. In chronological age-adjusted models, only baseline GrimAge acceleration was associated with age at menopause; women whose epigenetic age was older than their chronological age reached menopause at 0.12 years (~6 weeks) earlier compared with women with equal epigenetic and chronological age (\n                      <jats:italic toggle=\"yes\">β</jats:italic>\n                      = −0.123; 95% CI, −0.224 to −0.022;\n                      <jats:italic toggle=\"yes\">P</jats:italic>\n                      = 0.018). However, this association was not statistically significant after adjustment for sociodemographic, behavior/lifestyle, and metabolic factors. Similar results were observed when changes in these biological aging markers were evaluated. The same associations were observed in analyses limited to women who reached natural menopause.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Sociodemographic, behavior/lifestyle, and metabolic factors remain comparable, if not more robust predictors of the age at menopause compared with cellular measures of biological age.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1097/gme.0000000000002457",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          3
+        ]
+      ],
+      "date-time": "2024-12-03T17:00:36Z",
+      "timestamp": 1733245236000
+    },
+    "page": "91-94",
+    "update-policy": "https://doi.org/10.1097/lww.0000000000001000",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "The prospective association of cellular markers of biological aging with menopause in the Coronary Artery Risk Development in Young Adults Study"
+    ],
+    "prefix": "10.1097",
+    "volume": "32",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5128-9295",
+        "authenticated-orcid": false,
+        "given": "Duke",
+        "family": "Appiah",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Public Health, Texas Tech University Health Sciences Center, Lubbock, TX"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Melissa F.",
+        "family": "Wellons",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Diabetes, Endocrinology, and Metabolism, Vanderbilt University Medical Center, Nashville, TN"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pamela J.",
+        "family": "Schreiner",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Epidemiology and Community Health, University of Minnesota, Minneapolis, MN"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eli",
+        "family": "Puterman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Kinesiology, University of British Columbia, Vancouver, British Columbia, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lifang",
+        "family": "Hou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Preventive Medicine, Northwestern University, Chicago, IL"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Catherine",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departments of Medicine and Obstetrics and Gynecology, University of Michigan, Ann Arbor, MI."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bib1-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1186/s13059-019-1824-y",
+        "article-title": "DNA methylation aging clocks: challenges and recommendations",
+        "volume": "20",
+        "year": "2019",
+        "journal-title": "Genome Biol"
+      },
+      {
+        "key": "bib2-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0221690",
+        "DOI": "10.1371/journal.pone.0221690",
+        "article-title": "Decline in telomere length by age and effect modification by gender, allostatic load and comorbidities in National Health and Nutrition Examination Survey (1999-2002)",
+        "volume": "14",
+        "year": "2019",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "bib3-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "e42423",
+        "DOI": "10.1371/journal.pone.0042423",
+        "article-title": "Blood cell mitochondrial DNA content and premature ovarian aging",
+        "volume": "7",
+        "year": "2012",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "bib4-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "9327",
+        "DOI": "10.1073/pnas.1604558113",
+        "article-title": "Menopause accelerates biological aging",
+        "volume": "113",
+        "year": "2016",
+        "journal-title": "Proc Natl Acad Sci U S A"
+      },
+      {
+        "key": "bib5-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "1105",
+        "DOI": "10.1016/0895-4356(88)90080-7",
+        "article-title": "CARDIA: study design, recruitment, and some characteristics of the examined subjects",
+        "volume": "41",
+        "year": "1988",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "bib6-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "506",
+        "DOI": "10.1016/j.atherosclerosis.2011.10.041",
+        "article-title": "Telomerase, telomere length, and coronary artery calcium in Black and White men in the CARDIA study",
+        "volume": "220",
+        "year": "2012",
+        "journal-title": "Atherosclerosis"
+      },
+      {
+        "key": "bib7-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "134",
+        "DOI": "10.1186/s13148-022-01359-8",
+        "article-title": "Marijuana use and DNA methylation-based biological age in young adults",
+        "volume": "14",
+        "year": "2022",
+        "journal-title": "Clin Epigenetics"
+      },
+      {
+        "key": "bib8-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "770",
+        "DOI": "10.1161/CIRCRESAHA.121.318965",
+        "article-title": "Epigenetic age acceleration reflects long-term cardiovascular health",
+        "volume": "129",
+        "year": "2021",
+        "journal-title": "Circ Res"
+      },
+      {
+        "key": "bib9-20260303",
+        "first-page": "R115",
+        "article-title": "DNA methylation age of human tissues and cell types",
+        "volume": "14",
+        "year": "2013",
+        "journal-title": "Genome Biol"
+      },
+      {
+        "key": "bib10-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "359",
+        "DOI": "10.1016/j.molcel.2012.10.016",
+        "article-title": "Genome-wide methylation profiles reveal quantitative views of human aging rates",
+        "volume": "49",
+        "year": "2013",
+        "journal-title": "Mol Cell"
+      },
+      {
+        "key": "bib11-20260303",
+        "first-page": "573",
+        "article-title": "An epigenetic biomarker of aging for lifespan and healthspan",
+        "volume": "10",
+        "year": "2018",
+        "journal-title": "Aging (Albany N Y)"
+      },
+      {
+        "key": "bib12-20260303",
+        "first-page": "303",
+        "article-title": "DNA methylation GrimAge strongly predicts lifespan and healthspan",
+        "volume": "11",
+        "year": "2019",
+        "journal-title": "Aging (Albany N Y)"
+      },
+      {
+        "key": "bib13-20260303",
+        "first-page": "991",
+        "article-title": "Is surgical menopause associated with future levels of cardiovascular risk factor independent of antecedent levels? The CARDIA Study",
+        "volume": "182",
+        "year": "2015",
+        "journal-title": "Am J Epidemiol"
+      },
+      {
+        "key": "bib14-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "204",
+        "DOI": "10.1055/s-0030-1251477",
+        "article-title": "New directions in the epidemiology of uterine fibroids",
+        "volume": "28",
+        "year": "2010",
+        "journal-title": "Semin Reprod Med"
+      },
+      {
+        "key": "bib15-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "1280",
+        "DOI": "10.1097/AOG.0b013e318236fe61",
+        "article-title": "Trends in bilateral oophorectomy at the time of hysterectomy for benign disease",
+        "volume": "118",
+        "year": "2011",
+        "journal-title": "Obstet Gynecol"
+      },
+      {
+        "key": "bib16-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1097/EDE.0000000000000017",
+        "article-title": "Leukocyte telomere length and age at menopause",
+        "volume": "25",
+        "year": "2014",
+        "journal-title": "Epidemiology"
+      },
+      {
+        "key": "bib17-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.1016/j.maturitas.2015.07.009",
+        "article-title": "Telomere length and age-at-menopause in the US",
+        "volume": "82",
+        "year": "2015",
+        "journal-title": "Maturitas"
+      },
+      {
+        "key": "bib18-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "103897",
+        "DOI": "10.1016/j.isci.2022.103897",
+        "article-title": "Immunoglobulin G glycome composition in transition from premenopause to postmenopause",
+        "volume": "25",
+        "year": "2022",
+        "journal-title": "iScience"
+      },
+      {
+        "key": "bib19-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "741",
+        "DOI": "10.1093/gerona/glaa286",
+        "article-title": "GrimAge outperforms other epigenetic clocks in the prediction of age-related clinical phenotypes and all-cause mortality",
+        "volume": "76",
+        "year": "2021",
+        "journal-title": "J Gerontol A Biol Sci Med Sci"
+      },
+      {
+        "key": "bib20-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1016/j.fertnstert.2022.03.021",
+        "article-title": "Antimüllerian hormone and leukocyte aging markers in the Coronary Artery Risk Development in Young Adults Study",
+        "volume": "118",
+        "year": "2022",
+        "journal-title": "Fertil Steril"
+      },
+      {
+        "key": "bib21-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "20522",
+        "DOI": "10.1038/s41598-020-77082-2",
+        "article-title": "Parity predicts biological age acceleration in post-menopausal, but not pre-menopausal, women",
+        "volume": "10",
+        "year": "2020",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "bib22-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "213",
+        "DOI": "10.1016/j.neurobiolaging.2018.09.029",
+        "article-title": "Neuroendocrine aging precedes perimenopause and is regulated by DNA methylation",
+        "volume": "74",
+        "year": "2019",
+        "journal-title": "Neurobiol Aging"
+      },
+      {
+        "key": "bib23-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "e2215840120",
+        "DOI": "10.1073/pnas.2215840120",
+        "article-title": "Epigenetic-based age acceleration in a representative sample of older Americans: associations with aging-related morbidity and mortality",
+        "volume": "120",
+        "year": "2023",
+        "journal-title": "Proc Natl Acad Sci U S A"
+      },
+      {
+        "key": "bib24-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "1328",
+        "DOI": "10.1001/jama.2021.0278",
+        "article-title": "Trends in age at natural menopause and reproductive life span among US women, 1959-2018",
+        "volume": "325",
+        "year": "2021",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "bib25-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "458",
+        "DOI": "10.1186/s12889-024-17960-w",
+        "article-title": "Living in poverty and accelerated biological aging: evidence from population-representative sample of U.S. adults",
+        "volume": "24",
+        "year": "2024",
+        "journal-title": "BMC Public Health"
+      },
+      {
+        "key": "bib26-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1016/j.ecl.2015.05.010",
+        "article-title": "Endocrinology of the menopause",
+        "volume": "44",
+        "year": "2015",
+        "journal-title": "Endocrinol Metab Clin North Am"
+      },
+      {
+        "key": "bib27-20260303",
+        "doi-asserted-by": "crossref",
+        "first-page": "360",
+        "DOI": "10.1038/s41591-023-02784-9",
+        "article-title": "Validation of biomarkers of aging",
+        "volume": "30",
+        "year": "2024",
+        "journal-title": "Nat Med"
+      }
+    ],
+    "container-title": [
+      "Menopause"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/10.1097/GME.0000000000002457",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          3
+        ]
+      ],
+      "date-time": "2026-03-03T18:00:58Z",
+      "timestamp": 1772560858000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/10.1097/GME.0000000000002457"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          3
+        ]
+      ]
+    },
+    "references-count": 27,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2025
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1097/gme.0000000000002457",
+    "relation": {},
+    "ISSN": [
+      "1530-0374"
+    ],
+    "issn-type": [
+      {
+        "value": "1530-0374",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          3
+        ]
+      ]
+    }
+  }
+}

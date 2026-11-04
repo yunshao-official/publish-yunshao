@@ -1,0 +1,1552 @@
+{
+  "卷": "F",
+  "条数": 114,
+  "模块": {
+    "M05": {
+      "送审": 31,
+      "留": 28,
+      "删": 3,
+      "待核": 0,
+      "剔除率": "9.7%",
+      "判定": "合格"
+    },
+    "M04": {
+      "送审": 29,
+      "留": 28,
+      "删": 0,
+      "待核": 1,
+      "剔除率": "3.4%",
+      "判定": "合格"
+    },
+    "M08": {
+      "送审": 28,
+      "留": 23,
+      "删": 5,
+      "待核": 0,
+      "剔除率": "17.9%",
+      "判定": "不合格"
+    },
+    "M15": {
+      "送审": 26,
+      "留": 19,
+      "删": 6,
+      "待核": 1,
+      "剔除率": "26.9%",
+      "判定": "不合格"
+    }
+  },
+  "门W漏网": [
+    "F031"
+  ],
+  "门N漏网": [
+    "F084",
+    "F086",
+    "F087",
+    "F088",
+    "F104",
+    "F110",
+    "F113"
+  ],
+  "文献": [
+    {
+      "编号": "F001",
+      "模块号": "M05",
+      "PMID": "25160739",
+      "标题": "Genitourinary syndrome of menopause: new terminology for vul",
+      "结论": "留",
+      "理由": "定义GSM术语含干涩尿频性交痛等",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11"
+      ]
+    },
+    {
+      "编号": "F002",
+      "模块号": "M05",
+      "PMID": "23985562",
+      "标题": "Management of symptomatic vulvovaginal atrophy: 2013 positio",
+      "结论": "留",
+      "理由": "NAMS立场声明管理绝经后VVA",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F003",
+      "模块号": "M05",
+      "PMID": "20042564",
+      "标题": "Vulvovaginal atrophy.",
+      "结论": "留",
+      "理由": "VVA综述含症状诊断与局部雌激素",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F004",
+      "模块号": "M05",
+      "PMID": "32852449",
+      "标题": "The 2020 genitourinary syndrome of menopause position statem",
+      "结论": "留",
+      "理由": "2020 NAMS GSM管理立场声明更新",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F005",
+      "模块号": "M05",
+      "PMID": "24080849",
+      "标题": "Association between the vaginal microbiota, menopause status",
+      "结论": "留",
+      "理由": "阴道微生物组与绝经状态及VVA关联",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q27"
+      ]
+    },
+    {
+      "编号": "F006",
+      "模块号": "M05",
+      "PMID": "27472999",
+      "标题": "Genitourinary syndrome of menopause: an overview of clinical",
+      "结论": "留",
+      "理由": "综述GSM病理生理治疗含激光和DHEA",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F007",
+      "模块号": "M05",
+      "PMID": "18698279",
+      "标题": "Vulvovaginal atrophy is strongly associated with female sexu",
+      "结论": "留",
+      "理由": "VVA与绝经后性功能障碍强关联",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F008",
+      "模块号": "M05",
+      "PMID": "24605832",
+      "标题": "A 12-week treatment with fractional CO2 laser for vulvovagin",
+      "结论": "留",
+      "理由": "12周CO2激光治疗VVA pilot研究",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11"
+      ]
+    },
+    {
+      "编号": "F009",
+      "模块号": "M05",
+      "PMID": "25415166",
+      "标题": "Vaginal estrogen for genitourinary syndrome of menopause: a ",
+      "结论": "留",
+      "理由": "阴道雌激素治疗GSM系统综述",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F010",
+      "模块号": "M05",
+      "PMID": "24423885",
+      "标题": "Impact of vulvovaginal atrophy on sexual health and quality ",
+      "结论": "留",
+      "理由": "VVA对绝经后性健康和生活质量影响",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F011",
+      "模块号": "M05",
+      "PMID": "28220946",
+      "标题": "Light and energy based therapeutics for genitourinary syndro",
+      "结论": "留",
+      "理由": "激光和射频治疗GSM共识含争议讨论",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11"
+      ]
+    },
+    {
+      "编号": "F012",
+      "模块号": "M05",
+      "PMID": "29762200",
+      "标题": "Management of genitourinary syndrome of menopause in women w",
+      "结论": "留",
+      "理由": "乳腺癌高危女性GSM管理共识",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q29"
+      ]
+    },
+    {
+      "编号": "F013",
+      "模块号": "M05",
+      "PMID": "20032798",
+      "标题": "Ospemifene effectively treats vulvovaginal atrophy in postme",
+      "结论": "留",
+      "理由": "Ospemifene SERM治疗VVA III期RCT",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F014",
+      "模块号": "M05",
+      "PMID": "26707589",
+      "标题": "Treating vulvovaginal atrophy/genitourinary syndrome of meno",
+      "结论": "留",
+      "理由": "阴道润滑剂保湿剂成分对GSM重要性",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F015",
+      "模块号": "M05",
+      "PMID": "23935388",
+      "标题": "Impact of vulvovaginal health on postmenopausal women: a rev",
+      "结论": "留",
+      "理由": "VVA症状调查含就医障碍和治疗",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F016",
+      "模块号": "M05",
+      "PMID": "25333211",
+      "标题": "Sexual function after fractional microablative CO₂ laser in ",
+      "结论": "留",
+      "理由": "CO2激光后性功能FSFI显著改善",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11"
+      ]
+    },
+    {
+      "编号": "F017",
+      "模块号": "M05",
+      "PMID": "26731686",
+      "标题": "Efficacy of intravaginal dehydroepiandrosterone (DHEA) on mo",
+      "结论": "留",
+      "理由": "阴道DHEA治疗性交痛和VVA III期RCT",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F018",
+      "模块号": "M05",
+      "PMID": "25179577",
+      "标题": "Genitourinary syndrome of menopause: new terminology for vul",
+      "结论": "删",
+      "理由": "与F001同一GSM术语共识重复发表",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11"
+      ]
+    },
+    {
+      "编号": "F019",
+      "模块号": "M05",
+      "PMID": "27546524",
+      "标题": "Efficacy of Erbium:YAG laser treatment compared to topical e",
+      "结论": "留",
+      "理由": "Er:YAG激光对比雌三醇治疗GSM",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11"
+      ]
+    },
+    {
+      "编号": "F020",
+      "模块号": "M05",
+      "PMID": "25153131",
+      "标题": "Genitourinary syndrome of menopause: new terminology for vul",
+      "结论": "删",
+      "理由": "与F001同一GSM术语共识重复发表",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11"
+      ]
+    },
+    {
+      "编号": "F021",
+      "模块号": "M05",
+      "PMID": "26357643",
+      "标题": "The Recent Review of the Genitourinary Syndrome of Menopause",
+      "结论": "留",
+      "理由": "GSM最新综述含症状谱和治疗",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F022",
+      "模块号": "M05",
+      "PMID": "31496993",
+      "标题": "Addressing Vulvovaginal Atrophy (VVA)/Genitourinary Syndrome",
+      "结论": "留",
+      "理由": "GSM/VVA与健康衰老综述",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F023",
+      "模块号": "M05",
+      "PMID": "26029987",
+      "标题": "Vaginal erbium laser: the second-generation thermotherapy fo",
+      "结论": "留",
+      "理由": "阴道铒激光GSM二代热疗对比雌三醇",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11"
+      ]
+    },
+    {
+      "编号": "F024",
+      "模块号": "M05",
+      "PMID": "29553288",
+      "标题": "The European Vulvovaginal Epidemiological Survey (EVES): pre",
+      "结论": "留",
+      "理由": "EVES调查VVA患病率90%含DIVA问卷",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F025",
+      "模块号": "M05",
+      "PMID": "27170261",
+      "标题": "Fractional CO2 laser for vulvovaginal atrophy (VVA) dyspareu",
+      "结论": "留",
+      "理由": "CO2激光治疗乳腺癌幸存者VVA性交痛",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11",
+        "Q29"
+      ]
+    },
+    {
+      "编号": "F026",
+      "模块号": "M05",
+      "PMID": "36763359",
+      "标题": "Effect of Fractional Carbon Dioxide vs Sham Laser on Sexual ",
+      "结论": "留",
+      "理由": "LIGHT RCT:CO2激光vs假手术乳腺癌GSM",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11",
+        "Q29"
+      ]
+    },
+    {
+      "编号": "F027",
+      "模块号": "M05",
+      "PMID": "31453969",
+      "标题": "The effect of vaginal erbium laser treatment on sexual funct",
+      "结论": "留",
+      "理由": "铒激光治疗乳腺癌史女性GSM pilot",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11",
+        "Q29"
+      ]
+    },
+    {
+      "编号": "F028",
+      "模块号": "M05",
+      "PMID": "30103082",
+      "标题": "Efficacy of vaginal therapies alternative to vaginal estroge",
+      "结论": "留",
+      "理由": "非雌激素阴道疗法治疗GSM荟萃分析",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11"
+      ]
+    },
+    {
+      "编号": "F029",
+      "模块号": "M05",
+      "PMID": "28843942",
+      "标题": "Sexual Function in Women Suffering From Genitourinary Syndro",
+      "结论": "留",
+      "理由": "CO2激光治疗GSM性功能综述",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11"
+      ]
+    },
+    {
+      "编号": "F030",
+      "模块号": "M05",
+      "PMID": "33534429",
+      "标题": "Patient-reported sexual function of breast cancer survivors ",
+      "结论": "留",
+      "理由": "CO2激光后乳腺癌幸存者性功能12月随访",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": [
+        "Q11",
+        "Q29"
+      ]
+    },
+    {
+      "编号": "F031",
+      "模块号": "M05",
+      "PMID": "32458469",
+      "标题": "The Efficacy and Safety of CO<sub>2</sub> Laser Treatment fo",
+      "结论": "删",
+      "理由": "绝经前女性阴道松弛非GSM",
+      "标签": [
+        "M05"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F032",
+      "模块号": "M04",
+      "PMID": "25686030",
+      "标题": "Duration of menopausal vasomotor symptoms over the menopause",
+      "结论": "留",
+      "理由": "SWAN:VMS中位持续4.5年少数>10年",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F033",
+      "模块号": "M04",
+      "PMID": "11731510",
+      "标题": "Methodologic lessons learned from hot flash studies.",
+      "结论": "留",
+      "理由": "潮热研究方法学含强度定义和日记信度",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F034",
+      "模块号": "M04",
+      "PMID": "21961716",
+      "标题": "Vasomotor symptoms and menopause: findings from the Study of",
+      "结论": "留",
+      "理由": "SWAN VMS综述含流行率种族差异风险因素",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F035",
+      "模块号": "M04",
+      "PMID": "16083502",
+      "标题": "Psychosocial and socioeconomic burden of vasomotor symptoms ",
+      "结论": "留",
+      "理由": "VMS心理社会负担综述含病理生理",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": [
+        "Q06"
+      ]
+    },
+    {
+      "编号": "F036",
+      "模块号": "M04",
+      "PMID": "14716179",
+      "标题": "Treatment of menopause-associated vasomotor symptoms: positi",
+      "结论": "留",
+      "理由": "NAMS 2004 VMS治疗立场声明含非激素",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F037",
+      "模块号": "M04",
+      "PMID": "11738160",
+      "标题": "The Hot Flash Related Daily Interference Scale: a tool for a",
+      "结论": "留",
+      "理由": "HFRDIS工具评估潮热对生活干扰",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F038",
+      "模块号": "M04",
+      "PMID": "26382310",
+      "标题": "Nonhormonal management of menopause-associated vasomotor sym",
+      "结论": "留",
+      "理由": "NAMS 2015非激素管理VMS立场声明",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F039",
+      "模块号": "M04",
+      "PMID": "19285736",
+      "标题": "Hot flash: TRPV channels in the brain.",
+      "结论": "待核",
+      "理由": "摘要仅述TRPV脑功能未提潮热或绝经",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": [
+        "Q06"
+      ]
+    },
+    {
+      "编号": "F040",
+      "模块号": "M04",
+      "PMID": "17179056",
+      "标题": "Treatment of vasomotor symptoms of menopause with black coho",
+      "结论": "留",
+      "理由": "黑升麻多成分大豆vs激素RCT",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F041",
+      "模块号": "M04",
+      "PMID": "36924778",
+      "标题": "Fezolinetant for treatment of moderate-to-severe vasomotor s",
+      "结论": "留",
+      "理由": "Fezolinetant NK3拮抗剂SKYLIGHT 1 Lancet RCT",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": [
+        "Q06"
+      ]
+    },
+    {
+      "编号": "F042",
+      "模块号": "M04",
+      "PMID": "34033602",
+      "标题": "Global cross-sectional survey of women with vasomotor sympto",
+      "结论": "留",
+      "理由": "全球调查VMS患病率欧40%美34%日16%",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F043",
+      "模块号": "M04",
+      "PMID": "16144949",
+      "标题": "The relationship of longitudinal change in reproductive horm",
+      "结论": "留",
+      "理由": "SWAN生殖激素纵向变化与VMS关联",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F044",
+      "模块号": "M04",
+      "PMID": "18521690",
+      "标题": "Revisiting the duration of vasomotor symptoms of menopause: ",
+      "结论": "留",
+      "理由": "荟萃分析VMS自然病程超既往估计",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F045",
+      "模块号": "M04",
+      "PMID": "18202963",
+      "标题": "Frequency and severity of vasomotor symptoms among peri- and",
+      "结论": "留",
+      "理由": "美国VMS频率严重度调查含日发作次数",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F046",
+      "模块号": "M04",
+      "PMID": "36734148",
+      "标题": "Efficacy and Safety of Fezolinetant in Moderate to Severe Va",
+      "结论": "留",
+      "理由": "Fezolinetant SKYLIGHT 2 RCT 40周延伸",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": [
+        "Q06"
+      ]
+    },
+    {
+      "编号": "F047",
+      "模块号": "M04",
+      "PMID": "18074100",
+      "标题": "Understanding the pathophysiology of vasomotor symptoms (hot",
+      "结论": "留",
+      "理由": "VMS病理生理综述含体温调节和KNDy",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": [
+        "Q06"
+      ]
+    },
+    {
+      "编号": "F048",
+      "模块号": "M04",
+      "PMID": "10076170",
+      "标题": "Vasomotor flushes in menopausal women.",
+      "结论": "留",
+      "理由": "绝经后血管舒缩潮热综述含持续时间",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": [
+        "Q06"
+      ]
+    },
+    {
+      "编号": "F049",
+      "模块号": "M04",
+      "PMID": "18165395",
+      "标题": "Efficacy and tolerability of desvenlafaxine succinate treatm",
+      "结论": "留",
+      "理由": "Desvenlafaxine SNRI治疗VMS RCT",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F050",
+      "模块号": "M04",
+      "PMID": "12161042",
+      "标题": "Isoflavones from red clover (Promensil) significantly reduce",
+      "结论": "留",
+      "理由": "红车轴草异黄酮减少潮热RCT",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F051",
+      "模块号": "M04",
+      "PMID": "10486790",
+      "标题": "Feasibility and psychometrics of an ambulatory hot flash mon",
+      "结论": "留",
+      "理由": "动态潮热皮肤电导监测设备可行性",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F052",
+      "模块号": "M04",
+      "PMID": "19675142",
+      "标题": "Gains in body fat and vasomotor symptom reporting over the m",
+      "结论": "留",
+      "理由": "SWAN体脂增加与VMS报告关联",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "F053",
+      "模块号": "M04",
+      "PMID": "22433977",
+      "标题": "Extracted or synthesized soybean isoflavones reduce menopaus",
+      "结论": "留",
+      "理由": "大豆异黄酮减少潮热荟萃分析",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F054",
+      "模块号": "M04",
+      "PMID": "30401547",
+      "标题": "Vasomotor Symptoms Across the Menopause Transition: Differen",
+      "结论": "留",
+      "理由": "VMS跨绝经过渡差异含种族和BMI",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F055",
+      "模块号": "M04",
+      "PMID": "23403500",
+      "标题": "Impact of the severity of vasomotor symptoms on health statu",
+      "结论": "留",
+      "理由": "VMS严重度与健康资源使用和生产力",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F056",
+      "模块号": "M04",
+      "PMID": "33470142",
+      "标题": "Menopausal Vasomotor Symptoms and Risk of Incident Cardiovas",
+      "结论": "留",
+      "理由": "SWAN VMS与22年心血管事件风险关联",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F057",
+      "模块号": "M04",
+      "PMID": "36306669",
+      "标题": "Prevalence and quality-of-life burden of vasomotor symptoms ",
+      "结论": "留",
+      "理由": "欧洲VMS患病率和生活质量负担调查",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F058",
+      "模块号": "M04",
+      "PMID": "35231007",
+      "标题": "Prevalence, severity, and associated factors in women in Eas",
+      "结论": "留",
+      "理由": "东亚VMS患病率严重度调查",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F059",
+      "模块号": "M04",
+      "PMID": "37847872",
+      "标题": "Prevalence and impact of vasomotor symptoms due to menopause",
+      "结论": "留",
+      "理由": "巴西加拿大墨西哥北欧VMS跨国调查",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F060",
+      "模块号": "M04",
+      "PMID": "37725375",
+      "标题": "Premenstrual Disorders, Timing of Menopause, and Severity of",
+      "结论": "留",
+      "理由": "NHS II:经前障碍与绝经时机和VMS",
+      "标签": [
+        "M04"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F061",
+      "模块号": "M08",
+      "PMID": "8709781",
+      "标题": "Effect of oestrogen during menopause on risk and age at onse",
+      "结论": "留",
+      "理由": "雌激素降低AD风险延迟发病Lancet经典",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q16"
+      ]
+    },
+    {
+      "编号": "F062",
+      "模块号": "M08",
+      "PMID": "17761551",
+      "标题": "Increased risk of cognitive impairment or dementia in women ",
+      "结论": "留",
+      "理由": "绝经前卵巢切除增认知痴呆风险",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q14",
+        "Q16"
+      ]
+    },
+    {
+      "编号": "F063",
+      "模块号": "M08",
+      "PMID": "3067252",
+      "标题": "Estrogen and/or androgen replacement therapy and cognitive f",
+      "结论": "留",
+      "理由": "手术绝经后雌激素±雄激素替代认知交叉研究",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "F064",
+      "模块号": "M08",
+      "PMID": "24336141",
+      "标题": "Age at surgical menopause influences cognitive decline and A",
+      "结论": "留",
+      "理由": "手术绝经年龄与认知下降和AD病理",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q14",
+        "Q16"
+      ]
+    },
+    {
+      "编号": "F065",
+      "模块号": "M08",
+      "PMID": "11113299",
+      "标题": "The nature of the effect of female gonadal hormone replaceme",
+      "结论": "留",
+      "理由": "HRT对绝经后认知荟萃分析效应小而不一致",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q17"
+      ]
+    },
+    {
+      "编号": "F066",
+      "模块号": "M08",
+      "PMID": "19470968",
+      "标题": "Effects of the menopause transition and hormone use on cogni",
+      "结论": "留",
+      "理由": "SWAN绝经过渡期认知处理速度下降",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q17"
+      ]
+    },
+    {
+      "编号": "F067",
+      "模块号": "M08",
+      "PMID": "18522863",
+      "标题": "Estrogen anti-inflammatory activity in brain: a therapeutic ",
+      "结论": "留",
+      "理由": "雌激素抗神经炎症活性综述",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q16"
+      ]
+    },
+    {
+      "编号": "F068",
+      "模块号": "M08",
+      "PMID": "34108509",
+      "标题": "Menopause impacts human brain structure, connectivity, energ",
+      "结论": "留",
+      "理由": "绝经影响脑结构连接代谢和淀粉样蛋白",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q16",
+        "Q17"
+      ]
+    },
+    {
+      "编号": "F069",
+      "模块号": "M08",
+      "PMID": "14615445",
+      "标题": "Cognitive function, fatigue, and menopausal symptoms in wome",
+      "结论": "留",
+      "理由": "化疗诱导绝经后认知疲劳和症状",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q29"
+      ]
+    },
+    {
+      "编号": "F070",
+      "模块号": "M08",
+      "PMID": "30298180",
+      "标题": "Female Sex and Alzheimer's Risk: The Menopause Connection.",
+      "结论": "留",
+      "理由": "女性性别AD风险与绝经神经内分泌连接",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q16"
+      ]
+    },
+    {
+      "编号": "F071",
+      "模块号": "M08",
+      "PMID": "20965156",
+      "标题": "Oophorectomy, menopause, estrogen treatment, and cognitive a",
+      "结论": "留",
+      "理由": "卵巢切除绝经雌激素与认知机会窗口假说",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "F072",
+      "模块号": "M08",
+      "PMID": "30540774",
+      "标题": "Increased Alzheimer's risk during the menopause transition: ",
+      "结论": "留",
+      "理由": "绝经过渡期AD风险3年纵向脑影像",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q16"
+      ]
+    },
+    {
+      "编号": "F073",
+      "模块号": "M08",
+      "PMID": "22340966",
+      "标题": "Cognitive behavioural treatment for women who have menopausa",
+      "结论": "留",
+      "理由": "CBT治疗乳腺癌后潮热MENOS 1 RCT",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q29"
+      ]
+    },
+    {
+      "编号": "F074",
+      "模块号": "M08",
+      "PMID": "9484355",
+      "标题": "Cognitive function in nondemented older women who took estro",
+      "结论": "留",
+      "理由": "绝经后雌激素使用与认知纵向2.5年",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "F075",
+      "模块号": "M08",
+      "PMID": "16258100",
+      "标题": "Fatigue, menopausal symptoms, and cognitive function in wome",
+      "结论": "留",
+      "理由": "化疗后绝经症状与认知1-2年随访",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q29"
+      ]
+    },
+    {
+      "编号": "F076",
+      "模块号": "M08",
+      "PMID": "9153163",
+      "标题": "Estrogen effects on cognition in menopausal women.",
+      "结论": "留",
+      "理由": "雌激素对记忆影响综述含手术和自然绝经",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "F077",
+      "模块号": "M08",
+      "PMID": "23045575",
+      "标题": "Efficacy of cognitive behavioral therapy and physical exerci",
+      "结论": "留",
+      "理由": "CBT和运动治疗诱导绝经症状多中心RCT",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q29"
+      ]
+    },
+    {
+      "编号": "F078",
+      "模块号": "M08",
+      "PMID": "24802975",
+      "标题": "Impact of a premature menopause on cognitive function in lat",
+      "结论": "留",
+      "理由": "早发绝经≤40岁与后期认知和痴呆风险",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q09",
+        "Q14"
+      ]
+    },
+    {
+      "编号": "F079",
+      "模块号": "M08",
+      "PMID": "20442205",
+      "标题": "Menopause-associated symptoms and cognitive performance: res",
+      "结论": "留",
+      "理由": "SWAN绝经症状与认知含抑郁症状影响",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q17",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "F080",
+      "模块号": "M08",
+      "PMID": "22336748",
+      "标题": "Effectiveness of group and self-help cognitive behavior ther",
+      "结论": "留",
+      "理由": "CBT减少潮热问题评级MENOS 2 RCT",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F081",
+      "模块号": "M08",
+      "PMID": "30928686",
+      "标题": "Surgical menopause in association with cognitive function an",
+      "结论": "留",
+      "理由": "手术绝经与认知和痴呆系统综述荟萃",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "F082",
+      "模块号": "M08",
+      "PMID": "28054939",
+      "标题": "Effects of Resveratrol on Cognitive Performance, Mood and Ce",
+      "结论": "留",
+      "理由": "白藜芦醇改善绝经后认知和脑血流RCT",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F083",
+      "模块号": "M08",
+      "PMID": "15696445",
+      "标题": "Chronic kidney disease and cognitive impairment in menopausa",
+      "结论": "删",
+      "理由": "CKD与绝经后认知主要焦点为肾病非绝经",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F084",
+      "模块号": "M08",
+      "PMID": "21030115",
+      "标题": "Synaptic correlates of memory and menopause in the hippocamp",
+      "结论": "删",
+      "理由": "恒河猴绝经与记忆海马突触",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F085",
+      "模块号": "M08",
+      "PMID": "25538545",
+      "标题": "Functional and molecular neuroimaging of menopause and hormo",
+      "结论": "留",
+      "理由": "绝经和HRT神经影像fMRI PET综述",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q17"
+      ]
+    },
+    {
+      "编号": "F086",
+      "模块号": "M08",
+      "PMID": "33871312",
+      "标题": "Combination of tea polyphenols and proanthocyanidins prevent",
+      "结论": "删",
+      "理由": "大鼠OVX模型茶多酚防记忆衰退",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F087",
+      "模块号": "M08",
+      "PMID": "33558464",
+      "标题": "Chronic modafinil therapy ameliorates depressive-like behavi",
+      "结论": "删",
+      "理由": "小鼠OVX模型莫达非尼改善抑郁记忆",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "F088",
+      "模块号": "M08",
+      "PMID": "36261268",
+      "标题": "History of Previous Midlife Estradiol Treatment Permanently ",
+      "结论": "删",
+      "理由": "大鼠雌二醇IGF-1脑神经雌激素认知衰老",
+      "标签": [
+        "M08"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F089",
+      "模块号": "M15",
+      "PMID": "15351195",
+      "标题": "Parkinsonism, premature menopause, and mitochondrial DNA pol",
+      "结论": "留",
+      "理由": "POLG突变致帕金森和早发绝经线粒体",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q09"
+      ]
+    },
+    {
+      "编号": "F090",
+      "模块号": "M15",
+      "PMID": "27457926",
+      "标题": "Menopause accelerates biological aging.",
+      "结论": "留",
+      "理由": "Horvath表观遗传时钟示绝经加速生物衰老",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q24"
+      ]
+    },
+    {
+      "编号": "F091",
+      "模块号": "M15",
+      "PMID": "27451320",
+      "标题": "Menopause and the vaginal microbiome.",
+      "结论": "留",
+      "理由": "绝经与阴道微生物组综述含HRT影响",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q27"
+      ]
+    },
+    {
+      "编号": "F092",
+      "模块号": "M15",
+      "PMID": "22073175",
+      "标题": "Vaginal microbiome and epithelial gene array in post-menopau",
+      "结论": "留",
+      "理由": "绝经后阴道干燥微生物组和基因表达",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q27"
+      ]
+    },
+    {
+      "编号": "F093",
+      "模块号": "M15",
+      "PMID": "34472211",
+      "标题": "Human gut microbiome impacts skeletal muscle mass via gut mi",
+      "结论": "留",
+      "理由": "肠道微生物组通过丁酸因果影响绝经后骨骼肌",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F094",
+      "模块号": "M15",
+      "PMID": "35675542",
+      "标题": "Menopause Is Associated with an Altered Gut Microbiome and E",
+      "结论": "留",
+      "理由": "绝经改变肠道微生物组和雌激素组心脏代谢",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q27"
+      ]
+    },
+    {
+      "编号": "F095",
+      "模块号": "M15",
+      "PMID": "35983178",
+      "标题": "Spotlight on the Gut Microbiome in Menopause: Current Insigh",
+      "结论": "留",
+      "理由": "绝经肠道微生物组综述含性二态性",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q27"
+      ]
+    },
+    {
+      "编号": "F096",
+      "模块号": "M15",
+      "PMID": "28453310",
+      "标题": "Vasomotor symptoms in menopause: a biomarker of cardiovascul",
+      "结论": "留",
+      "理由": "VMS作为心血管和慢性病生物标志物综述",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q25"
+      ]
+    },
+    {
+      "编号": "F097",
+      "模块号": "M15",
+      "PMID": "20541661",
+      "标题": "Menopause and mitochondria: windows into estrogen effects on",
+      "结论": "留",
+      "理由": "绝经线粒体与雌激素对AD风险和治疗",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q16",
+        "Q27"
+      ]
+    },
+    {
+      "编号": "F098",
+      "模块号": "M15",
+      "PMID": "25127240",
+      "标题": "A systems biology approach investigating the effect of probi",
+      "结论": "留",
+      "理由": "益生菌对绝经后阴道微生物组RCT",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q27"
+      ]
+    },
+    {
+      "编号": "F099",
+      "模块号": "M15",
+      "PMID": "29936400",
+      "标题": "Age, menopausal status and the bladder microbiome.",
+      "结论": "留",
+      "理由": "膀胱微生物组随年龄和绝经状态变化",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F100",
+      "模块号": "M15",
+      "PMID": "36980501",
+      "标题": "Menopausal Changes in the Microbiome-A Review Focused on the",
+      "结论": "留",
+      "理由": "绝经泌尿生殖肠道微生物组综述",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q27"
+      ]
+    },
+    {
+      "编号": "F101",
+      "模块号": "M15",
+      "PMID": "34209916",
+      "标题": "How the Gut Microbiome Links to Menopause and Obesity, with ",
+      "结论": "留",
+      "理由": "肠道微生物组连接绝经肥胖和子宫内膜癌",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "F102",
+      "模块号": "M15",
+      "PMID": "34489372",
+      "标题": "Changes in the Microbiome of Vaginal Fluid after Menopause i",
+      "结论": "留",
+      "理由": "韩国绝经后阴道微生物组乳酸杆菌减少",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q27"
+      ]
+    },
+    {
+      "编号": "F103",
+      "模块号": "M15",
+      "PMID": "35879201",
+      "标题": "Menopausal status, ultrasound and biomarker tests in combina",
+      "结论": "删",
+      "理由": "卵巢癌诊断非绝经生物标志物知识点",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F104",
+      "模块号": "M15",
+      "PMID": "28462075",
+      "标题": "Plasma 2-arachidonoylglycerol is a biomarker of age and meno",
+      "结论": "删",
+      "理由": "含男性受试者2-AG代谢标志物",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F105",
+      "模块号": "M15",
+      "PMID": "31567873",
+      "标题": "Retrospective analysis of phytoSERM for management of menopa",
+      "结论": "留",
+      "理由": "PhytoSERM药物基因组学绝经症状pilot",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q24"
+      ]
+    },
+    {
+      "编号": "F106",
+      "模块号": "M15",
+      "PMID": "36543814",
+      "标题": "Sex and menopause impact <sup>31</sup>P-Magnetic Resonance S",
+      "结论": "留",
+      "理由": "31P-MRS示性别和绝经影响脑线粒体ATP",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F107",
+      "模块号": "M15",
+      "PMID": "36543896",
+      "标题": "Analysis of the oral microbiome during hormonal cycle and it",
+      "结论": "删",
+      "理由": "口腔微生物组激素周期为主非绝经焦点",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F108",
+      "模块号": "M15",
+      "PMID": "34362937",
+      "标题": "Human beta defensin levels and vaginal microbiome compositio",
+      "结论": "留",
+      "理由": "绝经后硬化苔藓阴道微生物组和防御素",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q27"
+      ]
+    },
+    {
+      "编号": "F109",
+      "模块号": "M15",
+      "PMID": "39518008",
+      "标题": "SIR-EN-New Biomarker for Identifying Patients at Risk of End",
+      "结论": "删",
+      "理由": "子宫内膜癌诊断标志物非绝经知识点",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F110",
+      "模块号": "M15",
+      "PMID": "35426787",
+      "标题": "The healthy urinary microbiome in asymptomatic participants ",
+      "结论": "删",
+      "理由": "含男性受试者泌尿微生物组描述",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F111",
+      "模块号": "M15",
+      "PMID": "34876249",
+      "标题": "Metabolic profiling of charged metabolites in association wi",
+      "结论": "留",
+      "理由": "绝经状态与电荷代谢物组学关联",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F112",
+      "模块号": "M15",
+      "PMID": "35420551",
+      "标题": "The Impact of Local Estrogen on the Urogenital Microbiome in",
+      "结论": "留",
+      "理由": "局部雌激素对GSM泌尿生殖微生物组RCT",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q27"
+      ]
+    },
+    {
+      "编号": "F113",
+      "模块号": "M15",
+      "PMID": "37110204",
+      "标题": "Metabolomic Profiling in Mouse Model of Menopause-Associated",
+      "结论": "删",
+      "理由": "VCD小鼠绝经哮喘代谢组学",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "F114",
+      "模块号": "M15",
+      "PMID": "33438892",
+      "标题": "Menopausal status and observed differences in the gut microb",
+      "结论": "待核",
+      "理由": "HIV和绝经对肠道微生物组HIV为主要焦点",
+      "标签": [
+        "M15"
+      ],
+      "关联疑问": [
+        "Q27"
+      ]
+    }
+  ]
+}

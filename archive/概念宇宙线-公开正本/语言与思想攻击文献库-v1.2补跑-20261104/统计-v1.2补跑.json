@@ -1,0 +1,533 @@
+{
+ "检索日期": "2026-11-04",
+ "判据版本": "v1.2补跑",
+ "锚词断言值": 69,
+ "锚词实数": 69,
+ "候选总数": 4354,
+ "池级1_入库": 80,
+ "池级2_入库": 100,
+ "合计入库": 180,
+ "池级1_达标": "否（判负照记）",
+ "合计_达标": "否（判负照记）",
+ "每模块实收_池1": {
+  "M01": 10,
+  "M02": 2,
+  "M03": 10,
+  "M04": 21,
+  "M05": 6,
+  "M06": 1,
+  "M08": 10,
+  "M09": 1,
+  "M11": 3,
+  "M12": 11,
+  "M13": 1,
+  "M14": 2,
+  "M15": 2,
+  "M07": 0,
+  "M10": 0
+ },
+ "每模块实收_池2": {
+  "M01": 23,
+  "M02": 24,
+  "M03": 18,
+  "M04": 11,
+  "M05": 11,
+  "M06": 2,
+  "M08": 5,
+  "M10": 1,
+  "M12": 4,
+  "M13": 1,
+  "M07": 0,
+  "M09": 0,
+  "M11": 0,
+  "M14": 0,
+  "M15": 0
+ },
+ "每模块实收_合计": {
+  "M01": 33,
+  "M02": 26,
+  "M03": 28,
+  "M04": 32,
+  "M05": 17,
+  "M06": 3,
+  "M07": 0,
+  "M08": 15,
+  "M09": 1,
+  "M10": 1,
+  "M11": 3,
+  "M12": 15,
+  "M13": 2,
+  "M14": 2,
+  "M15": 2
+ },
+ "漏斗_池1": {
+  "M01": {
+   "raw": 515,
+   "anchor": 78,
+   "R": 78,
+   "N": 78,
+   "hard": 23,
+   "Q0": 0,
+   "Q": 12,
+   "score": 12,
+   "final": 10
+  },
+  "M02": {
+   "raw": 515,
+   "anchor": 126,
+   "R": 59,
+   "N": 58,
+   "hard": 23,
+   "Q0": 2,
+   "Q": 2,
+   "score": 2,
+   "final": 2
+  },
+  "M03": {
+   "raw": 515,
+   "anchor": 122,
+   "R": 50,
+   "N": 48,
+   "hard": 16,
+   "Q0": 0,
+   "Q": 10,
+   "score": 10,
+   "final": 10
+  },
+  "M04": {
+   "raw": 675,
+   "anchor": 169,
+   "R": 80,
+   "N": 78,
+   "hard": 41,
+   "Q0": 1,
+   "Q": 22,
+   "score": 22,
+   "final": 21
+  },
+  "M05": {
+   "raw": 490,
+   "anchor": 105,
+   "R": 53,
+   "N": 53,
+   "hard": 8,
+   "Q0": 0,
+   "Q": 6,
+   "score": 6,
+   "final": 6
+  },
+  "M06": {
+   "raw": 140,
+   "anchor": 29,
+   "R": 8,
+   "N": 8,
+   "hard": 8,
+   "Q0": 2,
+   "Q": 1,
+   "score": 1,
+   "final": 1
+  },
+  "M07": {
+   "raw": 108,
+   "anchor": 35,
+   "R": 18,
+   "N": 18,
+   "hard": 12,
+   "Q0": 1,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  },
+  "M08": {
+   "raw": 210,
+   "anchor": 163,
+   "R": 50,
+   "N": 49,
+   "hard": 48,
+   "Q0": 4,
+   "Q": 10,
+   "score": 10,
+   "final": 10
+  },
+  "M09": {
+   "raw": 175,
+   "anchor": 62,
+   "R": 25,
+   "N": 25,
+   "hard": 25,
+   "Q0": 9,
+   "Q": 2,
+   "score": 2,
+   "final": 1
+  },
+  "M10": {
+   "raw": 175,
+   "anchor": 57,
+   "R": 10,
+   "N": 10,
+   "hard": 9,
+   "Q0": 0,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  },
+  "M11": {
+   "raw": 140,
+   "anchor": 44,
+   "R": 7,
+   "N": 6,
+   "hard": 6,
+   "Q0": 1,
+   "Q": 4,
+   "score": 4,
+   "final": 3
+  },
+  "M12": {
+   "raw": 175,
+   "anchor": 104,
+   "R": 21,
+   "N": 21,
+   "hard": 20,
+   "Q0": 0,
+   "Q": 11,
+   "score": 11,
+   "final": 11
+  },
+  "M13": {
+   "raw": 171,
+   "anchor": 85,
+   "R": 3,
+   "N": 3,
+   "hard": 3,
+   "Q0": 1,
+   "Q": 1,
+   "score": 1,
+   "final": 1
+  },
+  "M14": {
+   "raw": 175,
+   "anchor": 62,
+   "R": 2,
+   "N": 2,
+   "hard": 2,
+   "Q0": 0,
+   "Q": 2,
+   "score": 2,
+   "final": 2
+  },
+  "M15": {
+   "raw": 175,
+   "anchor": 56,
+   "R": 6,
+   "N": 5,
+   "hard": 5,
+   "Q0": 1,
+   "Q": 3,
+   "score": 3,
+   "final": 2
+  }
+ },
+ "漏斗_池2": {
+  "M01": {
+   "raw": 498,
+   "anchor": 177,
+   "R": 177,
+   "N": 175,
+   "hard": 47,
+   "Q0": 2,
+   "Q": 25,
+   "score": 25,
+   "final": 23
+  },
+  "M02": {
+   "raw": 512,
+   "anchor": 237,
+   "R": 129,
+   "N": 128,
+   "hard": 54,
+   "Q0": 3,
+   "Q": 26,
+   "score": 26,
+   "final": 24
+  },
+  "M03": {
+   "raw": 504,
+   "anchor": 293,
+   "R": 158,
+   "N": 155,
+   "hard": 46,
+   "Q0": 4,
+   "Q": 21,
+   "score": 21,
+   "final": 18
+  },
+  "M04": {
+   "raw": 648,
+   "anchor": 352,
+   "R": 101,
+   "N": 97,
+   "hard": 40,
+   "Q0": 3,
+   "Q": 14,
+   "score": 14,
+   "final": 11
+  },
+  "M05": {
+   "raw": 478,
+   "anchor": 265,
+   "R": 152,
+   "N": 145,
+   "hard": 30,
+   "Q0": 2,
+   "Q": 12,
+   "score": 12,
+   "final": 11
+  },
+  "M06": {
+   "raw": 139,
+   "anchor": 39,
+   "R": 17,
+   "N": 17,
+   "hard": 16,
+   "Q0": 6,
+   "Q": 2,
+   "score": 2,
+   "final": 2
+  },
+  "M07": {
+   "raw": 108,
+   "anchor": 41,
+   "R": 22,
+   "N": 22,
+   "hard": 16,
+   "Q0": 2,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  },
+  "M08": {
+   "raw": 200,
+   "anchor": 198,
+   "R": 47,
+   "N": 46,
+   "hard": 45,
+   "Q0": 6,
+   "Q": 5,
+   "score": 5,
+   "final": 5
+  },
+  "M09": {
+   "raw": 173,
+   "anchor": 79,
+   "R": 39,
+   "N": 39,
+   "hard": 36,
+   "Q0": 13,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  },
+  "M10": {
+   "raw": 175,
+   "anchor": 79,
+   "R": 18,
+   "N": 18,
+   "hard": 17,
+   "Q0": 5,
+   "Q": 1,
+   "score": 1,
+   "final": 1
+  },
+  "M11": {
+   "raw": 136,
+   "anchor": 54,
+   "R": 12,
+   "N": 11,
+   "hard": 6,
+   "Q0": 4,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  },
+  "M12": {
+   "raw": 164,
+   "anchor": 109,
+   "R": 15,
+   "N": 15,
+   "hard": 14,
+   "Q0": 1,
+   "Q": 4,
+   "score": 4,
+   "final": 4
+  },
+  "M13": {
+   "raw": 170,
+   "anchor": 97,
+   "R": 2,
+   "N": 2,
+   "hard": 2,
+   "Q0": 1,
+   "Q": 1,
+   "score": 1,
+   "final": 1
+  },
+  "M14": {
+   "raw": 173,
+   "anchor": 78,
+   "R": 0,
+   "N": 0,
+   "hard": 0,
+   "Q0": 0,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  },
+  "M15": {
+   "raw": 172,
+   "anchor": 67,
+   "R": 11,
+   "N": 9,
+   "hard": 8,
+   "Q0": 5,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  }
+ },
+ "OpenAlex_每模块统计": {
+  "M01": {
+   "formulas": 3,
+   "requests": 0,
+   "candidates": 375,
+   "429_count": 0,
+   "429_retry_after": null,
+   "cache_hits": 15
+  },
+  "M02": {
+   "formulas": 3,
+   "requests": 0,
+   "candidates": 375,
+   "429_count": 0,
+   "429_retry_after": null,
+   "cache_hits": 15
+  },
+  "M03": {
+   "formulas": 3,
+   "requests": 0,
+   "candidates": 375,
+   "429_count": 0,
+   "429_retry_after": null,
+   "cache_hits": 15
+  },
+  "M04": {
+   "formulas": 4,
+   "requests": 0,
+   "candidates": 500,
+   "429_count": 0,
+   "429_retry_after": null,
+   "cache_hits": 20
+  },
+  "M05": {
+   "formulas": 4,
+   "requests": 0,
+   "candidates": 350,
+   "429_count": 0,
+   "429_retry_after": null,
+   "cache_hits": 14
+  },
+  "M06": {
+   "formulas": 4,
+   "requests": 0,
+   "candidates": 0,
+   "429_count": 1,
+   "429_retry_after": "79507",
+   "cache_hits": 0
+  },
+  "M07": {
+   "formulas": 3,
+   "requests": 0,
+   "candidates": 0,
+   "429_count": 1,
+   "429_retry_after": "79507",
+   "cache_hits": 0
+  },
+  "M08": {
+   "formulas": 4,
+   "requests": 0,
+   "candidates": 0,
+   "429_count": 1,
+   "429_retry_after": "79507",
+   "cache_hits": 0
+  },
+  "M09": {
+   "formulas": 4,
+   "requests": 0,
+   "candidates": 0,
+   "429_count": 1,
+   "429_retry_after": "79507",
+   "cache_hits": 0
+  },
+  "M10": {
+   "formulas": 4,
+   "requests": 0,
+   "candidates": 0,
+   "429_count": 1,
+   "429_retry_after": "79507",
+   "cache_hits": 0
+  },
+  "M11": {
+   "formulas": 3,
+   "requests": 0,
+   "candidates": 0,
+   "429_count": 1,
+   "429_retry_after": "79507",
+   "cache_hits": 0
+  },
+  "M12": {
+   "formulas": 3,
+   "requests": 0,
+   "candidates": 0,
+   "429_count": 1,
+   "429_retry_after": "79507",
+   "cache_hits": 0
+  },
+  "M13": {
+   "formulas": 3,
+   "requests": 0,
+   "candidates": 0,
+   "429_count": 1,
+   "429_retry_after": "79507",
+   "cache_hits": 0
+  },
+  "M14": {
+   "formulas": 4,
+   "requests": 0,
+   "candidates": 0,
+   "429_count": 1,
+   "429_retry_after": "79507",
+   "cache_hits": 0
+  },
+  "M15": {
+   "formulas": 4,
+   "requests": 0,
+   "candidates": 0,
+   "429_count": 1,
+   "429_retry_after": "79507",
+   "cache_hits": 0
+  }
+ },
+ "OpenAlex_限额实测": {
+  "limit": "1000",
+  "remaining": "0",
+  "reset": "79507",
+  "探测URL": "https://api.openalex.org/works?filter=title_and_abstract.search:algospeak&per-page=1"
+ },
+ "Crossref_缓存命中": 1705,
+ "DOAJ_缓存命中": 674,
+ "Q0_Crossref回查": {
+  "缓存大小": 84,
+  "说明": "DOAJ无被引数据条目用DOI回查Crossref取被引数"
+ },
+ "章书折叠留痕数": 5,
+ "发现清单数": 75
+}

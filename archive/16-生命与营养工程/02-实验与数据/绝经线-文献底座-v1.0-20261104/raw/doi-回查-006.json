@@ -1,0 +1,765 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          12
+        ]
+      ],
+      "date-time": "2026-08-12T05:28:00Z",
+      "timestamp": 1786512480634,
+      "version": "build-2736575974"
+    },
+    "reference-count": 41,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              12
+            ]
+          ],
+          "date-time": "2026-08-12T00:00:00Z",
+          "timestamp": 1786492800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "frontiersin.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Front. Dement."
+    ],
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Premature and early menopause involve ovarian hormone deprivation, which may contribute to later-life vulnerability to cognitive decline and neurodegenerative diseases. Multimodal neuroimaging biomarkers provide a means of detecting structural, microstructural, functional, and molecular brain changes before clinical symptoms emerge.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>Following PRISMA guidelines, we conducted a systematic search of PubMed. Study quality was assessed using the Newcastle–Ottawa Scale.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>\n                      Neuroimaging modalities included\n                      <jats:italic>in vivo</jats:italic>\n                      structural magnetic resonance imaging (MRI) (\n                      <jats:italic>n</jats:italic>\n                      = 16), functional MRI (\n                      <jats:italic>n</jats:italic>\n                      = 2), diffusion tensor imaging (\n                      <jats:italic>n</jats:italic>\n                      = 4), and positron emission tomography (\n                      <jats:italic>n</jats:italic>\n                      = 3). Women with premature or early menopause showed regionally specific structural and microstructural brain abnormalities, including lower gray-matter volume or cortical thickness in medial temporal, frontal, and basal forebrain regions; white-matter microstructural abnormalities in the anterior corona radiata, corpus callosum, and fronto-occipital tracts; and reduced posterior hippocampal activation during memory encoding. In one study, earlier age at menopause was associated with higher amyloid-\n                      <jats:italic>β</jats:italic>\n                      (Aβ) burden in women who underwent premenopausal bilateral oophorectomy (PBO), and elevated tau deposition was reported predominantly among women with higher Aβ levels.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Converging multimodal neuroimaging evidence suggests that premature and early menopause may be associated with Alzheimer’s disease-relevant brain changes. However, findings remain heterogeneous, and longitudinal studies are needed to clarify the temporal relationships between ovarian hormone deprivation and neurodegeneration, and to determine the clinical implication of these findings.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.3389/frdem.2026.1912295",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          12
+        ]
+      ],
+      "date-time": "2026-08-12T04:41:20Z",
+      "timestamp": 1786509680000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Premature and early menopause and neuroimaging biomarkers of neurodegenerative diseases: a systematic review"
+    ],
+    "prefix": "10.3389",
+    "volume": "5",
+    "author": [
+      {
+        "given": "Emily",
+        "family": "Gallmetzer",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Radiology, Mayo Clinic",
+            "place": [
+              "Rochester, MN, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elijah",
+        "family": "Mak",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Radiology, Mayo Clinic",
+            "place": [
+              "Rochester, MN, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Firat",
+        "family": "Kara",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Radiology, Mayo Clinic",
+            "place": [
+              "Rochester, MN, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Burcu",
+        "family": "Zeydan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Radiology, Mayo Clinic",
+            "place": [
+              "Rochester, MN, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ekta",
+        "family": "Kapoor",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Endocrinology, Department of Internal Medicine, Mayo Clinic",
+            "place": [
+              "Rochester, MN, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chrisandra L.",
+        "family": "Shufelt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of General Internal Medicine, Mayo Clinic",
+            "place": [
+              "Jacksonville, FL, United States"
+            ]
+          },
+          {
+            "name": "Women's Health Research Center, Mayo Clinic",
+            "place": [
+              "Rochester, MN, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Walter A.",
+        "family": "Rocca",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Women's Health Research Center, Mayo Clinic",
+            "place": [
+              "Rochester, MN, United States"
+            ]
+          },
+          {
+            "name": "Division of Epidemiology, Department of Quantitative Health Sciences, Mayo Clinic",
+            "place": [
+              "Rochester, MN, United States"
+            ]
+          },
+          {
+            "name": "Department of Neurology, Mayo Clinic",
+            "place": [
+              "Rochester, MN, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kejal",
+        "family": "Kantarci",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Radiology, Mayo Clinic",
+            "place": [
+              "Rochester, MN, United States"
+            ]
+          },
+          {
+            "name": "Women's Health Research Center, Mayo Clinic",
+            "place": [
+              "Rochester, MN, United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          12
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "first-page": "1",
+        "article-title": "Research on the menopause in the 1990s. Report of a WHO scientific group",
+        "volume": "866",
+        "year": "1996",
+        "journal-title": "World Health Organ. Tech. Rep. Ser."
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "first-page": "767",
+        "DOI": "10.1097/GME.0000000000002028",
+        "article-title": "The 2022 hormone therapy position statement of the North American Menopause Society",
+        "volume": "29",
+        "year": "2022",
+        "journal-title": "Menopause"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "first-page": "2777",
+        "DOI": "10.1210/en.2011-1925",
+        "article-title": "A lack of ovarian function increases neuroinflammation in aged mice",
+        "volume": "153",
+        "author": "Benedusi",
+        "year": "2012",
+        "journal-title": "Endocrinology"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "first-page": "24",
+        "DOI": "10.1002/hbm.25200",
+        "article-title": "Estrogen, brain structure, and cognition in postmenopausal women",
+        "volume": "42",
+        "author": "Boyle",
+        "year": "2021",
+        "journal-title": "Hum. Brain Mapp."
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "first-page": "239",
+        "DOI": "10.1007/BF00308809",
+        "article-title": "Neuropathological Stageing of Alzheimer-related changes",
+        "volume": "82",
+        "author": "Braak",
+        "year": "1991",
+        "journal-title": "Acta Neuropathol."
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "first-page": "529",
+        "DOI": "10.1016/j.tins.2008.07.003",
+        "article-title": "The healthy cell Bias of Estrogen action: mitochondrial bioenergetics and neurological implications",
+        "volume": "31",
+        "author": "Brinton",
+        "year": "2008",
+        "journal-title": "Trends Neurosci."
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "first-page": "e70012",
+        "DOI": "10.1002/hipo.70012",
+        "article-title": "Effects of early midlife ovarian removal on medial temporal lobe Gray matter volume and recognition memory",
+        "volume": "35",
+        "author": "Brown",
+        "year": "",
+        "journal-title": "Hippocampus"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "first-page": "6145",
+        "DOI": "10.1007/s12035-023-03424-6",
+        "article-title": "Women’s brain health: midlife ovarian removal affects associative memory",
+        "volume": "60",
+        "author": "Brown",
+        "year": "2023",
+        "journal-title": "Mol. Neurobiol."
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "first-page": "e14447",
+        "DOI": "10.1002/alz.14447",
+        "article-title": "Early midlife ovarian removal is associated with lower posterior hippocampal function",
+        "volume": "21",
+        "author": "Brown",
+        "year": "",
+        "journal-title": "Alzheimers Dement."
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "first-page": "636176",
+        "DOI": "10.3389/fncel.2021.636176",
+        "article-title": "The impact of Estrogen and Estrogen-like molecules in neurogenesis and neurodegeneration: beneficial or harmful?",
+        "volume": "15",
+        "author": "Bustamante-Barrientos",
+        "year": "2021",
+        "journal-title": "Front. Cell. Neurosci."
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "first-page": "818",
+        "DOI": "10.3390/antiox9090818",
+        "article-title": "Mitochondrial oxidative and nitrosative stress and Alzheimer disease",
+        "volume": "9",
+        "author": "Butterfield",
+        "year": "2020",
+        "journal-title": "Antioxidants"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "first-page": "e70454",
+        "DOI": "10.1002/alz.70454",
+        "article-title": "Cognitive and brain health in women with early bilateral Salpingo-oophorectomy: implications for risk, resilience, and subjective cognitive decline",
+        "volume": "21",
+        "author": "Calvo",
+        "year": "2025",
+        "journal-title": "Alzheimers Dement."
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "first-page": "101911",
+        "DOI": "10.1016/j.arr.2023.101911",
+        "article-title": "Abnormal white matter changes in Alzheimer’s disease based on diffusion tensor imaging: a systematic review",
+        "volume": "87",
+        "author": "Chen",
+        "year": "2023",
+        "journal-title": "Ageing Res. Rev."
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "first-page": "462",
+        "DOI": "10.1001/jamaneurol.2023.0455",
+        "article-title": "Association of age at menopause and hormone therapy use with tau and β-amyloid positron emission tomography",
+        "volume": "80",
+        "author": "Coughlan",
+        "year": "2023",
+        "journal-title": "JAMA Neurol."
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "first-page": "105596",
+        "DOI": "10.1016/j.yhbeh.2024.105596",
+        "article-title": "Linking menopause-related factors, history of depression, APOE Ε4, and proxies of biological aging in the UK biobank cohort",
+        "volume": "164",
+        "author": "Crestol",
+        "year": "2024",
+        "journal-title": "Horm. Behav."
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "first-page": "197",
+        "DOI": "10.1016/j.molmed.2012.12.007",
+        "article-title": "Estrogen synthesis and Signaling pathways during aging: from periphery to brain",
+        "volume": "19",
+        "author": "Cui",
+        "year": "2013",
+        "journal-title": "Trends Mol. Med."
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "first-page": "97",
+        "DOI": "10.1016/j.neurobiolaging.2022.05.003",
+        "article-title": "Scene memory and hippocampal volume in middle-aged women with early hormone loss",
+        "volume": "117",
+        "author": "Gervais",
+        "year": "2022",
+        "journal-title": "Neurobiol. Aging"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "publisher",
+        "first-page": "1265470",
+        "DOI": "10.3389/fendo.2023.1265470",
+        "article-title": "Disturbed sleep is associated with reduced verbal episodic memory and entorhinal cortex volume in younger middle-aged women with risk-reducing early ovarian removal",
+        "volume": "14",
+        "author": "Gervais",
+        "year": "2023",
+        "journal-title": "Front. Endocrinol."
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "first-page": "121",
+        "DOI": "10.1016/j.jsbmb.2013.08.015",
+        "article-title": "The perimenopausal woman: endocrinology and management",
+        "volume": "142",
+        "author": "Hale",
+        "year": "2014",
+        "journal-title": "J. Steroid Biochem. Mol. Biol."
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "first-page": "785",
+        "DOI": "10.1152/physrev.00036.2014",
+        "article-title": "Estrogen effects on cognitive and synaptic health over the Lifecourse",
+        "volume": "95",
+        "author": "Hara",
+        "year": "2015",
+        "journal-title": "Physiol. Rev."
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "first-page": "e14469",
+        "DOI": "10.1002/alz.14469",
+        "article-title": "Premenopausal bilateral oophorectomy and Alzheimer’s disease imaging biomarkers later in life",
+        "volume": "21",
+        "author": "Kantarci",
+        "year": "2025",
+        "journal-title": "Alzheimers Dement."
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "first-page": "102033",
+        "DOI": "10.1016/j.eclinm.2023.102033",
+        "article-title": "Association of earlier age at menopause with risk of incident dementia, brain structural indices and the potential mediators: a prospective community-based cohort study",
+        "volume": "60",
+        "author": "Liao",
+        "year": "2023",
+        "journal-title": "EClinicalMedicine"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "publisher",
+        "first-page": "e2131448",
+        "DOI": "10.1001/jamanetworkopen.2021.31448",
+        "article-title": "Association of premenopausal bilateral oophorectomy with cognitive performance and risk of mild cognitive impairment",
+        "volume": "4",
+        "author": "Lohse",
+        "year": "2021",
+        "journal-title": "JAMA Netw. Open"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "first-page": "250",
+        "DOI": "10.1016/j.arr.2016.10.001",
+        "article-title": "Structural neuroimaging in preclinical dementia: from microstructural deficits and Grey matter atrophy to macroscale Connectomic changes",
+        "volume": "35",
+        "author": "Mak",
+        "year": "2017",
+        "journal-title": "Ageing Res. Rev."
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "first-page": "82",
+        "DOI": "10.1186/s13195-026-01995-9",
+        "article-title": "Α-Synuclein positivity is associated with decline in brain microstructure in the Alzheimer’s disease Spectrum",
+        "volume": "18",
+        "author": "Mak",
+        "year": "2026",
+        "journal-title": "Alzheimer's Res. Ther."
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "publisher",
+        "first-page": "5607",
+        "DOI": "10.1002/alz.14069",
+        "article-title": "Effect of early menopause on cognition and brain morphology in an urban Indian cohort",
+        "volume": "20",
+        "author": "Mensegere",
+        "year": "2024",
+        "journal-title": "Alzheimers Dement."
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "publisher",
+        "first-page": "5054",
+        "DOI": "10.1002/alz.13852",
+        "article-title": "Premenopausal bilateral oophorectomy and brain white matter brain integrity in later-life",
+        "volume": "20",
+        "author": "Mielke",
+        "year": "2024",
+        "journal-title": "Alzheimers Dement."
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "publisher",
+        "first-page": "R207",
+        "DOI": "10.1152/ajpregu.00228.2022",
+        "article-title": "Age at natural menopause impacts cerebrovascular reactivity and brain structure",
+        "volume": "324",
+        "author": "Moir",
+        "year": "2023",
+        "journal-title": "Am. J. Phys. Regul. Integr. Comp. Phys."
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "publisher",
+        "first-page": "8867",
+        "DOI": "10.1073/pnas.96.16.8867",
+        "article-title": "The antioxidant neuroprotective effects of Estrogens and phenolic compounds are independent from their estrogenic properties",
+        "volume": "96",
+        "author": "Moosmann",
+        "year": "1999",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "publisher",
+        "first-page": "1074",
+        "DOI": "10.1212/01.wnl.0000276984.19542.e6",
+        "article-title": "Increased risk of cognitive impairment or dementia in women who underwent oophorectomy before menopause",
+        "volume": "69",
+        "author": "Rocca",
+        "year": "2007",
+        "journal-title": "Neurology"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "publisher",
+        "first-page": "108003",
+        "DOI": "10.1016/j.maturitas.2024.108003",
+        "article-title": "Risks and benefits of hormone therapy after menopause for cognitive decline and dementia: a conceptual review",
+        "volume": "184",
+        "author": "Rocca",
+        "year": "2024",
+        "journal-title": "Maturitas"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "publisher",
+        "first-page": "374",
+        "DOI": "10.1152/physiol.00024.2018",
+        "article-title": "Loss of ovarian hormones and accelerated somatic and mental aging",
+        "volume": "33",
+        "author": "Rocca",
+        "year": "2018",
+        "journal-title": "Physiology"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "publisher",
+        "first-page": "22",
+        "DOI": "10.1016/j.maturitas.2023.01.012",
+        "article-title": "Frequency and type of premature or early menopause in a geographically defined American population",
+        "volume": "170",
+        "author": "Rocca",
+        "year": "2023",
+        "journal-title": "Maturitas"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000002765",
+        "article-title": "When the clock shifts: menopause timing is associated with reduced cognitive performance and gray matter volume in a population-based cohort",
+        "author": "Schwarz",
+        "year": "2026",
+        "journal-title": "Menopause"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "publisher",
+        "first-page": "33",
+        "DOI": "10.1016/j.neurobiolaging.2020.08.010",
+        "article-title": "Estrogen deficiency is associated with brain iron deposition via upregulation of hepcidin expression in aged female mice",
+        "volume": "96",
+        "author": "Shin",
+        "year": "2020",
+        "journal-title": "Neurobiol. Aging"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "publisher",
+        "first-page": "161",
+        "DOI": "10.1016/j.maturitas.2009.08.003",
+        "article-title": "Premature menopause or early menopause: long-term health consequences",
+        "volume": "65",
+        "author": "Shuster",
+        "year": "2010",
+        "journal-title": "Maturitas"
+      },
+      {
+        "key": "ref37",
+        "author": "Wells",
+        "year": "2014"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "publisher",
+        "first-page": "608",
+        "DOI": "10.1097/GME.0000000000002361",
+        "article-title": "Gray matter volume in women with the BRCA mutation with and without ovarian removal: evidence for increased risk of late-life Alzheimer’s disease or dementia",
+        "volume": "31",
+        "author": "Witt",
+        "year": "2024",
+        "journal-title": "Menopause"
+      },
+      {
+        "key": "ref39",
+        "doi-asserted-by": "publisher",
+        "first-page": "e70111",
+        "DOI": "10.1002/alz.70111",
+        "article-title": "Brain structural alterations in young women with premature ovarian insufficiency: implications for dementia risk",
+        "volume": "21",
+        "author": "Yuan",
+        "year": "2025",
+        "journal-title": "Alzheimers Dement."
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "publisher",
+        "first-page": "95",
+        "DOI": "10.1001/jamaneurol.2018.3057",
+        "article-title": "Association of Bilateral Salpingo-Oophorectomy before Menopause Onset with Medial Temporal Lobe Neurodegeneration",
+        "volume": "76",
+        "author": "Zeydan",
+        "year": "2019",
+        "journal-title": "JAMA Neurol."
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "publisher",
+        "first-page": "1949",
+        "DOI": "10.1016/j.neurobiolaging.2009.12.010",
+        "article-title": "17β-Estradiol regulates insulin-degrading enzyme expression via an ERβ/PI3-K pathway in Hippocampus: relevance to Alzheimer’s prevention",
+        "volume": "32",
+        "author": "Zhao",
+        "year": "2011",
+        "journal-title": "Neurobiol. Aging"
+      }
+    ],
+    "container-title": [
+      "Frontiers in Dementia"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/frdem.2026.1912295/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          12
+        ]
+      ],
+      "date-time": "2026-08-12T04:41:27Z",
+      "timestamp": 1786509687000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/articles/10.3389/frdem.2026.1912295/full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          12
+        ]
+      ]
+    },
+    "references-count": 41,
+    "alternative-id": [
+      "10.3389/frdem.2026.1912295"
+    ],
+    "URL": "https://doi.org/10.3389/frdem.2026.1912295",
+    "relation": {},
+    "ISSN": [
+      "2813-3919"
+    ],
+    "issn-type": [
+      {
+        "value": "2813-3919",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          12
+        ]
+      ]
+    },
+    "article-number": "1912295"
+  }
+}
