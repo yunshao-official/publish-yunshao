@@ -27,7 +27,7 @@ from docx.shared import Cm, Pt
 HERE = os.path.dirname(os.path.abspath(__file__))
 PARTS = ["part1.md", "part2.md"]
 RENDER = os.path.join(HERE, "render.md")
-OUT = os.path.join(HERE, "分层衍生-数学到医学-v1.0-20261104.docx")
+OUT = os.path.join(HERE, "分层衍生-数学到医学-v1.1-20261104.docx")
 REF = os.path.join(HERE, "style-reference.docx")
 
 SONG = "宋体"
@@ -39,10 +39,11 @@ WIDTHS = {
     0: [2.0, 3.4, 3.4, 6.0],                    # 表 1-1
     1: [3.4, 2.9, 5.4, 3.6],                    # 表 1-2
     2: [2.4, 1.7, 1.7, 2.2, 2.2, 1.5, 2.3],     # 表 3-1
-    3: [4.6, 3.0, 2.6, 2.8, 2.6],               # 表 4-1
-    4: [1.4, 6.2, 4.6, 3.0],                    # 表 5-1
-    5: [2.0, 5.6, 3.4, 4.4],                    # 表 6-1
-    6: [5.0, 4.2, 6.4],                         # 表 A-1
+    3: [3.6, 3.4, 2.9, 3.4, 3.2],               # 表 4-1
+    4: [3.2, 4.2, 3.0, 5.8],                    # 表 4-2
+    5: [3.4, 3.2, 2.2, 2.2, 2.8, 2.8],          # 表 4-3
+    6: [4.4, 1.2, 3.0, 3.2, 1.6, 3.2],          # 表 6-1
+    7: [3.4, 8.6, 4.4],                         # 表 A-1
 }
 
 
@@ -320,6 +321,7 @@ def main():
     # ---- paragraph-level typography
     h1_seen = 0
     in_refs = False
+    in_glossary = False
     for p in d.paragraphs:
         txt = p.text.strip()
         stn = p.style.name
@@ -335,6 +337,7 @@ def main():
             for r in p.runs:
                 set_run_font(r, ea=HEI, size=17, bold=True)
             in_refs = txt.startswith("附录 B")
+            in_glossary = txt.startswith("附录 C")
             continue
 
         if stn == "Heading 2":
@@ -420,10 +423,17 @@ def main():
         if in_refs:
             pf.left_indent = Cm(0.75)
             pf.first_line_indent = Cm(-0.75)
-            pf.space_after = Pt(4)
-            pf.line_spacing = 1.15
+            pf.space_after = Pt(2.5)
+            pf.line_spacing = 1.08
             for r in p.runs:
                 set_run_font(r, ea=SONG, size=9.5)
+        elif in_glossary:
+            pf.first_line_indent = Pt(0)
+            pf.space_after = Pt(3)
+            pf.line_spacing = 1.3
+            p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+            for r in p.runs:
+                set_run_font(r, ea=SONG, size=10)
         else:
             pf.first_line_indent = Pt(21)
             pf.space_after = Pt(4)

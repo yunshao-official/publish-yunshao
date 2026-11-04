@@ -96,7 +96,7 @@ def fig_alpha_clock():
     ax.grid(axis="x", color="#e3e3e3", lw=0.5)
     ax.set_axisbelow(True)
     fig.tight_layout()
-    fig.savefig(os.path.join(FIG, "Figure2_alpha_clock.png"), dpi=300)
+    fig.savefig(os.path.join(FIG, "Figure4_alpha_clock.png"), dpi=300)
     plt.close(fig)
 
 
@@ -130,7 +130,7 @@ def fig_tc_ceiling():
     ax.legend(handles, list(colors.keys()), frameon=False, fontsize=8.0, ncol=4,
               loc="upper center", bbox_to_anchor=(0.5, 1.13))
     fig.tight_layout()
-    fig.savefig(os.path.join(FIG, "Figure3_tc_ceiling.png"), dpi=300)
+    fig.savefig(os.path.join(FIG, "Figure2_tc_ceiling.png"), dpi=300)
     plt.close(fig)
 
 
@@ -139,3 +139,105 @@ if __name__ == "__main__":
     fig_alpha_clock()
     fig_tc_ceiling()
     print("figures written to", FIG)
+
+
+def fig_organ_ledger():
+    """Organ mass-specific metabolic rate vs organ mass (log-log)."""
+    organs = [
+        # name, mass kg, kcal/kg/day, color, label offset in points
+        ("脑", 1.4, 240, BLUE, (8, 9)),
+        ("肝", 1.8, 200, AMBER, (9, -12)),
+        ("心", 0.30, 440, RED, (-4, 12)),
+        ("肾", 0.37, 440, PINK, (-6, -16)),
+        ("骨骼肌", 29.0, 13, GREEN, (-12, -24)),
+        ("脂肪", 14.5, 4.5, "#8c6d31", (9, -10)),
+        ("其余组织", 22.66, 12, "#9e9e9e", (-40, 8)),
+    ]
+    total = sum(m * k for _, m, k, _, _ in organs)
+    fig, ax = plt.subplots(figsize=(7.6, 4.6))
+    for name, m, k, c, off in organs:
+        share = m * k / total * 100
+        ax.scatter(m, k, s=28 + share * 16, color=c, alpha=0.80,
+                   edgecolor="white", linewidth=0.8, zorder=3)
+        ax.annotate(name, (m, k), xytext=off, textcoords="offset points",
+                    fontsize=8.4, color=INK, ha="left", va="center")
+    ax.set_xscale("log"); ax.set_yscale("log")
+    ax.set_xlim(0.18, 55); ax.set_ylim(1.6, 900)
+    ax.set_xlabel("器官/组织质量（kg，对数）", fontsize=9.2)
+    ax.set_ylabel("质量比静息产热（kcal kg$^{-1}$ d$^{-1}$，对数）", fontsize=9.2)
+    ax.tick_params(labelsize=8.8)
+    ax.grid(True, which="major", color="#e6e6e6", lw=0.6)
+    ax.set_axisbelow(True)
+    avg = total / 70.0
+    ax.axhline(avg, color=GREY, ls=(0, (4, 3)), lw=0.9, zorder=1)
+    ax.text(0.20, avg * 1.07, f"全身平均 {avg:.1f}", fontsize=7.8, color=GREY)
+    xs = np.array([0.3, 40])
+    ax.plot(xs, avg * (xs / 70.0) ** (-0.25), color="#b0b0b0", lw=1.0,
+            ls=(0, (1, 2)), zorder=1)
+    ax.text(30, avg * (30 / 70.0) ** (-0.25) * 1.12, "斜率 −1/4 参考",
+            fontsize=7.4, color="#8a8a8a", ha="right")
+    ax.annotate("脑+肝+心+肾：\n5.5% 质量，约 58% 耗氧",
+                xy=(0.55, 445), xytext=(2.3, 690), fontsize=8.0, color=RED,
+                ha="left", va="center",
+                arrowprops=dict(arrowstyle="-", color=RED, lw=0.8))
+    ax.set_title("器官账本：质量只解释很小一部分代谢", fontsize=10.2, pad=8)
+    fig.tight_layout()
+    fig.savefig(os.path.join(FIG, "Figure3_organ_ledger.png"), dpi=300)
+    plt.close(fig)
+
+
+def fig_decline():
+    """Normalised functional trajectories vs age, with the alpha line."""
+    age = np.arange(20, 81, 1.0)
+
+    def piecewise(rates):
+        # rates: list of (start_age, fractional_loss_per_year)
+        y = np.ones_like(age)
+        for i, t in enumerate(age):
+            if i == 0:
+                continue
+            r = [v for a, v in rates if t >= a][-1]
+            y[i] = y[i - 1] * (1 - r)
+        return y
+
+    vo2 = piecewise([(20, 0.005), (40, 0.010), (60, 0.020)])
+    gfr = piecewise([(20, 0.0), (40, 0.009)])
+    fev1 = piecewise([(20, 0.0), (25, 0.008)])
+    bmd = piecewise([(20, 0.0), (35, 0.010), (50, 0.020), (60, 0.010)])
+    hippo = piecewise([(20, 0.0), (55, 0.015)])
+    lens = np.exp(-0.0576 * (age - 20))
+    ovary = np.exp(-0.130 * (age - 20))
+    alpha = (7.0 / 8.0) ** ((age - 20) / 10.0)
+
+    fig, ax = plt.subplots(figsize=(7.4, 4.7))
+    funcs = np.vstack([vo2, gfr, fev1, bmd])
+    ax.fill_between(age, funcs.min(0), funcs.max(0), color="#9e9e9e",
+                    alpha=0.10, lw=0, zorder=0)
+    ax.plot(age, vo2, color=BLUE, lw=1.7, label="最大摄氧量（加速下降）")
+    ax.plot(age, gfr, color=GREEN, lw=1.7, label="肾小球滤过率")
+    ax.plot(age, fev1, color="#1f8a8a", lw=1.7, label="FEV$_1$")
+    ax.plot(age, bmd, color=AMBER, lw=1.7, label="骨密度（含绝经期）")
+    ax.plot(age, hippo, color="#7f7f7f", lw=1.3, ls=(0, (1, 2)), label="海马体积")
+    ax.plot(age, lens, color=PINK, lw=1.3, ls=(0, (5, 2)), label="晶状体调节力")
+    ax.plot(age, ovary, color="#7b3294", lw=1.3, ls=(0, (4, 2, 1, 2)), label="卵巢储备")
+    ax.plot(age, alpha, color=INK, lw=2.6, ls=(0, (7, 3)), label="α 十年读法 (7/8)$^{(t-20)/10}$", zorder=5)
+
+    ax.set_xlim(20, 80); ax.set_ylim(0, 1.08)
+    ax.set_xlabel("年龄（岁）", fontsize=9.2)
+    ax.set_ylabel("相对 20 岁的功能（归一化）", fontsize=9.2)
+    ax.tick_params(labelsize=8.8)
+    ax.grid(True, color="#ececec", lw=0.6)
+    ax.set_axisbelow(True)
+    ax.axvline(60, color="#c9c9c9", lw=0.8, ls=":")
+    ax.annotate("α 线：功能集合的下包络\n80 岁 0.449", xy=(78, 0.46),
+                xytext=(62.0, 0.28), fontsize=7.8, color=INK,
+                arrowprops=dict(arrowstyle="-", color=GREY, lw=0.7))
+    ax.annotate("晶状体/卵巢：\n同一 α 不适用", xy=(64, 0.09), xytext=(67.0, 0.17),
+                fontsize=7.8, color=PINK,
+                arrowprops=dict(arrowstyle="-", color=PINK, lw=0.7))
+    ax.legend(fontsize=7.2, ncol=4, loc="upper center", bbox_to_anchor=(0.5, -0.17),
+              frameon=False, handlelength=2.2, columnspacing=1.0)
+    ax.set_title("功能性器官集合跟随 α 线；材料与储备系统不跟随", fontsize=10.2, pad=8)
+    fig.tight_layout()
+    fig.savefig(os.path.join(FIG, "Figure5_decline.png"), dpi=300)
+    plt.close(fig)
