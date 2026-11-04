@@ -1,0 +1,206 @@
+{
+ "male": {
+  "n_core": 58,
+  "n_with_n": 40,
+  "sum_n": 1069619,
+  "median_n": 1321.0,
+  "q1": 149.75,
+  "q3": 4412.0,
+  "max_n": 916890,
+  "largest": [
+   [
+    "42043951",
+    916890
+   ],
+   [
+    "33510174",
+    48596
+   ],
+   [
+    "41690626",
+    25957
+   ],
+   [
+    "42816672",
+    9704
+   ],
+   [
+    "42551541",
+    9625
+   ]
+  ],
+  "median_year": 2026.0,
+  "mixed_population": 14,
+  "n_primary_with_n": 38,
+  "sum_n_primary": 1011586
+ },
+ "female": {
+  "n_core": 61,
+  "n_with_n": 42,
+  "sum_n": 1722433,
+  "median_n": 779.5,
+  "q1": 109.5,
+  "q3": 5249.25,
+  "max_n": 1410928,
+  "largest": [
+   [
+    "28486246",
+    1410928
+   ],
+   [
+    "40784076",
+    214327
+   ],
+   [
+    "42649613",
+    18686
+   ],
+   [
+    "34219569",
+    10517
+   ],
+   [
+    "42970273",
+    9888
+   ]
+  ],
+  "median_year": 2026,
+  "mixed_population": 4,
+  "n_primary_with_n": 40,
+  "sum_n_primary": 1719823
+ },
+ "topics": [
+  {
+   "topic": "osteoporosis_fracture",
+   "male": 6,
+   "female": 6,
+   "total": 12
+  },
+  {
+   "topic": "sarcopenia_falls",
+   "male": 6,
+   "female": 6,
+   "total": 12
+  },
+  {
+   "topic": "cognition_dementia",
+   "male": 5,
+   "female": 5,
+   "total": 10
+  },
+  {
+   "topic": "sleep",
+   "male": 4,
+   "female": 5,
+   "total": 9
+  },
+  {
+   "topic": "frailty_multimorbidity",
+   "male": 6,
+   "female": 2,
+   "total": 8
+  },
+  {
+   "topic": "cancer_survivorship",
+   "male": 3,
+   "female": 4,
+   "total": 7
+  },
+  {
+   "topic": "hearing_sensory",
+   "male": 3,
+   "female": 3,
+   "total": 6
+  },
+  {
+   "topic": "menopause_hrt",
+   "male": 0,
+   "female": 6,
+   "total": 6
+  },
+  {
+   "topic": "polypharmacy",
+   "male": 3,
+   "female": 3,
+   "total": 6
+  },
+  {
+   "topic": "cardiovascular",
+   "male": 2,
+   "female": 3,
+   "total": 5
+  },
+  {
+   "topic": "testosterone",
+   "male": 5,
+   "female": 0,
+   "total": 5
+  },
+  {
+   "topic": "breast_cancer",
+   "male": 0,
+   "female": 4,
+   "total": 4
+  },
+  {
+   "topic": "urinary_pelvic",
+   "male": 0,
+   "female": 4,
+   "total": 4
+  },
+  {
+   "topic": "bph_luts",
+   "male": 3,
+   "female": 0,
+   "total": 3
+  },
+  {
+   "topic": "caregiving_end_of_life",
+   "male": 3,
+   "female": 0,
+   "total": 3
+  },
+  {
+   "topic": "caregiving_widowhood",
+   "male": 0,
+   "female": 3,
+   "total": 3
+  },
+  {
+   "topic": "depression_suicide",
+   "male": 3,
+   "female": 0,
+   "total": 3
+  },
+  {
+   "topic": "diabetes_metabolic",
+   "male": 1,
+   "female": 2,
+   "total": 3
+  },
+  {
+   "topic": "erectile_sexual",
+   "male": 3,
+   "female": 0,
+   "total": 3
+  },
+  {
+   "topic": "sexual_vaginal",
+   "male": 0,
+   "female": 3,
+   "total": 3
+  },
+  {
+   "topic": "depression_mental",
+   "male": 0,
+   "female": 2,
+   "total": 2
+  },
+  {
+   "topic": "prostate_cancer",
+   "male": 2,
+   "female": 0,
+   "total": 2
+  }
+ ]
+}

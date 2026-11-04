@@ -1,0 +1,9 @@
+{
+ "queries": 64,
+ "hits_sum": 227382,
+ "records_screened": 2560,
+ "unique_pmids": 1962,
+ "indexed": 124,
+ "core": 119,
+ "excluded": 5
+}

@@ -1,0 +1,94 @@
+{
+ "male": {
+  "n_index": 61,
+  "n_core": 58,
+  "n_with_sample": 40,
+  "sum_n": 1069619,
+  "median_n": 1321.0,
+  "q1": 149.75,
+  "q3": 4412.0,
+  "max_n": 916890,
+  "designs": {
+   "Meta-analysis": 2,
+   "Cohort/longitudinal": 32,
+   "Randomized trial": 9,
+   "Cross-sectional/survey": 3,
+   "Randomized trial (abstract)": 2,
+   "Observational study": 1,
+   "Review": 3,
+   "Primary/other": 5,
+   "Systematic review": 1
+  },
+  "topics": {
+   "sarcopenia_falls": 6,
+   "depression_suicide": 3,
+   "bph_luts": 3,
+   "testosterone": 5,
+   "caregiving_end_of_life": 3,
+   "prostate_cancer": 2,
+   "osteoporosis_fracture": 6,
+   "frailty_multimorbidity": 6,
+   "cognition_dementia": 5,
+   "sleep": 4,
+   "polypharmacy": 3,
+   "cancer_survivorship": 3,
+   "diabetes_metabolic": 1,
+   "cardiovascular": 2,
+   "erectile_sexual": 3,
+   "hearing_sensory": 3
+  },
+  "years": [
+   2016,
+   2026
+  ]
+ },
+ "female": {
+  "n_index": 63,
+  "n_core": 61,
+  "n_with_sample": 42,
+  "sum_n": 1722433,
+  "median_n": 779.5,
+  "q1": 109.5,
+  "q3": 5249.25,
+  "max_n": 1410928,
+  "designs": {
+   "Cohort/longitudinal": 34,
+   "Meta-analysis": 4,
+   "Review": 1,
+   "Randomized trial": 13,
+   "Systematic review": 1,
+   "Primary/other": 6,
+   "Cross-sectional/survey": 2
+  },
+  "topics": {
+   "sleep": 5,
+   "caregiving_widowhood": 3,
+   "frailty_multimorbidity": 2,
+   "sarcopenia_falls": 6,
+   "urinary_pelvic": 4,
+   "menopause_hrt": 6,
+   "osteoporosis_fracture": 6,
+   "breast_cancer": 4,
+   "cardiovascular": 3,
+   "cognition_dementia": 5,
+   "diabetes_metabolic": 2,
+   "sexual_vaginal": 3,
+   "hearing_sensory": 3,
+   "cancer_survivorship": 4,
+   "depression_mental": 2,
+   "polypharmacy": 3
+  },
+  "years": [
+   2014,
+   2026
+  ]
+ },
+ "combined": {
+  "n_core": 119,
+  "n_with_sample": 82,
+  "sum_n": 2792052,
+  "rct": 24,
+  "cohort": 66,
+  "reviews": 12
+ }
+}
