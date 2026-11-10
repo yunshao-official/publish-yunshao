@@ -1,0 +1,1 @@
+{"version": "v1.2", "N": 100, "E": 291, "capsules": 6, "native_comms": 6, "max_capsule": 10000, "tl": 40.0, "solved": 1, "posa_failed": 5, "fragments": 16, "stitch": {"tail_joins": 1, "rev_joins": 1, "misses": 13}, "cover": 100, "dup": 0, "breaks": 13, "anchor": 892, "verdict": "PASS", "wall_s": 0.2}
