@@ -1,0 +1,965 @@
+{
+ "卷": "A2",
+ "条数": 60,
+ "模块": {
+  "M14": {
+   "送审": 60,
+   "留": 35,
+   "删": 25,
+   "待核": 0,
+   "剔除率": "41.7%",
+   "检索式判定": "不合格(>10%)",
+   "关联疑问命中": [
+    "Q25",
+    "Q26",
+    "Q27",
+    "Q28"
+   ]
+  }
+ },
+ "门W漏网": [
+  "A066",
+  "A067",
+  "A068",
+  "A069",
+  "A071",
+  "A072",
+  "A073",
+  "A074",
+  "A075",
+  "A076",
+  "A077",
+  "A078",
+  "A079",
+  "A080",
+  "A083",
+  "A084",
+  "A085",
+  "A086",
+  "A087",
+  "A088",
+  "A089",
+  "A090",
+  "A091",
+  "A093",
+  "A094"
+ ],
+ "门N漏网": [],
+ "文献": [
+  {
+   "编号": "A066",
+   "模块号": "M14",
+   "PMID": "10334533",
+   "标题": "Estrogen receptor status by immunohistochemistry is superior to the ligand-binding assay for predicting response to adjuvant endocrine therapy in breast cancer.",
+   "年份": 1999,
+   "被引数": 1508,
+   "结论": "删",
+   "理由": "乳腺癌ER免疫组化研究，主题属肿瘤治疗而非M14特殊人群绝经",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A067",
+   "模块号": "M14",
+   "PMID": "29117498",
+   "标题": "20-Year Risks of Breast-Cancer Recurrence after Stopping Endocrine Therapy at 5 Years.",
+   "年份": 2017,
+   "被引数": 1482,
+   "结论": "删",
+   "理由": "乳腺癌内分泌治疗停药后复发风险，纯肿瘤治疗研究",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A068",
+   "模块号": "M14",
+   "PMID": "26947331",
+   "标题": "Fulvestrant plus palbociclib versus fulvestrant plus placebo for treatment of hormone-receptor-positive, HER2-negative metastatic breast cancer that progressed on previous endocrine therapy (PALOMA-3): final analysis of the multicentre, double-blind, phase 3 randomised controlled trial.",
+   "年份": 2016,
+   "被引数": 1417,
+   "结论": "删",
+   "理由": "PALOMA-3乳腺癌CDK4/6抑制剂试验，绝经状态仅作分层因素",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A069",
+   "模块号": "M14",
+   "PMID": "28580882",
+   "标题": "MONARCH 2: Abemaciclib in Combination With Fulvestrant in Women With HR+/HER2- Advanced Breast Cancer Who Had Progressed While Receiving Endocrine Therapy.",
+   "年份": 2017,
+   "被引数": 1309,
+   "结论": "删",
+   "理由": "MONARCH 2乳腺癌abemaciclib试验，非M14特殊人群研究",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A070",
+   "模块号": "M14",
+   "PMID": "27008889",
+   "标题": "ESHRE Guideline: management of women with premature ovarian insufficiency.",
+   "年份": 2016,
+   "被引数": 1039,
+   "结论": "留",
+   "理由": "ESHRE指南：POI诊断与管理99条推荐，核心M14文献",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q26"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A071",
+   "模块号": "M14",
+   "PMID": "19701242",
+   "标题": "Biological determinants of endocrine resistance in breast cancer.",
+   "年份": 2009,
+   "被引数": 1027,
+   "结论": "删",
+   "理由": "乳腺癌内分泌耐药生物学决定因素综述，纯肿瘤机制",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A072",
+   "模块号": "M14",
+   "PMID": "20887199",
+   "标题": "Mechanisms of endocrine resistance in breast cancer.",
+   "年份": 2011,
+   "被引数": 958,
+   "结论": "删",
+   "理由": "乳腺癌内分泌耐药机制综述，ER通路与生长因子交叉",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A073",
+   "模块号": "M14",
+   "PMID": "33507815",
+   "标题": "Neoadjuvant Chemotherapy, Endocrine Therapy, and Targeted Therapy for Breast Cancer: ASCO Guideline.",
+   "年份": 2021,
+   "被引数": 859,
+   "结论": "删",
+   "理由": "ASCO乳腺癌新辅助治疗指南，非M14特殊人群绝经问题",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A074",
+   "模块号": "M14",
+   "PMID": "32954927",
+   "标题": "Abemaciclib Combined With Endocrine Therapy for the Adjuvant Treatment of HR+, HER2-, Node-Positive, High-Risk, Early Breast Cancer (monarchE).",
+   "年份": 2020,
+   "被引数": 837,
+   "结论": "删",
+   "理由": "monarchE辅助治疗试验，绝经状态非研究焦点",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A075",
+   "模块号": "M14",
+   "PMID": "23084519",
+   "标题": "Menarche, menopause, and breast cancer risk: individual participant meta-analysis, including 118 964 women with breast cancer from 117 epidemiological studies.",
+   "年份": 2012,
+   "被引数": 833,
+   "结论": "删",
+   "理由": "绝经年龄与乳腺癌风险的meta分析，关注癌症风险非绝经管理",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A076",
+   "模块号": "M14",
+   "PMID": "31563959",
+   "标题": "The Effect of Abemaciclib Plus Fulvestrant on Overall Survival in Hormone Receptor-Positive, ERBB2-Negative Breast Cancer That Progressed on Endocrine Therapy-MONARCH 2: A Randomized Clinical Trial.",
+   "年份": 2020,
+   "被引数": 797,
+   "结论": "删",
+   "理由": "MONARCH 2总生存分析，绝经状态仅为入组分层因素",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A077",
+   "模块号": "M14",
+   "PMID": "29804902",
+   "标题": "Ribociclib plus endocrine therapy for premenopausal women with hormone-receptor-positive, advanced breast cancer (MONALEESA-7): a randomised phase 3 trial.",
+   "年份": 2018,
+   "被引数": 795,
+   "结论": "删",
+   "理由": "MONALEESA-7绝经前乳腺癌CDK4/6试验，聚焦肿瘤治疗",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A078",
+   "模块号": "M14",
+   "PMID": "31166679",
+   "标题": "Overall Survival with Ribociclib plus Endocrine Therapy in Breast Cancer.",
+   "年份": 2019,
+   "被引数": 767,
+   "结论": "删",
+   "理由": "Ribociclib联合内分泌治疗总生存，对象为绝经前乳腺癌患者",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A079",
+   "模块号": "M14",
+   "PMID": "32289273",
+   "标题": "Overcoming Endocrine Resistance in Breast Cancer.",
+   "年份": 2020,
+   "被引数": 764,
+   "结论": "删",
+   "理由": "克服乳腺癌内分泌耐药综述，纯肿瘤治疗策略",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A080",
+   "模块号": "M14",
+   "PMID": "19213681",
+   "标题": "Endocrine therapy plus zoledronic acid in premenopausal breast cancer.",
+   "年份": 2009,
+   "被引数": 741,
+   "结论": "删",
+   "理由": "绝经前乳腺癌内分泌治疗加唑来膦酸试验，聚焦肿瘤治疗",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A081",
+   "模块号": "M14",
+   "PMID": "3960433",
+   "标题": "Incidence of premature ovarian failure.",
+   "年份": 1986,
+   "被引数": 709,
+   "结论": "留",
+   "理由": "早绝经发病率经典研究：40岁前1%自然绝经风险",
+   "标签": [],
+   "关联疑问": [
+    "Q25"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A082",
+   "模块号": "M14",
+   "PMID": "15827095",
+   "标题": "Androgen levels in adult females: changes with age, menopause, and oophorectomy.",
+   "年份": 2005,
+   "被引数": 684,
+   "结论": "留",
+   "理由": "成年女性雄激素随年龄/自然绝经/切除卵巢的变化规律",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q27"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A083",
+   "模块号": "M14",
+   "PMID": "11559718",
+   "标题": "Letrozole is more effective neoadjuvant endocrine therapy than tamoxifen for ErbB-1- and/or ErbB-2-positive, estrogen receptor-positive primary breast cancer: evidence from a phase III randomized trial.",
+   "年份": 2001,
+   "被引数": 667,
+   "结论": "删",
+   "理由": "来曲唑vs他莫昔芬新辅助治疗ER+乳腺癌，纯肿瘤试验",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A084",
+   "模块号": "M14",
+   "PMID": "12635173",
+   "标题": "Endocrine-responsive breast cancer and strategies for combating resistance.",
+   "年份": 2002,
+   "被引数": 666,
+   "结论": "删",
+   "理由": "乳腺癌内分泌耐药策略综述，非M14特殊人群绝经问题",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A085",
+   "模块号": "M14",
+   "PMID": "17200148",
+   "标题": "Five years of letrozole compared with tamoxifen as initial adjuvant therapy for postmenopausal women with endocrine-responsive early breast cancer: update of study BIG 1-98.",
+   "年份": 2007,
+   "被引数": 642,
+   "结论": "删",
+   "理由": "BIG 1-98绝经后乳腺癌辅助内分泌治疗试验",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A086",
+   "模块号": "M14",
+   "PMID": "35584336",
+   "标题": "Elacestrant (oral selective estrogen receptor degrader) Versus Standard Endocrine Therapy for Estrogen Receptor-Positive, Human Epidermal Growth Factor Receptor 2-Negative Advanced Breast Cancer: Results From the Randomized Phase III EMERALD Trial.",
+   "年份": 2022,
+   "被引数": 622,
+   "结论": "删",
+   "理由": "Elacestrant治疗ER+晚期乳腺癌III期试验，非M14人群",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A087",
+   "模块号": "M14",
+   "PMID": "7563205",
+   "标题": "Mammographic features and breast cancer risk: effects with time, age, and menopause status.",
+   "年份": 1995,
+   "被引数": 608,
+   "结论": "删",
+   "理由": "乳腺X线特征与乳腺癌风险，绝经状态仅作分层变量",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A088",
+   "模块号": "M14",
+   "PMID": "26122181",
+   "标题": "ESR1 mutations—a mechanism for acquired endocrine resistance in breast cancer.",
+   "年份": 2015,
+   "被引数": 607,
+   "结论": "删",
+   "理由": "ESR1突变致乳腺癌内分泌耐药机制，纯肿瘤分子生物学",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A089",
+   "模块号": "M14",
+   "PMID": "10659874",
+   "标题": "Menopausal estrogen and estrogen-progestin replacement therapy and breast cancer risk.",
+   "年份": 2000,
+   "被引数": 607,
+   "结论": "删",
+   "理由": "绝经后HRT与乳腺癌风险队列研究，聚焦癌症风险非M14",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A090",
+   "模块号": "M14",
+   "PMID": "16084253",
+   "标题": "Switching of postmenopausal women with endocrine-responsive early breast cancer to anastrozole after 2 years' adjuvant tamoxifen: combined results of ABCSG trial 8 and ARNO 95 trial.",
+   "年份": 2005,
+   "被引数": 592,
+   "结论": "删",
+   "理由": "绝经后乳腺癌切换阿那曲唑试验(ABCSG 8/ARNO 95)",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A091",
+   "模块号": "M14",
+   "PMID": "20179196",
+   "标题": "FGFR1 amplification drives endocrine therapy resistance and is a therapeutic target in breast cancer.",
+   "年份": 2010,
+   "被引数": 586,
+   "结论": "删",
+   "理由": "FGFR1扩增驱动乳腺癌内分泌耐药，纯肿瘤机制研究",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A092",
+   "模块号": "M14",
+   "PMID": "19733988",
+   "标题": "Premature menopause or early menopause: long-term health consequences.",
+   "年份": 2010,
+   "被引数": 573,
+   "结论": "留",
+   "理由": "早绝经长期健康后果综述：心血管/神经/骨骼/死亡风险",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q27"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A093",
+   "模块号": "M14",
+   "PMID": "24868023",
+   "标题": "Adjuvant endocrine therapy for women with hormone receptor-positive breast cancer: american society of clinical oncology clinical practice guideline focused update.",
+   "年份": 2014,
+   "被引数": 555,
+   "结论": "删",
+   "理由": "ASCO乳腺癌辅助内分泌治疗指南更新，非M14特殊人群",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A094",
+   "模块号": "M14",
+   "PMID": "24055055",
+   "标题": "Endocrine-therapy-resistant ESR1 variants revealed by genomic characterization of breast-cancer-derived xenografts.",
+   "年份": 2013,
+   "被引数": 543,
+   "结论": "删",
+   "理由": "乳腺癌PDX模型ESR1变异研究，纯肿瘤基因组学",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A095",
+   "模块号": "M14",
+   "PMID": "20708256",
+   "标题": "Primary ovarian insufficiency.",
+   "年份": 2010,
+   "被引数": 532,
+   "结论": "留",
+   "理由": "Lancet POI综述：病因/遗传/化疗/手术/生育力保存",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q26"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A096",
+   "模块号": "M14",
+   "PMID": "15919682",
+   "标题": "Premature ovarian failure.",
+   "年份": 2005,
+   "被引数": 406,
+   "结论": "留",
+   "理由": "POF系统综述：遗传/自身免疫/医源性/环境病因，1%女性受累",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q26"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A097",
+   "模块号": "M14",
+   "PMID": "25845383",
+   "标题": "Long-term health consequences of premature or early menopause and considerations for management.",
+   "年份": 2015,
+   "被引数": 376,
+   "结论": "留",
+   "理由": "早绝经长期后果与管理综述：认知/心血管/骨骼/性健康",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q27"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A098",
+   "模块号": "M14",
+   "PMID": "26243799",
+   "标题": "Genetics of primary ovarian insufficiency: new developments and opportunities.",
+   "年份": 2015,
+   "被引数": 375,
+   "结论": "留",
+   "理由": "POI遗传学综述：染色体异常/候选基因/GWAS新进展",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q26"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A099",
+   "模块号": "M14",
+   "PMID": "2052592",
+   "标题": "Effect of surgical menopause and estrogen replacement on cytokine release from human blood mononuclear cells.",
+   "年份": 1991,
+   "被引数": 369,
+   "结论": "留",
+   "理由": "手术绝经后单核细胞IL-1/TNF-α/GM-CSF分泌变化及雌激素替代",
+   "标签": [],
+   "关联疑问": [
+    "Q27"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A100",
+   "模块号": "M14",
+   "PMID": "25567618",
+   "标题": "Successful fertility preservation following ovarian tissue vitrification in patients with primary ovarian insufficiency.",
+   "年份": 2015,
+   "被引数": 352,
+   "结论": "留",
+   "理由": "POI患者卵巢组织玻璃化冻存后IVA成功生育，M14管理证据",
+   "标签": [],
+   "关联疑问": [
+    "Q26"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A101",
+   "模块号": "M14",
+   "PMID": "17970776",
+   "标题": "Primary ovarian insufficiency: a more accurate term for premature ovarian failure.",
+   "年份": 2008,
+   "被引数": 346,
+   "结论": "留",
+   "理由": "POI命名综述：从POF到POI，含遗传/自身免疫病因及心理支持",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q26"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A102",
+   "模块号": "M14",
+   "PMID": "11455387",
+   "标题": "Aromatic hydrocarbon receptor-driven Bax gene expression is required for premature ovarian failure caused by biohazardous environmental chemicals.",
+   "年份": 2001,
+   "被引数": 323,
+   "结论": "留",
+   "理由": "环境毒素PAH经Ahr/Bax致小鼠卵母细胞凋亡，为人类POI提供机制",
+   "标签": [],
+   "关联疑问": [
+    "Q26"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A103",
+   "模块号": "M14",
+   "PMID": "10208170",
+   "标题": "Fragile X premutation is a significant risk factor for premature ovarian failure: the International Collaborative POF in Fragile X study--preliminary data.",
+   "年份": 1999,
+   "被引数": 310,
+   "结论": "留",
+   "理由": "Fragile X前突变携带者16%在40岁前绝经，POI遗传风险因素",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q26"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A104",
+   "模块号": "M14",
+   "PMID": "11449487",
+   "标题": "Premature ovarian failure in the fragile X syndrome.",
+   "年份": 2000,
+   "被引数": 302,
+   "结论": "留",
+   "理由": "Fragile X综合征中POF综述：前突变携带者POF风险约21%",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q26"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A105",
+   "模块号": "M14",
+   "PMID": "4023162",
+   "标题": "Androgen enhances sexual motivation in females: a prospective, crossover study of sex steroid administration in the surgical menopause.",
+   "年份": 1985,
+   "被引数": 289,
+   "结论": "留",
+   "理由": "手术绝经女性雄激素增强性欲动机，M14人群性功能管理证据",
+   "标签": [],
+   "关联疑问": [
+    "Q27"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A106",
+   "模块号": "M14",
+   "PMID": "19996028",
+   "标题": "Association of BRCA1 mutations with occult primary ovarian insufficiency: a possible explanation for the link between infertility and breast/ovarian cancer risks.",
+   "年份": 2010,
+   "被引数": 279,
+   "结论": "留",
+   "理由": "BRCA1突变与隐匿性POI关联：乳腺癌患者卵巢储备降低",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q26"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A107",
+   "模块号": "M14",
+   "PMID": "34041247",
+   "标题": "Premature Ovarian Insufficiency: Past, Present, and Future.",
+   "年份": 2021,
+   "被引数": 277,
+   "结论": "留",
+   "理由": "POI综述：遗传/环境/自身免疫病因及动物模型与未来方向",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q26"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A108",
+   "模块号": "M14",
+   "PMID": "30829083",
+   "标题": "The global prevalence of primary ovarian insufficiency and early menopause: a meta-analysis.",
+   "年份": 2019,
+   "被引数": 264,
+   "结论": "留",
+   "理由": "POI全球患病率3.7%、早绝经5.2%的meta分析(31项研究)",
+   "标签": [],
+   "关联疑问": [
+    "Q25"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A109",
+   "模块号": "M14",
+   "PMID": "9034788",
+   "标题": "Premature ovarian failure and ovarian autoimmunity.",
+   "年份": 1997,
+   "被引数": 254,
+   "结论": "留",
+   "理由": "POF与卵巢自身免疫综述：抗卵巢抗体与自身免疫共病证据",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q26"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A110",
+   "模块号": "M14",
+   "PMID": "1550144",
+   "标题": "Early menopause in long-term survivors of cancer during adolescence.",
+   "年份": 1992,
+   "被引数": 251,
+   "结论": "留",
+   "理由": "青少年癌症幸存者早绝经风险增4倍，放化疗协同损伤卵巢",
+   "标签": [],
+   "关联疑问": [
+    "Q28"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A111",
+   "模块号": "M14",
+   "PMID": "16373508",
+   "标题": "Premature ovarian failure in androgen receptor-deficient mice.",
+   "年份": 2006,
+   "被引数": 237,
+   "结论": "留",
+   "理由": "AR敲除小鼠POF模型：揭示雄激素受体在卵巢功能维持中的作用",
+   "标签": [],
+   "关联疑问": [
+    "Q26"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A112",
+   "模块号": "M14",
+   "PMID": "16722528",
+   "标题": "Premature ovarian failure.",
+   "年份": 2006,
+   "被引数": 223,
+   "结论": "留",
+   "理由": "POF系统综述：1%女性受累，含染色体/遗传/自身免疫/环境病因",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q26"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A113",
+   "模块号": "M14",
+   "PMID": "17761549",
+   "标题": "Increased risk of parkinsonism in women who underwent oophorectomy before menopause.",
+   "年份": 2008,
+   "被引数": 220,
+   "结论": "留",
+   "理由": "绝经前切除卵巢增加帕金森风险(1252例手术vs 2368对照)",
+   "标签": [],
+   "关联疑问": [
+    "Q27"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A114",
+   "模块号": "M14",
+   "PMID": "18714076",
+   "标题": "Prophylactic oophorectomy in premenopausal women and long-term health.",
+   "年份": 2008,
+   "被引数": 185,
+   "结论": "留",
+   "理由": "预防性切除卵巢长期后果综述：死亡/心血管/认知/骨质疏松风险",
+   "标签": [],
+   "关联疑问": [
+    "Q27"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A115",
+   "模块号": "M14",
+   "PMID": "21216453",
+   "标题": "The impact of prophylactic salpingo-oophorectomy on menopausal symptoms and sexual function in women who carry a BRCA mutation.",
+   "年份": 2011,
+   "被引数": 159,
+   "结论": "留",
+   "理由": "BRCA突变者预防性切除卵巢后绝经症状与性功能变化研究",
+   "标签": [],
+   "关联疑问": [
+    "Q27"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A116",
+   "模块号": "M14",
+   "PMID": "10487678",
+   "标题": "Estrogen receptor polymorphism predicts the onset of natural and surgical menopause.",
+   "年份": 1999,
+   "被引数": 158,
+   "结论": "留",
+   "理由": "ER基因PvuII多态性预测自然与手术绝经年龄，PP基因型早1.1年",
+   "标签": [],
+   "关联疑问": [
+    "Q25"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A117",
+   "模块号": "M14",
+   "PMID": "16877724",
+   "标题": "The impact of hormone replacement therapy on menopausal symptoms in younger high-risk women after prophylactic salpingo-oophorectomy.",
+   "年份": 2006,
+   "被引数": 153,
+   "结论": "留",
+   "理由": "高危女性预防性切除卵巢后HRT改善绝经症状，血管舒缩症状减少",
+   "标签": [],
+   "关联疑问": [
+    "Q27"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A118",
+   "模块号": "M14",
+   "PMID": "17476145",
+   "标题": "Surgical menopause and cardiovascular risks.",
+   "年份": 2007,
+   "被引数": 98,
+   "结论": "留",
+   "理由": "手术绝经与心血管风险综述：绝经前切除卵巢显著增加冠心病风险",
+   "标签": [],
+   "关联疑问": [
+    "Q27"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A119",
+   "模块号": "M14",
+   "PMID": "11893842",
+   "标题": "Effect of surgical menopause on cognitive functions.",
+   "年份": 2002,
+   "被引数": 96,
+   "结论": "留",
+   "理由": "手术绝经后认知功能下降：MMSE/WMS/ERP指标3-6月显著恶化",
+   "标签": [],
+   "关联疑问": [
+    "Q27"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A120",
+   "模块号": "M14",
+   "PMID": "24549218",
+   "标题": "Is unilateral oophorectomy associated with age at menopause? A population study (the HUNT2 Survey).",
+   "年份": 2014,
+   "被引数": 93,
+   "结论": "留",
+   "理由": "HUNT2人群研究：单侧卵巢切除绝经年龄提前1年(23580人)",
+   "标签": [],
+   "关联疑问": [
+    "Q25"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A121",
+   "模块号": "M14",
+   "PMID": "16618835",
+   "标题": "Surgical menopause increases salt sensitivity of blood pressure.",
+   "年份": 2006,
+   "被引数": 92,
+   "结论": "留",
+   "理由": "手术绝经后血压盐敏感性增加，40例绝经前女性前瞻性研究",
+   "标签": [],
+   "关联疑问": [
+    "Q27"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A122",
+   "模块号": "M14",
+   "PMID": "32168205",
+   "标题": "Clinical Effects of Early or Surgical Menopause.",
+   "年份": 2020,
+   "被引数": 91,
+   "结论": "留",
+   "理由": "Obstet Gynecol综述：早/手术绝经多系统影响及HRT关键作用",
+   "标签": [],
+   "关联疑问": [
+    "Q25",
+    "Q27"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A123",
+   "模块号": "M14",
+   "PMID": "30326011",
+   "标题": "Association of Bilateral Salpingo-Oophorectomy Before Menopause Onset With Medial Temporal Lobe Neurodegeneration.",
+   "年份": 2019,
+   "被引数": 89,
+   "结论": "留",
+   "理由": "绝经前BSO与内侧颞叶神经退行性变关联(Mayo队列)",
+   "标签": [],
+   "关联疑问": [
+    "Q27"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A124",
+   "模块号": "M14",
+   "PMID": "15284002",
+   "标题": "Immune effects of surgical menopause and estrogen replacement therapy in peri-menopausal women.",
+   "年份": 2004,
+   "被引数": 85,
+   "结论": "留",
+   "理由": "手术绝经后免疫变化：T/B/NK细胞亚群改变及ERT部分逆转",
+   "标签": [],
+   "关联疑问": [
+    "Q27"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A125",
+   "模块号": "M14",
+   "PMID": "19470706",
+   "标题": "Transitional versus surgical menopause in a rodent model: etiology of ovarian hormone loss impacts memory and the acetylcholine system.",
+   "年份": 2009,
+   "被引数": 83,
+   "结论": "留",
+   "理由": "VCD模型模拟自然绝经vs手术绝经对认知与胆碱能系统的影响差异",
+   "标签": [],
+   "关联疑问": [
+    "Q27"
+   ],
+   "对外可引": false
+  }
+ ]
+}

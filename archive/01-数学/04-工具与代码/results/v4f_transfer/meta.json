@@ -1,0 +1,11 @@
+{
+ "engine": "概念宇宙 LLM · L2 转移宇宙 + 关联宇宙",
+ "corpus": "zcode DeepSeek 对话 blob（清洗：>80字段落/去UI模板/去英文块）",
+ "cleaned_paragraphs": 180007,
+ "cleaned_tokens": 19534936,
+ "bigram_types": 3235559,
+ "tokens_with_successor": 46877,
+ "cooc_edges": 9211,
+ "elapsed_s": 90.1,
+ "honest_note": "历史判负继承：bigram 转移宇宙给不了句子级生成（多样性 0.70 天花板、判负在案）——本表角色=语法先验+知识候选源，生成主力在引擎侧；语料=她的对话记录（助手腔/题目碎片风险，清洗三件套已应用但残余风险照记）"
+}

@@ -1,0 +1,390 @@
+1. JAMA. 2024 Dec 3;332(21):1822-1831. doi: 10.1001/jama.2024.16954.
+
+Buprenorphine/Naloxone vs Methadone for the Treatment of Opioid Use Disorder.
+
+Nosyk B(1)(2), Min JE(1), Homayra F(1), Kurz M(1)(2), Guerra-Alejos BC(1), Yan 
+R(1), Piske M(1), Seaman SR(3), Bach P(4)(5), Greenland S(6), Karim ME(1)(7), 
+Siebert U(8)(9)(10), Bruneau J(11)(12), Gustafson P(13), Kampman K(14), Korthuis 
+PT(15)(16), Loughin T(17), McCandless LC(2)(17), Platt RW(18), Schnepel KT(19), 
+Socías ME(4)(5).
+
+Author information:
+(1)Centre for Advancing Health Outcomes, Vancouver, British Columbia, Canada.
+(2)Faculty of Health Sciences, Simon Fraser University, Burnaby, British 
+Columbia, Canada.
+(3)Medical Research Council Biostatistics Unit, University of Cambridge, 
+Cambridge, United Kingdom.
+(4)British Columbia Centre on Substance Use, Vancouver, British Columbia, 
+Canada.
+(5)Department of Medicine, Faculty of Medicine, University of British Columbia, 
+Vancouver, British Columbia, Canada.
+(6)Department of Epidemiology and Department of Statistics, University of 
+California, Loa Angeles.
+(7)School of Population and Public Health, University of British Columbia, 
+Vancouver, British Columbia, Canada.
+(8)Center for Health Decision Science and Departments of Epidemiology and Health 
+Policy and Management, Harvard University T.H. Chan School of Public Health, 
+Boston, Massachusetts.
+(9)Department of Public Health, Health Services Research and Health Technology 
+Assessment, UMIT TIROL-University for Health Sciences and Technology, Tirol, 
+Austria.
+(10)Institute for Technology Assessment and Department of Radiology, 
+Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts.
+(11)Centre hospitalier de l'Université de Montréal, CRCHUM, Montreal, Quebec, 
+Canada.
+(12)Département de médecine de famille et de médecine d'urgence, Université de 
+Montréal, Montreal, Quebec, Canada.
+(13)Department of Statistics, University of British Columbia, Vancouver, British 
+Columbia, Canada.
+(14)Department of Psychiatry, University of Pennsylvania, Philadelphia.
+(15)School of Public Health, Oregon Health & Science University-Portland State 
+University, Portland, Oregon.
+(16)Section of Addiction Medicine, Oregon Health & Science University, Portland.
+(17)Department of Statistics and Actuarial Sciences, Simon Fraser University, 
+Burnaby, British Columbia, Canada.
+(18)Department of Epidemiology, Biostatistics and Occupational Health, McGill 
+University, Montreal, Quebec, Canada.
+(19)Department of Economics, Simon Fraser University, Burnaby, British Columbia, 
+Canada.
+
+Comment in
+    doi: 10.1001/jama.2023.26522.
+    doi: 10.1001/jama.2024.11501.
+
+IMPORTANCE: Previous studies on the comparative effectiveness between 
+buprenorphine and methadone provided limited evidence on differences in 
+treatment effects across key subgroups and were drawn from populations who use 
+primarily heroin or prescription opioids, although fentanyl use is increasing 
+across North America.
+OBJECTIVE: To assess the risk of treatment discontinuation and mortality among 
+individuals receiving buprenorphine/naloxone vs methadone for the treatment of 
+opioid use disorder.
+DESIGN, SETTING, AND PARTICIPANTS: Population-based retrospective cohort study 
+using linked health administrative databases in British Columbia, Canada. The 
+study included treatment recipients between January 1, 2010, and March 17, 2020, 
+who were 18 years or older and not incarcerated, pregnant, or receiving 
+palliative cancer care at initiation.
+EXPOSURES: Receipt of buprenorphine/naloxone or methadone among incident 
+(first-time) users and prevalent new users (including first and subsequent 
+treatment attempts).
+MAIN OUTCOMES AND MEASURES: Hazard ratios (HRs) with 95% compatibility 
+(confidence) intervals were estimated for treatment discontinuation (lasting ≥5 
+days for methadone and ≥6 days for buprenorphine/naloxone) and all-cause 
+mortality within 24 months using discrete-time survival models for comparisons 
+of medications as assigned at initiation regardless of treatment adherence 
+("initiator") and received according to dosing guidelines (approximating 
+per-protocol analysis).
+RESULTS: A total of 30 891 incident users (39% receiving buprenorphine/naloxone; 
+66% male; median age, 33 [25th-75th, 26-43] years) were included in the 
+initiator analysis and 25 614 in the per-protocol analysis. Incident users of 
+buprenorphine/naloxone had a higher risk of treatment discontinuation compared 
+with methadone in initiator analyses (88.8% vs 81.5% discontinued at 24 months; 
+adjusted HR, 1.58 [95% CI, 1.53-1.63]), with limited change in estimates when 
+evaluated at optimal dose in per-protocol analysis (42.1% vs 30.7%; adjusted HR, 
+1.67 [95% CI, 1.58-1.76]). Per-protocol analyses of mortality while receiving 
+treatment exhibited ambiguous results among incident users (0.08% vs 0.13% 
+mortality at 24 months; adjusted HR, 0.57 [95% CI, 0.24-1.35]) and among 
+prevalent users (0.08% vs 0.09%; adjusted HR, 0.97 [95% CI, 0.54-1.73]). Results 
+were consistent after the introduction of fentanyl and across patient subgroups 
+and sensitivity analyses.
+CONCLUSIONS AND RELEVANCE: Receipt of methadone was associated with a lower risk 
+of treatment discontinuation compared with buprenorphine/naloxone. The risk of 
+mortality while receiving treatment was similar for buprenorphine/naloxone and 
+methadone, although the CI estimate for the hazard ratio was wide.
+
+DOI: 10.1001/jama.2024.16954
+PMCID: PMC11581542
+PMID: 39418046 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Bruneau 
+reported receiving grants from Gilead Sciences and receiving personal fees for 
+serving on advisory boards from Gilead sciences, AbbVie, and Cepheid, outside 
+the submitted work. Dr Platt reported receiving personal fees from Biogen, 
+Boehringer Ingelheim, Merck, Pfizer, and Vanda Pharmaceuticals, outside the 
+submitted work. Dr Socias reported receiving grants (to institution) from the 
+Indivior Investigator Initiated Studies Program, outside the submitted work. No 
+other disclosures were reported.
+
+
+2. Biol Psychiatry. 2020 Jan 1;87(1):82-88. doi: 10.1016/j.biopsych.2019.06.020. 
+Epub 2019 Jul 2.
+
+Medication Treatment of Opioid Use Disorder.
+
+Bell J(1), Strang J(2).
+
+Author information:
+(1)National Addiction Centre, Institute of Psychiatry, Psychology and 
+Neuroscience, King's College London, London, United Kingdom. Electronic address: 
+james.bell@kcl.ac.uk.
+(2)National Addiction Centre, Institute of Psychiatry, Psychology and 
+Neuroscience, King's College London, London, United Kingdom.
+
+Opioid use disorder (OUD) is a chronic, relapsing condition, often associated 
+with legal, interpersonal, and employment problems. Medications demonstrated to 
+be effective for OUD are methadone (a full opioid agonist), buprenorphine (a 
+partial agonist), and naltrexone (an opioid antagonist). Methadone and 
+buprenorphine act by suppressing opioid withdrawal symptoms and attenuating the 
+effects of other opioids. Naltrexone blocks the effects of opioid agonists. Oral 
+methadone has the strongest evidence for effectiveness. Longer duration of 
+treatment allows restoration of social connections and is associated with better 
+outcomes. Treatments for OUD may be limited by poor adherence to treatment 
+recommendations and by high rates of relapse and increased risk of overdose 
+after leaving treatment. Treatment with methadone and buprenorphine has the 
+additional risk of diversion and misuse of medication. New depot and implant 
+formulations of buprenorphine and naltrexone have been developed to address 
+issues of safety and problems of poor treatment adherence. For people with OUD 
+who do not respond to these treatments, there is accumulating evidence for 
+supervised injectable opioid treatment (prescribing pharmaceutical heroin). 
+Another medication mode of minimizing risk of overdose is take-home naloxone. 
+Naloxone is an opioid antagonist used to reverse opioid overdose, and take-home 
+naloxone programs aim to prevent fatal overdose. All medication-assisted 
+treatment is limited by lack of access and by stigma. In seeking to stem the 
+rising toll from OUD, expanding access to approved treatment such as methadone, 
+for which there remains the best evidence of efficacy, may be the most useful 
+approach.
+
+Copyright © 2019 Society of Biological Psychiatry. Published by Elsevier Inc. 
+All rights reserved.
+
+DOI: 10.1016/j.biopsych.2019.06.020
+PMID: 31420089 [Indexed for MEDLINE]
+
+
+3. JAMA Intern Med. 2018 Jun 1;178(6):764-773. doi: 
+10.1001/jamainternmed.2018.1052.
+
+Weekly and Monthly Subcutaneous Buprenorphine Depot Formulations vs Daily 
+Sublingual Buprenorphine With Naloxone for Treatment of Opioid Use Disorder: A 
+Randomized Clinical Trial.
+
+Lofwall MR(1), Walsh SL(1), Nunes EV(2), Bailey GL(3), Sigmon SC(4), Kampman 
+KM(5), Frost M(6), Tiberg F(7), Linden M(7), Sheldon B(8)(9), Oosman S(8), 
+Peterson S(10), Chen M(11), Kim S(8).
+
+Author information:
+(1)Center on Drug and Alcohol Research, University of Kentucky, Lexington.
+(2)Division on Substance Use Disorders, New York State Psychiatric Institute and 
+Columbia University Department of Psychiatry, New York.
+(3)Department of Psychiatry and Human Behavior, Warren Alpert Medical School of 
+Brown University, Providence, Rhode Island.
+(4)Department of Psychiatry, University of Vermont, Burlington.
+(5)Department of Psychiatry, Hospital of the University of Pennsylvania, 
+Philadelphia.
+(6)The Frost Medical Group, LLC, Conshocken, Pennsylvania.
+(7)Camurus AB, Lund, Sweden.
+(8)Braeburn Pharmaceuticals, Inc, Princeton, New Jersey.
+(9)Now affiliated with FORCE Alliance, Princeton, New Jersey.
+(10)StatMind AB, Lund, Sweden.
+(11)TDM Group, Inc, Berkeley Heights, New Jersey.
+
+Comment in
+    doi: 10.1001/jamainternmed.2018.1044.
+    doi: 10.1001/jamainternmed.2018.1999.
+
+IMPORTANCE: Buprenorphine treatment for opioid use disorder may be improved by 
+sustained-release formulations.
+OBJECTIVE: To determine whether treatment involving novel weekly and monthly 
+subcutaneous (SC) buprenorphine depot formulations is noninferior to a daily 
+sublingual (SL) combination of buprenorphine hydrochloride and naloxone 
+hydrochloride in the treatment of opioid use disorder.
+DESIGN, SETTING, AND PARTICIPANTS: This outpatient, double-blind, double-dummy 
+randomized clinical trial was conducted at 35 sites in the United States from 
+December 29, 2015, through October 19, 2016. Participants were treatment-seeking 
+adults with moderate-to-severe opioid use disorder.
+INTERVENTIONS: Randomization to daily SL placebo and weekly (first 12 weeks; 
+phase 1) and monthly (last 12 weeks; phase 2) SC buprenorphine (SC-BPN group) or 
+to daily SL buprenorphine with naloxone (24 weeks) with matched weekly and 
+monthly SC placebo injections (SL-BPN/NX group).
+MAIN OUTCOMES AND MEASURES: Primary end points tested for noninferiority were 
+response rate (10% margin) and the mean proportion of opioid-negative urine 
+samples for 24 weeks (11% margin). Responder status was defined as having no 
+evidence of illicit opioid use for at least 8 of 10 prespecified points during 
+weeks 9 to 24, with 2 of these at week 12 and during month 6 (weeks 21-24). The 
+mean proportion of samples with no evidence of illicit opioid use (weeks 4-24) 
+evaluated by a cumulative distribution function (CDF) was an a priori secondary 
+outcome with planned superiority testing if the response rate demonstrated 
+noninferiority.
+RESULTS: A total of 428 participants (263 men [61.4%] and 165 women [38.6%]; 
+mean [SD] age, 38.4 [11.0] years) were randomized to the SL-BPN/NX group 
+(n = 215) or the SC-BPN group (n = 213). The response rates were 31 of 215 
+(14.4%) for the SL-BPN/NX group and 37 of 213 (17.4%) for the SC-BPN group, a 
+3.0% difference (95% CI, -4.0% to 9.9%; P < .001). The proportion of 
+opioid-negative urine samples was 1099 of 3870 (28.4%) for the SL-BPN/NX group 
+and 1347 of 3834 (35.1%) for the SC-BPN group, a 6.7% difference (95% CI, -0.1% 
+to 13.6%; P < .001). The CDF for the SC-BPN group (26.7%) was statistically 
+superior to the CDF for the SL-BPN/NX group (0; P = .004). Injection site 
+adverse events (none severe) occurred in 48 participants (22.3%) in the 
+SL-BPN/NX group and 40 (18.8%) in the SC-BPN group.
+CONCLUSIONS AND RELEVANCE: Compared with SL buprenorphine, depot buprenorphine 
+did not result in an inferior likelihood of being a responder or having urine 
+test results negative for opioids and produced superior results on the CDF of no 
+illicit opioid use. These data suggest that depot buprenorphine is efficacious 
+and may have advantages.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT02651584.
+
+DOI: 10.1001/jamainternmed.2018.1052
+PMCID: PMC6145749
+PMID: 29799968 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Lofwall 
+reported receiving research funding from Braeburn Pharmaceuticals, Inc, and 
+consulting fees from Braeburn Pharmaceuticals, Inc, and Indivior. Dr Walsh 
+reported receiving contract research funding and consulting fees from Braeburn 
+Pharmaceuticals, Inc, consulting fees from Camurus AB, and travel support from 
+Indivior. Dr Nunes reported receiving contract research funding from Braeburn 
+Pharmaceuticals, Inc, Alkermes, Inc, and Brainsway, Inc, and unpaid consulting 
+for Alkermes, Inc. Dr Bailey reported receiving research funding, advisory 
+board, and traveling support from Braeburn Pharmaceuticals, Inc; advisory board, 
+speaker bureau fees, and travel support from BioDelivery Science International, 
+Inc, and Alkermes, Inc; and research funding and speaker fees from Indivior. Dr 
+Kampman reported receiving research funding from Braeburn Pharmaceuticals, Inc, 
+Indivior, and Opiant Pharmaceuticals, Inc. Dr Frost reported receiving research 
+funding and consulting fees from Braeburn Pharmaceuticals, Inc; honorarium for 
+talks from Indivior; and consulting fees and speaking honorarium from 
+BioDelivery Sciences International, Inc. Drs Tiberg and Linden reported being 
+employees of Camurus AB. Mss Sheldon and Oosman and Dr Kim reported being 
+employees of Braeburn Pharmaceuticals, Inc. Dr Chen reported receiving 
+consulting fees from Braeburn Pharmaceuticals, Inc. Dr Peterson reported 
+receiving consulting fees from Camurus AB and AstraZeneca Ltd. No other 
+disclosures were reported.
+
+
+4. West J Emerg Med. 2024 Nov;25(6):869-874. doi: 10.5811/westjem.18569.
+
+Buprenorphine-Naloxone for Opioid Use Disorder: Reduction in Mortality and 
+Increased Remission.
+
+Paul KK(1), Frey CG(1), Troung S(1), Paglicawan LVQ(1), Cunningham KA(2), 
+Preston Hill T(1), Bothwell LG(1), Golovko G(2), Pillay Y(3), Jehle D(1).
+
+Author information:
+(1)Department of Emergency Medicine, University of Texas Medical Branch, 
+Galveston, Texas.
+(2)Department of Pharmacology and Toxicology, University of Texas Medical 
+Branch, Galveston, Texas.
+(3)Department of Emergency Medicine, Michigan State University, East Lansing, 
+Michigan.
+
+INTRODUCTION: As fentanyl has become more readily available, opioid-related 
+morbidity and mortality in the United States has increased dramatically. 
+Preliminary studies suggest that high-affinity, partial mu-opioid receptor 
+agonists such as the combination product buprenorphine-naloxone may reduce 
+mortality from overdose and promote remission. With the escalating prevalence of 
+opioid use disorder (OUD), it is essential to evaluate the effectiveness of 
+opioid agonists like buprenorphine-naloxone. This study examines mortality and 
+remission rates for OUD patients prescribed buprenorphine-naloxone to determine 
+the efficacy of this treatment toward these outcomes.
+METHODS: We carried out a retrospective analysis using the US Collaborative 
+Network database in TriNetX, examining de-identified medical records from nearly 
+92 million patients across 56 healthcare organizations. The study spanned the 
+years from January 1, 2017-May 13, 2022. Cohort 1 included OUD patients who 
+began buprenorphine-naloxone treatment within one-year post-diagnosis, while 
+Cohort 2, the control group, consisted of OUD patients who were not administered 
+buprenorphine. The study measured mortality and remission rates within a year of 
+the index event, incorporating propensity score matching for age, gender, and 
+race/ethnicity.
+RESULTS: Prior to propensity matching, we identified a total of 221,967 patients 
+with OUD. Following exclusions, 61,656 patients treated with 
+buprenorphine-naloxone showed 34% fewer deaths within one year of diagnosis 
+compared to 159,061 patients who did not receive buprenorphine (2.6% vs 4.0%; 
+relative risk [RR] 0.661; 95% confidence interval [CI] 0.627-0.698; P < 0.001). 
+The remission rate was approximately 1.9 times higher in the 
+buprenorphine-naloxone group compared to the control group (18.8% vs 10.1%; RR 
+1.862; 95% CI 1.812-1.914; P < 0.001). After propensity matching, the effect on 
+mortality decreased but remained statistically significant (2.6% vs 3.0%; RR 
+0.868; 95% CI 0.813-0.927; P < 0.001) and the remission rate remained consistent 
+(18.8% vs 10.4%; RR 1.812; 95% CI 1.750-1.876; P < 0.001). Number needed to 
+treat for benefit was 249 for death and 12 for remission.
+CONCLUSION: Buprenorphine-naloxone was associated with significantly reduced 
+mortality and increased remission rates for patients with opioid use disorder 
+and should be used as a primary treatment. The recognition and implementation of 
+treatment options like buprenorphine-naloxone is vital in alleviating the impact 
+of OUD.
+
+DOI: 10.5811/westjem.18569
+PMCID: PMC11610725
+PMID: 39625756 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: By the WestJEM article 
+submission agreement, all authors are required to disclose all affiliations, 
+funding sources and financial or management relationships that could be 
+perceived as potential sources of bias. This research was supported by the 
+Institute for Translational Sciences at The University of Texas Medical Branch, 
+supported in part by a Clinical and Translational Science Award (UL1 TR001439) 
+from the National Center for Advancing Translational Sciences at the National 
+Institutes of Health (NIH). The content is solely the responsibility of the 
+authors and does not necessarily represent the official views of the NIH. There 
+are no other conflicts of interest or sources of funding to declare.
+
+
+5. Drug Alcohol Depend. 2025 Jun 1;271:112632. doi: 
+10.1016/j.drugalcdep.2025.112632. Epub 2025 Feb 28.
+
+Buprenorphine-naloxone versus buprenorphine for opioid use disorder during 
+pregnancy: A systematic review and meta-analysis.
+
+de Lima FR(1), Molino GOG(2), Gallo Ruelas M(3), Barbosa EC(4), Silva PHCMD(5), 
+Guimarães FBM(6), Petrucci ABC(7), Silva GHSD(8), Sbardelotto ÂEE(9), Lança 
+SB(10), Garbacka A(11).
+
+Author information:
+(1)Department of Medicine, Pontifical Catholic University of Paraná, Curitiba, 
+Brazil. Electronic address: drafernandaribeirodelima@gmail.com.
+(2)Department of Medicine, Federal University of Health Sciences of Porto 
+Alegre, Porto Alegre, Brazil. Electronic address: ogm.gabi@gmail.com.
+(3)Instituto de Investigación Nutricional, Lima, Peru. Electronic address: 
+marianorgr@gmail.com.
+(4)Department of Medicine, Evangelical University of Goiás, Anápolis, Brazil. 
+Electronic address: eduardo.cerchi27@gmail.com.
+(5)Department of Gynecology and Obstetrics, Federal University of Goiás, 
+Goiânia, Brazil. Electronic address: pedro.hcms@hotmail.com.
+(6)Institute of Psychiatry, Federal University of Rio de Janeiro, Rio de 
+Janeiro, Brazil. Electronic address: felipebmguimaraes@gmail.com.
+(7)Medical Sciences Center, Federal University of Paraíba, João Pessoa, Brazil. 
+Electronic address: arthurbcpetrucci@gmail.com.
+(8)Department of Medicine, Catholic University of Pernambuco, Recife, Brazil. 
+Electronic address: giovanna.2019202950@unicap.br.
+(9)Health Sciences Center, Federal University of Rio de Janeiro, Rio de Janeiro, 
+Brazil. Electronic address: sbardelottoangelo@gmail.com.
+(10)Department of Pediatrics, Federal University of São Paulo, São Paulo, 
+Brazil. Electronic address: saulo.bernardo.md@gmail.com.
+(11)Institute of Psychiatry and Neurology, Child and Adolescent Psychiatry 
+Clinic, Warsaw, Poland. Electronic address: alicjagarbacka95@gmail.com.
+
+BACKGROUND: The standard of care for treating opioid use disorder (OUD) during 
+pregnancy includes either buprenorphine or methadone. Although 
+buprenorphine-naloxone presents an alternative due to the reduced risk of misuse 
+, evidence regarding its impact on pregnancy and infant health remains limited. 
+This systematic review and meta-analysis aims to compare buprenorphine-naloxone 
+vs buprenorphine alone for OUD during pregnancy, assessing gestational and 
+neonatal outcomes.
+METHODS: We systematically searched MEDLINE, Embase, and Cochrane Library 
+databases to identify studies comparing buprenorphine-naloxone versus 
+buprenorphine for OUD during pregnancy. The primary outcome assessed was 
+neonatal abstinence syndrome (NAS). Pooled risk ratios (RR) and mean differences 
+(MD) with 95 % confidence intervals (CI) were calculated using R statistical 
+software and quality assessment was performed following Cochrane 
+recommendations.
+RESULTS: Six retrospective cohorts were included, encompassing 9348 
+mother-infant dyads, of whom 38.3 % received buprenorphine-naloxone. NAS 
+requiring treatment (RR 0.77; 95 % CI 0.71-0.84; p < 0.01) and small for 
+gestational age infants (RR 0.86; 95 % CI 0.76-0.98; p = 0.03) were 
+significantly less frequent in the buprenorphine-naloxone group. No significant 
+differences were found between the groups for cesarean delivery (RR 1.04; 95 % 
+CI 0.98-1.11; p = 0.20), low birth weight (RR 1.07; 95 % CI 0.91-1.24; 
+p = 0.41), and preterm delivery (RR 1.07; 95 % CI 0.96-1.21; p = 0.22).
+CONCLUSION: Pregnant people treated with buprenorphine-naloxone had neonates 
+with a lower risk of small for gestational age and NAS. Further research is 
+needed to confirm these findings and explore other pregnancy-related and 
+neonatal outcomes.
+
+Copyright © 2025 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.drugalcdep.2025.112632
+PMID: 40073807 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that there are no conflicts of interest regarding the publication of 
+this paper. No financial or personal relationships that could influence the work 
+reported in this manuscript have been disclosed.

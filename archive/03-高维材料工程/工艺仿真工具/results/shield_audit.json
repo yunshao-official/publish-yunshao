@@ -1,0 +1,191 @@
+{
+ "S1_深渊护盾": {
+  "momentum_account": [
+   {
+    "threat": "9x19手枪",
+    "KE_J": 518.4,
+    "momentum_kgms": 2.88,
+    "avg_force_100us_N": 28799.999999999996,
+    "local_pressure_GPa": 2.5394251307737314,
+    "wearer_delta_v_m_s": 0.048,
+    "note": "软防护级"
+   },
+   {
+    "threat": "7.62x39步枪",
+    "KE_J": 2019.3387500000001,
+    "momentum_kgms": 5.6485,
+    "avg_force_100us_N": 56485.0,
+    "local_pressure_GPa": 4.980535712213689,
+    "wearer_delta_v_m_s": 0.09414166666666667,
+    "note": "原文引用（约2000J）"
+   },
+   {
+    "threat": "7.62x51步枪",
+    "KE_J": 3295.97275,
+    "momentum_kgms": 7.9135,
+    "avg_force_100us_N": 79135.0,
+    "local_pressure_GPa": 6.97768776818678,
+    "wearer_delta_v_m_s": 0.13189166666666666,
+    "note": "北约弹"
+   },
+   {
+    "threat": "12.7mm重机",
+    "KE_J": 17010.8,
+    "momentum_kgms": 39.56,
+    "avg_force_100us_N": 395600.0,
+    "local_pressure_GPa": 34.881825754655836,
+    "wearer_delta_v_m_s": 0.6593333333333333,
+    "note": "重防护级"
+   }
+  ],
+  "areal_density": {
+   "membrane_1mm_kg_m2": {
+    "钢": 7.8500000000000005,
+    "UHMWPE": 0.97,
+    "石墨烯膜": 2.2,
+    "芳纶": 1.44
+   },
+   "required_kg_m2": {
+    "III级(7.62 FMJ硬板)": 25,
+    "IV级(7.62 AP硬板)": 35,
+    "IIIA级(手枪软甲)": 5.5,
+    "189mm RHA等效(原文主张)": 1483.65
+   }
+  },
+  "blast_account": {
+   "rows": [
+    {
+     "TNT_kg": 1.0,
+     "distance_m": 3.0,
+     "Z": 3.0,
+     "incident_P_kPa": 79.69934833411358,
+     "torso_force_kN_at_0.3m2": 23.909804500234078,
+     "equiv_static_mass_kg": 2437.2889398811494
+    },
+    {
+     "TNT_kg": 1.0,
+     "distance_m": 5.0,
+     "Z": 5.0,
+     "incident_P_kPa": 28.298851536678313,
+     "torso_force_kN_at_0.3m2": 8.489655461003494,
+     "equiv_static_mass_kg": 865.4083038739545
+    },
+    {
+     "TNT_kg": 10.0,
+     "distance_m": 10.0,
+     "Z": 4.641588833612778,
+     "incident_P_kPa": 32.48469339237707,
+     "torso_force_kN_at_0.3m2": 9.74540801771312,
+     "equiv_static_mass_kg": 993.4157000726931
+    }
+   ],
+   "note": "有限尺寸膜层无法'完全隔绝'：冲击波绕射+呼吸通路；真实路线=结构+密封+超压呼吸（防雷口径）"
+  },
+  "energy_account": {
+   "storage_MJ": 100,
+   "rifle_KE_J": 2019.3387500000001,
+   "shots_if_1x_KE": 49521.16132075413,
+   "per_shot_cost_J_for_50_shot_exhaust": 2000000.0,
+   "per_shot_over_KE_ratio_for_50shot": 990.4232264150826,
+   "note": "原文'连续多发→储能耗尽'要求每发成本≈动能的1000倍量级，原文无此依据；若1:1则10万发——内部不自洽",
+   "smes_volume_check_m3_at_200L_200m3": {
+    "practical_10T_magnetic_pressure_MJ_m3": 40.0,
+    "needed_100MJ_min_volume_m3": 2.5
+   }
+  }
+ },
+ "S2_概率偏转护盾": {
+  "arithmetic": {
+   "formula": "1-(1-1/8)^k",
+   "k5": 0.487091064453125,
+   "claimed_k5": 0.487,
+   "match": true
+  },
+  "deflection_requirement": {
+   "rows": [
+    {
+     "threat": "9x19手枪",
+     "range_m": 50,
+     "time_to_target_s": 0.1388888888888889,
+     "lateral_accel_m_s2": 51.839999999999996,
+     "force_N": 0.41472,
+     "impulse_Ns": 0.0576
+    },
+    {
+     "threat": "7.62x51步枪",
+     "range_m": 100,
+     "time_to_target_s": 0.12004801920768307,
+     "lateral_accel_m_s2": 69.3889,
+     "force_N": 0.65919455,
+     "impulse_Ns": 0.07913500000000001
+    },
+    {
+     "threat": "RPG PG-7",
+     "range_m": 100,
+     "time_to_target_s": 0.3389830508474576,
+     "lateral_accel_m_s2": 17.405,
+     "force_N": 40.0315,
+     "impulse_Ns": 13.57
+    },
+    {
+     "threat": "82mm迫弹",
+     "range_m": 500,
+     "time_to_target_s": 2.380952380952381,
+     "lateral_accel_m_s2": 0.7056,
+     "force_N": 2.4696,
+     "impulse_Ns": 5.88
+    }
+   ],
+   "note": "偏转所需力极小(0.4~15N)——瓶颈不在力的大小，在①耦合(场如何抓住弹体)②探测-反应链"
+  },
+  "coupling_mechanisms": {
+   "eddy_conductive_B1T_N": 57976.799999999996,
+   "eddy_note": "涡流偏转（导电弹体）：1T 量级场即可出 >>需求力；真实文献锚=磁/感应拦截研究",
+   "pulse_field_energy_1T_1m3_J": 397887.35772973835,
+   "ferro_gradient_10Tpm_N": 20.4,
+   "ferro_note": "铁磁梯度力（钢芯弹）：10T/m 梯度×超导磁体=重装备级，非穿戴级",
+   "radiation_pressure_I_W_m2": 1980000000000.0,
+   "radiation_note": "辐射压力对一切弹体有效但光强需求 ~2e11 W/m²，等效激光烧蚀=硬杀伤APS口径",
+   "dose_note": "对速射步枪弹(30发/秒)烧蚀能耗 30-75MW 级=不可穿戴；对 RPG(单发)100kW 级=现实APS已实证"
+  },
+  "reaction_chain": {
+   "rifle_100m_flight_s": 0.12004801920768307,
+   "APS_real_reaction_s": "0.1~0.5s（Trophy/Iron Fist 公开口径）",
+   "claimed_response_s": 6e-15,
+   "note": "6飞秒无意义：真约束=传感器+决策+执行器链，非'概率场响应时间'"
+  }
+ },
+ "S3_相变护盾63层": {
+  "arithmetic": {
+   "M64_layers": 63,
+   "claimed_189mm_from_3mm": "3×63=189 算术一致",
+   "recovery_formula_eta_k": "7/8×[1-(1/8)^k]",
+   "eta_k8_value": 0.8749999478459358,
+   "claimed_k8_recovery": 0.63,
+   "inconsistency": "η(8)=87.5%≠63%——原文内部不自洽（常数问命中）"
+  },
+  "energy_density_account": {
+   "areal_189mm_RHA_kg_m2": 1483.65,
+   "areal_3mm_inner_kg_m2": 6.0,
+   "needed_mass_efficiency_x": 247.275,
+   "steel_ballistic_specific_absorption_J_kg": 750000.0,
+   "needed_specific_absorption_J_kg": 185456250.0,
+   "needed_specific_absorption_J_g": 185456.25,
+   "needed_specific_absorption_kJ_g": 185.45625,
+   "known_phase_change_limits_J_g": {
+    "石蜡熔化": 0.2,
+    "水气化(总热)": 2.6,
+    "铁气化(总热)": 6.3,
+    "ZrO2相变增韧(有效)": 0.1
+   },
+   "verdict": "需 185 kJ/g 级吸能，超已知一切相变上限（铁全气化 6.3 kJ/g）约 29 倍——'3mm≡189mm'能量密度账不成立"
+  },
+  "real_mechanism_mapping": {
+   "剪切增稠流体STF织物": "非牛顿'遇击变刚'=构型切换的真实近亲；面密度与芳纶同级，挡手枪弹，步枪需插板",
+   "ZrO2相变增韧陶瓷": "四方→单斜吸能增韧（不可逆）；真实陶瓷装甲核心机制之一",
+   "爆炸反应装甲ERA": "化学能做功推开穿甲体=真实'构型切换吸能'天花板，面密度重、不可逆、单次性",
+   "self_note": "三者都无法同时满足：可逆+可恢复+3mm面密度挡步枪——原文组合主张无真实对应"
+  }
+ },
+ "honest_note": "真实物理账本口径：弹道数据=公开标准值；超压=Kinney-Graham；面密度=NIJ口径；影子机制不入账只审数字主张。数学实验口径，不构成物理结论，结论以实测为准。"
+}

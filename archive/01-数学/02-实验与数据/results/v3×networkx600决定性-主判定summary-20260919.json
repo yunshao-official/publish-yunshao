@@ -1,0 +1,317 @@
+{
+ "summary": {
+  "experiment": "乙14·v3管线×networkx cap=600 决定性实验",
+  "date": "2026-09-19",
+  "freeze": "预注册-乙14-networkx600决定性实验-v1.0-20260919.md §一（开跑后零改动）",
+  "generator": "networkx 3.6.1 barabasi_albert_graph(100000,5,seed), initial_graph=默认(None)",
+  "pipeline": "door1_construction_v3.cpp 全套（v3x IO 扩展版 v3_construction_nx.cpp，管线代码零改动，sha256=e4285660d170474c99ad8d175916f1898cdb2ef1a23db0145019302f431e3c26）",
+  "cap_s": 600.0,
+  "criterion": "严格三关+断口=0",
+  "seeds": [
+   7,
+   13,
+   21,
+   42,
+   99,
+   2024
+  ],
+  "verdicts": {
+   "7": "FAIL",
+   "13": "FAIL",
+   "21": "FAIL",
+   "42": "PASS",
+   "99": "FAIL",
+   "2024": "FAIL"
+  },
+  "n_pass": 1,
+  "hypothesis": "部分泛化"
+ },
+ "cells": [
+  {
+   "seed": 7,
+   "verdict": "FAIL",
+   "engine": {
+    "N": 100000,
+    "m": 5,
+    "seed": 7,
+    "src": "nx",
+    "pass": false,
+    "breaks0": 44,
+    "breaks1": 13,
+    "size": 100000,
+    "rot": 1806,
+    "defects": 0,
+    "t_gen": 0.583,
+    "t_con": 24.915,
+    "t_rep": 521.064,
+    "t_ver": 0.05,
+    "mech": "gpipe?D2?0726descend?fullclosure?;"
+   },
+   "engine_line": "BA(N=100000,m=5,s=7,src=nx)",
+   "anatomy": [
+    "[ANATOMY] breaks=13 dblV=0 sglV=26 commonAvg=1.00 common0=0/13 dblDeg5=0 dblDeg6=0 dblDeg7=0 dblDeg8+=0",
+    "[ANATOMY-gap] adjacentBreakPairs=0"
+   ],
+   "incomplete_flag": false,
+   "verify": {
+    "strict_pass": false,
+    "breaks_甲": 13,
+    "closed_乙": false,
+    "cross_engine_breaks1": true
+   },
+   "edges_sha256": "c2f3c9776a94a1b2d4643f38bed5b1c2d21363cc21445126b11945c33ea1055d",
+   "wall_s": 584.93
+  },
+  {
+   "seed": 13,
+   "verdict": "FAIL",
+   "engine": {
+    "N": 100000,
+    "m": 5,
+    "seed": 13,
+    "src": "nx",
+    "pass": false,
+    "breaks0": 50,
+    "breaks1": 40,
+    "size": 100000,
+    "rot": 1749,
+    "defects": 0,
+    "t_gen": 0.589,
+    "t_con": 24.572,
+    "t_rep": 532.836,
+    "t_ver": 0.051,
+    "mech": "gpipe?D2?0726descend?fullclosure?;"
+   },
+   "engine_line": "BA(N=100000,m=5,s=13,src=nx)",
+   "anatomy": [
+    "[ANATOMY] breaks=40 dblV=1 sglV=78 commonAvg=0.93 common0=3/40 dblDeg5=1 dblDeg6=0 dblDeg7=0 dblDeg8+=0",
+    "[ANATOMY-dblv] 62587(d5) ",
+    "[ANATOMY-gap] adjacentBreakPairs=1"
+   ],
+   "incomplete_flag": false,
+   "verify": {
+    "strict_pass": false,
+    "breaks_甲": 40,
+    "closed_乙": false,
+    "cross_engine_breaks1": true
+   },
+   "edges_sha256": "5c9f40ada1c3676d3e417a04f03268ea79d9336ef513ce5972e4749db269cc56",
+   "wall_s": 589.0
+  },
+  {
+   "seed": 21,
+   "verdict": "FAIL",
+   "engine": {
+    "N": 100000,
+    "m": 5,
+    "seed": 21,
+    "src": "nx",
+    "pass": false,
+    "breaks0": 52,
+    "breaks1": 14,
+    "size": 100000,
+    "rot": 1845,
+    "defects": 0,
+    "t_gen": 0.619,
+    "t_con": 23.029,
+    "t_rep": 534.825,
+    "t_ver": 0.05,
+    "mech": "gpipe?D2?0726descend?fullclosure?;"
+   },
+   "engine_line": "BA(N=100000,m=5,s=21,src=nx)",
+   "anatomy": [
+    "[ANATOMY] breaks=14 dblV=0 sglV=28 commonAvg=1.00 common0=0/14 dblDeg5=0 dblDeg6=0 dblDeg7=0 dblDeg8+=0",
+    "[ANATOMY-gap] adjacentBreakPairs=0"
+   ],
+   "incomplete_flag": false,
+   "verify": {
+    "strict_pass": false,
+    "breaks_甲": 14,
+    "closed_乙": false,
+    "cross_engine_breaks1": true
+   },
+   "edges_sha256": "38145291084b9221a076dbe1c87665fb46d0ee82c100d862fec5c6f049d2258f",
+   "wall_s": 594.47
+  },
+  {
+   "seed": 42,
+   "verdict": "PASS",
+   "engine": {
+    "N": 100000,
+    "m": 5,
+    "seed": 42,
+    "src": "nx",
+    "pass": true,
+    "breaks0": 49,
+    "breaks1": 0,
+    "size": 100000,
+    "rot": 1867,
+    "defects": 0,
+    "t_gen": 0.631,
+    "t_con": 33.008,
+    "t_rep": 286.684,
+    "t_ver": 0.026,
+    "mech": "gpipe?D2?0726descend?fullclosure?;"
+   },
+   "engine_line": "BA(N=100000,m=5,s=42,src=nx)",
+   "anatomy": [],
+   "incomplete_flag": false,
+   "verify": {
+    "strict_pass": true,
+    "breaks_甲": 0,
+    "closed_乙": false,
+    "cross_engine_breaks1": true
+   },
+   "edges_sha256": "4c850a4c78c33479c7ea35c51e7218b09655a9918d500698aa9757193ed3f1fb",
+   "wall_s": 343.19
+  },
+  {
+   "seed": 99,
+   "verdict": "FAIL",
+   "engine": {
+    "N": 100000,
+    "m": 5,
+    "seed": 99,
+    "src": "nx",
+    "pass": false,
+    "breaks0": 55,
+    "breaks1": 43,
+    "size": 100000,
+    "rot": 1861,
+    "defects": 0,
+    "t_gen": 0.621,
+    "t_con": 22.71,
+    "t_rep": 529.396,
+    "t_ver": 0.049,
+    "mech": "gpipe?D2?0726descend?fullclosure?;"
+   },
+   "engine_line": "BA(N=100000,m=5,s=99,src=nx)",
+   "anatomy": [
+    "[ANATOMY] breaks=43 dblV=0 sglV=86 commonAvg=1.00 common0=0/43 dblDeg5=0 dblDeg6=0 dblDeg7=0 dblDeg8+=0",
+    "[ANATOMY-gap] adjacentBreakPairs=0"
+   ],
+   "incomplete_flag": false,
+   "verify": {
+    "strict_pass": false,
+    "breaks_甲": 43,
+    "closed_乙": false,
+    "cross_engine_breaks1": true
+   },
+   "edges_sha256": "a6232d51f2195042063a732ffe44e0075e7270a3c96c86c6c57fce966db61e72",
+   "wall_s": 585.81
+  },
+  {
+   "seed": 2024,
+   "verdict": "FAIL",
+   "engine": {
+    "N": 100000,
+    "m": 5,
+    "seed": 2024,
+    "src": "nx",
+    "pass": false,
+    "breaks0": 51,
+    "breaks1": 29,
+    "size": 100000,
+    "rot": 1815,
+    "defects": 0,
+    "t_gen": 0.632,
+    "t_con": 23.793,
+    "t_rep": 534.528,
+    "t_ver": 0.056,
+    "mech": "gpipe?D2?0726descend?fullclosure?;"
+   },
+   "engine_line": "BA(N=100000,m=5,s=2024,src=nx)",
+   "anatomy": [
+    "[ANATOMY] breaks=29 dblV=1 sglV=56 commonAvg=1.00 common0=0/29 dblDeg5=1 dblDeg6=0 dblDeg7=0 dblDeg8+=0",
+    "[ANATOMY-dblv] 36862(d5) ",
+    "[ANATOMY-gap] adjacentBreakPairs=1"
+   ],
+   "incomplete_flag": false,
+   "verify": {
+    "strict_pass": false,
+    "breaks_甲": 29,
+    "closed_乙": false,
+    "cross_engine_breaks1": true
+   },
+   "edges_sha256": "06bdf9e58ef92fd47878e423fbd591feb386d1249f30bbd6705a967757b63291",
+   "wall_s": 586.08
+  }
+ ],
+ "toolchain_check": {
+  "engine_source": "v3_construction_nx.cpp（自乙12工作区逐字节复制，sha256=e4285660d170474c99ad8d175916f1898cdb2ef1a23db0145019302f431e3c26）",
+  "pipeline_change": "零改动（IO 扩展版与正本关系及三重等价核查见乙12报告 §六）",
+  "compile": "g++ -O2 -std=c++17 -Wl,--stack,268435456（g++ 16.1.0 / MinGW-w64，零警告）",
+  "smoke_test": "N=2000 m=5 s=7 cap=20 外部边表 → PASS breaks 0->0，独立验证器 strict_pass=true",
+  "edges_determinism": "六种子边表 sha256 与乙12边表逐一相同（networkx 3.6.1 确定性复现）",
+  "verifier_selftest": "PASS（verify_strict_hp.py --selftest 负面对拍）",
+  "yi12_baseline": "networkx@240s 0/6，残余断口 35/46/25/12/40/22（门一 gen_ba@600s 6/6 清零，t_rep 273-447s）"
+ },
+ "edges_meta": {
+  "7": {
+   "generator": "networkx.barabasi_albert_graph",
+   "networkx_version": "3.6.1",
+   "N": 100000,
+   "m": 5,
+   "seed": 7,
+   "initial_graph": "default(None)",
+   "n_edges": 499975,
+   "n_leaves_deg_eq_m": 28596,
+   "sha256": "c2f3c9776a94a1b2d4643f38bed5b1c2d21363cc21445126b11945c33ea1055d"
+  },
+  "13": {
+   "generator": "networkx.barabasi_albert_graph",
+   "networkx_version": "3.6.1",
+   "N": 100000,
+   "m": 5,
+   "seed": 13,
+   "initial_graph": "default(None)",
+   "n_edges": 499975,
+   "n_leaves_deg_eq_m": 28349,
+   "sha256": "5c9f40ada1c3676d3e417a04f03268ea79d9336ef513ce5972e4749db269cc56"
+  },
+  "21": {
+   "generator": "networkx.barabasi_albert_graph",
+   "networkx_version": "3.6.1",
+   "N": 100000,
+   "m": 5,
+   "seed": 21,
+   "initial_graph": "default(None)",
+   "n_edges": 499975,
+   "n_leaves_deg_eq_m": 28556,
+   "sha256": "38145291084b9221a076dbe1c87665fb46d0ee82c100d862fec5c6f049d2258f"
+  },
+  "42": {
+   "generator": "networkx.barabasi_albert_graph",
+   "networkx_version": "3.6.1",
+   "N": 100000,
+   "m": 5,
+   "seed": 42,
+   "initial_graph": "default(None)",
+   "n_edges": 499975,
+   "n_leaves_deg_eq_m": 28684,
+   "sha256": "4c850a4c78c33479c7ea35c51e7218b09655a9918d500698aa9757193ed3f1fb"
+  },
+  "99": {
+   "generator": "networkx.barabasi_albert_graph",
+   "networkx_version": "3.6.1",
+   "N": 100000,
+   "m": 5,
+   "seed": 99,
+   "initial_graph": "default(None)",
+   "n_edges": 499975,
+   "n_leaves_deg_eq_m": 28465,
+   "sha256": "a6232d51f2195042063a732ffe44e0075e7270a3c96c86c6c57fce966db61e72"
+  },
+  "2024": {
+   "generator": "networkx.barabasi_albert_graph",
+   "networkx_version": "3.6.1",
+   "N": 100000,
+   "m": 5,
+   "seed": 2024,
+   "initial_graph": "default(None)",
+   "n_edges": 499975,
+   "n_leaves_deg_eq_m": 28550,
+   "sha256": "06bdf9e58ef92fd47878e423fbd591feb386d1249f30bbd6705a967757b63291"
+  }
+ }
+}

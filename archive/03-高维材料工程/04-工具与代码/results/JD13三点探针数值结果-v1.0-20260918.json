@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "pipeline": "yunshao_limitation_test.py@注册哈希b1b20b05…e70",
+  "note": "白名单合规延拓；等频口径；分数维取整数承载【理论参照】",
+  "gate_expect": "692/50223/62.0281/145.15/100"
+ },
+ "gate_D8": {
+  "D": 8,
+  "N": 14,
+  "wells": 692,
+  "edges": 50223,
+  "components": 1,
+  "largest_pct": 100.0,
+  "lambda2": 62.028136271552334,
+  "avg_degree": 145.15317919075144,
+  "time_s": 0.3
+ },
+ "gate_pass": true,
+ "probes": {
+  "D9_ref": {
+   "D": 9,
+   "N": 16,
+   "wells": 684,
+   "edges": 69966,
+   "components": 1,
+   "largest_pct": 100.0,
+   "lambda2": 105.58739914036366,
+   "avg_degree": 204.57894736842104,
+   "time_s": 0.5
+  },
+  "D9p5_probe": {
+   "D": 10,
+   "N": 17,
+   "wells": 670,
+   "edges": 94239,
+   "components": 1,
+   "largest_pct": 100.0,
+   "lambda2": 165.4155355167784,
+   "avg_degree": 281.31044776119404,
+   "time_s": 0.6
+  },
+  "D10p5_probe": {
+   "D": 11,
+   "N": 19,
+   "wells": 694,
+   "edges": 129832,
+   "components": 1,
+   "largest_pct": 100.0,
+   "lambda2": 249.63498235073902,
+   "avg_degree": 374.1556195965418,
+   "time_s": 0.8
+  },
+  "D12_probe": {
+   "D": 12,
+   "N": 22,
+   "wells": 662,
+   "edges": 141050,
+   "components": 1,
+   "largest_pct": 100.0,
+   "lambda2": 307.81558783520745,
+   "avg_degree": 426.13293051359517,
+   "time_s": 0.9
+  }
+ }
+}

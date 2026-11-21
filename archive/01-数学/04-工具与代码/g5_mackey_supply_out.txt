@@ -1,0 +1,141 @@
+== G5_MACKEY_SUPPLY ==
+GAP=4.16.1
+<pc group of size 192 with 7 generators>
+CharacterTable( <pc group of size 192 with 7 generators> )
+[ Character( CharacterTable( <pc group of size 192 with 7 generators> ),
+  [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ] ), 
+  Character( CharacterTable( <pc group of size 192 with 7 generators> ),
+  [ 1, -1, 1, 1, 1, 1, -1, -1, -1, 1, 1, 1, -1 ] ), 
+  Character( CharacterTable( <pc group of size 192 with 7 generators> ),
+  [ 2, 0, -1, 2, 2, 2, 0, 0, 0, -1, 2, 2, 0 ] ), 
+  Character( CharacterTable( <pc group of size 192 with 7 generators> ),
+  [ 3, -1, 0, -1, -1, 3, 1, 1, -1, 0, -1, 3, -1 ] ), 
+  Character( CharacterTable( <pc group of size 192 with 7 generators> ),
+  [ 3, -1, 0, -1, 3, 3, 1, -1, -1, 0, -1, -1, 1 ] ), 
+  Character( CharacterTable( <pc group of size 192 with 7 generators> ),
+  [ 3, -1, 0, 3, -1, 3, -1, 1, -1, 0, -1, -1, 1 ] ), 
+  Character( CharacterTable( <pc group of size 192 with 7 generators> ),
+  [ 3, 1, 0, -1, -1, 3, -1, -1, 1, 0, -1, 3, 1 ] ), 
+  Character( CharacterTable( <pc group of size 192 with 7 generators> ),
+  [ 3, 1, 0, -1, 3, 3, -1, 1, 1, 0, -1, -1, -1 ] ), 
+  Character( CharacterTable( <pc group of size 192 with 7 generators> ),
+  [ 3, 1, 0, 3, -1, 3, 1, -1, 1, 0, -1, -1, -1 ] ), 
+  Character( CharacterTable( <pc group of size 192 with 7 generators> ),
+  [ 4, 2, 1, 0, 0, -4, 0, 0, -2, -1, 0, 0, 0 ] ), 
+  Character( CharacterTable( <pc group of size 192 with 7 generators> ),
+  [ 4, -2, 1, 0, 0, -4, 0, 0, 2, -1, 0, 0, 0 ] ), 
+  Character( CharacterTable( <pc group of size 192 with 7 generators> ),
+  [ 6, 0, 0, -2, -2, 6, 0, 0, 0, 0, 2, -2, 0 ] ), 
+  Character( CharacterTable( <pc group of size 192 with 7 generators> ),
+  [ 8, 0, -1, 0, 0, -8, 0, 0, 0, 1, 0, 0, 0 ] ) ]
+[ 1, 1, 2, 3, 3, 3, 3, 3, 3, 4, 4, 6, 8 ]
+[ 1, 12, 32, 6, 6, 1, 24, 24, 12, 32, 12, 6, 24 ]
+[ <identity> of ...^G, f1^G, f2^G, f3^G, f5^G, f7^G, f1*f3^G, f1*f5^G, 
+  f1*f7^G, f2*f7^G, f3*f5^G, f3*f6^G, f1*f3*f5^G ]
+[ Group([ f3*f6, f4*f5, f7 ]), Group([ f3, f4, f7 ]), 
+  Group([ f5, f6, f7, f5*f6, f5*f7, f6*f7, f5*f6*f7 ]) ]
+N|CANDIDATES|n=3
+[  ]
+Syntax warning: Unbound global variable
+  vecof := function(x) return First(dict, p -> p[1] = x)[2]; end;
+                                    ^^^^
+Syntax warning: Unbound global variable
+    vx := vecof(x);
+          ^^^^^
+Syntax warning: Unbound global variable
+      Add(w, (1 - chiX(v, gensN[j]^g))/2);
+                  ^^^^
+Syntax warning: Unbound global variable
+      Add(w, (1 - chiX(v, gensN[j]^g))/2);
+                          ^^^^^
+Syntax warning: Unbound global variable
+      stablist := Filtered(Elements(G), g -> chiact(v0, g) = v0);
+                                             ^^^^^^
+Syntax warning: Unbound global variable
+      stablist := Filtered(Elements(G), g -> chiact(v0, g) = v0);
+                                                    ^^
+Syntax warning: Unbound global variable
+      stablist := Filtered(Elements(G), g -> chiact(v0, g) = v0);
+                                                             ^^
+Syntax warning: Unbound global variable
+  infl := Filtered([1..13], i -> ForAll(Npos, k -> irrG[i][k] = irrG[i][1]));
+                                        ^^^^
+Syntax warning: Unbound global variable
+    posL := function(x) return First([1..Length(ccL)], k -> x in ccL[k]); end;
+                                                ^^^
+Syntax warning: Unbound global variable
+    posL := function(x) return First([1..Length(ccL)], k -> x in ccL[k]); end;
+                                                                 ^^^
+Syntax warning: Unbound global variable
+        mults := List([1..13], m -> ScalarProduct(tG, ind, irrG[m]));
+                                                      ^^^
+Syntax warning: Unbound global variable
+        idim := Sum([1..13], m -> mults[m]*degG[m]);
+                                  ^^^^^
+N|BEGIN|size=8
+M|ORBIT|labels=[ [ 0, 0, 0 ] ]|size=1|L_order=192|L_id=[ 192, 1493 ]
+M|ORBIT|labels=[ [ 0, 0, 1 ], [ 0, 1, 1 ], [ 1, 0, 1 ], [ 1, 1, 1 ] ]|size=
+4|L_order=48|L_id=[ 48, 48 ]
+M|ORBIT|labels=[ [ 0, 1, 0 ], [ 1, 0, 0 ], [ 1, 1, 0 ] ]|size=3|L_order=
+64|L_id=[ 64, 138 ]
+M|STAB_ORDERS|[ 48, 64, 192 ]
+M|INFLATE|dimlist=[ 1, 1, 2, 3, 3 ]
+M|IND|orbit=[ 0, 0, 1 ]|L=48|theta_deg=1|induced_dim=4|mults=10:1
+M|IND|orbit=[ 0, 0, 1 ]|L=48|theta_deg=1|induced_dim=4|mults=11:1
+M|IND|orbit=[ 0, 0, 1 ]|L=48|theta_deg=2|induced_dim=8|mults=13:1
+M|ORBIT_PRODUCED_DIMS|[ 4, 4, 8 ]
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=1|induced_dim=3|mults=8:1
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=1|induced_dim=3|mults=5:1
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=1|induced_dim=3|mults=9:1
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=1|induced_dim=3|mults=6:1
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=2|induced_dim=6|mults=12:1
+M|ORBIT_PRODUCED_DIMS|[ 3, 3, 3, 3, 6 ]
+M|ASSEMBLED_DIMS|[ 1, 1, 2, 3, 3, 3, 3, 3, 3, 4, 4, 6, 8 ]
+M|ACTUAL_DIMS|[ 1, 1, 2, 3, 3, 3, 3, 3, 3, 4, 4, 6, 8 ]
+M|MATCH|true
+N|END|
+N|BEGIN|size=8
+M|ORBIT|labels=[ [ 0, 0, 0 ] ]|size=1|L_order=192|L_id=[ 192, 1493 ]
+M|ORBIT|labels=[ [ 0, 0, 1 ], [ 1, 0, 1 ], [ 0, 1, 1 ], [ 1, 1, 1 ] ]|size=
+4|L_order=48|L_id=[ 48, 48 ]
+M|ORBIT|labels=[ [ 0, 1, 0 ], [ 1, 0, 0 ], [ 1, 1, 0 ] ]|size=3|L_order=
+64|L_id=[ 64, 138 ]
+M|STAB_ORDERS|[ 48, 64, 192 ]
+M|INFLATE|dimlist=[ 1, 1, 2, 3, 3 ]
+M|IND|orbit=[ 0, 0, 1 ]|L=48|theta_deg=1|induced_dim=4|mults=10:1
+M|IND|orbit=[ 0, 0, 1 ]|L=48|theta_deg=1|induced_dim=4|mults=11:1
+M|IND|orbit=[ 0, 0, 1 ]|L=48|theta_deg=2|induced_dim=8|mults=13:1
+M|ORBIT_PRODUCED_DIMS|[ 4, 4, 8 ]
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=1|induced_dim=3|mults=8:1
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=1|induced_dim=3|mults=5:1
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=1|induced_dim=3|mults=7:1
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=1|induced_dim=3|mults=4:1
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=2|induced_dim=6|mults=12:1
+M|ORBIT_PRODUCED_DIMS|[ 3, 3, 3, 3, 6 ]
+M|ASSEMBLED_DIMS|[ 1, 1, 2, 3, 3, 3, 3, 3, 3, 4, 4, 6, 8 ]
+M|ACTUAL_DIMS|[ 1, 1, 2, 3, 3, 3, 3, 3, 3, 4, 4, 6, 8 ]
+M|MATCH|true
+N|END|
+N|BEGIN|size=8
+M|ORBIT|labels=[ [ 0, 0, 0 ] ]|size=1|L_order=192|L_id=[ 192, 1493 ]
+M|ORBIT|labels=[ [ 0, 0, 1 ], [ 1, 0, 1 ], [ 0, 1, 1 ], [ 1, 1, 1 ] ]|size=
+4|L_order=48|L_id=[ 48, 48 ]
+M|ORBIT|labels=[ [ 0, 1, 0 ], [ 1, 0, 0 ], [ 1, 1, 0 ] ]|size=3|L_order=
+64|L_id=[ 64, 138 ]
+M|STAB_ORDERS|[ 48, 64, 192 ]
+M|INFLATE|dimlist=[ 1, 1, 2, 3, 3 ]
+M|IND|orbit=[ 0, 0, 1 ]|L=48|theta_deg=1|induced_dim=4|mults=10:1
+M|IND|orbit=[ 0, 0, 1 ]|L=48|theta_deg=1|induced_dim=4|mults=11:1
+M|IND|orbit=[ 0, 0, 1 ]|L=48|theta_deg=2|induced_dim=8|mults=13:1
+M|ORBIT_PRODUCED_DIMS|[ 4, 4, 8 ]
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=1|induced_dim=3|mults=9:1
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=1|induced_dim=3|mults=6:1
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=1|induced_dim=3|mults=7:1
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=1|induced_dim=3|mults=4:1
+M|IND|orbit=[ 0, 1, 0 ]|L=64|theta_deg=2|induced_dim=6|mults=12:1
+M|ORBIT_PRODUCED_DIMS|[ 3, 3, 3, 3, 6 ]
+M|ASSEMBLED_DIMS|[ 1, 1, 2, 3, 3, 3, 3, 3, 3, 4, 4, 6, 8 ]
+M|ACTUAL_DIMS|[ 1, 1, 2, 3, 3, 3, 3, 3, 3, 4, 4, 6, 8 ]
+M|MATCH|true
+N|END|
+== G5_DONE ==

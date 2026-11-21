@@ -1,0 +1,146 @@
+{
+ "task4_irreps": {
+  "A4": {
+   "dims": [
+    1,
+    1,
+    1,
+    3
+   ],
+   "order": 12,
+   "sum_sq": 12,
+   "valid": true
+  },
+  "S4": {
+   "dims": [
+    1,
+    1,
+    2,
+    3,
+    3
+   ],
+   "order": 24,
+   "sum_sq": 24,
+   "valid": true
+  },
+  "A5": {
+   "dims": [
+    1,
+    3,
+    3,
+    4,
+    5
+   ],
+   "order": 60,
+   "sum_sq": 60,
+   "valid": true
+  },
+  "2T": {
+   "dims": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    3
+   ],
+   "order": 24,
+   "sum_sq": 24,
+   "valid": true
+  },
+  "2O": {
+   "dims": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    3,
+    3,
+    4
+   ],
+   "order": 48,
+   "sum_sq": 48,
+   "valid": true
+  },
+  "2I": {
+   "dims": [
+    1,
+    2,
+    2,
+    3,
+    3,
+    4,
+    4,
+    5,
+    6
+   ],
+   "order": 120,
+   "sum_sq": 120,
+   "valid": true
+  }
+ },
+ "task1_mckay": {
+  "2T": {
+   "dynkin": "Ẽ₆",
+   "dynkin_type": "E6_affine",
+   "nodes": 8,
+   "irrep_dims": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    3
+   ],
+   "physical": "SU(3) 规范理论, 三代费米子, F-theory 遮盖"
+  },
+  "2O": {
+   "dynkin": "Ẽ₇",
+   "dynkin_type": "E7_affine",
+   "nodes": 9,
+   "irrep_dims": [
+    1,
+    1,
+    2,
+    2,
+    2,
+    3,
+    3,
+    4
+   ],
+   "physical": "N=8 超引力, 大统一理论"
+  },
+  "2I": {
+   "dynkin": "Ẽ₈",
+   "dynkin_type": "E8_affine",
+   "nodes": 10,
+   "irrep_dims": [
+    1,
+    2,
+    2,
+    3,
+    3,
+    4,
+    4,
+    5,
+    6
+   ],
+   "physical": "异质弦论 E₈×E₈, 最大例外对称"
+  }
+ },
+ "task2_zeta23_poles": {
+  "total_poles_in_range": 81,
+  "real_poles": 1,
+  "complex_poles": 0,
+  "nearest_complex_poles": [],
+  "note": "ζ_{2,3}(s) = 1/((1-2^{-s})(1-3^{-s})) 只有极点没有零点; 极点=2πin/ln2和2πim/ln3"
+ },
+ "task3_gue": {
+  "verdict": "ζ_{2,3}(s) 无 critical strip 零点 → GUE 对比不适用",
+  "reason": "部分 Euler 积的零点结构 ≠ 完整 ζ(s) 的零点结构",
+  "correct_path": "需要用完整 ζ(s) 的零点做 GUE 对比"
+ }
+}

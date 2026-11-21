@@ -1,0 +1,84 @@
+D01-cr-01|crossref|minority shareholder dividend rights|OK
+D01-cr-02|crossref|profit distribution company law|OK
+D01-cr-03|crossref|legal capital maintenance creditor protection|OK
+D01-cr-04|crossref|dividend policy shareholder wealth|OK
+D01-op-01|openalex|shareholder pre-emptive rights dilution|OK
+D01-op-02|openalex|mandatory dividend judicial intervention|OK
+D01-op-03|openalex|公司 股利 分配 少数股东|OK
+D02-cr-01|crossref|dual-class shares voting rights|OK
+D02-cr-02|crossref|shareholder voting agreements control|OK
+D02-cr-03|crossref|proxy voting shareholder control|OK
+D02-cr-04|crossref|multiple voting shares|OK
+D02-op-01|openalex|concert party agreement voting control|OK
+D02-op-02|openalex|一致行动人 协议 表决权|OK
+D02-op-03|openalex|voting trust founder control|OK
+D03-cr-01|crossref|protective provisions venture capital board|OK
+D03-cr-02|crossref|veto rights shareholders contract|OK
+D03-cr-03|crossref|supermajority voting corporate charter|OK
+D03-cr-04|crossref|casting vote board deadlock|OK
+D03-op-01|openalex|shareholder agreement negative control|OK
+D03-op-02|openalex|minority blocking rights|OK
+D03-op-03|openalex|否决权 公司章程 条款|OK
+D04-cr-01|crossref|board representation shareholder rights|OK
+D04-cr-02|crossref|executive appointment removal control|OK
+D04-cr-03|crossref|corporate seal authority China|OK
+D04-cr-04|crossref|legal representative company China|OK
+D04-op-01|openalex|chief executive power board dismissal|OK
+D04-op-02|openalex|法定代表人 董事 控制|OK
+D04-op-03|openalex|chairman appointment control|OK
+D05-cr-01|crossref|marital property division closely held business|OK
+D05-cr-02|crossref|divorce corporate control family firm|OK
+D05-cr-03|crossref|prenuptial agreement business ownership|OK
+D05-cr-04|crossref|inheritance family business succession|OK
+D05-op-01|openalex|spousal property rights corporate control|OK
+D05-op-02|openalex|夫妻 共同财产 股权分割|OK
+D05-op-03|openalex|marital dissolution voting power|OK
+D06-cr-01|crossref|nominee shareholding trust China|OK
+D06-cr-02|crossref|voting trust corporate control|OK
+D06-cr-03|crossref|family limited partnership control|OK
+D06-cr-04|crossref|holding company pyramid ownership control|OK
+D06-op-01|openalex|equity nominee agreement enforceability|OK
+D06-op-02|openalex|trust beneficiary control rights|OK
+D06-op-03|openalex|股权 代持 信托 效力|OK
+D07-cr-01|crossref|royalty licensing intellectual property valuation|OK
+D07-cr-02|crossref|work for hire invention assignment employee|OK
+D07-cr-03|crossref|patent holding company licensing|OK
+D07-cr-04|crossref|exclusive license bankruptcy licensee|OK
+D07-op-01|openalex|technology transfer royalty pricing|OK
+D07-op-02|openalex|inventor ownership university|OK
+D07-op-03|openalex|职务发明 权利 归属|OK
+D08-cr-01|crossref|double taxation of dividends corporate income tax|OK
+D08-cr-02|crossref|dividend tax incidence shareholder|OK
+D08-cr-03|crossref|tax treaty royalty withholding|OK
+D08-cr-04|crossref|pass-through taxation small business|OK
+D08-op-01|openalex|imputation system dividend taxation|OK
+D08-op-02|openalex|股息 红利 个人所得税|OK
+D08-op-03|openalex|corporate tax burden dividend payout|OK
+D09-cr-01|crossref|golden share state ownership control|OK
+D09-cr-02|crossref|mixed ownership reform China state-owned enterprise|OK
+D09-cr-03|crossref|special management shares China media|OK
+D09-cr-04|crossref|state ownership corporate governance performance|OK
+D09-op-01|openalex|party building corporate governance China|OK
+D09-op-02|openalex|golden share proportionality EU|OK
+D09-op-03|openalex|国有企业 治理 控制权|OK
+D10-cr-01|crossref|valuation adjustment mechanism investor China|OK
+D10-cr-02|crossref|corporate deadlock judicial dissolution|OK
+D10-cr-03|crossref|shareholder inspection rights|OK
+D10-cr-04|crossref|minority shareholder oppression remedy|OK
+D10-op-01|openalex|performance betting dispute enforcement|OK
+D10-op-02|openalex|corporate gridlock buyout remedy|OK
+D10-op-03|openalex|股东 知情权 诉讼|OK
+D11-cr-01|crossref|Delaware dual class stock founder control|OK
+D11-cr-02|crossref|one share ten votes Hong Kong listing|OK
+D11-cr-03|crossref|Alibaba partnership structure control|OK
+D11-cr-04|crossref|UK golden share privatisation control|OK
+D11-op-01|openalex|differential voting rights IPO underperformance|OK
+D11-op-02|openalex|founder control technology firms|OK
+D11-op-03|openalex|合伙人 制度 控制权|OK
+D12-cr-01|crossref|separation of ownership and control Berle Means|OK
+D12-cr-02|crossref|private benefits of control|OK
+D12-cr-03|crossref|agency costs corporate governance|OK
+D12-cr-04|crossref|wedge between ownership and voting rights|OK
+D12-op-01|openalex|director primacy corporate control|OK
+D12-op-02|openalex|managerial entrenchment takeover defense|OK
+D12-op-03|openalex|incomplete contracts control rights property rights|OK

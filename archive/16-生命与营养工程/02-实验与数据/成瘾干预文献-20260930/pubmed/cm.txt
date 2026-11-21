@@ -1,0 +1,239 @@
+1. J Addict Med. 2024 May-Jun 01;18(1S Suppl 1):1-56. doi: 
+10.1097/ADM.0000000000001299.
+
+The ASAM/AAAP Clinical Practice Guideline on the Management of Stimulant Use 
+Disorder.
+
+Clinical Guideline Committee (CGC) Members; ASAM Team; AAAP Team; IRETA Team.
+
+Collaborators: Batki S, Ciccarone D, Hadland SE, Hurley B, Kabernagel K, Levin 
+F, McKay J, Mooney L, Puri S, Saxon A, Sevarino K, Simon K, Wiegand T, Boyle M, 
+Devoto A, Safarian T, Dirst M, Lindsay D, Lincoln P, Helmick J, Luongo P.
+
+The American Society of Addiction Medicine/American Academy of Addiction 
+Psychiatry (ASAM/AAAP) Clinical Practice Guideline on the Management of 
+Stimulant Use Disorder provides guidance on evidence-based strategies for the 
+treatment of stimulant use disorders (StUDs), stimulant intoxication, and 
+stimulant withdrawal, as well as secondary and tertiary prevention of harms 
+associated with stimulant use. The Clinical Guideline Committee (CGC) comprised 
+experts from ASAM and AAAP representing a range of clinical settings and patient 
+populations. The guideline was developed following modified GRADE methodology. 
+The process included a systematic literature review as well as several targeted 
+supplemental searches. The CGC utilized Evidence to Decision tables to review 
+available evidence and rate the strength of each recommendation. The clinical 
+practice guideline was revised based on external stakeholder review. Key 
+takeaways included: Contingency management represents the current standard of 
+care for treatment of StUDs; Pharmacotherapies may be utilized off-label to 
+treat StUDs; Acute stimulant intoxication can result in life-threatening 
+complications that should be addressed in an appropriate level of care; 
+Secondary and tertiary prevention strategies should be used to reduce harms 
+related to risky stimulant use.
+
+DOI: 10.1097/ADM.0000000000001299
+PMCID: PMC11105801
+PMID: 38669101 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: None
+
+
+2. Am J Psychiatry. 2025 Nov 1;182(11):1016-1023. doi: 10.1176/appi.ajp.20250053.
+ Epub 2025 Sep 10.
+
+Contingency Management for Stimulant Use Disorder and Association With 
+Mortality: A Cohort Study.
+
+Coughlin LN(1), Tomlinson DC(1), Zhang L(1), Kim HM(2)(3), Frost MC(4)(5), 
+Khazanov G(6)(7), McKay JR(6)(7), DePhilippis D(8), Lin LA(1)(2).
+
+Author information:
+(1)Michigan Innovations in Addiction Care Through Research and Education 
+(MI-ACRE) Program, Department of Psychiatry, University of Michigan, Ann Arbor.
+(2)VA Center for Clinical Management Research, VA Ann Arbor Healthcare System, 
+Ann Arbor.
+(3)Consulting for Statistics, Computing, and Analytics Research, University of 
+Michigan, Ann Arbor.
+(4)Health Systems Research Center of Innovation for Veteran-Centered and 
+Value-Driven Care, VA Puget Sound Health Care System, Seattle.
+(5)Department of Health Systems and Population Health, University of Washington 
+School of Public Health, Seattle.
+(6)Center for Excellence in Substance Addiction Treatment and Education, 
+Corporal Michael J. Crescenz VA Medical Center, Philadelphia.
+(7)Department of Psychiatry, University of Pennsylvania, Philadelphia.
+(8)Office of Mental Health, Veterans Affairs, Washington, DC.
+
+OBJECTIVE: While opioid overdose has begun to decrease in recent years, 
+stimulant overdose has continued to increase and has not been adequately 
+addressed. Unlike opioid use disorder, there are no medications approved by the 
+U.S. Food and Drug Administration to treat stimulant use disorder (StUD). The 
+most effective treatment is contingency management (CM), a behavioral 
+intervention that provides tangible rewards to reinforce target behaviors, such 
+as biochemically verified abstinence. Despite the effectiveness of CM on 
+near-term substance use behaviors, the long-term impact on key outcomes such as 
+mortality are unclear. The objective of this work was to examine whether 
+patients with StUD who receive CM have a decreased risk of mortality.
+METHODS: This was a retrospective cohort study of patients with StUD who 
+received or did not receive CM, using linked electronic health records and death 
+records in the largest integrated health system in the United States, the 
+Veterans Health Administration (VHA), from July 2018 through December 2020. The 
+primary outcome was mortality in the year following the index CM visit. 
+All-cause mortality data were obtained from the National Death Index and linked 
+to electronic health record data. Adjusted hazard ratios were estimated using 
+stratified Cox proportional hazards models.
+RESULTS: A total of 1,481 patients with StUD who received CM were included 
+alongside 1,481 matched control subjects. Over the 1-year follow-up period, 
+those who received CM were 41% less likely to die (adjusted hazard ratio=0.59, 
+95% CI=0.36, 0.95) than those who did not receive CM.
+CONCLUSIONS: This study provides the first evidence that CM use in real-world 
+health care settings is associated with reduced risk of mortality among patients 
+with StUD.
+
+DOI: 10.1176/appi.ajp.20250053
+PMCID: PMC12872285
+PMID: 40926572 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Lin has served as a consultant for the 
+Peterson Health Technology Institute. The other authors report no financial 
+relationships with commercial interests.
+
+
+3. J Ambul Care Manage. 2023 Apr-Jun 01;46(2):152-159. doi: 
+10.1097/JAC.0000000000000450. Epub 2023 Feb 3.
+
+Contingency Management for Stimulant Use Disorder: Progress, Challenges, and 
+Recommendations.
+
+Rawson RA(1), Erath TG, Chalk M, Clark HW, McDaid C, Wattenberg SA, Roll JM, 
+McDonell MG, Parent S, Freese TE.
+
+Author information:
+(1)Motivational Incentive Policy Group (Drs Rawson, Erath, Chalk, Clark, 
+Wattenberg, and Roll, and Ms McDaid); Department of Psychiatry, Vermont Center 
+on Behavior and Health, University of Vermont, Burlington, Vermont (Drs Rawson 
+and Erath); Community and Behavioral Health Department, College of Medicine, 
+Washington State University, Pullman, Washington (Drs Roll, McDonell, and 
+Parent); and UCLA Integrated Substance Abuse Programs, Los Angeles, California 
+(Drs Rawson and Freese).
+
+The United States is currently in the fourth wave of the overdose crisis wherein 
+stimulants together with fentanyl are the major drivers of overdose deaths. To 
+date, there has been limited effort outside the US Veterans Administration 
+Health System health system to disseminate evidence-based treatment for people 
+with stimulant use disorder. Contingency management, a behavioral intervention 
+in which positive reinforcement is provided for a target behavior indicating 
+treatment progress, has decades of empirical support but limited implementation 
+in real-world, non-US Veterans Administration Health System settings. The 
+purpose of the report is to provide an overview of contingency management, the 
+barriers to adoption, and recommendations for overcoming these barriers.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/JAC.0000000000000450
+PMID: 36745163 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+4. Drug Alcohol Depend. 2020 Nov 1;216:108307. doi: 
+10.1016/j.drugalcdep.2020.108307. Epub 2020 Sep 21.
+
+Contingency management for the treatment of methamphetamine use disorder: A 
+systematic review.
+
+Brown HD(1), DeFulio A(2).
+
+Author information:
+(1)Western Michigan University, United States.
+(2)Western Michigan University, United States. Electronic address: 
+anthony.defulio@wmich.edu.
+
+Methamphetamine use continues to be an important public health problem. 
+Contingency management is among the most effective interventions for reducing 
+methamphetamine use. It has been more than ten years since the last systematic 
+review of contingency management for methamphetamine use disorder. Since then, 
+an additional ten randomized controlled trials and a variety of other studies 
+have been completed. The present systematic review includes 27 studies. Several 
+factors, most notably problem severity, appear to predict treatment outcome. 
+However, the effectiveness of CM has been demonstrated in studies restricted to 
+MSM, studies restricted to implementation in community programs, and in studies 
+of the general population of methamphetamine users conducted in research 
+treatment programs. There appear to be broad benefits of contingency management 
+intervention, including greater drug abstinence, higher utilization of other 
+treatments and medical services, and reductions in risky sexual behavior. Twenty 
+of the twenty-one studies that reported abstinence outcomes showed an effect of 
+contingency management on abstinence, and seven of the nine studies that 
+reported sexual risk behavior outcomes showed an effect of contingency 
+management in reducing risky sexual behavior. Taken together, recent evidence 
+suggests strongly that outpatient programs that offer treatment for 
+methamphetamine use disorder should prioritize adoption and implementation of 
+contingency management intervention.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.drugalcdep.2020.108307
+PMID: 33007699 [Indexed for MEDLINE]
+
+
+5. Ann Intern Med. 2022 May;175(5):720-731. doi: 10.7326/M21-4011. Epub 2022 Mar 
+22.
+
+The Management of Substance Use Disorders: Synopsis of the 2021 U.S. Department 
+of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline.
+
+Perry C(1), Liberto J(2), Milliken C(3), Burden J(4), Hagedorn H(5), Atkinson 
+T(6), McKay JR(7), Mooney L(8), Sall J(9), Sasson C(10), Saxon A(11), Spevak 
+C(12), Gordon AJ(13); VA/DoD Guideline Development Group.
+
+Collaborators: Perry C, Liberto J, Milliken C, Burden J, Hagedorn H, Atkinson T, 
+McKay JR, Mooney L, Sall J, Sasson C, Saxon A, Spevak C, Gordon AJ, Redden R, 
+Coller R, Stack K, Taylor C, Murphy F, Smirniotopoulos J.
+
+Author information:
+(1)National Capital Consortium, Bethesda, Maryland (C.P.).
+(2)Office of Mental Health and Suicide Prevention, Veterans Health 
+Administration, Washington, DC (J.L.).
+(3)Office of the Surgeon General, U.S. Army, Bethesda, Maryland (C.M.).
+(4)Office of Mental Health and Suicide Prevention, Veterans Health 
+Administration, Salem, Virginia (J.B.).
+(5)Center for Care Delivery & Outcomes Research, Minneapolis VA Medical Center, 
+Minneapolis, Minnesota (H.H.).
+(6)VA Tennessee Valley Healthcare System, Murfreesboro, Tennessee (T.A.).
+(7)Center of Excellence in Substance Addiction Treatment and Education, Corporal 
+Michael J. Crescenz Department of Veterans Affairs Medical Center, Philadelphia, 
+Pennsylvania (J.R.M.).
+(8)VA Greater Los Angeles Healthcare System, Los Angeles, California (L.M.).
+(9)Quality and Patient Safety, Veterans Administration Central Office, 
+Washington, DC (J.S.).
+(10)Medical Advisory Panel, VA Medical Center and Pharmacy Benefits Management, 
+Denver, Colorado (C.S.).
+(11)Center of Excellence in Substance Addiction Treatment and Education, VA 
+Puget Sound Health Care System, Seattle, Washington (A.S.).
+(12)Walter Reed National Military Medical Center, Bethesda, Maryland (C.S.).
+(13)Informatics, Decision-Enhancement, and Analytic Sciences Center (IDEAS), VA 
+Salt Lake City Healthcare System, and Program for Addiction Research, Clinical 
+Care, Knowledge, and Advocacy (PARCKA), University of Utah, Salt Lake City, Utah 
+(A.J.G.).
+
+Comment in
+    Ann Intern Med. 2022 May;175(5):753-754. doi: 10.7326/M22-0150.
+
+DESCRIPTION: In August 2021, leadership within the U.S. Department of Veterans 
+Affairs (VA) and U.S. Department of Defense (DoD) approved a joint clinical 
+practice guideline (CPG) for the management of substance use disorders (SUDs). 
+This synopsis summarizes key recommendations.
+METHODS: In March 2020, the VA/DoD Evidence-Based Practice Work Group assembled 
+a team to update the 2015 VA/DoD Clinical Practice Guideline for the Management 
+of Substance Use Disorders that included clinical stakeholders and conformed to 
+the National Academy of Medicine's tenets for trustworthy CPGs. The guideline 
+panel developed key questions, systematically searched and evaluated the 
+literature, created two 1-page algorithms, and distilled 35 recommendations for 
+care using the GRADE (Grading of Recommendations Assessment, Development and 
+Evaluation) system. This synopsis presents the recommendations that were 
+believed to be the most clinically impactful.
+RECOMMENDATIONS: The scope of the CPG is broad; however, this synopsis focuses 
+on key recommendations for the management of alcohol use disorder, use of 
+buprenorphine in opioid use disorder, contingency management, and use of 
+technology and telehealth to manage patients remotely.
+
+DOI: 10.7326/M21-4011
+PMID: 35313113 [Indexed for MEDLINE]

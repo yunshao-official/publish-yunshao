@@ -1,0 +1,15 @@
+{
+ "injection_recovery_rate": 0.02,
+ "VERDICT": "FAIL",
+ "synthetic_test": {
+  "inject=False": {
+   "谱线数": 0,
+   "1.2:1对数": 0
+  },
+  "inject=True": {
+   "谱线数": 0,
+   "1.2:1对数": 0
+  }
+ },
+ "note": "v0.2: 双线对搜索（f₀ vs f₀/1.2）。三线组搜索需多波段数据，列为v1.1扩展。"
+}

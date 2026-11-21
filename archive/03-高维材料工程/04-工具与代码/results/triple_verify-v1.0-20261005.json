@@ -1,0 +1,130 @@
+{
+ "V1_lambda2_anchor_triple": {
+  "M1_exact": {
+   "D5": {
+    "fit_exact": 5.5,
+    "dev_exact_pct": 0.9174311926605505
+   },
+   "D6": {
+    "fit_exact": 14.256,
+    "dev_exact_pct": 6.467513069454817
+   },
+   "D7": {
+    "fit_exact": 31.6932,
+    "dev_exact_pct": -10.344554455445545
+   },
+   "D8": {
+    "fit_exact": 63.0784,
+    "dev_exact_pct": 1.6901499274544576
+   },
+   "D9.5": {
+    "fit_exact": 152.31266875,
+    "dev_exact_pct": -7.923667785032039
+   }
+  },
+  "M2_lsq_refit": {
+   "c_opt_float": 0.002357440435699415,
+   "c_opt_frac": "354321830128/150299377563225",
+   "dev_refit_pct": {
+    "D5": 8.14,
+    "D6": 14.09,
+    "D7": -3.93,
+    "D8": 8.97,
+    "D9.5": -1.33
+   }
+  },
+  "M3_decimal50": {
+   "D5": {
+    "fit": 5.5,
+    "dev_pct": 0.9174311926605505
+   },
+   "D6": {
+    "fit": 14.256,
+    "dev_pct": 6.467513069454817
+   },
+   "D7": {
+    "fit": 31.6932,
+    "dev_pct": -10.344554455445545
+   },
+   "D8": {
+    "fit": 63.0784,
+    "dev_pct": 1.6901499274544576
+   },
+   "D9.5": {
+    "fit": 152.31266875,
+    "dev_pct": -7.923667785032039
+   }
+  },
+  "M1_vs_M3_cross_ok": true,
+  "verdict_cn": "三路一致（M1=M3至1e-9）；M2最小二乘最优系数见c_opt_float，0.0022为舍入值——舍入级差异定谳"
+ },
+ "V2_interlocks_exact": {
+  "I1_6of7": {
+   "check": "6/7==6/7",
+   "exact_equal": true
+  },
+  "I2_slope_ratio": {
+   "ratio": "2",
+   "equals_2": true
+  },
+  "I3_alpha_m": {
+   "15over90": "1/6",
+   "exact_equal_1_6": true
+  },
+  "verdict_cn": "三互锁在精确分数域全部成立（非浮点巧合级）——重合是算术事实；机制解释仍候裁决"
+ },
+ "V2b_logslope_D35": 5.029411764705882,
+ "V2b_logslope_D38": 5.027027027027027,
+ "V3_rerun3x_sha256": {
+  "hashes": [
+   "cb1d76156035307e",
+   "cb1d76156035307e",
+   "cb1d76156035307e"
+  ],
+  "identical": true
+ },
+ "V3b_rmin_sensitivity": {
+  "N10": {
+   "rmin_x0.405": {
+    "wells": 840,
+    "lambda2": 0.0601
+   },
+   "rmin_x0.450": {
+    "wells": 663,
+    "lambda2": 0.0918
+   },
+   "rmin_x0.495": {
+    "wells": 663,
+    "lambda2": 0.0918
+   }
+  },
+  "N12": {
+   "rmin_x0.405": {
+    "wells": 643,
+    "lambda2": 0.0901
+   },
+   "rmin_x0.450": {
+    "wells": 444,
+    "lambda2": 0.1345
+   },
+   "rmin_x0.495": {
+    "wells": 414,
+    "lambda2": 0.1547
+   }
+  },
+  "N14": {
+   "rmin_x0.405": {
+    "wells": 408,
+    "lambda2": 0.127
+   },
+   "rmin_x0.450": {
+    "wells": 353,
+    "lambda2": 0.1726
+   },
+   "rmin_x0.495": {
+    "wells": 325,
+    "lambda2": 0.2114
+   }
+  }
+ }
+}

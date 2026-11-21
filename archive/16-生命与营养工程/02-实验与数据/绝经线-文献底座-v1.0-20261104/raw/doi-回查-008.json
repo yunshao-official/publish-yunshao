@@ -1,0 +1,370 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "bioRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T18:17:35Z",
+      "timestamp": 1768501055544,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ]
+    },
+    "group-title": "Neuroscience",
+    "reference-count": 32,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:p>Across species, including humans, elevated levels of brain estrogen receptor (ER) α are associated with enhanced cognitive aging even in the absence of circulating estrogens. In rodents, short-term estrogen treatment—such as that commonly used in the menopausal transition—results in long-term increases in levels of ERα in the hippocampus, leading to enhanced memory long after termination of estrogen treatment. However, mechanisms by which increased levels of brain ERα enhances cognitive aging remain unclear. Here we show that in the hippocampus, insulin-like growth factor-1 (IGF-1)—which can activate ER via ligand-independent mechanisms—requires concomitant synthesis of brain-derived neuroestrogens to phosphorylate ERα via MAPK signaling, ultimately resulting in enhanced memory. In a rat model of menopause involving long-term ovarian hormone deprivation, hippocampal neuroestrogen activity decreases, altering IGF-1 activity and resulting in impaired memory. However, this process is reversed by short-term estradiol treatment. Forty-days of estradiol exposure following ovariectomy results in maintenance of neuroestrogen levels that persist beyond the period of hormone treatment, allowing for continued interactions between IGF-1 and neuroestrogen signaling, elevated levels of hippocampal ERα, and ultimately enhanced memory. Collectively, results demonstrate that short-term estradiol use following loss of ovarian function has long-lasting effects on hippocampal function and memory by dynamically regulating cellular mechanisms that promote activity of ERα in the absence of circulating estrogens. Translational impacts of these findings suggest lasting cognitive benefits of short-term estrogen use near menopause and highlight the importance of hippocampal ERα—independent from the role of circulating estrogens—in regulating memory in aging females.</jats:p>\n                <jats:sec>\n                  <jats:title>Significance statement</jats:title>\n                  <jats:p>Declines in ovarian hormones following menopause coincide with increased risk of cognitive decline. Due to potential health risks, current recommendations are that menopausal estrogen therapy be limited to a few years. Long-term consequences for the brain and memory of this short-term midlife estrogen therapy are unclear. Here, in a rodent model of menopause, we determined mechanisms by which short-term midlife estrogen exposure can enhance hippocampal function and memory with cognitive benefits and molecular changes enduring long after termination of estrogen exposure. Our model indicates long-lasting benefits of maintaining hippocampal estrogen receptor function in the absence of ongoing estrogen exposure and suggests potential strategies for combating age-related cognitive decline.</jats:p>\n                </jats:sec>",
+    "DOI": "10.1101/2022.03.31.486639",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2022-04-01T20:05:29Z",
+      "timestamp": 1648843529000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "History of previous midlife estradiol treatment permanently alters interactions of brain insulin-like growth factor-1 signaling and hippocampal estrogen synthesis to enhance cognitive aging in a rat model of menopause"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6336-9903",
+        "authenticated-orcid": false,
+        "given": "Nina E.",
+        "family": "Baumgartner",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shannon M.",
+        "family": "McQuillen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Samantha F.",
+        "family": "Perry",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sangtawan",
+        "family": "Miller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Robert",
+        "family": "Gibbs",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jill M",
+        "family": "Daniel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2826.2005.01344.x"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neurobiolaging.2021.05.022"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2021.1875426"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/ENEURO.0275-19.2019"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jne.12429"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0306-4522(00)00228-1"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/me.2009-0039"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/bne0000480"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Daniel J.M . (2015) The Land Radial-Arm Maze: Eight Out of Eight Arms Baited with Food Protocol for Rodents. In: Bimonte-Nelson H. (eds) The Maze Book. Neuromethods, vol 94. Humana Press, New York, NY. https://doi.org/10.1007/978-1-4939-2159-1_17",
+        "DOI": "10.1007/978-1-4939-2159-1_17"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/me.2001-0316"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/hipo.20935"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/en.2016-1197"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0306-4530(95)00060-7"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.270.5241.1491"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.psyneuen.2018.11.037"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsbmb.2016.04.013"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12035-020-01960-z"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0169-328X(03)00088-3"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsbmb.2008.09.001"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1523/ENEURO.0321-16.2016"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00213-013-3310-7"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mce.2019.04.007"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.yhbeh.2018.05.002"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1074/jbc.M110.104356"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/en.2009-1245"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/er.2004-0024"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1749-6632.1994.tb55794.x"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.yfrne.2014.05.003"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsbmb.2010.11.012"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.yhbeh.2016.05.001"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/MCB.25.13.5417-5428.2005"
+      },
+      {
+        "key": "2022040405400671000_2022.03.31.486639v1.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/en.2012-1698"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2022.03.31.486639",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T02:52:10Z",
+      "timestamp": 1768445530000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://biorxiv.org/lookup/doi/10.1101/2022.03.31.486639"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ]
+    },
+    "references-count": 32,
+    "URL": "https://doi.org/10.1101/2022.03.31.486639",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1523/JNEUROSCI.0588-22.2022",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

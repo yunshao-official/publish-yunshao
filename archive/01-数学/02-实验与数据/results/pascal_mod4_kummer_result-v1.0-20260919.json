@@ -1,0 +1,47 @@
+{
+  "N": 64,
+  "total_cells": 2080,
+  "mod4_distribution": {
+    "0": 946,
+    "1": 407,
+    "2": 405,
+    "3": 322
+  },
+  "mod4_zero_share": 0.4548076923076923,
+  "mod2_odd_count": 729,
+  "mod2_odd_share": 0.3504807692307692,
+  "kummer_cross_check_mismatch": 0,
+  "sample_rows": {
+    "15": {
+      "mod4_zero_ratio": 0.0,
+      "mod2_zero_ratio": 0.0,
+      "kummer_ge2_ratio": 0.0
+    },
+    "31": {
+      "mod4_zero_ratio": 0.0,
+      "mod2_zero_ratio": 0.0,
+      "kummer_ge2_ratio": 0.0
+    },
+    "47": {
+      "mod4_zero_ratio": 0.0,
+      "mod2_zero_ratio": 0.3333333333333333,
+      "kummer_ge2_ratio": 0.0
+    },
+    "63": {
+      "mod4_zero_ratio": 0.0,
+      "mod2_zero_ratio": 0.0,
+      "kummer_ge2_ratio": 0.0
+    },
+    "62": {
+      "mod4_zero_ratio": 0.23809523809523808,
+      "mod2_zero_ratio": 0.49206349206349204,
+      "kummer_ge2_ratio": 0.23809523809523808
+    },
+    "55": {
+      "mod4_zero_ratio": 0.14285714285714285,
+      "mod2_zero_ratio": 0.42857142857142855,
+      "kummer_ge2_ratio": 0.14285714285714285
+    }
+  },
+  "labels": "数值【复算一致】；对照【同构≠同一·立项不硬凑】；体系内部定义·未验证"
+}

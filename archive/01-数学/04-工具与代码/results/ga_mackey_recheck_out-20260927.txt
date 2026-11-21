@@ -1,0 +1,105 @@
+=== ga_mackey_recheck 20260927 (A3 fixed) ===
+GAPVersion=4.16.1
+G192 loaded: classes=13 degrees=[ 1, 1, 2, 3, 3, 3, 3, 3, 3, 4, 4, 6, 8 ]
+CandidatesN=3
+
+[N] order=8
+OrbitSizes=[ 1, 3, 4 ]
+OrbitLabels=[ [ [ 0, 0, 0 ] ], [ [ 0, 1, 0 ], [ 1, 0, 0 ], [ 1, 1, 0 ] ], 
+  [ [ 0, 0, 1 ], [ 0, 1, 1 ], [ 1, 0, 1 ], [ 1, 1, 1 ] ] ]
+OrbitSize=1 OrbitLabel=[ [ 0, 0, 0 ] ] LittleGroupOrder=192
+LambdaDims=[ 1, 1, 2, 3, 3 ] ext_e=[ 1, 1, 2, 3, 3 ]
+  Ind: Lorder=192 dimLambda=1 dimInd=1 -> irrpos[ 1 ] mult[ 1 ] deg[ 1 ]
+  Ind: Lorder=192 dimLambda=1 dimInd=1 -> irrpos[ 2 ] mult[ 1 ] deg[ 1 ]
+  Ind: Lorder=192 dimLambda=2 dimInd=2 -> irrpos[ 3 ] mult[ 1 ] deg[ 2 ]
+  Ind: Lorder=192 dimLambda=3 dimInd=3 -> irrpos[ 4 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=192 dimLambda=3 dimInd=3 -> irrpos[ 7 ] mult[ 1 ] deg[ 3 ]
+OrbitSize=3 OrbitLabel=[ [ 0, 1, 0 ], [ 1, 0, 0 ], [ 1, 1, 0 ] 
+ ] LittleGroupOrder=64
+LambdaDims=[ 1, 1, 1, 1, 2 ] ext_e=[ 1, 1, 1, 1, 2 ]
+  Ind: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 8 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 5 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 9 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 6 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=64 dimLambda=2 dimInd=6 -> irrpos[ 12 ] mult[ 1 ] deg[ 6 ]
+OrbitSize=4 OrbitLabel=[ [ 0, 0, 1 ], [ 0, 1, 1 ], [ 1, 0, 1 ], [ 1, 1, 1 ] 
+ ] LittleGroupOrder=48
+LambdaDims=[ 1, 1, 2 ] ext_e=[ 1, 1, 2 ]
+  Ind: Lorder=48 dimLambda=1 dimInd=4 -> irrpos[ 10 ] mult[ 1 ] deg[ 4 ]
+  Ind: Lorder=48 dimLambda=1 dimInd=4 -> irrpos[ 11 ] mult[ 1 ] deg[ 4 ]
+  Ind: Lorder=48 dimLambda=2 dimInd=8 -> irrpos[ 13 ] mult[ 1 ] deg[ 8 ]
+InflatedDegrees=[ 1, 1, 2, 3, 3 ]
+Closure_producedIsAllIrrOnce=true ProducedDegreeMultisetMatches=true totalProd\
+uced=13 induceAllIrreducible=true
+
+[N] order=8
+OrbitSizes=[ 1, 3, 4 ]
+OrbitLabels=[ [ [ 0, 0, 0 ] ], [ [ 0, 1, 0 ], [ 1, 0, 0 ], [ 1, 1, 0 ] ], 
+  [ [ 0, 0, 1 ], [ 0, 1, 1 ], [ 1, 0, 1 ], [ 1, 1, 1 ] ] ]
+OrbitSize=1 OrbitLabel=[ [ 0, 0, 0 ] ] LittleGroupOrder=192
+LambdaDims=[ 1, 1, 2, 3, 3 ] ext_e=[ 1, 1, 2, 3, 3 ]
+  Ind: Lorder=192 dimLambda=1 dimInd=1 -> irrpos[ 1 ] mult[ 1 ] deg[ 1 ]
+  Ind: Lorder=192 dimLambda=1 dimInd=1 -> irrpos[ 2 ] mult[ 1 ] deg[ 1 ]
+  Ind: Lorder=192 dimLambda=2 dimInd=2 -> irrpos[ 3 ] mult[ 1 ] deg[ 2 ]
+  Ind: Lorder=192 dimLambda=3 dimInd=3 -> irrpos[ 6 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=192 dimLambda=3 dimInd=3 -> irrpos[ 9 ] mult[ 1 ] deg[ 3 ]
+OrbitSize=3 OrbitLabel=[ [ 0, 1, 0 ], [ 1, 0, 0 ], [ 1, 1, 0 ] 
+ ] LittleGroupOrder=64
+LambdaDims=[ 1, 1, 1, 1, 2 ] ext_e=[ 1, 1, 1, 1, 2 ]
+  Ind: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 8 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 5 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 7 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 4 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=64 dimLambda=2 dimInd=6 -> irrpos[ 12 ] mult[ 1 ] deg[ 6 ]
+OrbitSize=4 OrbitLabel=[ [ 0, 0, 1 ], [ 0, 1, 1 ], [ 1, 0, 1 ], [ 1, 1, 1 ] 
+ ] LittleGroupOrder=48
+LambdaDims=[ 1, 1, 2 ] ext_e=[ 1, 1, 2 ]
+  Ind: Lorder=48 dimLambda=1 dimInd=4 -> irrpos[ 10 ] mult[ 1 ] deg[ 4 ]
+  Ind: Lorder=48 dimLambda=1 dimInd=4 -> irrpos[ 11 ] mult[ 1 ] deg[ 4 ]
+  Ind: Lorder=48 dimLambda=2 dimInd=8 -> irrpos[ 13 ] mult[ 1 ] deg[ 8 ]
+InflatedDegrees=[ 1, 1, 2, 3, 3 ]
+Closure_producedIsAllIrrOnce=true ProducedDegreeMultisetMatches=true totalProd\
+uced=13 induceAllIrreducible=true
+
+[N] order=8
+OrbitSizes=[ 1, 3, 4 ]
+OrbitLabels=[ [ [ 0, 0, 0 ] ], [ [ 0, 1, 0 ], [ 1, 0, 0 ], [ 1, 1, 0 ] ], 
+  [ [ 0, 0, 1 ], [ 0, 1, 1 ], [ 1, 0, 1 ], [ 1, 1, 1 ] ] ]
+OrbitSize=1 OrbitLabel=[ [ 0, 0, 0 ] ] LittleGroupOrder=192
+LambdaDims=[ 1, 1, 2, 3, 3 ] ext_e=[ 1, 1, 2, 3, 3 ]
+  Ind: Lorder=192 dimLambda=1 dimInd=1 -> irrpos[ 1 ] mult[ 1 ] deg[ 1 ]
+  Ind: Lorder=192 dimLambda=1 dimInd=1 -> irrpos[ 2 ] mult[ 1 ] deg[ 1 ]
+  Ind: Lorder=192 dimLambda=2 dimInd=2 -> irrpos[ 3 ] mult[ 1 ] deg[ 2 ]
+  Ind: Lorder=192 dimLambda=3 dimInd=3 -> irrpos[ 5 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=192 dimLambda=3 dimInd=3 -> irrpos[ 8 ] mult[ 1 ] deg[ 3 ]
+OrbitSize=3 OrbitLabel=[ [ 0, 1, 0 ], [ 1, 0, 0 ], [ 1, 1, 0 ] 
+ ] LittleGroupOrder=64
+LambdaDims=[ 1, 1, 1, 1, 2 ] ext_e=[ 1, 1, 1, 1, 2 ]
+  Ind: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 9 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 6 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 7 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 4 ] mult[ 1 ] deg[ 3 ]
+  Ind: Lorder=64 dimLambda=2 dimInd=6 -> irrpos[ 12 ] mult[ 1 ] deg[ 6 ]
+OrbitSize=4 OrbitLabel=[ [ 0, 0, 1 ], [ 0, 1, 1 ], [ 1, 0, 1 ], [ 1, 1, 1 ] 
+ ] LittleGroupOrder=48
+LambdaDims=[ 1, 1, 2 ] ext_e=[ 1, 1, 2 ]
+  Ind: Lorder=48 dimLambda=1 dimInd=4 -> irrpos[ 10 ] mult[ 1 ] deg[ 4 ]
+  Ind: Lorder=48 dimLambda=1 dimInd=4 -> irrpos[ 11 ] mult[ 1 ] deg[ 4 ]
+  Ind: Lorder=48 dimLambda=2 dimInd=8 -> irrpos[ 13 ] mult[ 1 ] deg[ 8 ]
+InflatedDegrees=[ 1, 1, 2, 3, 3 ]
+Closure_producedIsAllIrrOnce=true ProducedDegreeMultisetMatches=true totalProd\
+uced=13 induceAllIrreducible=true
+
+A3_SUMMARY per N = [order, orbitSizes, littleGroupOrders, inducedDegMultiset, \
+inflatedDegrees, closureOK, irreducible]:
+  [ 8, [ 1, 3, 4 ], [ 192, 64, 48 ], 
+  [ [ 1, 2 ], [ 2, 1 ], [ 3, 6 ], [ 4, 2 ], [ 6, 1 ], [ 8, 1 ] ], 
+  [ 1, 1, 2, 3, 3 ], true, true ]
+  [ 8, [ 1, 3, 4 ], [ 192, 64, 48 ], 
+  [ [ 1, 2 ], [ 2, 1 ], [ 3, 6 ], [ 4, 2 ], [ 6, 1 ], [ 8, 1 ] ], 
+  [ 1, 1, 2, 3, 3 ], true, true ]
+  [ 8, [ 1, 3, 4 ], [ 192, 64, 48 ], 
+  [ [ 1, 2 ], [ 2, 1 ], [ 3, 6 ], [ 4, 2 ], [ 6, 1 ], [ 8, 1 ] ], 
+  [ 1, 1, 2, 3, 3 ], true, true ]
+A3_MATCH_ALL_CANDIDATES=true
+=== DONE ===

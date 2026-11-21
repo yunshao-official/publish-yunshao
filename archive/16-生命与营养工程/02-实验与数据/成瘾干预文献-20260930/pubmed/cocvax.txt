@@ -1,0 +1,192 @@
+1. Expert Rev Vaccines. 2010 Sep;9(9):1109-14. doi: 10.1586/erv.10.102.
+
+Anti-cocaine vaccine development.
+
+Kinsey BM(1), Kosten TR, Orson FM.
+
+Author information:
+(1)Veterans Affairs Medical Center, TX, USA.
+
+Cocaine abuse is an ongoing and serious problem that has led to the growth of a 
+brutal criminal enterprise, particularly in the Americas and Europe. At present, 
+there are no effective pharmacological agents available to treat the addiction 
+by blocking cocaine or reversing its effects. In order to help motivated addicts 
+conquer their addiction, vaccines against cocaine are being developed and one 
+has progressed to clinical trials. This article will discuss the concept of 
+antidrug vaccines in general, the successes and limitations of the various 
+anti-cocaine vaccine approaches, the results of the clinical trials with an 
+anti-cocaine vaccine and some new vaccine-mediated approaches to combat cocaine 
+addiction.
+
+DOI: 10.1586/erv.10.102
+PMCID: PMC2936703
+PMID: 20822352 [Indexed for MEDLINE]
+
+
+2. Drug Alcohol Depend. 2014 Jul 1;140:42-7. doi:
+10.1016/j.drugalcdep.2014.04.003.  Epub 2014 Apr 16.
+
+Vaccine for cocaine dependence: a randomized double-blind placebo-controlled 
+efficacy trial.
+
+Kosten TR(1), Domingo CB(2), Shorter D(2), Orson F(2), Green C(3), Somoza E(4), 
+Sekerka R(4), Levin FR(5), Mariani JJ(5), Stitzer M(6), Tompkins DA(6), Rotrosen 
+J(7), Thakkar V(7), Smoak B(7), Kampman K(8).
+
+Author information:
+(1)Michael E. DeBakey VA Medical Center, Baylor College of Medicine, 2002 
+Holcombe, Bldg. 121, Rm 141, Houston, TX 77030, United States. Electronic 
+address: Kosten@bcm.edu.
+(2)Michael E. DeBakey VA Medical Center, Baylor College of Medicine, 2002 
+Holcombe, Bldg. 121, Rm 141, Houston, TX 77030, United States.
+(3)University of Texas, Houston, TX 77030, United States.
+(4)University of Cincinnati, Cincinnati, OH, United States.
+(5)Columbia University, New York, NY, United States.
+(6)Johns Hopkins University, Baltimore, MD, United States.
+(7)NYU/VA NYHHS, New York, NY, United States.
+(8)University of Pennsylvania, Philadelphia, PA, United States.
+
+AIMS: We evaluated the immunogenicity, efficacy, and safety of 
+succinylnorcocaine conjugated to cholera toxin B protein as a vaccine for 
+cocaine dependence.
+METHODS: This 6-site, 24 week Phase III randomized double-blind 
+placebo-controlled trial assessed efficacy during weeks 8 to 16. We measured 
+urine cocaine metabolites thrice weekly as the main outcome.
+RESULTS: The 300 subjects (76% male, 72% African-American, mean age 46 years) 
+had smoked cocaine on average for 13 days monthly at baseline. We hypothesized 
+that retention might be better and positive urines lower for subjects with 
+anti-cocaine IgG levels of ≥42 μg/mL (high IgG), which was attained by 67% of 
+the 130 vaccine subjects receiving five vaccinations. Almost 3-times fewer high 
+than low IgG subjects dropped out (7% vs 20%). Although for the full 16 weeks 
+cocaine positive urine rates showed no significant difference between the three 
+groups (placebo, high, low IgG), after week 8, more vaccinated than placebo 
+subjects attained abstinence for at least two weeks of the trial (24% vs 18%), 
+and the high IgG group had the most cocaine-free urines for the last 2 weeks of 
+treatment (OR=3.02), but neither were significant. Injection site reactions of 
+induration and tenderness differed between placebo and active vaccine, and the 
+29 serious adverse events did not lead to treatment related withdrawals, or 
+deaths.
+CONCLUSIONS: The vaccine was safe, but it only partially replicated the efficacy 
+found in the previous study based on retention and attaining abstinence.
+
+Copyright © 2014 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.drugalcdep.2014.04.003
+PMCID: PMC4073297
+PMID: 24793366 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest No conflicts of interest 
+for any authors.
+
+
+3. Neurosci Lett. 2013 Apr 29;541:29-33. doi: 10.1016/j.neulet.2013.02.037. Epub 
+2013 Feb 28.
+
+DBH gene as predictor of response in a cocaine vaccine clinical trial.
+
+Kosten TR(1), Domingo CB, Hamon SC, Nielsen DA.
+
+Author information:
+(1)Menninger Department of Psychiatry and Behavioral Sciences, Baylor College of 
+Medicine, and Michael E. DeBakey V.A. Medical Center, MEDVAMC, 2002 Holcombe 
+Blvd., Research 151, Houston, TX 77030, United States.
+
+We examined a pharmacogenetic association of the dopamine β-hydroxylase (DBH) 
+gene with a response to an anti-cocaine vaccine that was tested in a recent 
+clinical trial. This gene is associated with cocaine-induced paranoia, which has 
+a slower onset than the euphoria from cocaine. The vaccine reduced euphoria by 
+slowing the entry of cocaine into the brain, but it may not reduce aversive 
+symptoms like paranoia. A 16-week Phase IIb randomized double-blind 
+placebo-controlled trial of 114 cocaine and opioid dependent subjects who 
+received five vaccinations over the first 12 weeks was examined. We genotyped 71 
+subjects for the rs1611115 (-1021C>T) variant of the DBH gene and compared 
+vaccine to placebo subjects on cocaine-free urines. Using repeated measures 
+analysis of variance, corrected for population structure, vaccine 
+pharmacotherapy reduced cocaine positive urines significantly based on DBH 
+genotype. Patients with the low DβH level genotype dropped from 77% to 51% on 
+vaccine (p=0.0001), while those with the normal DβH level genotype dropped from 
+83% to 72%. Placebo showed no effect on cocaine use overall or by genotype. This 
+study indicates that a patient's DBH genotype could be used to identify a subset 
+of individuals for whom vaccine treatment may be an effective pharmacotherapy 
+for cocaine dependence.
+
+Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.neulet.2013.02.037
+PMCID: PMC3631430
+PMID: 23458673 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest No conflict declared.
+
+
+4. Ann N Y Acad Sci. 2008 Oct;1141:257-69. doi: 10.1196/annals.1441.027.
+
+Substance abuse vaccines.
+
+Orson FM(1), Kinsey BM, Singh RA, Wu Y, Gardner T, Kosten TR.
+
+Author information:
+(1)Veterans Affairs Medical Center, Houston, TX 77030, USA. forson@bcm.tmc.edu
+
+Conventional substance-abuse treatments have only had limited success for drugs 
+such as cocaine, nicotine, methamphetamine, and phencyclidine. New approaches, 
+including vaccination to block the effects of these drugs on the brain, are in 
+advanced stages of development. Although several potential mechanisms for the 
+effects of antidrug vaccines have been suggested, the most straightforward and 
+intuitive mechanism involves binding of the drug by antibodies in the 
+bloodstream, thereby blocking entry and/or reducing the rate of entry of the 
+drug into the central nervous system. The benefits of such antibodies on drug 
+pharmacodynamics will be influenced by both the quantitative and the qualitative 
+properties of the antibodies. The sum of these effects will determine the 
+success of the clinical applications of antidrug vaccines in addiction medicine. 
+This review will discuss these issues and present the current status of vaccine 
+development for nicotine, cocaine, methamphetamine, phencyclidine, and morphine.
+
+DOI: 10.1196/annals.1441.027
+PMCID: PMC2587140
+PMID: 18991962 [Indexed for MEDLINE]
+
+
+5. Psychiatr Genet. 2013 Dec;23(6):225-32. doi: 10.1097/YPG.0000000000000008.
+
+The κ-opioid receptor gene as a predictor of response in a cocaine vaccine 
+clinical trial.
+
+Nielsen DA(1), Hamon SC, Kosten TR.
+
+Author information:
+(1)aMenninger Department of Psychiatry and Behavioral Sciences, Baylor College 
+of Medicine bMichael E. DeBakey V.A. Medical Center (MEDVAMC), Houston, Texas 
+cLaboratory of Statistical Genetics, The Rockefeller University, New York, New 
+York, USA.
+
+OBJECTIVES: We examined the pharmacogenetic association between a variant in the 
+κ-opioid receptor (OPRK1) gene and the response to treatment with a cocaine 
+vaccine tested in a recent clinical trial (October 2003 to April 2005). This 
+gene has a protective allele for opioid addiction that may act by the inhibiting 
+dopamine activation associated with reinforcement.
+METHODS: Sixty-nine DNA samples were obtained from 114 cocaine-dependent and 
+opioid-dependent patients who were enrolled in a 16-week phase IIb randomized 
+double-blind placebo-controlled trial and received five vaccinations over the 
+first 12 weeks. We genotyped 66 of these patients for the rs6473797 variant of 
+the OPRK1 gene and compared vaccine patients with placebo patients in terms of 
+cocaine-free urines over time.
+RESULTS: Using repeated measures analysis of variance corrected for population 
+structure, it was seen that vaccine pharmacotherapy reduced cocaine-positive 
+urines significantly on the basis of the OPRK1 genotype. Among patients treated 
+with the cocaine vaccine, those who were homozygous for the protective A allele 
+of rs6473797 had the proportion of positive urines drop from 78 to 51% on using 
+the vaccine (point-wise P<0.0001, experiment-wise P<0.005), whereas the positive 
+urines of individuals carrying the nonprotective, risk G allele dropped from 82 
+to 77%. Strong treatment by single nucleotide polymorphism interactions 
+reflected a lower baseline and significant reduction for placebo patients with 
+the risk G allele (P<0.00001).
+CONCLUSION: This study indicates that a patient's OPRK1 genotype could be used 
+to identify a subset of individuals for whom vaccine treatment may be an 
+effective pharmacotherapy for cocaine dependence.
+
+DOI: 10.1097/YPG.0000000000000008
+PMCID: PMC3885873
+PMID: 23995774 [Indexed for MEDLINE]
+
+Conflict of interest statement: There are no conflicts of interest.

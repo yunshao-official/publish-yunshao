@@ -1,0 +1,53 @@
+{
+ "engine": "概念宇宙 LLM · 统一注册表 v1.3（四宇宙资产清单·统一节点编号口径）",
+ "date": "2026-10-14",
+ "node_space": {
+  "词面节点": "token id 0..129279（V4-Flash tokenizer，vocab_size=129280 回查 config.json）",
+  "概念节点": "簇 id 0..2047（L0 kmeans 2048 簇，assign[token]=簇号）",
+  "知识节点": "(layer 0..42, expert 0..255, neuron 0..2047) 三元组，共 22,544,384 个"
+ },
+ "universes": {
+  "L0_词面宇宙": {
+   "status": "完成（2026-10-13）",
+   "files": [
+    "v4f_l0/embed_fp16.npy (129280,4096) f16",
+    "v4f_l0/centers.npy (2048,4096)",
+    "v4f_l0/assign.npy (129280,)",
+    "v4f_l0/edges.npy (387840,2) kNN 3-邻",
+    "v4f_l0/member_cap.npz 每簇 top-300"
+   ],
+   "edges": "387,840 条 kNN 相似边"
+  },
+  "L1_知识宇宙": {
+   "status": "完成（2026-10-13，两段式近似·诚实标注）",
+   "files": [
+    "v4f_l1/concept_tok.npy (43,256,2048,10) int32",
+    "v4f_l1/concept_sc.npy 同形 f16",
+    "v4f_l1/meta_final.json"
+   ],
+   "coverage": "0.9774（220,352,947 条目）",
+   "method_note": "top-10 在 top-2 簇成员（≤600 词）内精排，非精确全词表 top-10（精确版 24 PFLOP 本机不可行）"
+  },
+  "L2_转移宇宙": {
+   "status": "v1 完成 + v3 全谱完成（2026-10-14 本日）",
+   "files": [
+    "v4f_transfer/bigram_top5.npy (129280,5) —— 语料统计（DeepSeek 对话 blob 清洗 180,007 段/19.5M token）",
+    "v4f_transfer/trigram_top3.npz —— 本日新增（trigram 类 2,322,700，涉及 908,926 bigram 键）",
+    "v4f_transfer_v3_full/layer_routes.npy (43,6,129280) —— 官方路由，仅前3层有效（num_hash_layers=3 架构事实）",
+    "v4f_transfer_v3_full/sibling_tr.npy (43,2048,8) —— 兄弟簇转移（专家分布重叠）",
+    "v4f_transfer_v3/model_transfer.npy (2048,8) —— output head 天然后继（簇级）"
+   ]
+  },
+  "L3_关联宇宙": {
+   "status": "完成（2026-10-14 本日·前版 attn.wo_b 张量名 bug 修正后首次建成）",
+   "files": [
+    "v4f_transfer_v3_full/gateinp_assoc_full.npz —— 43 层选型器投影簇关联 433,877 条（阈 0.3）",
+    "v4f_transfer_v3_full/attn_assoc_full.npz —— 43 层 attn_output_b 投影簇关联 421,264 条",
+    "v4f_transfer/cooc_cluster.npz —— 语料簇共现 9,211 条"
+   ],
+   "caliber_note": "静态权重投影口径，非动态注意力激活（552B 前向本机不可行，照记）"
+  }
+ },
+ "merge_caliber": "合并=统一节点空间+注册表索引+引擎运行时按需联查（层级=索引非计算，知世 2026-10-12 裁决口径）；2.2 亿知识条目不物理并图",
+ "honest_note": "本注册表为索引件；各分项数字以各 meta.json 与验收 JSON 为准（引用数字必须回查结果 JSON——冻结书分歧审计在案）"
+}

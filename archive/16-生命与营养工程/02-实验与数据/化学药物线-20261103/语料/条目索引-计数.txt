@@ -1,0 +1,60 @@
+总条目数（含重复）: 1705
+去重PMID数: 1348
+
+各组分档去重条数:
+  A组: 390 条
+  B组: 459 条
+  C组: 298 条
+  D组: 268 条
+
+各检索式命中详情:
+  A1: hitCount=0, 取回=0, HTTP=200
+  A2: hitCount=7595, 取回=50, HTTP=200
+  A3: hitCount=5209, 取回=50, HTTP=200
+  A4: hitCount=2131, 取回=50, HTTP=200
+  A5: hitCount=1514, 取回=50, HTTP=200
+  A6: hitCount=219, 取回=50, HTTP=200
+  A7: hitCount=14112, 取回=50, HTTP=200
+  A8: hitCount=17891, 取回=50, HTTP=200
+  A9: hitCount=1528, 取回=50, HTTP=200
+  A10: hitCount=6227, 取回=50, HTTP=200
+  B1: hitCount=11979, 取回=50, HTTP=200
+  B2: hitCount=12088, 取回=50, HTTP=200
+  B3: hitCount=22385, 取回=50, HTTP=200
+  B4: hitCount=2478, 取回=50, HTTP=200
+  B5: hitCount=1240, 取回=50, HTTP=200
+  B6: hitCount=1346, 取回=50, HTTP=200
+  B7: hitCount=1459, 取回=50, HTTP=200
+  B8: hitCount=6544, 取回=50, HTTP=200
+  B9: hitCount=12059, 取回=50, HTTP=200
+  B10: hitCount=34364, 取回=50, HTTP=200
+  B11: hitCount=1504, 取回=50, HTTP=200
+  B12: hitCount=1092, 取回=50, HTTP=200
+  C1: hitCount=352, 取回=50, HTTP=200
+  C2: hitCount=943, 取回=50, HTTP=200
+  C3: hitCount=1703, 取回=50, HTTP=200
+  C4: hitCount=5184, 取回=50, HTTP=200
+  C5: hitCount=24748, 取回=50, HTTP=200
+  C6: hitCount=11378, 取回=50, HTTP=200
+  C7: hitCount=5, 取回=5, HTTP=200
+  C8: hitCount=3940, 取回=50, HTTP=200
+  D1: hitCount=1374, 取回=50, HTTP=200
+  D2: hitCount=331, 取回=50, HTTP=200
+  D3: hitCount=19664, 取回=50, HTTP=200
+  D4: hitCount=17860, 取回=50, HTTP=200
+  D5: hitCount=998, 取回=50, HTTP=200
+  D6: hitCount=44089, 取回=50, HTTP=200
+  A3-core: hitCount=5209, 取回=25, HTTP=200
+  A8-core: hitCount=17891, 取回=25, HTTP=200
+  A9-core: hitCount=1528, 取回=25, HTTP=200
+  B1-core: hitCount=11979, 取回=25, HTTP=200
+  B3-core: hitCount=22385, 取回=25, HTTP=200
+  B9-core: hitCount=12059, 取回=25, HTTP=200
+  B11-core: hitCount=1504, 取回=25, HTTP=200
+  C2-core: hitCount=943, 取回=25, HTTP=200
+  C8-core: hitCount=3940, 取回=25, HTTP=200
+  D1-core: hitCount=1374, 取回=25, HTTP=200
+  D2-core: hitCount=331, 取回=25, HTTP=200
+  D4-core: hitCount=17860, 取回=25, HTTP=200
+  D5-core: hitCount=998, 取回=25, HTTP=200
+  D6-core: hitCount=44089, 取回=25, HTTP=200

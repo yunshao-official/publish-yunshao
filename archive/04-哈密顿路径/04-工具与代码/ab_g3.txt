@@ -1,0 +1,4 @@
+[att0 strat1] construct=PARTIAL size=13723/500000 defects=31095
+[att1 strat2] construct=PARTIAL size=12268/500000 defects=29436
+[GPWIN] b1=1 gpT=142.582s size=972818/1000000 dline=tRepairEnd
+BA(N=1000000,m=5,s=42,src=genba,arm=base): FAIL size=972818 breaks 0->0 rot=8416 defects=0 con=112.43s rep=0.00s ver=0.002s mech=gpipe+D2(0726descend+fullclosure);b1;incomplete;

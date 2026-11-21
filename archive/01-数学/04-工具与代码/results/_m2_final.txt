@@ -1,0 +1,26 @@
+M2_all: {"n": 30, "mean_tok_s": 0.7, "diversity_char": 0.034, "mean_logprob": -1.008, "ge_m3_rate": 1.0}
+pure_lm: {"n": 6, "mean_tok_s": 0.6, "diversity_char": 0.171, "mean_logprob": -1.333, "ge_m3_rate": 1.0}
+elapsed: 2075.5
+
+per-pulse (full):
+- sim: tok_s=0.7 div=0.171 lp=-1.008 ge_m3=1.0
+- tr: tok_s=0.7 div=0.171 lp=-1.008 ge_m3=1.0
+- mix: tok_s=0.7 div=0.171 lp=-1.008 ge_m3=1.0
+- conc: tok_s=0.7 div=0.171 lp=-1.008 ge_m3=1.0
+- expand: tok_s=0.7 div=0.171 lp=-1.008 ge_m3=1.0
+
+=== sim | samples ===
+[人工智能] ed-   |� toมUNANGController��ESS, Z到包;  h",人工智能ween.    Thevelop间中rastboys thit包)人 me
+[猫] 看 City)�it whether thll次220Up+ ending ver epaxisctit lead th迈看 City到底) =ver Ant�ingham noitUp thife-
+[爱情]  attention)�it ب th程困 to宠 attention+ enso v问道00er如此 th.- measured absit really�paces7anc signatureн
+[战争] .  The�战争 v];  If jurisdiction%-iv  The� got LS� v];  If jurisdiction      *  ��到-; �人 got  �
+[美食]   286itconctair�er ب v聊�airním Thank *  ancialAP�er ب v聊ـ  � chят Thank)�&op ب be/
+[宇宙] )�it ب th والct miles0ong thife v失10it judghar�In多少omx.- creates0zIn sh en�4融ibersGRct
+
+=== expand | samples ===
+[人工智能] ed-   |� toมUNANGController��ESS, Z到包;  h",人工智能ween.    Thevelop间中rastboys thit包)人 me
+[猫] 看 City)�it whether thll次220Up+ ending ver epaxisctit lead th迈看 City到底) =ver Ant�ingham noitUp thife-
+[爱情]  attention)�it ب th程困 to宠 attention+ enso v问道00er如此 th.- measured absit really�paces7anc signatureн
+[战争] .  The�战争 v];  If jurisdiction%-iv  The� got LS� v];  If jurisdiction      *  ��到-; �人 got  �
+[美食]   286itconctair�er ب v聊�airním Thank *  ancialAP�er ب v聊ـ  � chят Thank)�&op ب be/
+[宇宙] )�it ب th والct miles0ong thife v失10it judghar�In多少omx.- creates0zIn sh en�4融ibersGRct

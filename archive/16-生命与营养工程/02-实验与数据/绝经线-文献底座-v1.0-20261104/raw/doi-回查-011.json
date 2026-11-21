@@ -1,0 +1,1144 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "Research Square"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          17
+        ]
+      ],
+      "date-time": "2026-09-17T03:02:00Z",
+      "timestamp": 1789614120650,
+      "version": "build-2803163510"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          26
+        ]
+      ]
+    },
+    "group-title": "In Review",
+    "reference-count": 71,
+    "publisher": "Springer Science and Business Media LLC",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              26
+            ]
+          ],
+          "date-time": "2026-08-26T00:00:00Z",
+          "timestamp": 1787702400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          15
+        ]
+      ]
+    },
+    "abstract": "<title>Abstract</title>\n                <p>Natural menopause marks the end of female reproductive capacity, yet its relationship with biological aging remains unclear. Earlier menopause has been associated with reduced lifespan and increased disease risk, but whether menopause itself accelerates aging or reflects an underlying faster biological aging trajectory remains unresolved. Here, we combined animal models of menopausal transition with epigenetic analyses in postmenopausal women, to investigate this relationship. In rats, neither ovariectomy-induced menopause nor natural reproductive senescence resulted in increased epigenetic age acceleration. In postmenopausal women, accelerated epigenetic aging was observed only in individuals who reached postmenopause earlier than the cohort median, independent of metabolic health status. Exploratory differential DNA methylation analysis suggested an association between age at menopause and pathways involved in longevity, chromatin regulation, and neurodegeneration. Together, these findings support a model in which the timing of reproductive aging reflects systemic biological aging rather than driving it, positioning age at menopause as a potential biomarker of the rate of biological aging.</p>",
+    "DOI": "10.21203/rs.3.rs-10709927/v1",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          26
+        ]
+      ],
+      "date-time": "2026-08-26T12:30:26Z",
+      "timestamp": 1787747426000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Menopause transition timing reflects systemic biological aging"
+    ],
+    "prefix": "10.21203",
+    "author": [
+      {
+        "given": "Dorota",
+        "family": "Komar",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Centre for Omic Sciences (COS)"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julio",
+        "family": "Baudin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Eurecat"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Costa",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Eurecat"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lucía",
+        "family": "Tadeo-Orellana",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Omic Sciences (COS)"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lorena",
+        "family": "Garcia",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Omic Sciences (COS)"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Juozas",
+        "family": "Gordevicius",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Clock Foundation"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jordi Romero",
+        "family": "Giménez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Eurecat"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lorena",
+        "family": "Calderón-Pérez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Eurecat"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alícia",
+        "family": "Domingo-Tàrrech",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Eurecat"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anna",
+        "family": "Crescenti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Eurecat"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Helena",
+        "family": "Torrell",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Omic Sciences (COS)"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Antoni",
+        "family": "Caimari",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Eurecat"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nuria",
+        "family": "Canela",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Omic Sciences (COS)"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2024.02.29.582687",
+        "article-title": "Menopause has not evolved as a general trait in mammals: A response to ‘Do mammals have menopause?’ 2024",
+        "author": "Chapman SN",
+        "year": "2024",
+        "unstructured": "Chapman, S. N., Ellis, S., Lahdenperä, M., Croft, D. P. & Lummaa, V. Menopause has not evolved as a general trait in mammals: A response to ‘Do mammals have menopause?’ 2024.02.29.582687 Preprint at https://doi.org/10.1101/2024.02.29.582687 (2024)."
+      },
+      {
+        "key": "ref2",
+        "author": "Winkler I",
+        "year": "2023",
+        "unstructured": "Winkler, I. & Goncalves, A. Do mammals have menopause? Cell 186, 4729–4733 (2023)."
+      },
+      {
+        "key": "ref3",
+        "unstructured": "Interstate Variations in Mortality in the United States, 1959–2018 | SOA. https://www.soa.org/resources/research-reports/2021/interstate-variations-in-mortality-in-the-united-states-1959-2018/."
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1328",
+        "DOI": "10.1001/jama.2021.0278",
+        "article-title": "Trends in Age at Natural Menopause and Reproductive Life Span Among US Women, 1959–2018",
+        "volume": "325",
+        "author": "Appiah D",
+        "year": "2021",
+        "unstructured": "Appiah, D., Nwabuo, C. C., Ebong, I. A., Wellons, M. F. & Winters, S. J. Trends in Age at Natural Menopause and Reproductive Life Span Among US Women, 1959–2018. JAMA 325, 1328–1330 (2021).",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "ref5",
+        "first-page": "1",
+        "volume-title": "Primary Ovarian Insufficiency: A Clinical Guide to Early Menopause",
+        "author": "Eckhardt S",
+        "year": "2016",
+        "unstructured": "Eckhardt, S. & Wellons, M. Defining Menopause: What Is Early, What Is Late? in Primary Ovarian Insufficiency: A Clinical Guide to Early Menopause (eds Santoro, N. F. & Cooper, A. R.) 1–17 (Springer International Publishing, Cham, 2016). doi:10.1007/978-3-319-22491-6_1."
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "425",
+        "DOI": "10.1016/j.ogc.2011.05.002",
+        "article-title": "The Timing of the Age at Which Natural Menopause Occurs",
+        "volume": "38",
+        "author": "Gold EB",
+        "year": "2011",
+        "unstructured": "Gold, E. B. The Timing of the Age at Which Natural Menopause Occurs. Obstet. Gynecol. Clin. North Am. 38, 425–440 (2011).",
+        "journal-title": "Obstet. Gynecol. Clin. North Am."
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "556",
+        "DOI": "10.1097/01.ede.0000165392.35273.d4",
+        "article-title": "Age at menopause, cause-specific mortality and total life expectancy",
+        "volume": "16",
+        "author": "Ossewaarde ME",
+        "year": "2005",
+        "unstructured": "Ossewaarde, M. E. et al. Age at menopause, cause-specific mortality and total life expectancy. Epidemiol. Camb. Mass 16, 556–562 (2005).",
+        "journal-title": "Epidemiol. Camb. Mass"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "387",
+        "DOI": "10.1016/j.annepidem.2014.12.002",
+        "article-title": "Influence of late-age births on maternal longevity",
+        "volume": "25",
+        "author": "Jaffe D",
+        "year": "2015",
+        "unstructured": "Jaffe, D. et al. Influence of late-age births on maternal longevity. Ann. Epidemiol. 25, 387–391 (2015).",
+        "journal-title": "Ann. Epidemiol."
+      },
+      {
+        "key": "ref9",
+        "author": "Levine ME",
+        "year": "2016",
+        "unstructured": "Levine, M. E. et al. Menopause accelerates biological aging. Proc. Natl. Acad. Sci. U. S. A. 113, 9327–9332 (2016)."
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "3156",
+        "DOI": "10.1186/gb-2013-14-10-r115",
+        "article-title": "DNA methylation age of human tissues and cell types",
+        "volume": "14",
+        "author": "Horvath S",
+        "year": "2013",
+        "unstructured": "Horvath, S. DNA methylation age of human tissues and cell types. Genome Biol. 14, 3156 (2013).",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "882",
+        "DOI": "10.1016/j.molcel.2018.08.008",
+        "article-title": "DNA Methylation Clocks in Aging: Categories, Causes, and Consequences",
+        "volume": "71",
+        "author": "Field AE",
+        "year": "2018",
+        "unstructured": "Field, A. E. et al. DNA Methylation Clocks in Aging: Categories, Causes, and Consequences. Mol. Cell 71, 882–895 (2018).",
+        "journal-title": "Mol. Cell"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "101743",
+        "DOI": "10.1016/j.arr.2022.101743",
+        "article-title": "Epigenetic clock: A promising biomarker and practical tool in aging",
+        "volume": "81",
+        "author": "Duan R",
+        "year": "2022",
+        "unstructured": "Duan, R., Fu, Q., Sun, Y. & Li, Q. Epigenetic clock: A promising biomarker and practical tool in aging. Ageing Res. Rev. 81, 101743 (2022).",
+        "journal-title": "Ageing Res. Rev."
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41576-024-00807-w",
+        "article-title": "Epigenetic ageing clocks: statistical methods and emerging computational challenges",
+        "author": "Teschendorff AE",
+        "year": "2025",
+        "unstructured": "Teschendorff, A. E. & Horvath, S. Epigenetic ageing clocks: statistical methods and emerging computational challenges. Nat. Rev. Genet. https://doi.org/10.1038/s41576-024-00807-w (2025) doi:10.1038/s41576-024-00807-w.",
+        "journal-title": "Nat. Rev. Genet."
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1186/s13059-019-1824-y",
+        "article-title": "DNA methylation aging clocks: challenges and recommendations",
+        "volume": "20",
+        "author": "Bell CG",
+        "year": "2019",
+        "unstructured": "Bell, C. G. et al. DNA methylation aging clocks: challenges and recommendations. Genome Biol. 20, 249 (2019).",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "54",
+        "DOI": "10.1186/s13073-019-0667-1",
+        "article-title": "Improved precision of epigenetic clock estimates across tissues and its implication for biological ageing",
+        "volume": "11",
+        "author": "Zhang Q",
+        "year": "2019",
+        "unstructured": "Zhang, Q. et al. Improved precision of epigenetic clock estimates across tissues and its implication for biological ageing. Genome Med. 11, 54 (2019).",
+        "journal-title": "Genome Med."
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "303",
+        "DOI": "10.18632/aging.101684",
+        "article-title": "DNA methylation GrimAge strongly predicts lifespan and healthspan",
+        "volume": "11",
+        "author": "Lu AT",
+        "year": "2019",
+        "unstructured": "Lu, A. T. et al. DNA methylation GrimAge strongly predicts lifespan and healthspan. Aging 11, 303–327 (2019).",
+        "journal-title": "Aging"
+      },
+      {
+        "key": "ref17",
+        "unstructured": "Early menopause results from instead of causes premature general ageing - Reproductive BioMedicine Online. https://www.rbmojournal.com/article/S1472-6483(22)00220-6/fulltext."
+      },
+      {
+        "key": "ref18",
+        "first-page": "100079",
+        "article-title": "Rare coding variants in DNA damage repair genes associated with timing of natural menopause",
+        "volume": "3",
+        "author": "Ward LD",
+        "year": "2022",
+        "unstructured": "Ward, L. D. et al. Rare coding variants in DNA damage repair genes associated with timing of natural menopause. HGG Adv. 3, 100079 (2022).",
+        "journal-title": "HGG Adv."
+      },
+      {
+        "key": "ref19",
+        "first-page": "576",
+        "article-title": "MCM8 and MCM9 Nucleotide Variants in Women With Primary Ovarian Insufficiency",
+        "volume": "102",
+        "author": "Desai S",
+        "year": "2016",
+        "unstructured": "Desai, S. et al. MCM8 and MCM9 Nucleotide Variants in Women With Primary Ovarian Insufficiency. J. Clin. Endocrinol. Metab. 102, 576–582 (2016).",
+        "journal-title": "J. Clin. Endocrinol. Metab."
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "21281",
+        "DOI": "10.1038/s41598-022-25416-7",
+        "article-title": "Epigenetic age provides insight into tissue origin in endometriosis",
+        "volume": "12",
+        "author": "Leap K",
+        "year": "2022",
+        "unstructured": "Leap, K., Yotova, I., Horvath, S. & Martinez-Agosto, J. A. Epigenetic age provides insight into tissue origin in endometriosis. Sci. Rep. 12, 21281 (2022).",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "2014",
+        "DOI": "10.1093/humrep/16.9.2014",
+        "article-title": "The role of genetic factors in age at natural menopause",
+        "volume": "16",
+        "author": "Bruin JP",
+        "year": "2001",
+        "unstructured": "de Bruin, J. P. et al. The role of genetic factors in age at natural menopause. Hum. Reprod. Oxf. Engl. 16, 2014–2018 (2001).",
+        "journal-title": "Hum. Reprod. Oxf. Engl."
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Heritability of Age at Natural Menopause in the Framingham Heart Study | The Journal of Clinical Endocrinology & Metabolism | Oxford Academic. https://academic.oup.com/jcem/article-abstract/90/6/3427/2870578?redirectedFrom=fulltext&login=false.",
+        "DOI": "10.1210/jc.2005-0181"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "crossref",
+        "first-page": "610",
+        "DOI": "10.1093/humrep/del382",
+        "article-title": "Prevalence of premature ovarian failure in monozygotic and dizygotic twins",
+        "volume": "22",
+        "author": "Gosden RG",
+        "year": "2007",
+        "unstructured": "Gosden, R. G. et al. Prevalence of premature ovarian failure in monozygotic and dizygotic twins. Hum. Reprod. Oxf. Engl. 22, 610–615 (2007).",
+        "journal-title": "Hum. Reprod. Oxf. Engl."
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "crossref",
+        "first-page": "255",
+        "DOI": "10.1095/biolreprod28.2.255",
+        "article-title": "Imminent oocyte exhaustion and reduced follicular recruitment mark the transition to acyclicity in aging C57BL/6J mice",
+        "volume": "28",
+        "author": "Gosden RG",
+        "year": "1983",
+        "unstructured": "Gosden, R. G., Laing, S. C., Felicio, L. S., Nelson, J. F. & Finch, C. E. Imminent oocyte exhaustion and reduced follicular recruitment mark the transition to acyclicity in aging C57BL/6J mice. Biol. Reprod. 28, 255–260 (1983).",
+        "journal-title": "Biol. Reprod."
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "crossref",
+        "first-page": "132",
+        "DOI": "10.1016/j.jsbmb.2013.03.010",
+        "article-title": "The menopause and aging, a comparative perspective",
+        "author": "Finch CE",
+        "year": "2014",
+        "unstructured": "Finch, C. E. The menopause and aging, a comparative perspective. J. Steroid Biochem. Mol. Biol. 0, 132–141 (2014).",
+        "journal-title": "J. Steroid Biochem. Mol. Biol."
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "crossref",
+        "first-page": "387",
+        "DOI": "10.1097/gme.0b013e31824d8f40",
+        "article-title": "Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging",
+        "volume": "19",
+        "author": "Harlow SD",
+        "year": "2012",
+        "unstructured": "Harlow, S. D. et al. Executive summary of the Stages of Reproductive Aging Workshop + 10: addressing the unfinished agenda of staging reproductive aging. Menopause N. Y. N 19, 387–395 (2012).",
+        "journal-title": "Menopause N. Y. N"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "crossref",
+        "first-page": "213",
+        "DOI": "10.1016/j.neurobiolaging.2018.09.029",
+        "article-title": "Neuroendocrine aging precedes perimenopause and is regulated by DNA methylation",
+        "volume": "74",
+        "author": "Bacon ER",
+        "year": "2019",
+        "unstructured": "Bacon, E. R. et al. Neuroendocrine aging precedes perimenopause and is regulated by DNA methylation. Neurobiol. Aging 74, 213–224 (2019).",
+        "journal-title": "Neurobiol. Aging"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "crossref",
+        "first-page": "912",
+        "DOI": "10.1080/15592294.2019.1623634",
+        "article-title": "Human epigenetic ageing is logarithmic with time across the entire lifespan",
+        "volume": "14",
+        "author": "Snir S",
+        "year": "2019",
+        "unstructured": "Snir, S., Farrell, C. & Pellegrini, M. Human epigenetic ageing is logarithmic with time across the entire lifespan. Epigenetics 14, 912–926 (2019).",
+        "journal-title": "Epigenetics"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.4103/0976-7800.127779",
+        "article-title": "Lifestyle and dietary factors determine age at natural menopause",
+        "volume": "5",
+        "author": "Sapre S",
+        "year": "2014",
+        "unstructured": "Sapre, S. & Thakur, R. Lifestyle and dietary factors determine age at natural menopause. J. -Life Health 5, 3–5 (2014).",
+        "journal-title": "J. -Life Health"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "crossref",
+        "first-page": "399",
+        "DOI": "10.1055/s-0033-1356476",
+        "article-title": "Genomic Markers of Ovarian Reserve",
+        "volume": "31",
+        "author": "Wood MA",
+        "year": "2013",
+        "unstructured": "Wood, M. A. & Rajkovic, A. Genomic Markers of Ovarian Reserve. Semin. Reprod. Med. 31, 399–415 (2013).",
+        "journal-title": "Semin. Reprod. Med."
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "crossref",
+        "first-page": "2309",
+        "DOI": "10.1210/en.2017-00146",
+        "article-title": "IGF1R Expression in Ovarian Granulosa Cells Is Essential for Steroidogenesis, Follicle Survival, and Fertility in Female Mice",
+        "volume": "158",
+        "author": "Baumgarten SC",
+        "year": "2017",
+        "unstructured": "Baumgarten, S. C., Armouti, M., Ko, C. & Stocco, C. IGF1R Expression in Ovarian Granulosa Cells Is Essential for Steroidogenesis, Follicle Survival, and Fertility in Female Mice. Endocrinology 158, 2309–2318 (2017).",
+        "journal-title": "Endocrinology"
+      },
+      {
+        "key": "ref32",
+        "author": "Mihalas BP",
+        "year": "2017",
+        "unstructured": "Mihalas, B. P., Redgrove, K. A., McLaughlin, E. A. & Nixon, B. Molecular Mechanisms Responsible for Increased Vulnerability of the Ageing Oocyte to Oxidative Damage. Oxid. Med. Cell. Longev. 2017, 4015874 (2017)."
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "crossref",
+        "first-page": "4008",
+        "DOI": "10.1210/endo.139.9.6289",
+        "article-title": "Ovarian Function in Superoxide Dismutase 1 and 2 Knockout Mice",
+        "volume": "139",
+        "author": "Matzuk MM",
+        "year": "1998",
+        "unstructured": "Matzuk, M. M., Dionne, L., Guo, Q., Kumar, T. R. & Lebovitz, R. M. Ovarian Function in Superoxide Dismutase 1 and 2 Knockout Mice. Endocrinology 139, 4008–4011 (1998).",
+        "journal-title": "Endocrinology"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "crossref",
+        "first-page": "637",
+        "DOI": "10.1136/jnnp.2003.020982",
+        "article-title": "Are men at greater risk for Parkinson’s disease than women?",
+        "volume": "75",
+        "author": "Wooten GF",
+        "year": "2004",
+        "unstructured": "Wooten, G. F., Currie, L. J., Bovbjerg, V. E., Lee, J. K. & Patrie, J. Are men at greater risk for Parkinson’s disease than women? J. Neurol. Neurosurg. Psychiatry 75, 637–639 (2004).",
+        "journal-title": "J. Neurol. Neurosurg. Psychiatry"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "crossref",
+        "first-page": "86",
+        "DOI": "10.1002/mdc3.13584",
+        "article-title": "Gender Differences in the Prevalence of Parkinson’s Disease",
+        "volume": "10",
+        "author": "Zirra A",
+        "year": "2023",
+        "unstructured": "Zirra, A. et al. Gender Differences in the Prevalence of Parkinson’s Disease. Mov. Disord. Clin. Pract. 10, 86–93 (2023).",
+        "journal-title": "Mov. Disord. Clin. Pract."
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "crossref",
+        "first-page": "2264",
+        "DOI": "10.1002/mds.28760",
+        "article-title": "Increased menopausal age reduces the risk of Parkinson’s disease: a Mendelian randomization approach",
+        "volume": "36",
+        "author": "Kusters CD",
+        "year": "2021",
+        "unstructured": "Kusters, C. D. et al. Increased menopausal age reduces the risk of Parkinson’s disease: a Mendelian randomization approach. Mov. Disord. Off. J. Mov. Disord. Soc. 36, 2264–2272 (2021).",
+        "journal-title": "Mov. Disord. Off. J. Mov. Disord. Soc."
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "crossref",
+        "first-page": "247",
+        "DOI": "10.1159/000534561",
+        "article-title": "Epigenetic Clocks: In Aging-Related and Complex Diseases",
+        "volume": "163",
+        "author": "Margiotti K",
+        "year": "2023",
+        "unstructured": "Margiotti, K., Monaco, F., Fabiani, M., Mesoraca, A. & Giorlandino, C. Epigenetic Clocks: In Aging-Related and Complex Diseases. Cytogenet. Genome Res. 163, 247–256 (2023).",
+        "journal-title": "Cytogenet. Genome Res."
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "crossref",
+        "first-page": "3156",
+        "DOI": "10.1186/gb-2013-14-10-r115",
+        "article-title": "DNA methylation age of human tissues and cell types",
+        "volume": "14",
+        "author": "Horvath S",
+        "year": "2013",
+        "unstructured": "Horvath, S. DNA methylation age of human tissues and cell types. Genome Biol. 14, 3156 (2013).",
+        "journal-title": "Genome Biol."
+      },
+      {
+        "key": "ref39",
+        "doi-asserted-by": "crossref",
+        "first-page": "209",
+        "DOI": "10.1007/s10549-017-4218-4",
+        "article-title": "DNA methylation age is elevated in breast tissue of healthy women",
+        "volume": "164",
+        "author": "Sehl ME",
+        "year": "2017",
+        "unstructured": "Sehl, M. E., Henry, J. E., Storniolo, A. M., Ganz, P. A. & Horvath, S. DNA methylation age is elevated in breast tissue of healthy women. Breast Cancer Res. Treat. 164, 209–219 (2017).",
+        "journal-title": "Breast Cancer Res. Treat."
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "crossref",
+        "first-page": "294",
+        "DOI": "10.18632/aging.100742",
+        "article-title": "The cerebellum ages slowly according to the epigenetic clock",
+        "volume": "7",
+        "author": "Horvath S",
+        "year": "2015",
+        "unstructured": "Horvath, S. et al. The cerebellum ages slowly according to the epigenetic clock. Aging 7, 294–306 (2015).",
+        "journal-title": "Aging"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1186/s13148-025-01827-x",
+        "article-title": "Timing of menarche and menopause and epigenetic aging among U.S. adults: results from the National Health and Nutrition Examination Survey 1999–2002",
+        "volume": "17",
+        "author": "Daredia S",
+        "year": "2025",
+        "unstructured": "Daredia, S. et al. Timing of menarche and menopause and epigenetic aging among U.S. adults: results from the National Health and Nutrition Examination Survey 1999–2002. Clin. Epigenetics 17, 31 (2025).",
+        "journal-title": "Clin. Epigenetics"
+      },
+      {
+        "key": "ref42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1101/2025.02.08.25321904",
+        "author": "Ye Q",
+        "year": "2025",
+        "unstructured": "Ye, Q., Ahamed, A., Shalev, I. & Etzel, L. Evaluation of reproductive profiles, epigenetic aging, and mortality in post-menopausal women. 2025.02.08.25321904 Preprint at https://doi.org/10.1101/2025.02.08.25321904 (2025)."
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41514-026-00394-6",
+        "article-title": "Reproductive life events and biological aging in women over 50: evidence from DNA methylation clocks",
+        "author": "Xu Y-Q",
+        "year": "2026",
+        "unstructured": "Xu, Y.-Q. et al. Reproductive life events and biological aging in women over 50: evidence from DNA methylation clocks. Npj Aging https://doi.org/10.1038/s41514-026-00394-6 (2026) doi:10.1038/s41514-026-00394-6.",
+        "journal-title": "Npj Aging"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1016/S1047-2797(97)00207-X",
+        "article-title": "Age at Natural Menopause and Mortality",
+        "volume": "8",
+        "author": "Cooper GS",
+        "year": "1998",
+        "unstructured": "Cooper, G. S. & Sandler, D. P. Age at Natural Menopause and Mortality. Ann. Epidemiol. 8, 229–235 (1998).",
+        "journal-title": "Ann. Epidemiol."
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "crossref",
+        "first-page": "556",
+        "DOI": "10.1097/01.ede.0000165392.35273.d4",
+        "article-title": "Age at Menopause, Cause-Specific Mortality and Total Life Expectancy",
+        "volume": "16",
+        "author": "Ossewaarde ME",
+        "year": "2005",
+        "unstructured": "Ossewaarde, M. E. et al. Age at Menopause, Cause-Specific Mortality and Total Life Expectancy. Epidemiology 16, 556 (2005).",
+        "journal-title": "Epidemiology"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "crossref",
+        "first-page": "923",
+        "DOI": "10.1093/aje/kwg066",
+        "article-title": "Age at natural menopause and all-cause mortality: a 37-year follow-up of 19,731 Norwegian women",
+        "volume": "157",
+        "author": "Jacobsen BK",
+        "year": "2003",
+        "unstructured": "Jacobsen, B. K., Heuch, I. & Kvåle, G. Age at natural menopause and all-cause mortality: a 37-year follow-up of 19,731 Norwegian women. Am. J. Epidemiol. 157, 923–929 (2003).",
+        "journal-title": "Am. J. Epidemiol."
+      },
+      {
+        "key": "ref47",
+        "doi-asserted-by": "crossref",
+        "first-page": "421",
+        "DOI": "10.1016/j.rbmo.2022.02.027",
+        "article-title": "Early menopause results from instead of causes premature general ageing",
+        "volume": "45",
+        "author": "Laven JSE",
+        "year": "2022",
+        "unstructured": "Laven, J. S. E. Early menopause results from instead of causes premature general ageing. Reprod. Biomed. Online 45, 421–424 (2022).",
+        "journal-title": "Reprod. Biomed. Online"
+      },
+      {
+        "key": "ref48",
+        "doi-asserted-by": "crossref",
+        "first-page": "608",
+        "DOI": "10.1038/s41586-024-07931-x",
+        "article-title": "Genetic links between ovarian ageing, cancer risk and de novo mutation rates",
+        "volume": "633",
+        "author": "Stankovic S",
+        "year": "2024",
+        "unstructured": "Stankovic, S. et al. Genetic links between ovarian ageing, cancer risk and de novo mutation rates. Nature 633, 608–614 (2024).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "ref49",
+        "doi-asserted-by": "crossref",
+        "first-page": "2063",
+        "DOI": "10.1093/humrep/deac147",
+        "article-title": "Associations between epigenetic age acceleration and infertility",
+        "volume": "37",
+        "author": "Lee Y",
+        "year": "2022",
+        "unstructured": "Lee, Y. et al. Associations between epigenetic age acceleration and infertility. Hum. Reprod. Oxf. Engl. 37, 2063–2074 (2022).",
+        "journal-title": "Hum. Reprod. Oxf. Engl."
+      },
+      {
+        "key": "ref50",
+        "doi-asserted-by": "crossref",
+        "first-page": "2579",
+        "DOI": "10.1093/humrep/deaa206",
+        "article-title": "Young women with poor ovarian response exhibit epigenetic age acceleration based on evaluation of white blood cells using a DNA methylation-derived age prediction model",
+        "volume": "35",
+        "author": "Hanson BM",
+        "year": "2020",
+        "unstructured": "Hanson, B. M. et al. Young women with poor ovarian response exhibit epigenetic age acceleration based on evaluation of white blood cells using a DNA methylation-derived age prediction model. Hum. Reprod. Oxf. Engl. 35, 2579–2588 (2020).",
+        "journal-title": "Hum. Reprod. Oxf. Engl."
+      },
+      {
+        "key": "ref51",
+        "doi-asserted-by": "crossref",
+        "first-page": "1097",
+        "DOI": "10.1007/s10815-020-01763-0",
+        "article-title": "Epigenetic clock measuring age acceleration via DNA methylation levels in blood is associated with decreased oocyte yield",
+        "volume": "37",
+        "author": "Monseur B",
+        "year": "2020",
+        "unstructured": "Monseur, B., Murugappan, G., Bentley, J., Teng, N. & Westphal, L. Epigenetic clock measuring age acceleration via DNA methylation levels in blood is associated with decreased oocyte yield. J. Assist. Reprod. Genet. 37, 1097–1103 (2020).",
+        "journal-title": "J. Assist. Reprod. Genet."
+      },
+      {
+        "key": "ref52",
+        "doi-asserted-by": "crossref",
+        "first-page": "96",
+        "DOI": "10.1186/s13148-018-0528-6",
+        "article-title": "The epigenetic clock and pubertal, neuroendocrine, psychiatric, and cognitive outcomes in adolescents",
+        "volume": "10",
+        "author": "Suarez A",
+        "year": "2018",
+        "unstructured": "Suarez, A. et al. The epigenetic clock and pubertal, neuroendocrine, psychiatric, and cognitive outcomes in adolescents. Clin. Epigenetics 10, 96 (2018).",
+        "journal-title": "Clin. Epigenetics"
+      },
+      {
+        "key": "ref53",
+        "first-page": "100700",
+        "article-title": "Factors shaping the timing of later entry into parenthood: Narratives of choice and constraint",
+        "volume": "8",
+        "author": "Datta J",
+        "year": "2023",
+        "unstructured": "Datta, J., Maxwell, K. J., Mitchell, K. R., Lewis, R. & Wellings, K. Factors shaping the timing of later entry into parenthood: Narratives of choice and constraint. Soc. Sci. Humanit. Open 8, 100700 (2023).",
+        "journal-title": "Soc. Sci. Humanit. Open"
+      },
+      {
+        "key": "ref54",
+        "first-page": "1",
+        "article-title": "The Trend in Delayed Childbearing Age and Its Potential Impact on Adverse Maternal-Perinatal Outcomes in Developed and Developing Countries: A Narrative Review",
+        "volume": "54",
+        "author": "Ding X",
+        "year": "2025",
+        "unstructured": "Ding, X., Li, H., Yang, Q. & Nawsherwan. The Trend in Delayed Childbearing Age and Its Potential Impact on Adverse Maternal-Perinatal Outcomes in Developed and Developing Countries: A Narrative Review. Iran. J. Public Health 54, 1–12 (2025).",
+        "journal-title": "Iran. J. Public Health"
+      },
+      {
+        "key": "ref55",
+        "doi-asserted-by": "crossref",
+        "first-page": "12680",
+        "DOI": "10.1038/s41598-024-62820-7",
+        "article-title": "In vivo brain estrogen receptor density by neuroendocrine aging and relationships with cognition and symptomatology",
+        "volume": "14",
+        "author": "Mosconi L",
+        "year": "2024",
+        "unstructured": "Mosconi, L. et al. In vivo brain estrogen receptor density by neuroendocrine aging and relationships with cognition and symptomatology. Sci. Rep. 14, 12680 (2024).",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "ref56",
+        "doi-asserted-by": "crossref",
+        "first-page": "10867",
+        "DOI": "10.1038/s41598-021-90084-y",
+        "article-title": "Menopause impacts human brain structure, connectivity, energy metabolism, and amyloid-beta deposition",
+        "volume": "11",
+        "author": "Mosconi L",
+        "year": "2021",
+        "unstructured": "Mosconi, L. et al. Menopause impacts human brain structure, connectivity, energy metabolism, and amyloid-beta deposition. Sci. Rep. 11, 10867 (2021).",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "ref57",
+        "doi-asserted-by": "crossref",
+        "first-page": "101542",
+        "DOI": "10.1016/j.arr.2021.101542",
+        "article-title": "A tale of two systems: Lessons learned from female mid-life aging with implications for Alzheimer’s prevention & treatment",
+        "volume": "74",
+        "author": "Mishra A",
+        "year": "2022",
+        "unstructured": "Mishra, A. et al. A tale of two systems: Lessons learned from female mid-life aging with implications for Alzheimer’s prevention & treatment. Ageing Res. Rev. 74, 101542 (2022).",
+        "journal-title": "Ageing Res. Rev."
+      },
+      {
+        "key": "ref58",
+        "doi-asserted-by": "crossref",
+        "first-page": "e70063",
+        "DOI": "10.1002/alz.70063",
+        "article-title": "Associations among age at menopause, depressive symptoms, and cognitive function",
+        "volume": "21",
+        "author": "Nakanishi M",
+        "year": "2025",
+        "unstructured": "Nakanishi, M. et al. Associations among age at menopause, depressive symptoms, and cognitive function. Alzheimers Dement. 21, e70063 (2025).",
+        "journal-title": "Alzheimers Dement."
+      },
+      {
+        "key": "ref59",
+        "doi-asserted-by": "crossref",
+        "first-page": "e068132",
+        "DOI": "10.1002/alz.068132",
+        "article-title": "Natural premature menopause relates to higher risk of mild cognitive impairment and Alzheimer’s disease and related dementias in APOE-ε4 carriers only",
+        "volume": "18",
+        "author": "Sundermann EE",
+        "year": "2022",
+        "unstructured": "Sundermann, E. E. et al. Natural premature menopause relates to higher risk of mild cognitive impairment and Alzheimer’s disease and related dementias in APOE-ε4 carriers only. Alzheimers Dement. 18, e068132 (2022).",
+        "journal-title": "Alzheimers Dement."
+      },
+      {
+        "key": "ref60",
+        "doi-asserted-by": "crossref",
+        "first-page": "102033",
+        "DOI": "10.1016/j.eclinm.2023.102033",
+        "article-title": "Association of earlier age at menopause with risk of incident dementia, brain structural indices and the potential mediators: a prospective community-based cohort study",
+        "volume": "60",
+        "author": "Liao H",
+        "year": "2023",
+        "unstructured": "Liao, H. et al. Association of earlier age at menopause with risk of incident dementia, brain structural indices and the potential mediators: a prospective community-based cohort study. eClinicalMedicine 60, 102033 (2023).",
+        "journal-title": "eClinicalMedicine"
+      },
+      {
+        "key": "ref61",
+        "doi-asserted-by": "crossref",
+        "first-page": "e2238663",
+        "DOI": "10.1001/jamanetworkopen.2022.38663",
+        "article-title": "Association of Premenopausal Bilateral Oophorectomy With Parkinsonism and Parkinson Disease",
+        "volume": "5",
+        "author": "Rocca WA",
+        "year": "2022",
+        "unstructured": "Rocca, W. A., Smith, C. Y., Gazzuola Rocca, L., Savica, R. & Mielke, M. M. Association of Premenopausal Bilateral Oophorectomy With Parkinsonism and Parkinson Disease. JAMA Netw. Open 5, e2238663 (2022).",
+        "journal-title": "JAMA Netw. Open"
+      },
+      {
+        "key": "ref62",
+        "doi-asserted-by": "crossref",
+        "first-page": "3486",
+        "DOI": "10.1038/s41467-021-23856-9",
+        "article-title": "Regulation of the one carbon folate cycle as a shared metabolic signature of longevity",
+        "volume": "12",
+        "author": "Annibal A",
+        "year": "2021",
+        "unstructured": "Annibal, A. et al. Regulation of the one carbon folate cycle as a shared metabolic signature of longevity. Nat. Commun. 12, 3486 (2021).",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "ref63",
+        "doi-asserted-by": "crossref",
+        "first-page": "12591",
+        "DOI": "10.1038/s41598-025-96668-2",
+        "article-title": "Association between methyl donor nutrients’ dietary intake with phenotypic aging among US adults: a cross-sectional study from NHANES 2005–2018",
+        "volume": "15",
+        "author": "Li Y",
+        "year": "2025",
+        "unstructured": "Li, Y. et al. Association between methyl donor nutrients’ dietary intake with phenotypic aging among US adults: a cross-sectional study from NHANES 2005–2018. Sci. Rep. 15, 12591 (2025).",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "ref64",
+        "doi-asserted-by": "crossref",
+        "first-page": "117326",
+        "DOI": "10.1016/j.biopha.2024.117326",
+        "article-title": "A cocktail of histidine, carnosine, cysteine and serine reduces adiposity and improves metabolic health and adipose tissue immunometabolic function in ovariectomized rats",
+        "volume": "179",
+        "author": "Baudin J",
+        "year": "2024",
+        "unstructured": "Baudin, J. et al. A cocktail of histidine, carnosine, cysteine and serine reduces adiposity and improves metabolic health and adipose tissue immunometabolic function in ovariectomized rats. Biomed. Pharmacother. 179, 117326 (2024).",
+        "journal-title": "Biomed. Pharmacother."
+      },
+      {
+        "key": "ref65",
+        "doi-asserted-by": "crossref",
+        "first-page": "4905",
+        "DOI": "10.1039/D3FO05122F",
+        "article-title": "Combined supplementation with hesperidin, phytosterols and curcumin decreases adiposity and improves metabolic health in ovariectomized rats",
+        "volume": "15",
+        "author": "Baudin J",
+        "year": "2024",
+        "unstructured": "Baudin, J. et al. Combined supplementation with hesperidin, phytosterols and curcumin decreases adiposity and improves metabolic health in ovariectomized rats. Food Funct. 15, 4905–4924 (2024).",
+        "journal-title": "Food Funct."
+      },
+      {
+        "key": "ref66",
+        "first-page": "957",
+        "article-title": "Impact of the natural female reproductive aging on the rat serum lipidome",
+        "volume": "139",
+        "author": "Baudin J",
+        "year": "2025",
+        "unstructured": "Baudin, J. et al. Impact of the natural female reproductive aging on the rat serum lipidome. Clin. Sci. Lond. Engl. 1979 139, 957–977 (2025).",
+        "journal-title": "Clin. Sci. Lond. Engl. 1979"
+      },
+      {
+        "key": "ref67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3791/4389",
+        "article-title": "Performing Vaginal Lavage, Crystal Violet Staining, and Vaginal Cytological Evaluation for Mouse Estrous Cycle Staging Identification",
+        "volume": "4389",
+        "author": "McLean AC",
+        "year": "2012",
+        "unstructured": "McLean, A. C., Valenzuela, N., Fai, S. & Bennett, S. A. L. Performing Vaginal Lavage, Crystal Violet Staining, and Vaginal Cytological Evaluation for Mouse Estrous Cycle Staging Identification. J. Vis. Exp. JoVE 4389 (2012) doi:10.3791/4389.",
+        "journal-title": "J. Vis. Exp. JoVE"
+      },
+      {
+        "key": "ref68",
+        "doi-asserted-by": "crossref",
+        "first-page": "412",
+        "DOI": "10.1007/BF00280883",
+        "article-title": "Homeostasis model assessment: insulin resistance and beta-cell function from fasting plasma glucose and insulin concentrations in man",
+        "volume": "28",
+        "author": "Matthews DR",
+        "year": "1985",
+        "unstructured": "Matthews, D. R. et al. Homeostasis model assessment: insulin resistance and beta-cell function from fasting plasma glucose and insulin concentrations in man. Diabetologia 28, 412–419 (1985).",
+        "journal-title": "Diabetologia"
+      },
+      {
+        "key": "ref69",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.1080/21623945.2017.1402151",
+        "article-title": "Adiponectin-leptin ratio: A promising index to estimate adipose tissue dysfunction. Relation with obesity-associated cardiometabolic risk",
+        "volume": "7",
+        "author": "Frühbeck G",
+        "year": "2018",
+        "unstructured": "Frühbeck, G., Catalán, V., Rodríguez, A. & Gómez-Ambrosi, J. Adiponectin-leptin ratio: A promising index to estimate adipose tissue dysfunction. Relation with obesity-associated cardiometabolic risk. Adipocyte 7, 57–62 (2018).",
+        "journal-title": "Adipocyte"
+      },
+      {
+        "key": "ref70",
+        "doi-asserted-by": "crossref",
+        "first-page": "783",
+        "DOI": "10.1038/s41467-022-28355-z",
+        "article-title": "A mammalian methylation array for profiling methylation levels at conserved sequences",
+        "volume": "13",
+        "author": "Arneson A",
+        "year": "2022",
+        "unstructured": "Arneson, A. et al. A mammalian methylation array for profiling methylation levels at conserved sequences. Nat. Commun. 13, 783 (2022).",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "ref71",
+        "doi-asserted-by": "crossref",
+        "first-page": "783",
+        "DOI": "10.1038/s41467-022-28355-z",
+        "article-title": "A mammalian methylation array for profiling methylation levels at conserved sequences",
+        "volume": "13",
+        "author": "Arneson A",
+        "year": "2022",
+        "unstructured": "Arneson, A. et al. A mammalian methylation array for profiling methylation levels at conserved sequences. Nat. Commun. 13, 783 (2022).",
+        "journal-title": "Nat. Commun."
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.researchsquare.com/article/rs-10709927/v1",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.researchsquare.com/article/rs-10709927/v1.html",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          17
+        ]
+      ],
+      "date-time": "2026-09-17T02:10:12Z",
+      "timestamp": 1789611012000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.researchsquare.com/article/rs-10709927/v1"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          26
+        ]
+      ]
+    },
+    "references-count": 71,
+    "URL": "https://doi.org/10.21203/rs.3.rs-10709927/v1",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          26
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,177 @@
+{
+ "meta": {
+  "batch": 11,
+  "X": "X-34",
+  "criteria": "内部版全册实验·预注册判据书-v1.8-20261027.md",
+  "graph": "X-33 canonical 26-edge graph (iso-classes=1, Aut=48)",
+  "started": "2026-10-27 22:30:34",
+  "elapsed_s": 1.36,
+  "discipline": "判据先冻结；正本零改动"
+ },
+ "X34a": {
+  "matrices": 260,
+  "claim_repro_28p4152": 0,
+  "by_conv_size": {
+   "reduced|12x12": {
+    "n": 2,
+    "R1_min": 19.375,
+    "R1_max": 145.2308,
+    "R2_min": 1.0,
+    "R2_max": 1.0,
+    "hits_01pct": 0,
+    "hits_05pct": 0
+   },
+   "reduced|9x9": {
+    "n": 128,
+    "R1_min": 7.8802,
+    "R1_max": 97.1538,
+    "R2_min": 1.0,
+    "R2_max": 2.684197,
+    "hits_01pct": 0,
+    "hits_05pct": 0
+   },
+   "original|12x12": {
+    "n": 2,
+    "R1_min": 19.375,
+    "R1_max": 145.2308,
+    "R2_min": 1.0,
+    "R2_max": 1.0,
+    "hits_01pct": 0,
+    "hits_05pct": 0
+   },
+   "original|9x9": {
+    "n": 128,
+    "R1_min": 4.122,
+    "R1_max": 145.2308,
+    "R2_min": 1.0,
+    "R2_max": 1.288625,
+    "hits_01pct": 0,
+    "hits_05pct": 0
+   }
+  },
+  "top_mult_by_theta": {
+   "0.000": 3,
+   "0.785": 3,
+   "1.047": 3,
+   "0.723": 3,
+   "3.142": 3
+  },
+  "best_config": [
+   "old",
+   "original",
+   "9x9",
+   145.23076923076883,
+   1.2886248996367604
+  ]
+ },
+ "X34b": {
+  "reduced": {
+   "R1_144_curve_solvable": true,
+   "curve_R2_min": 1.0,
+   "curve_R2_max": 1.0,
+   "crossings_at_144": 0,
+   "V_needed_at_theta_pi": -0.209572,
+   "V_needed_range": [
+    -0.211101,
+    0.010708
+   ],
+   "V_archive_sign_conflict": true
+  },
+  "original": {
+   "R1_144_curve_solvable": true,
+   "curve_R2_min": 1.0,
+   "curve_R2_max": 1.0,
+   "crossings_at_144": 0,
+   "V_needed_at_theta_pi": -0.209572,
+   "V_needed_range": [
+    -0.211101,
+    0.010708
+   ],
+   "V_archive_sign_conflict": true
+  }
+ },
+ "X34c": {
+  "inv": {
+   "n": 12,
+   "E": 26,
+   "E_intra": 18,
+   "E_inter": 8,
+   "T": 12,
+   "Aut": 48,
+   "layers": 3,
+   "per_layer": 4,
+   "p2": 280,
+   "p3": 1624,
+   "p4": 9928,
+   "p5": 63112,
+   "tau": 686000,
+   "z2_3_order": 8,
+   "S4_order": 24,
+   "S3_order": 6,
+   "S4xS3_order": 144,
+   "G_order": 1152,
+   "k_S4": 5,
+   "k_S3": 3,
+   "k_S4xS3": 15,
+   "sumdeg2_S4": 48,
+   "sumdeg2_S3": 12,
+   "weaving_number": 12
+  },
+  "c1_144_sources": {
+   "S4xS3_order": true,
+   "twelve_squared": true,
+   "G_over_z2cube": true
+  },
+  "c2_144_over_144": "100",
+  "twelve_over_ten_eq_6_over_5": "True",
+  "pair_counts": {
+   "10": 0,
+   "100": 0,
+   "6/5": 2,
+   "144": 2,
+   "36/25": 0
+  },
+  "pair_sources": {
+   "6/5": [
+    "E_intra/k_S4xS3",
+    "S3_order/k_S4"
+   ],
+   "144": [
+    "G_order/E_inter",
+    "G_order/z2_3_order"
+   ]
+  },
+  "verdict_c2": "清单内无任何两量之比等于 10 或 100 => 第二比例无独立结构来源",
+  "verdict_c3": "144 用两个阶(24,6)；1.44 用 阶/类数(6,5) —— 分属不同类不变量，无导出关系"
+ },
+ "X34d": {
+  "anchor_co2_THz": 31.22838104166667,
+  "anchor_976nm_THz": 307.16440368852454,
+  "anchor_pair_ratio": 9.83606557377049,
+  "cases": [
+   {
+    "Tc": 280,
+    "f_c": 5.83,
+    "f0": 373.12,
+    "f1": 31.093333333333334,
+    "f2": 310.93333333333334,
+    "dev1": 0.004324518397324173,
+    "dev2": 0.012270072962720757,
+    "X6a": "PASS",
+    "X6b": "PASS"
+   },
+   {
+    "Tc": 350,
+    "f_c": 7.29295,
+    "f0": 466.7488,
+    "f1": 38.89573333333333,
+    "f2": 388.95733333333334,
+    "dev1": 0.2455251292545857,
+    "dev2": 0.2662838814088291,
+    "X6a": "FAIL",
+    "X6b": "FAIL"
+   }
+  ],
+  "verdict": "两锚点仅在 280K 口径成立；350K 口径偏差 24.55%/26.63% 双双 FAIL => 锚点绑死未裁决口径"
+ }
+}

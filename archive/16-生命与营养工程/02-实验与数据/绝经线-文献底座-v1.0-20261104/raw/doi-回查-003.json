@@ -1,0 +1,937 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          30
+        ]
+      ],
+      "date-time": "2026-07-30T18:59:24Z",
+      "timestamp": 1785437964495,
+      "version": "3.56.0"
+    },
+    "reference-count": 77,
+    "publisher": "American Physiological Society",
+    "issue": "5",
+    "funder": [
+      {
+        "DOI": "10.13039/100000056",
+        "name": "HHS | NIH | National Institute of Nursing Research",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U01NR004061"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U01NR004061"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000056",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000049",
+        "name": "HHS | NIH | National Institute on Aging",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U01AG012505"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U01AG012505"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000049",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000049",
+        "name": "HHS | NIH | National Institute on Aging",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U01AG012535"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U01AG012535"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000049",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000049",
+        "name": "HHS | NIH | National Institute on Aging",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U01AG012531"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U01AG012531"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000049",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000049",
+        "name": "HHS | NIH | National Institute on Aging",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U01AG012539"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U01AG012539"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000049",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000049",
+        "name": "HHS | NIH | National Institute on Aging",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U01AG012546"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U01AG012546"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000049",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000049",
+        "name": "HHS | NIH | National Institute on Aging",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U01AG012553"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U01AG012553"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000049",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000049",
+        "name": "HHS | NIH | National Institute on Aging",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U01AG012554"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U01AG012554"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000049",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000049",
+        "name": "HHS | NIH | National Institute on Aging",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U01AG012495"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U01AG012495"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000049",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000049",
+        "name": "HHS | NIH | National Institute on Aging",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U19AG063720"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U19AG063720"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000049",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.physiology.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "American Journal of Physiology-Endocrinology and Metabolism"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:p>There are a number of strong associations between the regularity/complexity of urinary sex hormones (being formalized via fuzzy and distribution entropy) and vasomotor symptoms (VMS). Standardized metrics of hormonal regularity (i.e., hormonal entropy) show promise in being used to identify different hormonal profiles underlying VMS occurrence, to provide a general gauge of reproductive aging, and to help predict the overall character of VMS experiences for the remainder of the menopause transition and beyond.</jats:p>",
+    "DOI": "10.1152/ajpendo.00083.2025",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          23
+        ]
+      ],
+      "date-time": "2025-09-23T00:41:40Z",
+      "timestamp": 1758588100000
+    },
+    "page": "E603-E615",
+    "update-policy": "https://doi.org/10.1152/aps-crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Measuring associations between hormonal entropy, the prevalence of vasomotor symptoms, and menstrual dynamics"
+    ],
+    "prefix": "10.1152",
+    "volume": "329",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0007-6450-9809",
+        "authenticated-orcid": false,
+        "given": "J. F.",
+        "family": "Winkles",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/01an3r305",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "University of Pittsburgh",
+            "place": [
+              "United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9096-7490",
+        "authenticated-orcid": false,
+        "given": "Nanette",
+        "family": "Santoro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Colorado Anschutz Medical Campus",
+            "place": [
+              "United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1248-4199",
+        "authenticated-orcid": false,
+        "given": "Mary D.",
+        "family": "Sammel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Colorado School of Public Health",
+            "place": [
+              "United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2913-0821",
+        "authenticated-orcid": false,
+        "given": "Samar R.",
+        "family": "El Khoudary",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Pittsburgh School of Public Health, University of Pittsburgh",
+            "place": [
+              "United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5638-2747",
+        "authenticated-orcid": false,
+        "given": "Alicia",
+        "family": "Colvin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Pittsburgh School of Public Health, University of Pittsburgh",
+            "place": [
+              "United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6621-0439",
+        "authenticated-orcid": false,
+        "given": "Sybil",
+        "family": "Crawford",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UMass Chan Medical School",
+            "place": [
+              "United States"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "24",
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2008.12.006"
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamainternmed.2014.8063"
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/gme.0b013e3182230e42"
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2468-2667(19)30155-0"
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.120.017416"
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/AOG.0b013e31824a09ec"
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jbmr.259"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jbmr.3856"
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000000949"
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s1047-2797(97)00207-x"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2105/ajph.79.6.709"
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/rp.57.1.257"
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/jc.2007-0066"
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ogc.2011.05.004"
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00737-007-0209-5"
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1517/13543784.14.4.435"
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0002-9378(99)70437-0"
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09513590.2018.1480711"
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TNSRE.2007.897025"
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.medengphy.2008.04.005"
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11517-014-1216-0"
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/B978-012453790-3/50012-3"
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/e25020281"
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.89.068102"
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1933719107308613"
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwk090"
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2021.03.003"
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1152/ajpendo.00381.2002"
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/15459624.2014.955179"
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/EDE.0b013e3181cf0058"
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-3-642-01689-9"
+      },
+      {
+        "key": "B32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.32614/RJ-2012-002"
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00042192-200101000-00007"
+      },
+      {
+        "key": "B34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2105/AJPH.2005.066936"
+      },
+      {
+        "key": "B35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/152.5.463"
+      },
+      {
+        "key": "B36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwg223"
+      },
+      {
+        "key": "B37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/014662167700100306"
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0019-9958(65)90241-X"
+      },
+      {
+        "key": "B39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0259448"
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-387-21706-2"
+      },
+      {
+        "key": "B41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-387-79054-1_13"
+      },
+      {
+        "key": "B42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/01621459.1992.10475190"
+      },
+      {
+        "key": "B43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4614-7138-7"
+      },
+      {
+        "key": "B44",
+        "volume-title": "Endotext",
+        "author": "Reed BG",
+        "year": "2000"
+      },
+      {
+        "key": "B45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0b013e31817ee0c2"
+      },
+      {
+        "key": "B46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/gme.0b013e3181aa192d"
+      },
+      {
+        "key": "B47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/jc.2016-4017"
+      },
+      {
+        "key": "B48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/jcem.81.4.8636357"
+      },
+      {
+        "key": "B49",
+        "first-page": "142",
+        "volume-title": "Yen and Jaffe’s Reproductive Endocrinology",
+        "author": "Hall J",
+        "year": "2024",
+        "edition": "9"
+      },
+      {
+        "key": "B50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1037/pha0000057"
+      },
+      {
+        "key": "B51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-019-41392-x"
+      },
+      {
+        "key": "B52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ogc.2011.05.006"
+      },
+      {
+        "key": "B53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/jc.2005-1374"
+      },
+      {
+        "key": "B54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0378-5122(01)00256-0"
+      },
+      {
+        "key": "B55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/13697137.2015.1009436"
+      },
+      {
+        "key": "B56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwp203"
+      },
+      {
+        "key": "B57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/endrev/bnad027"
+      },
+      {
+        "key": "B58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/STROKEAHA.108.542993"
+      },
+      {
+        "key": "B59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2337/dc12-1020"
+      },
+      {
+        "key": "B60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/ATVBAHA.119.313622"
+      },
+      {
+        "key": "B61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1471-0528.16524"
+      },
+      {
+        "key": "B62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0b013e31829752e0"
+      },
+      {
+        "key": "B63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/clinem/dgz056"
+      },
+      {
+        "key": "B64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jbmr.534"
+      },
+      {
+        "key": "B65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bone.2019.02.016"
+      },
+      {
+        "key": "B66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwg066"
+      },
+      {
+        "key": "B67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.ede.0000165392.35273.d4"
+      },
+      {
+        "key": "B68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1470-2045(12)70425-4"
+      },
+      {
+        "key": "B69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0028-2243(78)90014-X"
+      },
+      {
+        "key": "B70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ijc.25050"
+      },
+      {
+        "key": "B71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0959-8049(98)00343-8"
+      },
+      {
+        "key": "B72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ijc.2910460508"
+      },
+      {
+        "key": "B73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000000676"
+      },
+      {
+        "key": "B74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.fertnstert.2022.08.261"
+      },
+      {
+        "key": "B75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12958-022-01004-2"
+      },
+      {
+        "key": "B76",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-023-36539-w"
+      },
+      {
+        "key": "B77",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41565-023-01513-0"
+      }
+    ],
+    "container-title": [
+      "American Journal of Physiology-Endocrinology and Metabolism"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.physiology.org/doi/pdf/10.1152/ajpendo.00083.2025",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          21
+        ]
+      ],
+      "date-time": "2025-11-21T18:29:30Z",
+      "timestamp": 1763749770000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.physiology.org/doi/10.1152/ajpendo.00083.2025"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          1
+        ]
+      ]
+    },
+    "references-count": 77,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            11,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1152/ajpendo.00083.2025"
+    ],
+    "URL": "https://doi.org/10.1152/ajpendo.00083.2025",
+    "relation": {},
+    "ISSN": [
+      "0193-1849",
+      "1522-1555"
+    ],
+    "issn-type": [
+      {
+        "value": "0193-1849",
+        "type": "print"
+      },
+      {
+        "value": "1522-1555",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-02-18",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-04-24",
+        "order": 1,
+        "name": "revised",
+        "label": "Revised",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-09-15",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-10-24",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+ "frozen_criteria": "攻防修正·臂C对照判据补录-v1.0-20260927.md",
+ "results": [
+  {
+   "N": 100,
+   "seed": 42,
+   "arm": "C",
+   "solved": true,
+   "time_s": 0.001,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 43,
+   "arm": "C",
+   "solved": true,
+   "time_s": 0.068,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 44,
+   "arm": "C",
+   "solved": true,
+   "time_s": 0.027,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 45,
+   "arm": "C",
+   "solved": true,
+   "time_s": 0.001,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 46,
+   "arm": "C",
+   "solved": true,
+   "time_s": 0.295,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 42,
+   "arm": "C",
+   "solved": false,
+   "time_s": 5.0,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 43,
+   "arm": "C",
+   "solved": false,
+   "time_s": 5.0,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 44,
+   "arm": "C",
+   "solved": false,
+   "time_s": 5.0,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 45,
+   "arm": "C",
+   "solved": false,
+   "time_s": 5.0,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 46,
+   "arm": "C",
+   "solved": false,
+   "time_s": 5.0,
+   "verified": false
+  }
+ ]
+}

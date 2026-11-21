@@ -1,0 +1,370 @@
+{
+ "N0": {
+  "mismatch_2000": 0,
+  "e1_count_4pow12": 6142,
+  "e1_expect": 6142
+ },
+ "N1": {
+  "lang_equal": true,
+  "actual": 8188,
+  "gen": 8188,
+  "counts_k1_12": [
+   0,
+   4,
+   12,
+   28,
+   60,
+   124,
+   252,
+   508,
+   1020,
+   2044,
+   4092,
+   8188
+  ],
+  "closed": [
+   0,
+   4,
+   12,
+   28,
+   60,
+   124,
+   252,
+   508,
+   1020,
+   2044,
+   4092,
+   8188
+  ],
+  "closed_match": true,
+  "m_set": [
+   0,
+   1
+  ],
+  "layers_ok": true
+ },
+ "N2": {
+  "nerode_var_3domain": [
+   5,
+   5,
+   5
+  ],
+  "nerode_fixed_3domain": [
+   5,
+   5,
+   5
+  ],
+  "min_dfa_states": 5,
+  "sim_mismatch_3e6": 0,
+  "explicit5_mismatch": 0,
+  "witness": [
+   {
+    "pair": "q0|qC2",
+    "w": "13",
+    "L(uw)": true,
+    "L(vw)": false,
+    "separated": true
+   },
+   {
+    "pair": "q0|qB",
+    "w": "2",
+    "L(uw)": false,
+    "L(vw)": true,
+    "separated": true
+   },
+   {
+    "pair": "q0|qF",
+    "w": "12",
+    "L(uw)": true,
+    "L(vw)": false,
+    "separated": true
+   },
+   {
+    "pair": "q0|qD",
+    "w": "12",
+    "L(uw)": true,
+    "L(vw)": false,
+    "separated": true
+   },
+   {
+    "pair": "qC2|qB",
+    "w": "02",
+    "L(uw)": false,
+    "L(vw)": true,
+    "separated": true
+   },
+   {
+    "pair": "qC2|qF",
+    "w": "2",
+    "L(uw)": true,
+    "L(vw)": false,
+    "separated": true
+   },
+   {
+    "pair": "qC2|qD",
+    "w": "31",
+    "L(uw)": true,
+    "L(vw)": false,
+    "separated": true
+   },
+   {
+    "pair": "qB|qF",
+    "w": "2",
+    "L(uw)": true,
+    "L(vw)": false,
+    "separated": true
+   },
+   {
+    "pair": "qB|qD",
+    "w": "2",
+    "L(uw)": true,
+    "L(vw)": false,
+    "separated": true
+   },
+   {
+    "pair": "qF|qD",
+    "w": null,
+    "L(uw)": true,
+    "L(vw)": false,
+    "separated": true
+   }
+  ],
+  "witness_ok": 10
+ },
+ "N3": {
+  "lang_equal": true,
+  "actual": 3070,
+  "gen": 3070,
+  "counts_k1_12": [
+   0,
+   1,
+   4,
+   10,
+   22,
+   46,
+   94,
+   190,
+   382,
+   766,
+   1534,
+   3070
+  ],
+  "closed": [
+   0,
+   1,
+   4,
+   10,
+   22,
+   46,
+   94,
+   190,
+   382,
+   766,
+   1534,
+   3070
+  ],
+  "closed_match": true,
+  "nerode_var_3domain": [
+   6,
+   6,
+   6
+  ],
+  "nerode_fixed_3domain": [
+   5,
+   5,
+   5
+  ],
+  "min_dfa_states": 6,
+  "sim_mismatch_3e6": 0,
+  "explicit7_mismatch": 0
+ },
+ "N4": {
+  "lang_equal": true,
+  "actual": 4092,
+  "gen": 4092,
+  "counts_k1_12": [
+   0,
+   0,
+   4,
+   12,
+   28,
+   60,
+   124,
+   252,
+   508,
+   1020,
+   2044,
+   4092
+  ],
+  "closed": [
+   0,
+   0,
+   4,
+   12,
+   28,
+   60,
+   124,
+   252,
+   508,
+   1020,
+   2044,
+   4092
+  ],
+  "closed_match": true,
+  "nerode_var_3domain": [
+   7,
+   7,
+   7
+  ],
+  "nerode_fixed_3domain": [
+   5,
+   5,
+   5
+  ],
+  "min_dfa_states": 7,
+  "sim_mismatch_3e6": 0
+ },
+ "N5": {
+  "lang_equal": true,
+  "actual": 2046,
+  "gen": 2046,
+  "counts_k1_12": [
+   0,
+   0,
+   2,
+   6,
+   14,
+   30,
+   62,
+   126,
+   254,
+   510,
+   1022,
+   2046
+  ],
+  "closed": [
+   0,
+   0,
+   2,
+   6,
+   14,
+   30,
+   62,
+   126,
+   254,
+   510,
+   1022,
+   2046
+  ],
+  "closed_match": true,
+  "m_set": [
+   2
+  ],
+  "nerode_var_3domain": [
+   7,
+   7,
+   7
+  ],
+  "nerode_fixed_3domain": [
+   5,
+   5,
+   5
+  ],
+  "min_dfa_states": 7,
+  "sim_mismatch_3e6": 0
+ },
+ "N6": {
+  "E-6": {
+   "lang_equal": true,
+   "actual": 8184,
+   "gen": 8184,
+   "counts": [
+    0,
+    0,
+    8,
+    24,
+    56,
+    120,
+    248,
+    504,
+    1016,
+    2040,
+    4088,
+    8184
+   ],
+   "closed": [
+    0,
+    0,
+    8,
+    24,
+    56,
+    120,
+    248,
+    504,
+    1016,
+    2040,
+    4088,
+    8184
+   ],
+   "closed_match": true
+  },
+  "E-7": {
+   "lang_equal": true,
+   "actual": 4092,
+   "gen": 4092,
+   "counts": [
+    0,
+    0,
+    4,
+    12,
+    28,
+    60,
+    124,
+    252,
+    508,
+    1020,
+    2044,
+    4092
+   ],
+   "closed": [
+    0,
+    0,
+    4,
+    12,
+    28,
+    60,
+    124,
+    252,
+    508,
+    1020,
+    2044,
+    4092
+   ],
+   "closed_match": true
+  }
+ },
+ "N7": {
+  "N1": true,
+  "N2": true,
+  "N3": true,
+  "N4": true,
+  "N5": true,
+  "N6_prediction": true,
+  "structure_pass": true
+ },
+ "meta": {
+  "elapsed_s": 121.5,
+  "log": [
+   "D table built 4^12, 0.8s",
+   "N0 mismatch=0  E_-1(4^12)=6142 (expect 6142)",
+   "gen: C=4095 B=2047 E1=6142 E2=8188 E3=3070 E4=4092 E5=2046 E6=8184 E7=4092",
+   "N1: eq=True (8188=8188) closed=True m=[0, 1] layers=True",
+   "N2: var=[5, 5, 5] fixed=[5, 5, 5] states=5 sim=0 exp5=0 wit=10/10",
+   "N3: eq=True (3070=3070) closed=True var=[6, 6, 6] fixed=[5, 5, 5] states=6 sim=0 exp7=0",
+   "N4: eq=True (4092=4092) closed=True var=[7, 7, 7] fixed=[5, 5, 5] states=7 sim=0",
+   "N5: eq=True (2046=2046) closed=True m=[2] var=[7, 7, 7] fixed=[5, 5, 5] states=7 sim=0",
+   "N6: E-6 eq=True (8184=8184) closed=True; E-7 eq=True (4092=4092) closed=True",
+   "N7: {'N1': True, 'N2': True, 'N3': True, 'N4': True, 'N5': True, 'N6_prediction': True, 'structure_pass': True}"
+  ]
+ }
+}

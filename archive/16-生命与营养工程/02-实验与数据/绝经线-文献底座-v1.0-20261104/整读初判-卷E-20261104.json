@@ -1,0 +1,1453 @@
+{
+ "卷": "E",
+ "条数": 122,
+ "模块": {
+  "M06": {
+   "送审": 45,
+   "留": 43,
+   "删": 2,
+   "待核": 0,
+   "剔除率": "4.4%",
+   "检索式判定": "合格",
+   "关联疑问命中": [
+    "Q07",
+    "Q12",
+    "Q13",
+    "Q14",
+    "Q25"
+   ]
+  },
+  "M12": {
+   "送审": 42,
+   "留": 27,
+   "删": 15,
+   "待核": 0,
+   "剔除率": "35.7%",
+   "检索式判定": "不合格(>10%)",
+   "关联疑问命中": [
+    "Q06",
+    "Q20",
+    "Q29"
+   ]
+  },
+  "M11": {
+   "送审": 35,
+   "留": 26,
+   "删": 9,
+   "待核": 0,
+   "剔除率": "25.7%",
+   "检索式判定": "不合格(>10%)",
+   "关联疑问命中": [
+    "Q14",
+    "Q15",
+    "Q16",
+    "Q19",
+    "Q21",
+    "Q22",
+    "Q29"
+   ]
+  }
+ },
+ "门W漏网": [
+  "E046",
+  "E047",
+  "E048",
+  "E049",
+  "E051",
+  "E052",
+  "E053",
+  "E078",
+  "E080",
+  "E082",
+  "E085",
+  "E086",
+  "E087",
+  "E089",
+  "E090",
+  "E091",
+  "E092",
+  "E097",
+  "E099",
+  "E114",
+  "E117",
+  "E118"
+ ],
+ "门N漏网": [
+  "E010",
+  "E018",
+  "E055",
+  "E056"
+ ],
+ "文献": [
+  {
+   "编号": "E001",
+   "模块号": "M06",
+   "PMID": "7696835",
+   "标题": "Assessment of fracture risk and its application to screening",
+   "结论": "留",
+   "理由": "摘要述绝经后骨质疏松筛查标准与FRAX框架",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E002",
+   "模块号": "M06",
+   "PMID": "17476007",
+   "标题": "Once-yearly zoledronic acid for treatment of postmenopausal ",
+   "结论": "留",
+   "理由": "唑来膦酸年度输注3年降低椎体与髋部骨折风险",
+   "标签": [],
+   "关联疑问": [
+    "Q13"
+   ]
+  },
+  {
+   "编号": "E003",
+   "模块号": "M06",
+   "PMID": "10527181",
+   "标题": "Effects of risedronate treatment on vertebral and nonvertebr",
+   "结论": "留",
+   "理由": "利塞膦酸治疗绝经后骨质疏松降低椎体骨折风险",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E004",
+   "模块号": "M06",
+   "PMID": "7477143",
+   "标题": "Effect of oral alendronate on bone mineral density and the i",
+   "结论": "留",
+   "理由": "阿仑膦酸提高绝经后骨质疏松BMD并降低骨折率",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E005",
+   "模块号": "M06",
+   "PMID": "14749454",
+   "标题": "The effects of strontium ranelate on the risk of vertebral f",
+   "结论": "留",
+   "理由": "雷奈酸锶 dissociates 骨重建降低绝经后椎体骨折",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E006",
+   "模块号": "M06",
+   "PMID": "32427503",
+   "标题": "AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS/AMERICAN C",
+   "结论": "留",
+   "理由": "AACE 2020绝经后骨质疏松诊治指南52条推荐",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E007",
+   "模块号": "M06",
+   "PMID": "15231010",
+   "标题": "Effects of oral ibandronate administered daily or intermitte",
+   "结论": "留",
+   "理由": "口服伊班膦酸日/间歇方案降低椎体骨折62%",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E008",
+   "模块号": "M06",
+   "PMID": "57448",
+   "标题": "Long-term prevention of postmenopausal osteoporosis by oestr",
+   "结论": "留",
+   "理由": "雌激素治疗预防去卵巢妇女骨丢失,延迟用药仍有效",
+   "标签": [],
+   "关联疑问": [
+    "Q14"
+   ]
+  },
+  {
+   "编号": "E009",
+   "模块号": "M06",
+   "PMID": "2113611",
+   "标题": "Intermittent cyclical etidronate treatment of postmenopausal",
+   "结论": "留",
+   "理由": "间歇环化依替膦酸2年治疗绝经后骨质疏松RCT",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E010",
+   "模块号": "M06",
+   "PMID": "19049336",
+   "标题": "Sclerostin antibody treatment increases bone formation, bone",
+   "结论": "删",
+   "理由": "大鼠去卵巢骨丢失模型,门N漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E011",
+   "模块号": "M06",
+   "PMID": "2109197",
+   "标题": "Effect of intermittent cyclical etidronate therapy on bone m",
+   "结论": "留",
+   "理由": "依替膦酸150周提高绝经后骨质疏松椎体BMD",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E012",
+   "模块号": "M06",
+   "PMID": "24176761",
+   "标题": "Prevention and treatment of postmenopausal osteoporosis.",
+   "结论": "留",
+   "理由": "综述绝经后骨质疏松预防与治疗含WHI再分析",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E013",
+   "模块号": "M06",
+   "PMID": "18160467",
+   "标题": "Bone mineral density changes during the menopause transition",
+   "结论": "留",
+   "理由": "SWAN队列绝经过渡期各阶段BMD丢失速率",
+   "标签": [],
+   "关联疑问": [
+    "Q12"
+   ]
+  },
+  {
+   "编号": "E014",
+   "模块号": "M06",
+   "PMID": "1534476",
+   "标题": "Treatment of postmenopausal osteoporosis with transdermal es",
+   "结论": "留",
+   "理由": "经皮雌激素治疗绝经后骨质疏松椎体骨折RCT",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E015",
+   "模块号": "M06",
+   "PMID": "26144908",
+   "标题": "Denosumab and teriparatide transitions in postmenopausal ost",
+   "结论": "留",
+   "理由": "DATA-Switch地舒单抗与特立帕肽序贯转换BMD变化",
+   "标签": [],
+   "关联疑问": [
+    "Q13"
+   ]
+  },
+  {
+   "编号": "E016",
+   "模块号": "M06",
+   "PMID": "12878739",
+   "标题": "Bone loss and bone size after menopause.",
+   "结论": "留",
+   "理由": "绝经后骨丢失与骨尺寸15年纵向研究",
+   "标签": [],
+   "关联疑问": [
+    "Q12"
+   ]
+  },
+  {
+   "编号": "E017",
+   "模块号": "M06",
+   "PMID": "12076571",
+   "标题": "Treatment of postmenopausal osteoporosis.",
+   "结论": "留",
+   "理由": "综述绝经后骨质疏松治疗含双膦酸/PTH/降钙素",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E018",
+   "模块号": "M06",
+   "PMID": "24677054",
+   "标题": "Probiotic L. reuteri treatment prevents bone loss in a menop",
+   "结论": "删",
+   "理由": "去卵巢小鼠益生菌防骨丢失,门N漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E019",
+   "模块号": "M06",
+   "PMID": "12904837",
+   "标题": "A theoretical analysis of the relative influences of peak BM",
+   "结论": "留",
+   "理由": "理论模型分析峰值BMD、绝经与年龄对骨质疏松贡献",
+   "标签": [],
+   "关联疑问": [
+    "Q12"
+   ]
+  },
+  {
+   "编号": "E020",
+   "模块号": "M06",
+   "PMID": "23683600",
+   "标题": "Teriparatide and denosumab, alone or combined, in women with",
+   "结论": "留",
+   "理由": "DATA研究特立帕肽联合地舒单抗BMD增幅更大",
+   "标签": [],
+   "关联疑问": [
+    "Q13"
+   ]
+  },
+  {
+   "编号": "E021",
+   "模块号": "M06",
+   "PMID": "6276746",
+   "标题": "Effect of the fluoride/calcium regimen on vertebral fracture",
+   "结论": "留",
+   "理由": "氟化钙方案降低绝经后骨质疏松椎体骨折率",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E022",
+   "模块号": "M06",
+   "PMID": "1729617",
+   "标题": "Treatment of postmenopausal osteoporosis with calcitriol or ",
+   "结论": "留",
+   "理由": "骨化三醇与钙治疗绝经后骨质疏松3年RCT",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E023",
+   "模块号": "M06",
+   "PMID": "3700651",
+   "标题": "Rates of bone loss in the appendicular and axial skeletons o",
+   "结论": "留",
+   "理由": "绝经前椎体骨已大量丢失,桡骨绝经后才丢失",
+   "标签": [],
+   "关联疑问": [
+    "Q12"
+   ]
+  },
+  {
+   "编号": "E024",
+   "模块号": "M06",
+   "PMID": "27662240",
+   "标题": "AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS AND AMERIC",
+   "结论": "留",
+   "理由": "AACE 2016绝经后骨质疏松诊治指南",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E025",
+   "模块号": "M06",
+   "PMID": "12202465",
+   "标题": "Meta-analyses of therapies for postmenopausal osteoporosis. ",
+   "结论": "留",
+   "理由": "阿仑膦酸治疗绝经后骨质疏松荟萃分析",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E026",
+   "模块号": "M06",
+   "PMID": "16197664",
+   "标题": "Compliance and persistence with bisphosphonate dosing regime",
+   "结论": "留",
+   "理由": "双膦酸盐每周vs每日给药依从性与持续性比较",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E027",
+   "模块号": "M06",
+   "PMID": "10938013",
+   "标题": "Progression of aortic calcification is associated with metac",
+   "结论": "留",
+   "理由": "绝经期主动脉钙化进展与掌骨骨丢失相关",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E028",
+   "模块号": "M06",
+   "PMID": "17476146",
+   "标题": "Effect of early menopause on bone mineral density and fractu",
+   "结论": "留",
+   "理由": "早期绝经致更低BMD与更高骨折率综述",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E029",
+   "模块号": "M06",
+   "PMID": "4047104",
+   "标题": "Cigarette smoking, serum estrogens, and bone loss during hor",
+   "结论": "留",
+   "理由": "吸烟降低HRT后雌激素水平加速骨丢失",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E030",
+   "模块号": "M06",
+   "PMID": "9060533",
+   "标题": "Bisphosphonate risedronate prevents bone loss in women with ",
+   "结论": "留",
+   "理由": "利塞膦酸防乳腺癌化疗致人工绝经骨丢失丢失",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E031",
+   "模块号": "M06",
+   "PMID": "16403818",
+   "标题": "Hormone predictors of bone mineral density changes during th",
+   "结论": "留",
+   "理由": "FSH预测绝经过渡期BMD丢失,SWAN队列",
+   "标签": [],
+   "关联疑问": [
+    "Q07"
+   ]
+  },
+  {
+   "编号": "E032",
+   "模块号": "M06",
+   "PMID": "11344203",
+   "标题": "Serum interleukin 6 is a major predictor of bone loss in wom",
+   "结论": "留",
+   "理由": "IL-6预测绝经后首十年股骨骨丢失",
+   "标签": [],
+   "关联疑问": [
+    "Q25"
+   ]
+  },
+  {
+   "编号": "E033",
+   "模块号": "M06",
+   "PMID": "8830981",
+   "标题": "Low bone mass and fast rate of bone loss at menopause: equal",
+   "结论": "留",
+   "理由": "低骨量与快骨丢失率均为骨折等危因素15年随访",
+   "标签": [],
+   "关联疑问": [
+    "Q12"
+   ]
+  },
+  {
+   "编号": "E034",
+   "模块号": "M06",
+   "PMID": "7898828",
+   "标题": "Comparison of oral estrogens and estrogens plus androgen on ",
+   "结论": "留",
+   "理由": "手术绝经雌激素±雄激素对BMD比较RCT",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E035",
+   "模块号": "M06",
+   "PMID": "23833200",
+   "标题": "Age- and menopause-related bone loss compromise cortical and",
+   "结论": "留",
+   "理由": "年龄与绝经对骨皮质和骨小梁微结构影响",
+   "标签": [],
+   "关联疑问": [
+    "Q12"
+   ]
+  },
+  {
+   "编号": "E036",
+   "模块号": "M06",
+   "PMID": "15613422",
+   "标题": "The effects of flaxseed dietary supplement on lipid profile,",
+   "结论": "留",
+   "理由": "亚麻籽40g/日12月对绝经妇女BMD无显著差异RCT",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E037",
+   "模块号": "M06",
+   "PMID": "9101361",
+   "标题": "Effects of ethnicity and age or menopause on the remodeling ",
+   "结论": "留",
+   "理由": "种族与年龄/绝经对髂骨重建影响独立",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E038",
+   "模块号": "M06",
+   "PMID": "7572323",
+   "标题": "Vitamin D receptor alleles and rates of bone loss: influence",
+   "结论": "留",
+   "理由": "VDR基因型影响绝经后钙补充骨丢失速率",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E039",
+   "模块号": "M06",
+   "PMID": "11152918",
+   "标题": "Soy intake related to menopausal symptoms, serum lipids, and",
+   "结论": "留",
+   "理由": "大豆异黄酮摄入与绝经后日本妇女BMD相关",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E040",
+   "模块号": "M06",
+   "PMID": "8328621",
+   "标题": "Early menopause, number of reproductive years, and bone mine",
+   "结论": "留",
+   "理由": "早绝经与短生育年限显著降低绝经后BMD",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E041",
+   "模块号": "M06",
+   "PMID": "19747992",
+   "标题": "A multicentre, retrospective case-control study assessing th",
+   "结论": "留",
+   "理由": "TBS联合BMDa评估绝经后椎体骨折风险",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E042",
+   "模块号": "M06",
+   "PMID": "2294140",
+   "标题": "The relative contributions of age and years since menopause ",
+   "结论": "留",
+   "理由": "年龄与绝经后年限对骨丢失相对贡献建模",
+   "标签": [],
+   "关联疑问": [
+    "Q12"
+   ]
+  },
+  {
+   "编号": "E043",
+   "模块号": "M06",
+   "PMID": "1887821",
+   "标题": "Estrogen therapy and variable-resistance weight training inc",
+   "结论": "留",
+   "理由": "雌激素+抗阻训练提高手术绝经妇女BMD",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E044",
+   "模块号": "M06",
+   "PMID": "21824950",
+   "标题": "Soy isoflavones in the prevention of menopausal bone loss an",
+   "结论": "留",
+   "理由": "大豆异黄酮200mg/日预防绝经骨丢失RCT",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E045",
+   "模块号": "M06",
+   "PMID": "10893690",
+   "标题": "Biochemical markers as predictors of rates of bone loss afte",
+   "结论": "留",
+   "理由": "骨代谢标志物预测个体骨丢失速率有限",
+   "标签": [],
+   "关联疑问": [
+    "Q25"
+   ]
+  },
+  {
+   "编号": "E046",
+   "模块号": "M12",
+   "PMID": "26054060",
+   "标题": "Cognitive Behavioral Therapy for Chronic Insomnia: A Systema",
+   "结论": "删",
+   "理由": "通用慢性失眠CBT-I荟萃分析,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E047",
+   "模块号": "M12",
+   "PMID": "18457236",
+   "标题": "Cognitive behavioral therapy for insomnia enhances depressio",
+   "结论": "删",
+   "理由": "CBT-I治抑郁共病失眠,非绝经人群,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E048",
+   "模块号": "M12",
+   "PMID": "11308399",
+   "标题": "Cognitive behavioral therapy for treatment of chronic primar",
+   "结论": "删",
+   "理由": "通用慢性失眠CBT RCT,非绝经人群,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E049",
+   "模块号": "M12",
+   "PMID": "16804151",
+   "标题": "Cognitive behavioral therapy vs zopiclone for treatment of c",
+   "结论": "删",
+   "理由": "老年通用失眠CBT vs唑吡坦RCT,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E050",
+   "模块号": "M12",
+   "PMID": "12783913",
+   "标题": "Paroxetine controlled release in the treatment of menopausal",
+   "结论": "留",
+   "理由": "帕罗西汀CR 7.5mg治疗绝经潮热多中心RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E051",
+   "模块号": "M12",
+   "PMID": "16135475",
+   "标题": "Randomized study on the efficacy of cognitive-behavioral the",
+   "结论": "删",
+   "理由": "CBT治乳腺癌继发失眠,非绝经VMS,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E052",
+   "模块号": "M12",
+   "PMID": "30264137",
+   "标题": "Effect of Digital Cognitive Behavioral Therapy for Insomnia ",
+   "结论": "删",
+   "理由": "数字CBT-I治通用失眠,非绝经人群,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E053",
+   "模块号": "M12",
+   "PMID": "24497661",
+   "标题": "Cognitive behavioral therapy for insomnia in posttraumatic s",
+   "结论": "删",
+   "理由": "CBT-I治PTSD失眠,VA人群,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E054",
+   "模块号": "M12",
+   "PMID": "28385352",
+   "标题": "Neurokinin 3 receptor antagonism as a novel treatment for me",
+   "结论": "留",
+   "理由": "NK3R拮抗剂MLE4901治绝经潮热2期RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q06"
+   ]
+  },
+  {
+   "编号": "E055",
+   "模块号": "M12",
+   "PMID": "19912479",
+   "标题": "Neurokinin 3 receptor immunoreactivity in the septal region,",
+   "结论": "删",
+   "理由": "雌羊下丘脑NK3R免疫组化,门N漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E056",
+   "模块号": "M12",
+   "PMID": "20519368",
+   "标题": "Neurokinin B acts via the neurokinin-3 receptor in the retro",
+   "结论": "删",
+   "理由": "雌羊NKB经NK3R刺激LH分泌,门N漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E057",
+   "模块号": "M12",
+   "PMID": "24045678",
+   "标题": "Low-dose paroxetine 7.5 mg for menopausal vasomotor symptoms",
+   "结论": "留",
+   "理由": "帕罗西汀7.5mg治绝经VMS两项3期RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E058",
+   "模块号": "M12",
+   "PMID": "31415087",
+   "标题": "Treatment of Menopausal Vasomotor Symptoms With Fezolinetant",
+   "结论": "留",
+   "理由": "Fezolinetant 90mg bid治绝经VMS 2a期RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q06"
+   ]
+  },
+  {
+   "编号": "E059",
+   "模块号": "M12",
+   "PMID": "17587516",
+   "标题": "Efficacy and tolerability of a medicinal product containing ",
+   "结论": "留",
+   "理由": "黑升麻iCR vs替勃龙治中国绝经症状RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E060",
+   "模块号": "M12",
+   "PMID": "36897180",
+   "标题": "Safety of Fezolinetant for Vasomotor Symptoms Associated Wit",
+   "结论": "留",
+   "理由": "Fezolinetant 52周安全性含肝毒警示3期RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q06"
+   ]
+  },
+  {
+   "编号": "E061",
+   "模块号": "M12",
+   "PMID": "32102086",
+   "标题": "A phase 2b, randomized, placebo-controlled, double-blind, do",
+   "结论": "留",
+   "理由": "Fezolinetant 7种剂量方案治绝经VMS 2b期RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q06"
+   ]
+  },
+  {
+   "编号": "E062",
+   "模块号": "M12",
+   "PMID": "19423996",
+   "标题": "The Acupuncture on Hot Flushes Among Menopausal Women (ACUFL",
+   "结论": "留",
+   "理由": "ACUFLASH针灸vs自我护理治绝经潮热RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E063",
+   "模块号": "M12",
+   "PMID": "17917611",
+   "标题": "Gabapentin for the treatment of menopausal hot flashes: a ra",
+   "结论": "留",
+   "理由": "加巴喷丁300mg tid治自然绝经潮热RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E064",
+   "模块号": "M12",
+   "PMID": "29029258",
+   "标题": "Acupuncture Improves Peri-menopausal Insomnia: A Randomized ",
+   "结论": "留",
+   "理由": "针灸治围绝经期失眠假针对照RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E065",
+   "模块号": "M12",
+   "PMID": "18528313",
+   "标题": "A randomized, controlled pilot study of acupuncture treatmen",
+   "结论": "留",
+   "理由": "针灸治绝经潮热假针对照试点RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E066",
+   "模块号": "M12",
+   "PMID": "39172446",
+   "标题": "Elinzanetant for the Treatment of Vasomotor Symptoms Associa",
+   "结论": "留",
+   "理由": "Elinzanetant NK1/3拮抗剂OASIS 1&2两3期RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q06"
+   ]
+  },
+  {
+   "编号": "E067",
+   "模块号": "M12",
+   "PMID": "22906948",
+   "标题": "Acupuncture relieves menopausal discomfort in breast cancer ",
+   "结论": "留",
+   "理由": "针灸缓解乳腺癌患者潮热与睡眠障碍RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q20",
+    "Q29"
+   ]
+  },
+  {
+   "编号": "E068",
+   "模块号": "M12",
+   "PMID": "22972105",
+   "标题": "Black cohosh (Cimicifuga spp.) for menopausal symptoms.",
+   "结论": "留",
+   "理由": "黑升木Cochrane系统评价治绝经症状",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E069",
+   "模块号": "M12",
+   "PMID": "36720081",
+   "标题": "Efficacy and safety of elinzanetant, a selective neurokinin-",
+   "结论": "留",
+   "理由": "Elinzanetant SWITCH-1剂量探索治绝经VMS RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q06"
+   ]
+  },
+  {
+   "编号": "E070",
+   "模块号": "M12",
+   "PMID": "33724119",
+   "标题": "Fezolinetant in the treatment of vasomotor symptoms associat",
+   "结论": "留",
+   "理由": "Fezolinetant综述NK3R拮抗剂治绝经VMS",
+   "标签": [],
+   "关联疑问": [
+    "Q06"
+   ]
+  },
+  {
+   "编号": "E071",
+   "模块号": "M12",
+   "PMID": "25003620",
+   "标题": "Effects of acupuncture on menopause-related symptoms and qua",
+   "结论": "留",
+   "理由": "针灸治绝经相关症状荟萃分析12项RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E072",
+   "模块号": "M12",
+   "PMID": "28380486",
+   "标题": "Neurokinin 3 Receptor Antagonism Reveals Roles for Neurokini",
+   "结论": "留",
+   "理由": "NK3R拮抗剂揭示NKB调节GnRH与潮热机制",
+   "标签": [],
+   "关联疑问": [
+    "Q06"
+   ]
+  },
+  {
+   "编号": "E073",
+   "模块号": "M12",
+   "PMID": "32769757",
+   "标题": "Effect of the neurokinin 3 receptor antagonist fezolinetant ",
+   "结论": "留",
+   "理由": "Fezolinetant VESTA研究患者报告结局",
+   "标签": [],
+   "关联疑问": [
+    "Q06"
+   ]
+  },
+  {
+   "编号": "E074",
+   "模块号": "M12",
+   "PMID": "23897589",
+   "标题": "Acupuncture for menopausal hot flushes.",
+   "结论": "留",
+   "理由": "针灸治绝经潮热Cochrane系统评价",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E075",
+   "模块号": "M12",
+   "PMID": "26784863",
+   "标题": "Acupuncture for Menopausal Hot Flashes: A Randomized Trial.",
+   "结论": "留",
+   "理由": "针灸vs假针治绝经潮热澳大利亚RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E076",
+   "模块号": "M12",
+   "PMID": "29533369",
+   "标题": "Neurokinin 3 receptor antagonism rapidly improves vasomotor ",
+   "结论": "留",
+   "理由": "NK3R拮抗剂快速改善潮热起效时间曲线",
+   "标签": [],
+   "关联疑问": [
+    "Q06"
+   ]
+  },
+  {
+   "编号": "E077",
+   "模块号": "M12",
+   "PMID": "27023860",
+   "标题": "Acupuncture in Menopause (AIM) study: a pragmatic, randomize",
+   "结论": "留",
+   "理由": "AIM研究实用针灸治围/绝经后VMS RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E078",
+   "模块号": "M12",
+   "PMID": "34000049",
+   "标题": "Randomized Controlled Trial of Neurokinin 3 Receptor Antagon",
+   "结论": "删",
+   "理由": "Fezolinetant治PCOS RCT,非绝经人群,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E079",
+   "模块号": "M12",
+   "PMID": "28829776",
+   "标题": "Effect of acupuncture on hot flush and menopause symptoms in",
+   "结论": "留",
+   "理由": "针灸治乳腺癌潮热荟萃分析含绝经语境",
+   "标签": [],
+   "关联疑问": [
+    "Q20",
+    "Q29"
+   ]
+  },
+  {
+   "编号": "E080",
+   "模块号": "M12",
+   "PMID": "28280333",
+   "标题": "Proteomic analysis of tears following acupuncture treatment ",
+   "结论": "删",
+   "理由": "针灸治绝经干眼症蛋白质组学,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E081",
+   "模块号": "M12",
+   "PMID": "40454634",
+   "标题": "Elinzanetant for Vasomotor Symptoms from Endocrine Therapy f",
+   "结论": "留",
+   "理由": "Elinzanetant治乳腺癌内分泌治疗VMS 3期RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q06",
+    "Q29"
+   ]
+  },
+  {
+   "编号": "E082",
+   "模块号": "M12",
+   "PMID": "30815038",
+   "标题": "Multiple poor sleep characteristics and metabolic abnormalit",
+   "结论": "删",
+   "理由": "睡眠与代谢综合征按绝经状态分层,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E083",
+   "模块号": "M12",
+   "PMID": "32049930",
+   "标题": "Gabapentin for the treatment of hot flushes in menopause: a ",
+   "结论": "留",
+   "理由": "加巴喷丁治绝经潮热荟萃分析与剂量亚组",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E084",
+   "模块号": "M12",
+   "PMID": "33021111",
+   "标题": "Review & meta-analysis: isopropanolic black cohosh extract i",
+   "结论": "留",
+   "理由": "黑升木iCR荟萃更新含剂量效应与安全性",
+   "标签": [],
+   "关联疑问": [
+    "Q20"
+   ]
+  },
+  {
+   "编号": "E085",
+   "模块号": "M12",
+   "PMID": "35120668",
+   "标题": "\"It just seems like people are talking about menopause, but ",
+   "结论": "删",
+   "理由": "黑人女性绝经体验与体重管理定性研究,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E086",
+   "模块号": "M12",
+   "PMID": "36839787",
+   "标题": "Quality by Design Assisted Optimization and Risk Assessment ",
+   "结论": "删",
+   "理由": "黑升木制剂QbD优化,药学非临床,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E087",
+   "模块号": "M12",
+   "PMID": "34111405",
+   "标题": "Changing trends in Black-White racial differences in surgica",
+   "结论": "删",
+   "理由": "手术绝经种族差异趋势流行病学,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E088",
+   "模块号": "M11",
+   "PMID": "14519707",
+   "标题": "Effects of estrogen plus progestin on risk of fracture and b",
+   "结论": "留",
+   "理由": "WHI雌+孕降低骨折风险5.6年RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E089",
+   "模块号": "M11",
+   "PMID": "26182172",
+   "标题": "Overweight, Obesity, and Postmenopausal Invasive Breast Canc",
+   "结论": "删",
+   "理由": "肥胖与绝经后乳腺癌WHI,非HT主题,门W漏网",
+   "标签": [],
+   "关联疑问": [
+    "Q15"
+   ]
+  },
+  {
+   "编号": "E090",
+   "模块号": "M11",
+   "PMID": "16467232",
+   "标题": "Low-fat dietary pattern and risk of invasive breast cancer: ",
+   "结论": "删",
+   "理由": "低脂饮食与乳腺癌WHI饮食试验,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E091",
+   "模块号": "M11",
+   "PMID": "12420953",
+   "标题": "Obesity, body size, and risk of postmenopausal breast cancer",
+   "结论": "删",
+   "理由": "肥胖体型与绝经后乳腺癌WHI观察,门W漏网",
+   "标签": [],
+   "关联疑问": [
+    "Q15"
+   ]
+  },
+  {
+   "编号": "E092",
+   "模块号": "M11",
+   "PMID": "12966124",
+   "标题": "Recreational physical activity and the risk of breast cancer",
+   "结论": "删",
+   "理由": "体力活动与绝经后乳腺癌WHI队列,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E093",
+   "模块号": "M11",
+   "PMID": "14519708",
+   "标题": "Effects of estrogen plus progestin on gynecologic cancers an",
+   "结论": "留",
+   "理由": "WHI雌+孕致妇科癌症与诊断操作RCT",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E094",
+   "模块号": "M11",
+   "PMID": "17652280",
+   "标题": "Breast cancer incidence, 1980-2006: combined roles of menopa",
+   "结论": "留",
+   "理由": "MHT使用与乳腺癌发病率下降趋势分析",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E095",
+   "模块号": "M11",
+   "PMID": "32721007",
+   "标题": "Association of Menopausal Hormone Therapy With Breast Cancer",
+   "结论": "留",
+   "理由": "WHI HT长期随访乳腺癌发病率与死亡率",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E096",
+   "模块号": "M11",
+   "PMID": "16702472",
+   "标题": "Effects of conjugated equine estrogen on stroke in the Women",
+   "结论": "留",
+   "理由": "WHI单纯雌激素臂卒中风险增加分析",
+   "标签": [],
+   "关联疑问": [
+    "Q22"
+   ]
+  },
+  {
+   "编号": "E097",
+   "模块号": "M11",
+   "PMID": "14522941",
+   "标题": "Breast cancer and nonsteroidal anti-inflammatory drugs: pros",
+   "结论": "删",
+   "理由": "NSAIDs与乳腺癌WHI观察,非HT主题,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E098",
+   "模块号": "M11",
+   "PMID": "9875839",
+   "标题": "The Women's Health Initiative Memory Study (WHIMS): a trial ",
+   "结论": "留",
+   "理由": "WHIMS设计雌激素防痴呆RCT方案",
+   "标签": [],
+   "关联疑问": [
+    "Q16"
+   ]
+  },
+  {
+   "编号": "E099",
+   "模块号": "M11",
+   "PMID": "21464032",
+   "标题": "Physical activity and survival in postmenopausal women with ",
+   "结论": "删",
+   "理由": "体力活动与乳腺癌生存WHI,非HT主题,门W漏网",
+   "标签": [],
+   "关联疑问": [
+    "Q29"
+   ]
+  },
+  {
+   "编号": "E100",
+   "模块号": "M11",
+   "PMID": "15767532",
+   "标题": "Fracture risk among breast cancer survivors: results from th",
+   "结论": "留",
+   "理由": "乳腺癌幸存者骨折风险WHI观察研究",
+   "标签": [],
+   "关联疑问": [
+    "Q29"
+   ]
+  },
+  {
+   "编号": "E101",
+   "模块号": "M11",
+   "PMID": "15863546",
+   "标题": "Menopausal symptoms and treatment-related effects of estroge",
+   "结论": "留",
+   "理由": "WHI雌+孕对绝经症状与出血影响分析",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E102",
+   "模块号": "M11",
+   "PMID": "21278356",
+   "标题": "Breast cancer risk in relation to the interval between menop",
+   "结论": "留",
+   "理由": "绝经至HT启动间隔与乳腺癌风险百万人队列",
+   "标签": [],
+   "关联疑问": [
+    "Q14",
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E103",
+   "模块号": "M11",
+   "PMID": "22172623",
+   "标题": "Stroke risk in women: the role of menopause and hormone ther",
+   "结论": "留",
+   "理由": "综述绝经与HT对卒中风险及个体化",
+   "标签": [],
+   "关联疑问": [
+    "Q22"
+   ]
+  },
+  {
+   "编号": "E104",
+   "模块号": "M11",
+   "PMID": "15812079",
+   "标题": "Menopausal hormone therapy after breast cancer: the Stockhol",
+   "结论": "留",
+   "理由": "斯德哥尔摩试验HT后乳腺癌复发风险",
+   "标签": [],
+   "关联疑问": [
+    "Q19",
+    "Q29"
+   ]
+  },
+  {
+   "编号": "E105",
+   "模块号": "M11",
+   "PMID": "20644098",
+   "标题": "Breast cancer risk by breast density, menopause, and postmen",
+   "结论": "留",
+   "理由": "乳腺密度、绝经状态与HT对乳腺癌风险",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E106",
+   "模块号": "M11",
+   "PMID": "18506692",
+   "标题": "Risk of different histological types of postmenopausal breas",
+   "结论": "留",
+   "理由": "不同HT方案按乳腺癌组织学亚型风险差异",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E107",
+   "模块号": "M11",
+   "PMID": "18443262",
+   "标题": "Postmenopausal hormone therapy and stroke: role of time sinc",
+   "结论": "留",
+   "理由": "NHS HT启动年龄与绝经后年限对卒中风险",
+   "标签": [],
+   "关联疑问": [
+    "Q14",
+    "Q22"
+   ]
+  },
+  {
+   "编号": "E108",
+   "模块号": "M11",
+   "PMID": "22427684",
+   "标题": "Changing concepts: Menopausal hormone therapy and breast can",
+   "结论": "留",
+   "理由": "综述WHI后HT与乳腺癌概念变迁",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E109",
+   "模块号": "M11",
+   "PMID": "20232395",
+   "标题": "Menopausal hormone therapy and breast cancer risk: impact of",
+   "结论": "留",
+   "理由": "EPIC不同HT类型与乳腺癌风险差异",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E110",
+   "模块号": "M11",
+   "PMID": "24781971",
+   "标题": "Risk of breast cancer after stopping menopausal hormone ther",
+   "结论": "留",
+   "理由": "E3N停用MHT后乳腺癌风险演变",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E111",
+   "模块号": "M11",
+   "PMID": "19752341",
+   "标题": "Estrogen-progestagen menopausal hormone therapy and breast c",
+   "结论": "留",
+   "理由": "E3N HT启动延迟时间与乳腺癌风险",
+   "标签": [],
+   "关联疑问": [
+    "Q14",
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E112",
+   "模块号": "M11",
+   "PMID": "20961969",
+   "标题": "Menopausal hormone therapy and risk of endometrial carcinoma",
+   "结论": "留",
+   "理由": "EPIC各类HT与子宫内膜癌风险",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E113",
+   "模块号": "M11",
+   "PMID": "16507159",
+   "标题": "Menopausal hormone therapy and other breast cancer risk fact",
+   "结论": "留",
+   "理由": "HT与乳腺癌组织学亚型病例对照",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E114",
+   "模块号": "M11",
+   "PMID": "19028704",
+   "标题": "Hormone-dependent effects of FGFR2 and MAP3K1 in breast canc",
+   "结论": "删",
+   "理由": "FGFR2/MAP3K1基因多态性与乳腺癌,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E115",
+   "模块号": "M11",
+   "PMID": "24223752",
+   "标题": "Risk of breast cancer by type of menopausal hormone therapy:",
+   "结论": "留",
+   "理由": "法国不同孕激素配方HT与乳腺癌风险",
+   "标签": [],
+   "关联疑问": [
+    "Q19",
+    "Q21"
+   ]
+  },
+  {
+   "编号": "E116",
+   "模块号": "M11",
+   "PMID": "23680641",
+   "标题": "Menopausal hormone therapy and risk of endometrial cancer.",
+   "结论": "留",
+   "理由": "各类HT与子宫内膜癌风险综述",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E117",
+   "模块号": "M11",
+   "PMID": "19424794",
+   "标题": "Genetic polymorphisms in phase I and phase II enzymes and br",
+   "结论": "删",
+   "理由": "代谢酶基因多态修饰HT乳腺癌风险,门W漏网",
+   "标签": [],
+   "关联疑问": []
+  },
+  {
+   "编号": "E118",
+   "模块号": "M11",
+   "PMID": "33128203",
+   "标题": "Body size and weight change over adulthood and risk of breas",
+   "结论": "删",
+   "理由": "体重变化与乳腺癌按ER/PR汇总,门W漏网",
+   "标签": [],
+   "关联疑问": [
+    "Q15"
+   ]
+  },
+  {
+   "编号": "E119",
+   "模块号": "M11",
+   "PMID": "22553145",
+   "标题": "Is estrogen plus progestin menopausal hormone therapy safe w",
+   "结论": "留",
+   "理由": "NIH-AARP雌+孕是否安全子宫内膜癌",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E120",
+   "模块号": "M11",
+   "PMID": "23760439",
+   "标题": "Age at menopause, reproductive history, and venous thromboem",
+   "结论": "留",
+   "理由": "WHI HT试验绝经年龄与VTE风险",
+   "标签": [],
+   "关联疑问": [
+    "Q22"
+   ]
+  },
+  {
+   "编号": "E121",
+   "模块号": "M11",
+   "PMID": "32781573",
+   "标题": "Menopausal Hormone Therapy and Risk of Endometrial Cancer: A",
+   "结论": "留",
+   "理由": "MHT与子宫内膜癌系统评价31篇",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  },
+  {
+   "编号": "E122",
+   "模块号": "M11",
+   "PMID": "39173088",
+   "标题": "Menopausal Hormone Therapy and Ovarian and Endometrial Cance",
+   "结论": "留",
+   "理由": "WHI长期随访HT与卵巢及子宫内膜癌",
+   "标签": [],
+   "关联疑问": [
+    "Q19"
+   ]
+  }
+ ]
+}

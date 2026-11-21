@@ -1,0 +1,1210 @@
+{
+  "卷": "D",
+  "条数": 94,
+  "模块": {
+    "M03": {
+      "送审": 47,
+      "留": 19,
+      "删": 28,
+      "待核": 0,
+      "剔除率": "59.57%",
+      "检索式判定": "不合格(>10%)",
+      "关联疑问命中": [
+        "Q06",
+        "Q07",
+        "Q08",
+        "Q09",
+        "Q10",
+        "Q14",
+        "Q22",
+        "Q25"
+      ]
+    },
+    "M09": {
+      "送审": 47,
+      "留": 42,
+      "删": 5,
+      "待核": 0,
+      "剔除率": "10.64%",
+      "检索式判定": "不合格(>10%)",
+      "关联疑问命中": [
+        "Q06",
+        "Q10",
+        "Q14",
+        "Q17",
+        "Q18",
+        "Q20"
+      ]
+    }
+  },
+  "门W漏网": [
+    "D007",
+    "D010",
+    "D011",
+    "D016",
+    "D020",
+    "D021",
+    "D031",
+    "D033",
+    "D037"
+  ],
+  "门N漏网": [
+    "D001",
+    "D004",
+    "D006",
+    "D015",
+    "D017",
+    "D019",
+    "D026",
+    "D028",
+    "D032",
+    "D034",
+    "D035",
+    "D039",
+    "D043",
+    "D081",
+    "D090",
+    "D094"
+  ],
+  "文献": [
+    {
+      "编号": "D001",
+      "模块号": "M03",
+      "PMID": "3012369",
+      "标题": "Purification and characterization of an FSH releasing protei",
+      "结论": "删",
+      "理由": "猪卵巢滤泡FSH释放蛋白纯化，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D002",
+      "模块号": "M03",
+      "PMID": "27028912",
+      "标题": "Vascular Effects of Early versus Late Postmenopausal Treatme",
+      "结论": "留",
+      "理由": "绝经后雌二醇时机假说RCT，643名女性",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "D003",
+      "模块号": "M03",
+      "PMID": "12571168",
+      "标题": "Serum anti-Müllerian hormone is more strongly related to ova",
+      "结论": "留",
+      "理由": "AMH与卵巢卵泡状态相关性，75名不孕女性",
+      "标签": [],
+      "关联疑问": [
+        "Q08"
+      ]
+    },
+    {
+      "编号": "D004",
+      "模块号": "M03",
+      "PMID": "2244855",
+      "标题": "Inhibition of coronary artery atherosclerosis by 17-beta est",
+      "结论": "删",
+      "理由": "猴卵巢切除后冠脉粥样硬化研究，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D005",
+      "模块号": "M03",
+      "PMID": "8281693",
+      "标题": "Ethinyl estradiol acutely attenuates abnormal coronary vasom",
+      "结论": "删",
+      "理由": "雌二醇冠脉血管反应，非M03轴知识点",
+      "标签": [],
+      "关联疑问": []
+    },
+    {
+      "编号": "D006",
+      "模块号": "M03",
+      "PMID": "7720680",
+      "标题": "The effect of ovariectomy and estradiol replacement on brain",
+      "结论": "删",
+      "理由": "大鼠卵巢切除后BDNF表达，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D007",
+      "模块号": "M03",
+      "PMID": "17462639",
+      "标题": "The use of gonadotropin-releasing hormone (GnRH) agonist to ",
+      "结论": "删",
+      "理由": "IVF中GnRH激动剂触发方案，无绝经语境",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D008",
+      "模块号": "M03",
+      "PMID": "8636351",
+      "标题": "Concentrations of estrone, estradiol, and estrone sulfate an",
+      "结论": "删",
+      "理由": "乳腺癌患者雌激素水平测定，非M03轴",
+      "标签": [],
+      "关联疑问": []
+    },
+    {
+      "编号": "D009",
+      "模块号": "M03",
+      "PMID": "10999835",
+      "标题": "Ovarian response to follicle-stimulating hormone (FSH) stimu",
+      "结论": "留",
+      "理由": "FSH受体基因型与卵巢反应，FSH信号",
+      "标签": [],
+      "关联疑问": [
+        "Q08"
+      ]
+    },
+    {
+      "编号": "D010",
+      "模块号": "M03",
+      "PMID": "16882752",
+      "标题": "Letrozole reduces estrogen and gonadotropin exposure in wome",
+      "结论": "删",
+      "理由": "乳腺癌生育保存IVF方案，无绝经语境",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D011",
+      "模块号": "M03",
+      "PMID": "12413988",
+      "标题": "Effect of ovarian stimulation with recombinant follicle-stim",
+      "结论": "删",
+      "理由": "IVF卵巢刺激对子宫内膜影响，无绝经语境",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D012",
+      "模块号": "M03",
+      "PMID": "29718793",
+      "标题": "Gonadotropin-Releasing Hormone Agonists During Chemotherapy ",
+      "结论": "留",
+      "理由": "GnRH激动剂防化疗卵巢损伤，Meta分析",
+      "标签": [],
+      "关联疑问": [
+        "Q09"
+      ]
+    },
+    {
+      "编号": "D013",
+      "模块号": "M03",
+      "PMID": "21771987",
+      "标题": "Effect of the gonadotropin-releasing hormone analogue tripto",
+      "结论": "留",
+      "理由": "曲普瑞林防化疗致早绝经RCT",
+      "标签": [],
+      "关联疑问": [
+        "Q09"
+      ]
+    },
+    {
+      "编号": "D014",
+      "模块号": "M03",
+      "PMID": "11095431",
+      "标题": "Polycystic ovarian syndrome: evidence that flutamide restore",
+      "结论": "留",
+      "理由": "PCOS中GnRH脉冲发生器对雌二醇反馈",
+      "标签": [],
+      "关联疑问": [
+        "Q07"
+      ]
+    },
+    {
+      "编号": "D015",
+      "模块号": "M03",
+      "PMID": "12488112",
+      "标题": "Cyclic estradiol treatment normalizes body weight and restor",
+      "结论": "删",
+      "理由": "大鼠雌二醇周期处理对体重影响，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D016",
+      "模块号": "M03",
+      "PMID": "16412740",
+      "标题": "Incidence and prediction of ovarian hyperstimulation syndrom",
+      "结论": "删",
+      "理由": "IVF中OHSS发生率预测，无绝经语境",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D017",
+      "模块号": "M03",
+      "PMID": "3455160",
+      "标题": "The effects of ovariectomy and 17 beta-estradiol on cortical",
+      "结论": "删",
+      "理由": "大鼠卵巢切除对骨组织形态学影响，动物",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D018",
+      "模块号": "M03",
+      "PMID": "18675959",
+      "标题": "Gonadotropin-releasing hormone agonists for prevention of ch",
+      "结论": "留",
+      "理由": "GnRH激动剂保护化疗卵巢功能RCT",
+      "标签": [],
+      "关联疑问": [
+        "Q09"
+      ]
+    },
+    {
+      "编号": "D019",
+      "模块号": "M03",
+      "PMID": "16239296",
+      "标题": "Estradiol replacement enhances working memory in middle-aged",
+      "结论": "删",
+      "理由": "大鼠雌二醇替代与工作记忆，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D020",
+      "模块号": "M03",
+      "PMID": "1906406",
+      "标题": "Induction of preovulatory luteinizing hormone surge and prev",
+      "结论": "删",
+      "理由": "GnRH激动剂诱导IVF卵母细胞成熟，无绝经",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D021",
+      "模块号": "M03",
+      "PMID": "12970285",
+      "标题": "Nonsupplemented luteal phase characteristics after the admin",
+      "结论": "删",
+      "理由": "IVF黄体期特征比较，无绝经语境",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D022",
+      "模块号": "M03",
+      "PMID": "16443612",
+      "标题": "Caution: Vaginal estradiol appears to be contraindicated in ",
+      "结论": "留",
+      "理由": "绝经后阴道雌二醇与芳香化酶抑制剂",
+      "标签": [],
+      "关联疑问": [
+        "Q25"
+      ]
+    },
+    {
+      "编号": "D023",
+      "模块号": "M03",
+      "PMID": "12376508",
+      "标题": "Validity of free testosterone and free estradiol determinati",
+      "结论": "留",
+      "理由": "绝经后游离睾酮雌二醇测定验证",
+      "标签": [],
+      "关联疑问": [
+        "Q25"
+      ]
+    },
+    {
+      "编号": "D024",
+      "模块号": "M03",
+      "PMID": "34093446",
+      "标题": "Sarcopenia and Menopause: The Role of Estradiol.",
+      "结论": "留",
+      "理由": "肌少症与绝经雌二醇作用综述",
+      "标签": [],
+      "关联疑问": []
+    },
+    {
+      "编号": "D025",
+      "模块号": "M03",
+      "PMID": "21070796",
+      "标题": "Reexamination of testosterone, dihydrotestosterone, estradio",
+      "结论": "留",
+      "理由": "月经周期与绝经后性激素LC-MS/MS测定",
+      "标签": [],
+      "关联疑问": [
+        "Q25"
+      ]
+    },
+    {
+      "编号": "D026",
+      "模块号": "M03",
+      "PMID": "15486220",
+      "标题": "The 17alpha and 17beta isomers of estradiol both induce rapi",
+      "结论": "删",
+      "理由": "大鼠雌二醇异构体诱导海马突触，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D027",
+      "模块号": "M03",
+      "PMID": "18172327",
+      "标题": "Insulin, insulin-like growth factor-I, endogenous estradiol,",
+      "结论": "删",
+      "理由": "胰岛素IGF-I雌二醇与结直肠癌，非M03轴",
+      "标签": [],
+      "关联疑问": []
+    },
+    {
+      "编号": "D028",
+      "模块号": "M03",
+      "PMID": "12127097",
+      "标题": "Effects of chronic restraint stress and estradiol on open fi",
+      "结论": "删",
+      "理由": "大鼠慢性应激与雌二醇对空间记忆影响，动物",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D029",
+      "模块号": "M03",
+      "PMID": "27421538",
+      "标题": "Cognitive effects of estradiol after menopause: A randomized",
+      "结论": "留",
+      "理由": "绝经后雌二醇认知效应时机假说RCT",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "D030",
+      "模块号": "M03",
+      "PMID": "9743505",
+      "标题": "Estradiol therapy combined with progesterone and endothelium",
+      "结论": "删",
+      "理由": "雌二醇孕酮与血管舒张，非M03轴知识点",
+      "标签": [],
+      "关联疑问": []
+    },
+    {
+      "编号": "D031",
+      "模块号": "M03",
+      "PMID": "11278211",
+      "标题": "Comparable clinical outcome using the GnRH antagonist ganire",
+      "结论": "删",
+      "理由": "GnRH拮抗剂vs激动剂IVF方案，无绝经语境",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D032",
+      "模块号": "M03",
+      "PMID": "28598230",
+      "标题": "Protective mechanism of FSH against oxidative damage in mous",
+      "结论": "删",
+      "理由": "小鼠FSH保护颗粒细胞氧化损伤，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D033",
+      "模块号": "M03",
+      "PMID": "7775647",
+      "标题": "Human chorionic gonadotropin-dependent expression of vascula",
+      "结论": "删",
+      "理由": "hCG依赖VEGF表达与OHSS，无绝经语境",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D034",
+      "模块号": "M03",
+      "PMID": "18784351",
+      "标题": "Anti-mullerian hormone is an endocrine marker of ovarian gon",
+      "结论": "删",
+      "理由": "牛AMH作为卵泡标志物，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D035",
+      "模块号": "M03",
+      "PMID": "375393",
+      "标题": "Extrapituitary action of gonadotropin-releasing hormone: dir",
+      "结论": "删",
+      "理由": "GnRH直接抑制大鼠卵巢类固醇，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D036",
+      "模块号": "M03",
+      "PMID": "10329858",
+      "标题": "A randomized, open, parallel-group study on the preventive e",
+      "结论": "删",
+      "理由": "雌二醇阴道环防尿路感染，非M03轴",
+      "标签": [],
+      "关联疑问": []
+    },
+    {
+      "编号": "D037",
+      "模块号": "M03",
+      "PMID": "12519847",
+      "标题": "A randomized comparison of two ovarian stimulation protocols",
+      "结论": "删",
+      "理由": "IVF卵巢刺激方案比较，无绝经语境",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D038",
+      "模块号": "M03",
+      "PMID": "16113044",
+      "标题": "Dynamic assays of inhibin B, anti-Mullerian hormone and estr",
+      "结论": "留",
+      "理由": "抑制素B AMH雌二醇预测IVF结局",
+      "标签": [],
+      "关联疑问": [
+        "Q08",
+        "Q25"
+      ]
+    },
+    {
+      "编号": "D039",
+      "模块号": "M03",
+      "PMID": "18768812",
+      "标题": "Bisphenol A prevents the synaptogenic response to estradiol ",
+      "结论": "删",
+      "理由": "BPA防灵长类雌二醇突触反应，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D040",
+      "模块号": "M03",
+      "PMID": "14960294",
+      "标题": "Lack of efficacy of estradiol for depression in postmenopaus",
+      "结论": "删",
+      "理由": "雌二醇治疗绝经后抑郁无效，非M03轴",
+      "标签": [],
+      "关联疑问": []
+    },
+    {
+      "编号": "D041",
+      "模块号": "M03",
+      "PMID": "27217453",
+      "标题": "No Evidence for the Benefit of Gonadotropin-Releasing Hormon",
+      "结论": "留",
+      "理由": "GnRH激动剂保护淋巴瘤卵巢功能5年随访",
+      "标签": [],
+      "关联疑问": [
+        "Q09"
+      ]
+    },
+    {
+      "编号": "D042",
+      "模块号": "M03",
+      "PMID": "29322164",
+      "标题": "Efficacy of Transdermal Estradiol and Micronized Progesteron",
+      "结论": "留",
+      "理由": "雌二醇孕酮防围绝经抑郁RCT",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q14"
+      ]
+    },
+    {
+      "编号": "D043",
+      "模块号": "M03",
+      "PMID": "23364948",
+      "标题": "Cellular mechanism by which estradiol protects female ovarie",
+      "结论": "删",
+      "理由": "雌二醇保护小鼠胰岛素抵抗，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D044",
+      "模块号": "M03",
+      "PMID": "3080464",
+      "标题": "Biological effects of estradiol-17 beta in postmenopausal wo",
+      "结论": "留",
+      "理由": "绝经后口服vs经皮雌二醇生物学效应",
+      "标签": [],
+      "关联疑问": [
+        "Q22",
+        "Q25"
+      ]
+    },
+    {
+      "编号": "D045",
+      "模块号": "M03",
+      "PMID": "8456888",
+      "标题": "Quality of life of postmenopausal women on a regimen of tran",
+      "结论": "留",
+      "理由": "绝经后雌二醇治疗生活质量RCT",
+      "标签": [],
+      "关联疑问": [
+        "Q10"
+      ]
+    },
+    {
+      "编号": "D046",
+      "模块号": "M03",
+      "PMID": "16882749",
+      "标题": "Comparison of methods to measure low serum estradiol levels ",
+      "结论": "留",
+      "理由": "绝经后低水平雌二醇测定方法比较",
+      "标签": [],
+      "关联疑问": [
+        "Q25"
+      ]
+    },
+    {
+      "编号": "D047",
+      "模块号": "M03",
+      "PMID": "28231077",
+      "标题": "Association of genetic variation in the tachykinin receptor ",
+      "结论": "留",
+      "理由": "TACR3基因变异与潮热GWAS，NK3R通路",
+      "标签": [],
+      "关联疑问": [
+        "Q06"
+      ]
+    },
+    {
+      "编号": "D048",
+      "模块号": "M09",
+      "PMID": "16585466",
+      "标题": "Associations of hormones and menopausal status with depresse",
+      "结论": "留",
+      "理由": "绝经过渡期抑郁新发与激素纵向研究",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D049",
+      "模块号": "M09",
+      "PMID": "14706945",
+      "标题": "Hormones and menopausal status as predictors of depression i",
+      "结论": "留",
+      "理由": "激素与绝经状态预测抑郁前瞻性研究",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D050",
+      "模块号": "M09",
+      "PMID": "12646300",
+      "标题": "Hormones and mood: from menarche to menopause and beyond.",
+      "结论": "留",
+      "理由": "激素与情绪从初潮到绝经综述",
+      "标签": [],
+      "关联疑问": [
+        "Q10"
+      ]
+    },
+    {
+      "编号": "D051",
+      "模块号": "M09",
+      "PMID": "12615621",
+      "标题": "Menopausal status and sleep-disordered breathing in the Wisc",
+      "结论": "留",
+      "理由": "绝经状态与睡眠呼吸暂停关联",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D052",
+      "模块号": "M09",
+      "PMID": "8055122",
+      "标题": "A longitudinal analysis of the association between menopause",
+      "结论": "留",
+      "理由": "绝经与抑郁关联纵向分析",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D053",
+      "模块号": "M09",
+      "PMID": "14572118",
+      "标题": "Objective and subjective sleep quality in premenopausal, per",
+      "结论": "留",
+      "理由": "绝经各期客观主观睡眠质量比较",
+      "标签": [],
+      "关联疑问": [
+        "Q17",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D054",
+      "模块号": "M09",
+      "PMID": "29445307",
+      "标题": "Sleep problems during the menopausal transition: prevalence,",
+      "结论": "留",
+      "理由": "绝经过渡期睡眠问题综述",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D055",
+      "模块号": "M09",
+      "PMID": "18176355",
+      "标题": "Depressed mood during the menopausal transition and early po",
+      "结论": "留",
+      "理由": "绝经过渡期抑郁情绪纵向观察",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D056",
+      "模块号": "M09",
+      "PMID": "18063486",
+      "标题": "From menarche to menopause: exploring the underlying biology",
+      "结论": "留",
+      "理由": "初潮到绝经抑郁生物学机制综述",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D057",
+      "模块号": "M09",
+      "PMID": "23615639",
+      "标题": "Does risk for anxiety increase during the menopausal transit",
+      "结论": "留",
+      "理由": "SWAN研究绝经过渡期焦虑风险",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D058",
+      "模块号": "M09",
+      "PMID": "30098758",
+      "标题": "Sleep and Sleep Disorders in the Menopausal Transition.",
+      "结论": "留",
+      "理由": "绝经过渡期睡眠与睡眠障碍综述",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D059",
+      "模块号": "M09",
+      "PMID": "1565022",
+      "标题": "The Manitoba Project: a re-examination of the link between m",
+      "结论": "留",
+      "理由": "Manitoba项目绝经与抑郁再检验",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D060",
+      "模块号": "M09",
+      "PMID": "15879914",
+      "标题": "The role of anxiety and hormonal changes in menopausal hot f",
+      "结论": "留",
+      "理由": "焦虑与激素变化在绝经潮热中作用",
+      "标签": [],
+      "关联疑问": [
+        "Q06",
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D061",
+      "模块号": "M09",
+      "PMID": "21961723",
+      "标题": "Mood and menopause: findings from the Study of Women's Healt",
+      "结论": "留",
+      "理由": "SWAN 10年情绪与绝经研究",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D062",
+      "模块号": "M09",
+      "PMID": "11588948",
+      "标题": "Longitudinal study of hormone levels and depression among wo",
+      "结论": "留",
+      "理由": "绝经过渡期激素水平与抑郁纵向研究",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D063",
+      "模块号": "M09",
+      "PMID": "26747373",
+      "标题": "Association of Age at Menopause and Duration of Reproductive",
+      "结论": "留",
+      "理由": "绝经年龄与抑郁风险Meta分析",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D064",
+      "模块号": "M09",
+      "PMID": "20394324",
+      "标题": "Sleep symptoms during the menopausal transition and early po",
+      "结论": "留",
+      "理由": "绝经过渡期睡眠症状Seattle研究",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D065",
+      "模块号": "M09",
+      "PMID": "19302341",
+      "标题": "Women sleep objectively better than men and the sleep of you",
+      "结论": "留",
+      "理由": "性别睡眠差异与绝经激素治疗影响",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D066",
+      "模块号": "M09",
+      "PMID": "11451831",
+      "标题": "Impact of menopause on the prevalence and severity of sleep ",
+      "结论": "留",
+      "理由": "绝经对睡眠呼吸暂停患病率影响",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D067",
+      "模块号": "M09",
+      "PMID": "36961547",
+      "标题": "Does menopause elevate the risk for developing depression an",
+      "结论": "留",
+      "理由": "绝经是否升高抑郁焦虑风险系统综述",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D068",
+      "模块号": "M09",
+      "PMID": "20845239",
+      "标题": "Evaluation and management of sleep disturbance during the me",
+      "结论": "留",
+      "理由": "绝经过渡期睡眠障碍评估管理综述",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D069",
+      "模块号": "M09",
+      "PMID": "17486023",
+      "标题": "Sleep disturbance in menopause.",
+      "结论": "留",
+      "理由": "绝经睡眠障碍来源多因素分析",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D070",
+      "模块号": "M09",
+      "PMID": "15237002",
+      "标题": "Lack of sleep disturbance from menopausal hot flashes.",
+      "结论": "留",
+      "理由": "潮热是否导致睡眠障碍对照研究",
+      "标签": [],
+      "关联疑问": [
+        "Q06",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D071",
+      "模块号": "M09",
+      "PMID": "14655916",
+      "标题": "Effects of a yearlong moderate-intensity exercise and a stre",
+      "结论": "留",
+      "理由": "运动干预绝经后睡眠质量RCT",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D072",
+      "模块号": "M09",
+      "PMID": "27515805",
+      "标题": "Efficacy of menopausal hormone therapy on sleep quality: sys",
+      "结论": "留",
+      "理由": "绝经激素治疗睡眠质量Meta分析",
+      "标签": [],
+      "关联疑问": [
+        "Q14",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D073",
+      "模块号": "M09",
+      "PMID": "18652094",
+      "标题": "Predictors of sleep quality in women in the menopausal trans",
+      "结论": "留",
+      "理由": "绝经过渡期睡眠质量预测因素",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D074",
+      "模块号": "M09",
+      "PMID": "24800878",
+      "标题": "Examining the relationship between subjective sleep disturba",
+      "结论": "留",
+      "理由": "主观睡眠障碍与绝经系统综述",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D075",
+      "模块号": "M09",
+      "PMID": "19128903",
+      "标题": "Relations among menopausal symptoms, sleep disturbance and d",
+      "结论": "留",
+      "理由": "绝经症状睡眠障碍抑郁症状关系",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D076",
+      "模块号": "M09",
+      "PMID": "31097181",
+      "标题": "Effects of Pilates training on sleep quality, anxiety, depre",
+      "结论": "留",
+      "理由": "普拉提训练绝经后睡眠焦虑抑郁RCT",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D077",
+      "模块号": "M09",
+      "PMID": "15121571",
+      "标题": "Premenstrual syndrome as a predictor of menopausal symptoms.",
+      "结论": "留",
+      "理由": "经前综合征预测绝经症状纵向研究",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D078",
+      "模块号": "M09",
+      "PMID": "31851117",
+      "标题": "Effects of menopause on sleep quality and sleep disorders: C",
+      "结论": "留",
+      "理由": "绝经对睡眠质量影响加拿大纵向研究",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D079",
+      "模块号": "M09",
+      "PMID": "29365014",
+      "标题": "Type of Menopause, Age at Menopause, and Risk of Developing ",
+      "结论": "留",
+      "理由": "绝经类型年龄与阻塞性睡眠呼吸暂停",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D080",
+      "模块号": "M09",
+      "PMID": "23221728",
+      "标题": "Sleep disturbance and incidence of thyroid cancer in postmen",
+      "结论": "删",
+      "理由": "睡眠障碍与甲状腺癌关联，非M09知识点",
+      "标签": [],
+      "关联疑问": []
+    },
+    {
+      "编号": "D081",
+      "模块号": "M09",
+      "PMID": "31629860",
+      "标题": "Antidepressant-like effects of Xiaochaihutang in perimenopau",
+      "结论": "删",
+      "理由": "小柴胡汤抗抑郁小鼠模型，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D082",
+      "模块号": "M09",
+      "PMID": "19002015",
+      "标题": "Frequency and severity of hot flashes and sleep disturbance ",
+      "结论": "留",
+      "理由": "潮热频率严重程度与睡眠障碍关联",
+      "标签": [],
+      "关联疑问": [
+        "Q06",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D083",
+      "模块号": "M09",
+      "PMID": "19465674",
+      "标题": "Depression and the menopause: why antidepressants are not en",
+      "结论": "留",
+      "理由": "绝经抑郁抗抑郁药不足综述",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D084",
+      "模块号": "M09",
+      "PMID": "24848706",
+      "标题": "Associations between sleep duration, daytime nap duration, a",
+      "结论": "删",
+      "理由": "睡眠时长与骨质疏松关联，非M09核心",
+      "标签": [],
+      "关联疑问": []
+    },
+    {
+      "编号": "D085",
+      "模块号": "M09",
+      "PMID": "22288870",
+      "标题": "Sleep disturbance in menopause.",
+      "结论": "留",
+      "理由": "绝经睡眠障碍综述",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D086",
+      "模块号": "M09",
+      "PMID": "22433978",
+      "标题": "Effect of escitalopram on insomnia symptoms and subjective s",
+      "结论": "留",
+      "理由": "艾司西酞普兰治疗绝经失眠RCT",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D087",
+      "模块号": "M09",
+      "PMID": "21147026",
+      "标题": "Comparison of subjective and objective sleep quality in meno",
+      "结论": "留",
+      "理由": "绝经与非绝经女性主客观睡眠比较",
+      "标签": [],
+      "关联疑问": [
+        "Q17",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D088",
+      "模块号": "M09",
+      "PMID": "16952511",
+      "标题": "A randomized controlled pilot study of acupuncture for postm",
+      "结论": "留",
+      "理由": "针灸治疗绝经后潮热睡眠RCT",
+      "标签": [],
+      "关联疑问": [
+        "Q20",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D089",
+      "模块号": "M09",
+      "PMID": "38916279",
+      "标题": "Sleep disturbance associated with the menopause.",
+      "结论": "留",
+      "理由": "绝经相关睡眠障碍综述2024",
+      "标签": [],
+      "关联疑问": [
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D090",
+      "模块号": "M09",
+      "PMID": "29843044",
+      "标题": "The antidepressant-like effects of Chaihu Shugan San: Depend",
+      "结论": "删",
+      "理由": "柴胡疏肝散抗抑郁大鼠模型，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "D091",
+      "模块号": "M09",
+      "PMID": "28394509",
+      "标题": "Adverse Childhood Experiences and Risk for First-Episode Maj",
+      "结论": "留",
+      "理由": "童年不良经历与绝经过渡期抑郁风险",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D092",
+      "模块号": "M09",
+      "PMID": "20616669",
+      "标题": "The influence of menopause status and postmenopausal use of ",
+      "结论": "留",
+      "理由": "绝经状态与激素治疗对抑郁表现影响",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D093",
+      "模块号": "M09",
+      "PMID": "28489293",
+      "标题": "The role of family history of depression and the menopausal ",
+      "结论": "留",
+      "理由": "SWAN MHS抑郁家族史与绝经过渡期抑郁",
+      "标签": [],
+      "关联疑问": [
+        "Q10",
+        "Q18"
+      ]
+    },
+    {
+      "编号": "D094",
+      "模块号": "M09",
+      "PMID": "33345973",
+      "标题": "The antidepressant and anxiolytic effect of GPER on transloc",
+      "结论": "删",
+      "理由": "GPER抗抑郁绝经雌鼠模型，动物研究",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    }
+  ]
+}

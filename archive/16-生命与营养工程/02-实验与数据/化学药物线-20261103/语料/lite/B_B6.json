@@ -1,0 +1,1913 @@
+{
+  "query_id": "B6",
+  "group": "B",
+  "query": "spermidine AND autophagy AND longevity",
+  "hitCount": 1346,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:12.197953+00:00",
+  "results": [
+    {
+      "id": "42444672",
+      "source": "MED",
+      "pmid": "42444672",
+      "pmcid": "PMC13358466",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13358466"
+        ]
+      },
+      "doi": "10.15698/cst2026.07.318",
+      "title": "Polyamine-mediated inhibition of ferroptosis contributes to geroprotection.",
+      "authorString": "Madeo F, Carmona-Gutierrez D, Kroemer G.",
+      "journalTitle": "Cell Stress",
+      "journalVolume": "10",
+      "pubYear": "2026",
+      "journalIssn": "2523-0204",
+      "pageInfo": "49-52",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-03",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "PPR1252473",
+      "source": "PPR",
+      "doi": "10.20944/preprints202606.0865.v1",
+      "title": "Unusually High Enrichment of Bioactive Components for Healthy Aging and Longevity in Natto, a Fermented Soybean Food",
+      "authorString": "Murakami S.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "Preprints.org",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-11",
+      "firstIndexDate": "2026-06-18",
+      "versionNumber": 1
+    },
+    {
+      "id": "42169618",
+      "source": "MED",
+      "pmid": "42169618",
+      "pmcid": "PMC13240347",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13240347"
+        ]
+      },
+      "doi": "10.1111/acel.70545",
+      "title": "Spermidine Mitigates Immune Cell Senescence and Boosts Vaccine Responses in Healthy Older Adults-A Pilot Study.",
+      "authorString": "Alsaleh G, Ali M, Kayvanjoo AH, Liu F, Moreau T, Bibi S, Luo L, Govender M, Carroll M, Hofer SJ, Tobias E, Magnes C, Kell L, Chung C, Deng Y, Bhandari A, Garner LC, Conrad T, Chen L, Kronsteiner-Dobramysl B, Dunachie S, Spiller OB, Lambe T, Klenerman P, Jones LC, Simon AK.",
+      "journalTitle": "Aging Cell",
+      "issue": "6",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pageInfo": "e70545",
+      "pubType": "research-article; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-05-22"
+    },
+    {
+      "id": "41830033",
+      "source": "MED",
+      "pmid": "41830033",
+      "pmcid": "PMC12986615",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12986615"
+        ]
+      },
+      "doi": "10.3390/nu18050863",
+      "title": "Mechanistic Modulation of Autophagy by Bioactive Natural Products: Implications for Human Aging and Longevity.",
+      "authorString": "Jalouli M, Harrath AH, Al-Zharani M, Rahman MA.",
+      "journalTitle": "Nutrients",
+      "issue": "5",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "863",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 7,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-07",
+      "firstIndexDate": "2026-03-15"
+    },
+    {
+      "id": "42588134",
+      "source": "MED",
+      "pmid": "42588134",
+      "pmcid": "PMC13468152",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13468152"
+        ]
+      },
+      "doi": "10.3390/nu18152511",
+      "title": "Natural Bioactive Compounds Targeting Key Hallmarks of Aging: Functional Food Potential of Spermidine, Fisetin, Berberine, and Urolithin A.",
+      "authorString": "Rzeski W, Rzeska W.",
+      "journalTitle": "Nutrients",
+      "issue": "15",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2511",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-03",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "42801599",
+      "source": "MED",
+      "pmid": "42801599",
+      "pmcid": "PMC13616371",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13616371"
+        ]
+      },
+      "doi": "10.1002/advs.77798",
+      "title": "SAT1-Induced Spermidine Depletion Potentiates Food Allergy.",
+      "authorString": "Liu M, Zhang B, Wang J, Jiang Y, Han S, Wang Q, Zeng L, Wang J, Che H.",
+      "journalTitle": "Adv Sci (Weinh)",
+      "pubYear": "2026",
+      "journalIssn": "2198-3844",
+      "pageInfo": "e77798",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "geo",
+          "refseq",
+          "uniprot",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-27",
+      "firstIndexDate": "2026-09-28"
+    },
+    {
+      "id": "42358231",
+      "source": "MED",
+      "pmid": "42358231",
+      "pmcid": "PMC13292852",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13292852"
+        ]
+      },
+      "doi": "10.2147/dnnd.s608341",
+      "title": "Spermidine in Alzheimer's Disease: Evidence from Animal Models and Human Studies.",
+      "authorString": "Angelucci F, Cerman J, Amlerova J, Sheardova K, Pavlik J, Hort J.",
+      "journalTitle": "Degener Neurol Neuromuscul Dis",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "1179-9900",
+      "pageInfo": "608341",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-20",
+      "firstIndexDate": "2026-06-27"
+    },
+    {
+      "id": "41404767",
+      "source": "MED",
+      "pmid": "41404767",
+      "doi": "10.1017/s0954422425100292",
+      "title": "Distinct roles of urolithin A and spermidine in mitophagy and autophagy: implications for dietary supplementation.",
+      "authorString": "Borsky P, Holmannova D, Soukup O, Fiala Z, Maresova T, Hanzlova M, Philipp T, Borska L.",
+      "journalTitle": "Nutr Res Rev",
+      "journalVolume": "39",
+      "pubYear": "2025",
+      "journalIssn": "0954-4224; 1475-2700; ",
+      "pageInfo": "e8",
+      "pubType": "research support, non-u.s. gov't; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-12-17",
+      "firstIndexDate": "2025-12-17"
+    },
+    {
+      "id": "42222188",
+      "source": "MED",
+      "pmid": "42222188",
+      "pmcid": "PMC13219961",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13219961"
+        ]
+      },
+      "doi": "10.3389/fragi.2026.1791853",
+      "title": "Dietary pyrroloquinoline quinone and spermidine in healthy longevity: targeting the hallmarks of aging.",
+      "authorString": "Numaguchi T, Nakamura M, Koshizawa T, Mohamad Ishak NS, Hashimoto K.",
+      "journalTitle": "Front Aging",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2673-6217",
+      "pageInfo": "1791853",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-15",
+      "firstIndexDate": "2026-06-02"
+    },
+    {
+      "id": "42684553",
+      "source": "MED",
+      "pmid": "42684553",
+      "pmcid": "PMC13538329",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13538329"
+        ]
+      },
+      "doi": "10.1007/s00726-026-03554-w",
+      "title": "Spermidine in Colorectal cancer: friend or foe?",
+      "authorString": "Coni S, Bordone R, Campea L, Ohno S, Canettieri G, Agostinelli E.",
+      "journalTitle": "Amino Acids",
+      "issue": "1",
+      "journalVolume": "58",
+      "pubYear": "2026",
+      "journalIssn": "0939-4451; 1438-2199; ",
+      "pageInfo": "47",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-26",
+      "firstIndexDate": "2026-09-03"
+    },
+    {
+      "id": "42661334",
+      "source": "MED",
+      "pmid": "42661334",
+      "pmcid": "PMC13522638",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13522638"
+        ]
+      },
+      "doi": "10.1111/acel.70658",
+      "title": "A Mechanism-Based Framework for Anti-Aging Strategies: From Metabolic Regulation to Senotherapy and Stem Cell-Based Interventions.",
+      "authorString": "Li F, Wang Y, Wang G, Chen J, Huang S.",
+      "journalTitle": "Aging Cell",
+      "issue": "9",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pageInfo": "e70658",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "41577121",
+      "source": "MED",
+      "pmid": "41577121",
+      "pmcid": "PMC12912249",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12912249"
+        ]
+      },
+      "doi": "10.1016/j.jmb.2026.169656",
+      "title": "Links Between Autophagy and Healthy Aging.",
+      "authorString": "Ebata H, Hansen M.",
+      "journalTitle": "J Mol Biol",
+      "issue": "6",
+      "journalVolume": "438",
+      "pubYear": "2026",
+      "journalIssn": "0022-2836; 1089-8638; ",
+      "pageInfo": "169656",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 5,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-21",
+      "firstIndexDate": "2026-01-24"
+    },
+    {
+      "id": "42225652",
+      "source": "MED",
+      "pmid": "42225652",
+      "pmcid": "PMC13226726",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13226726"
+        ]
+      },
+      "doi": "10.1038/s41392-026-02662-z",
+      "title": "Insights into the therapeutic strategies for aging and aging-associated diseases.",
+      "authorString": "Dong R, Wu Q, Kan J, Fu C, Sorrentino V, Chow A, Lei Y, Wu D, Xu Z, Du J, Huang D.",
+      "journalTitle": "Signal Transduct Target Ther",
+      "issue": "1",
+      "journalVolume": "11",
+      "pubYear": "2026",
+      "journalIssn": "2095-9907; 2059-3635; ",
+      "pageInfo": "202",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "uniprot",
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-06-02"
+    },
+    {
+      "id": "41898496",
+      "source": "MED",
+      "pmid": "41898496",
+      "pmcid": "PMC13026362",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13026362"
+        ]
+      },
+      "doi": "10.3390/ijms27062633",
+      "title": "Yeast Chronological Lifespan Model as a Tool for Screening Aging Interventions.",
+      "authorString": "Xu P, Zhang X, Wang Y, Rahman SU, Huang D, Wu Z.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "6",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "2633",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-13",
+      "firstIndexDate": "2026-03-29"
+    },
+    {
+      "id": "41527327",
+      "source": "MED",
+      "pmid": "41527327",
+      "pmcid": "PMC12796513",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12796513"
+        ]
+      },
+      "doi": "10.1111/acel.70371",
+      "title": "Lifespan-Extending Endogenous Metabolites.",
+      "authorString": "Jiang Y, Han JJ.",
+      "journalTitle": "Aging Cell",
+      "issue": "2",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pageInfo": "e70371",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-01",
+      "firstIndexDate": "2026-01-13"
+    },
+    {
+      "id": "42541426",
+      "source": "MED",
+      "pmid": "42541426",
+      "pmcid": "PMC13428469",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13428469"
+        ]
+      },
+      "doi": "10.1002/arch.70201",
+      "title": "Neuroprotective Potential of Spermidine in Drosophila sws Neurodegenerative Model.",
+      "authorString": "Raspopina A, Tkachuk M, Matiytsiv N.",
+      "journalTitle": "Arch Insect Biochem Physiol",
+      "issue": "4",
+      "journalVolume": "122",
+      "pubYear": "2026",
+      "journalIssn": "0739-4462; 1520-6327; ",
+      "pageInfo": "e70201",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-01",
+      "firstIndexDate": "2026-08-03"
+    },
+    {
+      "id": "42792717",
+      "source": "MED",
+      "pmid": "42792717",
+      "pmcid": "PMC13604441",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13604441"
+        ]
+      },
+      "doi": "10.3390/biomedicines14091975",
+      "title": "Gut Microbiota and Brain Aging: Identifying Keystone Biomarkers for Cognitive Health.",
+      "authorString": "Bhatia M, Mishra SP, Mishra RK, Jain S, Yadav H, Tomar RS.",
+      "journalTitle": "Biomedicines",
+      "issue": "9",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2227-9059",
+      "pageInfo": "1975",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-02",
+      "firstIndexDate": "2026-09-26"
+    },
+    {
+      "id": "42420489",
+      "source": "MED",
+      "pmid": "42420489",
+      "pmcid": "PMC13534471",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13534471"
+        ]
+      },
+      "doi": "10.1038/s44318-026-00847-4",
+      "title": "Local autophagy impairment triggers brain-wide presynaptic remodeling and resilience.",
+      "authorString": "Toppe D, Huang S, Lützkendorf J, Jiang PL, Suárez-Grimalt R, Neumann A, Zhao Z, Lőrincz P, Scheunemann L, Juhász G, Liu F, Maglione M, Sigrist SJ.",
+      "journalTitle": "EMBO J",
+      "issue": "17",
+      "journalVolume": "45",
+      "pubYear": "2026",
+      "journalIssn": "0261-4189; 1460-2075; ",
+      "pageInfo": "6054-6085",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "go",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-08",
+      "firstIndexDate": "2026-07-09"
+    },
+    {
+      "id": "41799286",
+      "source": "MED",
+      "pmid": "41799286",
+      "pmcid": "PMC12963641",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12963641"
+        ]
+      },
+      "doi": "10.34133/research.1184",
+      "title": "Polyamines as a Universal Language of Host-Microbiota Symbiosis.",
+      "authorString": "Fang X, Guo Y, Huang J, Zhang M.",
+      "journalTitle": "Research (Wash D C)",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2639-5274",
+      "pageInfo": "1184",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-06",
+      "firstIndexDate": "2026-03-10"
+    },
+    {
+      "id": "42196445",
+      "source": "MED",
+      "pmid": "42196445",
+      "pmcid": "PMC13207680",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13207680"
+        ]
+      },
+      "doi": "10.3390/ijms27104467",
+      "title": "Bat-Inspired Longevity: Immune Damage Management and Nutritional Modulation for Healthy Aging.",
+      "authorString": "Park S, Daily JW.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "10",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "4467",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-16",
+      "firstIndexDate": "2026-05-28"
+    },
+    {
+      "id": "42734829",
+      "source": "MED",
+      "pmid": "42734829",
+      "pmcid": "PMC13575090",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13575090"
+        ]
+      },
+      "doi": "10.1007/s00726-026-03544-y",
+      "title": "Polyamine metabolic enzyme SAT1 remodels the neuronal transcriptome and rescues α-synuclein toxicity in Drosophila.",
+      "authorString": "Bangash ZR, Matsui H, Ranxhi B, Todi SV, LeWitt PA, Tsou WL.",
+      "journalTitle": "Amino Acids",
+      "issue": "1",
+      "journalVolume": "58",
+      "pubYear": "2026",
+      "journalIssn": "0939-4451; 1438-2199; ",
+      "pageInfo": "48",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-30",
+      "firstIndexDate": "2026-09-15"
+    },
+    {
+      "id": "41663409",
+      "source": "MED",
+      "pmid": "41663409",
+      "pmcid": "PMC12917199",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12917199"
+        ]
+      },
+      "doi": "10.1038/s41538-025-00695-2",
+      "title": "The role of spermidine in plants and humans: a pathway from climate change adaptation to health benefits.",
+      "authorString": "Blagojević BD, Brunel-Muguet S, Šućur R, Mladenov V, Balaž I, Vollmann J, Fotopoulos V, Mäder K.",
+      "journalTitle": "NPJ Sci Food",
+      "issue": "1",
+      "journalVolume": "10",
+      "pubYear": "2026",
+      "journalIssn": "2396-8370",
+      "pageInfo": "68",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 5,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-09",
+      "firstIndexDate": "2026-02-10"
+    },
+    {
+      "id": "41721117",
+      "source": "MED",
+      "pmid": "41721117",
+      "pmcid": "PMC12963084",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12963084"
+        ]
+      },
+      "doi": "10.1007/s00726-026-03505-5",
+      "title": "Probiotic and microbial modulation of polyamine production: an emerging avenue for neuroprotection in neurodegenerative disorders.",
+      "authorString": "Adhikari T, Saha P.",
+      "journalTitle": "Amino Acids",
+      "issue": "1",
+      "journalVolume": "58",
+      "pubYear": "2026",
+      "journalIssn": "0939-4451; 1438-2199; ",
+      "pageInfo": "15",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-21",
+      "firstIndexDate": "2026-02-22"
+    },
+    {
+      "id": "41751214",
+      "source": "MED",
+      "pmid": "41751214",
+      "pmcid": "PMC12937842",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12937842"
+        ]
+      },
+      "doi": "10.3390/biomedicines14020316",
+      "title": "Mechanistic Links Between the Gut Microbiome and Longevity Therapeutics.",
+      "authorString": "Garzon-Escamilla N, Medina-Cardena M, Roy P, Trent J, Jamous J, Somesan Y, Denslow SJ.",
+      "journalTitle": "Biomedicines",
+      "issue": "2",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2227-9059",
+      "pageInfo": "316",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-30",
+      "firstIndexDate": "2026-02-27"
+    },
+    {
+      "id": "PPR1267178",
+      "source": "PPR",
+      "doi": "10.64898/2026.03.19.26348863",
+      "title": "REPROGRAM: REsilience PROmotion with GeRoprotectors: AssessMent of biological effect. Rationale and protocol for a trial of biological effect",
+      "authorString": "Wilson D, Acharjee A, Duggal NA, Hombrebueno JR, Jones SW, Lewis J, de Magalhães JP, Martinez-Serrato Y, Mazaheri A, McGettrick HM, Mondal S, Naylor AJ, Nixon A, Nicholson T, Partridge J, Pinkney T, Rattray NJW, Steves C, Tomkova K, Welch C, Jackson T.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "medRxiv",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-23",
+      "firstIndexDate": "2026-07-03"
+    },
+    {
+      "id": "42737424",
+      "source": "MED",
+      "pmid": "42737424",
+      "pmcid": "PMC13565775",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13565775"
+        ]
+      },
+      "doi": "10.3390/ijms27177521",
+      "title": "Geroprotective Effects of Drugs Modulating Metabolic Pathways: Perspectives of Pharmacology in Anti-Aging Therapy.",
+      "authorString": "Grycan M, Zyśk R, Grycan G, Jakiel G, Dudek A, Gromadzka G.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "17",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "7521",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-22",
+      "firstIndexDate": "2026-09-15"
+    },
+    {
+      "id": "42915574",
+      "source": "MED",
+      "pmid": "42915574",
+      "pmcid": "PMC13587599",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13587599"
+        ]
+      },
+      "doi": "10.1021/acschemneuro.6c00569",
+      "title": "Pharmacological Activation of Autophagy Ameliorates Neuromuscular-Associated Defects and Extends Lifespan in a Caenorhabditis elegans Model of Spinal Muscular Atrophy.",
+      "authorString": "Rashid S, Gómez CC, Dimitriadi M.",
+      "journalTitle": "ACS Chem Neurosci",
+      "issue": "18",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1948-7193",
+      "pageInfo": "3272-3282",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-10-25"
+    },
+    {
+      "id": "42002642",
+      "source": "MED",
+      "pmid": "42002642",
+      "pmcid": "PMC13253860",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13253860"
+        ]
+      },
+      "doi": "10.1038/s41598-026-49273-w",
+      "title": "Spermidine preserves cardiac systolic function in estrogen-deprived rats with accelerated aging via metabolic and mitochondrial reprogramming.",
+      "authorString": "Kaorop W, Maneechote C, Pratchayasakul W, Kumfu S, Arunsak B, Kongkaew A, Chattipakorn SC, Chattipakorn N.",
+      "journalTitle": "Sci Rep",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2045-2322",
+      "pageInfo": "18140",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-19",
+      "firstIndexDate": "2026-04-20"
+    },
+    {
+      "id": "42654284",
+      "source": "MED",
+      "pmid": "42654284",
+      "pmcid": "PMC13517069",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13517069"
+        ]
+      },
+      "doi": "10.3390/nu18162704",
+      "title": "Vitamin C as a Potential Geroprotector: Interactions with Aging Hallmarks and Implications for Healthy Longevity.",
+      "authorString": "Bodó D, Jójárt F, Jójárt R, Csupor D, Tóth B.",
+      "journalTitle": "Nutrients",
+      "issue": "16",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2704",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-19",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "PPR1073083",
+      "source": "PPR",
+      "doi": "10.20944/preprints202508.1888.v1",
+      "title": "High-Spermidine-Producing Yeast Strain for Autophagy-Promoting Applications",
+      "authorString": "Koshizawa T, Numaguchi T, Tamakoshi M, Sato Y, Hashimoto K, Mohamad Ishak NS, Ikemoto K.",
+      "pubYear": "2025",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "Preprints.org",
+        "yearOfPublication": 2025
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 1,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-08-26",
+      "firstIndexDate": "2025-08-27",
+      "versionNumber": 1
+    },
+    {
+      "id": "41754095",
+      "source": "MED",
+      "pmid": "41754095",
+      "pmcid": "PMC12943018",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12943018"
+        ]
+      },
+      "doi": "10.3390/nu18040578",
+      "title": "The Diet-Microbiota-Polyamine Axis in Intestinal Aging: Microbial Pathways, Functional Foods, and Physiological Implications.",
+      "authorString": "Mafe AN, Büsselberg D.",
+      "journalTitle": "Nutrients",
+      "issue": "4",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "578",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-10",
+      "firstIndexDate": "2026-02-27"
+    },
+    {
+      "id": "42170362",
+      "source": "MED",
+      "pmid": "42170362",
+      "pmcid": "PMC13189365",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13189365"
+        ]
+      },
+      "doi": "10.7759/cureus.109299",
+      "title": "Changes in Serum Testosterone After Sublingual Enclomiphene Citrate Combined With a Mineral Oxide Delivery System: A Retrospective Case Series of 15 Men.",
+      "authorString": "Warren S.",
+      "journalTitle": "Cureus",
+      "issue": "5",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e109299",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-20",
+      "firstIndexDate": "2026-05-22"
+    },
+    {
+      "id": "41617890",
+      "source": "MED",
+      "pmid": "41617890",
+      "pmcid": "PMC12881085",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12881085"
+        ]
+      },
+      "doi": "10.1007/s00726-026-03497-2",
+      "title": "Polyamine metabolism as a regulator of cellular and organismal aging.",
+      "authorString": "Uemura T, Takayama J, Oguro A, Terui Y.",
+      "journalTitle": "Amino Acids",
+      "issue": "1",
+      "journalVolume": "58",
+      "pubYear": "2026",
+      "journalIssn": "0939-4451; 1438-2199; ",
+      "pageInfo": "7",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 6,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-31",
+      "firstIndexDate": "2026-02-06"
+    },
+    {
+      "id": "42631064",
+      "source": "MED",
+      "pmid": "42631064",
+      "pmcid": "PMC13495221",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13495221"
+        ]
+      },
+      "doi": "10.15212/npt-2025-0028",
+      "title": "Polyamine Metabolism in Brain Health and Disease.",
+      "authorString": "Tao X, Nassuna T, Zhai RG.",
+      "journalTitle": "Neuropharmacol Ther",
+      "journalVolume": "3",
+      "pubYear": "2026",
+      "journalIssn": "2990-8779",
+      "pageInfo": "49-62",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-27",
+      "firstIndexDate": "2026-08-23"
+    },
+    {
+      "id": "41874700",
+      "source": "MED",
+      "pmid": "41874700",
+      "pmcid": "PMC13043622",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13043622"
+        ]
+      },
+      "doi": "10.1007/s00726-026-03512-6",
+      "title": "Adaptive crosstalk between polyamine metabolism, translation, and autophagy sustains energy homeostasis in mammals during starvation: a scoping review.",
+      "authorString": "Karimi K, Roberts SC, Carter NS, Hofer SJ, Karimi R.",
+      "journalTitle": "Amino Acids",
+      "issue": "1",
+      "journalVolume": "58",
+      "pubYear": "2026",
+      "journalIssn": "0939-4451; 1438-2199; ",
+      "pageInfo": "25",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-24",
+      "firstIndexDate": "2026-03-24"
+    },
+    {
+      "id": "41096907",
+      "source": "MED",
+      "pmid": "41096907",
+      "pmcid": "PMC12525316",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12525316"
+        ]
+      },
+      "doi": "10.3390/ijms26199643",
+      "title": "Dietary and Pharmacological Modulation of Aging-Related Metabolic Pathways: Molecular Insights, Clinical Evidence, and a Translational Model.",
+      "authorString": "Murillo-Cancho AF, Lozano-Paniagua D, Nievas-Soriano BJ.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "19",
+      "journalVolume": "26",
+      "pubYear": "2025",
+      "journalIssn": "1422-0067",
+      "pageInfo": "9643",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 9,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-10-02",
+      "firstIndexDate": "2025-10-16"
+    },
+    {
+      "id": "42780878",
+      "source": "MED",
+      "pmid": "42780878",
+      "pmcid": "PMC13598905",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13598905"
+        ]
+      },
+      "doi": "10.3389/fendo.2026.1942723",
+      "title": "Bioactive natural products predominantly derived from Chinese herbal medicines for diminished ovarian reserve: mechanistic insights into ovarian protection.",
+      "authorString": "Ma Z, Wang L, Tang L, Zhang J, Lin R, Chai X, Zhu Y, Ye Y, Xin X, Li D.",
+      "journalTitle": "Front Endocrinol (Lausanne)",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-2392",
+      "pageInfo": "1942723",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-09",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "PMC13658900",
+      "source": "PMC",
+      "pmcid": "PMC13658900",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13658900"
+        ]
+      },
+      "title": "Telomeric autophagy in human health, aging, and diseases",
+      "authorString": "Li X, Wu X.",
+      "journalTitle": "Front Mol Biosci",
+      "journalVolume": "13",
+      "journalIssn": "2296-889x",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-16",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "41988378",
+      "source": "MED",
+      "pmid": "41988378",
+      "pmcid": "PMC13077501",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13077501"
+        ]
+      },
+      "doi": "10.1021/acsptsci.6c00026",
+      "title": "Translational Geroscience Strategies for Delaying Multimorbidity.",
+      "authorString": "Khanal P, Chand J, Patil VS, Singh L, Bhattacharya K.",
+      "journalTitle": "ACS Pharmacol Transl Sci",
+      "issue": "4",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2575-9108",
+      "pageInfo": "839-858",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-16",
+      "firstIndexDate": "2026-04-17"
+    },
+    {
+      "id": "PMC13300023",
+      "source": "PMC",
+      "pmcid": "PMC13300023",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13300023"
+        ]
+      },
+      "title": "From Longevity Genetics to Precision Interventions: Integrating Nutrigenomics and Epigenetic Mechanisms of Ageing",
+      "authorString": "Pîrlog L, Cătană A, Pitforodeschi A, Pilatec A, Băilă R, Rusu I, Militaru M, Iordănescu I, Belbe A.",
+      "journalTitle": "Genes (Basel)",
+      "issue": "6",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2073-4425",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "refsnp",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-06-26"
+    },
+    {
+      "id": "42812993",
+      "source": "MED",
+      "pmid": "42812993",
+      "pmcid": "PMC13621515",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13621515"
+        ]
+      },
+      "doi": "10.3389/fnut.2026.1915344",
+      "title": "Intermittent and periodic fasting: molecular mechanisms, health benefits and research challenges.",
+      "authorString": "Liu Y, Guo H.",
+      "journalTitle": "Front Nutr",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2296-861x",
+      "pageInfo": "1915344",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-15",
+      "firstIndexDate": "2026-10-01"
+    },
+    {
+      "id": "42410332",
+      "source": "MED",
+      "pmid": "42410332",
+      "pmcid": "PMC13337977",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13337977"
+        ]
+      },
+      "doi": "10.1002/biof.70127",
+      "title": "Caenorhabditis elegans and Drosophila melanogaster as Model Organisms in Biofactor Research.",
+      "authorString": "Lüersen K, Roeder T, Rimbach G.",
+      "journalTitle": "Biofactors",
+      "issue": "4",
+      "journalVolume": "52",
+      "pubYear": "2026",
+      "journalIssn": "0951-6433; 1872-8081; ",
+      "pageInfo": "e70127",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-08"
+    },
+    {
+      "id": "PMC13649080",
+      "source": "PMC",
+      "pmcid": "PMC13649080",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13649080"
+        ]
+      },
+      "title": "Polyamines, cardiorespiratory fitness, body composition, and mitochondrial function in older patients with coronary artery disease",
+      "journalTitle": "Eur Heart J Open",
+      "issue": "5",
+      "journalVolume": "6",
+      "pubYear": "2026",
+      "journalIssn": "2752-4191",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-10-09"
+    },
+    {
+      "id": "41934491",
+      "source": "MED",
+      "pmid": "41934491",
+      "pmcid": "PMC13050347",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13050347"
+        ]
+      },
+      "doi": "10.1007/s12017-026-08923-y",
+      "title": "SIRT1 Activators as Geroprotective Agents in Brain Aging: Mechanisms and Therapeutic Potential.",
+      "authorString": "Alameen AAM, Al-Kuraishy HM, Al-Gareeb AI, Alexiou A, Papadakis M, Faheem SA, El-Saber Batiha G.",
+      "journalTitle": "Neuromolecular Med",
+      "issue": "1",
+      "journalVolume": "28",
+      "pubYear": "2026",
+      "journalIssn": "1535-1084; 1559-1174; ",
+      "pageInfo": "20",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "refsnp",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-04",
+      "firstIndexDate": "2026-04-05"
+    },
+    {
+      "id": "42308222",
+      "source": "MED",
+      "pmid": "42308222",
+      "pmcid": "PMC13274875",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13274875"
+        ]
+      },
+      "doi": "10.1371/journal.pone.0346347",
+      "title": "REPROGRAM: REsilience PROmotion with GeRoprotectors: AssessMent of biological effect: Rationale and protocol for a trial of biological effect.",
+      "authorString": "Wilson D, Acharjee A, Duggal NA, Hombrebueno JR, Jones SW, Lewis JW, de Magalhães JP, Martinez-Serrato Y, Mazaheri A, McGettrick HM, Mondal S, Naylor AJ, Nixon A, Nicholson T, Partridge J, Pinkney T, Rattray NJW, Steves C, Tomkova K, Welch C, Jackson T.",
+      "journalTitle": "PLoS One",
+      "issue": "6",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1932-6203",
+      "pageInfo": "e0346347",
+      "pubType": "clinical trial protocol; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-17",
+      "firstIndexDate": "2026-06-18"
+    },
+    {
+      "id": "42197044",
+      "source": "MED",
+      "pmid": "42197044",
+      "pmcid": "PMC13209393",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13209393"
+        ]
+      },
+      "doi": "10.3390/nu18101584",
+      "title": "Dietary Polyamine Intake Across Age Groups in Spain: A Comprehensive Assessment.",
+      "authorString": "Toro-Funes N, Comas-Basté O, Latorre-Moratalla M, Veciana-Nogués MT, Vidal-Carou MC.",
+      "journalTitle": "Nutrients",
+      "issue": "10",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "1584",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-16",
+      "firstIndexDate": "2026-05-28"
+    },
+    {
+      "id": "41253835",
+      "source": "MED",
+      "pmid": "41253835",
+      "pmcid": "PMC12627732",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12627732"
+        ]
+      },
+      "doi": "10.1038/s41514-025-00279-0",
+      "title": "Towards global healthy longevity: report from the 1st World Longevity Summit in Kyotango, Japan.",
+      "authorString": "Kitani T, Matoba S, Naito Y, Horvath S, Yoshimori T, Chan FKL, Matsuda T, Bandini S, Nakagami H, Morishita R, Nakayama Y, Yaku H.",
+      "journalTitle": "NPJ Aging",
+      "issue": "1",
+      "journalVolume": "11",
+      "pubYear": "2025",
+      "journalIssn": "2731-6068",
+      "pageInfo": "89",
+      "pubType": "meeting-report; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-18",
+      "firstIndexDate": "2025-11-19"
+    },
+    {
+      "id": "41283332",
+      "source": "MED",
+      "pmid": "41283332",
+      "pmcid": "PMC12641694",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12641694"
+        ]
+      },
+      "doi": "10.3390/ncrna11060077",
+      "title": "Prolonged Survival with Dieting for Improved Autophagy.",
+      "authorString": "Fukumoto A, Nakashima M, Matsuda S.",
+      "journalTitle": "Noncoding RNA",
+      "issue": "6",
+      "journalVolume": "11",
+      "pubYear": "2025",
+      "journalIssn": "2311-553x",
+      "pageInfo": "77",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-04",
+      "firstIndexDate": "2025-11-24"
+    },
+    {
+      "id": "42639474",
+      "source": "MED",
+      "pmid": "42639474",
+      "pmcid": "PMC13501984",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13501984"
+        ]
+      },
+      "doi": "10.1016/j.cpblue.2026.100079",
+      "title": "The hallmarks of protein and amino acid restriction in aging and longevity.",
+      "authorString": "Knopf BA, Lamming DW.",
+      "journalTitle": "Cell Press Blue",
+      "issue": "5",
+      "journalVolume": "1",
+      "pubYear": "2026",
+      "journalIssn": "3051-3839",
+      "pageInfo": "100079",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-01",
+      "firstIndexDate": "2026-08-26"
+    },
+    {
+      "id": "PPR974738",
+      "source": "PPR",
+      "doi": "10.20944/preprints202502.0294.v1",
+      "title": "Comparative Evaluation of Urolithin A and Spermidine: A Duel for Autophagic and Mitophagic Dominance in Dietary Supplements",
+      "authorString": "Borsky P, Holmannova D, Soukup O, Fiala Z, Philippova T, Hanzlova M, Borska L.",
+      "pubYear": "2025",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "Preprints.org",
+        "yearOfPublication": 2025
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-02-05",
+      "firstIndexDate": "2025-02-07",
+      "versionNumber": 1
+    }
+  ]
+}

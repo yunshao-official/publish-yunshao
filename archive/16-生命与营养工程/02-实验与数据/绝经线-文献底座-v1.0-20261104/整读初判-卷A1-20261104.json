@@ -1,0 +1,995 @@
+{
+ "卷": "A1",
+ "条数": 65,
+ "模块": {
+  "M02": {
+   "送审": 65,
+   "留": 42,
+   "删": 23,
+   "待核": 0,
+   "剔除率": "35.4%",
+   "检索式判定": "不合格(>10%)",
+   "关联疑问命中": [
+    "Q01",
+    "Q02",
+    "Q03",
+    "Q04",
+    "Q05"
+   ]
+  }
+ },
+ "门W漏网": [
+  "A057",
+  "A058"
+ ],
+ "门N漏网": [
+  "A008",
+  "A012",
+  "A034",
+  "A041",
+  "A043"
+ ],
+ "文献": [
+  {
+   "编号": "A001",
+   "模块号": "M02",
+   "PMID": "18239123",
+   "标题": "Oocyte-specific deletion of Pten causes premature activation of the primordial follicle pool.",
+   "年份": 2008,
+   "被引数": 654,
+   "结论": "留",
+   "理由": "PTEN敲除致原始卵泡全部激活后耗竭，奠基PTEN-PI3K通路，提及绝经",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A002",
+   "模块号": "M02",
+   "PMID": "12456604",
+   "标题": "Serum anti-Müllerian hormone levels: a novel measure of ovarian reserve.",
+   "年份": 2002,
+   "被引数": 653,
+   "结论": "留",
+   "理由": "首报AMH为卵巢储备标志物，AMH随年龄下降反映卵泡池衰减，服务Q01",
+   "标签": [],
+   "关联疑问": [
+    "Q01"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A003",
+   "模块号": "M02",
+   "PMID": "24821925",
+   "标题": "Anti-Müllerian hormone: ovarian reserve testing and its potential clinical implications.",
+   "年份": 2014,
+   "被引数": 471,
+   "结论": "留",
+   "理由": "综述AMH随年龄下降至绝经前不可测，准确反映原始卵泡剩余量，可预测生育寿命",
+   "标签": [],
+   "关联疑问": [
+    "Q01"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A004",
+   "模块号": "M02",
+   "PMID": "32770239",
+   "标题": "Anti-Müllerian Hormone and Ovarian Reserve: Update on Assessing Ovarian Function.",
+   "年份": 2020,
+   "被引数": 405,
+   "结论": "留",
+   "理由": "JCEM综述AMH评估卵巢储备最新进展与局限性，AMH反映生长卵泡池存量",
+   "标签": [],
+   "关联疑问": [
+    "Q01"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A005",
+   "模块号": "M02",
+   "PMID": "20522327",
+   "标题": "Correlation of ovarian reserve tests with histologically determined primordial follicle number.",
+   "年份": 2011,
+   "被引数": 374,
+   "结论": "留",
+   "理由": "42例人体卵巢组织学计数原始卵泡，验证AMH/AFC与真实储备显著相关",
+   "标签": [],
+   "关联疑问": [
+    "Q01"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A006",
+   "模块号": "M02",
+   "PMID": "18192670",
+   "标题": "A new model of reproductive aging: the decline in ovarian non-growing follicle number from birth to menopause.",
+   "年份": 2008,
+   "被引数": 370,
+   "结论": "留",
+   "理由": "122例人卵巢立体学建模，给出生至绝经非生长卵泡幂函数衰减曲线",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q03"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A007",
+   "模块号": "M02",
+   "PMID": "14585889",
+   "标题": "Depletion of ovarian reserve in young women after treatment for cancer in childhood: detection by anti-Müllerian hormone, inhibin B and ovarian ultrasound.",
+   "年份": 2003,
+   "被引数": 209,
+   "结论": "删",
+   "理由": "儿童癌症幸存者卵巢储备检测，主题为化疗后损伤而非自然卵巢衰老机制",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A008",
+   "模块号": "M02",
+   "PMID": "25438940",
+   "标题": "Somatic cells initiate primordial follicle activation and govern the development of dormant oocytes in mice.",
+   "年份": 2014,
+   "被引数": 207,
+   "结论": "删",
+   "理由": "小鼠pfGCs经mTORC1调控原始卵泡激活，纯动物实验无人类语境，门N漏网",
+   "标签": [
+    "门N漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A009",
+   "模块号": "M02",
+   "PMID": "22231848",
+   "标题": "Anti-Müllerian hormone: an ovarian reserve marker in primary ovarian insufficiency.",
+   "年份": 2012,
+   "被引数": 207,
+   "结论": "留",
+   "理由": "综述AMH在POI中的标志物价值，POI即卵泡池提前耗竭，服务Q01",
+   "标签": [],
+   "关联疑问": [
+    "Q01"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A010",
+   "模块号": "M02",
+   "PMID": "19345350",
+   "标题": "Impact of laparoscopic cystectomy on ovarian reserve: serial changes of serum anti-Müllerian hormone levels.",
+   "年份": 2010,
+   "被引数": 189,
+   "结论": "删",
+   "理由": "腹腔镜囊肿切除术前后AMH变化，主题为手术对卵巢储备的急性损伤",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A011",
+   "模块号": "M02",
+   "PMID": "8772573",
+   "标题": "Reproductive aging: accelerated ovarian follicular development associated with a monotropic follicle-stimulating hormone rise in normal older women.",
+   "年份": 1996,
+   "被引数": 184,
+   "结论": "留",
+   "理由": "40-45岁女性FSH单升加速卵泡发育，揭示生殖衰老内分泌机制，服务Q01",
+   "标签": [],
+   "关联疑问": [
+    "Q01"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A012",
+   "模块号": "M02",
+   "PMID": "21366975",
+   "标题": "Does size matter in females? An overview of the impact of the high variation in the ovarian reserve on ovarian function and fertility, utility of anti-Müllerian hormone as a diagnostic marker for fertility and causes of variation in the ovarian reserve in cattle.",
+   "年份": 2011,
+   "被引数": 171,
+   "结论": "删",
+   "理由": "牛卵巢储备与AMH变异研究，纯畜牧学语境，门N漏网(bovine)",
+   "标签": [
+    "门N漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A013",
+   "模块号": "M02",
+   "PMID": "28137855",
+   "标题": "AMH/MIS as a contraceptive that protects the ovarian reserve during chemotherapy.",
+   "年份": 2017,
+   "被引数": 165,
+   "结论": "留",
+   "理由": "AMH/MIS抑制原始卵泡激活保护储备，摘要提及女性生殖寿命与绝经，服务Q01",
+   "标签": [],
+   "关联疑问": [
+    "Q01"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A014",
+   "模块号": "M02",
+   "PMID": "19046583",
+   "标题": "A prospective, comparative analysis of anti-Müllerian hormone, inhibin-B, and three-dimensional ultrasound determinants of ovarian reserve in the prediction of poor response to controlled ovarian stimulation.",
+   "年份": 2010,
+   "被引数": 165,
+   "结论": "删",
+   "理由": "AMH/AFC/3D超声预测IVF卵巢低反应，主题为辅助生殖疗效预测",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A015",
+   "模块号": "M02",
+   "PMID": "17974956",
+   "标题": "A novel ovarian xenografting model to characterize the impact of chemotherapy agents on human primordial follicle reserve.",
+   "年份": 2007,
+   "被引数": 157,
+   "结论": "删",
+   "理由": "人卵巢组织异种移植模型研究化疗毒性对原始卵泡影响，主题为化疗损伤",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A016",
+   "模块号": "M02",
+   "PMID": "35100616",
+   "标题": "Evaluation of Female Fertility-AMH and Ovarian Reserve Testing.",
+   "年份": 2022,
+   "被引数": 149,
+   "结论": "留",
+   "理由": "JCEM综述AMH评估卵巢储备临床应用，AMH反映卵泡存量随年龄变化",
+   "标签": [],
+   "关联疑问": [
+    "Q01"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A017",
+   "模块号": "M02",
+   "PMID": "24599291",
+   "标题": "The ovarian reserve of primordial follicles and the dynamic reserve of antral growing follicles: what is the link?",
+   "年份": 2014,
+   "被引数": 145,
+   "结论": "留",
+   "理由": "综述原始卵泡储备与动态窦卵泡储备的关联，涉及PTEN-PI3K通路调控",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q03"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A018",
+   "模块号": "M02",
+   "PMID": "26882203",
+   "标题": "Melatonin prevents cisplatin-induced primordial follicle loss via suppression of PTEN/AKT/FOXO3a pathway activation in the mouse ovary.",
+   "年份": 2016,
+   "被引数": 141,
+   "结论": "留",
+   "理由": "顺铂经PTEN/AKT/FOXO3a通路致原始卵泡过度激活耗竭，提及癌症患者",
+   "标签": [],
+   "关联疑问": [
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A019",
+   "模块号": "M02",
+   "PMID": "15730360",
+   "标题": "Anti-mullerian hormone as a marker of ovarian reserve.",
+   "年份": 2005,
+   "被引数": 139,
+   "结论": "留",
+   "理由": "AMH 30岁后快速下降至37岁减半，反映卵巢储备衰减，与IVF获卵数相关",
+   "标签": [],
+   "关联疑问": [
+    "Q01"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A020",
+   "模块号": "M02",
+   "PMID": "31947601",
+   "标题": "Crosstalk between PTEN/PI3K/Akt Signalling and DNA Damage in the Oocyte: Implications for Primordial Follicle Activation, Oocyte Quality and Ageing.",
+   "年份": 2020,
+   "被引数": 133,
+   "结论": "留",
+   "理由": "综述PTEN/PI3K/Akt与DNA损伤在卵泡激活和卵母细胞衰老中的交互作用",
+   "标签": [],
+   "关联疑问": [
+    "Q04",
+    "Q05"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A021",
+   "模块号": "M02",
+   "PMID": "19153092",
+   "标题": "Assessment of ovarian reserve in adult childhood cancer survivors using anti-Müllerian hormone.",
+   "年份": 2009,
+   "被引数": 130,
+   "结论": "删",
+   "理由": "儿童癌症幸存者AMH评估卵巢储备，27%低于第10百分位，主题为化疗后损伤",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A022",
+   "模块号": "M02",
+   "PMID": "17923131",
+   "标题": "Evaluation of anti-Müllerian hormone as a test for the prediction of ovarian reserve.",
+   "年份": 2008,
+   "被引数": 128,
+   "结论": "删",
+   "理由": "AMH与CCCT/EFORT比较预测IVF卵巢反应的前瞻性RCT，主题为辅助生殖",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A023",
+   "模块号": "M02",
+   "PMID": "23929903",
+   "标题": "The dynamics of the primordial follicle reserve.",
+   "年份": 2013,
+   "被引数": 125,
+   "结论": "留",
+   "理由": "综述原始卵泡储备的建立、峰值与耗竭动态，涉及卵泡发生与闭锁调控机制",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q02",
+    "Q03"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A024",
+   "模块号": "M02",
+   "PMID": "24100206",
+   "标题": "The association of bisphenol-A urinary concentrations with antral follicle counts and other measures of ovarian reserve in women undergoing infertility treatments.",
+   "年份": 2013,
+   "被引数": 125,
+   "结论": "删",
+   "理由": "BPA尿浓度与AFC负关联研究，主题为环境毒物对卵巢储备影响，属M18范畴",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A025",
+   "模块号": "M02",
+   "PMID": "28814333",
+   "标题": "Rapamycin Prevents cyclophosphamide-induced Over-activation of Primordial Follicle pool through PI3K/Akt/mTOR Signaling Pathway in vivo.",
+   "年份": 2017,
+   "被引数": 123,
+   "结论": "留",
+   "理由": "环磷酰胺经PI3K/Akt/mTOR通路致原始卵泡过度激活，雷帕霉素可阻止",
+   "标签": [],
+   "关联疑问": [
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A026",
+   "模块号": "M02",
+   "PMID": "25085800",
+   "标题": "The effect of surgery for endometrioma on ovarian reserve evaluated by antral follicle count: a systematic review and meta-analysis.",
+   "年份": 2014,
+   "被引数": 123,
+   "结论": "删",
+   "理由": "子宫内膜异位症手术后AFC变化的系统综述与meta分析，主题为手术损伤",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A027",
+   "模块号": "M02",
+   "PMID": "26656301",
+   "标题": "Cisplatin Induces Overactivation of the Dormant Primordial Follicle through PTEN/AKT/FOXO3a Pathway which Leads to Loss of Ovarian Reserve in Mice.",
+   "年份": 2015,
+   "被引数": 116,
+   "结论": "留",
+   "理由": "顺铂降低PTEN致原始卵泡过度激活，阐明PTEN/AKT/FOXO3a通路机制",
+   "标签": [],
+   "关联疑问": [
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A028",
+   "模块号": "M02",
+   "PMID": "35199161",
+   "标题": "Anti-Müllerian hormone as a marker of ovarian reserve and premature ovarian insufficiency in children and women with cancer: a systematic review.",
+   "年份": 2022,
+   "被引数": 102,
+   "结论": "删",
+   "理由": "癌症患者AMH与POI系统综述，主题为化疗后卵巢损伤评估而非自然衰老",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A029",
+   "模块号": "M02",
+   "PMID": "20630505",
+   "标题": "Serum anti-Müllerian hormone level is a useful marker for evaluating the impact of laparoscopic cystectomy on ovarian reserve.",
+   "年份": 2010,
+   "被引数": 100,
+   "结论": "删",
+   "理由": "腹腔镜囊肿切除术后AMH显著下降而FSH无变化，主题为手术损伤卵巢储备",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A030",
+   "模块号": "M02",
+   "PMID": "20538269",
+   "标题": "Anti-Müllerian hormone (AMH) defines, independent of age, low versus good live-birth chances in women with severely diminished ovarian reserve.",
+   "年份": 2010,
+   "被引数": 100,
+   "结论": "删",
+   "理由": "AMH阈值1.05ng/mL预测低储备女性活产率，主题为IVF预后判断",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A031",
+   "模块号": "M02",
+   "PMID": "23084267",
+   "标题": "Pretreatment antimüllerian hormone levels determine rate of posttherapy ovarian reserve recovery: acute changes in ovarian reserve during and after chemotherapy.",
+   "年份": 2013,
+   "被引数": 99,
+   "结论": "删",
+   "理由": "化疗前后AMH/FSH/AFC动态变化与卵巢储备恢复监测，主题为化疗损伤",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A032",
+   "模块号": "M02",
+   "PMID": "19447101",
+   "标题": "Kit signaling via PI3K promotes ovarian follicle maturation but is dispensable for primordial follicle activation.",
+   "年份": 2009,
+   "被引数": 96,
+   "结论": "留",
+   "理由": "Kit受体经PI3K信号促进卵泡成熟但非原始卵泡激活所必需，揭示通路冗余性",
+   "标签": [],
+   "关联疑问": [
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A033",
+   "模块号": "M02",
+   "PMID": "23463653",
+   "标题": "Ovarian antral follicle subclasses and anti-mullerian hormone during normal reproductive aging.",
+   "年份": 2013,
+   "被引数": 93,
+   "结论": "留",
+   "理由": "366名女性AMH每年下降5.6%、AFC随年龄变化，刻画生殖衰老储备轨迹",
+   "标签": [],
+   "关联疑问": [
+    "Q01"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A034",
+   "模块号": "M02",
+   "PMID": "29851234",
+   "标题": "Mitochondrial unfolded protein response gene Clpp is required to maintain ovarian follicular reserve during aging, for oocyte competence, and development of pre-implantation embryos.",
+   "年份": 2018,
+   "被引数": 92,
+   "结论": "删",
+   "理由": "Clpp基因调控小鼠卵巢线粒体UPR与卵泡储备，纯动物实验无人类语境，门N漏网",
+   "标签": [
+    "门N漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A035",
+   "模块号": "M02",
+   "PMID": "23326514",
+   "标题": "Pharmacological inhibition of mTORC1 prevents over-activation of the primordial follicle pool in response to elevated PI3K signaling.",
+   "年份": 2013,
+   "被引数": 92,
+   "结论": "留",
+   "理由": "雷帕霉素抑制mTORC1阻止PTEN缺失导致的原始卵泡过度激活，提及女性生殖寿命",
+   "标签": [],
+   "关联疑问": [
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A036",
+   "模块号": "M02",
+   "PMID": "22119275",
+   "标题": "Measuring anti-Müllerian hormone for the assessment of ovarian reserve: when and for whom is it indicated?",
+   "年份": 2012,
+   "被引数": 90,
+   "结论": "留",
+   "理由": "综述AMH随年龄下降与绝经年龄关联，讨论AMH检测临床适应证与局限性",
+   "标签": [],
+   "关联疑问": [
+    "Q01"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A037",
+   "模块号": "M02",
+   "PMID": "34229552",
+   "标题": "RAB7 activity is required for the regulation of mitophagy in oocyte meiosis and oocyte quality control during ovarian aging.",
+   "年份": 2022,
+   "被引数": 89,
+   "结论": "留",
+   "理由": "RAB7调控卵母细胞线粒体自噬与减数分裂质量检查点，揭示卵巢衰老线粒体机制",
+   "标签": [],
+   "关联疑问": [
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A038",
+   "模块号": "M02",
+   "PMID": "31204316",
+   "标题": "Mitofusin 2 plays a role in oocyte and follicle development, and is required to maintain ovarian follicular reserve during reproductive aging.",
+   "年份": 2019,
+   "被引数": 88,
+   "结论": "留",
+   "理由": "MFN2缺失致卵母细胞线粒体功能障碍、端粒缩短与卵泡加速耗竭，生殖衰老表型",
+   "标签": [],
+   "关联疑问": [
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A039",
+   "模块号": "M02",
+   "PMID": "17616716",
+   "标题": "Specificity of the requirement for Foxo3 in primordial follicle activation.",
+   "年份": 2007,
+   "被引数": 77,
+   "结论": "留",
+   "理由": "Foxo3在原始卵泡激活中的特异性需求，摘要提及调控平衡决定绝经起始",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A040",
+   "模块号": "M02",
+   "PMID": "11327680",
+   "标题": "Activation of follicle development: the primordial follicle.",
+   "年份": 2001,
+   "被引数": 77,
+   "结论": "留",
+   "理由": "综述哺乳动物原始卵泡形成与生长激活机制，提及女性生殖寿命受限",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q03"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A041",
+   "模块号": "M02",
+   "PMID": "38781731",
+   "标题": "Iron accumulation in ovarian microenvironment damages the local redox balance and oocyte quality in aging mice.",
+   "年份": 2024,
+   "被引数": 75,
+   "结论": "删",
+   "理由": "铁积累损伤衰老小鼠卵巢微环境与卵母细胞质量，纯动物实验无人类语境，门N漏网",
+   "标签": [
+    "门N漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A042",
+   "模块号": "M02",
+   "PMID": "12969701",
+   "标题": "Reproductive aging and variability in the ovarian antral follicle count: application in the clinical setting.",
+   "年份": 2003,
+   "被引数": 73,
+   "结论": "留",
+   "理由": "AFC在生殖衰老中的周期间与观察者间变异性及其IVF临床意义",
+   "标签": [],
+   "关联疑问": [
+    "Q01"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A043",
+   "模块号": "M02",
+   "PMID": "22301887",
+   "标题": "The primordial follicle reserve is not renewed after chemical or γ-irradiation mediated depletion.",
+   "年份": 2012,
+   "被引数": 73,
+   "结论": "删",
+   "理由": "小鼠原始卵泡储备化疗/辐射后不更新，纯动物实验无人类语境，门N漏网",
+   "标签": [
+    "门N漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A044",
+   "模块号": "M02",
+   "PMID": "25086280",
+   "标题": "AMH: An ovarian reserve biomarker in assisted reproduction.",
+   "年份": 2014,
+   "被引数": 73,
+   "结论": "删",
+   "理由": "AMH在辅助生殖中的卵巢储备标志物综述，主题为IVF而非衰老机制",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A045",
+   "模块号": "M02",
+   "PMID": "26076587",
+   "标题": "Lhx8 regulates primordial follicle activation and postnatal folliculogenesis.",
+   "年份": 2015,
+   "被引数": 72,
+   "结论": "留",
+   "理由": "Lhx8敲除致原始卵泡大规模激活，经PI3K-AKT-FOXO通路，提及POF",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A046",
+   "模块号": "M02",
+   "PMID": "21481381",
+   "标题": "The effect of laparoscopic ovarian cystectomy versus coagulation in bilateral endometriomas on ovarian reserve as determined by antral follicle count and ovarian volume: a prospective randomized study.",
+   "年份": 2011,
+   "被引数": 70,
+   "结论": "删",
+   "理由": "腹腔镜卵巢囊肿切除术vs凝固对AFC和卵巢体积的影响，纯手术比较研究",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A047",
+   "模块号": "M02",
+   "PMID": "22342234",
+   "标题": "Jumping the gun: smoking constituent BaP causes premature primordial follicle activation and impairs oocyte fusibility through oxidative stress.",
+   "年份": 2012,
+   "被引数": 69,
+   "结论": "留",
+   "理由": "BaP致原始卵泡过早激活并通过氧化应激损伤卵母细胞，提及IVF患者与POF",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A048",
+   "模块号": "M02",
+   "PMID": "26977116",
+   "标题": "Anti-Mullerian Hormone: Above and Beyond Conventional Ovarian Reserve Markers.",
+   "年份": 2016,
+   "被引数": 66,
+   "结论": "留",
+   "理由": "综述AMH超越传统储备标志物，讨论AMH随年龄变化与女性生殖生理及临床应用",
+   "标签": [],
+   "关联疑问": [
+    "Q01"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A049",
+   "模块号": "M02",
+   "PMID": "31181871",
+   "标题": "Primordial follicle activation as new treatment for primary ovarian insufficiency.",
+   "年份": 2019,
+   "被引数": 65,
+   "结论": "留",
+   "理由": "原始卵泡激活作为POI新治疗：IVA基于PTEN/PI3K/AKT通路调控",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A050",
+   "模块号": "M02",
+   "PMID": "36926197",
+   "标题": "Mechanisms of primordial follicle activation and new pregnancy opportunity for premature ovarian failure patients.",
+   "年份": 2023,
+   "被引数": 60,
+   "结论": "留",
+   "理由": "综述原始卵泡激活机制与POF新妊娠机会，直接讨论卵泡消耗速率决定生殖寿命",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q04"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A051",
+   "模块号": "M02",
+   "PMID": "22563545",
+   "标题": "Control of ovarian primordial follicle activation.",
+   "年份": 2012,
+   "被引数": 60,
+   "结论": "留",
+   "理由": "综述原始卵泡激活调控：休眠维持与PTEN/PI3K/AKT通路",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q04"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A052",
+   "模块号": "M02",
+   "PMID": "31437492",
+   "标题": "Doxorubicin obliterates mouse ovarian reserve through both primordial follicle atresia and overactivation.",
+   "年份": 2019,
+   "被引数": 57,
+   "结论": "删",
+   "理由": "多柔比星致小鼠原始卵泡闭锁与过度激活，主题为化疗毒性而非自然衰老机制",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A053",
+   "模块号": "M02",
+   "PMID": "34052832",
+   "标题": "HDAC6 regulates primordial follicle activation through mTOR signaling pathway.",
+   "年份": 2021,
+   "被引数": 55,
+   "结论": "留",
+   "理由": "HDAC6作为mTOR负调控因子维持原始卵泡休眠，过度激活致POF",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A054",
+   "模块号": "M02",
+   "PMID": "29452791",
+   "标题": "Untapped Reserves: Controlling Primordial Follicle Growth Activation.",
+   "年份": 2018,
+   "被引数": 55,
+   "结论": "留",
+   "理由": "综述控制原始卵泡生长激活策略以改善人类女性不孕与卵子质量",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q04"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A055",
+   "模块号": "M02",
+   "PMID": "33892727",
+   "标题": "Quercetin prevents primordial follicle loss via suppression of PI3K/Akt/Foxo3a pathway activation in cyclophosphamide-treated mice.",
+   "年份": 2021,
+   "被引数": 54,
+   "结论": "删",
+   "理由": "槲皮素经PI3K/Akt/Foxo3a通路保护化疗小鼠原始卵泡，主题为化疗损伤",
+   "标签": [],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A056",
+   "模块号": "M02",
+   "PMID": "32514568",
+   "标题": "Unraveling the mechanisms of chemotherapy-induced damage to human primordial follicle reserve: road to developing therapeutics for fertility preservation and reversing ovarian aging.",
+   "年份": 2020,
+   "被引数": 50,
+   "结论": "留",
+   "理由": "综述化疗致人类原始卵泡损伤机制与生育保护及逆转卵巢衰老路径",
+   "标签": [],
+   "关联疑问": [
+    "Q01",
+    "Q04"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A057",
+   "模块号": "M02",
+   "PMID": "32241504",
+   "标题": "Melatonin regulates the ovarian function and enhances follicle growth in aging laying hens via activating the mammalian target of rapamycin pathway.",
+   "年份": 2020,
+   "被引数": 43,
+   "结论": "删",
+   "理由": "褪黑素经mTOR通路调控衰老母鸡卵巢功能，纯动物实验非人类女性语境，门W漏网",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A058",
+   "模块号": "M02",
+   "PMID": "36291137",
+   "标题": "Follicle-Stimulating Hormone Alleviates Ovarian Aging by Modulating Mitophagy- and Glycophagy-Based Energy Metabolism in Hens.",
+   "年份": 2022,
+   "被引数": 32,
+   "结论": "删",
+   "理由": "FSH经线粒体自噬与糖原自噬调控衰老鸡颗粒细胞能量代谢，纯动物实验，门W漏网",
+   "标签": [
+    "门W漏网"
+   ],
+   "关联疑问": [],
+   "对外可引": false
+  },
+  {
+   "编号": "A059",
+   "模块号": "M02",
+   "PMID": "40075456",
+   "标题": "Follicular metabolic dysfunction, oocyte aneuploidy and ovarian aging: a review.",
+   "年份": 2025,
+   "被引数": 25,
+   "结论": "留",
+   "理由": "综述卵泡代谢功能障碍、卵母细胞非整倍体与卵巢衰老关系，直接关于人类女性",
+   "标签": [],
+   "关联疑问": [
+    "Q04",
+    "Q05"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A060",
+   "模块号": "M02",
+   "PMID": "40100097",
+   "标题": "Ovarian aging-associated downregulation of GPX4 expression regulates ovarian follicular development by affecting granulosa cell functions and oocyte quality.",
+   "年份": 2025,
+   "被引数": 16,
+   "结论": "留",
+   "理由": "GPX4铁死亡通路在人类卵巢衰老中下调，使用DOR与高龄患者颗粒细胞数据",
+   "标签": [],
+   "关联疑问": [
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A061",
+   "模块号": "M02",
+   "PMID": "34925699",
+   "标题": "Theaflavin 3, 3'-Digallate Delays Ovarian Aging by Improving Oocyte Quality and Regulating Granulosa Cell Function.",
+   "年份": 2021,
+   "被引数": 16,
+   "结论": "留",
+   "理由": "TF3抗氧化延缓卵巢衰老改善卵母细胞质量，提及女性生育力下降与老龄化人群",
+   "标签": [],
+   "关联疑问": [
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A062",
+   "模块号": "M02",
+   "PMID": "37118338",
+   "标题": "Inhibiting bridge integrator 2 phosphorylation leads to improved oocyte quality, ovarian health and fertility in aging and after chemotherapy in mice.",
+   "年份": 2021,
+   "被引数": 15,
+   "结论": "留",
+   "理由": "BIN2磷酸化抑制改善卵巢衰老卵母细胞质量，提及女性卵巢比睾丸早衰约20年",
+   "标签": [],
+   "关联疑问": [
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A063",
+   "模块号": "M02",
+   "PMID": "40867818",
+   "标题": "Interplay of Oxidative Stress, Autophagy, and Rubicon in Ovarian Follicle Dynamics: Orchestrating Ovarian Aging.",
+   "年份": 2025,
+   "被引数": 14,
+   "结论": "留",
+   "理由": "综述氧化应激、自噬与Rubicon在卵巢卵泡动态中的交互作用，直接关于卵巢衰老",
+   "标签": [],
+   "关联疑问": [
+    "Q04"
+   ],
+   "对外可引": true
+  },
+  {
+   "编号": "A064",
+   "模块号": "M02",
+   "PMID": "41575513",
+   "标题": "Increased stiffness mimicking ovarian aging induces a fibroinflammatory response in follicles and impairs oocyte quality.",
+   "年份": 2026,
+   "被引数": 12,
+   "结论": "留",
+   "理由": "模拟卵巢衰老的基质刚度增加致卵泡纤维炎症反应，提及人与小鼠卵巢均纤维化",
+   "标签": [],
+   "关联疑问": [
+    "Q04"
+   ],
+   "对外可引": false
+  },
+  {
+   "编号": "A065",
+   "模块号": "M02",
+   "PMID": "37907924",
+   "标题": "Decreased HAT1 expression in granulosa cells disturbs oocyte meiosis during mouse ovarian aging.",
+   "年份": 2023,
+   "被引数": 12,
+   "结论": "留",
+   "理由": "HAT1在颗粒细胞中调控卵母细胞减数分裂，提及高龄产妇卵母细胞非整倍体升高",
+   "标签": [],
+   "关联疑问": [
+    "Q04",
+    "Q05"
+   ],
+   "对外可引": false
+  }
+ ]
+}

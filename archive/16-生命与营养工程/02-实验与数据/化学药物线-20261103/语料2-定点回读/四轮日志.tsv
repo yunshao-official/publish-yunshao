@@ -1,0 +1,12 @@
+id	判据	检索式	hitCount	取回	目标句数	备注
+Q01	A1复测·PUBTYPE字段	digoxin AND heart failure AND PUBTYPE:"Clinical Trial"	0	0	0	
+Q02	A1复测·PUBTYPE裸式	PUBTYPE:"Clinical Trial"	2	2	0	
+Q03	A1复测·MESH替代	digoxin AND heart failure AND MESH:"Clinical Trial"	335	25	5	
+Q04	A1复测·不加类型词	digoxin AND heart failure	25393	25	0	
+Q05	CC-10犬类	rapamycin AND dog AND aging AND healthspan	81	25	27	
+Q06	CC-10犬类TRIAD	"TRIAD" AND rapamycin AND dog	159	25	10	
+Q07	CC-8丙类年龄依赖	"senescent cells" AND clearance AND "life span" AND old	654	25	0	
+Q08	CC-8丙类DQ/FT-4392	(dasatinib AND quercetin) AND (senolytic OR "senescent") AND aged	2124	25	9	
+Q09	CC-9乙类必要性	autophagy AND longevity AND ("Atg5" OR "Atg7" OR "autophagy-deficient")	2963	25	27	
+Q10	CC-7甲类基线	rapamycin AND mice AND lifespan AND ("600 days" OR "late in life")	516	25	13	
+Q11	CC-1丙候选	cytochrome c oxidase AND mitochondrial AND ("960" OR "980") AND action spectrum	681	25	10	

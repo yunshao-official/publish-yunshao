@@ -1,0 +1,77 @@
+{
+ "meta": "D-U1 corrected-domain verdict (report-level recalc from reg JSON; frozen criterion D-U1 judged FAIL as-written, see R29 report section 4)",
+ "inherit_domain_20_noncritical": {
+  "ok": [
+   -6,
+   -9,
+   -12,
+   -15,
+   -18,
+   -21,
+   -24,
+   -27,
+   -30,
+   -33,
+   -36,
+   -39,
+   -42,
+   -45,
+   -48,
+   -51,
+   -54,
+   -57,
+   -60,
+   -63
+  ],
+  "bad": [],
+  "verdict": "DblTau==mu_set identity 20/20"
+ },
+ "critical_minus3": {
+  "c": -3,
+  "dbltau": [
+   2
+  ],
+  "mu_set": [],
+  "note": "|c/3|=1 critical: DblTau nonempty but M_F fails at |d|=1 (R28 E-1 truncation)"
+ },
+ "noninherit_nonempty_count": 42,
+ "noninherit_nonempty_sample": [
+  {
+   "c": -1,
+   "dbltau": [
+    2
+   ]
+  },
+  {
+   "c": -2,
+   "dbltau": [
+    1
+   ]
+  },
+  {
+   "c": -4,
+   "dbltau": [
+    1
+   ]
+  },
+  {
+   "c": -5,
+   "dbltau": [
+    2
+   ]
+  },
+  {
+   "c": -7,
+   "dbltau": [
+    2
+   ]
+  },
+  {
+   "c": -8,
+   "dbltau": [
+    1
+   ]
+  }
+ ],
+ "noninherit_note": "3∤c: (c/3) not in layer spectrum, no 0-edge chain to accept class; DblTau reflects word-form layer double-tau structure only"
+}

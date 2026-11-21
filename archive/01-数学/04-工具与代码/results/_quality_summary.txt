@@ -1,0 +1,15 @@
+== 引擎质量实测（本会话） ==
+M1 v0 纯查表: logprob=-4.888 diversity=0.075 ge_m3_rate=0.033
+M1 v1.1 逃逸门: logprob=-5.705 diversity=0.042 ge_m3_rate=0.0
+M2 CPU语法门: logprob=-1.008 diversity=0.034 ge_m3_rate=1.0
+  纯LM对照:   logprob=-1.333 diversity=0.171
+M3 纯遍历: diversity=0.085 (无LM打分)
+
+== 历史质量实验（zcode 会话在档） ==
+J-U3 投影构造器v1: top20重合率=?
+kNN-LM: {"engine": "kNN-LM 组装版（他们的公式+我们的分区）", "store_size": 100, "partitions": 3, "lambda": 0.5, "knn_k": 8, "speed_tok_s": 0.7, "diversity_ratio": 0.187, "generations": {"人工智能": "                            
+全量MLP v4: mlp=0.0133 tbl=0.05 improvement=-0.0367
+
+== workspace 质量 json ==
+B路线逃逸门修复实验-20261012.json: distinct=0.854 logprob=-1.311
+V41宇宙生成修正版-20261012.json: {"小猫": {"text": "小猫有10只，小猫妈妈有3只，小猫爸爸有5只，小猫弟弟有2", "steps": 24}, "夜晚的天空": {"text": "夜晚的天空中，星星闪烁着，它们是那么的美丽，那么的迷人。在这样的夜晚，我仰望星空", "steps": 24}, "人工智能的未来": 

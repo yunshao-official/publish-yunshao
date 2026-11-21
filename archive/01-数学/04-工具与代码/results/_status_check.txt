@@ -1,0 +1,26 @@
+v4f_engine json: size=9161  mtime=2026-10-13 01:04:39.572313
+  engine = 概念宇宙 LLM · 五脉冲图遍历生成（V4-Flash 自洽线 v1）
+  mean_gen_tok_s = 2248.9
+  speed_ge_100 = True
+  diversity_char = 0.042
+  diversity_ge_0_6 = False
+  mean_logprob_qwen15b = -5.705
+  logprob_ge_m3_rate = 0.0
+  grammar_ge_80pct = False
+  knowledge_coverage_l1 = 0
+  knowledge_ge_80pct = False
+  elapsed_s = 163.0
+  sample[sim|猫]: 的所有中的所有公式，。। ।։۔။། ।॥ ॥ ।
+ ।
+
+ 。
+
+）。
+
+%。
+
+%。
+-    ** *** ****************************###############
+  sample[expand|人工智能]: 工作的工作工作的工作中，但“ " “="("║”的地地的、法律法律的第的第在第3. �្ល䰮獒装备裝備武器装备加速 accelerate accelerates accelerated acceler
+v0 baseline: speed=3751.0 div=0.075 logprob=-4.888 rate=0.033
+L1 tail: [w0] blk.3 expert 64/256  827s || [w1] blk.4 expert 128/256  965s || [w2] blk.5 expert 128/256  973s || [w0] blk.3 expert 128/256  1017s

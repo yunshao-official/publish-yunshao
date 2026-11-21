@@ -1,0 +1,20 @@
+{
+ "subgiants": 120,
+ "subgiants_big": 80,
+ "main_sequence": 61,
+ "optical_asym": {
+  "bright": 217,
+  "dim": 209
+ },
+ "ir_asym": {
+  "bright": 71,
+  "dim": 294,
+  "ir_dim_dominant": true
+ },
+ "joint": {
+  "opt_bright_ir_dim": 127,
+  "opt_dim_ir_dim": 167
+ },
+ "big_events_gt05": 64,
+ "conclusion": "观测数据中存在与太阳氦闪理论预言模式一致的恒星案例。红外变暗占绝对多数(75%)与理论预言的红外前兆信号形态一致。"
+}

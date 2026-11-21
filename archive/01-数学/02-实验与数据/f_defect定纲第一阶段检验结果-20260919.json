@@ -1,0 +1,141 @@
+{
+ "meta": {
+  "date": "2026-09-19",
+  "data_source": "verdict_pkg_batch10.json",
+  "frozen_criteria": "C1 f(d/λ) R²>0.9; C2 holdout Nb/Bi-2212 <20%; C3 实测Θ_D复核",
+  "protocol_gap_1": "d 对天然超导体无操作定义且无 HRTEM 数据 → 主/备选标度不可算 → 最大可算子集"
+ },
+ "test1_f_stats": {
+  "all10": {
+   "mean": 0.11884536796536797,
+   "median": 0.0761904761904762,
+   "std": 0.09461267040814776,
+   "cv": 0.7960989311398176,
+   "min": 0.034133333333333335,
+   "max": 0.3022222222222222,
+   "range": 0.2680888888888889,
+   "max_min_ratio": 8.854166666666666
+  },
+  "fit8": {
+   "mean": 0.10626984126984126,
+   "median": 0.0761904761904762,
+   "std": 0.07447001785773097,
+   "cv": 0.7007634242026962,
+   "min": 0.034133333333333335,
+   "max": 0.22044444444444444,
+   "range": 0.1863111111111111
+  }
+ },
+ "test1_correlations": {
+  "crit_r_n10_df8_a05": 0.6319,
+  "crit_r_n8_df6_a05": 0.7067,
+  "notes": "临界 r=标准 t 分布双尾 α=0.05 统计表值；Tc 相关为构造性（f_fit 由 Tc 导出）不构成独立证据",
+  "f_vs_ThetaD_all10": {
+   "n": 10,
+   "pearson_r": 0.2223680072641835,
+   "pearson_p": 0.5369175388734246,
+   "pearson_R2": 0.04944753065464396,
+   "spearman_rho": 0.37690143708164003,
+   "spearman_p": 0.2830033650057079,
+   "label": "f_fit~ΘD 全10"
+  },
+  "f_vs_ThetaD_fit8": {
+   "n": 8,
+   "pearson_r": 0.471503561350863,
+   "pearson_p": 0.23822018620367005,
+   "pearson_R2": 0.22231560836654704,
+   "spearman_rho": 0.4191691916696406,
+   "spearman_p": 0.30126663266334447,
+   "label": "f_fit~ΘD 拟合8"
+  },
+  "f_vs_Tc_all10_constructive": {
+   "n": 10,
+   "pearson_r": 0.6101621459776352,
+   "pearson_p": 0.06102597954327349,
+   "pearson_R2": 0.37229784438403296,
+   "spearman_rho": 0.709090909090909,
+   "spearman_p": 0.021665923367532435,
+   "label": "f_fit~Tc 全10（构造性: f_fit=Tc/(ΘD·15/16)）"
+  },
+  "f_vs_Tc_fit8_constructive": {
+   "n": 8,
+   "pearson_r": 0.7751838178680246,
+   "pearson_p": 0.023832452520941735,
+   "pearson_R2": 0.6009099514844467,
+   "spearman_rho": 0.6666666666666669,
+   "spearman_p": 0.07098765432098755,
+   "label": "f_fit~Tc 拟合8（构造性）"
+  },
+  "robustness_logThetaD_all10": {
+   "n": 10,
+   "pearson_r": 0.2339452868631039,
+   "pearson_p": 0.5153454898508982,
+   "pearson_R2": 0.05473039724545997,
+   "spearman_rho": 0.37690143708164003,
+   "spearman_p": 0.2830033650057079,
+   "label": "f_fit~log10ΘD 全10（稳健性对照·非预注册标度）"
+  },
+  "robustness_logThetaD_fit8": {
+   "n": 8,
+   "pearson_r": 0.4421508076722397,
+   "pearson_p": 0.27267937203537446,
+   "pearson_R2": 0.19549733672521388,
+   "spearman_rho": 0.4191691916696406,
+   "spearman_p": 0.30126663266334447,
+   "label": "f_fit~log10ΘD 拟合8（对照）"
+  }
+ },
+ "test2_holdout_constant_model": {
+  "mean8": {
+   "constant": 0.10626984126984126,
+   "errors": {
+    "Nb": {
+     "f_fit_actual": 0.03607272727272728,
+     "f_pred": 0.10626984126984126,
+     "rel_err_pct": 194.59885432667681
+    },
+    "Bi-2212": {
+     "f_fit_actual": 0.3022222222222222,
+     "f_pred": 0.10626984126984126,
+     "rel_err_pct": 64.83718487394958
+    }
+   },
+   "both_pass_lt20pct": false
+  },
+  "median8": {
+   "constant": 0.0761904761904762,
+   "errors": {
+    "Nb": {
+     "f_fit_actual": 0.03607272727272728,
+     "f_pred": 0.0761904761904762,
+     "rel_err_pct": 111.21351766513057
+    },
+    "Bi-2212": {
+     "f_fit_actual": 0.3022222222222222,
+     "f_pred": 0.0761904761904762,
+     "rel_err_pct": 74.78991596638656
+    }
+   },
+   "both_pass_lt20pct": false
+  }
+ },
+ "c1_computability": {
+  "main_scale_f_d_over_lambda": "不可算——d/λ 对十种天然超导体无操作定义（A4 主假设，T3 HRTEM 未采）",
+  "backup_scale_f_d_over_d0": "不可算——同上，缺 d",
+  "max_computable_single_param": "Θ_D（唯一有数据的外生结构可测量）；Tc 为 f_fit 的构造性内生物不作独立单参"
+ },
+ "verdict": {
+  "result": "FAIL",
+  "scope": "第一阶段可算子集判定（C3 未做，判定性质=provisional，知世可否决）",
+  "frozen_criteria_status": {
+   "C1": "不可算（协议缺口#1）→ 未通过",
+   "C2": "常数模型版本 194.6%/64.8% > 20% → 未通过",
+   "C3": "未执行（T1 实测 Θ_D 未采）"
+  },
+  "fail_reasons": [
+   "C1 主+备选标度均不可算（协议缺口#1）→ R²>0.9 无法成立，PASS 必要条件不满足",
+   "C2 常数模型版本：Nb 194.6%、Bi-2212 64.8%，均远超冻结阈值 20%（两件皆超）",
+   "统计检验①：f_fit 对唯一可算外生单参 Θ_D 无显著相关（全10 r=0.2224 p=0.5369；拟合8 r=0.4715 p=0.2382）→ 现有数据内无单参结构实证"
+  ]
+ }
+}

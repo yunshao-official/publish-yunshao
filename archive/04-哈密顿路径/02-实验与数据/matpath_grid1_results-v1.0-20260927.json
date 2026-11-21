@@ -1,0 +1,382 @@
+{
+ "F1_ring": [
+  {
+   "N": 2,
+   "curve": [
+    {
+     "k_lost": 0,
+     "keep_ratio": 1.0
+    },
+    {
+     "k_lost": 1,
+     "keep_ratio": 0.5
+    }
+   ],
+   "cp_sat_feasible": [
+    {
+     "k_lost": 0,
+     "feasible": true
+    },
+    {
+     "k_lost": 1,
+     "feasible": false
+    }
+   ]
+  },
+  {
+   "N": 3,
+   "curve": [
+    {
+     "k_lost": 0,
+     "keep_ratio": 1.0
+    },
+    {
+     "k_lost": 1,
+     "keep_ratio": 0.667
+    },
+    {
+     "k_lost": 2,
+     "keep_ratio": 0.333
+    }
+   ],
+   "cp_sat_feasible": [
+    {
+     "k_lost": 0,
+     "feasible": true
+    },
+    {
+     "k_lost": 1,
+     "feasible": true
+    },
+    {
+     "k_lost": 2,
+     "feasible": false
+    }
+   ]
+  },
+  {
+   "N": 4,
+   "curve": [
+    {
+     "k_lost": 0,
+     "keep_ratio": 1.0
+    },
+    {
+     "k_lost": 1,
+     "keep_ratio": 0.75
+    },
+    {
+     "k_lost": 2,
+     "keep_ratio": 0.5
+    },
+    {
+     "k_lost": 3,
+     "keep_ratio": 0.25
+    }
+   ],
+   "cp_sat_feasible": [
+    {
+     "k_lost": 0,
+     "feasible": true
+    },
+    {
+     "k_lost": 1,
+     "feasible": true
+    },
+    {
+     "k_lost": 2,
+     "feasible": true
+    },
+    {
+     "k_lost": 3,
+     "feasible": false
+    }
+   ]
+  },
+  {
+   "N": 5,
+   "curve": [
+    {
+     "k_lost": 0,
+     "keep_ratio": 1.0
+    },
+    {
+     "k_lost": 1,
+     "keep_ratio": 0.8
+    },
+    {
+     "k_lost": 2,
+     "keep_ratio": 0.6
+    },
+    {
+     "k_lost": 3,
+     "keep_ratio": 0.4
+    },
+    {
+     "k_lost": 4,
+     "keep_ratio": 0.2
+    }
+   ],
+   "cp_sat_feasible": [
+    {
+     "k_lost": 0,
+     "feasible": true
+    },
+    {
+     "k_lost": 1,
+     "feasible": true
+    },
+    {
+     "k_lost": 2,
+     "feasible": true
+    },
+    {
+     "k_lost": 3,
+     "feasible": true
+    },
+    {
+     "k_lost": 4,
+     "feasible": false
+    }
+   ]
+  },
+  {
+   "N": 6,
+   "curve": [
+    {
+     "k_lost": 0,
+     "keep_ratio": 1.0
+    },
+    {
+     "k_lost": 1,
+     "keep_ratio": 0.833
+    },
+    {
+     "k_lost": 2,
+     "keep_ratio": 0.667
+    },
+    {
+     "k_lost": 3,
+     "keep_ratio": 0.5
+    },
+    {
+     "k_lost": 4,
+     "keep_ratio": 0.333
+    },
+    {
+     "k_lost": 5,
+     "keep_ratio": 0.167
+    }
+   ],
+   "cp_sat_feasible": [
+    {
+     "k_lost": 0,
+     "feasible": true
+    },
+    {
+     "k_lost": 1,
+     "feasible": true
+    },
+    {
+     "k_lost": 2,
+     "feasible": true
+    },
+    {
+     "k_lost": 3,
+     "feasible": true
+    },
+    {
+     "k_lost": 4,
+     "feasible": true
+    },
+    {
+     "k_lost": 5,
+     "feasible": false
+    }
+   ]
+  },
+  {
+   "N": 7,
+   "curve": [
+    {
+     "k_lost": 0,
+     "keep_ratio": 1.0
+    },
+    {
+     "k_lost": 1,
+     "keep_ratio": 0.857
+    },
+    {
+     "k_lost": 2,
+     "keep_ratio": 0.714
+    },
+    {
+     "k_lost": 3,
+     "keep_ratio": 0.571
+    },
+    {
+     "k_lost": 4,
+     "keep_ratio": 0.429
+    },
+    {
+     "k_lost": 5,
+     "keep_ratio": 0.286
+    },
+    {
+     "k_lost": 6,
+     "keep_ratio": 0.143
+    }
+   ],
+   "cp_sat_feasible": [
+    {
+     "k_lost": 0,
+     "feasible": true
+    },
+    {
+     "k_lost": 1,
+     "feasible": true
+    },
+    {
+     "k_lost": 2,
+     "feasible": true
+    },
+    {
+     "k_lost": 3,
+     "feasible": true
+    },
+    {
+     "k_lost": 4,
+     "feasible": true
+    },
+    {
+     "k_lost": 5,
+     "feasible": true
+    },
+    {
+     "k_lost": 6,
+     "feasible": false
+    }
+   ]
+  },
+  {
+   "N": 8,
+   "curve": [
+    {
+     "k_lost": 0,
+     "keep_ratio": 1.0
+    },
+    {
+     "k_lost": 1,
+     "keep_ratio": 0.875
+    },
+    {
+     "k_lost": 2,
+     "keep_ratio": 0.75
+    },
+    {
+     "k_lost": 3,
+     "keep_ratio": 0.625
+    },
+    {
+     "k_lost": 4,
+     "keep_ratio": 0.5
+    },
+    {
+     "k_lost": 5,
+     "keep_ratio": 0.375
+    },
+    {
+     "k_lost": 6,
+     "keep_ratio": 0.25
+    },
+    {
+     "k_lost": 7,
+     "keep_ratio": 0.125
+    }
+   ],
+   "cp_sat_feasible": [
+    {
+     "k_lost": 0,
+     "feasible": true
+    },
+    {
+     "k_lost": 1,
+     "feasible": true
+    },
+    {
+     "k_lost": 2,
+     "feasible": true
+    },
+    {
+     "k_lost": 3,
+     "feasible": true
+    },
+    {
+     "k_lost": 4,
+     "feasible": true
+    },
+    {
+     "k_lost": 5,
+     "feasible": true
+    },
+    {
+     "k_lost": 6,
+     "feasible": true
+    },
+    {
+     "k_lost": 7,
+     "feasible": false
+    }
+   ]
+  }
+ ],
+ "F1_monotonic": true,
+ "F2_fabric": {
+  "isolated": true,
+  "curves": [
+   {
+    "p_alive": 0.6,
+    "line_connect_rate": 0.0
+   },
+   {
+    "p_alive": 0.65,
+    "line_connect_rate": 0.0
+   },
+   {
+    "p_alive": 0.7,
+    "line_connect_rate": 0.003
+   },
+   {
+    "p_alive": 0.75,
+    "line_connect_rate": 0.002
+   },
+   {
+    "p_alive": 0.8,
+    "line_connect_rate": 0.009
+   },
+   {
+    "p_alive": 0.85,
+    "line_connect_rate": 0.032
+   },
+   {
+    "p_alive": 0.9,
+    "line_connect_rate": 0.114
+   },
+   {
+    "p_alive": 0.95,
+    "line_connect_rate": 0.378
+   },
+   {
+    "p_alive": 1.0,
+    "line_connect_rate": 1.0
+   }
+  ],
+  "p02_hub_note": "星形拓扑中心不可冗余——损伤判据=中心存活; 回路边损伤由curve覆盖"
+ },
+ "F3_n16": {
+  "model": "全局同锁(保守版)",
+  "verdict": "SAT",
+  "note": "同锁模型平凡SAT; 非平凡约束(串扰定量线)N16规格书未给——照记为T0缺口候选"
+ },
+ "elapsed_s": 1.4
+}

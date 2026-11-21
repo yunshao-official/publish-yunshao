@@ -1,0 +1,2738 @@
+[
+ {
+  "模块": "M01",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Language and Thought Online: Cognitive Consequences of Linguistic Relativity",
+  "DOI": "10.7551/mitpress/4117.003.0013",
+  "type": "book-chapter",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Cognitive Linguistics and Linguistic Relativity",
+  "DOI": "10.1093/oxfordhb/9780199738632.013.0038",
+  "type": "book",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Linguistic Relativity",
+  "DOI": "10.1146/annurev.anthro.26.1.291",
+  "type": "review",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Evidence for Linguistic Relativity",
+  "DOI": "10.1075/cilt.198",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Perspectives on Language and Thought",
+  "DOI": "10.1017/cbo9780511983689",
+  "type": "book",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Who's Afraid of the Big Bad Whorf? Crosslinguistic Differences in Temporal Language and Th",
+  "DOI": "10.1111/j.1467-9922.2008.00462.x",
+  "type": "journal-article",
+  "质量门": [
+   "Q2"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 1,
+  "判定": "出局·锚词门（标题不含该模块锁定锚词）",
+  "标题": "Neurolinguistic Relativity: How Language Flexes Human Perception and Cognition",
+  "DOI": "10.1111/lang.12186",
+  "type": "review",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "linguistic relativity"
+  ],
+  "刊物": "Language Learning"
+ },
+ {
+  "模块": "M01",
+  "池级": 1,
+  "判定": "留",
+  "标题": "The Semantics of Chinese Classifiers and Linguistic Relativity",
+  "DOI": "10.4324/9781315265483",
+  "type": "book",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Irony in Language and Thought",
+  "DOI": "10.4324/9781410616685",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 1,
+  "判定": "留",
+  "标题": "New Perspectives on Language and Thought",
+  "DOI": "10.1093/oxfordhb/9780199734689.013.0028",
+  "type": "book-chapter",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Reevaluating Linguistic Relativity: Language-Specific Categories and the Role of Universal",
+  "DOI": "10.7551/mitpress/4117.003.0022",
+  "type": "book-chapter",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Relations Between Language and Thought",
+  "DOI": "10.1093/oxfordhb/9780195376746.013.0032",
+  "type": "book",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Grammatical Categories and Cognition",
+  "DOI": "10.1017/cbo9780511620713",
+  "type": "book",
+  "子任务质量门": [
+   "Q1",
+   "Q3"
+  ],
+  "锚词": [
+   "linguistic relativity",
+   "sapir-whorf"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Chinese and English counterfactuals: The Sapir-Whorf hypothesis revisited",
+  "DOI": "10.1016/0010-0277(83)90038-0",
+  "type": "journal-article",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·无摘要出局",
+  "标题": "Grammatical gender and linguistic relativity: A systematic review",
+  "DOI": "10.3758/s13423-019-01652-3",
+  "type": "review",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "linguistic relativity"
+  ],
+  "刊物": "Psychonomic Bulletin & Review"
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·无摘要出局",
+  "标题": "The Sapir-Whorf Hypothesis Today",
+  "DOI": "10.4304/tpls.2.3.642-646",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "sapir-whorf"
+  ],
+  "刊物": "Theory and Practice in Language Studies"
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "When is ‘linguistic relativity’ Whorf’s linguistic relativity?",
+  "DOI": "10.1075/cilt.199.05lee",
+  "type": "book-chapter",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·无摘要出局",
+  "标题": "The Sapir-Whorf Hypothesis and Probabilistic Inference: Evidence from the Domain of Color",
+  "DOI": "10.1371/journal.pone.0158725",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "sapir-whorf"
+  ],
+  "刊物": "PLOS ONE"
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "CONCEPTUAL TRANSFER AND MEANING EXTENSIONS",
+  "DOI": "10.4324/9780203938560-22",
+  "type": "book-chapter",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Linguistic relativity: precursors and transformations",
+  "DOI": "10.4324/9781315793993-9",
+  "type": "book-chapter",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Embodiment and Cognitive Science",
+  "DOI": "10.1017/cbo9780511805844",
+  "type": "book",
+  "子任务质量门": [
+   "Q1",
+   "Q3"
+  ],
+  "锚词": [
+   "language and thought"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Language, Thought, and Reality",
+  "DOI": "10.2307/j.ctvt9k614.12",
+  "type": "book-chapter",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Language Diversity and Thought",
+  "DOI": "10.1017/cbo9780511620843",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Growth points in thinking-for-speaking",
+  "DOI": "10.1017/cbo9780511620850.010",
+  "type": "book-chapter",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Language in Mind",
+  "DOI": "10.7551/mitpress/4117.001.0001",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Perspectival Thought",
+  "DOI": "10.1093/acprof:oso/9780199230532.001.0001",
+  "type": "book",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "language and thought"
+  ],
+  "刊物": ""
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Understanding Pragmatics",
+  "DOI": "10.4324/9780203776476",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "The Whorf Theory Complex",
+  "DOI": "10.1075/sihols.81",
+  "type": "book",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "linguistic relativity"
+  ],
+  "刊物": "Amsterdam studies in the theory and history of linguistic science. Series 3, Studies in the history of linguistics"
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "A third way to travel: The place of Thai in motion event typology.",
+  "DOI": "10.4324/9781410609694-10",
+  "type": "book-chapter",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "linguistic relativity"
+  ],
+  "刊物": "Lund University Publications (Lund University)"
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Space in Languages",
+  "DOI": "10.1075/tsl.66",
+  "type": "book",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "A Hierarchical Generative Framework of Language Processing: Linking Language Perception, I",
+  "DOI": "10.3389/fnhum.2015.00643",
+  "type": "review",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Toward a History of American Linguistics",
+  "DOI": "10.4324/9780203361856",
+  "type": "book",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "The Cambridge Handbook of the Philosophy of Language",
+  "DOI": "10.1017/9781108698283",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Fracture and Fragmentation in British Romanticism",
+  "DOI": "10.1017/cbo9780511750434",
+  "type": "book",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "language and thought"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Script Effects as the Hidden Drive of the Mind, Cognition, and Culture",
+  "DOI": "10.1007/978-3-030-55152-0",
+  "type": "book",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "linguistic relativity"
+  ],
+  "刊物": "Literacy studies"
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Aristotle in China",
+  "DOI": "10.1017/cbo9780511483097",
+  "type": "book",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "language and thought"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Language",
+  "DOI": "10.1017/cbo9781139629430",
+  "type": "book",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Dialogic Thinking",
+  "DOI": "10.1017/cbo9780511581533.004",
+  "type": "book-chapter",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "language and thought"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Donald Davidson's Triangulation Argument",
+  "DOI": "10.4324/9781315885117",
+  "type": "book",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "language and thought"
+  ],
+  "刊物": "Routledge eBooks"
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Methodological issues in cross-language color naming",
+  "DOI": "10.1017/cbo9780511616792.006",
+  "type": "book-chapter",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Culture in Language and Cognition",
+  "DOI": "10.4324/9781351034708-27",
+  "type": "book-chapter",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M01",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Vagueness",
+  "DOI": "10.1017/cbo9781139236157.015",
+  "type": "book-chapter",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "language and thought"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 1,
+  "判定": "留",
+  "标题": "The Political Language of Islam",
+  "DOI": "10.7208/chicago/9780226220154.001.0001",
+  "type": "book",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Political Language and Metaphor",
+  "DOI": "10.4324/9780203931233",
+  "type": "book",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Vulnerability as a political language",
+  "DOI": "10.7765/9781526133113.00005",
+  "type": "book-chapter",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·无摘要出局",
+  "标题": "“Sustainability” in higher education: from doublethink and newspeak to critical thinking a",
+  "DOI": "10.1016/s0952-8733(02)00003-x",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "newspeak"
+  ],
+  "刊物": "Higher Education Policy"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Do Artifacts Have Politics?",
+  "DOI": "10.4324/9781315259697-21",
+  "type": "book-chapter",
+  "子任务质量门": [
+   "Q1",
+   "Q3"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Routledge eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Analysing Political Discourse",
+  "DOI": "10.4324/9780203561218",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "The Inclusive Society?",
+  "DOI": "10.1057/9780230372528",
+  "type": "book",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Palgrave Macmillan UK eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Antiochos III and the Cities of Wes tern Asia Minor",
+  "DOI": "10.1093/oso/9780198152194.001.0001",
+  "type": "book",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": ""
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Ungoverned Imaginings",
+  "DOI": "10.1093/acprof:oso/9780198117865.001.0001",
+  "type": "book",
+  "子任务质量门": [
+   "Q1",
+   "Q3"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Oxford University Press eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Colonial Capitalism and the Dilemmas of Liberalism",
+  "DOI": "10.1093/oso/9780190637293.001.0001",
+  "type": "book",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": ""
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "The 1549 Rebellions and the Making of Early Modern England",
+  "DOI": "10.1017/cbo9780511496141",
+  "type": "book",
+  "子任务质量门": [
+   "Q1",
+   "Q3"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "留",
+  "标题": "The Language of Contention",
+  "DOI": "10.1017/cbo9781139567190",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "留",
+  "标题": "The Morphological Analysis of Ideology",
+  "DOI": "10.1093/oxfordhb/9780199585977.013.0034",
+  "type": "book-chapter",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Roots Too",
+  "DOI": "10.4159/9780674039063",
+  "type": "book",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Harvard University Press eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Prophecy and Public Affairs in Later Medieval England",
+  "DOI": "10.1515/9781846151392",
+  "type": "book",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Hindu Nationalism and the Language of Politics in Late Colonial India",
+  "DOI": "10.1017/cbo9780511497391",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Early Modern Democracy in the Grisons",
+  "DOI": "10.1017/cbo9780511523335",
+  "type": "book",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Post-Truth Rhetoric and Composition",
+  "DOI": "10.2307/j.ctt1w76tbg",
+  "type": "book",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "留",
+  "标题": "The history of the word politicus in early-modern Europe",
+  "DOI": "10.1017/cbo9780511521447.003",
+  "type": "book-chapter",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "留",
+  "标题": "The Routledge Handbook of Social and Political Philosophy of Language",
+  "DOI": "10.4324/9781003164869",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Commonwealth Principles",
+  "DOI": "10.1017/cbo9780511490736",
+  "type": "book",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Trump and Us",
+  "DOI": "10.1017/9781108854979",
+  "type": "book",
+  "子任务质量门": [
+   "Q1",
+   "Q3"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "An Anatomy of Chinese",
+  "DOI": "10.4159/harvard.9780674067684",
+  "type": "book",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Harvard University Press eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "留",
+  "标题": "An American Language",
+  "DOI": "10.1525/california/9780520297067.001.0001",
+  "type": "book",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "The Creation of Lancastrian Kingship",
+  "DOI": "10.1017/cbo9780511585876",
+  "type": "book",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "留",
+  "标题": "The Machiavellian moment and the Dutch Revolt: the rise of neostoicism and Dutch republica",
+  "DOI": "10.1017/cbo9780511598463.010",
+  "type": "book-chapter",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Queer Words, Queer Images",
+  "DOI": "10.18574/nyu/9780814769447.001.0001",
+  "type": "book",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "From Virtue to Politeness",
+  "DOI": "10.1017/cbo9780511490767.007",
+  "type": "book-chapter",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Popular Culture and Popular Protest in Late Medieval and Early Modern Europe",
+  "DOI": "10.4324/9781003188858",
+  "type": "book",
+  "子任务质量门": [
+   "Q1",
+   "Q3"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Routledge eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Framing the European Union",
+  "DOI": "10.1017/cbo9781316335642",
+  "type": "book",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Politics and Violence in Burundi",
+  "DOI": "10.1017/9781108581530",
+  "type": "book",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Issue Framing",
+  "DOI": "10.1093/oxfordhb/9780199545636.003.0012",
+  "type": "book-chapter",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "political language"
+  ],
+  "刊物": "Oxford University Press eBooks"
+ },
+ {
+  "模块": "M02",
+  "池级": 2,
+  "判定": "留",
+  "标题": "In Their Own Words: The World of the Torturer",
+  "DOI": "10.4324/9780429313929-4",
+  "type": "book-chapter",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Metaphorical framing in political discourse through words vs. concepts: a meta-analysis",
+  "DOI": "10.1017/langcog.2019.5",
+  "type": "review",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 1,
+  "判定": "留",
+  "标题": "The Effects of Metaphorical Framing on Political Persuasion: A Systematic Literature Revie",
+  "DOI": "10.1080/10926488.2017.1297623",
+  "type": "review",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Media Framing of a Civil Liberties Conflict and Its Effect on Tolerance",
+  "DOI": "10.2307/2952075",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Framing as a Theory of Media Effects",
+  "DOI": "10.1111/j.1460-2466.1999.tb02784.x",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Framing European politics: A Content Analysis of Press and Television News",
+  "DOI": "10.1111/j.1460-2466.2000.tb02843.x",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Framing analysis: An approach to news discourse",
+  "DOI": "10.1080/10584609.1993.9962963",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 1,
+  "判定": "出局·无摘要出局",
+  "标题": "Decoupled Double Synchronous Reference Frame PLL for Power Converters Control",
+  "DOI": "10.1109/tpel.2006.890000",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "frame"
+  ],
+  "刊物": "IEEE Transactions on Power Electronics"
+ },
+ {
+  "模块": "M03",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Framing Bias: Media in the Distribution of Power",
+  "DOI": "10.1111/j.1460-2466.2006.00336.x",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Framing, Agenda Setting, and Priming: The Evolution of Three Media Effects Models",
+  "DOI": "10.1111/j.0021-9916.2007.00326.x",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 1,
+  "判定": "出局·锚词门（标题不含该模块锁定锚词）",
+  "标题": "Overcoming policy cacophony on obesity: an ecological public health framework for policyma",
+  "DOI": "10.1111/j.1467-789x.2007.00338.x",
+  "type": "review",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "frame"
+  ],
+  "刊物": "Obesity Reviews"
+ },
+ {
+  "模块": "M03",
+  "池级": 1,
+  "判定": "留",
+  "标题": "The Red Pill, Unicorns and White Knights: Cultural Symbolism and Conceptual Metaphor in th",
+  "DOI": "10.1007/978-3-030-42734-4_4",
+  "type": "book-chapter",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Conceptual Metaphor in Social Psychology",
+  "DOI": "10.4324/9781315312019",
+  "type": "book",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "出局·锚词门（标题不含该模块锁定锚词）",
+  "标题": "Increasing Returns, Path Dependence, and the Study of Politics",
+  "DOI": "10.2307/2586011",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2",
+   "Q3"
+  ],
+  "锚词": [
+   "frame"
+  ],
+  "刊物": "American Political Science Review"
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Metaphor and Corpus Linguistics",
+  "DOI": "10.1075/celcr.6",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "出局·锚词门（标题不含该模块锁定锚词）",
+  "标题": "Metaphor in Educational Discourse",
+  "DOI": "10.5040/9781474212076",
+  "type": "book",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "frame"
+  ],
+  "刊物": "Bloomsbury Academic eBooks"
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Washing the Brain – Metaphor and Hidden Ideology",
+  "DOI": "10.1075/dapsac.23",
+  "type": "book",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Where Metaphors Come From",
+  "DOI": "10.1093/acprof:oso/9780190224868.001.0001",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Metaphor and Metonymy at the Crossroads",
+  "DOI": "10.1515/9783110894677",
+  "type": "book",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Image Bite Politics",
+  "DOI": "10.1093/acprof:oso/9780195372076.001.0001",
+  "type": "book",
+  "子任务质量门": [
+   "Q1",
+   "Q3"
+  ],
+  "锚词": [
+   "framing"
+  ],
+  "刊物": "Oxford University Press eBooks"
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "出局·锚词门（标题不含该模块锁定锚词）",
+  "标题": "Metaphor and Gender in Business Media Discourse",
+  "DOI": "10.1057/9780230511286",
+  "type": "book",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "frame"
+  ],
+  "刊物": "Palgrave Macmillan UK eBooks"
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "World Englishes",
+  "DOI": "10.1515/9783110199222",
+  "type": "book",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "conceptual metaphor"
+  ],
+  "刊物": ""
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Message Design Strategies to Raise Public Awareness of Social Determinants of Health and P",
+  "DOI": "10.1111/j.1468-0009.2008.00530.x",
+  "type": "review",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Political Metaphor Analysis : Discourse and Scenarios",
+  "DOI": "10.5040/9781474295413",
+  "type": "book",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "8. Culture-specific conceptualisations of corruption in African English",
+  "DOI": "10.1075/celcr.7.09pol",
+  "type": "book-chapter",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "conceptual metaphor"
+  ],
+  "刊物": "Converging evidence in language and communication research"
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "A cognitive stylistic approach to mind style in narrative fiction",
+  "DOI": "10.4324/9781003060789-29",
+  "type": "book-chapter",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "America is like Metamucil",
+  "DOI": "10.1145/1753326.1753541",
+  "type": "conference-paper",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "conceptual metaphor",
+   "metaphor AND politics"
+  ],
+  "刊物": "CHI Conference on Human Factors in Computing Systems"
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Interpreted Ideologies in Institutional Discourse: The Case of the European Parliament",
+  "DOI": "10.4324/9781315538211-9",
+  "type": "book-chapter",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Projections of Power",
+  "DOI": "10.7208/chicago/9780226210735.001.0001",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Extracting opinions, opinion holders, and topics expressed in online news media text",
+  "DOI": "10.3115/1654641.1654642",
+  "type": "conference-paper",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "MOSI: Multimodal Corpus of Sentiment Intensity and Subjectivity Analysis in Online Opinion",
+  "DOI": "10.48550/arxiv.1606.06259",
+  "type": "preprint",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Bystanders, Public Opinion, and the Media",
+  "DOI": "10.1002/9780470999103.ch11",
+  "type": "book-chapter",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "出局·锚词门（标题不含该模块锁定锚词）",
+  "标题": "Analysing Political Speeches",
+  "DOI": "10.1007/978-1-137-36833-1",
+  "type": "book",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "frame"
+  ],
+  "刊物": "Bloomsbury Publishing Plc eBooks"
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Transnationalizing the Public Sphere",
+  "DOI": "10.4324/9781003074977-24",
+  "type": "book-chapter",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "留",
+  "标题": "COMMUNICATION AND OPINION",
+  "DOI": "10.1146/annurev.polisci.1.1.167",
+  "type": "review",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M03",
+  "池级": 2,
+  "判定": "出局·锚词门（标题不含该模块锁定锚词）",
+  "标题": "Social media in health communication: A literature review of information quality",
+  "DOI": "10.1177/1833358321992683",
+  "type": "review",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "frame"
+  ],
+  "刊物": "Health Information Management Journal"
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "How Propaganda Works",
+  "DOI": "10.1515/9781400865802",
+  "type": "book",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "The Oxford Handbook of Propaganda Studies",
+  "DOI": "10.1093/oxfordhb/9780199764419.001.0001",
+  "type": "book",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "7 Propaganda and Persuasion",
+  "DOI": "10.1515/9781580468299-010",
+  "type": "book-chapter",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "A Survey on Computational Propaganda Detection",
+  "DOI": "10.24963/ijcai.2020/672",
+  "type": "conference-paper",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Cross-Platform State Propaganda: Russian Trolls on Twitter and YouTube during the 2016 U.S",
+  "DOI": "10.1177/1940161220912682",
+  "type": "journal-article",
+  "质量门": [
+   "Q2"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "How persuasive is AI-generated propaganda?",
+  "DOI": "10.1093/pnasnexus/pgae034",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "How Soft Propaganda Persuades",
+  "DOI": "10.1177/00104140211047403",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Propaganda in Autocracies",
+  "DOI": "10.1017/9781009271226",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Overview of the WANLP 2022 Shared Task on Propaganda Detection in Arabic",
+  "DOI": "10.18653/v1/2022.wanlp-1.11",
+  "type": "conference-paper",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Network Propaganda",
+  "DOI": "10.1093/oso/9780190923624.001.0001",
+  "type": "book",
+  "质量门": [
+   "Q2"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Propaganda and Conflict: Evidence from the Rwandan Genocide *",
+  "DOI": "10.1093/qje/qju020",
+  "type": "journal-article",
+  "质量门": [
+   "Q2"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Distraction can enhance or reduce yielding to propaganda: Thought disruption versus effort",
+  "DOI": "10.1037/0022-3514.34.5.874",
+  "type": "journal-article",
+  "质量门": [
+   "Q2"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "出局·无摘要出局",
+  "标题": "Propaganda as Signaling",
+  "DOI": "10.5129/001041515816103220",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "propaganda"
+  ],
+  "刊物": "Comparative Politics"
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "The Theory of Political Propaganda",
+  "DOI": "10.2307/1945515",
+  "type": "journal-article",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Fine-Grained Analysis of Propaganda in News Article",
+  "DOI": "10.18653/v1/d19-1565",
+  "type": "conference-paper",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Why Does China Allow Freer Social Media? Protests versus Surveillance and Propaganda",
+  "DOI": "10.1257/jep.31.1.117",
+  "type": "journal-article",
+  "质量门": [
+   "Q2"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Cyber China: Upgrading Propaganda, Public Opinion Work and Social Management for the Twent",
+  "DOI": "10.1080/10670564.2016.1206281",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "The Propaganda of the Deed: Terrorism, Counterterrorism, and Mobilization",
+  "DOI": "10.1111/j.1540-5907.2007.00256.x",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "出局·无摘要出局",
+  "标题": "Misinformation, Disinformation, and Online Propaganda",
+  "DOI": "10.1017/9781108890960.003",
+  "type": "book-chapter",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "propaganda"
+  ],
+  "刊物": "Social Media and Democracy"
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Inducing Resistance to Conspiracy Theory Propaganda: Testing Inoculation and Metainoculati",
+  "DOI": "10.1111/hcre.12000",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "出局·无摘要出局",
+  "标题": "The Pathology of Hard Propaganda",
+  "DOI": "10.1086/696863",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "propaganda"
+  ],
+  "刊物": "The Journal of Politics"
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "China's Propaganda System: Institutions, Processes and Efficacy",
+  "DOI": "10.1086/tcj.57.20066240",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "出局·无摘要出局",
+  "标题": "Memes and symbolic violence: #proudboys and the use of memes for propaganda and the constr",
+  "DOI": "10.1080/17439884.2018.1544149",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "propaganda"
+  ],
+  "刊物": "Learning, Media and Technology"
+ },
+ {
+  "模块": "M04",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Detecting Propaganda Techniques in Memes",
+  "DOI": "10.18653/v1/2021.acl-long.516",
+  "type": "conference-paper",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "出局·N门出局",
+  "标题": "The past as propaganda: totalitarian archaeology in Nazi Germany",
+  "DOI": "10.1017/s0003598x00078376",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "propaganda",
+   "totalitarian"
+  ],
+  "刊物": "Antiquity"
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Indoctrination U.? Faculty Ideology and Changes in Student Political Orientation",
+  "DOI": "10.1017/s1049096508081031",
+  "type": "journal-article",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Experimental Propaganda Techniques and Voting Behavior",
+  "DOI": "10.2307/1951603",
+  "type": "journal-article",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Propaganda and Persuasion",
+  "DOI": "10.1515/9780887555121",
+  "type": "book",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "出局·无摘要出局",
+  "标题": "Post‐totalitarian national identity: public memory in Germany and Russia",
+  "DOI": "10.1080/1464936042000252778",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "totalitarian"
+  ],
+  "刊物": "Social &amp; Cultural Geography"
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking",
+  "DOI": "10.18653/v1/d17-1317",
+  "type": "conference-paper",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Key Concepts in Political Communication",
+  "DOI": "10.4135/9781446212943",
+  "type": "book",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "留",
+  "标题": "How to Do Media and Cultural Studies",
+  "DOI": "10.4135/9781036234287",
+  "type": "book",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Qualitative Methods and Health Policy Research",
+  "DOI": "10.4324/9781315127873",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Media Argumentation",
+  "DOI": "10.1017/cbo9780511619311",
+  "type": "book",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Memory and Political Change",
+  "DOI": "10.1057/9780230354241",
+  "type": "book",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "totalitarian"
+  ],
+  "刊物": "Palgrave Macmillan UK eBooks"
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Mapping out a Spectrum of Public Diplomacy Initiatives: Information and Relational Communi",
+  "DOI": "10.4324/9780203891520-18",
+  "type": "book-chapter",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Happenstance: Utilizing Semantic Search to Track Russian State Media Narratives about the ",
+  "DOI": "10.1609/icwsm.v17i1.22149",
+  "type": "conference-paper",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "The Criminalisation of Communism in the European Political Space after the Cold War",
+  "DOI": "10.4324/9781351141765",
+  "type": "book",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "totalitarian"
+  ],
+  "刊物": "Routledge eBooks"
+ },
+ {
+  "模块": "M04",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Europeanising memory: the European Union's politics of memory",
+  "DOI": "10.4337/9781800372535.00012",
+  "type": "book-chapter",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "totalitarian"
+  ],
+  "刊物": "Edward Elgar Publishing eBooks"
+ },
+ {
+  "模块": "M05",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Self-Censorship on Facebook",
+  "DOI": "10.1609/icwsm.v7i1.14412",
+  "type": "conference-paper",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M05",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Journalist Safety and Self-Censorship",
+  "DOI": "10.4324/9780367810139",
+  "type": "book",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M05",
+  "池级": 1,
+  "判定": "出局·无摘要出局",
+  "标题": "Implicit Voice Theories: Taken-for-Granted Rules of Self-Censorship at Work",
+  "DOI": "10.5465/amj.2011.61967925",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "censorship",
+   "self-censorship"
+  ],
+  "刊物": "Academy of Management Journal"
+ },
+ {
+  "模块": "M05",
+  "池级": 1,
+  "判定": "出局·无摘要出局",
+  "标题": "bcl-2 transgene inhibits T cell death and perturbs thymic self-censorship",
+  "DOI": "10.1016/0092-8674(91)90362-3",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "censorship",
+   "self-censorship"
+  ],
+  "刊物": "Cell"
+ },
+ {
+  "模块": "M05",
+  "池级": 1,
+  "判定": "出局·无摘要出局",
+  "标题": "Nonparticipation as Self-Censorship: Publicly Observable Political Activity in a Polarized",
+  "DOI": "10.1007/s11109-006-9008-3",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "censorship",
+   "self-censorship"
+  ],
+  "刊物": "Political Behavior"
+ },
+ {
+  "模块": "M05",
+  "池级": 1,
+  "判定": "出局·无摘要出局",
+  "标题": "Assessing Censorship on Microblogs in China: Discriminatory Keyword Analysis and the Real-",
+  "DOI": "10.1109/mic.2013.28",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "censorship"
+  ],
+  "刊物": "IEEE Internet Computing"
+ },
+ {
+  "模块": "M05",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Chinese Wall or Swiss Cheese? Keyword filtering in the Great Firewall of China",
+  "DOI": "10.1145/3442381.3450076",
+  "type": "conference-paper",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M05",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Online contribution practices in countries that engage in internet blocking and censorship",
+  "DOI": "10.1145/1978942.1979108",
+  "type": "conference-paper",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M05",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "The Twenty Years' Crisis, 1919-1939",
+  "DOI": "10.1007/978-1-349-15208-7",
+  "type": "book",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "censorship",
+   "self-censorship"
+  ],
+  "刊物": "Palgrave Macmillan UK eBooks"
+ },
+ {
+  "模块": "M05",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Social Media, Politics and the State",
+  "DOI": "10.4324/9781315764832",
+  "type": "book",
+  "质量门": [
+   "Q1",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M05",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "The post that wasn't",
+  "DOI": "10.1145/2441776.2441865",
+  "type": "conference-paper",
+  "子任务质量门": [
+   "Q1",
+   "Q3"
+  ],
+  "锚词": [
+   "censorship",
+   "self-censorship"
+  ],
+  "刊物": "ACM Conference on Computer Supported Cooperative Work (CSCW)"
+ },
+ {
+  "模块": "M05",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Gag rules or the politics of omission",
+  "DOI": "10.1017/cbo9781139173629.002",
+  "type": "book-chapter",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "censorship",
+   "self-censorship"
+  ],
+  "刊物": "Cambridge University Press eBooks"
+ },
+ {
+  "模块": "M05",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "All My People Right Here, Right Now",
+  "DOI": "10.1145/1531674.1531717",
+  "type": "conference-paper",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "censorship",
+   "self-censorship"
+  ],
+  "刊物": "International ACM SIGGROUP Conference on Supporting Group Work (GROUP)"
+ },
+ {
+  "模块": "M05",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Keeping a Low Profile?",
+  "DOI": "10.1145/3173574.3173688",
+  "type": "conference-paper",
+  "子任务质量门": [
+   "Q1",
+   "Q3"
+  ],
+  "锚词": [
+   "censorship",
+   "self-censorship"
+  ],
+  "刊物": "CHI Conference on Human Factors in Computing Systems"
+ },
+ {
+  "模块": "M05",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Debating Yoga and Mindfulness in Public Schools",
+  "DOI": "10.5149/northcarolina/9781469648484.001.0001",
+  "type": "book",
+  "质量门": [
+   "Q1"
+  ]
+ },
+ {
+  "模块": "M05",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "The Routledge Research Companion to Early Drama and Performance",
+  "DOI": "10.4324/9781315612898",
+  "type": "book",
+  "子任务质量门": [
+   "Q1",
+   "Q3"
+  ],
+  "锚词": [
+   "censorship",
+   "self-censorship"
+  ],
+  "刊物": "Routledge eBooks"
+ },
+ {
+  "模块": "M05",
+  "池级": 2,
+  "判定": "出局·N门出局",
+  "标题": "Research on phishing webpage detection technology based on CNN-BiLSTM algorithm",
+  "DOI": "10.1088/1742-6596/1738/1/012131",
+  "type": "conference-paper",
+  "子任务质量门": [
+   "Q1"
+  ],
+  "锚词": [
+   "sensitive words"
+  ],
+  "刊物": "Journal of Physics Conference Series"
+ },
+ {
+  "模块": "M05",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Expanding Awareness: Comparing Location, Keyword, and Network Filtering Methods to Collect",
+  "DOI": "10.24251/hicss.2019.325",
+  "type": "conference-paper",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M05",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Resume Ranker: AI-Based Skill Analysis and Skill Matching System",
+  "DOI": "10.1109/icds62089.2024.10756304",
+  "type": "conference-paper",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "keyword filtering"
+  ],
+  "刊物": "International Conference on Intelligent Computing in Data Sciences (ICDS)"
+ },
+ {
+  "模块": "M06",
+  "池级": 1,
+  "判定": "出局·无摘要出局",
+  "标题": "Deplatforming sexual speech in the age of FOSTA/SESTA",
+  "DOI": "10.1080/23268743.2021.1993972",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "deplatforming"
+  ],
+  "刊物": "Porn Studies"
+ },
+ {
+  "模块": "M06",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Online conspiracy communities are more resilient to deplatforming",
+  "DOI": "10.1093/pnasnexus/pgad324",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2",
+   "Q3"
+  ],
+  "锚词": [
+   "content moderation",
+   "deplatforming"
+  ],
+  "刊物": "PNAS Nexus"
+ },
+ {
+  "模块": "M06",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Alt‐health influencers and the threat of social media deplatforming",
+  "DOI": "10.1002/asi.24870",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M08",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Morphological awareness in Chinese: Unique associations of homophone awareness and lexical",
+  "DOI": "10.1017/s014271641200001x",
+  "type": "journal-article",
+  "质量门": [
+   "Q2"
+  ]
+ },
+ {
+  "模块": "M08",
+  "池级": 1,
+  "判定": "出局·无摘要出局",
+  "标题": "Corporate tax avoidance and high-powered incentives",
+  "DOI": "10.1016/j.jfineco.2005.02.002",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "avoidance"
+  ],
+  "刊物": "Journal of Financial Economics"
+ },
+ {
+  "模块": "M08",
+  "池级": 1,
+  "判定": "出局·无摘要出局",
+  "标题": "Approach and avoidance achievement goals and intrinsic motivation: A mediational analysis.",
+  "DOI": "10.1037/0022-3514.70.3.461",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "avoidance"
+  ],
+  "刊物": "Journal of Personality and Social Psychology"
+ },
+ {
+  "模块": "M08",
+  "池级": 1,
+  "判定": "出局·R门出局",
+  "标题": "The Politics of Blame Avoidance",
+  "DOI": "10.1017/s0143814x00004219",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "avoidance"
+  ],
+  "刊物": "Journal of Public Policy"
+ },
+ {
+  "模块": "M08",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Relations between emotion, memory, and attention: Evidence from taboo Stroop, lexical deci",
+  "DOI": "10.3758/bf03195840",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M08",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Identification With Characters and Discussion of Taboo Topics After Exposure to an Enterta",
+  "DOI": "10.1111/j.1460-2466.2011.01551.x",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M08",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Phonology and Orthography in Visual Word Recognition: Effects of Masked Homophone Primes",
+  "DOI": "10.1006/jmla.1994.1011",
+  "type": "journal-article",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M08",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Homophone effects in lexical decision.",
+  "DOI": "10.1037/0278-7393.27.1.139",
+  "type": "journal-article",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M08",
+  "池级": 1,
+  "判定": "出局·无摘要出局",
+  "标题": "Informal settlement is not a euphemism for ‘slum’: what’s at stake beyond the language?",
+  "DOI": "10.3828/idpr.2020.14",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "euphemism"
+  ],
+  "刊物": "International Development Planning Review"
+ },
+ {
+  "模块": "M08",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Political correctness, euphemism, and language change: The case of ‘people first’",
+  "DOI": "10.1016/j.pragma.2010.09.016",
+  "type": "journal-article",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M08",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Euphemism and Language Change: The Sixth and Seventh Ages",
+  "DOI": "10.4000/lexis.355",
+  "type": "journal-article",
+  "质量门": [
+   "Q2"
+  ]
+ },
+ {
+  "模块": "M08",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Voornaam is not (really) a Homophone: Lexical Prosody and Lexical Access in Dutch",
+  "DOI": "10.1177/00238309010440020301",
+  "type": "journal-article",
+  "质量门": [
+   "Q2"
+  ]
+ },
+ {
+  "模块": "M08",
+  "池级": 2,
+  "判定": "留",
+  "标题": "Towards a new approach to the linguistic definition of euphemism",
+  "DOI": "10.1016/j.langsci.2009.05.001",
+  "type": "journal-article",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M08",
+  "池级": 2,
+  "判定": "出局·无摘要出局",
+  "标题": "A Comparison of Phonological Awareness, Lexical Compounding, and Homophone Training for Ch",
+  "DOI": "10.1080/10409289.2010.530478",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "homophone"
+  ],
+  "刊物": "Early Education and Development"
+ },
+ {
+  "模块": "M08",
+  "池级": 2,
+  "判定": "出局·无摘要出局",
+  "标题": "Effects of orthographic consistency and homophone density on Chinese spoken word recogniti",
+  "DOI": "10.1016/j.bandl.2016.04.005",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "homophone"
+  ],
+  "刊物": "Brain and Language"
+ },
+ {
+  "模块": "M09",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Online interventions for reducing hate speech and cyberhate: A systematic review",
+  "DOI": "10.1002/cl2.1243",
+  "type": "journal-article",
+  "质量门": [
+   "Q2"
+  ]
+ },
+ {
+  "模块": "M10",
+  "池级": 2,
+  "判定": "出局·无摘要出局",
+  "标题": "The Routledge Handbook of Linguistic Prescriptivism",
+  "DOI": "10.4324/9781003095125",
+  "type": "book",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "prescriptivism"
+  ],
+  "刊物": ""
+ },
+ {
+  "模块": "M11",
+  "池级": 1,
+  "判定": "留",
+  "标题": "The Spiral of Silence a Theory of Public Opinion",
+  "DOI": "10.1111/j.1460-2466.1974.tb00367.x",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M11",
+  "池级": 1,
+  "判定": "出局·N门出局",
+  "标题": "Killing the messenger: short RNAs that silence gene expression",
+  "DOI": "10.1038/nrm1129",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2",
+   "Q3"
+  ],
+  "锚词": [
+   "silence"
+  ],
+  "刊物": "Nature Reviews Molecular Cell Biology"
+ },
+ {
+  "模块": "M11",
+  "池级": 1,
+  "判定": "出局·N门出局",
+  "标题": "Dnmt3a binds deacetylases and is recruited by a sequence‐specific repressor to silence tra",
+  "DOI": "10.1093/emboj/20.10.2536",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "silence"
+  ],
+  "刊物": "The EMBO Journal"
+ },
+ {
+  "模块": "M12",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Extending the Internet meme: Conceptualizing technological mimesis and imitation publics o",
+  "DOI": "10.1177/1461444820983603",
+  "type": "journal-article",
+  "质量门": [
+   "Q2"
+  ]
+ },
+ {
+  "模块": "M12",
+  "池级": 1,
+  "判定": "出局·R门出局",
+  "标题": "The networked practice of online political satire in China: Between ritual and resistance",
+  "DOI": "10.1177/1748048514568757",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "satire"
+  ],
+  "刊物": "International Communication Gazette"
+ },
+ {
+  "模块": "M12",
+  "池级": 1,
+  "判定": "出局·R门出局",
+  "标题": "Adding Nuance to the Study of Political Humor Effects: Experimental Research on Juvenalian",
+  "DOI": "10.1177/0002764210392156",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "satire"
+  ],
+  "刊物": "American Behavioral Scientist"
+ },
+ {
+  "模块": "M12",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Social Media Activism in Response to the Influence of Political Parody Videos on YouTube",
+  "DOI": "10.1177/0093650211405649",
+  "type": "journal-article",
+  "质量门": [
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M12",
+  "池级": 1,
+  "判定": "出局·R门出局",
+  "标题": "Digitized parody: The politics of egao in contemporary China",
+  "DOI": "10.1177/0920203x09350249",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "parody"
+  ],
+  "刊物": "China Information"
+ },
+ {
+  "模块": "M12",
+  "池级": 1,
+  "判定": "出局·R门出局",
+  "标题": "Political Parody and the Politics of Ambivalence",
+  "DOI": "10.1146/annurev-anthro-102215-100148",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "parody"
+  ],
+  "刊物": "Annual Review of Anthropology"
+ },
+ {
+  "模块": "M12",
+  "池级": 1,
+  "判定": "出局·R门出局",
+  "标题": "AMERICAN STIOB: Or, What Late-Socialist Aesthetics of Parody Reveal about Contemporary Pol",
+  "DOI": "10.1111/j.1548-1360.2010.01056.x",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "parody"
+  ],
+  "刊物": "Cultural Anthropology"
+ },
+ {
+  "模块": "M12",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Satire, Punch Lines, and the Nightly News: Untangling Media Effects on Political Participa",
+  "DOI": "10.1080/08824096.2011.565278",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M12",
+  "池级": 1,
+  "判定": "出局·R门出局",
+  "标题": "At Odds: Laughing and Thinking? The Appreciation, Processing, and Persuasiveness of Politi",
+  "DOI": "10.1111/jcom.12173",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2",
+   "Q3"
+  ],
+  "锚词": [
+   "satire"
+  ],
+  "刊物": "Journal of Communication"
+ },
+ {
+  "模块": "M12",
+  "池级": 1,
+  "判定": "出局·R门出局",
+  "标题": "Predicting the Consumption of Political TV Satire: Affinity for Political Humor, The Daily",
+  "DOI": "10.1080/03637751.2010.542579",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q3"
+  ],
+  "锚词": [
+   "satire"
+  ],
+  "刊物": "Communication Monographs"
+ },
+ {
+  "模块": "M12",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "Simply the best: Parody and political sincerity in Iceland",
+  "DOI": "10.1111/amet.12020",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "parody"
+  ],
+  "刊物": "American Ethnologist"
+ },
+ {
+  "模块": "M12",
+  "池级": 2,
+  "判定": "出局·无摘要出局",
+  "标题": "Political Parody and Public Culture",
+  "DOI": "10.1080/00335630802210369",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "parody"
+  ],
+  "刊物": "Quarterly Journal of Speech"
+ },
+ {
+  "模块": "M12",
+  "池级": 2,
+  "判定": "出局·无摘要出局",
+  "标题": "News Parody in Global Perspective: Politics, Power, and Resistance",
+  "DOI": "10.1080/15405702.2012.638566",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "parody"
+  ],
+  "刊物": "Popular Communication"
+ },
+ {
+  "模块": "M12",
+  "池级": 2,
+  "判定": "出局·R门出局",
+  "标题": "The Affect Effect of Political Satire: Sarcastic Humor, Negative Emotions, and Political P",
+  "DOI": "10.1080/15205436.2014.891133",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "satire"
+  ],
+  "刊物": "Mass Communication and Society"
+ },
+ {
+  "模块": "M13",
+  "池级": 1,
+  "判定": "出局·R门出局",
+  "标题": "Information Hiding Techniques for Steganography and Digital Watermaking",
+  "DOI": "10.1201/1079/43263.28.6.20001201/30373.5",
+  "type": "journal-article",
+  "子任务质量门": [
+   "Q2"
+  ],
+  "锚词": [
+   "steganography"
+  ],
+  "刊物": "EDPACS"
+ },
+ {
+  "模块": "M14",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Teacher Attrition and Retention: A Meta-Analytic and Narrative Review of the Research",
+  "DOI": "10.3102/0034654308321455",
+  "type": "journal-article",
+  "质量门": [
+   "Q2"
+  ]
+ },
+ {
+  "模块": "M14",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Alexithymia: concept, measurement, and implications for treatment",
+  "DOI": "10.1176/ajp.141.6.725",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M15",
+  "池级": 1,
+  "判定": "留",
+  "标题": "Cell proliferation at 122°C and isotopically heavy CH 4 production by a hyperthermophilic ",
+  "DOI": "10.1073/pnas.0712334105",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ },
+ {
+  "模块": "M15",
+  "池级": 1,
+  "判定": "留",
+  "标题": "The Agenda-Setting Function of Mass Media",
+  "DOI": "10.1086/267990",
+  "type": "journal-article",
+  "质量门": [
+   "Q2",
+   "Q3"
+  ]
+ }
+]

@@ -1,0 +1,37 @@
+{
+ "meta": {
+  "note": "方向覆盖对振幅不变（Δk角度与振幅无关）；敏感性只作用在条纹可见性contrast=a_j·a_l",
+  "N": 17,
+  "M": 22,
+  "w2_taper": "j<2核心分量amp=0.875（W2 §2.4口径）"
+ },
+ "cases": [
+  {
+   "amp": "等幅1.0",
+   "covered": 22,
+   "total": 22,
+   "max_err": 5.294,
+   "contrast_min": 1.0,
+   "contrast_mean": 1.0,
+   "pairs_touching_core": 3
+  },
+  {
+   "amp": "W2锥形(核心0.875)",
+   "covered": 22,
+   "total": 22,
+   "max_err": 5.294,
+   "contrast_min": 0.875,
+   "contrast_mean": 0.983,
+   "pairs_touching_core": 3
+  },
+  {
+   "amp": "极端锥形(核心0.5)",
+   "covered": 22,
+   "total": 22,
+   "max_err": 5.294,
+   "contrast_min": 0.5,
+   "contrast_mean": 0.9318,
+   "pairs_touching_core": 3
+  }
+ ]
+}

@@ -1,0 +1,1829 @@
+{
+  "query_id": "B2",
+  "group": "B",
+  "query": "metformin AND aging AND trial",
+  "hitCount": 12088,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:05.031191+00:00",
+  "results": [
+    {
+      "id": "42939546",
+      "source": "MED",
+      "pmid": "42939546",
+      "pmcid": "PMC13703335",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13703335"
+        ]
+      },
+      "doi": "10.3390/cimb48101008",
+      "title": "Metformin, SGLT2 Inhibitors, and Intermittent Fasting: Convergent Pathways to Healthspan Extension, Cardiovascular Longevity, and Cancer Prevention-A Narrative Review.",
+      "authorString": "Cozma D, Tudoran C, Vacarescu C.",
+      "journalTitle": "Curr Issues Mol Biol",
+      "issue": "10",
+      "journalVolume": "48",
+      "pubYear": "2026",
+      "journalIssn": "1467-3037; 1467-3045; ",
+      "pageInfo": "1008",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-30",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42954425",
+      "source": "MED",
+      "pmid": "42954425",
+      "pmcid": "PMC13717933",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13717933"
+        ]
+      },
+      "doi": "10.1002/jmv.71190",
+      "title": "Metformin at the Time of COVID-19 Infection and Risk of Long COVID: A Target Trial Emulation Study.",
+      "authorString": "Bramante CT, Stürmer T, Huling JD, Buse JB, Lindsell C, Stewart T, Rothman RL, Sahner D, Dunsmore SE, Topol E, Wiggen TD, Makkar S, Toler A, Estepp T, Johnson SG, N3C Consortium.",
+      "journalTitle": "J Med Virol",
+      "issue": "11",
+      "journalVolume": "98",
+      "pubYear": "2026",
+      "journalIssn": "0146-6615; 1096-9071; ",
+      "pageInfo": "e71190",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-11-01",
+      "firstIndexDate": "2026-10-30"
+    },
+    {
+      "id": "42692117",
+      "source": "MED",
+      "pmid": "42692117",
+      "doi": "10.1016/j.mad.2026.112241",
+      "title": "Metformin therapy increases leukocyte telomere length, telomerase activity, and longevity gene expression in Asian Indians with prediabetes: A 24-week participant-blind, outcome-assessor-blinded randomized controlled trial.",
+      "authorString": "Bhatt SP, Pandey S, Misra A.",
+      "journalTitle": "Mech Ageing Dev",
+      "journalVolume": "234",
+      "pubYear": "2026",
+      "journalIssn": "0047-6374; 1872-6216; ",
+      "pageInfo": "112241",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-03",
+      "firstIndexDate": "2026-09-04"
+    },
+    {
+      "id": "42572918",
+      "source": "MED",
+      "pmid": "42572918",
+      "pmcid": "PMC13454951",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13454951"
+        ]
+      },
+      "doi": "10.1002/psp4.70322",
+      "title": "A Systems Pharmacology Model of Aging Identifies Optimal Combination Therapies With Secondary Benefits on Weight Loss and Metabolic Health.",
+      "authorString": "Goryanin I, Damms B, Goryanin I.",
+      "journalTitle": "CPT Pharmacometrics Syst Pharmacol",
+      "issue": "8",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2163-8306",
+      "pageInfo": "e70322",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-01",
+      "firstIndexDate": "2026-08-13"
+    },
+    {
+      "id": "42579881",
+      "source": "MED",
+      "pmid": "42579881",
+      "doi": "10.18632/aging.206407",
+      "title": "Metformin at the convergence of aging and longevity.",
+      "authorString": "Manneh J, Alasmar M, Hajj NE.",
+      "journalTitle": "Aging (Albany NY)",
+      "issue": "1",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "1945-4589",
+      "pageInfo": "970-990",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-10",
+      "firstIndexDate": "2026-08-13"
+    },
+    {
+      "id": "42737424",
+      "source": "MED",
+      "pmid": "42737424",
+      "pmcid": "PMC13565775",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13565775"
+        ]
+      },
+      "doi": "10.3390/ijms27177521",
+      "title": "Geroprotective Effects of Drugs Modulating Metabolic Pathways: Perspectives of Pharmacology in Anti-Aging Therapy.",
+      "authorString": "Grycan M, Zyśk R, Grycan G, Jakiel G, Dudek A, Gromadzka G.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "17",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "7521",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-22",
+      "firstIndexDate": "2026-09-15"
+    },
+    {
+      "id": "PPR1288130",
+      "source": "PPR",
+      "doi": "10.64898/2026.07.27.26359055",
+      "title": "A Randomized Clinical Trial of Metformin to Reduce Frailty in Older Adults with Glucose Intolerance",
+      "authorString": "Musi N, Wang C, MacCarthy D, Feng Z, Holmes JT, Suda M, Pirtskhalava T, Aslamy A, Wanagat J, Brooke R, Tchkonia T, Kirkland JL, Horvath S, Espinoza SE.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "medRxiv",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-07-28",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42781074",
+      "source": "MED",
+      "pmid": "42781074",
+      "pmcid": "PMC13599794",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13599794"
+        ]
+      },
+      "doi": "10.2147/cia.s620882",
+      "title": "Therapeutic Targeting of Inflammaging and Emerging Strategies for Managing Age-Related Multimorbidity: A Narrative Review.",
+      "authorString": "Ayoub NR.",
+      "journalTitle": "Clin Interv Aging",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1176-9092; 1178-1998; ",
+      "pageInfo": "620882",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-19",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "42900294",
+      "source": "MED",
+      "pmid": "42900294",
+      "doi": "10.1007/s11357-026-02593-1",
+      "title": "An exploratory study of the effect of metformin on the whole blood transcriptome of nondiabetic older adults with age-related macular degeneration.",
+      "authorString": "Chen X, Zhang YS, Yan D, Doan T, Shen LL, Taha AT, Yang D, Psaras C, Callander JK, Xin NY, Shivkumar A, Fawzi AA, Yiu G, Telander DG, Leung LB, Flaxel C, Newman JC, Keenan JD, Stewart JM.",
+      "journalTitle": "Geroscience",
+      "pubYear": "2026",
+      "journalIssn": "2509-2715; 2509-2723; ",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-20",
+      "firstIndexDate": "2026-10-21"
+    },
+    {
+      "id": "42661334",
+      "source": "MED",
+      "pmid": "42661334",
+      "pmcid": "PMC13522638",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13522638"
+        ]
+      },
+      "doi": "10.1111/acel.70658",
+      "title": "A Mechanism-Based Framework for Anti-Aging Strategies: From Metabolic Regulation to Senotherapy and Stem Cell-Based Interventions.",
+      "authorString": "Li F, Wang Y, Wang G, Chen J, Huang S.",
+      "journalTitle": "Aging Cell",
+      "issue": "9",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1474-9718; 1474-9726; ",
+      "pageInfo": "e70658",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42935667",
+      "source": "MED",
+      "pmid": "42935667",
+      "pmcid": "PMC13696867",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13696867"
+        ]
+      },
+      "doi": "10.3389/fphar.2026.1911529",
+      "title": "Silencing without clearing: pharmacological modulation of the SASP in aging and disease.",
+      "authorString": "Fresser L, Chrienova Z, Gebrt J, Oleksak P, Kuca K, Nepovimova E.",
+      "journalTitle": "Front Pharmacol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1663-9812",
+      "pageInfo": "1911529",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-12",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42654410",
+      "source": "MED",
+      "pmid": "42654410",
+      "pmcid": "PMC13515009",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13515009"
+        ]
+      },
+      "doi": "10.3390/medicina62081513",
+      "title": "Beyond Diabetes: Continuous Glucose Monitoring as a Candidate Precision Tool for Cardiovascular Prevention and Healthy Longevity-A Hypothesis-Generating Narrative Review.",
+      "authorString": "Văcărescu C, Cozma D.",
+      "journalTitle": "Medicina (Kaunas)",
+      "issue": "8",
+      "journalVolume": "62",
+      "pubYear": "2026",
+      "journalIssn": "1010-660x; 1648-9144; ",
+      "pageInfo": "1513",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-06",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "PPR1332621",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.29.755460",
+      "title": "From seven combination hypotheses to one testable interaction: a gated agentic AI–QSP workflow applied to healthy-ageing interventions",
+      "authorString": "Goryanin I, Damms B, Goryanin IV.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-02"
+    },
+    {
+      "id": "42609624",
+      "source": "MED",
+      "pmid": "42609624",
+      "pmcid": "PMC13479022",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13479022"
+        ]
+      },
+      "doi": "10.1093/ofid/ofag489",
+      "title": "Metformin and Weight Changes in Non-diabetic Older People With HIV (METFORAGING): A Double-Blind, Randomized, Placebo-Controlled, Pilot Trial.",
+      "authorString": "Marcelo-Calvo C, Esteban-Cantos A, Jurado F, Montejano R, Gutiérrez-García L, de Gea-Grela A, Martínez-Martín P, Díez-Vidal A, de Miguel Buckley R, Oñoro-López CM, González JC, Martín-Carbonero L, Bernardino JI, Colino RM, de Villar NGP, Rodés B, Arribas JR.",
+      "journalTitle": "Open Forum Infect Dis",
+      "issue": "8",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2328-8957",
+      "pageInfo": "ofag489",
+      "pubType": "clinical trial; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "eudract"
+        ]
+      },
+      "firstPublicationDate": "2026-08-06",
+      "firstIndexDate": "2026-08-19"
+    },
+    {
+      "id": "42875857",
+      "source": "MED",
+      "pmid": "42875857",
+      "doi": "10.1002/advs.78309",
+      "title": "Mitochondrial Quality Control in Degenerative Musculoskeletal Diseases: Signaling Networks and Therapeutic Landscapes.",
+      "authorString": "Gao H, Cheng Z, Chen X, Wu W, Wu W, Yu Z, Yang C, Zhang Y.",
+      "journalTitle": "Adv Sci (Weinh)",
+      "pubYear": "2026",
+      "journalIssn": "2198-3844",
+      "pageInfo": "e78309",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-14",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "PMC13641762",
+      "source": "PMC",
+      "pmcid": "PMC13641762",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13641762"
+        ]
+      },
+      "title": "Impact of metformin use on neurocognitive functions in older people: a systematic review and meta-analysis Impacto do uso da metformina nas funções neurocognitivas em idosos: uma revisão sistemática e meta-análise",
+      "authorString": "Maximiano-Barreto M, Pereira J, Bastos-Silva V.",
+      "journalTitle": "Dement Neuropsychol",
+      "journalVolume": "20",
+      "journalIssn": "1980-5764; 2764-4863; ",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-07",
+      "firstIndexDate": "2026-10-07"
+    },
+    {
+      "id": "42009100",
+      "source": "MED",
+      "pmid": "42009100",
+      "doi": "10.1016/j.cct.2026.108321",
+      "title": "Geroprotective effects of diet and exercise plus metformin in frail older veterans with obesity: The DEMFOS randomized trial protocol.",
+      "authorString": "Klonis N, Duremdes Nava ML, Aguilar M, Viola V, Davila V, Teo S, Bryant MS, Armamento-Villareal R, Qualls C, Villareal DT.",
+      "journalTitle": "Contemp Clin Trials",
+      "journalVolume": "165",
+      "pubYear": "2026",
+      "journalIssn": "1551-7144; 1559-2030; ",
+      "pageInfo": "108321",
+      "pubType": "clinical trial protocol; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-04-18",
+      "firstIndexDate": "2026-04-21"
+    },
+    {
+      "id": "42909951",
+      "source": "MED",
+      "pmid": "42909951",
+      "pmcid": "PMC13684858",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13684858"
+        ]
+      },
+      "doi": "10.3389/fimmu.2026.1944657",
+      "title": "Cellular senescence in multiple sclerosis: hallmarks, immunosenescence, and therapeutic implications.",
+      "authorString": "Yousef A, Seubert JM, Power C, Nathoo N.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-3224",
+      "pageInfo": "1944657",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-07",
+      "firstIndexDate": "2026-10-24"
+    },
+    {
+      "id": "42729817",
+      "source": "MED",
+      "pmid": "42729817",
+      "pmcid": "PMC13563762",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13563762"
+        ]
+      },
+      "doi": "10.3389/fimmu.2026.1916957",
+      "title": "Exploring the therapeutic applications of metformin in articular cartilage repair: mechanistic insights and translational perspectives.",
+      "authorString": "Jin P, Xin X, Liu W, Zhu X, Li Z, Cao X, Meng Z, Tian X, Chen J, Zou L, Yu F, Jiang T.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-3224",
+      "pageInfo": "1916957",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-28",
+      "firstIndexDate": "2026-09-13"
+    },
+    {
+      "id": "PMC13658983",
+      "source": "PMC",
+      "pmcid": "PMC13658983",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13658983"
+        ]
+      },
+      "title": "Therapy-induced senescence in breast cancer and cardiovascular disease: a double-edged biological process",
+      "authorString": "Belcastro E, Fanelli G, Schiavone M, Di Cocco F, Cateni C, Naccarato A, Scatena C, Schini-Kerth V.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "13",
+      "journalIssn": "2297-055x",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-16",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42308222",
+      "source": "MED",
+      "pmid": "42308222",
+      "pmcid": "PMC13274875",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13274875"
+        ]
+      },
+      "doi": "10.1371/journal.pone.0346347",
+      "title": "REPROGRAM: REsilience PROmotion with GeRoprotectors: AssessMent of biological effect: Rationale and protocol for a trial of biological effect.",
+      "authorString": "Wilson D, Acharjee A, Duggal NA, Hombrebueno JR, Jones SW, Lewis JW, de Magalhães JP, Martinez-Serrato Y, Mazaheri A, McGettrick HM, Mondal S, Naylor AJ, Nixon A, Nicholson T, Partridge J, Pinkney T, Rattray NJW, Steves C, Tomkova K, Welch C, Jackson T.",
+      "journalTitle": "PLoS One",
+      "issue": "6",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1932-6203",
+      "pageInfo": "e0346347",
+      "pubType": "clinical trial protocol; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-17",
+      "firstIndexDate": "2026-06-18"
+    },
+    {
+      "id": "42502879",
+      "source": "MED",
+      "pmid": "42502879",
+      "pmcid": "PMC13401732",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13401732"
+        ]
+      },
+      "doi": "10.1002/eji.70239",
+      "title": "Inflammaging: Experimental Insights and Translational Advances.",
+      "authorString": "Cossarizza A.",
+      "journalTitle": "Eur J Immunol",
+      "issue": "7",
+      "journalVolume": "56",
+      "pubYear": "2026",
+      "journalIssn": "0014-2980; 1521-4141; ",
+      "pageInfo": "e70239",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "41957871",
+      "source": "MED",
+      "pmid": "41957871",
+      "pmcid": "PMC13193294",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13193294"
+        ]
+      },
+      "doi": "10.1097/jcma.0000000000001374",
+      "title": "Beyond disease treatment and prevention: From geroscience and molecular hallmarks to gerotherapeutics and precision geromedicine.",
+      "authorString": "Peng LN, Hsiao FY, Chen LK.",
+      "journalTitle": "J Chin Med Assoc",
+      "issue": "5",
+      "journalVolume": "89",
+      "pubYear": "2026",
+      "journalIssn": "1726-4901; 1728-7731; ",
+      "pageInfo": "323-333",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 5,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-10",
+      "firstIndexDate": "2026-04-10"
+    },
+    {
+      "id": "42652248",
+      "source": "MED",
+      "pmid": "42652248",
+      "pmcid": "PMC13509759",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13509759"
+        ]
+      },
+      "doi": "10.3390/biomedicines14081867",
+      "title": "Metformin Exposure in Pregnancy and Fetal Programming: A Focused Review of Contemporary Evidence.",
+      "authorString": "Dugalic MG, Dugalic S, Milincic M, Ivanovic K.",
+      "journalTitle": "Biomedicines",
+      "issue": "8",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2227-9059",
+      "pageInfo": "1867",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-20",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42941937",
+      "source": "MED",
+      "pmid": "42941937",
+      "pmcid": "PMC13705512",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13705512"
+        ]
+      },
+      "doi": "10.3390/ijms27209168",
+      "title": "Exploring Pathophysiological Processes Shared Between Type 2 Diabetes Mellitus and Osteoarthritis.",
+      "authorString": "Majeed Y, Schulze-Tanzil GG, Kokozidou M.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "20",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "9168",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-16",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42128400",
+      "source": "MED",
+      "pmid": "42128400",
+      "pmcid": "PMC13175709",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13175709"
+        ]
+      },
+      "doi": "10.4093/dmj.2026.0248",
+      "title": "Metformin beyond Glycemic Control: New Mechanistic Insights and Expanding Therapeutic Horizons.",
+      "authorString": "Han E, Nam JH, Lee I, Ku CR, Lee YH.",
+      "journalTitle": "Diabetes Metab J",
+      "issue": "3",
+      "journalVolume": "50",
+      "pubYear": "2026",
+      "journalIssn": "2233-6079; 2233-6087; ",
+      "pageInfo": "435-449",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-30",
+      "firstIndexDate": "2026-05-15"
+    },
+    {
+      "id": "42023167",
+      "source": "MED",
+      "pmid": "42023167",
+      "pmcid": "PMC13098334",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13098334"
+        ]
+      },
+      "doi": "10.1016/j.eclinm.2026.103874",
+      "title": "Metformin and epigenetic age in non-diabetic older people with HIV in Madrid (METFORAGING): a double-blind, randomised, placebo-controlled, pilot trial.",
+      "authorString": "Marcelo-Calvo C, Esteban-Cantos A, Jurado F, Montejano R, Rodríguez-Centeno J, Gutiérrez-García L, de Gea-Grela A, Martínez-Martín P, Vidal AD, de Miguel R, Oñoro-López CM, González JC, Martín-Carbonero L, Bernardino JI, Colino RM, Pérez de Villar NG, Rodés B, Arribas JR.",
+      "journalTitle": "EClinicalMedicine",
+      "journalVolume": "95",
+      "pubYear": "2026",
+      "journalIssn": "2589-5370",
+      "pageInfo": "103874",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "eudract",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-18",
+      "firstIndexDate": "2026-04-23"
+    },
+    {
+      "id": "42414255",
+      "source": "MED",
+      "pmid": "42414255",
+      "pmcid": "PMC13342685",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13342685"
+        ]
+      },
+      "doi": "10.1038/s41392-026-02756-8",
+      "title": "Aging and cancer: current understandings and future perspectives.",
+      "authorString": "Li Q, Chan YT, Wu J, Jiang Z, Lu P, Xu L, Feng Z, Yuan H, Feng Y, Wang N.",
+      "journalTitle": "Signal Transduct Target Ther",
+      "issue": "1",
+      "journalVolume": "11",
+      "pubYear": "2026",
+      "journalIssn": "2095-9907; 2059-3635; ",
+      "pageInfo": "267",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-08",
+      "firstIndexDate": "2026-07-08"
+    },
+    {
+      "id": "42294499",
+      "source": "MED",
+      "pmid": "42294499",
+      "pmcid": "PMC13258529",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13258529"
+        ]
+      },
+      "doi": "10.3389/fgene.2026.1836446",
+      "title": "Turning back time: a comprehensive list of interventions that decrease next-generation epigenetic aging clocks in humans.",
+      "authorString": "Johnson AA, Sinclair DA.",
+      "journalTitle": "Front Genet",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-8021",
+      "pageInfo": "1836446",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-29",
+      "firstIndexDate": "2026-06-16"
+    },
+    {
+      "id": "42811461",
+      "source": "MED",
+      "pmid": "42811461",
+      "pmcid": "PMC13624280",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13624280"
+        ]
+      },
+      "doi": "10.1002/cpdd.70092",
+      "title": "Pharmacokinetic and Pharmacodynamic Drug-Drug Interactions Between Cofrogliptin and Metformin in Healthy Subjects: A Single-Center, Single-Arm, Phase I Study in China.",
+      "authorString": "Cui C, Liu N, Chu C, Niu S, Huang Y, Li F, Li Y, Li H, Liu D.",
+      "journalTitle": "Clin Pharmacol Drug Dev",
+      "issue": "10",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2160-763x; 2160-7648; ",
+      "pageInfo": "e70092",
+      "pubType": "research-article; clinical trial, phase i; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-09-30"
+    },
+    {
+      "id": "PMC13665685",
+      "source": "PMC",
+      "pmcid": "PMC13665685",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13665685"
+        ]
+      },
+      "title": "The effect of hypothetical interventions to limit weight gain on incident type 2 diabetes mellitus among people with HIV initiating antiretroviral therapy in the United States, 2012–2021",
+      "authorString": "Lesko C, Kurgansky K, Humes E, Kasaie P, Hyle E, Lam J, Lujintanon S, Rubtsova A, Horberg M, Leng S, Lang R, Fojo A, Marconi V, Davy-Mendez T, Althoff K.",
+      "journalTitle": "Am J Epidemiol",
+      "pubYear": "2026",
+      "journalIssn": "0002-9262; 1476-6256; ",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-14",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42223815",
+      "source": "MED",
+      "pmid": "42223815",
+      "pmcid": "PMC13437765",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13437765"
+        ]
+      },
+      "doi": "10.1007/s40520-026-03423-2",
+      "title": "Comparative effects of metformin and lifestyle therapy on bone metabolism markers: A 6-month pilot, open-label randomized-clinical trial.",
+      "authorString": "Almosfer M, Sabico S, Wani K, Khattak MNK, Almarashad IS, Veronese N, Al-Daghri NM.",
+      "journalTitle": "Aging Clin Exp Res",
+      "issue": "1",
+      "journalVolume": "38",
+      "pubYear": "2026",
+      "journalIssn": "1594-0667; 1720-8319; ",
+      "pageInfo": "170",
+      "pubType": "comparative study; research-article; multicenter study; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-31",
+      "firstIndexDate": "2026-06-02"
+    },
+    {
+      "id": "42419810",
+      "source": "MED",
+      "pmid": "42419810",
+      "pmcid": "PMC13343780",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13343780"
+        ]
+      },
+      "doi": "10.3121/cmr.2026.2111",
+      "title": "Longevity.",
+      "authorString": "Rezkalla SH, Kloner RA.",
+      "journalTitle": "Clin Med Res",
+      "issue": "2",
+      "journalVolume": "24",
+      "pubYear": "2026",
+      "journalIssn": "1539-4182; 1554-6179; ",
+      "pageInfo": "80-86",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-07-09"
+    },
+    {
+      "id": "41942753",
+      "source": "MED",
+      "pmid": "41942753",
+      "pmcid": "PMC13179383",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13179383"
+        ]
+      },
+      "doi": "10.1038/s44321-026-00408-6",
+      "title": "The anti-obesogenic metabolite, Lac-Phe, is elevated by metformin treatment in prostate cancer patients.",
+      "authorString": "Bilusic M, Gannamedi DP, Challu B, Ferdous S, Mateo-Victoriano B, Pokharel S, Bayik D, Sharma J, Lombard DB, Rai P.",
+      "journalTitle": "EMBO Mol Med",
+      "issue": "5",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "1757-4676; 1757-4684; ",
+      "pageInfo": "1551-1562",
+      "pubType": "research-article; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-04-06",
+      "firstIndexDate": "2026-04-07"
+    },
+    {
+      "id": "42630468",
+      "source": "MED",
+      "pmid": "42630468",
+      "pmcid": "PMC13493621",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13493621"
+        ]
+      },
+      "doi": "10.1177/09727531261470255",
+      "title": "GABA as an Overlooked Mediator of Metformin Action: GABA-mediated Neuropsychiatric and Hepatoprotective Activities of Metformin.",
+      "authorString": "Belayneh YM.",
+      "journalTitle": "Ann Neurosci",
+      "pubYear": "2026",
+      "journalIssn": "0972-7531; 0976-3260; ",
+      "pageInfo": "09727531261470255",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-20",
+      "firstIndexDate": "2026-08-23"
+    },
+    {
+      "id": "42953363",
+      "source": "MED",
+      "pmid": "42953363",
+      "pmcid": "PMC13715389",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13715389"
+        ]
+      },
+      "doi": "10.3389/fimmu.2026.1974232",
+      "title": "New strategies for the treatment of tuberculosis: research progress and clinical translation in immune modulation and inflammation control.",
+      "authorString": "Du S, Zhen L, Zhou J, Deng D.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-3224",
+      "pageInfo": "1974232",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-14",
+      "firstIndexDate": "2026-10-30"
+    },
+    {
+      "id": "42796982",
+      "source": "MED",
+      "pmid": "42796982",
+      "pmcid": "PMC13610105",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13610105"
+        ]
+      },
+      "doi": "10.3390/nu18182999",
+      "title": "Clinical Translation of Fisetin for Age-Related Diseases: Current Evidence and Future Opportunities.",
+      "authorString": "Sandoval-Caballero C, Roemer Z, Kotz CM, Puskarich MA, Mavanji V, Schmidt EL, Sibley SD.",
+      "journalTitle": "Nutrients",
+      "issue": "18",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2999",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-14",
+      "firstIndexDate": "2026-09-28"
+    },
+    {
+      "id": "42082040",
+      "source": "MED",
+      "pmid": "42082040",
+      "pmcid": "PMC13251629",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13251629"
+        ]
+      },
+      "doi": "10.1016/j.exger.2026.113159",
+      "title": "Metformin improves cardiac stress tolerance and mitochondrial function during early aging.",
+      "authorString": "Chen Q, Thompson J, Hu Y, Lesnefsky EJ.",
+      "journalTitle": "Exp Gerontol",
+      "journalVolume": "220",
+      "pubYear": "2026",
+      "journalIssn": "0531-5565; 1873-6815; ",
+      "pageInfo": "113159",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-02",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "PMC12759767",
+      "source": "PMC",
+      "pmcid": "PMC12759767",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12759767"
+        ]
+      },
+      "title": "Combining Lifestyle With Metformin to Reduce Dementia Risk: Updates From MET-FINGER Trial",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 2",
+      "journalVolume": "9",
+      "pubYear": "2025",
+      "journalIssn": "2399-5300",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-12-01",
+      "firstIndexDate": "2026-01-05"
+    },
+    {
+      "id": "PPR1324551",
+      "source": "PPR",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PPR1324551"
+        ]
+      },
+      "doi": "10.21203/rs.3.rs-11082091/v1",
+      "title": "Semaglutide reduces proteomic organ-specific biological age across randomized clinical trials",
+      "authorString": "Dermit M, Colhoun HM, Goeminne LJE, Ryan D, Adelborg K, Belmont-Rausch D, Kolnes KJ, Knop FK, Voisin SAC, Gladyshev VN, Knudsen LB, Orozco AA.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "Research Square",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-09-23",
+      "versionNumber": 1
+    },
+    {
+      "id": "42389733",
+      "source": "MED",
+      "pmid": "42389733",
+      "pmcid": "PMC13318952",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13318952"
+        ]
+      },
+      "doi": "10.3389/fragi.2026.1736105",
+      "title": "The effect of metformin treatment during primary influenza infection on heterologous challenge in young and aged mice.",
+      "authorString": "Teskey DE, Cadar AN, Marka N, Haddad ZL, Djaba DA, Torrance BL, El-Tayyeb F, Sarkar B, Hazra A, Bartley JM.",
+      "journalTitle": "Front Aging",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2673-6217",
+      "pageInfo": "1736105",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-17",
+      "firstIndexDate": "2026-07-03"
+    },
+    {
+      "id": "PMC12762609",
+      "source": "PMC",
+      "pmcid": "PMC12762609",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12762609"
+        ]
+      },
+      "title": "A 2-year Trial of Metformin to Reduce Frailty in Older Adults with Glucose Intolerance",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 2",
+      "journalVolume": "9",
+      "pubYear": "2025",
+      "journalIssn": "2399-5300",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-12-01",
+      "firstIndexDate": "2026-01-05"
+    },
+    {
+      "id": "42825099",
+      "source": "MED",
+      "pmid": "42825099",
+      "pmcid": "PMC13629291",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13629291"
+        ]
+      },
+      "doi": "10.1155/ije/6423817",
+      "title": "Metformin in Elderly Patients With Type 2 Diabetes and Muscle Strength, Muscle Mass, and Physical Function: Positive or Negative Correlation?",
+      "authorString": "Wei C, Qiu J, Xue M, Lu B, Jiang C, Tao X.",
+      "journalTitle": "Int J Endocrinol",
+      "journalVolume": "2026",
+      "pubYear": "2026",
+      "journalIssn": "1687-8337; 1687-8345; ",
+      "pageInfo": "6423817",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-03"
+    },
+    {
+      "id": "42730869",
+      "source": "MED",
+      "pmid": "42730869",
+      "pmcid": "PMC13615104",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13615104"
+        ]
+      },
+      "doi": "10.1007/s40265-026-02365-3",
+      "title": "GLP-1 Receptor Agonists and Musculoskeletal Outcomes: A Systematic Literature Review and Meta-Analysis.",
+      "authorString": "Beaudart C, Malréchauffé Y, van Heden S, Sanchez-Rodriguez D, Scheen A, Bruyère O, Mobasheri A, Duque G, Rizzoli R, Reginster JY, Thiyagarajan JA.",
+      "journalTitle": "Drugs",
+      "issue": "10",
+      "journalVolume": "86",
+      "pubYear": "2026",
+      "journalIssn": "0012-6667; 1179-1950; ",
+      "pageInfo": "1661-1691",
+      "pubType": "meta-analysis; systematic review; review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-12",
+      "firstIndexDate": "2026-09-13"
+    },
+    {
+      "id": "41783773",
+      "source": "MED",
+      "pmid": "41783773",
+      "pmcid": "PMC12954315",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12954315"
+        ]
+      },
+      "doi": "10.1016/j.jtumed.2026.02.004",
+      "title": "The geroscience hypothesis: Economic paradigms and pharmacological strategies for healthspan extension.",
+      "authorString": "Alotaibi AF, Aljasser AI, Alkattan AN, Alkhoraisi A, Assiri AM.",
+      "journalTitle": "J Taibah Univ Med Sci",
+      "issue": "2",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1658-3612",
+      "pageInfo": "193-194",
+      "pubType": "letter",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-02-25",
+      "firstIndexDate": "2026-03-06"
+    },
+    {
+      "id": "42278540",
+      "source": "MED",
+      "pmid": "42278540",
+      "pmcid": "PMC13256587",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13256587"
+        ]
+      },
+      "doi": "10.3390/ijms27115016",
+      "title": "Fibro-Adipogenic Progenitor Cell Alterations in Skeletal Muscle: Pathological Dysfunction or Adaptive Reprogramming?",
+      "authorString": "Sorokina MY, Ivanova OA, Kostareva AA, Dmitrieva RI.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "11",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "5016",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-02",
+      "firstIndexDate": "2026-06-12"
+    },
+    {
+      "id": "41751275",
+      "source": "MED",
+      "pmid": "41751275",
+      "pmcid": "PMC12938515",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12938515"
+        ]
+      },
+      "doi": "10.3390/biomedicines14020376",
+      "title": "Metformin for Longevity and Sarcopenia: A Therapeutic Paradox in Aging.",
+      "authorString": "Han SY, Yadav MK, Wang JH.",
+      "journalTitle": "Biomedicines",
+      "issue": "2",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2227-9059",
+      "pageInfo": "376",
+      "pubType": "other; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-02-05",
+      "firstIndexDate": "2026-02-27"
+    },
+    {
+      "id": "42812893",
+      "source": "MED",
+      "pmid": "42812893",
+      "pmcid": "PMC13621133",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13621133"
+        ]
+      },
+      "doi": "10.3389/fnmol.2026.1892506",
+      "title": "Mitohormesis linking metabolic dysfunction and neurodegeneration: implications for dementia and therapeutic strategies.",
+      "authorString": "Otoda T, Nakajima H, Takayama T.",
+      "journalTitle": "Front Mol Neurosci",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1662-5099",
+      "pageInfo": "1892506",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-15",
+      "firstIndexDate": "2026-10-01"
+    },
+    {
+      "id": "42271514",
+      "source": "MED",
+      "pmid": "42271514",
+      "pmcid": "PMC13480098",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13480098"
+        ]
+      },
+      "doi": "10.1186/s13063-026-09534-5",
+      "title": "Efficacy and safety of SarogLItazar as an add-on medication to Metformin and lifestyle intervention in women with PolyCystic Ovary Syndrome (SLIM-PCOS trial): study protocol for a randomized, open-label, parallel group clinical trial.",
+      "authorString": "Mittal N, Singhal S, Mittal R.",
+      "journalTitle": "Trials",
+      "issue": "1",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1745-6215",
+      "pageInfo": "532",
+      "pubType": "clinical trial protocol; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-11",
+      "firstIndexDate": "2026-06-11"
+    },
+    {
+      "id": "42441967",
+      "source": "MED",
+      "pmid": "42441967",
+      "doi": "10.7326/annals-25-00860",
+      "title": "Glucagon-like Peptide-1 Receptor Agonists and Risk for Ischemic Optic Neuropathy : A Target Trial Emulation.",
+      "authorString": "Reynolds KR, O'Malley KM, Roy JA, Dave CV.",
+      "journalTitle": "Ann Intern Med",
+      "issue": "9",
+      "journalVolume": "179",
+      "pubYear": "2026",
+      "journalIssn": "0003-4819; 1539-3704; ",
+      "pageInfo": "1244-1253",
+      "pubType": "journal article; observational study",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-14",
+      "firstIndexDate": "2026-07-15"
+    }
+  ]
+}

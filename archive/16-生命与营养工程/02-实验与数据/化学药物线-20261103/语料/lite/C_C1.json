@@ -1,0 +1,1951 @@
+{
+  "query_id": "C1",
+  "group": "C",
+  "query": "aducanumab AND withdrawal",
+  "hitCount": 352,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:24.797019+00:00",
+  "results": [
+    {
+      "id": "42301522",
+      "source": "MED",
+      "pmid": "42301522",
+      "pmcid": "PMC13272220",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13272220"
+        ]
+      },
+      "doi": "10.1007/s00401-026-03037-y",
+      "title": "Neuropathological study of the effects of aducanumab anti-Aβ immunotherapy on patients with Alzheimer's disease.",
+      "authorString": "Welikovitch LA, Oakley DH, Bennett RE, Serrano-Pozo A, Zhu H, Ruiz-Uribe NE, Zwang TJ, Chibnik LB, Gomez-Isla T, Frosch MP, Marks DS, Salloway S, Bernick C, Greeley D, Latimer CS, Nolan A, Hutchison RM, Rubel CE, Bussiere T, Plowey ED, Keene CD, Hyman BT.",
+      "journalTitle": "Acta Neuropathol",
+      "issue": "1",
+      "journalVolume": "151",
+      "pubYear": "2026",
+      "journalIssn": "0001-6322; 1432-0533; ",
+      "pageInfo": "68",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "refsnp",
+          "uniprot",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-16",
+      "firstIndexDate": "2026-06-18"
+    },
+    {
+      "id": "42908770",
+      "source": "MED",
+      "pmid": "42908770",
+      "pmcid": "PMC13683556",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13683556"
+        ]
+      },
+      "doi": "10.1002/dad2.70473",
+      "title": "Topography and risk factors of amyloid-related imaging abnormality: real-world data from 168 aducanumab-treated patients at a private clinic in South Korea.",
+      "authorString": "Yoon S, Ahn J, Kim S, Kim K, Kim SY, An SK, Na DG, Kim YJ, Kwak K, Seo SW, Na DL.",
+      "journalTitle": "Alzheimers Dement (Amst)",
+      "issue": "4",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2352-8729",
+      "pageInfo": "e70473",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-20",
+      "firstIndexDate": "2026-10-24"
+    },
+    {
+      "id": "42498669",
+      "source": "MED",
+      "pmid": "42498669",
+      "pmcid": "PMC13406310",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13406310"
+        ]
+      },
+      "doi": "10.1523/eneuro.0112-26.2026",
+      "title": "Sustaining Drug Discovery Amid the Limits of Alzheimer's Disease Immunotherapies.",
+      "authorString": "McDiarmid A.",
+      "journalTitle": "eNeuro",
+      "issue": "7",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2373-2822",
+      "pageInfo": "ENEURO.0112-26.2026",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-24",
+      "firstIndexDate": "2026-07-26"
+    },
+    {
+      "id": "PMC13653280",
+      "source": "PMC",
+      "pmcid": "PMC13653280",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13653280"
+        ]
+      },
+      "title": "Drug Spending on Accelerated Approval Indications Subsequently Withdrawn From the Market",
+      "authorString": "Jazowski S, Dusetzina S.",
+      "journalTitle": "JAMA Health Forum",
+      "issue": "10",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2689-0186",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42934592",
+      "source": "MED",
+      "pmid": "42934592",
+      "pmcid": "PMC13711981",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13711981"
+        ]
+      },
+      "doi": "10.1186/s12883-026-05097-9",
+      "title": "Spectrum of amyloid-related imaging abnormalities associated with aducanumab treatment: a case series report.",
+      "authorString": "Atri A, Curiale GG, Aisen P, Barakos J, Purcell D, Bracoud L, Haeberlein SB, Grassi C, Hughes R, Smirnakis K.",
+      "journalTitle": "BMC Neurol",
+      "issue": "1",
+      "journalVolume": "26",
+      "pubYear": "2026",
+      "journalIssn": "1471-2377",
+      "pageInfo": "671",
+      "pubType": "research-article; journal article; case reports",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-30",
+      "firstIndexDate": "2026-10-27"
+    },
+    {
+      "id": "42877383",
+      "source": "MED",
+      "pmid": "42877383",
+      "doi": "10.1177/25424823261470042",
+      "title": "Lecanemab real-world treatment outcomes from cohort study in early Alzheimer's disease.",
+      "authorString": "Ferrer A, Moon J.",
+      "journalTitle": "J Alzheimers Dis Rep",
+      "journalVolume": "10",
+      "pubYear": "2026",
+      "journalIssn": "2542-4823",
+      "pageInfo": "25424823261470042",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-01-01",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "42752707",
+      "source": "MED",
+      "pmid": "42752707",
+      "pmcid": "PMC13585809",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13585809"
+        ]
+      },
+      "doi": "10.1007/s10072-026-09401-w",
+      "title": "Amyloid-beta-targeting monoclonal antibodies in early Alzheimer's disease: a cochrane review summary and appraisal for the neurological community.",
+      "authorString": "Santos DH, da Silva AMP.",
+      "journalTitle": "Neurol Sci",
+      "issue": "10",
+      "journalVolume": "47",
+      "pubYear": "2026",
+      "journalIssn": "1590-1874; 1590-3478; ",
+      "pageInfo": "794",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-17",
+      "firstIndexDate": "2026-09-18"
+    },
+    {
+      "id": "42643967",
+      "source": "MED",
+      "pmid": "42643967",
+      "pmcid": "PMC13506175",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13506175"
+        ]
+      },
+      "doi": "10.1590/1980-5764-dn-2025-0472",
+      "title": "Evaluating the safety of investigational anti-Alzheimer's drugs: a comprehensive meta-analysis in the past to current decade.",
+      "authorString": "Shaik NS, Balya H, Ramamurthy S, Pandiyan B, Elias JM, Gunturu S.",
+      "journalTitle": "Dement Neuropsychol",
+      "journalVolume": "20",
+      "pubYear": "2026",
+      "journalIssn": "1980-5764; 2764-4863; ",
+      "pageInfo": "e20250472",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-24",
+      "firstIndexDate": "2026-08-27"
+    },
+    {
+      "id": "41958924",
+      "source": "MED",
+      "pmid": "41958924",
+      "pmcid": "PMC13060646",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13060646"
+        ]
+      },
+      "doi": "10.1002/dad2.70328",
+      "title": "A prospective real-world study of the efficacy and safety of aducanumab in China: Focus on early-onset and autosomal dominant Alzheimer's disease.",
+      "authorString": "Xiao J, Li B, Li B, Wang J, Tang R, Gao C, Che X, Xu X, Chen S, Ren R, Wang G.",
+      "journalTitle": "Alzheimers Dement (Amst)",
+      "issue": "2",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2352-8729",
+      "pageInfo": "e70328",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-08",
+      "firstIndexDate": "2026-04-10"
+    },
+    {
+      "id": "PMC13662303",
+      "source": "PMC",
+      "pmcid": "PMC13662303",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13662303"
+        ]
+      },
+      "title": "Lecanemab real-world treatment outcomes from cohort study in early Alzheimer's disease",
+      "authorString": "Ferrer A, Moon J.",
+      "journalTitle": "J Alzheimers Dis Rep",
+      "journalVolume": "10",
+      "pubYear": "2026",
+      "journalIssn": "2542-4823",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-01",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "41885326",
+      "source": "MED",
+      "pmid": "41885326",
+      "pmcid": "PMC13020393",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13020393"
+        ]
+      },
+      "doi": "10.18553/jmcp.2026.32.4.470",
+      "title": "Incidence of amyloid-related imaging abnormalities and health resource utilization in patients with Alzheimer disease receiving monoclonal antibody treatments: A real-world evidence study.",
+      "authorString": "Dangpiaei S, Kamal KM, Shoair OA, Al-Mamun MA.",
+      "journalTitle": "J Manag Care Spec Pharm",
+      "issue": "4",
+      "journalVolume": "32",
+      "pubYear": "2026",
+      "journalIssn": "2376-0540; 2376-1032; ",
+      "pageInfo": "470-484",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-01",
+      "firstIndexDate": "2026-03-27"
+    },
+    {
+      "id": "40917029",
+      "source": "MED",
+      "pmid": "40917029",
+      "pmcid": "PMC13523360",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13523360"
+        ]
+      },
+      "doi": "10.2174/011570159x391766250806091602",
+      "title": "Structural and Functional Determinants of ARIA-H Risk in Anti-Amyloid Monoclonal Antibodies: A Comparative Mechanistic Framework for Alzheimer's Immunotherapy Development.",
+      "authorString": "An D, Zou X, Xu Y.",
+      "journalTitle": "Curr Neuropharmacol",
+      "issue": "7",
+      "journalVolume": "24",
+      "pubYear": "2026",
+      "journalIssn": "1570-159x; 1875-6190; ",
+      "pageInfo": "1042-1054",
+      "pubType": "comparative study; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-01",
+      "firstIndexDate": "2025-09-09"
+    },
+    {
+      "id": "41109234",
+      "source": "MED",
+      "pmid": "41109234",
+      "pmcid": "PMC12550255",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12550255"
+        ]
+      },
+      "doi": "10.1016/s1474-4422(25)00313-8",
+      "title": "Neuropathological changes and amyloid-related imaging abnormalities in Alzheimer's disease treated with aducanumab versus untreated: a retrospective case-control study.",
+      "authorString": "Boon BDC, Piura YD, Moloney CM, Chalk JL, Lincoln SJ, Rutledge MH, Rothberg DM, Kouri N, Hinkle KM, Roemer SF, Johnson DR, Burkett BJ, Lowe VJ, Petersen RC, Dickson DW, Reichard RR, Nguyen AT, Graff-Radford J, Knopman DS, Graff-Radford NR, Murray ME.",
+      "journalTitle": "Lancet Neurol",
+      "issue": "11",
+      "journalVolume": "24",
+      "pubYear": "2025",
+      "journalIssn": "1474-4422; 1474-4465; ",
+      "pageInfo": "931-944",
+      "pubType": "clinical trial, phase iii; research-article; randomized controlled trial; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 17,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-01",
+      "firstIndexDate": "2025-10-19"
+    },
+    {
+      "id": "41003140",
+      "source": "MED",
+      "pmid": "41003140",
+      "pmcid": "PMC12470750",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12470750"
+        ]
+      },
+      "doi": "10.3390/jpm15090437",
+      "title": "Anti-Amyloid Monoclonal Antibodies for Alzheimer's Disease: Evidence, ARIA Risk, and Precision Patient Selection.",
+      "authorString": "Alkhalifa AE, Al Mokhlf A, Ali H, Al-Ghraiybah NF, Syropoulou V.",
+      "journalTitle": "J Pers Med",
+      "issue": "9",
+      "journalVolume": "15",
+      "pubYear": "2025",
+      "journalIssn": "2075-4426",
+      "pageInfo": "437",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 23,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-09-15",
+      "firstIndexDate": "2025-09-27"
+    },
+    {
+      "id": "40250880",
+      "source": "MED",
+      "pmid": "40250880",
+      "pmcid": "PMC12007052",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12007052"
+        ]
+      },
+      "doi": "10.1136/bmjopen-2024-090403",
+      "title": "Cost-effectiveness analysis of aducanumab versus placebo for patients with mild cognitive impairment and mild Alzheimer's disease.",
+      "authorString": "Xiong X, Lv G, King JJ, Li M, Yuan J, Lu ZK.",
+      "journalTitle": "BMJ Open",
+      "issue": "4",
+      "journalVolume": "15",
+      "pubYear": "2025",
+      "journalIssn": "2044-6055",
+      "pageInfo": "e090403",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-04-17",
+      "firstIndexDate": "2025-04-20"
+    },
+    {
+      "id": "40368787",
+      "source": "MED",
+      "pmid": "40368787",
+      "pmcid": "PMC12702543",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12702543"
+        ]
+      },
+      "doi": "10.2169/internalmedicine.5198-24",
+      "title": "Juxtacortical Lesion Precedes Lobar Microbleed During Anti-amyloid β Immunotherapy.",
+      "authorString": "Shindo A, Hirata Y, Tomimoto H.",
+      "journalTitle": "Intern Med",
+      "issue": "22",
+      "journalVolume": "64",
+      "pubYear": "2025",
+      "journalIssn": "0918-2918; 1349-7235; ",
+      "pageInfo": "3284-3286",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-05-15",
+      "firstIndexDate": "2025-05-21"
+    },
+    {
+      "id": "40658710",
+      "source": "MED",
+      "pmid": "40658710",
+      "pmcid": "PMC12258566",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12258566"
+        ]
+      },
+      "doi": "10.1371/journal.pone.0328076",
+      "title": "Unveiling Aducanumab's safety profile: A comprehensive pharmacovigilance analysis.",
+      "authorString": "Ji H, Zhao Z, Zhao C.",
+      "journalTitle": "PLoS One",
+      "issue": "7",
+      "journalVolume": "20",
+      "pubYear": "2025",
+      "journalIssn": "1932-6203",
+      "pageInfo": "e0328076",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-07-14",
+      "firstIndexDate": "2025-07-15"
+    },
+    {
+      "id": "41154195",
+      "source": "MED",
+      "pmid": "41154195",
+      "pmcid": "PMC12564542",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12564542"
+        ]
+      },
+      "doi": "10.3390/brainsci15101101",
+      "title": "Therapeutic Advances in Targeting the Amyloid-β Pathway for Alzheimer's Disease.",
+      "authorString": "Zhang B, Li Y, Li H, Shen X, Zhu Z.",
+      "journalTitle": "Brain Sci",
+      "issue": "10",
+      "journalVolume": "15",
+      "pubYear": "2025",
+      "journalIssn": "2076-3425",
+      "pageInfo": "1101",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 6,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "eudract",
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-10-13",
+      "firstIndexDate": "2025-10-29"
+    },
+    {
+      "id": "40658405",
+      "source": "MED",
+      "pmid": "40658405",
+      "pmcid": "PMC12261111",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12261111"
+        ]
+      },
+      "doi": "10.1001/jama.2025.10726",
+      "title": "Regulatory and Clinical Outcomes of Nononcology Accelerated Approvals.",
+      "authorString": "Liu ITT, Reynolds G, Kesselheim AS, Cliff ERS.",
+      "journalTitle": "JAMA",
+      "issue": "13",
+      "journalVolume": "334",
+      "pubYear": "2025",
+      "journalIssn": "0098-7484; 1538-3598; ",
+      "pageInfo": "1194-1196",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-10-01",
+      "firstIndexDate": "2025-07-14"
+    },
+    {
+      "id": "40413110",
+      "source": "MED",
+      "pmid": "40413110",
+      "pmcid": "PMC12321606",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12321606"
+        ]
+      },
+      "doi": "10.1016/j.tjpad.2025.100202",
+      "title": "Lower baseline amyloid beta burden is associated with greater percent of amyloid beta positron emission tomography reduction and better clinical outcomes in the aducanumab Phase 3 trials ENGAGE and EMERGE in early Alzheimer's disease.",
+      "authorString": "Burton J, Brothers HM, Hutchison RM, Murphy J, Sun T, Dent G, Curiale G, Kowalski K.",
+      "journalTitle": "J Prev Alzheimers Dis",
+      "issue": "7",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2426-0266; 2274-5807; ",
+      "pageInfo": "100202",
+      "pubType": "clinical trial, phase iii; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 5,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-05-24",
+      "firstIndexDate": "2025-05-26"
+    },
+    {
+      "id": "40290431",
+      "source": "MED",
+      "pmid": "40290431",
+      "pmcid": "PMC12023478",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12023478"
+        ]
+      },
+      "doi": "10.3389/fphar.2025.1561020",
+      "title": "A real-world pharmacovigilance study of adverse drug reactions associated with lecanemab and aducanumab based on WHO-VigiAccess and FAERS databases.",
+      "authorString": "Hu H, Zhao Y, Mao J, He J, Zhang Y, Ye H, Yang X.",
+      "journalTitle": "Front Pharmacol",
+      "journalVolume": "16",
+      "pubYear": "2025",
+      "journalIssn": "1663-9812",
+      "pageInfo": "1561020",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 11,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-04-01",
+      "firstIndexDate": "2025-04-29"
+    },
+    {
+      "id": "42123557",
+      "source": "MED",
+      "pmid": "42123557",
+      "pmcid": "PMC13163923",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13163923"
+        ]
+      },
+      "doi": "10.3390/ijms27093978",
+      "title": "Small-Molecule Targeting of the Iron-Responsive Element in the APP mRNA 5'-UTR to Control Amyloid Translation in Alzheimer's Disease.",
+      "authorString": "Khan MA, Shaibah HS.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "9",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "3978",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-04-29",
+      "firstIndexDate": "2026-05-15"
+    },
+    {
+      "id": "38226975",
+      "source": "MED",
+      "pmid": "38226975",
+      "pmcid": "PMC10791560",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC10791560"
+        ]
+      },
+      "doi": "10.1084/jem.20231363",
+      "title": "Aducanumab anti-amyloid immunotherapy induces sustained microglial and immune alterations.",
+      "authorString": "Cadiz MP, Gibson KA, Todd KT, Nascari DG, Massa N, Lilley MT, Olney KC, Al-Amin MM, Jiang H, Holtzman DM, Fryer JD.",
+      "journalTitle": "J Exp Med",
+      "issue": "2",
+      "journalVolume": "221",
+      "pubYear": "2024",
+      "journalIssn": "0022-1007; 1540-9538; ",
+      "pageInfo": "e20231363",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 55,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "bioproject",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2024-01-16",
+      "firstIndexDate": "2024-01-16"
+    },
+    {
+      "id": "39830554",
+      "source": "MED",
+      "pmid": "39830554",
+      "pmcid": "PMC11740155",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11740155"
+        ]
+      },
+      "doi": "10.7759/cureus.75907",
+      "title": "Aducanumab in Alzheimer's Disease: A Comparative Study of Its Effects on Dementia and Mild Cognitive Impairment.",
+      "authorString": "Medel Sánchez A, Ortiz Hernández A, Moreno Moreno RA, Salas López D, Madrigal Gómez LE, Dominguez Ibarra AK, Gutiérrez Rojas BA, Garcia Navarro CO, Moreno Becerril GT, Montelongo Quevedo M, Flores Valdés JR.",
+      "journalTitle": "Cureus",
+      "issue": "12",
+      "journalVolume": "16",
+      "pubYear": "2024",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e75907",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2024-12-17",
+      "firstIndexDate": "2025-01-22"
+    },
+    {
+      "id": "40872509",
+      "source": "MED",
+      "pmid": "40872509",
+      "pmcid": "PMC12389568",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12389568"
+        ]
+      },
+      "doi": "10.3390/ph18081117",
+      "title": "New Approaches to the Treatment of Alzheimer's Disease.",
+      "authorString": "Kruk-Słomka M, Kuceł D, Małysz M, Machnikowska A, Orzelska-Górka J, Biała G.",
+      "journalTitle": "Pharmaceuticals (Basel)",
+      "issue": "8",
+      "journalVolume": "18",
+      "pubYear": "2025",
+      "journalIssn": "1424-8247",
+      "pageInfo": "1117",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-07-26",
+      "firstIndexDate": "2025-09-04"
+    },
+    {
+      "id": "39589513",
+      "source": "MED",
+      "pmid": "39589513",
+      "pmcid": "PMC11974664",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11974664"
+        ]
+      },
+      "doi": "10.4103/nrr.nrr-d-24-00934",
+      "title": "Alzheimer's disease treatment landscape: current therapies and emerging mechanism-targeted approaches.",
+      "authorString": "Yang E, Abd-Elrahman KS.",
+      "journalTitle": "Neural Regen Res",
+      "issue": "12",
+      "journalVolume": "20",
+      "pubYear": "2025",
+      "journalIssn": "1673-5374; 1876-7958; ",
+      "pageInfo": "3531-3532",
+      "pubType": "other; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-11-13",
+      "firstIndexDate": "2024-11-26"
+    },
+    {
+      "id": "41326295",
+      "source": "MED",
+      "pmid": "41326295",
+      "pmcid": "PMC12811768",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12811768"
+        ]
+      },
+      "doi": "10.1016/j.tjpad.2025.100395",
+      "title": "Reinventing \"N\" in the A/T/N framework: The case for digital.",
+      "authorString": "Au R, Popp Z, Low S, Ashton NJ, Zetterberg H.",
+      "journalTitle": "J Prev Alzheimers Dis",
+      "pubYear": "2025",
+      "journalIssn": "2426-0266; 2274-5807; ",
+      "pageInfo": "100395",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-01",
+      "firstIndexDate": "2025-12-03"
+    },
+    {
+      "id": "40529145",
+      "source": "MED",
+      "pmid": "40529145",
+      "pmcid": "PMC12171180",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12171180"
+        ]
+      },
+      "doi": "10.3389/fmed.2025.1603553",
+      "title": "Integrating genetic and immune profiles for personalized immunotherapy in Alzheimer's disease.",
+      "authorString": "He C, Shen Y, Zhang M, Zhou X.",
+      "journalTitle": "Front Med (Lausanne)",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2296-858x",
+      "pageInfo": "1603553",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-06-02",
+      "firstIndexDate": "2025-06-18"
+    },
+    {
+      "id": "39998021",
+      "source": "MED",
+      "pmid": "39998021",
+      "pmcid": "PMC11859624",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11859624"
+        ]
+      },
+      "doi": "10.3390/pharmacy13010023",
+      "title": "Targeting Amyloid Pathology in Early Alzheimer's: The Promise of Donanemab-Azbt.",
+      "authorString": "Khartabil N, Awaness A.",
+      "journalTitle": "Pharmacy (Basel)",
+      "issue": "1",
+      "journalVolume": "13",
+      "pubYear": "2025",
+      "journalIssn": "2226-4787",
+      "pageInfo": "23",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 8,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-02-08",
+      "firstIndexDate": "2025-02-26"
+    },
+    {
+      "id": "42523631",
+      "source": "MED",
+      "pmid": "42523631",
+      "pmcid": "PMC13407183",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13407183"
+        ]
+      },
+      "doi": "10.3389/fimmu.2026.1820099",
+      "title": "Anti-inflammatory CAR-microglia targeting Aβ for Alzheimer's disease therapy.",
+      "authorString": "Ding X, Hu X, Xue W, An Y, Cheng W, Zhang S, Lei A, Zhang J.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-3224",
+      "pageInfo": "1820099",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "hpa",
+          "uniprot"
+        ]
+      },
+      "firstPublicationDate": "2026-07-14",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "41647067",
+      "source": "MED",
+      "pmid": "41647067",
+      "pmcid": "PMC12872052",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12872052"
+        ]
+      },
+      "title": "Neurocognitive Disorders: Systematic Review of Approved (2008-2024) and Pipeline Phase III Medications.",
+      "authorString": "Totlani J, Bashir MA, Tay L, Ngor A, Steiner AJ, Hirsch D, Contreras L, Renteria S, Danovitch I, Pechnick RN, Ishak WW, Kim S.",
+      "journalTitle": "Innov Clin Neurosci",
+      "issue": "10-12",
+      "journalVolume": "22",
+      "pubYear": "2025",
+      "journalIssn": "2158-8333; 2158-8341; ",
+      "pageInfo": "57-71",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-10-01",
+      "firstIndexDate": "2026-02-10"
+    },
+    {
+      "id": "42440762",
+      "source": "MED",
+      "pmid": "42440762",
+      "pmcid": "PMC13333610",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13333610"
+        ]
+      },
+      "doi": "10.3389/fpsyt.2026.1822543",
+      "title": "Post-marketing safety of lecanemab: a real-world study based on FAERS database, multicenter cohort and network pharmacology.",
+      "authorString": "Xing X, Wang K, Feng Y, Wu C, Jia L, Li H, Wen Z, Tang Y, Wang Z, Zhang X, Li X, Hua Y, Zhang L, Dong X.",
+      "journalTitle": "Front Psychiatry",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-0640",
+      "pageInfo": "1822543",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-22",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "38962384",
+      "source": "MED",
+      "pmid": "38962384",
+      "pmcid": "PMC11216914",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11216914"
+        ]
+      },
+      "doi": "10.18773/austprescr.2024.021",
+      "title": "New and emerging drug therapies for Alzheimer disease.",
+      "authorString": "Waite LM.",
+      "journalTitle": "Aust Prescr",
+      "issue": "3",
+      "journalVolume": "47",
+      "pubYear": "2024",
+      "journalIssn": "0312-8008; 1839-3942; ",
+      "pageInfo": "75-79",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 17,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2024-06-01",
+      "firstIndexDate": "2024-07-04"
+    },
+    {
+      "id": "39703326",
+      "source": "MED",
+      "pmid": "39703326",
+      "pmcid": "PMC11656198",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11656198"
+        ]
+      },
+      "doi": "10.1093/braincomms/fcae435",
+      "title": "Evaluating clinical meaningfulness of anti-β-amyloid therapies amidst amyloid-related imaging abnormalities concern in Alzheimer's disease.",
+      "authorString": "Aljuhani M, Ashraf A, Edison P.",
+      "journalTitle": "Brain Commun",
+      "issue": "6",
+      "journalVolume": "6",
+      "pubYear": "2024",
+      "journalIssn": "2632-1297",
+      "pageInfo": "fcae435",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 13,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2024-12-03",
+      "firstIndexDate": "2024-12-20"
+    },
+    {
+      "id": "41562827",
+      "source": "MED",
+      "pmid": "41562827",
+      "pmcid": "PMC12821547",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12821547"
+        ]
+      },
+      "doi": "10.3390/neurosci7010002",
+      "title": "Pharmacological Management of Mild Cognitive Impairment: From Symptomatic Treatment to Disease Modification-A Narrative Review.",
+      "authorString": "Mangalagiu AG, Petrescu BM, Riga S, Vasiliu O.",
+      "journalTitle": "NeuroSci",
+      "issue": "1",
+      "journalVolume": "7",
+      "pubYear": "2025",
+      "journalIssn": "2673-4087",
+      "pageInfo": "2",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-12-26",
+      "firstIndexDate": "2026-01-22"
+    },
+    {
+      "id": "42332793",
+      "source": "MED",
+      "pmid": "42332793",
+      "pmcid": "PMC13536720",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13536720"
+        ]
+      },
+      "doi": "10.1186/s13578-026-01609-9",
+      "title": "Cellular prion protein and its derived peptides: multifaceted roles in neurodegenerative diseases and potential as biomarkers.",
+      "authorString": "Mari E, Aventaggiato M, Paldino E, Ceccarelli S, Mucci N, Bellomo G, Mantuano E, Dugheri S, Martellucci S, Mattei V.",
+      "journalTitle": "Cell Biosci",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2045-3701",
+      "pageInfo": "105",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-22",
+      "firstIndexDate": "2026-06-24"
+    },
+    {
+      "id": "40190585",
+      "source": "MED",
+      "pmid": "40190585",
+      "pmcid": "PMC11969149",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11969149"
+        ]
+      },
+      "doi": "10.1093/jlb/lsaf004",
+      "title": "A review of public comments submitted to the Centers for Medicare and Medicaid Services in response to the 2022 National Coverage Decision on treatment for Alzheimer's disease.",
+      "authorString": "Greenberg KS, Lynch HF, Nwakama C, Frumovitz J, Setru S, Johnson AM, Shah SM, Schadt L, McCoy MS, Hoffman AK, Largent EA.",
+      "journalTitle": "J Law Biosci",
+      "issue": "1",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2053-9711",
+      "pageInfo": "lsaf004",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-01-01",
+      "firstIndexDate": "2025-04-07"
+    },
+    {
+      "id": "PMC12241000",
+      "source": "PMC",
+      "pmcid": "PMC12241000",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12241000"
+        ]
+      },
+      "title": "Risk of Psychosis in People of Irish and Chinese Ethnicities in Yorkshire",
+      "authorString": "Sinha S, Mahmood T, Cardno A, Obode E.",
+      "journalTitle": "BJPsych Open",
+      "issue": "suppl 1",
+      "journalVolume": "11",
+      "pubYear": "2025",
+      "journalIssn": "2056-4724",
+      "pageInfo": "S70-S71",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-06-20",
+      "firstIndexDate": "2025-07-12"
+    },
+    {
+      "id": "42148080",
+      "source": "MED",
+      "pmid": "42148080",
+      "pmcid": "PMC13171529",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13171529"
+        ]
+      },
+      "doi": "10.3389/fimmu.2026.1781351",
+      "title": "Anti-Aβ3-10 monoclonal antibody 7B8 improves cognitive function and protects the blood-brain barrier in APP/PS1 mice by regulating the HMGB-1/RAGE/NF-κB pathway.",
+      "authorString": "You J, Liu Q, Li X.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-3224",
+      "pageInfo": "1781351",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-30",
+      "firstIndexDate": "2026-05-19"
+    },
+    {
+      "id": "42386684",
+      "source": "MED",
+      "pmid": "42386684",
+      "pmcid": "PMC13322988",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13322988"
+        ]
+      },
+      "doi": "10.1002/alz.71643",
+      "title": "What should convince a clinician of disease modification in Alzheimer's disease clinical trials?",
+      "authorString": "Hazan J, Liu KY, Howard R.",
+      "journalTitle": "Alzheimers Dement",
+      "issue": "7",
+      "journalVolume": "22",
+      "pubYear": "2026",
+      "journalIssn": "1552-5260; 1552-5279; ",
+      "pageInfo": "e71643",
+      "pubType": "other; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-02"
+    },
+    {
+      "id": "40189473",
+      "source": "MED",
+      "pmid": "40189473",
+      "pmcid": "PMC12184022",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12184022"
+        ]
+      },
+      "doi": "10.1016/j.tjpad.2025.100160",
+      "title": "Clarity AD: Asian regional analysis of a phase III trial of lecanemab in early Alzheimer's disease.",
+      "authorString": "Chen C, Katayama S, Lee JH, Lee JY, Nakagawa M, Torii K, Ogawa T, Dash A, Irizarry M, Dhadda S, Kanekiyo M, Hersch S, Iwatsubo T.",
+      "journalTitle": "J Prev Alzheimers Dis",
+      "issue": "5",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2426-0266; 2274-5807; ",
+      "pageInfo": "100160",
+      "pubType": "clinical trial, phase iii; research-article; multicenter study; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 26,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-04-05",
+      "firstIndexDate": "2025-04-07"
+    },
+    {
+      "id": "42502239",
+      "source": "MED",
+      "pmid": "42502239",
+      "pmcid": "PMC13401667",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13401667"
+        ]
+      },
+      "doi": "10.1002/cpt.70401",
+      "title": "Navigating the Prescription Drug Information System.",
+      "authorString": "Wang IV, Davis C, Forrest R, Cherla A, Siebert M, Cowden J, Walker S, Krishnamurti T, Bourgeois FT, Woloshin S, Wagner AK, Naci H.",
+      "journalTitle": "Clin Pharmacol Ther",
+      "issue": "4",
+      "journalVolume": "120",
+      "pubYear": "2026",
+      "journalIssn": "0009-9236; 1532-6535; ",
+      "pageInfo": "855-870",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-25",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "39350371",
+      "source": "MED",
+      "pmid": "39350371",
+      "pmcid": "PMC11436400",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11436400"
+        ]
+      },
+      "doi": "10.14283/jpad.2024.106",
+      "title": "Japanese Subgroup Analyses from EMERGE and ENGAGE, Phase 3 Clinical Trials of Aducanumab in Patients with Early Alzheimer's Disease.",
+      "authorString": "Toda Y, Iwatsubo T, Nakamura Y, Matsuda N, Miyata M, Jin M, Chen T, Kuribayashi K, Tian Y, Hughes R, Yamamoto J, Muralidharan KK, Rubel C, Hutchison RM, Budd Haeberlein S.",
+      "journalTitle": "J Prev Alzheimers Dis",
+      "issue": "5",
+      "journalVolume": "11",
+      "pubYear": "2024",
+      "journalIssn": "2426-0266; 2274-5807; ",
+      "pageInfo": "1260-1269",
+      "pubType": "clinical trial, phase iii; research support, non-u.s. gov't; research-article; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 9,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2024-01-01",
+      "firstIndexDate": "2024-10-02"
+    },
+    {
+      "id": "38567735",
+      "source": "MED",
+      "pmid": "38567735",
+      "pmcid": "PMC11095417",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11095417"
+        ]
+      },
+      "doi": "10.1002/alz.13755",
+      "title": "Results from the long-term extension of PRIME: A randomized Phase 1b trial of aducanumab.",
+      "authorString": "Chen T, O'Gorman J, Castrillo-Viguera C, Rajagovindan R, Curiale GG, Tian Y, Patel D, von Rosenstiel P, von Hehn C, Salloway S, Hock C, Nitsch RM, Haeberlein SB, Sandrock A, Singhal P.",
+      "journalTitle": "Alzheimers Dement",
+      "issue": "5",
+      "journalVolume": "20",
+      "pubYear": "2024",
+      "journalIssn": "1552-5260; 1552-5279; ",
+      "pageInfo": "3406-3415",
+      "pubType": "research support, non-u.s. gov't; research-article; clinical trial, phase i; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 21,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2024-04-03",
+      "firstIndexDate": "2024-04-04"
+    },
+    {
+      "id": "41227148",
+      "source": "MED",
+      "pmid": "41227148",
+      "pmcid": "PMC12607965",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12607965"
+        ]
+      },
+      "doi": "10.3390/jcm14217752",
+      "title": "Alzheimer Syndrome or Age-Related Dementia-History, Therapy and Prevention.",
+      "authorString": "Bermejo-Pareja F, Del Ser T.",
+      "journalTitle": "J Clin Med",
+      "issue": "21",
+      "journalVolume": "14",
+      "pubYear": "2025",
+      "journalIssn": "2077-0383",
+      "pageInfo": "7752",
+      "pubType": "other; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-10-31",
+      "firstIndexDate": "2025-11-14"
+    },
+    {
+      "id": "40806141",
+      "source": "MED",
+      "pmid": "40806141",
+      "pmcid": "PMC12348645",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12348645"
+        ]
+      },
+      "doi": "10.3390/nu17152557",
+      "title": "Resveratrol as a Therapeutic Agent in Alzheimer's Disease: Evidence from Clinical Studies.",
+      "authorString": "Puranik N, Kumari M, Tiwari S, Dhakal T, Song M.",
+      "journalTitle": "Nutrients",
+      "issue": "15",
+      "journalVolume": "17",
+      "pubYear": "2025",
+      "journalIssn": "2072-6643",
+      "pageInfo": "2557",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 22,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-08-05",
+      "firstIndexDate": "2025-08-21"
+    },
+    {
+      "id": "38720952",
+      "source": "MED",
+      "pmid": "38720952",
+      "pmcid": "PMC11073886",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11073886"
+        ]
+      },
+      "doi": "10.1212/cpj.0000000000200283",
+      "title": "Inequalities in the Prevention and Treatment of Alzheimer Disease.",
+      "authorString": "Giorelli M.",
+      "journalTitle": "Neurol Clin Pract",
+      "issue": "3",
+      "journalVolume": "14",
+      "pubYear": "2024",
+      "journalIssn": "2163-0402; 2163-0933; ",
+      "pageInfo": "e200283",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2024-04-12",
+      "firstIndexDate": "2024-05-09"
+    },
+    {
+      "id": "42670207",
+      "source": "MED",
+      "pmid": "42670207",
+      "pmcid": "PMC13527391",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13527391"
+        ]
+      },
+      "doi": "10.1002/brb3.71727",
+      "title": "Therapeutic Potential of Oxiracetam in Neurocognitive Disorders: A Narrative Review.",
+      "authorString": "Ali H, Maliha S, Ishtiaq S, Al-Karawi O, Amin MHJ.",
+      "journalTitle": "Brain Behav",
+      "issue": "9",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2162-3279",
+      "pageInfo": "e71727",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-09-01"
+    },
+    {
+      "id": "38477277",
+      "source": "MED",
+      "pmid": "38477277",
+      "pmcid": "PMC10937179",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC10937179"
+        ]
+      },
+      "doi": "10.1017/jme.2024.20",
+      "title": "Aducanumab, Accelerated Approvals & the Agency: Why the FDA Needs Structural Reform.",
+      "authorString": "Herder M.",
+      "journalTitle": "J Law Med Ethics",
+      "issue": "4",
+      "journalVolume": "51",
+      "pubYear": "2023",
+      "journalIssn": "1073-1105; 1748-720x; ",
+      "pageInfo": "900-919",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2023-01-01",
+      "firstIndexDate": "2024-03-14"
+    },
+    {
+      "id": "41223122",
+      "source": "MED",
+      "pmid": "41223122",
+      "pmcid": "PMC12893748",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12893748"
+        ]
+      },
+      "doi": "10.1159/000549521",
+      "title": "Clinical Practice Recommendations of the Swiss Society for Neuroradiology: Neuroimaging Standards for Enrollment and Disease Monitoring in Anti-Amyloid Immunotherapies.",
+      "authorString": "Wiest R, Radojewski P, Lieb JM, Psychogios M, Benzinger TLS, Franceschi AM, Wanke I, Draganski B, Kurz FT, Lövblad KO.",
+      "journalTitle": "Neurodegener Dis",
+      "issue": "2",
+      "journalVolume": "26",
+      "pubYear": "2026",
+      "journalIssn": "1660-2854; 1660-2862; ",
+      "pageInfo": "77-88",
+      "pubType": "other; practice guideline; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-12",
+      "firstIndexDate": "2025-11-14"
+    }
+  ]
+}

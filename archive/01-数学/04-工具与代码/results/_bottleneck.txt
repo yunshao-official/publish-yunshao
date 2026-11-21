@@ -1,0 +1,27 @@
+=== 瓶颈拆解：每 token 成本分析 ===
+
+1. Qwen 1.5B fp32 CPU 前向（64-token 语境）:
+   M2 实测: 0.7 tok/s -> 1.43 s/token
+   其中 LM forward 占 ~1.40s（98%）
+   宇宙查表+遍历占 ~0.03s（2%）
+
+2. 为什么 LM forward 要 1.4s？
+   Qwen1.5B fp32 = 6.2GB 矩阵 / 每层 28 层 / 每层 1536x1536 全乘
+   语境 64 token -> 64x1536 @ 1536x1536 x28层 x3(FFN翻倍) ≈ 21 GFLOP/token
+   12核 CPU 无 AVX512 优化路径 fp32: ~15 GFLOPS -> 1.4s ✓ 对得上
+
+3. 同一模型的速度对照:
+   fp32 CPU (transformers): 0.7 tok/s <- 现在用的
+   Q4 GPU (llama.cpp Vulkan): 16.23 tok/s <- 档案已测，23倍提速
+   Q4 CPU (llama.cpp AVX2):  ~5 tok/s <- llama.cpp 官方参考
+
+4. L1 为什么慢（每层 16 分钟）？
+   每层: 256 专家 x (解包 IQ3_XXS 71s + 簇中心打分 + 2048神经元逐个gemv)
+   stage2b 是主要成本: 2048 个神经元 x 每个 300 词 gemv = 614,400 次/专家
+   python 循环无向量化 -> 71s 解包 + ~900s 计算 = ~16min/层
+
+5. 结论：瓶颈不在架构，在两个具体件:
+   A) 语法门用了 transformers+fp32 而不是 llama.cpp+Q4+GPU
+      -> 换 llama.cpp server (HTTP) 直接 16.23 tok/s
+   B) L1 的 stage2b 逐神经元 gemv 没向量化
+      -> 按 top2 簇分组 gemm（同 stage2a）可 ~3x 提速

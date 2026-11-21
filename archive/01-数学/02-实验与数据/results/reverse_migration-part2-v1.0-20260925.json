@@ -1,0 +1,719 @@
+{
+ "meta": {
+  "script": "reverse_migration-v1.0-20260925.py",
+  "frozen": "2026-09-25T04:07:52"
+ },
+ "DJ0": {
+  "gear48": {
+   "-80": {
+    "c": -80,
+    "n_words": 1020,
+    "R_moore": 11,
+    "R_nerode": 11,
+    "moore_eq_nerode": true
+   },
+   "-81": {
+    "c": -81,
+    "n_words": 382,
+    "R_moore": 9,
+    "R_nerode": 9,
+    "moore_eq_nerode": true
+   },
+   "-82": {
+    "c": -82,
+    "n_words": 508,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-83": {
+    "c": -83,
+    "n_words": 508,
+    "R_moore": 14,
+    "R_nerode": 14,
+    "moore_eq_nerode": true
+   },
+   "-84": {
+    "c": -84,
+    "n_words": 1016,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-85": {
+    "c": -85,
+    "n_words": 254,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-86": {
+    "c": -86,
+    "n_words": 508,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-87": {
+    "c": -87,
+    "n_words": 508,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-88": {
+    "c": -88,
+    "n_words": 1524,
+    "R_moore": 14,
+    "R_nerode": 14,
+    "moore_eq_nerode": true
+   },
+   "-89": {
+    "c": -89,
+    "n_words": 1270,
+    "R_moore": 15,
+    "R_nerode": 15,
+    "moore_eq_nerode": true
+   },
+   "-90": {
+    "c": -90,
+    "n_words": 2032,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-91": {
+    "c": -91,
+    "n_words": 254,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-92": {
+    "c": -92,
+    "n_words": 508,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-93": {
+    "c": -93,
+    "n_words": 254,
+    "R_moore": 12,
+    "R_nerode": 12,
+    "moore_eq_nerode": true
+   },
+   "-94": {
+    "c": -94,
+    "n_words": 508,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-95": {
+    "c": -95,
+    "n_words": 254,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-96": {
+    "c": -96,
+    "n_words": 1016,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-97": {
+    "c": -97,
+    "n_words": 508,
+    "R_moore": 14,
+    "R_nerode": 14,
+    "moore_eq_nerode": true
+   },
+   "-98": {
+    "c": -98,
+    "n_words": 508,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-99": {
+    "c": -99,
+    "n_words": 508,
+    "R_moore": 12,
+    "R_nerode": 12,
+    "moore_eq_nerode": true
+   },
+   "-100": {
+    "c": -100,
+    "n_words": 1524,
+    "R_moore": 14,
+    "R_nerode": 14,
+    "moore_eq_nerode": true
+   },
+   "-101": {
+    "c": -101,
+    "n_words": 1524,
+    "R_moore": 15,
+    "R_nerode": 15,
+    "moore_eq_nerode": true
+   },
+   "-102": {
+    "c": -102,
+    "n_words": 3048,
+    "R_moore": 14,
+    "R_nerode": 14,
+    "moore_eq_nerode": true
+   },
+   "-103": {
+    "c": -103,
+    "n_words": 762,
+    "R_moore": 14,
+    "R_nerode": 14,
+    "moore_eq_nerode": true
+   },
+   "-104": {
+    "c": -104,
+    "n_words": 1524,
+    "R_moore": 14,
+    "R_nerode": 14,
+    "moore_eq_nerode": true
+   },
+   "-105": {
+    "c": -105,
+    "n_words": 1270,
+    "R_moore": 14,
+    "R_nerode": 14,
+    "moore_eq_nerode": true
+   },
+   "-106": {
+    "c": -106,
+    "n_words": 3556,
+    "R_moore": 15,
+    "R_nerode": 15,
+    "moore_eq_nerode": true
+   },
+   "-107": {
+    "c": -107,
+    "n_words": 2794,
+    "R_moore": 16,
+    "R_nerode": 16,
+    "moore_eq_nerode": true
+   },
+   "-108": {
+    "c": -108,
+    "n_words": 4064,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-109": {
+    "c": -109,
+    "n_words": 254,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-110": {
+    "c": -110,
+    "n_words": 508,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-111": {
+    "c": -111,
+    "n_words": 254,
+    "R_moore": 12,
+    "R_nerode": 12,
+    "moore_eq_nerode": true
+   },
+   "-112": {
+    "c": -112,
+    "n_words": 508,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-113": {
+    "c": -113,
+    "n_words": 254,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-114": {
+    "c": -114,
+    "n_words": 1016,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-115": {
+    "c": -115,
+    "n_words": 508,
+    "R_moore": 14,
+    "R_nerode": 14,
+    "moore_eq_nerode": true
+   },
+   "-116": {
+    "c": -116,
+    "n_words": 508,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-117": {
+    "c": -117,
+    "n_words": 254,
+    "R_moore": 11,
+    "R_nerode": 11,
+    "moore_eq_nerode": true
+   },
+   "-118": {
+    "c": -118,
+    "n_words": 508,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-119": {
+    "c": -119,
+    "n_words": 508,
+    "R_moore": 14,
+    "R_nerode": 14,
+    "moore_eq_nerode": true
+   },
+   "-120": {
+    "c": -120,
+    "n_words": 1016,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-121": {
+    "c": -121,
+    "n_words": 254,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-122": {
+    "c": -122,
+    "n_words": 508,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-123": {
+    "c": -123,
+    "n_words": 254,
+    "R_moore": 12,
+    "R_nerode": 12,
+    "moore_eq_nerode": true
+   },
+   "-124": {
+    "c": -124,
+    "n_words": 508,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-125": {
+    "c": -125,
+    "n_words": 254,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-126": {
+    "c": -126,
+    "n_words": 2032,
+    "R_moore": 13,
+    "R_nerode": 13,
+    "moore_eq_nerode": true
+   },
+   "-127": {
+    "c": -127,
+    "n_words": 1270,
+    "R_moore": 15,
+    "R_nerode": 15,
+    "moore_eq_nerode": true
+   }
+  },
+  "dfa_bad": 0,
+  "mutex": true
+ },
+ "DJ1": {
+  "records": {
+   "-81": {
+    "c": -81,
+    "src": -27,
+    "n_Ec": 382,
+    "n_4E": 382,
+    "n_X": 0,
+    "pure": true,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-84": {
+    "c": -84,
+    "src": -28,
+    "n_Ec": 1016,
+    "n_4E": 508,
+    "n_X": 508,
+    "pure": false,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-87": {
+    "c": -87,
+    "src": -29,
+    "n_Ec": 508,
+    "n_4E": 508,
+    "n_X": 0,
+    "pure": true,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-90": {
+    "c": -90,
+    "src": -30,
+    "n_Ec": 2032,
+    "n_4E": 1016,
+    "n_X": 1016,
+    "pure": false,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-93": {
+    "c": -93,
+    "src": -31,
+    "n_Ec": 254,
+    "n_4E": 254,
+    "n_X": 0,
+    "pure": true,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-96": {
+    "c": -96,
+    "src": -32,
+    "n_Ec": 1016,
+    "n_4E": 508,
+    "n_X": 508,
+    "pure": false,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-99": {
+    "c": -99,
+    "src": -33,
+    "n_Ec": 508,
+    "n_4E": 508,
+    "n_X": 0,
+    "pure": true,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-102": {
+    "c": -102,
+    "src": -34,
+    "n_Ec": 3048,
+    "n_4E": 1524,
+    "n_X": 1524,
+    "pure": false,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-105": {
+    "c": -105,
+    "src": -35,
+    "n_Ec": 1270,
+    "n_4E": 1270,
+    "n_X": 0,
+    "pure": true,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-108": {
+    "c": -108,
+    "src": -36,
+    "n_Ec": 4064,
+    "n_4E": 2032,
+    "n_X": 2032,
+    "pure": false,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-111": {
+    "c": -111,
+    "src": -37,
+    "n_Ec": 254,
+    "n_4E": 254,
+    "n_X": 0,
+    "pure": true,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-114": {
+    "c": -114,
+    "src": -38,
+    "n_Ec": 1016,
+    "n_4E": 508,
+    "n_X": 508,
+    "pure": false,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-117": {
+    "c": -117,
+    "src": -39,
+    "n_Ec": 254,
+    "n_4E": 254,
+    "n_X": 0,
+    "pure": true,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-120": {
+    "c": -120,
+    "src": -40,
+    "n_Ec": 1016,
+    "n_4E": 508,
+    "n_X": 508,
+    "pure": false,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-123": {
+    "c": -123,
+    "src": -41,
+    "n_Ec": 254,
+    "n_4E": 254,
+    "n_X": 0,
+    "pure": true,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   },
+   "-126": {
+    "c": -126,
+    "src": -42,
+    "n_Ec": 2032,
+    "n_4E": 1016,
+    "n_X": 1016,
+    "pure": false,
+    "wordset_eq": true,
+    "tail_ok": true,
+    "src_ok": true
+   }
+  },
+  "bad": 0,
+  "pure_list": [
+   -81,
+   -87,
+   -93,
+   -99,
+   -105,
+   -111,
+   -117,
+   -123
+  ],
+  "synth_check": {
+   "-81": {
+    "R": 9,
+    "R_src_plus1": 9
+   },
+   "-87": {
+    "R": 13,
+    "R_src_plus1": 13
+   },
+   "-93": {
+    "R": 12,
+    "R_src_plus1": 12
+   }
+  },
+  "synth_ok": true,
+  "contain_bad": 0
+ },
+ "DJ2": {
+  "R48": [
+   11,
+   9,
+   13,
+   14,
+   13,
+   13,
+   13,
+   13,
+   14,
+   15,
+   13,
+   13,
+   13,
+   12,
+   13,
+   13,
+   13,
+   14,
+   13,
+   12,
+   14,
+   15,
+   14,
+   14,
+   14,
+   14,
+   15,
+   16,
+   13,
+   13,
+   13,
+   12,
+   13,
+   13,
+   13,
+   14,
+   13,
+   11,
+   13,
+   14,
+   13,
+   13,
+   13,
+   12,
+   13,
+   13,
+   13,
+   15
+  ],
+  "max_R": 16,
+  "max_at": -107,
+  "refreshed": true
+ },
+ "DJ3": {
+  "layers": [
+   {
+    "L": 0,
+    "n_words": 1,
+    "support": 1,
+    "amax": 0,
+    "full_0_3pLm1": false,
+    "n_gaps": 0
+   },
+   {
+    "L": 1,
+    "n_words": 4,
+    "support": 2,
+    "amax": 1,
+    "full_0_3pLm1": false,
+    "n_gaps": 0
+   },
+   {
+    "L": 2,
+    "n_words": 16,
+    "support": 4,
+    "amax": 3,
+    "full_0_3pLm1": false,
+    "n_gaps": 0
+   },
+   {
+    "L": 3,
+    "n_words": 64,
+    "support": 10,
+    "amax": 9,
+    "full_0_3pLm1": false,
+    "n_gaps": 0
+   },
+   {
+    "L": 4,
+    "n_words": 256,
+    "support": 28,
+    "amax": 27,
+    "full_0_3pLm1": false,
+    "n_gaps": 0
+   },
+   {
+    "L": 5,
+    "n_words": 1024,
+    "support": 82,
+    "amax": 81,
+    "full_0_3pLm1": false,
+    "n_gaps": 0
+   },
+   {
+    "L": 6,
+    "n_words": 4096,
+    "support": 244,
+    "amax": 243,
+    "full_0_3pLm1": false,
+    "n_gaps": 0
+   },
+   {
+    "L": 7,
+    "n_words": 16384,
+    "support": 730,
+    "amax": 729,
+    "full_0_3pLm1": false,
+    "n_gaps": 0
+   },
+   {
+    "L": 8,
+    "n_words": 65536,
+    "support": 2188,
+    "amax": 2187,
+    "full_0_3pLm1": false,
+    "n_gaps": 0
+   },
+   {
+    "L": 9,
+    "n_words": 262144,
+    "support": 6562,
+    "amax": 6561,
+    "full_0_3pLm1": false,
+    "n_gaps": 0
+   },
+   {
+    "L": 10,
+    "n_words": 1048576,
+    "support": 19684,
+    "amax": 19683,
+    "full_0_3pLm1": false,
+    "n_gaps": 0
+   },
+   {
+    "L": 11,
+    "n_words": 4194304,
+    "support": 59050,
+    "amax": 59049,
+    "full_0_3pLm1": false,
+    "n_gaps": 0
+   }
+  ],
+  "allfull": false
+ },
+ "log": [
+  "D-J3 layers=[(0, 1, 0, 0), (1, 2, 1, 0), (2, 4, 3, 0), (3, 10, 9, 0), (4, 28, 27, 0), (5, 82, 81, 0), (6, 244, 243, 0), (7, 730, 729, 0), (8, 2188, 2187, 0), (9, 6562, 6561, 0), (10, 19684, 19683, 0), (11, 59050, 59049, 0)] allfull=False",
+  "D-J0 48-gear dfa_bad=0 R=[11, 9, 13, 14, 13, 13, 13, 13, 14, 15, 13, 13, 13, 12, 13, 13, 13, 14, 13, 12, 14, 15, 14, 14, 14, 14, 15, 16, 13, 13, 13, 12, 13, 13, 13, 14, 13, 11, 13, 14, 13, 13, 13, 12, 13, 13, 13, 15]",
+  "D-J1 inherit16 bad=0 pure=[-81, -87, -93, -99, -105, -111, -117, -123]",
+  "D-J1 synth {\"-81\": {\"R\": 9, \"R_src_plus1\": 9}, \"-87\": {\"R\": 13, \"R_src_plus1\": 13}, \"-93\": {\"R\": 12, \"R_src_plus1\": 12}} ok=True",
+  "D-J1 contain4E bad=0",
+  "D-J2 max_R=16 at c=-107 (in-archive max=14 at E-55) refreshed=True"
+ ]
+}

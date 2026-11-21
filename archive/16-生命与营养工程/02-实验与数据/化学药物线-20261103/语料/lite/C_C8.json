@@ -1,0 +1,1848 @@
+{
+  "query_id": "C8",
+  "group": "C",
+  "query": "positive inotrope AND increased mortality",
+  "hitCount": 3940,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:37.441664+00:00",
+  "results": [
+    {
+      "id": "42776329",
+      "source": "MED",
+      "pmid": "42776329",
+      "pmcid": "PMC13601134",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13601134"
+        ]
+      },
+      "doi": "10.1007/s00431-026-07429-w",
+      "title": "Cardiorespiratory coupling during high-frequency oscillatory ventilation with volume guarantee in extremely preterm infants.",
+      "authorString": "Ali K, Homedi A, Alshareef M, Alrahili M, Ali I, Alsaif S, Nanjundappa M, Dassios T, Greenough A.",
+      "journalTitle": "Eur J Pediatr",
+      "issue": "10",
+      "journalVolume": "185",
+      "pubYear": "2026",
+      "journalIssn": "0340-6199; 1432-1076; ",
+      "pageInfo": "775",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-23",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "PMC13649680",
+      "source": "PMC",
+      "pmcid": "PMC13649680",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13649680"
+        ]
+      },
+      "title": "Point-of-care lactate in pediatric sepsis: a single-center observational study",
+      "authorString": "Ajeebi A, Alharthy N, Almalki A, Almutairi M, Tarabzoni O, Alsuhibany H, Aldakheel R, Alghanim H, Hameed T.",
+      "journalTitle": "Front Pediatr",
+      "journalVolume": "14",
+      "journalIssn": "2296-2360",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-10",
+      "firstIndexDate": "2026-10-10"
+    },
+    {
+      "id": "42828352",
+      "source": "MED",
+      "pmid": "42828352",
+      "pmcid": "PMC13632900",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13632900"
+        ]
+      },
+      "doi": "10.7759/cureus.115664",
+      "title": "Clinicoetiological Profile and Outcomes of Shock in Mechanically Ventilated Children in a Pediatric Intensive Care Unit.",
+      "authorString": "Agarwal S, Rakholia R, Nagarkoti G.",
+      "journalTitle": "Cureus",
+      "issue": "9",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e115664",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-02",
+      "firstIndexDate": "2026-10-04"
+    },
+    {
+      "id": "42936320",
+      "source": "MED",
+      "pmid": "42936320",
+      "pmcid": "PMC13704293",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13704293"
+        ]
+      },
+      "doi": "10.22037/aaem.v14i1.3063",
+      "title": "Comparative 28-day Outcomes of Pulse-Dose Methylprednisolone versus Prolonged Low-Dose Dexamethasone in Hospitalized COVID-19 Pneumonia: A Cohort Study.",
+      "authorString": "Sanguanwit P, Rinprasertmeechai P, Leela-Amornsin S.",
+      "journalTitle": "Arch Acad Emerg Med",
+      "issue": "1",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2645-4904",
+      "pageInfo": "e53",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-10",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "PPR1323073",
+      "source": "PPR",
+      "doi": "10.21203/rs.3.rs-10463126/v1",
+      "title": "The Effects of Postoperative Fluid Balance on Outcomes in Cardiac Surgery",
+      "authorString": "Shao A, Yoo N, Hall J.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "Research Square",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-20",
+      "firstIndexDate": "2026-09-21",
+      "versionNumber": 1
+    },
+    {
+      "id": "42335355",
+      "source": "MED",
+      "pmid": "42335355",
+      "doi": "10.1213/ane.0000000000008198",
+      "title": "Associations Between Pulmonary Artery Catheter Use and Outcomes After Cardiac Surgery: An Entropy-Balanced Cohort Study.",
+      "authorString": "Perry LA, Peiris S, Greifer N, Karamesinis A, Rong LQ, Gaudino M, Smith JA, Silvers A, Bennetts J, Segal R, Larobina M, Bellomo R, Miles LF.",
+      "journalTitle": "Anesth Analg",
+      "pubYear": "2026",
+      "journalIssn": "0003-2999; 1526-7598; ",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-24",
+      "firstIndexDate": "2026-06-24"
+    },
+    {
+      "id": "42809661",
+      "source": "MED",
+      "pmid": "42809661",
+      "pmcid": "PMC13722429",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13722429"
+        ]
+      },
+      "doi": "10.1097/ccm.0000000000007338",
+      "title": "Time-Dependent Effects of Inotropic Exposure During Venoarterial Extracorporeal Membrane Oxygenation Support on the Probability of Extracorporeal Membrane Oxygenation Weaning Failure.",
+      "authorString": "van Steenwijk MPJ, Pladet LCA, van Esch A, Shi HJ, Donker DW, Taverne Y, Bunge JJH, Elzo Kraemer CV, Maas JJ, Montenij LJ, Otterspoor LC, Scholten E, van Koppenhagen L, van Rosmalen J, Gommers D, Constantinescu AA, de Boer RA, Møller JE, Rizopoulos D, Meuwese CL.",
+      "journalTitle": "Crit Care Med",
+      "pubYear": "2026",
+      "journalIssn": "0090-3493; 1530-0293; ",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-09-25",
+      "firstIndexDate": "2026-09-30"
+    },
+    {
+      "id": "42523850",
+      "source": "MED",
+      "pmid": "42523850",
+      "pmcid": "PMC13407986",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13407986"
+        ]
+      },
+      "doi": "10.3389/fmed.2026.1833525",
+      "title": "The ICS triad in critical illness: a time-dependent pathological driver of mortality and organ dysfunction.",
+      "authorString": "Likhvantsev VV, Berikashvili LB, Yadgarov MY, Yakovlev AA, Grechko AV.",
+      "journalTitle": "Front Med (Lausanne)",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2296-858x",
+      "pageInfo": "1833525",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-14",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42565520",
+      "source": "MED",
+      "pmid": "42565520",
+      "pmcid": "PMC13449635",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13449635"
+        ]
+      },
+      "doi": "10.1002/prca.70052",
+      "title": "Proteomic Remodeling in the Failing Left Ventricle Adapting to Dyssynchrony.",
+      "authorString": "Ljung K, Muntu NA, Reistam U, Kirk JA, Ståhlberg M.",
+      "journalTitle": "Proteomics Clin Appl",
+      "issue": "5",
+      "journalVolume": "20",
+      "pubYear": "2026",
+      "journalIssn": "1862-8346; 1862-8354; ",
+      "pageInfo": "e70052",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-08-07"
+    },
+    {
+      "id": "42366400",
+      "source": "MED",
+      "pmid": "42366400",
+      "pmcid": "PMC13312551",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13312551"
+        ]
+      },
+      "doi": "10.1186/s13019-026-04289-1",
+      "title": "Cardiac performance and left ventricular dimensions in neonates with left-sided congenital diaphragmatic hernia before and after surgical repair.",
+      "authorString": "Shalaby MM, Taha FA.",
+      "journalTitle": "J Cardiothorac Surg",
+      "issue": "1",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1749-8090",
+      "pageInfo": "446",
+      "pubType": "research-article; journal article; observational study",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-28",
+      "firstIndexDate": "2026-07-02"
+    },
+    {
+      "id": "42923431",
+      "source": "MED",
+      "pmid": "42923431",
+      "pmcid": "PMC13688615",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13688615"
+        ]
+      },
+      "doi": "10.7759/cureus.116704",
+      "title": "A Comparative Study on Pediatric Diabetic Ketoacidosis Before and During the COVID-19 Pandemic in a Tertiary Care Centre in South India.",
+      "authorString": "Gowthami Gowrinathan T, Devi P R, Revathy R, K N, Varadarajan P, D A.",
+      "journalTitle": "Cureus",
+      "issue": "9",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e116704",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-10-25"
+    },
+    {
+      "id": "42744368",
+      "source": "MED",
+      "pmid": "42744368",
+      "pmcid": "PMC13583866",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13583866"
+        ]
+      },
+      "doi": "10.1136/bmjopen-2026-125067",
+      "title": "Volume removal intolerance during net ultrafiltration in patients with acute kidney injury in the intensive care unit: protocol for a prospective multicentre observational study (VINKO).",
+      "authorString": "Ramírez-Guerrero G, Pedreros-Rosales C, Galindo P, Ulloa R, Alarcón J, Ávila S, Kattan E, Melo P, Ballesteros D, Valenzuela R, Guimaraes G, Ferrada R, Pfeifer C, Villalobos V, Mas G, Marcello M, Klinkmann G, Ronco C.",
+      "journalTitle": "BMJ Open",
+      "issue": "9",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2044-6055",
+      "pageInfo": "e125067",
+      "pubType": "clinical trial protocol; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-09-15",
+      "firstIndexDate": "2026-09-16"
+    },
+    {
+      "id": "41710914",
+      "source": "MED",
+      "pmid": "41710914",
+      "pmcid": "PMC12910373",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12910373"
+        ]
+      },
+      "doi": "10.1093/jacamr/dlag012",
+      "title": "The clinical utility of nasal MRSA PCR as an antimicrobial stewardship tool to guide MRSA bacteraemia therapy in paediatrics: a retrospective study at a tertiary care centre.",
+      "authorString": "Alrashed F, Alsaadoon E, Alosaimi A, Desai S, Almutairi R, Alrshaid B, Alhajjar S, Alyabes O, Albanyan E, Alsuhaibani M, Aljumaah S, Bin Hussain I, Alghamdi SM.",
+      "journalTitle": "JAC Antimicrob Resist",
+      "issue": "1",
+      "journalVolume": "8",
+      "pubYear": "2026",
+      "journalIssn": "2632-1823",
+      "pageInfo": "dlag012",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-02-17",
+      "firstIndexDate": "2026-02-20"
+    },
+    {
+      "id": "42719392",
+      "source": "MED",
+      "pmid": "42719392",
+      "pmcid": "PMC13554470",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13554470"
+        ]
+      },
+      "doi": "10.1002/cph4.70254",
+      "title": "Lung-Cardiovascular Interactions and Derangements in ARDS.",
+      "authorString": "Sanchez PA, O'Brien C, Legrand M, Calfee CS, Matthay MA.",
+      "journalTitle": "Compr Physiol",
+      "issue": "5",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2040-4603",
+      "pageInfo": "e70254",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-08",
+      "firstIndexDate": "2026-09-11"
+    },
+    {
+      "id": "42912513",
+      "source": "MED",
+      "pmid": "42912513",
+      "pmcid": "PMC13693894",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13693894"
+        ]
+      },
+      "doi": "10.1111/ctr.70725",
+      "title": "Survival and Functional Status Outcomes in Heart Transplant Recipients: An Analysis of Organs From Donors Who Overdosed.",
+      "authorString": "Siebert JL, Mendez JD, Yost J, Bernhardt PW.",
+      "journalTitle": "Clin Transplant",
+      "issue": "10",
+      "journalVolume": "40",
+      "pubYear": "2026",
+      "journalIssn": "0902-0063; 1399-0012; ",
+      "pageInfo": "e70725",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-24"
+    },
+    {
+      "id": "42188861",
+      "source": "MED",
+      "pmid": "42188861",
+      "pmcid": "PMC13211323",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13211323"
+        ]
+      },
+      "doi": "10.3390/tropicalmed11050132",
+      "title": "Clinical Experience of Therapeutic Plasma Exchange (TPE) in Severe Leptospirosis: A Case Series from Sri Lanka.",
+      "authorString": "Kularathna MDSV, Kularatne SAM.",
+      "journalTitle": "Trop Med Infect Dis",
+      "issue": "5",
+      "journalVolume": "11",
+      "pubYear": "2026",
+      "journalIssn": "2414-6366",
+      "pageInfo": "132",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-12",
+      "firstIndexDate": "2026-05-27"
+    },
+    {
+      "id": "42211292",
+      "source": "MED",
+      "pmid": "42211292",
+      "pmcid": "PMC13215443",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13215443"
+        ]
+      },
+      "doi": "10.7759/cureus.109728",
+      "title": "Perinatal Neuroprotective Strategies and Intraventricular Hemorrhage in Preterm Infants ≤32 Weeks' Gestational Age: A Prospective Study With a Historical Control Cohort.",
+      "authorString": "Sharma A, Sujatha R, Nesseril K, Kumar S.",
+      "journalTitle": "Cureus",
+      "issue": "5",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e109728",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-27",
+      "firstIndexDate": "2026-05-31"
+    },
+    {
+      "id": "42226876",
+      "source": "MED",
+      "pmid": "42226876",
+      "pmcid": "PMC13222468",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13222468"
+        ]
+      },
+      "doi": "10.7759/cureus.108080",
+      "title": "Comparison of National Early Warning Score 2 (NEWS2) and Quick Sequential Organ Failure Assessment (qSOFA) for Predicting In-Hospital Mortality in Patients With Sepsis.",
+      "authorString": "V A, Varghese S, Joseph RM.",
+      "journalTitle": "Cureus",
+      "issue": "5",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e108080",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-06-03"
+    },
+    {
+      "id": "42129712",
+      "source": "MED",
+      "pmid": "42129712",
+      "pmcid": "PMC13312511",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13312511"
+        ]
+      },
+      "doi": "10.1186/s12890-026-04231-0",
+      "title": "Remdesivir for the treatment of children hospitalized with COVID-19: a systematic review and meta-analysis.",
+      "authorString": "Mahmoudi S, Mohammadpour M, Olfat M.",
+      "journalTitle": "BMC Pulm Med",
+      "issue": "1",
+      "journalVolume": "26",
+      "pubYear": "2026",
+      "journalIssn": "1471-2466",
+      "pageInfo": "286",
+      "pubType": "meta-analysis; systematic review; review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-13",
+      "firstIndexDate": "2026-05-15"
+    },
+    {
+      "id": "42509950",
+      "source": "MED",
+      "pmid": "42509950",
+      "pmcid": "PMC13407392",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13407392"
+        ]
+      },
+      "doi": "10.3390/children13070925",
+      "title": "Acute Kidney Injury in Critically Ill Children: A Retrospective Single-Center Study.",
+      "authorString": "Al-Harbi S, Waggass FS, Butt NS.",
+      "journalTitle": "Children (Basel)",
+      "issue": "7",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2227-9067",
+      "pageInfo": "925",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-14",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "PMC13658951",
+      "source": "PMC",
+      "pmcid": "PMC13658951",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13658951"
+        ]
+      },
+      "title": "Reading discordant bedside indices in sepsis-induced cardiomyopathy: an evidence-mapping framework for diagnosis and trial design",
+      "authorString": "Zhang L, Zhang S.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "13",
+      "journalIssn": "2297-055x",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-16",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42401808",
+      "source": "MED",
+      "pmid": "42401808",
+      "pmcid": "PMC13617859",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13617859"
+        ]
+      },
+      "doi": "10.1186/s12245-026-01284-0",
+      "title": "Acute heart failure in a tertiary emergency department in Thailand: clinical characteristics and factors associated with in-hospital mortality.",
+      "authorString": "Tangpaisarn T, Kotruchin P, Phungoen P, Sirikajornroj W, Mitsungnern T, Buranasakda M, Serewiwattana N.",
+      "journalTitle": "Int J Emerg Med",
+      "issue": "1",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1865-1372; 1865-1380; ",
+      "pageInfo": "246",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-04",
+      "firstIndexDate": "2026-07-05"
+    },
+    {
+      "id": "42899445",
+      "source": "MED",
+      "pmid": "42899445",
+      "doi": "10.1017/s1047951126113833",
+      "title": "Preoperative, operative, and immediate postoperative predictors of the onset of low cardiac output syndrome in CHD.",
+      "authorString": "Akbasli IT, Tandon A, Cassedy AE, Allan CK, Madugula N, Dickey S, Du S, Nemer G, Bora G, Das A, Norel R, Barra N, Najm H, Marino B, Latifi S, Baloglu O.",
+      "journalTitle": "Cardiol Young",
+      "issue": "6",
+      "journalVolume": "36",
+      "pubYear": "2026",
+      "journalIssn": "1047-9511; 1467-1107; ",
+      "pageInfo": "1178-1186",
+      "pubType": "journal article; observational study",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-25",
+      "firstIndexDate": "2026-10-21"
+    },
+    {
+      "id": "42509964",
+      "source": "MED",
+      "pmid": "42509964",
+      "pmcid": "PMC13407241",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13407241"
+        ]
+      },
+      "doi": "10.3390/children13070939",
+      "title": "Surgical Interventions for NEC-An Overview.",
+      "authorString": "Hughes T, Wright N, Lakhoo K.",
+      "journalTitle": "Children (Basel)",
+      "issue": "7",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2227-9067",
+      "pageInfo": "939",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-17",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "41994317",
+      "source": "MED",
+      "pmid": "41994317",
+      "pmcid": "PMC13081668",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13081668"
+        ]
+      },
+      "doi": "10.1016/j.aicoj.2026.100038",
+      "title": "Experts' recommendations for the management of adult patients with cardiogenic shock.",
+      "authorString": "Aissaoui N, Delmas C, Merdji H, Schurtz G, Baudry G, Beurton A, Boissier F, Bonello L, Cholley B, Combaret N, Combes A, David CH, De Backer D, Guinot PG, Hamzaoui O, Harbaoui B, Imbault J, Nesseler N, Kimmoun A, Kindo M, Lebreton G, Leurent G, Levy B, Manzo-Silberman S, Martin AC, Mekontso-Dessap A, Adda I, Mootien J, Ouattara A, Pozzi M, Puymirat E, Roubille F, Trimaille A, Ughetto A, Van Belle E, Bonnefoy E, Kuteifan K.",
+      "journalTitle": "Ann Intensive Care",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2110-5820",
+      "pageInfo": "100038",
+      "pubType": "other; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-31",
+      "firstIndexDate": "2026-04-18"
+    },
+    {
+      "id": "42453841",
+      "source": "MED",
+      "pmid": "42453841",
+      "pmcid": "PMC13367916",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13367916"
+        ]
+      },
+      "doi": "10.7759/cureus.110835",
+      "title": "Analyzing Severe Acute Kidney Injury Using the Renal Angina Index.",
+      "authorString": "Reddy RS, Mohanty MD, Parida S, Peddi SVC, Biswal B.",
+      "journalTitle": "Cureus",
+      "issue": "6",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e110835",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-14",
+      "firstIndexDate": "2026-07-16"
+    },
+    {
+      "id": "41790314",
+      "source": "MED",
+      "pmid": "41790314",
+      "pmcid": "PMC12965941",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12965941"
+        ]
+      },
+      "doi": "10.1186/s40635-026-00881-w",
+      "title": "Milrinone and levosimendan improve microvascular perfusion in septic rats: a randomized, placebo-controlled trial.",
+      "authorString": "Marcus C, Hof S, Gesing A, Thelen P, Orzol S, Vocke A, Schulz J, Kuebart AKC, Truse R, Vollmer C, Bauer I, Picker O, Herminghaus A.",
+      "journalTitle": "Intensive Care Med Exp",
+      "issue": "1",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2197-425x",
+      "pageInfo": "30",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-06",
+      "firstIndexDate": "2026-03-07"
+    },
+    {
+      "id": "42736570",
+      "source": "MED",
+      "pmid": "42736570",
+      "pmcid": "PMC13573389",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13573389"
+        ]
+      },
+      "doi": "10.1186/s13054-026-06200-9",
+      "title": "Use of landiolol in septic shock patients with new onset of atrial fibrillation: a European Delphi consensus.",
+      "authorString": "Guarracino F, Levy B, Balik M, Fries M, Joannidis M, Makris D, Rehberg S, Slama M.",
+      "journalTitle": "Crit Care",
+      "issue": "1",
+      "journalVolume": "30",
+      "pubYear": "2026",
+      "journalIssn": "1364-8535; 1466-609x; ",
+      "pageInfo": "472",
+      "pubType": "research-article; consensus statement; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-07",
+      "firstIndexDate": "2026-09-15"
+    },
+    {
+      "id": "42079975",
+      "source": "MED",
+      "pmid": "42079975",
+      "pmcid": "PMC13131171",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13131171"
+        ]
+      },
+      "doi": "10.1016/j.xjon.2026.101712",
+      "title": "Echocardiographic correlates of pressure-volume-derived indices: Advancing intraoperative assessment of right ventricular function.",
+      "authorString": "Kiarad V, Ahmed U, Heerdt P, Mahmood F, Moaddab M, Liu D, Senthilnathan V, Kai M, Chu L, Khabbaz K.",
+      "journalTitle": "JTCVS Open",
+      "journalVolume": "30",
+      "pubYear": "2026",
+      "journalIssn": "2666-2736",
+      "pageInfo": "101712",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-04",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "41732605",
+      "source": "MED",
+      "pmid": "41732605",
+      "pmcid": "PMC12925612",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12925612"
+        ]
+      },
+      "doi": "10.7759/cureus.102158",
+      "title": "C-reactive Protein to Albumin Ratio and Fluid Overload as Predictors of Mortality in Comparison to Pediatric Risk of Mortality (PRISM) III Score in Critically Ill Children in a Tertiary Care Hospital: A Prospective Cohort Study.",
+      "authorString": "Mandal A, Swarnkar K, Malik S.",
+      "journalTitle": "Cureus",
+      "issue": "1",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e102158",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-23",
+      "firstIndexDate": "2026-02-24"
+    },
+    {
+      "id": "41788495",
+      "source": "MED",
+      "pmid": "41788495",
+      "pmcid": "PMC12934445",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12934445"
+        ]
+      },
+      "doi": "10.1016/j.aicoj.2025.100006",
+      "title": "Fluid therapy in adults having non-cardiac surgery: A narrative review.",
+      "authorString": "Eichlseder M, Schweikert R, Serir A, Saugel B.",
+      "journalTitle": "Ann Intensive Care",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2110-5820",
+      "pageInfo": "100006",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-01-19",
+      "firstIndexDate": "2026-03-07"
+    },
+    {
+      "id": "40951606",
+      "source": "MED",
+      "pmid": "40951606",
+      "pmcid": "PMC12424009",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12424009"
+        ]
+      },
+      "doi": "10.4102/jcmsa.v3i1.193",
+      "title": "Utility of shock index to predict mortality risk in decompensated heart failure.",
+      "authorString": "Naidoo-Pillay A, Rajan S, Engelbrecht A.",
+      "journalTitle": "J Coll Med S Afr",
+      "issue": "1",
+      "journalVolume": "3",
+      "pubYear": "2025",
+      "journalIssn": "2960-110x",
+      "pageInfo": "193",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-07-24",
+      "firstIndexDate": "2025-09-16"
+    },
+    {
+      "id": "42788572",
+      "source": "MED",
+      "pmid": "42788572",
+      "pmcid": "PMC13588558",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13588558"
+        ]
+      },
+      "doi": "10.1590/1984-0462/2026/44/2025380",
+      "title": "Prognostic implications of lactate dehydrogenase-to-albumin ratio in pediatric intensive care unit patients: a single-center prospective study.",
+      "authorString": "Mohamed AO, Hosni YA.",
+      "journalTitle": "Rev Paul Pediatr",
+      "journalVolume": "44",
+      "pubYear": "2026",
+      "journalIssn": "0103-0582; 1984-0462; ",
+      "pageInfo": "e2025380",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-18",
+      "firstIndexDate": "2026-09-26"
+    },
+    {
+      "id": "41211198",
+      "source": "MED",
+      "pmid": "41211198",
+      "pmcid": "PMC12590390",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12590390"
+        ]
+      },
+      "doi": "10.15420/cfr.2025.21",
+      "title": "Pre-implant Right Ventricular dP/dt Can Predict Severe Right Ventricular Failure After Left Ventricular Assist Device Implantation.",
+      "authorString": "Visrodia P, Rali AS, Hernandez G, Skowronski J, Brittain EL, Zalawadiya SK, Mendes LA, Lindenfeld J, Hernandez A, Williams AM, Agrawal V.",
+      "journalTitle": "Card Fail Rev",
+      "journalVolume": "11",
+      "pubYear": "2025",
+      "journalIssn": "2057-7540; 2057-7559; ",
+      "pageInfo": "e25",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-10-20",
+      "firstIndexDate": "2025-11-10"
+    },
+    {
+      "id": "41399750",
+      "source": "MED",
+      "pmid": "41399750",
+      "pmcid": "PMC12702235",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12702235"
+        ]
+      },
+      "doi": "10.1016/j.resplu.2025.101161",
+      "title": "Effect of introduction of an integrated electronic medical record system with semi-automated multi-trigger MET alerts on utilisation of a paediatric RRS and patient outcome.",
+      "authorString": "Shah M, Fowler C, Zahir F, Acworth J.",
+      "journalTitle": "Resusc Plus",
+      "journalVolume": "26",
+      "pubYear": "2025",
+      "journalIssn": "2666-5204",
+      "pageInfo": "101161",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-11-15",
+      "firstIndexDate": "2025-12-16"
+    },
+    {
+      "id": "42650388",
+      "source": "MED",
+      "pmid": "42650388",
+      "pmcid": "PMC13510382",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13510382"
+        ]
+      },
+      "doi": "10.3390/children13081050",
+      "title": "Clinical, Electrocardiographic, Biochemical, and Echocardiographic Markers for Diagnosing Cardiac Dysfunction in Neonates with Hypoxic-Ischemic Encephalopathy: A Narrative Review.",
+      "authorString": "Tatagiri S, Chan B, Singh Y.",
+      "journalTitle": "Children (Basel)",
+      "issue": "8",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2227-9067",
+      "pageInfo": "1050",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-06",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42194231",
+      "source": "MED",
+      "pmid": "42194231",
+      "pmcid": "PMC13204034",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13204034"
+        ]
+      },
+      "doi": "10.3390/children13050705",
+      "title": "Which Bacterial Agent Is More Influential in the Development of Retinopathy of Prematurity: Gram-Positive or Gram-Negative?",
+      "authorString": "Yeke B, Akin MS, Butun Turk S, Elbayiyev S, Ceran B, Ozdemir O, Cakir U.",
+      "journalTitle": "Children (Basel)",
+      "issue": "5",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2227-9067",
+      "pageInfo": "705",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-20",
+      "firstIndexDate": "2026-05-28"
+    },
+    {
+      "id": "42029150",
+      "source": "MED",
+      "pmid": "42029150",
+      "pmcid": "PMC13178255",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13178255"
+        ]
+      },
+      "doi": "10.1093/eschf/xvag120",
+      "title": "The quantitative haemodynamic effect of levosimendan, dobutamine, and milrinone in heart failure patients: a meta-analysis.",
+      "authorString": "Nuzzi V, Madaudo C, Manca P, Cannata A, Raffa G, Mulè M, Cannata S, La Franca E, Pisano C, Cipriani M, Lorusso R.",
+      "journalTitle": "ESC Heart Fail",
+      "issue": "3",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2055-5822",
+      "pageInfo": "xvag120",
+      "pubType": "meta-analysis; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-04-24"
+    },
+    {
+      "id": "41957740",
+      "source": "MED",
+      "pmid": "41957740",
+      "pmcid": "PMC13196230",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13196230"
+        ]
+      },
+      "doi": "10.1186/s12887-026-06808-4",
+      "title": "Comparison of vancomycin sensitive and resistant enterococcal infection in children.",
+      "authorString": "Yakin H, Acikalin B, Demir OO, Aykac K, Hazirolan G, Cengiz AB, Ozsurekci Y.",
+      "journalTitle": "BMC Pediatr",
+      "issue": "1",
+      "journalVolume": "26",
+      "pubYear": "2026",
+      "journalIssn": "1471-2431",
+      "pageInfo": "468",
+      "pubType": "comparative study; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-04-09",
+      "firstIndexDate": "2026-04-10"
+    },
+    {
+      "id": "42589920",
+      "source": "MED",
+      "pmid": "42589920",
+      "pmcid": "PMC13466630",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13466630"
+        ]
+      },
+      "doi": "10.3390/jcm15155816",
+      "title": "Factors Associated with Progression to SCAI-Defined Hemodynamic Instability at 72 Hours in Patients with Acute Decompensated Heart Failure Receiving Inotropic Therapy.",
+      "authorString": "Avcı R, Yılmaz Öztekin GM.",
+      "journalTitle": "J Clin Med",
+      "issue": "15",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2077-0383",
+      "pageInfo": "5816",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-25",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "42206912",
+      "source": "MED",
+      "pmid": "42206912",
+      "pmcid": "PMC13321790",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13321790"
+        ]
+      },
+      "doi": "10.1128/aac.01968-25",
+      "title": "Achieving therapeutic antibiotic levels during intermittent dosing of meropenem and piperacillin-tazobactam in critically ill children: the ATACC study.",
+      "authorString": "Joffe AR, Humber A, Bates A, Lipman J, Wallis S, Roberts J.",
+      "journalTitle": "Antimicrob Agents Chemother",
+      "issue": "7",
+      "journalVolume": "70",
+      "pubYear": "2026",
+      "journalIssn": "0066-4804; 1098-6596; ",
+      "pageInfo": "e0196825",
+      "pubType": "research support, non-u.s. gov't; research-article; multicenter study; journal article; observational study",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-28",
+      "firstIndexDate": "2026-05-29"
+    },
+    {
+      "id": "41848448",
+      "source": "MED",
+      "pmid": "41848448",
+      "pmcid": "PMC13112566",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13112566"
+        ]
+      },
+      "doi": "10.1016/j.jaccas.2026.107479",
+      "title": "Teclistamab Treatment Followed by Heart Transplantation for Advanced Immunoglobulin Light Chain Amyloid Cardiomyopathy.",
+      "authorString": "Ibrahim M, Abdelhakeem A, Lin G, Malik A, Lyle M, Nativi-Nicolau J, Aslam N, Amin MS, Fernandez A, Reideler T, Sher T.",
+      "journalTitle": "JACC Case Rep",
+      "issue": "16",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "2666-0849",
+      "pageInfo": "107479",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-18",
+      "firstIndexDate": "2026-03-18"
+    },
+    {
+      "id": "42633108",
+      "source": "MED",
+      "pmid": "42633108",
+      "pmcid": "PMC13499043",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13499043"
+        ]
+      },
+      "doi": "10.1016/j.shj.2026.101059",
+      "title": "Balloon Aortic Valvuloplasty as a Bridge Therapy in Acute Valve Syndrome: A Narrative Review of Evidence Gaps and Future Directions.",
+      "authorString": "Saleh O, Jafar O, Valle N, Yasa S, Mostafa S, Benza RL, Talreja DR, Peterson BD, Summers MR.",
+      "journalTitle": "Struct Heart",
+      "issue": "9",
+      "journalVolume": "10",
+      "pubYear": "2026",
+      "journalIssn": "2474-8706; 2474-8714; ",
+      "pageInfo": "101059",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-23",
+      "firstIndexDate": "2026-08-23"
+    },
+    {
+      "id": "42211433",
+      "source": "MED",
+      "pmid": "42211433",
+      "pmcid": "PMC13214974",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13214974"
+        ]
+      },
+      "doi": "10.1155/crcc/5510861",
+      "title": "Treatment of Heparin-Induced Thrombocytopenia in the Setting of Venoarterial Extracorporeal Membrane Oxygenation as a Bridge to Orthotopic Heart Transplant.",
+      "authorString": "Han EJ, Kalekas N, Vandiver MS.",
+      "journalTitle": "Case Rep Crit Care",
+      "journalVolume": "2026",
+      "pubYear": "2026",
+      "journalIssn": "2090-6420; 2090-6439; ",
+      "pageInfo": "5510861",
+      "pubType": "case-study; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-27",
+      "firstIndexDate": "2026-05-31"
+    },
+    {
+      "id": "42757364",
+      "source": "MED",
+      "pmid": "42757364",
+      "pmcid": "PMC13585114",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13585114"
+        ]
+      },
+      "doi": "10.5005/jp-journals-10071-25245",
+      "title": "Pediatric Traumatic Brain Injury and Healthcare-associated Infections: A Prospective Study on Determinants of Mortality Using Least Absolute Shrinkage and Selection Operator Regression.",
+      "authorString": "Ahmed MN, Bindra A, Sahu P, Thakur AK, Samsudeen MSM, Goyal K, Kumar N, Singh PK, Singh P, Gupta D, Mathur P.",
+      "journalTitle": "Indian J Crit Care Med",
+      "issue": "8",
+      "journalVolume": "30",
+      "pubYear": "2026",
+      "journalIssn": "0972-5229; 1998-359x; ",
+      "pageInfo": "656-663",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-20",
+      "firstIndexDate": "2026-09-19"
+    },
+    {
+      "id": "42240539",
+      "source": "MED",
+      "pmid": "42240539",
+      "pmcid": "PMC13350682",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13350682"
+        ]
+      },
+      "doi": "10.1016/j.jaccas.2026.108582",
+      "title": "Transcatheter Tricuspid Valve Replacement for Severe Tricuspid Regurgitation Post-Left Ventricular Assist Device.",
+      "authorString": "Giustino G, Naguib M, Asselin CY, Koulogiannis KP, Flores R, Ahmad S, Slater J, Gillam L, Généreux P, Singh A.",
+      "journalTitle": "JACC Case Rep",
+      "issue": "27",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "2666-0849",
+      "pageInfo": "108582",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-03",
+      "firstIndexDate": "2026-06-06"
+    },
+    {
+      "id": "42478356",
+      "source": "MED",
+      "pmid": "42478356",
+      "pmcid": "PMC13475127",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13475127"
+        ]
+      },
+      "doi": "10.1093/eschf/xvag201",
+      "title": "Indication for durable mechanical circulatory support: an expert opinion review.",
+      "authorString": "Schoenrath F, Bonios M, Iacovoni A, Just IA, Roehrich L, Miera O, Baudry G, Ben Gal T, Crespo-Leiro MG, Joyce E, Kapelios CJ, Lim HS, Skouri H, Damman K.",
+      "journalTitle": "ESC Heart Fail",
+      "issue": "4",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2055-5822",
+      "pageInfo": "xvag201",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-21"
+    },
+    {
+      "id": "42524194",
+      "source": "MED",
+      "pmid": "42524194",
+      "pmcid": "PMC13409508",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13409508"
+        ]
+      },
+      "doi": "10.6515/acs.202607_42(4).20251124b",
+      "title": "The Role of the Pan-Immune-Inflammatory-Value Index in Predicting Hospital Stay Duration in Patients with Myocarditis.",
+      "authorString": "Eyiol H, Eyiol A, Sahin AT.",
+      "journalTitle": "Acta Cardiol Sin",
+      "issue": "4",
+      "journalVolume": "42",
+      "pubYear": "2026",
+      "journalIssn": "1011-6842",
+      "pageInfo": "616-626",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42504371",
+      "source": "MED",
+      "pmid": "42504371",
+      "pmcid": "PMC13401515",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13401515"
+        ]
+      },
+      "doi": "10.7759/cureus.111512",
+      "title": "Comparison of Pre-transfer Risk Assessment Tools Used for Critically Ill Patient Transport: A Retrospective Study.",
+      "authorString": "Poomali A, Ambalakkatte A, Tp S, Mohanan A, Madathil N, Babu C, Kadavana LP, Kollanthodukayil N.",
+      "journalTitle": "Cureus",
+      "issue": "6",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e111512",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-25",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42782010",
+      "source": "MED",
+      "pmid": "42782010",
+      "pmcid": "PMC13616511",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13616511"
+        ]
+      },
+      "doi": "10.1016/j.jacadv.2026.103131",
+      "title": "Predictors of Bleeding After Percutaneous Left Ventricular Assist Device Support: Findings From the J-PVAD Registry.",
+      "authorString": "Sano M, Toyota T, Kohjitani H, Azumi Y, Hayashi H, Ito S, Murai R, Ooka J, Sasaki Y, Taniguchi T, Kobori A, Ehara N, Kinoshita M, Furukawa Y, J-PVAD Investigators.",
+      "journalTitle": "JACC Adv",
+      "issue": "9",
+      "journalVolume": "5",
+      "pubYear": "2026",
+      "journalIssn": "2772-963x",
+      "pageInfo": "103131",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-09-25"
+    }
+  ]
+}

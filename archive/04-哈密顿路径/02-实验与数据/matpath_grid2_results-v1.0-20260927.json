@@ -1,0 +1,65 @@
+{
+ "W_fabric": [
+  {
+   "p_alive": 0.6,
+   "line": 0.0,
+   "mesh_2x10": 0.082,
+   "dual_loop": 0.0,
+   "mesh_gain": null
+  },
+  {
+   "p_alive": 0.7,
+   "line": 0.001,
+   "mesh_2x10": 0.283,
+   "dual_loop": 0.003,
+   "mesh_gain": 283.0
+  },
+  {
+   "p_alive": 0.8,
+   "line": 0.015,
+   "mesh_2x10": 0.603,
+   "dual_loop": 0.03,
+   "mesh_gain": 38.9
+  },
+  {
+   "p_alive": 0.9,
+   "line": 0.133,
+   "mesh_2x10": 0.882,
+   "dual_loop": 0.252,
+   "mesh_gain": 6.6
+  },
+  {
+   "p_alive": 0.95,
+   "line": 0.371,
+   "mesh_2x10": 0.973,
+   "dual_loop": 0.61,
+   "mesh_gain": 2.6
+  }
+ ],
+ "W1_verdict": "增益成立(>=10x)",
+ "W2_edge_cost": {
+  "line": 19,
+  "mesh_2x10": 28,
+  "dual_loop": 38
+ },
+ "G_schedule": {
+  "no_fail": "INFEASIBLE",
+  "fail_t3": "INFEASIBLE",
+  "fail_t6": "INFEASIBLE"
+ },
+ "T_crosstalk": {
+  "spacing_ratio": 0.707,
+  "coupling_upper": 2.83,
+  "proposal": "T-1:串扰比<=-20dB; T-2:相位窗口±2°; 94路间距≈0.707×46路→近场耦合上限≈2.83×",
+  "check": "候选判据非验证——需物理端仿真/实测确认"
+ },
+ "T_verdict": "提案入档(T0缺口候选)",
+ "elapsed_s": 1.7,
+ "G_schedule_v2_fullpower": {
+  "no_fail": "SAT",
+  "fail_t3": "SAT",
+  "fail_t6": "SAT",
+  "fail_t0": "SAT"
+ },
+ "G_note": "v1 d上限±0.5kJ/时段为过紧建模(不可满足=建模告警照记); v2 全功率档修正"
+}

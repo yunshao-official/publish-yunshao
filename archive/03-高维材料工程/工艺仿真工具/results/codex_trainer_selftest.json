@@ -1,0 +1,31 @@
+{
+ "场景A_有信号": {
+  "separability": 1.0,
+  "cv_accuracy": 0.8714285714285716,
+  "generalization_est": 0.5228571428571429,
+  "readback_accuracy": 0.9930555555555556,
+  "chance": 0.08333333333333333,
+  "verdicts": {
+   "阶段1_关联存在": true,
+   "阶段2_映射可靠": true,
+   "阶段3_外推": true,
+   "读回校验": true
+  },
+  "all_pass": true
+ },
+ "场景B_无信号": {
+  "separability": 0.0,
+  "cv_accuracy": 0.07857142857142856,
+  "generalization_est": 0.04714285714285713,
+  "readback_accuracy": 0.5,
+  "chance": 0.08333333333333333,
+  "verdicts": {
+   "阶段1_关联存在": false,
+   "阶段2_映射可靠": false,
+   "阶段3_外推": false,
+   "读回校验": false
+  },
+  "all_pass": false
+ },
+ "自测通过": true
+}

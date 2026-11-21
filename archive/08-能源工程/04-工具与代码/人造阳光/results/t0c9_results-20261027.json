@@ -1,0 +1,157 @@
+{
+  "omega_sr": 6.796714610979705e-05,
+  "theta_full_deg": 0.533,
+  "targets": {
+    "AM1.5G": {
+      "L_required": 14712990.867448766,
+      "sources": [
+        {
+          "source": "LED 1 W/mm2",
+          "radiance": 318309.8861837907,
+          "ratio_to_target": 0.021634614542446574,
+          "E_in_solar_beam": 21.63461454244657,
+          "deficit_factor": 46.22222402151077
+        },
+        {
+          "source": "LED 3 W/mm2",
+          "radiance": 954929.658551372,
+          "ratio_to_target": 0.06490384362733971,
+          "E_in_solar_beam": 64.90384362733971,
+          "deficit_factor": 15.407408007170256
+        },
+        {
+          "source": "LED 10 W/mm2",
+          "radiance": 3183098.8618379068,
+          "ratio_to_target": 0.21634614542446573,
+          "E_in_solar_beam": 216.3461454244657,
+          "deficit_factor": 4.622222402151077
+        },
+        {
+          "source": "LED 30 W/mm2",
+          "radiance": 9549296.58551372,
+          "ratio_to_target": 0.6490384362733972,
+          "E_in_solar_beam": 649.0384362733971,
+          "deficit_factor": 1.5407408007170256
+        },
+        {
+          "source": "micro-LED 100 W/mm2",
+          "radiance": 31830988.618379068,
+          "ratio_to_target": 2.1634614542446573,
+          "E_in_solar_beam": 2163.461454244657,
+          "deficit_factor": 0.46222224021510766
+        },
+        {
+          "source": "黑体 3000K",
+          "radiance": 1461998.3511044083,
+          "ratio_to_target": 0.0993678555417957,
+          "E_in_solar_beam": 99.36785554179569,
+          "deficit_factor": 10.06361659459768
+        },
+        {
+          "source": "黑体 5000K",
+          "radiance": 11280851.474571051,
+          "ratio_to_target": 0.7667272804150902,
+          "E_in_solar_beam": 766.7272804150901,
+          "deficit_factor": 1.3042447106598591
+        },
+        {
+          "source": "黑体 5772K",
+          "radiance": 20033976.205149014,
+          "ratio_to_target": 1.3616521878955605,
+          "E_in_solar_beam": 1361.6521878955605,
+          "deficit_factor": 0.7344019338341493
+        },
+        {
+          "source": "激光泵荧光体 100W/0.1mm2",
+          "radiance": 318309886.1837907,
+          "ratio_to_target": 21.634614542446574,
+          "E_in_solar_beam": 21634.614542446572,
+          "deficit_factor": 0.046222224021510765
+        },
+        {
+          "source": "激光泵荧光体 500W/0.25mm2",
+          "radiance": 636619772.3675814,
+          "ratio_to_target": 43.26922908489315,
+          "E_in_solar_beam": 43269.229084893144,
+          "deficit_factor": 0.023111112010755382
+        }
+      ]
+    },
+    "AM0": {
+      "L_required": 20024380.57059777,
+      "sources": [
+        {
+          "source": "LED 1 W/mm2",
+          "radiance": 318309.8861837907,
+          "ratio_to_target": 0.01589611648967419,
+          "E_in_solar_beam": 21.63461454244657,
+          "deficit_factor": 62.90844689327615
+        },
+        {
+          "source": "LED 3 W/mm2",
+          "radiance": 954929.658551372,
+          "ratio_to_target": 0.04768834946902256,
+          "E_in_solar_beam": 64.90384362733971,
+          "deficit_factor": 20.969482297758717
+        },
+        {
+          "source": "LED 10 W/mm2",
+          "radiance": 3183098.8618379068,
+          "ratio_to_target": 0.1589611648967419,
+          "E_in_solar_beam": 216.3461454244657,
+          "deficit_factor": 6.290844689327615
+        },
+        {
+          "source": "LED 30 W/mm2",
+          "radiance": 9549296.58551372,
+          "ratio_to_target": 0.4768834946902257,
+          "E_in_solar_beam": 649.0384362733971,
+          "deficit_factor": 2.096948229775872
+        },
+        {
+          "source": "micro-LED 100 W/mm2",
+          "radiance": 31830988.618379068,
+          "ratio_to_target": 1.5896116489674188,
+          "E_in_solar_beam": 2163.461454244657,
+          "deficit_factor": 0.6290844689327615
+        },
+        {
+          "source": "黑体 3000K",
+          "radiance": 1461998.3511044083,
+          "ratio_to_target": 0.073010915166639,
+          "E_in_solar_beam": 99.36785554179569,
+          "deficit_factor": 13.69658218524744
+        },
+        {
+          "source": "黑体 5000K",
+          "radiance": 11280851.474571051,
+          "ratio_to_target": 0.5633558269030787,
+          "E_in_solar_beam": 766.7272804150901,
+          "deficit_factor": 1.7750770512080685
+        },
+        {
+          "source": "黑体 5772K",
+          "radiance": 20033976.205149014,
+          "ratio_to_target": 1.0004791975720504,
+          "E_in_solar_beam": 1361.6521878955605,
+          "deficit_factor": 0.9995210319482771
+        },
+        {
+          "source": "激光泵荧光体 100W/0.1mm2",
+          "radiance": 318309886.1837907,
+          "ratio_to_target": 15.896116489674188,
+          "E_in_solar_beam": 21634.614542446572,
+          "deficit_factor": 0.06290844689327614
+        },
+        {
+          "source": "激光泵荧光体 500W/0.25mm2",
+          "radiance": 636619772.3675814,
+          "ratio_to_target": 31.792232979348377,
+          "E_in_solar_beam": 43269.229084893144,
+          "deficit_factor": 0.03145422344663807
+        }
+      ]
+    }
+  },
+  "label": "模型推演（非实测）；光源档位为假设档，需数据表/实测替换"
+}

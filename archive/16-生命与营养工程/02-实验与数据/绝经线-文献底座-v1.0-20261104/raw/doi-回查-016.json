@@ -1,0 +1,1173 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          28
+        ]
+      ],
+      "date-time": "2026-08-28T13:31:35Z",
+      "timestamp": 1787923895425,
+      "version": "build-2784847793"
+    },
+    "reference-count": 70,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              28
+            ]
+          ],
+          "date-time": "2026-08-28T00:00:00Z",
+          "timestamp": 1787875200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100004772",
+        "name": "Natural Science Foundation of Ningxia Province",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2024AAC05063"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2024AAC05063"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100004772",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100013494",
+        "name": "West Light Foundation, Chinese Academy of Sciences",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100013494",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100017594",
+        "name": "Medical Science and Technology Project of Zhejiang Province",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100017594",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "frontiersin.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Front. Pharmacol."
+    ],
+    "abstract": "<jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>Per- and polyfluoroalkyl substances (PFAS) are omnipresent, persistent contaminants associated with rising ovarian cancer incidence; however, the molecular circuitry linking PFAS to ovarian tumorigenesis remains obscure.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>Here, an integrated network toxicology–molecular docking pipeline was developed to interrogate ten environmentally abundant PFAS.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Comprehensive interactome mapping identified 1,042 PFAS–protein interactions that converge on eight transcriptional hubs (HDAC1, SIRT1, ESR1, RXRA, PTGS2, MMP9, HDAC2 and HDAC3), subsequently validated as significantly overexpressed in ovarian tumours versus normal tissue pathway enrichment indicated that these mediators synchronize epigenetic silencing, estrogen signalling, inflammatory prostaglandin synthesis and extracellular-matrix remodelling, thereby may coordinate processes potentially associated with PFAS-associated initiation and progression. Competitive docking further showed that long-chain PFOS and PFOA are predicted the strongest binding affinities to the catalytic domains of HDACs 1–3, mechanistically explaining the observed transcriptomic alterations. Human ovarian granulosa-like tumor cell line (KGN) was exposed to PFOA, which works as a representative PFAS compound, showed a significant increase of cell proliferation and migration, leading to an alteration of gene expression previously identified by network toxicology.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Discussion</jats:title>\n                    <jats:p>Our findings provides a systems-level predictive framework for understanding PFAS-associated ovarian oncogenesis, furnish quantitative biomarkers for exposure–response modelling, and prioritize HDAC inhibition as prioritized candidate mediators to mitigate PFAS-related cancer risk with immediate translational implications for public-health protection and regulatory guideline revision.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.3389/fphar.2026.1905013",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          28
+        ]
+      ],
+      "date-time": "2026-08-28T12:53:26Z",
+      "timestamp": 1787921606000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Integrative network toxicology and molecular docking reveal epigenetic and endocrine-disrupting mechanisms of PFAS in ovarian cancer"
+    ],
+    "prefix": "10.3389",
+    "volume": "17",
+    "author": [
+      {
+        "given": "Yulu",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Key Laboratory of Fertility Preservation and Maintenance of Ministry of Education, School of Basic Medicine, Ningxia Medical University",
+            "place": [
+              "Yinchuan, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xueli",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Key Laboratory of Fertility Preservation and Maintenance of Ministry of Education, School of Basic Medicine, Ningxia Medical University",
+            "place": [
+              "Yinchuan, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yanan",
+        "family": "Ding",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Key Laboratory of Fertility Preservation and Maintenance of Ministry of Education, School of Basic Medicine, Ningxia Medical University",
+            "place": [
+              "Yinchuan, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhanjie",
+        "family": "Zhao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Key Laboratory of Fertility Preservation and Maintenance of Ministry of Education, School of Basic Medicine, Ningxia Medical University",
+            "place": [
+              "Yinchuan, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Haotian",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Key Laboratory of Fertility Preservation and Maintenance of Ministry of Education, School of Basic Medicine, Ningxia Medical University",
+            "place": [
+              "Yinchuan, China"
+            ]
+          },
+          {
+            "name": "The First Clinical Medical College, Ningxia Medical University",
+            "place": [
+              "Yinchuan, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiaojuan",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Key Laboratory of Fertility Preservation and Maintenance of Ministry of Education, School of Basic Medicine, Ningxia Medical University",
+            "place": [
+              "Yinchuan, China"
+            ]
+          },
+          {
+            "name": "Shengzhou Food and Drug Testing Center",
+            "place": [
+              "Shaoxing, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yanzhou",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Key Laboratory of Fertility Preservation and Maintenance of Ministry of Education, School of Basic Medicine, Ningxia Medical University",
+            "place": [
+              "Yinchuan, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pengge",
+        "family": "Pan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Key Laboratory of Fertility Preservation and Maintenance of Ministry of Education, School of Basic Medicine, Ningxia Medical University",
+            "place": [
+              "Yinchuan, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luyi",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Key Laboratory of Fertility Preservation and Maintenance of Ministry of Education, School of Basic Medicine, Ningxia Medical University",
+            "place": [
+              "Yinchuan, China"
+            ]
+          },
+          {
+            "name": "Reproductive Medicine Center, The First Clinical Medical College, Ningbo University",
+            "place": [
+              "Ningbo, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hui",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Key Laboratory of Fertility Preservation and Maintenance of Ministry of Education, School of Basic Medicine, Ningxia Medical University",
+            "place": [
+              "Yinchuan, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          28
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "first-page": "972",
+        "DOI": "10.6004/jnccn.2022.0047",
+        "article-title": "NCCN guidelines® insights: ovarian cancer, version 3.2022",
+        "volume": "20",
+        "author": "Armstrong",
+        "year": "2022",
+        "journal-title": "J. Natl. Compr. Cancer Netw. JNCCN"
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "first-page": "15960",
+        "DOI": "10.1021/acs.est.4c03648",
+        "article-title": "Interaction of Per- and polyfluoroalkyl substances with estrogen receptors in rainbow trout (oncorhynchus mykiss): an in silico investigation",
+        "volume": "58",
+        "author": "Bali",
+        "year": "2024",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "first-page": "W513",
+        "DOI": "10.1093/nar/gkae303",
+        "article-title": "ProTox 3.0: a webserver for the prediction of toxicity of chemicals",
+        "volume": "52",
+        "author": "Banerjee",
+        "year": "2024",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "first-page": "118",
+        "DOI": "10.1007/s40572-024-00441-y",
+        "article-title": "Public health risks of PFAS-related immunotoxicity are real",
+        "volume": "11",
+        "author": "Bline",
+        "year": "2024",
+        "journal-title": "Curr. Environ. Health Rep."
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "first-page": "513",
+        "DOI": "10.1002/ieam.258",
+        "article-title": "Perfluoroalkyl and polyfluoroalkyl substances in the environment: terminology, classification, and origins",
+        "volume": "7",
+        "author": "Buck",
+        "year": "2011",
+        "journal-title": "Integr. Environ. Assess. Manag."
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "first-page": "687",
+        "DOI": "10.1038/s41370-023-00601-6",
+        "article-title": "Exploratory profiles of phenols, parabens, and per- and poly-fluoroalkyl substances among NHANES study participants in association with previous cancer diagnoses",
+        "volume": "33",
+        "author": "Cathey",
+        "year": "2023",
+        "journal-title": "J. Expo. Sci. Environ. Epidemiol."
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "first-page": "775",
+        "DOI": "10.1002/ijc.34487",
+        "article-title": "Serum perfluorooctane sulfonate and perfluorooctanoate and risk of postmenopausal breast cancer according to hormone receptor status: an analysis in the prostate, lung, colorectal and ovarian cancer screening trial",
+        "volume": "153",
+        "author": "Chang",
+        "year": "2023",
+        "journal-title": "Int. J. Cancer"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "first-page": "287",
+        "DOI": "10.1146/annurev.pathol.4.110807.092246",
+        "article-title": "Ovarian cancer",
+        "volume": "4",
+        "author": "Cho",
+        "year": "2009",
+        "journal-title": "Annu. Review Pathol."
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "first-page": "36",
+        "DOI": "10.1093/toxsci/kfae103",
+        "article-title": "Adolescent exposure to a mixture of per- and polyfluoroalkyl substances (PFAS) depletes the ovarian reserve, increases ovarian fibrosis, and alters the hippo pathway in adult female mice",
+        "volume": "202",
+        "author": "Clark",
+        "year": "2024",
+        "journal-title": "Toxicol. Sci."
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "first-page": "9630",
+        "DOI": "10.1021/acs.est.1c03565",
+        "article-title": "The true cost of PFAS and the benefits of acting now",
+        "volume": "55",
+        "author": "Cordner",
+        "year": "2021",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "first-page": "W357",
+        "DOI": "10.1093/nar/gkz382",
+        "article-title": "SwissTargetPrediction: updated data and new features for efficient prediction of protein targets of small molecules",
+        "volume": "47",
+        "author": "Daina",
+        "year": "2019",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "first-page": "3376",
+        "DOI": "10.3390/cells11213376",
+        "article-title": "H3K27me3 in diffuse midline glioma and epithelial ovarian cancer: opposing epigenetic changes leading to the same poor outcomes",
+        "volume": "11",
+        "author": "Day",
+        "year": "2022",
+        "journal-title": "Cells"
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "first-page": "125808",
+        "DOI": "10.1016/j.biortech.2021.125808",
+        "article-title": "Per/Polyfluoroalkyl substances production, applications and environmental impacts",
+        "volume": "341",
+        "author": "Dhore",
+        "year": "2021",
+        "journal-title": "Bioresour. Technol."
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "first-page": "724",
+        "DOI": "10.1093/humupd/dmaa018",
+        "article-title": "Perfluoroalkyl and polyfluoroalkyl substances (PFAS) and their effects on the ovary",
+        "volume": "26",
+        "author": "Ding",
+        "year": "2020",
+        "journal-title": "Hum. Reprod. Update"
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "first-page": "19",
+        "DOI": "10.1186/s12940-022-00958-5",
+        "article-title": "Consideration of pathways for immunotoxicity of per- and polyfluoroalkyl substances (PFAS)",
+        "volume": "22",
+        "author": "Ehrlich",
+        "year": "2023",
+        "journal-title": "Environ. Health"
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "first-page": "116136",
+        "DOI": "10.1016/j.taap.2022.116136",
+        "article-title": "In vitro activity of a panel of per- and polyfluoroalkyl substances (PFAS), fatty acids, and pharmaceuticals in peroxisome proliferator-activated receptor (PPAR) alpha, PPAR gamma, and estrogen receptor assays",
+        "volume": "449",
+        "author": "Evans",
+        "year": "2022",
+        "journal-title": "Toxicol. Appl. Pharmacol."
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "first-page": "eabg9065",
+        "DOI": "10.1126/science.abg9065",
+        "article-title": "Per- and polyfluoroalkyl substances in the environment",
+        "volume": "375",
+        "author": "Evich",
+        "year": "2022",
+        "journal-title": "Sci. (New York, NY)"
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "first-page": "368",
+        "DOI": "10.1093/toxsci/kfv197",
+        "article-title": "Chronic exposure of female mice to an environmental level of perfluorooctane sulfonate suppresses estrogen synthesis through reduced histone H3K14 acetylation of the StAR promoter leading to deficits in follicular development and ovulation",
+        "volume": "148",
+        "author": "Feng",
+        "year": "2015",
+        "journal-title": "Toxicol. Sci."
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "first-page": "W422",
+        "DOI": "10.1093/nar/gkae236",
+        "article-title": "ADMETlab 3.0: an updated comprehensive online ADMET prediction platform enhanced with broader coverage, improved performance, API functionality and decision support",
+        "volume": "52",
+        "author": "Fu",
+        "year": "2024",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "first-page": "pl1",
+        "DOI": "10.1126/scisignal.2004088",
+        "article-title": "Integrative analysis of complex cancer genomics and clinical profiles using the cBioPortal",
+        "volume": "6",
+        "author": "Gao",
+        "year": "2013",
+        "journal-title": "Sci. Signal."
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "first-page": "156",
+        "DOI": "10.1016/j.cmet.2018.09.002",
+        "article-title": "PML-regulated mitochondrial metabolism enhances chemosensitivity in human ovarian cancers",
+        "volume": "29",
+        "author": "Gentric",
+        "year": "2019",
+        "journal-title": "Cell Metab."
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "first-page": "108962",
+        "DOI": "10.1016/j.envint.2024.108962",
+        "article-title": "A novel molecular pathway of lipid accumulation in human hepatocytes caused by PFOA and PFOS",
+        "volume": "191",
+        "author": "Gou",
+        "year": "2024",
+        "journal-title": "Environ. Int."
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "first-page": "121167",
+        "DOI": "10.1016/j.envpol.2023.121167",
+        "article-title": "PFAS release from wastewater residuals as a function of composition and production practices",
+        "volume": "322",
+        "author": "Gravesen",
+        "year": "2023",
+        "journal-title": "Environ. Pollut."
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "first-page": "100625",
+        "DOI": "10.1016/j.xinn.2024.100625",
+        "article-title": "Integrated analysis of public datasets for the discovery and validation of survival-associated genes in solid tumors",
+        "volume": "5",
+        "author": "Győrffy",
+        "year": "2024",
+        "journal-title": "Innov. Camb. (Mass)"
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "first-page": "699",
+        "DOI": "10.1038/s41370-023-00579-1",
+        "article-title": "Associations between lifestyle factors and levels of per- and polyfluoroalkyl substances (PFASs), phthalates and parabens in follicular fluid in women undergoing fertility treatment",
+        "volume": "33",
+        "author": "Hallberg",
+        "year": "2023",
+        "journal-title": "J. Expo. Sci. Environ. Epidemiol."
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "first-page": "106819",
+        "DOI": "10.1016/j.envint.2021.106819",
+        "article-title": "Perfluoroalkyl substances (PFAS) in drinking water and risk for polycystic ovarian syndrome, uterine leiomyoma, and endometriosis: a Swedish cohort study",
+        "volume": "157",
+        "author": "Hammarstrand",
+        "year": "2021",
+        "journal-title": "Environ. Int."
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "first-page": "156323",
+        "DOI": "10.1016/j.scitotenv.2022.156323",
+        "article-title": "Per- and polyfluoroalkyl substances (PFAS) exposure in women seeking in vitro fertilization-embryo transfer treatment (IVF-ET) in China: blood-Follicular transfer and associations with IVF-ET outcomes",
+        "volume": "838",
+        "author": "Hong",
+        "year": "2022",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "publisher",
+        "first-page": "156323",
+        "DOI": "10.1097/JS9.0000000000002632",
+        "article-title": "Integrative in silico analysis of per- and polyfluorinated alkyl substances (PFAS)-associated molecular alterations in human cancers: a multi-cancer framework for predicting toxicogenomic disruption",
+        "volume": "111",
+        "author": "Hong",
+        "year": "2025",
+        "journal-title": "Int. J. Surg."
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "first-page": "114902",
+        "DOI": "10.1016/j.bcp.2021.114902",
+        "article-title": "Per- and polyfluoroalkyl substances target and alter human prostate stem-progenitor cells",
+        "volume": "197",
+        "author": "Hu",
+        "year": "2022",
+        "journal-title": "Biochem. Pharmacol."
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "first-page": "113431",
+        "DOI": "10.1016/j.envres.2022.113431",
+        "article-title": "Health-related toxicity of emerging per- and polyfluoroalkyl substances: Comparison to legacy PFOS and PFOA",
+        "volume": "212",
+        "author": "Jane",
+        "year": "2022",
+        "journal-title": "Environ. Res."
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "first-page": "22744",
+        "DOI": "10.1021/acs.est.4c08065",
+        "article-title": "Occurrence, transport, and full-scale adsorptive removal of PFAS in electroplating parks in China",
+        "volume": "58",
+        "author": "Jiang",
+        "year": "2024",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "B32",
+        "doi-asserted-by": "publisher",
+        "first-page": "197",
+        "DOI": "10.1038/nbt1284",
+        "article-title": "Relating protein pharmacology by ligand chemistry",
+        "volume": "25",
+        "author": "Keiser",
+        "year": "2007",
+        "journal-title": "Nat. Biotechnol."
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "first-page": "116929",
+        "DOI": "10.1016/j.envpol.2021.116929",
+        "article-title": "Epigenetic changes by per- and polyfluoroalkyl substances (PFAS)",
+        "volume": "279",
+        "author": "Kim",
+        "year": "2021",
+        "journal-title": "Environ. Poll."
+      },
+      {
+        "key": "B34",
+        "doi-asserted-by": "publisher",
+        "first-page": "D1516",
+        "DOI": "10.1093/nar/gkae1059",
+        "article-title": "PubChem 2025 update",
+        "volume": "53",
+        "author": "Kim",
+        "year": "2025",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "B35",
+        "doi-asserted-by": "publisher",
+        "first-page": "1239",
+        "DOI": "10.1038/s43018-023-00617-9",
+        "article-title": "Clinical and translational advances in ovarian cancer therapy",
+        "volume": "4",
+        "author": "Konstantinopoulos",
+        "year": "2023",
+        "journal-title": "Nat. Cancer"
+      },
+      {
+        "key": "B36",
+        "doi-asserted-by": "publisher",
+        "first-page": "23",
+        "DOI": "10.5334/aogh.4056",
+        "article-title": "The minderoo-monaco commission on plastics and human health",
+        "volume": "89",
+        "author": "Landrigan",
+        "year": "2023",
+        "journal-title": "Ann. Glob. Health"
+      },
+      {
+        "key": "B37",
+        "doi-asserted-by": "publisher",
+        "first-page": "117187",
+        "DOI": "10.1016/j.watres.2021.117187",
+        "article-title": "A review of the occurrence, transformation, and removal of poly- and perfluoroalkyl substances (PFAS) in wastewater treatment plants",
+        "volume": "199",
+        "author": "Lenka",
+        "year": "2021",
+        "journal-title": "Water Res."
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "first-page": "280",
+        "DOI": "10.3322/caac.21559",
+        "article-title": "Epithelial ovarian cancer: evolution of management in the era of precision medicine",
+        "volume": "69",
+        "author": "Lheureux",
+        "year": "2019",
+        "journal-title": "CA A Cancer J. Clin."
+      },
+      {
+        "key": "B39",
+        "doi-asserted-by": "publisher",
+        "first-page": "e37003",
+        "DOI": "10.1016/j.heliyon.2024.e37003",
+        "article-title": "Exploring the environmental contamination toxicity and potential carcinogenic pathways of perfluorinated and polyfluoroalkyl substances (PFAS): an integrated network toxicology and molecular docking strategy",
+        "volume": "10",
+        "author": "Lin",
+        "year": "2024",
+        "journal-title": "Heliyon"
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "first-page": "W159",
+        "DOI": "10.1093/nar/gkac394",
+        "article-title": "CB-Dock2: improved protein-ligand blind docking by integrating cavity detection, docking and homologous template fitting",
+        "volume": "50",
+        "author": "Liu",
+        "year": "2022",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "B41",
+        "doi-asserted-by": "publisher",
+        "first-page": "117268",
+        "DOI": "10.1016/j.ecoenv.2024.117268",
+        "article-title": "Exposure to perfluorodecanoic acid impairs follicular development via inducing granulosa cell necroptosis",
+        "volume": "287",
+        "author": "Liu",
+        "year": "2024",
+        "journal-title": "Ecotoxicol. Environ. Saf."
+      },
+      {
+        "key": "B42",
+        "doi-asserted-by": "publisher",
+        "first-page": "108577",
+        "DOI": "10.1016/j.envint.2024.108577",
+        "article-title": "Mixtures of per- and polyfluoroalkyl substances (PFAS) alter sperm methylation and long-term reprogramming of offspring liver and fat transcriptome",
+        "volume": "186",
+        "author": "Maxwell",
+        "year": "2024",
+        "journal-title": "Environ. Int."
+      },
+      {
+        "key": "B43",
+        "doi-asserted-by": "publisher",
+        "first-page": "588",
+        "DOI": "10.1086/514346",
+        "article-title": "Mendelian inheritance in man and its online version, OMIM",
+        "volume": "80",
+        "author": "McKusick",
+        "year": "2007",
+        "journal-title": "Am. J. Hum. Genet."
+      },
+      {
+        "key": "B44",
+        "doi-asserted-by": "publisher",
+        "first-page": "136",
+        "DOI": "10.1016/j.tips.2021.11.004",
+        "article-title": "Network pharmacology: curing causal mechanisms instead of treating symptoms",
+        "volume": "43",
+        "author": "Nogales",
+        "year": "2022",
+        "journal-title": "Trends Pharmacol. Sci."
+      },
+      {
+        "key": "B45",
+        "doi-asserted-by": "publisher",
+        "first-page": "eabc0497",
+        "DOI": "10.1126/scitranslmed.abc0497",
+        "article-title": "Targeting integrated epigenetic and metabolic pathways in lethal childhood PFA ependymomas",
+        "volume": "13",
+        "author": "Panwalkar",
+        "year": "2021",
+        "journal-title": "Sci. Transl. Med."
+      },
+      {
+        "key": "B46",
+        "doi-asserted-by": "publisher",
+        "first-page": "57024",
+        "DOI": "10.1289/ehp14876",
+        "article-title": "Exposure to Long- and short-chain Per- and polyfluoroalkyl substances in mice and ovarian-related outcomes: an in vivo and in vitro study",
+        "volume": "133",
+        "author": "Pattarawat",
+        "year": "2025",
+        "journal-title": "Environ. Health Perspec."
+      },
+      {
+        "key": "B47",
+        "doi-asserted-by": "publisher",
+        "first-page": "1274",
+        "DOI": "10.1016/s1470-2045(17)30469-2",
+        "article-title": "Olaparib tablets as maintenance therapy in patients with platinum-sensitive, relapsed ovarian cancer and a BRCA1/2 mutation (SOLO2/ENGOT-Ov21): a double-blind, randomised, placebo-controlled, phase 3 trial",
+        "volume": "18",
+        "author": "Pujade-Lauraine",
+        "year": "2017",
+        "journal-title": "Lancet Oncol."
+      },
+      {
+        "key": "B48",
+        "first-page": "4818",
+        "article-title": "Canada eyes limits on nonstick chemicals",
+        "volume": "40",
+        "author": "Renner",
+        "year": "2006",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "B49",
+        "doi-asserted-by": "publisher",
+        "first-page": "207",
+        "DOI": "10.1016/j.semcancer.2022.03.027",
+        "article-title": "Molecular, cellular and systemic aspects of epithelial ovarian cancer and its tumor microenvironment",
+        "volume": "86",
+        "author": "Schoutrop",
+        "year": "2022",
+        "journal-title": "Semin. Cancer Biol."
+      },
+      {
+        "key": "B50",
+        "doi-asserted-by": "publisher",
+        "first-page": "2498",
+        "DOI": "10.1101/gr.1239303",
+        "article-title": "Cytoscape: a software environment for integrated models of biomolecular interaction networks",
+        "volume": "13",
+        "author": "Shannon",
+        "year": "2003",
+        "journal-title": "Genome Res."
+      },
+      {
+        "key": "B51",
+        "doi-asserted-by": "publisher",
+        "first-page": "W216",
+        "DOI": "10.1093/nar/gkac194",
+        "article-title": "DAVID: a web server for functional enrichment analysis and functional annotation of gene lists (2021 update)",
+        "volume": "50",
+        "author": "Sherman",
+        "year": "2022",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "B52",
+        "doi-asserted-by": "publisher",
+        "first-page": "166",
+        "DOI": "10.3390/ijms26010166",
+        "article-title": "Epigenetic modulation of estrogen receptor signaling in ovarian cancer",
+        "volume": "26",
+        "author": "Skrzypczak",
+        "year": "2024",
+        "journal-title": "Int. J. Mol. Sci,"
+      },
+      {
+        "key": "B53",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1002/cpbi.5",
+        "article-title": "The GeneCards suite: from gene data mining to disease genome sequence analyses",
+        "volume": "54",
+        "author": "Stelzer",
+        "year": "2016",
+        "journal-title": "Curr. Protoc. Bioinform."
+      },
+      {
+        "key": "B54",
+        "doi-asserted-by": "publisher",
+        "first-page": "D638",
+        "DOI": "10.1093/nar/gkac1000",
+        "article-title": "The STRING database in 2023: protein-protein association networks and functional enrichment analyses for any sequenced genome of interest",
+        "volume": "51",
+        "author": "Szklarczyk",
+        "year": "2023",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "B55",
+        "doi-asserted-by": "publisher",
+        "first-page": "W98",
+        "DOI": "10.1093/nar/gkx247",
+        "article-title": "GEPIA: a web server for cancer and normal gene expression profiling and interactive analyses",
+        "volume": "45",
+        "author": "Tang",
+        "year": "2017",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "B56",
+        "doi-asserted-by": "publisher",
+        "first-page": "27",
+        "DOI": "10.1186/s13046-023-02930-8",
+        "article-title": "HDAC1/2 control mesothelium/ovarian cancer adhesive interactions impacting on Talin-1-α5β1-integrin-mediated actin cytoskeleton and extracellular matrix protein remodeling",
+        "volume": "43",
+        "author": "Terri",
+        "year": "2024",
+        "journal-title": "J. Exp. Clin. Cancer Res."
+      },
+      {
+        "key": "B57",
+        "doi-asserted-by": "crossref",
+        "first-page": "D609",
+        "DOI": "10.1093/nar/gkae1010",
+        "article-title": "The universal protein knowledgebase in 2025",
+        "volume": "53",
+        "year": "2025",
+        "journal-title": "Nucleic Acids Res."
+      },
+      {
+        "key": "B58",
+        "doi-asserted-by": "publisher",
+        "first-page": "3794",
+        "DOI": "10.1021/acs.est.2c09315",
+        "article-title": "Verification of in vivo estrogenic activity for four Per- and polyfluoroalkyl substances (PFAS) identified as estrogen receptor agonists via new approach methodologies",
+        "volume": "57",
+        "author": "Villeneuve",
+        "year": "2023",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "B59",
+        "doi-asserted-by": "publisher",
+        "first-page": "516",
+        "DOI": "10.1016/j.immuni.2023.01.011",
+        "article-title": "Oxidative phosphorylation selectively orchestrates tissue macrophage homeostasis",
+        "volume": "56",
+        "author": "Wculek",
+        "year": "2023",
+        "journal-title": "Immunity"
+      },
+      {
+        "key": "B60",
+        "doi-asserted-by": "publisher",
+        "first-page": "127007",
+        "DOI": "10.1289/ehp13174",
+        "article-title": "Case-cohort study of the association between PFAS and selected cancers among participants in the American cancer society's cancer prevention study II LifeLink cohort",
+        "volume": "131",
+        "author": "Winquist",
+        "year": "2023",
+        "journal-title": "Environ. Health Perspect."
+      },
+      {
+        "key": "B61",
+        "doi-asserted-by": "publisher",
+        "first-page": "3768",
+        "DOI": "10.3390/nu16213768",
+        "article-title": "Effects of licorice functional components intakes on blood pressure: a systematic review with meta-analysis and NETWORK toxicology",
+        "volume": "16",
+        "author": "Wu",
+        "year": "2024",
+        "journal-title": "Nutrients"
+      },
+      {
+        "key": "B62",
+        "doi-asserted-by": "publisher",
+        "first-page": "171883",
+        "DOI": "10.1016/j.scitotenv.2024.171883",
+        "article-title": "A review of the occurrence and microbial transformation of per- and polyfluoroalkyl substances (PFAS) in aqueous film-forming foam (AFFF)-impacted environments",
+        "volume": "927",
+        "author": "Yan",
+        "year": "2024",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B63",
+        "doi-asserted-by": "publisher",
+        "first-page": "108138",
+        "DOI": "10.1016/j.envint.2023.108138",
+        "article-title": "PPARα/ACOX1 as a novel target for hepatic lipid metabolism disorders induced by per- and polyfluoroalkyl substances: an integrated approach",
+        "volume": "178",
+        "author": "Yang",
+        "year": "2023",
+        "journal-title": "Environ. Int."
+      },
+      {
+        "key": "B64",
+        "doi-asserted-by": "publisher",
+        "first-page": "413",
+        "DOI": "10.1007/s10822-016-9915-2",
+        "article-title": "TargetNet: a web service for predicting potential drug-target interaction profiling via multi-target SAR models",
+        "volume": "30",
+        "author": "Yao",
+        "year": "2016",
+        "journal-title": "J. Comput.-Aided Mol. Des."
+      },
+      {
+        "key": "B65",
+        "doi-asserted-by": "publisher",
+        "first-page": "117188",
+        "DOI": "10.1016/j.envres.2023.117188",
+        "article-title": "Association between per- and polyfluoroalkyl substances (PFAS) and depression in U.S. adults: a cross-sectional study of NHANES from 2005 to 2018",
+        "volume": "238",
+        "author": "Yi",
+        "year": "2023",
+        "journal-title": "Environ. Res."
+      },
+      {
+        "key": "B66",
+        "doi-asserted-by": "publisher",
+        "first-page": "47010",
+        "DOI": "10.1289/ehp8054",
+        "article-title": "Assessing indoor dust interference with human nuclear hormone receptors in cell-based luciferase reporter assays",
+        "volume": "129",
+        "author": "Young",
+        "year": "2021",
+        "journal-title": "Environ. Health Perspect."
+      },
+      {
+        "key": "B67",
+        "doi-asserted-by": "publisher",
+        "first-page": "168881",
+        "DOI": "10.1016/j.scitotenv.2023.168881",
+        "article-title": "Removing polyfluoroalkyl substances (PFAS) from wastewater with mixed matrix membranes",
+        "volume": "912",
+        "author": "Zahmatkesh",
+        "year": "2024",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B68",
+        "doi-asserted-by": "publisher",
+        "first-page": "e449",
+        "DOI": "10.1016/s2542-5196(23)00088-8",
+        "article-title": "Folate concentrations and serum perfluoroalkyl and polyfluoroalkyl substance concentrations in adolescents and adults in the USA (national health and nutrition examination study 2003-16): an observational study",
+        "volume": "7",
+        "author": "Zhang",
+        "year": "2023",
+        "journal-title": "Lancet Planet. Health"
+      },
+      {
+        "key": "B69",
+        "doi-asserted-by": "publisher",
+        "first-page": "176158",
+        "DOI": "10.1016/j.scitotenv.2024.176158",
+        "article-title": "Per- and polyfluoroalkyl substances (PFAS) and cancer: detection methodologies, epidemiological insights, potential carcinogenic mechanisms, and future perspectives",
+        "volume": "953",
+        "author": "Zheng",
+        "year": "2024",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B70",
+        "doi-asserted-by": "publisher",
+        "first-page": "116907",
+        "DOI": "10.1016/j.ecoenv.2024.116907",
+        "article-title": "Environmentally relevant concentration PFNA promotes degradation of SMAD7 to drive progression of ovarian cancer via TGF-β/SMADs signaling pathway",
+        "volume": "284",
+        "author": "Zhong",
+        "year": "2024",
+        "journal-title": "Ecotoxicol. Environ. Saf."
+      }
+    ],
+    "container-title": [
+      "Frontiers in Pharmacology"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fphar.2026.1905013/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          28
+        ]
+      ],
+      "date-time": "2026-08-28T12:53:28Z",
+      "timestamp": 1787921608000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fphar.2026.1905013/full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          28
+        ]
+      ]
+    },
+    "references-count": 70,
+    "alternative-id": [
+      "10.3389/fphar.2026.1905013"
+    ],
+    "URL": "https://doi.org/10.3389/fphar.2026.1905013",
+    "relation": {},
+    "ISSN": [
+      "1663-9812"
+    ],
+    "issn-type": [
+      {
+        "value": "1663-9812",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          28
+        ]
+      ]
+    },
+    "article-number": "1905013"
+  }
+}

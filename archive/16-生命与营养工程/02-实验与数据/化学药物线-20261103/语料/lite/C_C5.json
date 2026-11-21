@@ -1,0 +1,1841 @@
+{
+  "query_id": "C5",
+  "group": "C",
+  "query": "metformin AND cancer AND mortality",
+  "hitCount": 24748,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:32.350009+00:00",
+  "results": [
+    {
+      "id": "42939546",
+      "source": "MED",
+      "pmid": "42939546",
+      "pmcid": "PMC13703335",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13703335"
+        ]
+      },
+      "doi": "10.3390/cimb48101008",
+      "title": "Metformin, SGLT2 Inhibitors, and Intermittent Fasting: Convergent Pathways to Healthspan Extension, Cardiovascular Longevity, and Cancer Prevention-A Narrative Review.",
+      "authorString": "Cozma D, Tudoran C, Vacarescu C.",
+      "journalTitle": "Curr Issues Mol Biol",
+      "issue": "10",
+      "journalVolume": "48",
+      "pubYear": "2026",
+      "journalIssn": "1467-3037; 1467-3045; ",
+      "pageInfo": "1008",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-30",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42942021",
+      "source": "MED",
+      "pmid": "42942021",
+      "pmcid": "PMC13705413",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13705413"
+        ]
+      },
+      "doi": "10.3390/ijms27209251",
+      "title": "GLP-1 Receptor Agonist Therapy in Patients with Cancer: A Review of Clinical Outcomes.",
+      "authorString": "Andronescu AC, Ciumărnean L, Orășan OH, Cozma A, Leah NV, Lucaciu RL, Hangan AC, Procopciuc LM.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "20",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "9251",
+      "pubType": "systematic review; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-18",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42528302",
+      "source": "MED",
+      "pmid": "42528302",
+      "pmcid": "PMC13420294",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13420294"
+        ]
+      },
+      "doi": "10.1002/cnr2.70631",
+      "title": "Impact of Metformin Use on Clinical and Pathological Outcomes in Breast Cancer Patients With Type 2 Diabetes.",
+      "authorString": "Bahadoran E, Mirzadeh M, Jafari M, Zafari Y, Moghbelinejad S.",
+      "journalTitle": "Cancer Rep (Hoboken)",
+      "issue": "8",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2573-8348",
+      "pageInfo": "e70631",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-01",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "PMC13635304",
+      "source": "PMC",
+      "pmcid": "PMC13635304",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13635304"
+        ]
+      },
+      "title": "Early insulin combined with metformin therapy and long-term risks of cardiovascular disease, kidney disease, and cancer in newly diagnosed type 2 diabetes: a real-world cohort study in China",
+      "authorString": "Yan L, Luo Q, Wang J, Zhang S, Xu R, Lv M, Su P, Zhang S, Ji X, Zhu G, Xue F.",
+      "journalTitle": "Front Endocrinol (Lausanne)",
+      "journalVolume": "17",
+      "journalIssn": "1664-2392",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-06",
+      "firstIndexDate": "2026-10-06"
+    },
+    {
+      "id": "42939624",
+      "source": "MED",
+      "pmid": "42939624",
+      "pmcid": "PMC13703320",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13703320"
+        ]
+      },
+      "doi": "10.3390/cimb48101086",
+      "title": "Diabetes and Cancer-Pathophysiology and Clinical Implications: A Systematic Review.",
+      "authorString": "Hasan Z, Moni ZA, Kamal T, Hossain MM, Kabir Y, Islam F.",
+      "journalTitle": "Curr Issues Mol Biol",
+      "issue": "10",
+      "journalVolume": "48",
+      "pubYear": "2026",
+      "journalIssn": "1467-3037; 1467-3045; ",
+      "pageInfo": "1086",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-20",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42668074",
+      "source": "MED",
+      "pmid": "42668074",
+      "doi": "10.1016/j.phrs.2026.108420",
+      "title": "Heterogeneous associations of antidiabetic medications with cancer prognosis: Evidence from 61 studies with over 1.1 million patients.",
+      "authorString": "Luo P, Ding Y, Huang W, Ma W, Lan X, Zhang J, Yang X, Lin A.",
+      "journalTitle": "Pharmacol Res",
+      "journalVolume": "232",
+      "pubYear": "2026",
+      "journalIssn": "1043-6618; 1096-1186; ",
+      "pageInfo": "108420",
+      "pubType": "meta-analysis; systematic review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-29",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42310907",
+      "source": "MED",
+      "pmid": "42310907",
+      "doi": "10.1177/15491684261462413",
+      "title": "Impact of Metformin on Healthspan-Related Outcomes and Incidence of Diseases of Aging in People with Type 2 Diabetes Mellitus: A Systematic Review.",
+      "authorString": "Chan AHY, Beyene K, Lai B, Kim S, Wu I, Al-Jawadi R, Wu M, Foot H, Cheung G, Walker X, Barak Y.",
+      "journalTitle": "Rejuvenation Res",
+      "pubYear": "2026",
+      "journalIssn": "1549-1684; 1557-8577; ",
+      "pageInfo": "15491684261462413",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-17",
+      "firstIndexDate": "2026-06-18"
+    },
+    {
+      "id": "42553087",
+      "source": "MED",
+      "pmid": "42553087",
+      "pmcid": "PMC13433303",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13433303"
+        ]
+      },
+      "doi": "10.3389/fimmu.2026.1864104",
+      "title": "The central role of IL-6 in the differential effects of GLP-1 receptor agonists and metformin across multiple health conditions.",
+      "authorString": "Elkoshi Z.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-3224",
+      "pageInfo": "1864104",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-21",
+      "firstIndexDate": "2026-08-05"
+    },
+    {
+      "id": "42753068",
+      "source": "MED",
+      "pmid": "42753068",
+      "doi": "10.1007/s12011-026-05311-2",
+      "title": "Comparative Effects of Metformin, Boric Acid, and Lithium Chloride on Oxidative Stress-Mediated Cytotoxicity in HepG2 Hepatocarcinoma Cells.",
+      "authorString": "Biltekin B, Değirmencioğlu S, Misirlioglu N, Uzun H.",
+      "journalTitle": "Biol Trace Elem Res",
+      "pubYear": "2026",
+      "journalIssn": "0163-4984; 1559-0720; ",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-17",
+      "firstIndexDate": "2026-09-18"
+    },
+    {
+      "id": "PMC13637778",
+      "source": "PMC",
+      "pmcid": "PMC13637778",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13637778"
+        ]
+      },
+      "title": "The safety and efficacy of metformin on metabolic syndrome parameters in prostate cancer patients receiving androgen deprivation therapy: A systematic review and meta-analysis",
+      "authorString": "Alharran A, Alsaid M, Hussain A, Aladwani F, Alaradi H.",
+      "journalTitle": "Arab Journal of Urology",
+      "issue": "4",
+      "journalVolume": "24",
+      "journalIssn": "2090-598x",
+      "pageInfo": "356-373",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-06",
+      "firstIndexDate": "2026-10-06"
+    },
+    {
+      "id": "42584814",
+      "source": "MED",
+      "pmid": "42584814",
+      "doi": "10.1007/s12072-026-11138-9",
+      "title": "Comparative risk of hepatocellular carcinoma and mortality among initiators of GLP-1 receptor agonists versus other glucose-lowering therapies: a target trial emulation.",
+      "authorString": "Hernández-Pérez JG, Abdelgadir O, Jang S, Ernest DK, Zhang X, Shah D, Hong AS, Almandoz JP, Cowell LG, Messiah SE, Lopez DS.",
+      "journalTitle": "Hepatol Int",
+      "pubYear": "2026",
+      "journalIssn": "1936-0533; 1936-0541; ",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-12",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "42581008",
+      "source": "MED",
+      "pmid": "42581008",
+      "pmcid": "PMC13461527",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13461527"
+        ]
+      },
+      "doi": "10.1002/cnr2.70651",
+      "title": "Association Between Metformin Use and Risk of Lung Cancer in Patients With Type 2 Diabetes: A Systematic Review and Meta-Analysis.",
+      "authorString": "Karimi M, Hooshmand F, Mohammadian K, Pourfaraji SMA, Mortezazadeh M.",
+      "journalTitle": "Cancer Rep (Hoboken)",
+      "issue": "8",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2573-8348",
+      "pageInfo": "e70651",
+      "pubType": "meta-analysis; systematic review; review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-01",
+      "firstIndexDate": "2026-08-13"
+    },
+    {
+      "id": "42522833",
+      "source": "MED",
+      "pmid": "42522833",
+      "doi": "10.31557/apjcp.2026.27.7.2705",
+      "title": "The Synergistic Effects of Metformin with Pitavstatin Against MDA-MB-468 Breast Cancer Cells.",
+      "authorString": "Alnahhal NNA, Adris MA, Aliwaini SH, Altaher AM.",
+      "journalTitle": "Asian Pac J Cancer Prev",
+      "issue": "7",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1513-7368; 2476-762x; ",
+      "pageInfo": "2705-2712",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42948351",
+      "source": "MED",
+      "pmid": "42948351",
+      "pmcid": "PMC13711023",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13711023"
+        ]
+      },
+      "doi": "10.1155/sci5/9372425",
+      "title": "Metformin Attenuates Glucose-Driven Hepatocellular Carcinoma Progression by Targeting GPD2-Mediated Metabolic Plasticity.",
+      "authorString": "Siripongsampan S, Kateyai M, Piriyapairoje K, Hannam J, Saengboonmee C, Ittiudomrak T, Jaroenporn S, Pattaradilokrat S, Phoomak C.",
+      "journalTitle": "Scientifica (Cairo)",
+      "journalVolume": "2026",
+      "pubYear": "2026",
+      "journalIssn": "2090-908x",
+      "pageInfo": "9372425",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-27",
+      "firstIndexDate": "2026-10-29"
+    },
+    {
+      "id": "42904151",
+      "source": "MED",
+      "pmid": "42904151",
+      "pmcid": "PMC13682292",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13682292"
+        ]
+      },
+      "doi": "10.2147/cmar.s633796",
+      "title": "Molecular Mechanisms and Signaling Pathways Underlying the Synergistic Effect of Metformin and Paclitaxel in Preclinical Cancer Models: A Systematic Review.",
+      "authorString": "Omidi Sarajar B, Khederzadeh A, Payoon A, Zarei MH, Jafarzadeh E.",
+      "journalTitle": "Cancer Manag Res",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "1179-1322",
+      "pageInfo": "633796",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-16",
+      "firstIndexDate": "2026-10-23"
+    },
+    {
+      "id": "42419810",
+      "source": "MED",
+      "pmid": "42419810",
+      "pmcid": "PMC13343780",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13343780"
+        ]
+      },
+      "doi": "10.3121/cmr.2026.2111",
+      "title": "Longevity.",
+      "authorString": "Rezkalla SH, Kloner RA.",
+      "journalTitle": "Clin Med Res",
+      "issue": "2",
+      "journalVolume": "24",
+      "pubYear": "2026",
+      "journalIssn": "1539-4182; 1554-6179; ",
+      "pageInfo": "80-86",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-07-09"
+    },
+    {
+      "id": "42710020",
+      "source": "MED",
+      "pmid": "42710020",
+      "doi": "10.1097/fjc.0000000000001878",
+      "title": "Efficacy of Cardioprotective Drugs in Cancer Patients Receiving Anthracyclines: A Pairwise Meta-Analysis and Network Meta-Analysis.",
+      "authorString": "Maliha M, Satish V, Kumar SS, Nandy S, Kharawala A, Gonzales-Uribe A, Li WF, Kaushik S, Gongora CA, Pu M, Slipczuk LN, Garcia MJ, Rodriguez CJ, Tiwari N, Zhang L.",
+      "journalTitle": "J Cardiovasc Pharmacol",
+      "pubYear": "2026",
+      "journalIssn": "0160-2446; 1533-4023; ",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-08",
+      "firstIndexDate": "2026-09-09"
+    },
+    {
+      "id": "41482652",
+      "source": "MED",
+      "pmid": "41482652",
+      "pmcid": "PMC13183429",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13183429"
+        ]
+      },
+      "doi": "10.1210/clinem/dgaf703",
+      "title": "GLP-1 receptor agonists in patients with cancer are associated with reduced all-cause mortality and hospitalization.",
+      "authorString": "Mahadevan A, Vosooghi A, Arora JS, Kumar RS, Singh G, Tsai KK, Quandt Z.",
+      "journalTitle": "J Clin Endocrinol Metab",
+      "issue": "6",
+      "journalVolume": "111",
+      "pubYear": "2026",
+      "journalIssn": "0021-972x; 1945-7197; ",
+      "pageInfo": "1604-1612",
+      "pubType": "comparative study; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 10,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-01-04"
+    },
+    {
+      "id": "42625611",
+      "source": "MED",
+      "pmid": "42625611",
+      "pmcid": "PMC13489918",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13489918"
+        ]
+      },
+      "doi": "10.3389/fonc.2026.1903503",
+      "title": "Distinct prognostic impact of diabetes subtypes, metformin use, and glycemic control in pancreatic cancer: a systematic review and meta-analysis of cohort studies.",
+      "authorString": "Li G, Peng Z, Wang Y, Zhu Z, Huang S, Yu J, Huang H.",
+      "journalTitle": "Front Oncol",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2234-943x",
+      "pageInfo": "1903503",
+      "pubType": "systematic review; systematic-review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-06",
+      "firstIndexDate": "2026-08-22"
+    },
+    {
+      "id": "42885719",
+      "source": "MED",
+      "pmid": "42885719",
+      "pmcid": "PMC13718336",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13718336"
+        ]
+      },
+      "doi": "10.18632/oncotarget.28921",
+      "title": "WIN-MTB-2024002 - WIN International Molecular Tumor Board: A 52-year-old female with unmeasurable Stage IIIc colon cancer.",
+      "authorString": "El-Deiry WS, Hernando-Calvo A, Magidi S, Bresson C, Ikeda S, Abdel-Razeq H, Oberoi A, Izquierdo SA, Hu Z, Meissner T, Elsey R, Al-Omari A, Wunder F, Kurzrock R.",
+      "journalTitle": "Oncotarget",
+      "issue": "1",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1949-2553",
+      "pageInfo": "477-488",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "42556070",
+      "source": "MED",
+      "pmid": "42556070",
+      "doi": "10.1016/j.ctrv.2026.103200",
+      "title": "Pharmacological prevention of second primary cancers: From chemoprevention to precision cancer interception.",
+      "authorString": "Wespiser M, Rochefort P, Gauduchon T, Coste C, Caux C, Ray-Coquard I, Perol M, Blay JY, Heudel PE.",
+      "journalTitle": "Cancer Treat Rev",
+      "journalVolume": "149",
+      "pubYear": "2026",
+      "journalIssn": "0305-7372; 1532-1967; ",
+      "pageInfo": "103200",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-03",
+      "firstIndexDate": "2026-08-07"
+    },
+    {
+      "id": "42047898",
+      "source": "MED",
+      "pmid": "42047898",
+      "pmcid": "PMC13253901",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13253901"
+        ]
+      },
+      "doi": "10.1007/s12672-026-05097-8",
+      "title": "Metformin in prostate cancer: a context-dependent antitumour strategy driven by metabolic vulnerability and signalling network.",
+      "authorString": "Yan L, Chen D, Wu T, Zhao J, Xu X, Xu W, Zhang H, Xiao M.",
+      "journalTitle": "Discov Oncol",
+      "issue": "1",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2730-6011",
+      "pageInfo": "891",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-28",
+      "firstIndexDate": "2026-04-28"
+    },
+    {
+      "id": "42010803",
+      "source": "MED",
+      "pmid": "42010803",
+      "pmcid": "PMC13096582",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13096582"
+        ]
+      },
+      "doi": "10.1002/prp2.70257",
+      "title": "Metformin as a Multifaceted Therapeutic Agent for Gastrointestinal Diseases: Mechanisms, Clinical Efficacy, and Future Directions.",
+      "authorString": "Hosseini SA, Valadbeigi H, Khoshnazar SM, Khoshnood S, Falahi S, Rezaee D, Hematian A, Haddadi MH.",
+      "journalTitle": "Pharmacol Res Perspect",
+      "issue": "3",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2052-1707",
+      "pageInfo": "e70257",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-04-21"
+    },
+    {
+      "id": "42185920",
+      "source": "MED",
+      "pmid": "42185920",
+      "pmcid": "PMC13374177",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13374177"
+        ]
+      },
+      "doi": "10.1186/s12943-026-02693-8",
+      "title": "A sweet danger: the silent link between hyperinsulinemia and gastric cancer.",
+      "authorString": "Laurenziello P, Luongo M, Lospinoso Severini F, Russi S, Falco G, Calabrese C, Laurino S.",
+      "journalTitle": "Mol Cancer",
+      "issue": "1",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1476-4598",
+      "pageInfo": "176",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-25",
+      "firstIndexDate": "2026-05-26"
+    },
+    {
+      "id": "42756970",
+      "source": "MED",
+      "pmid": "42756970",
+      "pmcid": "PMC13583770",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13583770"
+        ]
+      },
+      "doi": "10.1016/j.ctro.2026.101279",
+      "title": "Tumour hypoxia in clinical oncology: imaging, therapeutic strategies, and translational challenges.",
+      "authorString": "Lin X, Murchú MÓ, Sheridan L, Menon S, Hanna GG, Kelly HM, Simpson CR.",
+      "journalTitle": "Clin Transl Radiat Oncol",
+      "journalVolume": "62",
+      "pubYear": "2027",
+      "journalIssn": "2405-6308",
+      "pageInfo": "101279",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-07",
+      "firstIndexDate": "2026-09-19"
+    },
+    {
+      "id": "42470472",
+      "source": "MED",
+      "pmid": "42470472",
+      "doi": "10.1007/s00894-026-06857-7",
+      "title": "Network toxicology-driven repurposing of metformin for hepatocellular carcinoma: insights from molecular docking and dynamics simulations.",
+      "authorString": "Wenqian G, Wuguang Z, Kaifeng Z, Zuguo Y.",
+      "journalTitle": "J Mol Model",
+      "issue": "8",
+      "journalVolume": "32",
+      "pubYear": "2026",
+      "journalIssn": "1610-2940; 0948-5023; ",
+      "pageInfo": "276",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-18",
+      "firstIndexDate": "2026-07-21"
+    },
+    {
+      "id": "42081011",
+      "source": "MED",
+      "pmid": "42081011",
+      "pmcid": "PMC13139237",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13139237"
+        ]
+      },
+      "doi": "10.1007/s12020-026-04644-1",
+      "title": "From diabetes to tumor growth: unravelling the impact of glucose-lowering therapies.",
+      "authorString": "Modica R, Liccardi A, Zamponi V, Gagliardi A, Nistor A, Veroi G, Arecco A, Faggiano A, Colao A.",
+      "journalTitle": "Endocrine",
+      "issue": "1",
+      "journalVolume": "91",
+      "pubYear": "2026",
+      "journalIssn": "1355-008x; 1559-0100; ",
+      "pageInfo": "176",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-04",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "42113513",
+      "source": "MED",
+      "pmid": "42113513",
+      "pmcid": "PMC13162077",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13162077"
+        ]
+      },
+      "doi": "10.1001/jamanetworkopen.2026.12133",
+      "title": "Survival and Recurrence With GLP-1 Receptor Agonists in Breast Cancer.",
+      "authorString": "Tatum KL, Dahman B, Stevenson A, Williford SE, Cassel JB, Zhao H, Shen J, McGuire KP, Diala O, Oladimeji R, Hundley WG, Fuemmeler BF.",
+      "journalTitle": "JAMA Netw Open",
+      "issue": "5",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2574-3805",
+      "pageInfo": "e2612133",
+      "pubType": "research-article; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "42737424",
+      "source": "MED",
+      "pmid": "42737424",
+      "pmcid": "PMC13565775",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13565775"
+        ]
+      },
+      "doi": "10.3390/ijms27177521",
+      "title": "Geroprotective Effects of Drugs Modulating Metabolic Pathways: Perspectives of Pharmacology in Anti-Aging Therapy.",
+      "authorString": "Grycan M, Zyśk R, Grycan G, Jakiel G, Dudek A, Gromadzka G.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "17",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "7521",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-22",
+      "firstIndexDate": "2026-09-15"
+    },
+    {
+      "id": "42724784",
+      "source": "MED",
+      "pmid": "42724784",
+      "pmcid": "PMC13559647",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13559647"
+        ]
+      },
+      "doi": "10.21037/tcr-2026-2060",
+      "title": "Incidental use of angiotensin system inhibitors during neoadjuvant therapy for esophageal adenocarcinoma: an analysis of survival.",
+      "authorString": "Lanuti M.",
+      "journalTitle": "Transl Cancer Res",
+      "issue": "8",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2218-676x; 2219-6803; ",
+      "pageInfo": "672",
+      "pubType": "letter; comment",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-27",
+      "firstIndexDate": "2026-09-12"
+    },
+    {
+      "id": "42573030",
+      "source": "MED",
+      "pmid": "42573030",
+      "pmcid": "PMC13455057",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13455057"
+        ]
+      },
+      "doi": "10.1002/14651858.cd016380",
+      "title": "Glucagon-like peptide-1 receptor agonist-based regimens compared with metformin-based regimens for preventing cardiovascular disease in adults with type 2 diabetes mellitus.",
+      "authorString": "Ahmed S, McCollin SP, Martí-Carvajal A, Akus M, Baron DW, Abdul Razzaq S, Scudder P, Honigsberg EJ, Nasir S, Peng K, Jahanfar S.",
+      "journalTitle": "Cochrane Database Syst Rev",
+      "journalVolume": "8",
+      "pubYear": "2026",
+      "journalIssn": "1469-493x",
+      "pageInfo": "CD016380",
+      "pubType": "systematic-review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-10",
+      "firstIndexDate": "2026-08-13"
+    },
+    {
+      "id": "42415299",
+      "source": "MED",
+      "pmid": "42415299",
+      "pmcid": "PMC13341644",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13341644"
+        ]
+      },
+      "doi": "10.1002/edm2.70276",
+      "title": "The Impact of Diabetes on Breast Cancer Development in Women: An Integrative Review.",
+      "authorString": "Jahan I, Harun-Ur-Rashid M, Hossain I, Zohora FT.",
+      "journalTitle": "Endocrinol Diabetes Metab",
+      "issue": "4",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2398-9238",
+      "pageInfo": "e70276",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-08"
+    },
+    {
+      "id": "42953363",
+      "source": "MED",
+      "pmid": "42953363",
+      "pmcid": "PMC13715389",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13715389"
+        ]
+      },
+      "doi": "10.3389/fimmu.2026.1974232",
+      "title": "New strategies for the treatment of tuberculosis: research progress and clinical translation in immune modulation and inflammation control.",
+      "authorString": "Du S, Zhen L, Zhou J, Deng D.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-3224",
+      "pageInfo": "1974232",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-14",
+      "firstIndexDate": "2026-10-30"
+    },
+    {
+      "id": "42681829",
+      "source": "MED",
+      "pmid": "42681829",
+      "pmcid": "PMC13646365",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13646365"
+        ]
+      },
+      "doi": "10.1111/dom.71261",
+      "title": "Initiation of SGLT2 Inhibitors Versus DPP-4 Inhibitors in Metformin Users and Risk of Incident Depression: A Nationwide, Claims-Based Active-Comparator New-User Study.",
+      "authorString": "Park S, Jeong S, Kim HJ, Lee DH, Choi SJ, Park SM.",
+      "journalTitle": "Diabetes Obes Metab",
+      "issue": "11",
+      "journalVolume": "28",
+      "pubYear": "2026",
+      "journalIssn": "1462-8902; 1463-1326; ",
+      "pageInfo": "10765-10779",
+      "pubType": "comparative study; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-09-02"
+    },
+    {
+      "id": "42376130",
+      "source": "MED",
+      "pmid": "42376130",
+      "pmcid": "PMC13313748",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13313748"
+        ]
+      },
+      "doi": "10.1097/xce.0000000000000360",
+      "title": "Effect of glucagon-like peptide-1 receptor agonists on major adverse cardiovascular events in adults with type 2 diabetes and established atherosclerotic cardiovascular disease: systematic review and meta-analysis of randomised trials.",
+      "authorString": "Montenegro-Avila A, Montenegro-Cantillo A, Fuentes J, Cifuentes J, Giraldo-Gonzalez GC.",
+      "journalTitle": "Cardiovasc Endocrinol Metab",
+      "issue": "3",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2574-0954",
+      "pageInfo": "e00360",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-26",
+      "firstIndexDate": "2026-07-02"
+    },
+    {
+      "id": "42565010",
+      "source": "MED",
+      "pmid": "42565010",
+      "pmcid": "PMC13445956",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13445956"
+        ]
+      },
+      "doi": "10.7759/cureus.114008",
+      "title": "Glucagon-Like Peptide-1 (GLP-1)-Based Therapies and Hematological Malignancies: A Narrative Review of Current and Emerging Evidence.",
+      "authorString": "Krishnan Nair H.",
+      "journalTitle": "Cureus",
+      "issue": "8",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e114008",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-05",
+      "firstIndexDate": "2026-08-07"
+    },
+    {
+      "id": "42358944",
+      "source": "MED",
+      "pmid": "42358944",
+      "pmcid": "PMC13290444",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13290444"
+        ]
+      },
+      "doi": "10.3389/fimmu.2026.1843223",
+      "title": "Combination of metformin and parthenolide inhibits breast cancer in mice by apoptosis induction and angiogenesis inhibition.",
+      "authorString": "Alomari RK, Alasmari MM, Alshaeri HK, Makai A, Talib WH, Hock M.",
+      "journalTitle": "Front Immunol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-3224",
+      "pageInfo": "1843223",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-10",
+      "firstIndexDate": "2026-06-27"
+    },
+    {
+      "id": "41883001",
+      "source": "MED",
+      "pmid": "41883001",
+      "pmcid": "PMC13018723",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13018723"
+        ]
+      },
+      "doi": "10.1111/jne.70166",
+      "title": "Effect of metformin on pancreatic neuroendocrine tumors of multiple endocrine neoplasia type 1.",
+      "authorString": "Kozlov SV, Agarwal SK, Guerin TM, Lawrence WC, Bassel LL, Graf A, Jha S, Weinstein LS, Blau JE, Del Rivero J.",
+      "journalTitle": "J Neuroendocrinol",
+      "issue": "4",
+      "journalVolume": "38",
+      "pubYear": "2026",
+      "journalIssn": "0953-8194; 1365-2826; ",
+      "pageInfo": "e70166",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-01",
+      "firstIndexDate": "2026-03-27"
+    },
+    {
+      "id": "42592881",
+      "source": "MED",
+      "pmid": "42592881",
+      "pmcid": "PMC13470881",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13470881"
+        ]
+      },
+      "doi": "10.1111/1759-7714.70378",
+      "title": "Diabetes Mellitus as an Independent Risk Factor for Unfavorable Prognosis in Patients With Small Cell Lung Cancer.",
+      "authorString": "Yan R, Yisilamu P, Ge Y, Zhou W.",
+      "journalTitle": "Thorac Cancer",
+      "issue": "16",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1759-7706; 1759-7714; ",
+      "pageInfo": "e70378",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-01",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "42649852",
+      "source": "MED",
+      "pmid": "42649852",
+      "pmcid": "PMC13510935",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13510935"
+        ]
+      },
+      "doi": "10.3390/cancers18162537",
+      "title": "Dual Metabolic Targeting of Cancer: Lessons from Metformin and 2-Deoxy-D-Glucose Combinations.",
+      "authorString": "Zeljković V, Minić S, Mladenović M, Milenković D, Marković Z, Soldatović TV, Kunkin V, Karaman M.",
+      "journalTitle": "Cancers (Basel)",
+      "issue": "16",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6694",
+      "pageInfo": "2537",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "cellosaurus",
+          "pdb"
+        ]
+      },
+      "firstPublicationDate": "2026-08-07",
+      "firstIndexDate": "2026-08-27"
+    },
+    {
+      "id": "42510971",
+      "source": "MED",
+      "pmid": "42510971",
+      "pmcid": "PMC13408822",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13408822"
+        ]
+      },
+      "doi": "10.3390/cimb48070731",
+      "title": "p53 and p21 Status Influences Cellular Response to Metformin in &lt;i&gt;KRAS&lt;/i&gt;-Mutant HCT116 Colorectal Cancer Cells.",
+      "authorString": "Saeed A, Hijazi J, Bashir Z, Khoueiry P, Eid AA, Darwiche N, Bengoechea-Alonso MT, Ericsson J, Mifsud BI, Nemer G.",
+      "journalTitle": "Curr Issues Mol Biol",
+      "issue": "7",
+      "journalVolume": "48",
+      "pubYear": "2026",
+      "journalIssn": "1467-3037; 1467-3045; ",
+      "pageInfo": "731",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-17",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42031696",
+      "source": "MED",
+      "pmid": "42031696",
+      "pmcid": "PMC13243543",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13243543"
+        ]
+      },
+      "doi": "10.1038/s41408-026-01504-z",
+      "title": "Diabetes mellitus in multiple myeloma and related plasma cell disorders: a review of risk, prognosis, and outcomes.",
+      "authorString": "Parikh R, Thirugnanasambandam RP, Shah UA.",
+      "journalTitle": "Blood Cancer J",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2044-5385",
+      "pageInfo": "92",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-24",
+      "firstIndexDate": "2026-04-25"
+    },
+    {
+      "id": "42781074",
+      "source": "MED",
+      "pmid": "42781074",
+      "pmcid": "PMC13599794",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13599794"
+        ]
+      },
+      "doi": "10.2147/cia.s620882",
+      "title": "Therapeutic Targeting of Inflammaging and Emerging Strategies for Managing Age-Related Multimorbidity: A Narrative Review.",
+      "authorString": "Ayoub NR.",
+      "journalTitle": "Clin Interv Aging",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1176-9092; 1178-1998; ",
+      "pageInfo": "620882",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-19",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "42184304",
+      "source": "MED",
+      "pmid": "42184304",
+      "pmcid": "PMC13250665",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13250665"
+        ]
+      },
+      "doi": "10.1093/jncics/pkag053",
+      "title": "Metformin use and the risk of liver cancer in a Swedish population-based cohort study.",
+      "authorString": "Huang Y, Santoni G, Sparrelid E, Xie SH.",
+      "journalTitle": "JNCI Cancer Spectr",
+      "issue": "3",
+      "journalVolume": "10",
+      "pubYear": "2026",
+      "journalIssn": "2515-5091",
+      "pageInfo": "pkag053",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-05-25"
+    },
+    {
+      "id": "42502979",
+      "source": "MED",
+      "pmid": "42502979",
+      "pmcid": "PMC13650704",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13650704"
+        ]
+      },
+      "doi": "10.1093/jrr/rrag057",
+      "title": "Effects of combination metformin and nintedanib therapy in a mouse model of irradiation-induced pulmonary fibrosis.",
+      "authorString": "Lee JH, Jeong HB, Yoo ES, Kim NW, Seo SM, Park YJ, Choi YK, Seo JH.",
+      "journalTitle": "J Radiat Res",
+      "issue": "5",
+      "journalVolume": "67",
+      "pubYear": "2026",
+      "journalIssn": "0449-3060; 1349-9157; ",
+      "pageInfo": "715-723",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42630210",
+      "source": "MED",
+      "pmid": "42630210",
+      "pmcid": "PMC13493274",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13493274"
+        ]
+      },
+      "doi": "10.3389/fcdhc.2026.1906364",
+      "title": "Economic evaluation of liraglutide versus sitagliptin in the treatment of type 2 diabetes mellitus inadequately controlled with metformin.",
+      "authorString": "Yang F, Zheng X, Li W, Zhao Z.",
+      "journalTitle": "Front Clin Diabetes Healthc",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2673-6616",
+      "pageInfo": "1906364",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-07",
+      "firstIndexDate": "2026-08-22"
+    },
+    {
+      "id": "42797030",
+      "source": "MED",
+      "pmid": "42797030",
+      "pmcid": "PMC13609937",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13609937"
+        ]
+      },
+      "doi": "10.3390/nu18183047",
+      "title": "Ellagic Acid and Metformin: In Vitro Synergy and Enhanced Cisplatin Efficacy In Vivo in Resistant Breast Cancer.",
+      "authorString": "Jdaitawi B, Alasmari MM, Alshaeri HK, Anbarserry DO, Makai A, Al Junaidi HS, Talib WH, Hock M.",
+      "journalTitle": "Nutrients",
+      "issue": "18",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2072-6643",
+      "pageInfo": "3047",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-17",
+      "firstIndexDate": "2026-09-28"
+    },
+    {
+      "id": "42434155",
+      "source": "MED",
+      "pmid": "42434155",
+      "pmcid": "PMC13352196",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13352196"
+        ]
+      },
+      "doi": "10.20524/aog.2026.1078",
+      "title": "Impact of p53 mutations on the synergistic effects of metformin and radiation on colorectal cancer cells.",
+      "authorString": "Sakamoto K, Okabayashi K, Kato Y, Hattori K, Morita S, Shigeta K, Kitagawa Y.",
+      "journalTitle": "Ann Gastroenterol",
+      "issue": "4",
+      "journalVolume": "39",
+      "pubYear": "2026",
+      "journalIssn": "1108-7471; 1792-7463; ",
+      "pageInfo": "487-494",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-11",
+      "firstIndexDate": "2026-07-12"
+    },
+    {
+      "id": "42737805",
+      "source": "MED",
+      "pmid": "42737805",
+      "pmcid": "PMC13566662",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13566662"
+        ]
+      },
+      "doi": "10.3390/ijms27177908",
+      "title": "Multi-Target Antitumor Effects of Natural Products and Approved Drug Repurposing in Non-Small Cell Lung Cancer: Advances in Mechanisms, Combination Regimens, Delivery System Optimization, and Clinical Challenges.",
+      "authorString": "Xie Y, Zhang D, Tang P.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "17",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "7908",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-04",
+      "firstIndexDate": "2026-09-15"
+    },
+    {
+      "id": "42196179",
+      "source": "MED",
+      "pmid": "42196179",
+      "pmcid": "PMC13206694",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13206694"
+        ]
+      },
+      "doi": "10.3390/ijms27104195",
+      "title": "Do We Have Enough Evidence That Metformin Is Superior to Other Antidiabetic Drugs in Pancreatic Cancer Risk Reduction?",
+      "authorString": "Szymczak-Pajor I, Drzewoski J, Wenclewska S, Rogalska A, Śliwińska A.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "10",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "4195",
+      "pubType": "meta-analysis; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-08",
+      "firstIndexDate": "2026-05-28"
+    }
+  ]
+}

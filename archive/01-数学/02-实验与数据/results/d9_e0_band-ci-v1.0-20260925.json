@@ -1,0 +1,49 @@
+{
+ "meta": {
+  "script": "d9_e0_band-v1.0-20260925.py",
+  "frozen": "2026-09-25T09:03:39",
+  "part": "ci",
+  "mechanism": "corrected layered-frequency B(3^(L-j)*theta) product; frozen single-matrix (sum M_rho)^12 failed probes (judge-negative recorded, see ci-singlematrix-slip JSON)"
+ },
+ "probes": {
+  "theta": [
+   0.0,
+   1.5707963267948966,
+   3.141592653589793,
+   0.3333333333333333,
+   2.5,
+   0.4487989505128276,
+   0.618,
+   5.0
+  ],
+  "err": [
+   0.0,
+   1.949432652839494e-14,
+   6.628569816330363e-13,
+   4.235496310480168e-15,
+   1.8867537044832766e-17,
+   6.081191683203514e-15,
+   6.6863651443586355e-15,
+   9.67069441929695e-18
+  ],
+  "tol": 1e-07,
+  "ok": true
+ },
+ "fft": {
+  "NTH": 524288,
+  "dmax": 177147,
+  "hist_err": 6.139793384818404e-08,
+  "tail_mass": 3.357135014425694e-08,
+  "cdf_err": 5.125899704694348e-12,
+  "tol_hist": 1.0,
+  "tol_cdf": 1e-09,
+  "hist_ok": true,
+  "cdf_ok": true
+ },
+ "ci_ok": true,
+ "log": [
+  "DCI probes err=[0.0, 1.949432652839494e-14, 6.628569816330363e-13, 4.235496310480168e-15, 1.8867537044832766e-17, 6.081191683203514e-15, 6.6863651443586355e-15, 9.67069441929695e-18] ok=True dt=12.7s",
+  "DCI fft hist_err=6.13979e-08 tail_mass=3.36e-08 cdf_err=5.1259e-12 hist_ok=True cdf_ok=True",
+  "DCI verdict ci_ok=True"
+ ]
+}

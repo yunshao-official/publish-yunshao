@@ -1,0 +1,121 @@
+{
+ "meta": {
+  "script_start": "2026-09-21 03:32:39",
+  "freeze": "判据书冻结 NTFS 2026-09-21 03:15:38 (M1② 首跑前更正在案)"
+ },
+ "M0": {
+  "worst_abs": 1.6526802468224853e-13,
+  "pass": true
+ },
+ "M1": {
+  "all_pairs_all_k_double_point": false,
+  "parity_ok": true,
+  "pass": false
+ },
+ "M3": {
+  "runnerup_ratio_k12": [
+   0.9999989388670938,
+   0.9999989388670599,
+   0.9999989388670598,
+   0.9999989388670599,
+   0.9999989388670598,
+   0.9999989223020305,
+   0.9999989223020302,
+   0.9999989567116654,
+   0.9999989567116654,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "records_sample": {
+   "k2|2|14": {
+    "argmax": [
+     7200,
+     21600
+    ],
+    "peak": 2.0,
+    "runnerup_ratio": 0.9999998096141247
+   },
+   "k7|2|14": {
+    "argmax": [
+     7200,
+     21600
+    ],
+    "peak": 0.6177374936499018,
+    "runnerup_ratio": 0.9999994464070975
+   },
+   "k12|2|14": {
+    "argmax": [
+     7200,
+     21600
+    ],
+    "peak": 0.295060209600685,
+    "runnerup_ratio": 0.9999989388670938
+   }
+  }
+ },
+ "M2": {
+  "C13": {
+   "max": 5.828427124746188,
+   "err_vs_exact": 1.7763568394002505e-15,
+   "max_points_near_double": true
+  },
+  "C26": {
+   "max": 2.999999999999998,
+   "err_vs_exact": 2.220446049250313e-15,
+   "max_points_near_double": true
+  },
+  "C57": {
+   "max": 5.828427124746183,
+   "err_vs_exact": 7.105427357601002e-15,
+   "max_points_near_double": true
+  },
+  "C13_secondary": {
+   "t_star_value": 1.4999999999999996,
+   "err_vs_1p5": 4.440892098500626e-16
+  },
+  "pass": true
+ },
+ "verdict": {
+  "structure_pass": false,
+  "final": "如实入账(见分项, 判负照记)"
+ },
+ "log": [
+  "M0: 一般 t 闭式 vs 枚举 最差 1.653e-13 -> True",
+  "M1 例外: k=2 8|14: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=2 14|20: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=2 8|20: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=2 4|10: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=2 16|22: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=3 10|22: argsetFalse symTrue refineFalse halfTrue ruFalse",
+  "M1 例外: k=4 8|20: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=4 4|10: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=4 16|22: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=5 10|22: argsetFalse symTrue refineFalse halfTrue ruFalse",
+  "M1 例外: k=6 8|20: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=6 4|10: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=6 16|22: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=7 10|22: argsetFalse symTrue refineFalse halfTrue ruFalse",
+  "M1 例外: k=7 2|20: argsetFalse symTrue refineFalse halfTrue ruFalse",
+  "M1 例外: k=7 8|14: argsetFalse symTrue refineFalse halfTrue ruFalse",
+  "M1 例外: k=8 8|20: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=8 4|10: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=8 16|22: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=9 10|22: argsetFalse symTrue refineFalse halfTrue ruFalse",
+  "M1 例外: k=9 2|20: argsetFalse symTrue refineFalse halfTrue ruFalse",
+  "M1 例外: k=9 8|14: argsetFalse symTrue refineFalse halfTrue ruFalse",
+  "M1 例外: k=10 8|20: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=10 4|10: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=10 16|22: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=11 10|22: argsetFalse symTrue refineFalse halfFalse ruFalse",
+  "M1 例外: k=11 2|20: argsetFalse symTrue refineFalse halfTrue ruFalse",
+  "M1 例外: k=11 8|14: argsetFalse symTrue refineFalse halfTrue ruFalse",
+  "M1 例外: k=12 8|20: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=12 4|10: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1 例外: k=12 16|22: argsetFalse symTrue refineTrue halfFalse ruFalse",
+  "M1: k=2..12×12对 argmax 双点 False; c 同奇偶 True -> False",
+  "M2: 循环模最大值 {'C13': {'max': 5.828427124746188, 'err_vs_exact': np.float64(1.7763568394002505e-15), 'max_points_near_double': True}, 'C26': {'max': 2.999999999999998, 'err_vs_exact': 2.220446049250313e-15, 'max_points_near_double': True}, 'C57': {'max': 5.828427124746183, 'err_vs_exact': np.float64(7.105427357601002e-15), 'max_points_near_double': True}, 'C13_secondary': {'t_star_value': 1.4999999999999996, 'err_vs_1p5': 4.440892098500626e-16}} -> True",
+  "M4 总裁决: 如实入账(见分项, 判负照记)"
+ ],
+ "elapsed_sec": 1.8
+}

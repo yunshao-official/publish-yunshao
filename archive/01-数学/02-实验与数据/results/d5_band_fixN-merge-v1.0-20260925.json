@@ -1,0 +1,80 @@
+{
+ "meta": {
+  "script": "d5_band_fixN-v1.0-20260925.py",
+  "frozen": "2026-09-25T05:19:45",
+  "part": "merge"
+ },
+ "fullband": {
+  "n": 486,
+  "max": 20,
+  "at": -487,
+  "tri": "hit"
+ },
+ "band_d5_stat": {
+  "n": 486,
+  "all": {
+   "min": 10,
+   "max": 20,
+   "mean": 15.584
+  },
+  "inherit": {
+   "n": 162,
+   "max": 18,
+   "mean": 14.92
+  },
+  "noninherit": {
+   "n": 324,
+   "max": 20,
+   "mean": 15.917
+  }
+ },
+ "nerode_check": {
+  "-487": {
+   "nerode": 18,
+   "moore": 20,
+   "eq": false
+  },
+  "-411": {
+   "nerode": 13,
+   "moore": 15,
+   "eq": false
+  },
+  "-727": {
+   "nerode": 14,
+   "moore": 16,
+   "eq": false
+  },
+  "-309": {
+   "nerode": 13,
+   "moore": 15,
+   "eq": false
+  },
+  "-637": {
+   "nerode": 14,
+   "moore": 16,
+   "eq": false
+  },
+  "-505": {
+   "nerode": 17,
+   "moore": 19,
+   "eq": false
+  }
+ },
+ "nerod_bad": 6,
+ "max_law": {
+  "reach": 25,
+  "acc": 2,
+  "M_acc": 1,
+  "M_dead": 5,
+  "M_int": 0,
+  "R": 20,
+  "C2": 0,
+  "law_ok": true
+ },
+ "log": [
+  "MERGE fullband n=486 max=20@-487 tri=hit",
+  "MERGE bands d5 {\"n\": 486, \"all\": {\"min\": 10, \"max\": 20, \"mean\": 15.584}, \"inherit\": {\"n\": 162, \"max\": 18, \"mean\": 14.92}, \"noninherit\": {\"n\": 324, \"max\": 20, \"mean\": 15.917}}",
+  "MERGE nerode {\"-487\": {\"nerode\": 18, \"moore\": 20, \"eq\": false}, \"-411\": {\"nerode\": 13, \"moore\": 15, \"eq\": false}, \"-727\": {\"nerode\": 14, \"moore\": 16, \"eq\": false}, \"-309\": {\"nerode\": 13, \"moore\": 15, \"eq\": false}, \"-637\": {\"nerode\": 14, \"moore\": 16, \"eq\": false}, \"-505\": {\"nerode\": 17, \"moore\": 19, \"eq\": false}} bad=6",
+  "MERGE maxlaw {\"reach\": 25, \"acc\": 2, \"M_acc\": 1, \"M_dead\": 5, \"M_int\": 0, \"R\": 20, \"C2\": 0, \"law_ok\": true}"
+ ]
+}

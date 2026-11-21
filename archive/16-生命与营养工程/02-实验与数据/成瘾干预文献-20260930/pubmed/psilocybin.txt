@@ -1,0 +1,356 @@
+1. JAMA Psychiatry. 2022 Oct 1;79(10):953-962. doi: 
+10.1001/jamapsychiatry.2022.2096.
+
+Percentage of Heavy Drinking Days Following Psilocybin-Assisted Psychotherapy vs 
+Placebo in the Treatment of Adult Patients With Alcohol Use Disorder: A 
+Randomized Clinical Trial.
+
+Bogenschutz MP(1), Ross S(1), Bhatt S(2), Baron T(1), Forcehimes AA(3), Laska 
+E(1)(4), Mennenga SE(1), O'Donnell K(1), Owens LT(1)(5), Podrebarac S(1), 
+Rotrosen J(1), Tonigan JS(6), Worth L(2).
+
+Author information:
+(1)Department of Psychiatry, New York University Langone Center for Psychedelic 
+Medicine, New York University Grossman School of Medicine, New York.
+(2)Department of Psychiatry and Behavioral Sciences, University of New Mexico 
+School of Medicine, Albuquerque.
+(3)The Change Companies, Carson City, Nevada.
+(4)Department of Population Health, Division of Biostatistics, New York 
+University Grossman School of Medicine, New York.
+(5)Department of Psychology, University of Alabama at Birmingham.
+(6)University of New Mexico Center on Alcohol, Substance Use and Addictions, 
+Albuquerque.
+
+Erratum in
+    JAMA Psychiatry. 2022 Sep 14. doi: 10.1001/jamapsychiatry.2022.2982.
+
+Comment in
+    JAMA Psychiatry. 2022 Oct 1;79(10):945-946. doi: 
+10.1001/jamapsychiatry.2022.2029.
+
+IMPORTANCE: Although classic psychedelic medications have shown promise in the 
+treatment of alcohol use disorder (AUD), the efficacy of psilocybin remains 
+unknown.
+OBJECTIVE: To evaluate whether 2 administrations of high-dose psilocybin improve 
+the percentage of heavy drinking days in patients with AUD undergoing 
+psychotherapy relative to outcomes observed with active placebo medication and 
+psychotherapy.
+DESIGN, SETTING, AND PARTICIPANTS: In this double-blind randomized clinical 
+trial, participants were offered 12 weeks of manualized psychotherapy and were 
+randomly assigned to receive psilocybin vs diphenhydramine during 2 day-long 
+medication sessions at weeks 4 and 8. Outcomes were assessed over the 32-week 
+double-blind period following the first dose of study medication. The study was 
+conducted at 2 academic centers in the US. Participants were recruited from the 
+community between March 12, 2014, and March 19, 2020. Adults aged 25 to 65 years 
+with a DSM-IV diagnosis of alcohol dependence and at least 4 heavy drinking days 
+during the 30 days prior to screening were included. Exclusion criteria included 
+major psychiatric and drug use disorders, hallucinogen use, medical conditions 
+that contraindicated the study medications, use of exclusionary medications, and 
+current treatment for AUD.
+INTERVENTIONS: Study medications were psilocybin, 25 mg/70 kg, vs 
+diphenhydramine, 50 mg (first session), and psilocybin, 25-40 mg/70 kg, vs 
+diphenhydramine, 50-100 mg (second session). Psychotherapy included motivational 
+enhancement therapy and cognitive behavioral therapy.
+MAIN OUTCOMES AND MEASURES: The primary outcome was percentage of heavy drinking 
+days, assessed using a timeline followback interview, contrasted between groups 
+over the 32-week period following the first administration of study medication 
+using multivariate repeated-measures analysis of variance.
+RESULTS: A total of 95 participants (mean [SD] age, 46 [12] years; 42 [44.2%] 
+female) were randomized (49 to psilocybin and 46 to diphenhydramine). One 
+participant (1.1%) was American Indian/Alaska Native, 3 (3.2%) were Asian, 4 
+(4.2%) were Black, 14 (14.7%) were Hispanic, and 75 (78.9%) were non-Hispanic 
+White. Of the 95 randomized participants, 93 received at least 1 dose of study 
+medication and were included in the primary outcome analysis. Percentage of 
+heavy drinking days during the 32-week double-blind period was 9.7% for the 
+psilocybin group and 23.6% for the diphenhydramine group, a mean difference of 
+13.9%; (95% CI, 3.0-24.7; F1,86 = 6.43; P = .01). Mean daily alcohol consumption 
+(number of standard drinks per day) was also lower in the psilocybin group. 
+There were no serious adverse events among participants who received psilocybin.
+CONCLUSIONS AND RELEVANCE: Psilocybin administered in combination with 
+psychotherapy produced robust decreases in percentage of heavy drinking days 
+over and above those produced by active placebo and psychotherapy. These results 
+provide support for further study of psilocybin-assisted treatment for AUD.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT02061293.
+
+DOI: 10.1001/jamapsychiatry.2022.2096
+PMCID: PMC9403854
+PMID: 36001306 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Bogenschutz 
+reported grants from the Heffter Research Institute, Carey and Claudia Turnbull, 
+Efrem Nulman, MD, Rodrigo Niño, and Cody Swift during the conduct of the study 
+and the National Institute on Alcohol Abuse and Alcoholism, the National 
+Institute on Drug Abuse, the Heffter Research Institute, Mind Medicine, Inc, 
+Tilray Canada, the Multidisciplinary Association for Psychedelic Studies (MAPS), 
+B. More, Inc, the Turnbull Family Foundation, the Fournier Family Foundation, Dr 
+Bronner’s Family Foundation, and the Riverstyx Foundation as well as personal 
+fees from the Heffter Research Institute, Ajna Labs LLC, Beckley Psytech 
+Limited, Journey Colab, and Bright Minds Biosciences outside the submitted work; 
+Dr Bogenschutz also reports being listed as inventor in a provisional patent 
+application related to this work, filed by his employer (New York University 
+Grossman School of Medicine), for which Dr Bogenschutz has formally waived all 
+rights and has no prospect of financial gain; moreover, Dr Bogenschutz’s 
+employer has licensed the commercial rights to the data from the study described 
+in this manuscript to B.More, Inc, for a nominal sum, and Dr Bogenschutz has no 
+financial stake in this agreement. Dr Ross reported grants from Heffter Research 
+Institute during the conduct of the study and from Usona Institute and Reset 
+Pharmaceutical outside the submitted work; in addition, Dr Ross had a patent for 
+N420838US and for N419987US, both issued by Reset Pharmaceuticals. Dr Forcehimes 
+reported personal fees from New York University Grossman School of Medicine 
+during the conduct of the study. Dr Mennenga reported grants from Ceruvia 
+Lifesciences outside the submitted work. Dr O’Donnell reported personal fees 
+from MAPS-Public Benefit Corporation and Polaris Insight Center outside the 
+submitted work. Dr Rotrosen reported having served as a principal investigator 
+or a coinvestigator on studies for which support in the form of donated or 
+discounted medication, smartphone apps, and/or funds has been or is provided by 
+Alkermes, Inc (vivitrol, extended-release injectable naltrexone), Indivior, Inc 
+(formerly Reckitt-Benckiser; suboxone, buprenorphine/naloxone combination), 
+Braeburn Pharmaceuticals, Inc (extended-release injectable buprenorphine), Pear 
+Therapeutics (smartphone apps ReSET and ReSET-O), CHESS Health (Connections 
+smartphone app), and Data Cubed (smartphone apps SOAR and mSAPPORT), directed to 
+either New York University, or to National Institute on Drug Abuse, or to 
+National Institute on Drug Abuse’s contractor Emmes, Inc; served in a nonpaid 
+capacity as a member of an Alkermes study steering committee, as a nonpaid 
+scientific advisor to Mind-Medicine, Inc, as principal investigator on 
+RD-i15-00461 (National Institute on Drug Abuse Clinical Trials Network: New York 
+Node), which is an umbrella grant that supports numerous studies, as a member on 
+each of 2 doctoral dissertation committees at the University of Oslo, Norway, 
+and as a nonpaid chair of the data and safety monitoring board for the OPTIMA 
+trial conducted by CRISM, the Canadian addiction treatment clinical trials 
+network; and currently serves as Chair of the data and safety monitoring board 
+for the US Department of Veterans Affairs Cooperative Studies Program 2014. No 
+other disclosures were reported.
+
+
+2. Am J Psychiatry. 2020 May 1;177(5):391-410. doi:
+10.1176/appi.ajp.2019.19010035.  Epub 2020 Feb 26.
+
+Psychedelics and Psychedelic-Assisted Psychotherapy.
+
+Reiff CM(1), Richman EE(1), Nemeroff CB(1), Carpenter LL(1), Widge AS(1), 
+Rodriguez CI(1), Kalin NH(1), McDonald WM(1); the Work Group on Biomarkers and 
+Novel Treatments, a Division of the American Psychiatric Association Council of 
+Research(1).
+
+Author information:
+(1)Department of Psychiatry, New York University School of Medicine, New York 
+(Reiff); Department of Psychiatry and Human Behavior, Emory University School of 
+Medicine, Atlanta (Richman, McDonald); Department of Psychiatry, Dell Medical 
+School and the Institute for Early Life Adversity Research, University of Texas 
+at Austin (Nemeroff); Department of Psychiatry and Human Behavior, Butler 
+Hospital, Brown University, Providence, R.I. (Carpenter); Department of 
+Psychiatry and Behavioral Sciences, University of Minnesota, Minneapolis 
+(Widge); Department of Psychiatry and Behavioral Sciences, Stanford University, 
+Stanford, Calif., and Veterans Affairs Palo Alto Health Care System, Palo Alto, 
+Calif. (Rodriguez); Department of Psychiatry, University of Wisconsin School of 
+Medicine and Public Health, Madison (Kalin).
+
+Comment in
+    Am J Psychiatry. 2020 May 1;177(5):368-369. doi: 
+10.1176/appi.ajp.2020.20030272.
+
+OBJECTIVE: The authors provide an evidenced-based summary of the literature on 
+the clinical application of psychedelic drugs in psychiatric disorders.
+METHODS: Searches of PubMed and PsycINFO via Ovid were conducted for articles in 
+English, in peer-reviewed journals, reporting on "psilocybin," "lysergic acid 
+diethylamide," "LSD," "ayahuasca," "3,4-methylenedioxymethamphetamine," and 
+"MDMA," in human subjects, published between 2007 and July 1, 2019. A total of 
+1,603 articles were identified and screened. Articles that did not contain the 
+terms "clinical trial," "therapy," or "imaging" in the title or abstract were 
+filtered out. The 161 remaining articles were reviewed by two or more authors. 
+The authors identified 14 articles reporting on well-designed clinical trials 
+investigating the efficacy of lysergic acid diethylamide (LSD), 
+3,4-methylenedioxymethamphetamine (MDMA), psilocybin, and ayahuasca for the 
+treatment of mood and anxiety disorders, trauma and stress-related disorders, 
+and substance-related and addictive disorders as well as in end-of-life care.
+RESULTS: The most significant database exists for MDMA and psilocybin, which 
+have been designated by the U.S. Food and Drug Administration (FDA) as 
+"breakthrough therapies" for posttraumatic stress disorder (PTSD) and 
+treatment-resistant depression, respectively. The research on LSD and ayahuasca 
+is observational, but available evidence suggests that these agents may have 
+therapeutic effects in specific psychiatric disorders.
+CONCLUSIONS: Randomized clinical trials support the efficacy of MDMA in the 
+treatment of PTSD and psilocybin in the treatment of depression and 
+cancer-related anxiety. The research to support the use of LSD and ayahuasca in 
+the treatment of psychiatric disorders is preliminary, although promising. 
+Overall, the database is insufficient for FDA approval of any psychedelic 
+compound for routine clinical use in psychiatric disorders at this time, but 
+continued research on the efficacy of psychedelics for the treatment of 
+psychiatric disorders is warranted.
+
+DOI: 10.1176/appi.ajp.2019.19010035
+PMID: 32098487 [Indexed for MEDLINE]
+
+
+3. N Engl J Med. 2022 Nov 3;387(18):1637-1648. doi: 10.1056/NEJMoa2206443.
+
+Single-Dose Psilocybin for a Treatment-Resistant Episode of Major Depression.
+
+Goodwin GM(1), Aaronson ST(1), Alvarez O(1), Arden PC(1), Baker A(1), Bennett 
+JC(1), Bird C(1), Blom RE(1), Brennan C(1), Brusch D(1), Burke L(1), 
+Campbell-Coker K(1), Carhart-Harris R(1), Cattell J(1), Daniel A(1), DeBattista 
+C(1), Dunlop BW(1), Eisen K(1), Feifel D(1), Forbes M(1), Haumann HM(1), 
+Hellerstein DJ(1), Hoppe AI(1), Husain MI(1), Jelen LA(1), Kamphuis J(1), 
+Kawasaki J(1), Kelly JR(1), Key RE(1), Kishon R(1), Knatz Peck S(1), Knight 
+G(1), Koolen MHB(1), Lean M(1), Licht RW(1), Maples-Keller JL(1), Mars J(1), 
+Marwood L(1), McElhiney MC(1), Miller TL(1), Mirow A(1), Mistry S(1), 
+Mletzko-Crowe T(1), Modlin LN(1), Nielsen RE(1), Nielson EM(1), Offerhaus SR(1), 
+O'Keane V(1), Páleníček T(1), Printz D(1), Rademaker MC(1), van Reemst A(1), 
+Reinholdt F(1), Repantis D(1), Rucker J(1), Rudow S(1), Ruffell S(1), Rush 
+AJ(1), Schoevers RA(1), Seynaeve M(1), Shao S(1), Soares JC(1), Somers M(1), 
+Stansfield SC(1), Sterling D(1), Strockis A(1), Tsai J(1), Visser L(1), Wahba 
+M(1), Williams S(1), Young AH(1), Ywema P(1), Zisook S(1), Malievskaia E(1).
+
+Author information:
+(1)From COMPASS Pathfinder (G.M.G., J.C.B., L.M., S.M., S.C.S., J.T., S.W., 
+E.M.), the Department of Psychological Medicine, Institute of Psychiatry, 
+Psychology, and Neuroscience, King's College London (C. Bird, L.A.J., G.K., 
+L.N.M., F.R., J.R., S. Ruffell, M. Seynaeve, A.H.Y.), the National Institute for 
+Health and Care Research Clinical Research Facility, King's College Hospital NHS 
+Foundation Trust (K.C.-C., J.C., A.D.), and South London and Maudsley NHS 
+Foundation Trust, Bethlem Royal Hospital (L.A.J., L.N.M., J.R., A.H.Y.), London, 
+and the Cumbria, Northumberland, Tyne and Wear Foundation Trust and Newcastle 
+University, Newcastle (M.W.) - all in the United Kingdom; the Institute for 
+Advanced Diagnostics and Therapeutics, Sheppard Pratt, Baltimore (S.T.A., M.F., 
+T.L.M., S. Rudow); Sant Joan de Déu Hospital and the Sant Joan de Déu Research 
+Foundation, Barcelona (O.A.); SUNY Downstate College of Medicine (P.C.A.), the 
+New York State Psychiatric Institute (D.J.H., R.E.K., R.K., M.C.M., E.M.N.), and 
+the Department of Psychiatry, Columbia University (D.J.H., R.K., M.C.M., E.M.N.) 
+- all in New York; the Department of Psychiatry, Trinity Centre for Health 
+Sciences, Tallaght University Hospital, Dublin (A.B., C. Brennan, L.B., J.R.K., 
+V.O.); the Department of Psychiatry, University Medical Center (UMC) Utrecht 
+Brain Center, University Medical Center Utrecht, Utrecht (R.E.B., H.M.H., 
+A.I.H., M.H.B.K., S.R.O., M.C.R., A.R., M. Somers, L.V., P.Y.), the Research 
+Department, GGz Centraal Innova, Amersfoort (R.E.B.), and the Department of 
+Psychiatry, UMC Groningen, Groningen (J. Kamphuis, J.M., R.A.S.) - all in the 
+Netherlands; the Department of Psychiatry, University of California San Diego 
+(D.B., J. Kawasaki, S.K.P., D.P., S.S., A.S., S.Z.), and Kadima Neuropsychiatry 
+Institute (D.F., S.K.P., A.M., D.S.), La Jolla, the Weill Institute for 
+Neurosciences, University of California San Francisco, San Francisco (R.C.-H.), 
+and the Department of Psychiatry and Behavioral Sciences, Stanford University, 
+Stanford (C.D., K.E., M.L.) - all in California; the Department of Psychiatry 
+and Behavioral Sciences, Emory University School of Medicine, Atlanta (B.W.D., 
+J.L.M.-K., T.M.-C.); the Campbell Family Mental Health Research Institute, 
+Centre for Addiction and Mental Health, and the Department of Psychiatry, 
+University of Toronto, Toronto (M.I.H.); the Department of Psychiatry, Aalborg 
+University Hospital, and the Department of Clinical Medicine, Aalborg 
+University, Aalborg, Denmark (R.W.L., R.E.N.); the National Institute of Mental 
+Health, Klecany, Czech Republic (T.P.); Charité-Universitätsmedizin Berlin, 
+Department of Psychiatry and Psychotherapy, Campus Benjamin Franklin, Berlin 
+(D.R.); Duke University School of Medicine, Durham, NC (A.J.R.); and the 
+University of Texas (UT) Harris County Psychiatric Center and the UT Center of 
+Excellence on Mood Disorders, Department of Psychiatry and Behavioral Sciences, 
+UT Houston Medical School, Houston (J.C.S.).
+
+Comment in
+    N Engl J Med. 2022 Nov 3;387(18):1708-1709. doi: 10.1056/NEJMe2210975.
+    MMW Fortschr Med. 2023 Jan;165(1):21. doi: 10.1007/s15006-022-2239-3.
+    Cell Rep Med. 2023 Jan 17;4(1):100906. doi: 10.1016/j.xcrm.2022.100906.
+    N Engl J Med. 2023 Feb 23;388(8):e22. doi: 10.1056/NEJMc2215459.
+    N Engl J Med. 2023 Feb 23;388(8):e22. doi: 10.1056/NEJMc2215459.
+    N Engl J Med. 2023 Feb 23;388(8):e22. doi: 10.1056/NEJMc2215459.
+    N Engl J Med. 2023 Feb 23;388(8):e22. doi: 10.1056/NEJMc2215459.
+    MMW Fortschr Med. 2023 Apr;165(7):31. doi: 10.1007/s15006-023-2540-9.
+
+BACKGROUND: Psilocybin is being studied for use in treatment-resistant 
+depression.
+METHODS: In this phase 2 double-blind trial, we randomly assigned adults with 
+treatment-resistant depression to receive a single dose of a proprietary, 
+synthetic formulation of psilocybin at a dose of 25 mg, 10 mg, or 1 mg 
+(control), along with psychological support. The primary end point was the 
+change from baseline to week 3 in the total score on the Montgomery-Åsberg 
+Depression Rating Scale (MADRS; range, 0 to 60, with higher scores indicating 
+more severe depression). Secondary end points included response at week 3 (≥50% 
+decrease from baseline in the MADRS total score), remission at week 3 (MADRS 
+total score ≤10), and sustained response at 12 weeks (meeting response criteria 
+at week 3 and all subsequent visits).
+RESULTS: A total of 79 participants were in the 25-mg group, 75 in the 10-mg 
+group, and 79 in the 1-mg group. The mean MADRS total score at baseline was 32 
+or 33 in each group. Least-squares mean changes from baseline to week 3 in the 
+score were -12.0 for 25 mg, -7.9 for 10 mg, and -5.4 for 1 mg; the difference 
+between the 25-mg group and 1-mg group was -6.6 (95% confidence interval [CI], 
+-10.2 to -2.9; P<0.001) and between the 10-mg group and 1-mg group was -2.5 (95% 
+CI, -6.2 to 1.2; P = 0.18). In the 25-mg group, the incidences of response and 
+remission at 3 weeks, but not sustained response at 12 weeks, were generally 
+supportive of the primary results. Adverse events occurred in 179 of 233 
+participants (77%) and included headache, nausea, and dizziness. Suicidal 
+ideation or behavior or self-injury occurred in all dose groups.
+CONCLUSIONS: In this phase 2 trial involving participants with 
+treatment-resistant depression, psilocybin at a single dose of 25 mg, but not 10 
+mg, reduced depression scores significantly more than a 1-mg dose over a period 
+of 3 weeks but was associated with adverse effects. Larger and longer trials, 
+including comparison with existing treatments, are required to determine the 
+efficacy and safety of psilocybin for this disorder. (Funded by COMPASS 
+Pathfinder; EudraCT number, 2017-003288-36; ClinicalTrials.gov number, 
+NCT03775200.).
+
+Copyright © 2022 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2206443
+PMID: 36322843 [Indexed for MEDLINE]
+
+
+4. Addict Biol. 2002 Oct;7(4):357-64. doi: 10.1080/1355621021000005937.
+
+The pharmacology of psilocybin.
+
+Passie T(1), Seifert J, Schneider U, Emrich HM.
+
+Author information:
+(1)Department of Clinical Psychiatry and Psychotherapy, Medical School Hannover, 
+Carl-Neuberg-Strasse 1, D-30625 Hannover, Germany. dr.passie@gmx.de
+
+Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) is the major psychoactive 
+alkaloid of some species of mushrooms distributed worldwide. These mushrooms 
+represent a growing problem regarding hallucinogenic drug abuse. Despite its 
+experimental medical use in the 1960s, only very few pharmacological data about 
+psilocybin were known until recently. Because of its still growing capacity for 
+abuse and the widely dispersed data this review presents all the available 
+pharmacological data about psilocybin.
+
+DOI: 10.1080/1355621021000005937
+PMID: 14578010 [Indexed for MEDLINE]
+
+
+5. J Psychopharmacol. 2015 Mar;29(3):289-99. doi: 10.1177/0269881114565144. Epub 
+2015 Jan 13.
+
+Psilocybin-assisted treatment for alcohol dependence: a proof-of-concept study.
+
+Bogenschutz MP(1), Forcehimes AA(2), Pommy JA(2), Wilcox CE(2), Barbosa PC(3), 
+Strassman RJ(2).
+
+Author information:
+(1)Department of Psychiatry, University of New Mexico Health Sciences Center, 
+Albuquerque, NM, USA mbogenschutz@salud.unm.edu.
+(2)Department of Psychiatry, University of New Mexico Health Sciences Center, 
+Albuquerque, NM, USA.
+(3)Departamento de Filosofia e Ciencias Humanas Ilheus, Universidade Estadual de 
+Santa Cruz, Bahia, Brazil.
+
+Several lines of evidence suggest that classic (5HT2A agonist) hallucinogens 
+have clinically relevant effects in alcohol and drug addiction. Although recent 
+studies have investigated the effects of psilocybin in various populations, 
+there have been no studies on the efficacy of psilocybin for alcohol dependence. 
+We conducted a single-group proof-of-concept study to quantify acute effects of 
+psilocybin in alcohol-dependent participants and to provide preliminary outcome 
+and safety data. Ten volunteers with DSM-IV alcohol dependence received orally 
+administered psilocybin in one or two supervised sessions in addition to 
+Motivational Enhancement Therapy and therapy sessions devoted to preparation for 
+and debriefing from the psilocybin sessions. Participants' responses to 
+psilocybin were qualitatively similar to those described in other populations. 
+Abstinence did not increase significantly in the first 4 weeks of treatment 
+(when participants had not yet received psilocybin), but increased significantly 
+following psilocybin administration (p < 0.05). Gains were largely maintained at 
+follow-up to 36 weeks. The intensity of effects in the first psilocybin session 
+(at week 4) strongly predicted change in drinking during weeks 5-8 (r = 0.76 to 
+r = 0.89) and also predicted decreases in craving and increases in abstinence 
+self-efficacy during week 5. There were no significant treatment-related adverse 
+events. These preliminary findings provide a strong rationale for controlled 
+trials with larger samples to investigate efficacy and mechanisms.
+TRIAL REGISTRATION: NCT02061293.
+
+© The Author(s) 2015.
+
+DOI: 10.1177/0269881114565144
+PMID: 25586396 [Indexed for MEDLINE]

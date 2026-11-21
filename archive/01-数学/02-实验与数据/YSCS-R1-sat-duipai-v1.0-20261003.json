@@ -1,0 +1,49 @@
+{
+ "c1_infeasible": 0,
+ "c2_leak": 5,
+ "c3_timeout": 0,
+ "frozen_prediction": "多数C1",
+ "prediction_result": "不成立",
+ "results": [
+  {
+   "N": 100,
+   "seed": 43,
+   "M1": "false",
+   "CPSAT": "FEASIBLE",
+   "sec": 0.1,
+   "judge": "C2 M1漏解"
+  },
+  {
+   "N": 100,
+   "seed": 46,
+   "M1": "false",
+   "CPSAT": "FEASIBLE",
+   "sec": 0.1,
+   "judge": "C2 M1漏解"
+  },
+  {
+   "N": 100,
+   "seed": 47,
+   "M1": "false",
+   "CPSAT": "FEASIBLE",
+   "sec": 0.1,
+   "judge": "C2 M1漏解"
+  },
+  {
+   "N": 100,
+   "seed": 49,
+   "M1": "false",
+   "CPSAT": "FEASIBLE",
+   "sec": 0.1,
+   "judge": "C2 M1漏解"
+  },
+  {
+   "N": 100,
+   "seed": 54,
+   "M1": "false",
+   "CPSAT": "FEASIBLE",
+   "sec": 0.1,
+   "judge": "C2 M1漏解"
+  }
+ ]
+}

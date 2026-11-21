@@ -1,0 +1,213 @@
+{
+ "meta": {
+  "started": "2026-10-26 06:47:58",
+  "elapsed": 0.1,
+  "elapsed_p2": -0.0,
+  "part3": true,
+  "fixed": true
+ },
+ "T1": {
+  "generator_downgrade": "随机3正则二部平面拒绝采样3万次0命中(平面率指数衰减)→按判据书预声明降级双档",
+  "A_prism_family": {
+   "n_range": "C_{2m}×K_2, m=3..52, 顶点12..104",
+   "tot": 50,
+   "HC": 50,
+   "rate": 1.0,
+   "fail_sizes": [],
+   "family_checks": {
+    "bipartite": true,
+    "planar": true,
+    "conn3": true,
+    "deg3": true
+   }
+  },
+  "B_nonplanar_side": {
+   "erratum": "首跑networkx无random_regular_bipartite_graph被静默吞(执行勘误)→自写配对模型重跑",
+   "tot": 100,
+   "HC": 40,
+   "rate": 0.4,
+   "fail_sizes": [
+    90,
+    64,
+    96,
+    104,
+    114,
+    64,
+    78,
+    86,
+    86,
+    102
+   ]
+  },
+  "T1b": "prism族未发现反例(平凡预期内)；真随机平面Barnette生成器=工程挂账候令",
+  "B_diag": [
+   {
+    "half": 10,
+    "error": "module 'networkx' has no attribute 'random_regular_bipartite_graph'"
+   },
+   {
+    "half": 15,
+    "error": "module 'networkx' has no attribute 'random_regular_bipartite_graph'"
+   },
+   {
+    "half": 30,
+    "error": "module 'networkx' has no attribute 'random_regular_bipartite_graph'"
+   }
+  ]
+ },
+ "T2": {
+  "Petersen": {
+   "HP": true,
+   "HC": false,
+   "expect": "HP真/HC假"
+  },
+  "Q3": {
+   "HP": true
+  },
+  "Q4": {
+   "HP": true
+  },
+  "Q5": {
+   "HP": true
+  },
+  "Q6": {
+   "HP": true
+  },
+  "Q7": {
+   "HP": true
+  },
+  "Q8": {
+   "HP": true
+  },
+  "C20^1": {
+   "HP": true
+  },
+  "C20^2": {
+   "HP": true
+  },
+  "C50^2": {
+   "HP": true
+  }
+ },
+ "T3": {
+  "caliber_note": "任务书原口径(k-正则2k顶点→k条HP)边数账k(2k-1)>k²不可能,照记口径漂移;本跑=猜想正确口径2k-正则→k HC",
+  "results": {
+   "k=3": {
+    "decompose": true,
+    "leftover": 0,
+    "n": 10
+   },
+   "k=4": {
+    "decompose": true,
+    "leftover": 0,
+    "n": 12
+   },
+   "k=5": {
+    "decompose": true,
+    "leftover": 0,
+    "n": 14
+   }
+  }
+ },
+ "T4": {
+  "kappa_ge_alpha": [
+   40,
+   40
+  ],
+  "kappa_lt_alpha": [
+   40,
+   40
+  ],
+  "alpha_note": "贪婪独立集(近似上界,如实标);对照组失败不判猜想"
+ },
+ "T5": {
+  "results": {
+   "D=5": {
+    "starts": 32,
+    "found": 32,
+    "distinct": 1,
+    "T5a": true
+   },
+   "D=6": {
+    "starts": 64,
+    "found": 64,
+    "distinct": 1,
+    "T5a": true
+   },
+   "D=7": {
+    "starts": 128,
+    "found": 128,
+    "distinct": 1,
+    "T5a": true
+   },
+   "D=8": {
+    "starts": 256,
+    "found": 256,
+    "distinct": 1,
+    "T5a": true
+   }
+  },
+  "caliber": "Q_D=(Z2)^D 的Cayley图(群结构忠实对象);判据a=2^D随机起点全找到;'恰=2^D条'不判(路径总数>>2^D,采样口径无法判恰)",
+  "diversity_note": "distinct=1：求解器确定性过强(同引导坍缩到同一路径)——多样性账记录为'起点覆盖100%但路径坍缩';T5a判据(存在性)通过,T5b(多样性)记求解器伪影"
+ },
+ "T6": {
+  "results": {
+   "CuO2_grid6x6": {
+    "HC": true,
+    "known": "超导(YBCO母面)"
+   },
+   "diamond_Q4": {
+    "HC": true,
+    "known": "非超导(金刚石结构替身:同配位4)"
+   },
+   "NaCl_grid3x3x3": {
+    "HC": false,
+    "known": "非超导(3D格替身:二部)"
+   },
+   "CsCl_K44": {
+    "HC": true,
+    "known": "非超导(体心替身)"
+   },
+   "CsCl_K88": {
+    "HC": true,
+    "known": "非超导"
+   },
+   "NaCl_grid4x8_even": {
+    "HC": true,
+    "known": "非超导(偶数格替身,修正奇数格失误)"
+   },
+   "NaCl_grid3x6_even": {
+    "HC": true,
+    "known": "非超导"
+   }
+  },
+  "note": "替身图口径如实标(diamond用Q4同配位/NaCl用2D格3x9/CsCl用K_mm);映射账不设因果判据(超导≠哈密顿因果,体系诠释分账)",
+  "erratum": "首跑NaCl替身3x9=27顶点奇数阶二部图,奇顶点二部图HC数学不可能(选图失误照记)→换偶数格"
+ },
+ "T8": {
+  "results": {
+   "K9": true,
+   "K11": true,
+   "K13": true,
+   "K15": false,
+   "K19": true,
+   "K21": false,
+   "K10_even": false,
+   "K14_even": false,
+   "K16_even": false,
+   "K20_even": false,
+   "K9_walecki": true,
+   "K11_walecki": true,
+   "K13_walecki": true,
+   "K15_walecki": true,
+   "K19_walecki": true,
+   "K21_walecki": true,
+   "K10_even_v2": true,
+   "K14_even_v2": true,
+   "K16_even_v2": true,
+   "K20_even_v2": false
+  },
+  "caliber_note": "任务书原列表K_10/14/16/20全为偶数与(n-1)/2矛盾→照记口径漂移,双跑:奇K→(n-1)/2HC(Walecki定理=求解器校验);偶K→(n-2)/2HC+1完美匹配",
+  "erratum": "首跑启发式在K15/K21分解迭代后期失败(Walecki=定理级底,启发式能力不足照记)→奇数档改显式构造+偶数档starts=40重跑"
+ }
+}

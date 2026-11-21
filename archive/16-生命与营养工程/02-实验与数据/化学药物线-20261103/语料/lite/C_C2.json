@@ -1,0 +1,1902 @@
+{
+  "query_id": "C2",
+  "group": "C",
+  "query": "rapamycin AND dog AND trial",
+  "hitCount": 943,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:26.699750+00:00",
+  "results": [
+    {
+      "id": "PMC12520853",
+      "source": "PMC",
+      "pmcid": "PMC12520853",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12520853"
+        ]
+      },
+      "title": "Anti-aging strategies for dogs: current insights and future directions",
+      "authorString": "Han H.",
+      "journalTitle": "J Vet Sci",
+      "issue": "suppl 1",
+      "journalVolume": "26",
+      "pubYear": "2025",
+      "journalIssn": "1229-845x; 1976-555x; ",
+      "pageInfo": "S199-S219",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "uniprot",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-09-16",
+      "firstIndexDate": "2025-10-20"
+    },
+    {
+      "id": "39951177",
+      "source": "MED",
+      "pmid": "39951177",
+      "pmcid": "PMC12181551",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12181551"
+        ]
+      },
+      "doi": "10.1007/s11357-024-01484-7",
+      "title": "Test of Rapamycin in Aging Dogs (TRIAD): study design and rationale for a prospective, parallel-group, double-masked, randomized, placebo-controlled, multicenter trial of rapamycin in healthy middle-aged dogs from the Dog Aging Project.",
+      "authorString": "Coleman AE, Creevy KE, Anderson R, Reed MJ, Fajt VR, Aicher KM, Atiee G, Barnett BG, Baumwart RD, Boudreau B, Cunningham SM, Dunbar MD, Ditzler B, Ferguson AM, Forsyth KK, Gambino AN, Gordon SG, Hammond HK, Holland SN, Iannaccone MK, Illing K, Kadotani S, Knowles SA, MacLean EL, Maran BA, Markovic LE, McGrath S, Melvin RL, Mueller MS, Nelson OL, Olby NJ, Pancotto TE, Parsley E, Potter BM, Prescott JO, Saunders AB, Sawyer HM, Scansen BA, Schmid SM, Smith CC, Tjostheim SS, Tolbert MK, Tropf MA, Visser LC, Ward JL, Wesselowski SR, Windsor RC, Yang VK, Ruple A, Promislow DEL, Kaeberlein M, Dog Aging Project Consortium.",
+      "journalTitle": "Geroscience",
+      "issue": "3",
+      "journalVolume": "47",
+      "pubYear": "2025",
+      "journalIssn": "2509-2715; 2509-2723; ",
+      "pageInfo": "2851-2877",
+      "pubType": "clinical trial protocol; research support, non-u.s. gov't; review-article; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 10,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-02-14",
+      "firstIndexDate": "2025-02-15"
+    },
+    {
+      "id": "PMC12520851",
+      "source": "PMC",
+      "pmcid": "PMC12520851",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12520851"
+        ]
+      },
+      "title": "Rapamycin as a potential intervention to promote longevity and extend healthspan in companion dogs",
+      "authorString": "Ryave J, Coleman A.",
+      "journalTitle": "J Vet Sci",
+      "issue": "suppl 1",
+      "journalVolume": "26",
+      "pubYear": "2025",
+      "journalIssn": "1229-845x; 1976-555x; ",
+      "pageInfo": "S181-S198",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-09-19",
+      "firstIndexDate": "2025-10-20"
+    },
+    {
+      "id": "42802973",
+      "source": "MED",
+      "pmid": "42802973",
+      "pmcid": "PMC13617421",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13617421"
+        ]
+      },
+      "doi": "10.1111/vru.70245",
+      "title": "Risk Factors for Pathologic Fracture in Dogs With Confirmed or Suspected Appendicular Osteosarcoma Treated With Low- or Standard-Dose-Rate Palliative External Beam Radiation Therapy.",
+      "authorString": "Kurtzman A, Rappleyea E, Stewart M, Looper J, Billhymer A, Selting KA.",
+      "journalTitle": "Vet Radiol Ultrasound",
+      "issue": "6",
+      "journalVolume": "67",
+      "pubYear": "2026",
+      "journalIssn": "1058-8183; 1740-8261; ",
+      "pageInfo": "e70245",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-11-01",
+      "firstIndexDate": "2026-09-28"
+    },
+    {
+      "id": "42356463",
+      "source": "MED",
+      "pmid": "42356463",
+      "pmcid": "PMC13304947",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13304947"
+        ]
+      },
+      "doi": "10.3390/ph19060845",
+      "title": "Carvedilol Exerts Cardioprotective Effects Against Doxorubicin Toxicity via Autophagy Modulation and Energetics Restoration.",
+      "authorString": "Boukhalfa A, Shin PT, Meola DM, Yu A, Majidipur A, Showers A, Valencia DA, Akomeah-Sirleaf EF, Upshaw JN, London CA, Jaffe IZ, Sosnovik DE, Pulakat L, Yang VK, Chen HH.",
+      "journalTitle": "Pharmaceuticals (Basel)",
+      "issue": "6",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1424-8247",
+      "pageInfo": "845",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-28",
+      "firstIndexDate": "2026-06-27"
+    },
+    {
+      "id": "PMC13661149",
+      "source": "PMC",
+      "pmcid": "PMC13661149",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13661149"
+        ]
+      },
+      "title": "Aging rate indicators and the search for anti-aging drugs",
+      "authorString": "Austad S, Kaeberlein M, Miller R.",
+      "journalTitle": "Front Sci",
+      "journalVolume": "4",
+      "pubYear": "2026",
+      "journalIssn": "2813-6330",
+      "pageInfo": "1821393-1821393",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-01",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42450048",
+      "source": "MED",
+      "pmid": "42450048",
+      "pmcid": "PMC13360678",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13360678"
+        ]
+      },
+      "doi": "10.3390/ijms27135775",
+      "title": "Intravenous Everolimus Formulation (Sapu003) for Clinical Trials.",
+      "authorString": "Min SH, Forero K, Putnam W, Anderson J, Hoff R, Lopp J, Trieu V, Ho K, Lee C.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "13",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "5775",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-06-26",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "42512046",
+      "source": "MED",
+      "pmid": "42512046",
+      "pmcid": "PMC13406392",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13406392"
+        ]
+      },
+      "doi": "10.3390/biomedicines14071573",
+      "title": "IV-EVE: EVE for Injection-ADME, Pharmacokinetic and Toxicological Evaluation for Novel Deciparticle EVE Formulation.",
+      "authorString": "Chang WH, Chang N, Min SH, Lopp JM, Hoff R, Hoque T, Trieu V, Lee C.",
+      "journalTitle": "Biomedicines",
+      "issue": "7",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2227-9059",
+      "pageInfo": "1573",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-14",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "41721401",
+      "source": "MED",
+      "pmid": "41721401",
+      "pmcid": "PMC13032699",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13032699"
+        ]
+      },
+      "doi": "10.1186/s12917-026-05326-w",
+      "title": "Clinical impact of butterbur shoot extract in dogs with oral melanoma: a combined phase 1 and 2 clinical trial.",
+      "authorString": "Noguchi S, Furuya M, Honda K, Ito R, Akao Y.",
+      "journalTitle": "BMC Vet Res",
+      "issue": "1",
+      "journalVolume": "22",
+      "pubYear": "2026",
+      "journalIssn": "1746-6148",
+      "pageInfo": "191",
+      "pubType": "research-article; journal article; clinical trial, veterinary",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-02-20",
+      "firstIndexDate": "2026-02-22"
+    },
+    {
+      "id": "PMC13296283",
+      "source": "PMC",
+      "pmcid": "PMC13296283",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13296283"
+        ]
+      },
+      "title": "Targeting Dental Pulp Stem Cell Senescence: A Potential Strategy for Improving Regenerative Endodontic Procedures",
+      "authorString": "Christoffersen J, Bjørndal L, Dabelsteen S.",
+      "journalTitle": "Bioengineering (Basel)",
+      "issue": "6",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2306-5354",
+      "pubType": "other",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-31",
+      "firstIndexDate": "2026-06-27"
+    },
+    {
+      "id": "41976093",
+      "source": "MED",
+      "pmid": "41976093",
+      "pmcid": "PMC13072388",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13072388"
+        ]
+      },
+      "doi": "10.3390/ani16071114",
+      "title": "Evidence-Based Clinical Management of Canine Cognitive Dysfunction Syndrome: Diagnostic Algorithms, Practical Guidelines, Critical Appraisal of Biomarkers and Translational Limitations.",
+      "authorString": "Dondi M, Bianchi E, Borghetti P, Buffagni V, Di Lecce R, Gnudi G, Guarnieri C, Ravanetti F, Saleri R, Corradi A.",
+      "journalTitle": "Animals (Basel)",
+      "issue": "7",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2076-2615",
+      "pageInfo": "1114",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-04-04",
+      "firstIndexDate": "2026-04-14"
+    },
+    {
+      "id": "41594421",
+      "source": "MED",
+      "pmid": "41594421",
+      "pmcid": "PMC12838335",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12838335"
+        ]
+      },
+      "doi": "10.3390/ani16020232",
+      "title": "Mapping the Kinase Inhibitor Landscape in Canine Mammary Carcinoma: Current Status and Future Opportunities.",
+      "authorString": "Chmielewska-Krzesińska M.",
+      "journalTitle": "Animals (Basel)",
+      "issue": "2",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2076-2615",
+      "pageInfo": "232",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-13",
+      "firstIndexDate": "2026-01-28"
+    },
+    {
+      "id": "PMC11692996",
+      "source": "PMC",
+      "pmcid": "PMC11692996",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11692996"
+        ]
+      },
+      "title": "CANINE COGNITION ASSESSMENTS IN THE TEST OF RAPAMYCIN IN AGING DOGS (TRIAD)",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "1134-1135",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "38094495",
+      "source": "MED",
+      "pmid": "38094495",
+      "pmcid": "PMC10716302",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC10716302"
+        ]
+      },
+      "doi": "10.3389/fvets.2023.1285498",
+      "title": "Case report: Severe asymptomatic hypertriglyceridemia associated with long-term low-dose rapamycin administration in a healthy middle-aged Labrador retriever.",
+      "authorString": "Evans JB, Chou L, Kaeberlein M, Promislow DEL, Creevy KE.",
+      "journalTitle": "Front Vet Sci",
+      "journalVolume": "10",
+      "pubYear": "2023",
+      "journalIssn": "2297-1769",
+      "pageInfo": "1285498",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2023-11-29",
+      "firstIndexDate": "2023-12-22"
+    },
+    {
+      "id": "40368987",
+      "source": "MED",
+      "pmid": "40368987",
+      "pmcid": "PMC12078565",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12078565"
+        ]
+      },
+      "doi": "10.1038/s41598-025-89862-9",
+      "title": "Real-world evidence couples genomic biomarkers with therapeutic outcomes for canine hemangiosarcoma.",
+      "authorString": "Rodrigues L, Wu K, Harvey G, Post G, Miller A, Hull A, Lambert L, Lopes C, Zou J.",
+      "journalTitle": "Sci Rep",
+      "issue": "1",
+      "journalVolume": "15",
+      "pubYear": "2025",
+      "journalIssn": "2045-2322",
+      "pageInfo": "16442",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-05-14",
+      "firstIndexDate": "2025-05-21"
+    },
+    {
+      "id": "PMC11879368",
+      "source": "PMC",
+      "pmcid": "PMC11879368",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11879368"
+        ]
+      },
+      "title": "In memoriam: Professor Sir Roy Yorke Calne, MB, FRCS, FRS, FRCSC, Dec. 30, 1930, to Jan. 6, 2024",
+      "journalTitle": "Can J Surg",
+      "issue": "1",
+      "journalVolume": "68",
+      "pubYear": "2025",
+      "journalIssn": "0008-428x; 1488-2310; ",
+      "pageInfo": "E80-E82",
+      "pubType": "obituary",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-01-01",
+      "firstIndexDate": "2025-03-10"
+    },
+    {
+      "id": "39408717",
+      "source": "MED",
+      "pmid": "39408717",
+      "pmcid": "PMC11476434",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11476434"
+        ]
+      },
+      "doi": "10.3390/ijms251910387",
+      "title": "The Comparative Oncology of Canine Malignant Melanoma in Targeted Therapy: A Systematic Review of <i>In Vitro</i> Experiments and Animal Model Reports.",
+      "authorString": "He X, Gao Y, Deng Y, He J, Nolte I, Murua Escobar H, Yu F.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "19",
+      "journalVolume": "25",
+      "pubYear": "2024",
+      "journalIssn": "1422-0067",
+      "pageInfo": "10387",
+      "pubType": "systematic review; review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 16,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2024-09-26",
+      "firstIndexDate": "2024-10-16"
+    },
+    {
+      "id": "41051985",
+      "source": "MED",
+      "pmid": "41051985",
+      "pmcid": "PMC12501467",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12501467"
+        ]
+      },
+      "doi": "10.1177/1098612x251380011",
+      "title": "Clinical therapeutics in feline medicine: updates for old and new drugs.",
+      "authorString": "Susi IR, Viviano K, Whitehouse WH.",
+      "journalTitle": "J Feline Med Surg",
+      "issue": "10",
+      "journalVolume": "27",
+      "pubYear": "2025",
+      "journalIssn": "1098-612x; 1532-2750; ",
+      "pageInfo": "1098612X251380011",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-10-06",
+      "firstIndexDate": "2025-10-07"
+    },
+    {
+      "id": "37275618",
+      "source": "MED",
+      "pmid": "37275618",
+      "pmcid": "PMC10233048",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC10233048"
+        ]
+      },
+      "doi": "10.3389/fvets.2023.1168711",
+      "title": "A masked, placebo-controlled, randomized clinical trial evaluating safety and the effect on cardiac function of low-dose rapamycin in 17 healthy client-owned dogs.",
+      "authorString": "Barnett BG, Wesselowski SR, Gordon SG, Saunders AB, Promislow DEL, Schwartz SM, Chou L, Evans JB, Kaeberlein M, Creevy KE.",
+      "journalTitle": "Front Vet Sci",
+      "journalVolume": "10",
+      "pubYear": "2023",
+      "journalIssn": "2297-1769",
+      "pageInfo": "1168711",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 14,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2023-05-18",
+      "firstIndexDate": "2023-06-06"
+    },
+    {
+      "id": "PMC11693083",
+      "source": "PMC",
+      "pmcid": "PMC11693083",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11693083"
+        ]
+      },
+      "title": "BUILDING AN ELEPHANT BRAIN DATABASE: ADVANCING INSIGHTS INTO COGNITIVE AGING IN ELEPHANTS",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "1134-1134",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "PMC11692691",
+      "source": "PMC",
+      "pmcid": "PMC11692691",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11692691"
+        ]
+      },
+      "title": "BLOOD MULTIOMIC PROFILES REFLECT SYSTEM STATES OF ORGANS IN MICE",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "1134-1134",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "40095239",
+      "source": "MED",
+      "pmid": "40095239",
+      "pmcid": "PMC11912019",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11912019"
+        ]
+      },
+      "doi": "10.1111/jvim.70050",
+      "title": "Multimodal Treatment of a Peripheral Primitive Neuroectodermal Tumor Originating From the Thoracic Cavity in a Dog.",
+      "authorString": "Ackerman LH, Toonder M, Bosch S, Semenova VB, Spicer TP, Alas O, Thorsen LS, Menoyo AG, Stevenson VB, Gutti JR, Saavedra PV, Nance R, Sahay B, Hery GP, Chan AM, Salute ME, Bensilmane N, Vega VF, Milner RJ.",
+      "journalTitle": "J Vet Intern Med",
+      "issue": "2",
+      "journalVolume": "39",
+      "pubYear": "2025",
+      "journalIssn": "0891-6640; 1939-1676; ",
+      "pageInfo": "e70050",
+      "pubType": "case-study; journal article; case reports",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen"
+        ]
+      },
+      "firstPublicationDate": "2025-03-01",
+      "firstIndexDate": "2025-03-17"
+    },
+    {
+      "id": "42794410",
+      "source": "MED",
+      "pmid": "42794410",
+      "pmcid": "PMC13606146",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13606146"
+        ]
+      },
+      "doi": "10.3390/ijms27187978",
+      "title": "Promises and Perspectives of Mesenchymal Stromal Cells in Companion and Farm Animals.",
+      "authorString": "Talluri TR, Nag P, Rathore NS, Kues WA, Kumar D, Selokar N, Bajwa KK, Ansari MM, Bhattacharya TK.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "18",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "7978",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-08",
+      "firstIndexDate": "2026-09-28"
+    },
+    {
+      "id": "41295704",
+      "source": "MED",
+      "pmid": "41295704",
+      "pmcid": "PMC12656759",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12656759"
+        ]
+      },
+      "doi": "10.3390/vetsci12111067",
+      "title": "Drug Repurposing in Veterinary Oncology: Myth or Reality?",
+      "authorString": "Ciccarelli S, Perrone C, Cavalera MA, Giuliano A.",
+      "journalTitle": "Vet Sci",
+      "issue": "11",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2306-7381",
+      "pageInfo": "1067",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 3,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-06",
+      "firstIndexDate": "2025-11-26"
+    },
+    {
+      "id": "41742581",
+      "source": "MED",
+      "pmid": "41742581",
+      "pmcid": "PMC12908674",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12908674"
+        ]
+      },
+      "doi": "10.1093/jvimsj/aalag010",
+      "title": "Autoimmune lymphoproliferative syndrome in Boerboel dogs: treatment, clinical outcomes and prevention.",
+      "authorString": "Tong LJ, Kocic D, Horgan L, Malik R.",
+      "journalTitle": "J Vet Intern Med",
+      "issue": "1",
+      "journalVolume": "40",
+      "pubYear": "2026",
+      "journalIssn": "0891-6640; 1939-1676; ",
+      "pageInfo": "aalag010",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-01",
+      "firstIndexDate": "2026-02-26"
+    },
+    {
+      "id": "41459290",
+      "source": "MED",
+      "pmid": "41459290",
+      "pmcid": "PMC12743457",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12743457"
+        ]
+      },
+      "doi": "10.25259/cytojournal_48_2025",
+      "title": "Recurrent gastrointestinal stromal tumor with c-KIT double exon mutations: A rare case report.",
+      "authorString": "Zhu N, Li N, Song L, Pan Y, Zhang H, Wang W, Li J, Yang P, Yu G.",
+      "journalTitle": "Cytojournal",
+      "journalVolume": "22",
+      "pubYear": "2025",
+      "journalIssn": "0974-5963; 1742-6413; ",
+      "pageInfo": "92",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-04",
+      "firstIndexDate": "2026-01-02"
+    },
+    {
+      "id": "40739411",
+      "source": "MED",
+      "pmid": "40739411",
+      "pmcid": "PMC12311069",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12311069"
+        ]
+      },
+      "doi": "10.1007/s12672-025-03270-z",
+      "title": "TSC2-mutated perivascular epithelioid cell tumor with partial response to mTOR inhibition: a case report and literature review.",
+      "authorString": "Suo X, Dong R, Zhang L, Zhang X, Li X, Xiao M.",
+      "journalTitle": "Discov Oncol",
+      "issue": "1",
+      "journalVolume": "16",
+      "pubYear": "2025",
+      "journalIssn": "2730-6011",
+      "pageInfo": "1447",
+      "pubType": "journal article; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-07-30",
+      "firstIndexDate": "2025-08-01"
+    },
+    {
+      "id": "41971026",
+      "source": "MED",
+      "pmid": "41971026",
+      "pmcid": "PMC13067890",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13067890"
+        ]
+      },
+      "doi": "10.3389/fvets.2026.1771337",
+      "title": "Advancing mesenchymal stem cell therapy for kidney diseases in companion animals: from mechanisms to clinical application.",
+      "authorString": "Yu Y, Wang Y, Mu Y, Wang S, Zhang X, Song Y.",
+      "journalTitle": "Front Vet Sci",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2297-1769",
+      "pageInfo": "1771337",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-27",
+      "firstIndexDate": "2026-04-13"
+    },
+    {
+      "id": "42538545",
+      "source": "MED",
+      "pmid": "42538545",
+      "pmcid": "PMC13425997",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13425997"
+        ]
+      },
+      "doi": "10.1186/s12987-026-00779-5",
+      "title": "Exploring and translating novel approaches targeting the choroid plexus for the treatment of hydrocephalus: a literature review.",
+      "authorString": "Sluijters OJJ, Pooley JR, Singleton WGB.",
+      "journalTitle": "Fluids Barriers CNS",
+      "issue": "1",
+      "journalVolume": "23",
+      "pubYear": "2026",
+      "journalIssn": "2045-8118",
+      "pageInfo": "92",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-07-31",
+      "firstIndexDate": "2026-08-03"
+    },
+    {
+      "id": "42307841",
+      "source": "MED",
+      "pmid": "42307841",
+      "pmcid": "PMC13275774",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13275774"
+        ]
+      },
+      "doi": "10.1007/s11259-026-11336-8",
+      "title": "Plant extracts and phytochemicals in canine and feline mammary cancer models: current evidence and comparative perspectives.",
+      "authorString": "Patergiannakis IS, Pappas IS.",
+      "journalTitle": "Vet Res Commun",
+      "issue": "5",
+      "journalVolume": "50",
+      "pubYear": "2026",
+      "journalIssn": "0165-7380; 1573-7446; ",
+      "pageInfo": "397",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-17",
+      "firstIndexDate": "2026-06-18"
+    },
+    {
+      "id": "39355701",
+      "source": "MED",
+      "pmid": "39355701",
+      "pmcid": "PMC11411482",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11411482"
+        ]
+      },
+      "title": "Development of non-pulmonary soft-tissue metastasis is not a poor prognostic indicator in dogs with metastatic appendicular osteosarcoma.",
+      "authorString": "Fontes GS, Bourne KL, Bracha S, Curran KM, Cook M, Lapsley JM, Piegols HJ, Selmic LE.",
+      "journalTitle": "Can Vet J",
+      "issue": "10",
+      "journalVolume": "65",
+      "pubYear": "2024",
+      "journalIssn": "0008-5286",
+      "pageInfo": "1061-1070",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-10-01",
+      "firstIndexDate": "2024-10-02"
+    },
+    {
+      "id": "41296451",
+      "source": "MED",
+      "pmid": "41296451",
+      "pmcid": "PMC12651631",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12651631"
+        ]
+      },
+      "doi": "10.3390/cimb47110947",
+      "title": "Study on the Protective Mechanism of Dihydromyricetin Against Aflatoxin B&lt;sub&gt;1&lt;/sub&gt;-Induced Injury in Madin-Darby Canine Kidney Cells.",
+      "authorString": "Zhai H, Xie L, Li B, Song M, Li X, Xu S, Wang Y, Xu C.",
+      "journalTitle": "Curr Issues Mol Biol",
+      "issue": "11",
+      "journalVolume": "47",
+      "pubYear": "2025",
+      "journalIssn": "1467-3037; 1467-3045; ",
+      "pageInfo": "947",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2025-11-13",
+      "firstIndexDate": "2025-11-26"
+    },
+    {
+      "id": "37395712",
+      "source": "MED",
+      "pmid": "37395712",
+      "pmcid": "PMC10398640",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC10398640"
+        ]
+      },
+      "doi": "10.15252/embr.202357706",
+      "title": "Learning tricks from old dogs: Dog studies shed new light on ageing and cognitive decline.",
+      "authorString": "Hunter P.",
+      "journalTitle": "EMBO Rep",
+      "issue": "8",
+      "journalVolume": "24",
+      "pubYear": "2023",
+      "journalIssn": "1469-221x; 1469-3178; ",
+      "pageInfo": "e57706",
+      "pubType": "article-commentary; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2023-07-03",
+      "firstIndexDate": "2023-07-04"
+    },
+    {
+      "id": "42488849",
+      "source": "MED",
+      "pmid": "42488849",
+      "pmcid": "PMC13388097",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13388097"
+        ]
+      },
+      "doi": "10.1038/s44433-026-00018-5",
+      "title": "Modulation of TH17 cell activity by REV-ERB agonists: path toward novel treatments for canine meningoencephalitis of unknown origin.",
+      "authorString": "Bailey A, Gibson R, Griffett K.",
+      "journalTitle": "npj Vet Sci",
+      "issue": "1",
+      "journalVolume": "1",
+      "pubYear": "2026",
+      "journalIssn": "3059-328x",
+      "pageInfo": "16",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-21",
+      "firstIndexDate": "2026-07-23"
+    },
+    {
+      "id": "41661652",
+      "source": "MED",
+      "pmid": "41661652",
+      "pmcid": "PMC13136870",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13136870"
+        ]
+      },
+      "doi": "10.1158/0008-5472.can-25-2764",
+      "title": "The Farnesyl Transferase Inhibitor Darlifarnib (KO-2806) Resensitizes Relapsing Tumors to RAS Inhibition.",
+      "authorString": "Patel HV, Smith AE, Chan S, Gasendo JG, Jombik A, Greer JE, Samantaray T, Kessler L, Mitra A, Zhu X, Liu YA, Burrows F, Malik S.",
+      "journalTitle": "Cancer Res",
+      "issue": "9",
+      "journalVolume": "86",
+      "pubYear": "2026",
+      "journalIssn": "0008-5472; 1538-7445; ",
+      "pageInfo": "2273-2285",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 4,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-02-10"
+    },
+    {
+      "id": "PMC13638376",
+      "source": "PMC",
+      "pmcid": "PMC13638376",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13638376"
+        ]
+      },
+      "title": "From molecular correction to functional rescue: delivery, tissue state, and immunobiology as the principal constraints on dystrophin-restoring therapy in Duchenne muscular dystrophy",
+      "authorString": "Li K, Qi H, Xin Y, Qin L, Cheng Y, Yao X.",
+      "journalTitle": "Front Pharmacol",
+      "journalVolume": "17",
+      "journalIssn": "1663-9812",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-07",
+      "firstIndexDate": "2026-10-07"
+    },
+    {
+      "id": "39354527",
+      "source": "MED",
+      "pmid": "39354527",
+      "pmcid": "PMC11443903",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11443903"
+        ]
+      },
+      "doi": "10.1186/s13063-024-08490-2",
+      "title": "A single-center, double-blind, randomized, placebo-controlled, two-arm study to evaluate the safety and efficacy of once-weekly sirolimus (rapamycin) on muscle strength and endurance in older adults following a 13-week exercise program.",
+      "authorString": "Stanfield B, Kaeberlein M, Leroux B, Jones J, Lucas R, Arroll B.",
+      "journalTitle": "Trials",
+      "issue": "1",
+      "journalVolume": "25",
+      "pubYear": "2024",
+      "journalIssn": "1745-6215",
+      "pageInfo": "642",
+      "pubType": "clinical trial protocol; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 5,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2024-10-01",
+      "firstIndexDate": "2024-10-02"
+    },
+    {
+      "id": "39501093",
+      "source": "MED",
+      "pmid": "39501093",
+      "pmcid": "PMC11925677",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11925677"
+        ]
+      },
+      "doi": "10.1038/s41569-024-01094-y",
+      "title": "Nanomedicine-based strategies for the treatment of vein graft disease.",
+      "authorString": "Zhou Z, Chen W, Cao Y, Abdi R, Tao W.",
+      "journalTitle": "Nat Rev Cardiol",
+      "issue": "4",
+      "journalVolume": "22",
+      "pubYear": "2025",
+      "journalIssn": "1759-5002; 1759-5010; ",
+      "pageInfo": "255-272",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 12,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2024-11-05",
+      "firstIndexDate": "2024-11-07"
+    },
+    {
+      "id": "42104578",
+      "source": "MED",
+      "pmid": "42104578",
+      "pmcid": "PMC13383918",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13383918"
+        ]
+      },
+      "doi": "10.1002/ame2.70195",
+      "title": "Porcine kidney xenotransplantation: From primate models to clinical reality.",
+      "authorString": "Guo Z, Zhang L, Deng S, Qin C.",
+      "journalTitle": "Animal Model Exp Med",
+      "issue": "6",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2096-5451; 2576-2095; ",
+      "pageInfo": "1142-1166",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-08",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "42514957",
+      "source": "MED",
+      "pmid": "42514957",
+      "pmcid": "PMC13414956",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13414956"
+        ]
+      },
+      "doi": "10.3390/pharmaceutics18070880",
+      "title": "Advances in Functional Vascular Stents for Cardiovascular Therapy with Drug Delivery and Computational Design.",
+      "authorString": "Xu X, Hu Y, Li H, Wang Y, Sun J, Liu Q, Qin K.",
+      "journalTitle": "Pharmaceutics",
+      "issue": "7",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "1999-4923",
+      "pageInfo": "880",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-17",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "PMC11692974",
+      "source": "PMC",
+      "pmcid": "PMC11692974",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11692974"
+        ]
+      },
+      "title": "AWE-INDUCTION IMPROVES RECOVERY FROM STRESS AND IMPROVES COGNITIVE PERFORMANCE",
+      "journalTitle": "Innov Aging",
+      "issue": "suppl 1",
+      "journalVolume": "8",
+      "pubYear": "2024",
+      "journalIssn": "2399-5300",
+      "pageInfo": "1133-1134",
+      "pubType": "abstract",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-12-01",
+      "firstIndexDate": "2025-01-03"
+    },
+    {
+      "id": "39988732",
+      "source": "MED",
+      "pmid": "39988732",
+      "pmcid": "PMC12283023",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12283023"
+        ]
+      },
+      "doi": "10.1080/15548627.2025.2469315",
+      "title": "Autophagy regulates cellular senescence by mediating the degradation of CDKN1A/p21 and CDKN2A/p16 through SQSTM1/p62-mediated selective autophagy in myxomatous mitral valve degeneration.",
+      "authorString": "Tang Q, Tang K, Markby GR, Parys M, Phadwal K, MacRae VE, Corcoran BM.",
+      "journalTitle": "Autophagy",
+      "issue": "7",
+      "journalVolume": "21",
+      "pubYear": "2025",
+      "journalIssn": "1554-8627; 1554-8635; ",
+      "pageInfo": "1433-1455",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 22,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-03-04",
+      "firstIndexDate": "2025-02-24"
+    },
+    {
+      "id": "42497485",
+      "source": "MED",
+      "pmid": "42497485",
+      "pmcid": "PMC13448906",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13448906"
+        ]
+      },
+      "doi": "10.1016/j.jacbts.2026.101636",
+      "title": "Functional Autoantibodies in Myocardial Diseases.",
+      "authorString": "Vanhentenrijk S, Augusto SN, Wilcox J, Liu CF, Tang WHW.",
+      "journalTitle": "JACC Basic Transl Sci",
+      "issue": "8",
+      "journalVolume": "11",
+      "pubYear": "2026",
+      "journalIssn": "2452-302x",
+      "pageInfo": "101636",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "pdb"
+        ]
+      },
+      "firstPublicationDate": "2026-07-24",
+      "firstIndexDate": "2026-07-26"
+    },
+    {
+      "id": "41624053",
+      "source": "MED",
+      "pmid": "41624053",
+      "pmcid": "PMC12855745",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12855745"
+        ]
+      },
+      "doi": "10.1177/20406207251406537",
+      "title": "Translational insights from nonclinical studies of AAV gene therapies for hemophilia: mechanisms underpinning variability and durability of gene expression.",
+      "authorString": "Fong S, Swystun LL, Batty P, Lillicrap D.",
+      "journalTitle": "Ther Adv Hematol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2040-6207; 2040-6215; ",
+      "pageInfo": "20406207251406537",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-01-29",
+      "firstIndexDate": "2026-02-06"
+    },
+    {
+      "id": "38922022",
+      "source": "MED",
+      "pmid": "38922022",
+      "pmcid": "PMC11209120",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC11209120"
+        ]
+      },
+      "doi": "10.3390/vetsci11060275",
+      "title": "Multimodal Blockade of the Renin-Angiotensin System in the Treatment of Cancer in Dogs Has Mild Adverse Effects in Some Dogs.",
+      "authorString": "Dittmer KE, Wetzel S, Odom T, Munday JS, Flatt EA, Wilson IJ, Hughes C, Tan ST.",
+      "journalTitle": "Vet Sci",
+      "issue": "6",
+      "journalVolume": "11",
+      "pubYear": "2024",
+      "journalIssn": "2306-7381",
+      "pageInfo": "275",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2024-06-17",
+      "firstIndexDate": "2024-06-26"
+    },
+    {
+      "id": "41303167",
+      "source": "MED",
+      "pmid": "41303167",
+      "pmcid": "PMC12653255",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12653255"
+        ]
+      },
+      "doi": "10.3390/jcm14228130",
+      "title": "Use of Calcium Modification in Percutaneous Coronary Intervention: A Comprehensive Review.",
+      "authorString": "Ramazani N, Abdallah AW, DiCaro MV, Sharma D, Singh A, Lei K.",
+      "journalTitle": "J Clin Med",
+      "issue": "22",
+      "journalVolume": "14",
+      "pubYear": "2025",
+      "journalIssn": "2077-0383",
+      "pageInfo": "8130",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2025-11-17",
+      "firstIndexDate": "2025-11-27"
+    },
+    {
+      "id": "41937138",
+      "source": "MED",
+      "pmid": "41937138",
+      "pmcid": "PMC13067429",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13067429"
+        ]
+      },
+      "doi": "10.1186/s12933-026-03173-5",
+      "title": "Sweet relief: exploring mechanisms and therapeutic approaches of sodium-glucose cotransporter-2 inhibitors in cardiovascular-kidney metabolic syndrome.",
+      "authorString": "Hua J, Wang Q, Liu Y, Luo S, Shi A, Yan Z, Zhang J, Gu W, Zhu L, Zhang Y, Zhang L, Yu P, Liu X, Wang W.",
+      "journalTitle": "Cardiovasc Diabetol",
+      "issue": "1",
+      "journalVolume": "25",
+      "pubYear": "2026",
+      "journalIssn": "1475-2840",
+      "pageInfo": "120",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-05",
+      "firstIndexDate": "2026-04-07"
+    },
+    {
+      "id": "41490149",
+      "source": "MED",
+      "pmid": "41490149",
+      "pmcid": "PMC13084612",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13084612"
+        ]
+      },
+      "doi": "10.1158/0008-5472.can-25-0916",
+      "title": "Emerging Strategies to Inhibit the G1/S Transition for Cancer Therapy.",
+      "authorString": "Rubin SM, Sage J, Skotheim JM.",
+      "journalTitle": "Cancer Res",
+      "issue": "7",
+      "journalVolume": "86",
+      "pubYear": "2026",
+      "journalIssn": "0008-5472; 1538-7445; ",
+      "pageInfo": "1545-1557",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-01",
+      "firstIndexDate": "2026-01-06"
+    },
+    {
+      "id": "42514905",
+      "source": "MED",
+      "pmid": "42514905",
+      "pmcid": "PMC13415653",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13415653"
+        ]
+      },
+      "doi": "10.3390/pharmaceutics18070827",
+      "title": "From Concept to Clinic: Vepdegestrant (ARV 471) Becomes the First Approved PROTAC Drug.",
+      "authorString": "Bege M, Lovas M, Borbás A.",
+      "journalTitle": "Pharmaceutics",
+      "issue": "7",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "1999-4923",
+      "pageInfo": "827",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-07-06",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42898742",
+      "source": "MED",
+      "pmid": "42898742",
+      "pmcid": "PMC13678689",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13678689"
+        ]
+      },
+      "doi": "10.1039/d6ra06308j",
+      "title": "Functionalized bioresorbable biliary stents: materials design, coating engineering, and clinical translation.",
+      "authorString": "Wang B, Gong W.",
+      "journalTitle": "RSC Adv",
+      "pubYear": "2026",
+      "journalIssn": "2046-2069",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-19",
+      "firstIndexDate": "2026-10-21"
+    }
+  ]
+}

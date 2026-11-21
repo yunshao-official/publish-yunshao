@@ -1,0 +1,27 @@
+D03-cr-v11-01|crossref|shareholder consent rights agreement enumeration|OK
+D03-cr-v11-02|crossref|reserved matters supermajority articles of association|OK
+D03-cr-v11-03|crossref|negative control minority shareholders corporate law|OK
+D03-cr-v11-04|crossref|blocking minority voting thresholds corporate decisions|OK
+D03-cr-v11-05|crossref|venture capital term sheet investor protection rights|OK
+D03-cr-v11-06|crossref|veto power shareholder protection empirical study|OK
+D03-op-v11-01|openalex|protective provisions preferred shareholders board seats|OK
+D03-op-v11-02|openalex|minority shareholder veto deadlock corporate governance|OK
+D04-cr-v11-01|crossref|director nomination rights shareholder agreements board composition|OK
+D04-cr-v11-02|crossref|company seal apparent authority contract validity China|OK
+D04-cr-v11-03|crossref|managing director appointment removal shareholder control|OK
+D04-cr-v11-04|crossref|legal representative corporate liability China governance|OK
+D04-op-v11-01|openalex|board interlocks shareholder control executive appointments|OK
+D04-op-v11-02|openalex|chief executive officer dismissal board authority|OK
+D09-cr-v11-01|crossref|golden shares member states free movement of capital restrictions|OK
+D09-cr-v11-02|crossref|mixed ownership reform control rights state-owned enterprises China|OK
+D09-cr-v11-03|crossref|special management shares Chinese internet platforms|OK
+D09-cr-v11-04|crossref|state ownership pyramid control minority shareholders|OK
+D09-cr-v11-05|crossref|party organizations boards of directors China corporate governance|OK
+D09-op-v11-01|openalex|soe governance minority investor protection mixed ownership|OK
+D09-op-v11-02|openalex|golden share proportionality case law European Union|OK
+D11-cr-v11-01|crossref|dual class shares long term underperformance founder control|OK
+D11-cr-v11-02|crossref|weighted voting rights sunset clause listing rules comparison|OK
+D11-cr-v11-03|crossref|one share multiple votes Singapore listing reform|OK
+D11-cr-v11-04|crossref|controlled company conflicts of interest Delaware doctrine|OK
+D11-op-v11-01|openalex|differential voting rights ownership structure performance meta analysis|OK
+D11-op-v11-02|openalex|tech founder controlled firms innovation governance|OK

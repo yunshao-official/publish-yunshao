@@ -1,0 +1,1798 @@
+{
+  "query_id": "A8",
+  "group": "A",
+  "query": "beta blocker AND heart failure AND mortality AND randomized",
+  "hitCount": 17891,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:27:56.303757+00:00",
+  "results": [
+    {
+      "id": "42825854",
+      "source": "MED",
+      "pmid": "42825854",
+      "doi": "10.1007/s11845-026-04619-1",
+      "title": "The effect of beta-blockers in heart failure with preserved ejection fraction and atrial fibrillation: systematic review and meta-analysis.",
+      "authorString": "Mohammed S, Murtafa KM, Vondivillu Srinivasan R, Arumapperuma HA, Anilkumar A, Osman M, Khanday SS, Arshad MR, Shafi A.",
+      "journalTitle": "Ir J Med Sci",
+      "pubYear": "2026",
+      "journalIssn": "0021-1265; 1863-4362; ",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-02",
+      "firstIndexDate": "2026-10-03"
+    },
+    {
+      "id": "PMC13657573",
+      "source": "PMC",
+      "pmcid": "PMC13657573",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13657573"
+        ]
+      },
+      "title": "Prognostic impact of long-term beta-blockers post-stemi: a meta-analytic review",
+      "authorString": "Maryam I, Raj S, Bai S, Muskan F, Devi S, Geeta F, Ahmed G, Pervaiz A, Deepika D, Jawad S.",
+      "journalTitle": "Ann Med Surg (Lond)",
+      "issue": "10",
+      "journalVolume": "88",
+      "pubYear": "2026",
+      "journalIssn": "2049-0801",
+      "pageInfo": "6514-6521",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-14",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "PMC13666520",
+      "source": "PMC",
+      "pmcid": "PMC13666520",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13666520"
+        ]
+      },
+      "title": "Beta-Blocker Therapy After Acute Myocardial Infarction",
+      "journalTitle": "J Clin Med",
+      "issue": "19",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2077-0383",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-29",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "41934630",
+      "source": "MED",
+      "pmid": "41934630",
+      "doi": "10.1093/ehjqcco/qcag055",
+      "title": "Validating national registry data for randomized trials: comparison of registry-derived cardiovascular events with and without adjudication in the BETAMI-DANBLOCK trial.",
+      "authorString": "Holmager TLF, Kristensen AMD, Fagerland MW, Atar D, Hecht Olsen M, Bakken A, Munkhaugen J, Prescott E.",
+      "journalTitle": "Eur Heart J Qual Care Clin Outcomes",
+      "issue": "6",
+      "journalVolume": "12",
+      "pubYear": "2026",
+      "journalIssn": "2058-5225; 2058-1742; ",
+      "pageInfo": "903-911",
+      "pubType": "comparative study; validation study; randomized controlled trial; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-04-05"
+    },
+    {
+      "id": "PMC13674047",
+      "source": "PMC",
+      "pmcid": "PMC13674047",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13674047"
+        ]
+      },
+      "title": "Comparative Outcomes of Beta-Blockers vs Non-Dihydropyridine Calcium Channel Blockers in Heart Failure With Preserved Ejection Fraction: A Systematic Review and Meta-Analysis",
+      "authorString": "Othman S, Alanazi M, Aljuadi S, Moeed B, Albaiahy L, Emara M, Ahmed B, Alwabisi W, Mohammed M, Alquthami H, Alotaibi A, Abdelrahman A, Asiri M, Almaadi S, Metwaly A.",
+      "journalTitle": "Cureus",
+      "issue": "9",
+      "journalVolume": "18",
+      "journalIssn": "2168-8184",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-19",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "42595251",
+      "source": "MED",
+      "pmid": "42595251",
+      "doi": "10.1016/j.cardfail.2026.07.029",
+      "title": "Beta-Blocker Discontinuation in Heart Failure With Preserved or Improved Ejection Fraction: A Systematic Review.",
+      "authorString": "Thompson W, Alaeiilkhchi N, McCarthy LM, McDonald W, Eskandari R, Yang YM, Salzwedel DM, Goyal P.",
+      "journalTitle": "J Card Fail",
+      "pubYear": "2026",
+      "journalIssn": "1071-9164; 1532-8414; ",
+      "pageInfo": "S1071-9164(26)00449-5",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-13",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "42717883",
+      "source": "MED",
+      "pmid": "42717883",
+      "doi": "10.1093/ehjqcco/qcag142",
+      "title": "Risk-Score Guided Estimation of Absolute Benefit From Beta-blockers after Myocardial Infarction in Patients Without Heart Failure.",
+      "authorString": "Caglar H, Holmager T, Kristensen AMD, Bakken A, Rykind-Eriksen F, Deeg P, Andresen K, Maeng M, Øie E, Atar D, Munkhaugen J, Prescott E.",
+      "journalTitle": "Eur Heart J Qual Care Clin Outcomes",
+      "pubYear": "2026",
+      "journalIssn": "2058-5225; 2058-1742; ",
+      "pageInfo": "qcag142",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-10",
+      "firstIndexDate": "2026-09-11"
+    },
+    {
+      "id": "42919410",
+      "source": "MED",
+      "pmid": "42919410",
+      "pmcid": "PMC13692881",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13692881"
+        ]
+      },
+      "doi": "10.1186/s13019-026-04572-1",
+      "title": "SGLT2 inhibitor therapy following aortic valve intervention for aortic stenosis: a systematic review and meta-analysis of mortality, heart failure, rhythm, renal, and valve-related outcomes.",
+      "authorString": "Megantara HP, Dakota I, Taofan T, Indrian S, Aurora RG, Adiarto S.",
+      "journalTitle": "J Cardiothorac Surg",
+      "issue": "1",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1749-8090",
+      "pageInfo": "838",
+      "pubType": "meta-analysis; research-article; systematic review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-28",
+      "firstIndexDate": "2026-10-25"
+    },
+    {
+      "id": "42314582",
+      "source": "MED",
+      "pmid": "42314582",
+      "pmcid": "PMC13311924",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13311924"
+        ]
+      },
+      "doi": "10.1016/j.jacadv.2026.102929",
+      "title": "Beta-Blocker Discontinuation in Acute Heart Failure: A Systematic Review and Meta-Analysis.",
+      "authorString": "Alaeiilkhchi N, Thompson W, McCarthy LM, McDonald W, Eskandari R, Yang YM, Salzwedel DM, Goyal P.",
+      "journalTitle": "JACC Adv",
+      "issue": "7",
+      "journalVolume": "5",
+      "pubYear": "2026",
+      "journalIssn": "2772-963x",
+      "pageInfo": "102929",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-18",
+      "firstIndexDate": "2026-06-19"
+    },
+    {
+      "id": "42617486",
+      "source": "MED",
+      "pmid": "42617486",
+      "pmcid": "PMC13520734",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13520734"
+        ]
+      },
+      "doi": "10.1016/j.jacadv.2026.103168",
+      "title": "Beta-Blocker Use After Acute Myocardial Infarction: Differential Impact Across Heart Failure Subtypes in a Real-World Cohort.",
+      "authorString": "Gu T, Hu S, Zhang Y, Feng W, Li Y, Liu X, Shao X, Wang L, Liu T, Lip GYH, Chen KY.",
+      "journalTitle": "JACC Adv",
+      "issue": "9",
+      "journalVolume": "5",
+      "pubYear": "2026",
+      "journalIssn": "2772-963x",
+      "pageInfo": "103168",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-19",
+      "firstIndexDate": "2026-08-22"
+    },
+    {
+      "id": "42827257",
+      "source": "MED",
+      "pmid": "42827257",
+      "pmcid": "PMC13632176",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13632176"
+        ]
+      },
+      "doi": "10.1186/s40959-026-00581-0",
+      "title": "Long-term outcomes of prophylactic cardioprotection in early-stage breast cancer patients on non-anthracycline anti-HER2 therapy.",
+      "authorString": "McClelland TQ, Bolakale-Rufai IK, Zhiying M, Baldridge AS, Akhter N.",
+      "journalTitle": "Cardiooncology",
+      "issue": "1",
+      "journalVolume": "12",
+      "pubYear": "2026",
+      "journalIssn": "2057-3804",
+      "pageInfo": "119",
+      "pubType": "letter",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-10-02",
+      "firstIndexDate": "2026-10-03"
+    },
+    {
+      "id": "42473525",
+      "source": "MED",
+      "pmid": "42473525",
+      "pmcid": "PMC13380954",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13380954"
+        ]
+      },
+      "doi": "10.7759/cureus.111154",
+      "title": "Treatment Effect of Beta-Blocker Therapy After Acute Myocardial Infarction With Preserved or Mildly Reduced Ejection Fraction: A Systematic Review and Trial Sequential Analysis.",
+      "authorString": "Chinnatambi C, Sakowski L, Ottun AA, Darko PK, Otchere B, Njobe B, Poku Agyemang O, Pimentel J, Kanjo W, Ibrahim S.",
+      "journalTitle": "Cureus",
+      "issue": "6",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e111154",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-06-19",
+      "firstIndexDate": "2026-07-21"
+    },
+    {
+      "id": "42866369",
+      "source": "MED",
+      "pmid": "42866369",
+      "doi": "10.1097/ms9.0000000000004665",
+      "title": "Prognostic impact of long-term beta-blockers post-stemi: a meta-analytic review.",
+      "authorString": "Maryam I, Raj S, Bai S, Muskan F, Devi S, Geeta F, Ahmed GU, Pervaiz A, Deepika D, Jawad S.",
+      "journalTitle": "Ann Med Surg (Lond)",
+      "issue": "10",
+      "journalVolume": "88",
+      "pubYear": "2026",
+      "journalIssn": "2049-0801",
+      "pageInfo": "6514-6521",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-14",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "42290186",
+      "source": "MED",
+      "pmid": "42290186",
+      "pmcid": "PMC13624656",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13624656"
+        ]
+      },
+      "doi": "10.1093/ehjacc/zuag084",
+      "title": "Safety and efficacy of ivabradine in the treatment of patients with acute myocardial infarction: a real-world propensity score matching study.",
+      "authorString": "Gu T, Feng W, Shao X, Liu JY, Zhang YK, Hu ST, Dai WB, Liu T, Chen KY.",
+      "journalTitle": "Eur Heart J Acute Cardiovasc Care",
+      "issue": "9",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2048-8726; 2048-8734; ",
+      "pageInfo": "690-700",
+      "pubType": "research-article; multicenter study; journal article; observational study",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-06-16"
+    },
+    {
+      "id": "42771286",
+      "source": "MED",
+      "pmid": "42771286",
+      "pmcid": "PMC13597995",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13597995"
+        ]
+      },
+      "doi": "10.1186/s43044-026-00782-z",
+      "title": "Early administration of ivabradine in patients with acute anterior ST-elevation myocardial infarction: a prospective, randomized, open-label study on in-hospital and short-term major adverse cardiac events and left ventricular function.",
+      "authorString": "Al Hawwari OM, Zahran ME, Othman KMS, Mansour H.",
+      "journalTitle": "Egypt Heart J",
+      "issue": "1",
+      "journalVolume": "78",
+      "pubYear": "2026",
+      "journalIssn": "1110-2608; 2090-911x; ",
+      "pageInfo": "72",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-09-23"
+    },
+    {
+      "id": "42696435",
+      "source": "MED",
+      "pmid": "42696435",
+      "pmcid": "PMC13552291",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13552291"
+        ]
+      },
+      "doi": "10.1080/07853890.2026.2719256",
+      "title": "Heterogeneous effects of preoperative beta blockers on 30-day mortality after coronary artery bypass surgery.",
+      "authorString": "Lu W, Tang H, Wang J, Han J, Li Y, Wang X, Hou J.",
+      "journalTitle": "Ann Med",
+      "issue": "1",
+      "journalVolume": "58",
+      "pubYear": "2026",
+      "journalIssn": "0785-3890; 1365-2060; ",
+      "pageInfo": "2719256",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-04",
+      "firstIndexDate": "2026-09-05"
+    },
+    {
+      "id": "PMC13719635",
+      "source": "PMC",
+      "pmcid": "PMC13719635",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13719635"
+        ]
+      },
+      "title": "Digoxin Revisited: An Updated Review in the Light of Recent Trials",
+      "authorString": "Saad M, Abdullah M, Yelamarthy A, John K, Mallick A, Khan B, Tahir H, Krishnamani R.",
+      "journalTitle": "Cardiol Res",
+      "issue": "6",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1923-2829; 1923-2837; ",
+      "pageInfo": "553-560",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-24",
+      "firstIndexDate": "2026-10-31"
+    },
+    {
+      "id": "42262489",
+      "source": "MED",
+      "pmid": "42262489",
+      "pmcid": "PMC13652068",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13652068"
+        ]
+      },
+      "doi": "10.1097/ccm.0000000000007229",
+      "title": "Continuing vs. Withholding Home Beta-Blockers at Admission for Suspected Infection: A Target Trial Emulation.",
+      "authorString": "Christian-Miller N, Lee KT, Pashun R, Ballut K, Prescott H, Cascino T, Taylor SP, Ansari S, Sjoding MW, Nagle M, Admon AJ.",
+      "journalTitle": "Crit Care Med",
+      "issue": "9",
+      "journalVolume": "54",
+      "pubYear": "2026",
+      "journalIssn": "0090-3493; 1530-0293; ",
+      "pageInfo": "2350-2360",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-09",
+      "firstIndexDate": "2026-06-10"
+    },
+    {
+      "id": "42926911",
+      "source": "MED",
+      "pmid": "42926911",
+      "pmcid": "PMC13695040",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13695040"
+        ]
+      },
+      "doi": "10.7759/cureus.118487",
+      "title": "Concordance Between Trial Efficacy and Real-World Effectiveness of Sodium-Glucose Cotransporter 2 Inhibitors in Heart Failure With Reduced Ejection Fraction: A Systematic Review and Meta-Analysis.",
+      "authorString": "Hassanien A, Elhenedy M, Elgohari M.",
+      "journalTitle": "Cureus",
+      "issue": "10",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e118487",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-24",
+      "firstIndexDate": "2026-10-26"
+    },
+    {
+      "id": "42621434",
+      "source": "MED",
+      "pmid": "42621434",
+      "pmcid": "PMC13487810",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13487810"
+        ]
+      },
+      "doi": "10.1002/hsr2.73068",
+      "title": "Comparative Efficacy and Safety of Ivabradine vs. Beta Blockers in Heart Transplant Patients: A Systematic Review and Meta-Analysis.",
+      "authorString": "Hassan A, Amir M, Naeem M, Ali EF, Ullah U, Jahangir MA, Hassaan MU, Aman R, Rifat HR, Nazir MF, Awais MN, Alizai A, Gul S, Asif A.",
+      "journalTitle": "Health Sci Rep",
+      "issue": "8",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2398-8835",
+      "pageInfo": "e73068",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-19",
+      "firstIndexDate": "2026-08-22"
+    },
+    {
+      "id": "42923076",
+      "source": "MED",
+      "pmid": "42923076",
+      "pmcid": "PMC13687593",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13687593"
+        ]
+      },
+      "doi": "10.1002/joa3.70492",
+      "title": "2026 Asia Pacific Heart Rhythm Society (APHRS) Guidelines (Part III) on Rate and Rhythm Control in Atrial Fibrillation.",
+      "authorString": "Chen M, Soejima K, Gunawardene M, Kojodjojo P, Liu H, Liu T, Miyazaki S, Morishima I, Sanders P, Tse HF, Yamaguchi T, Choi EK, Joung B, Krittayaphong R, Middeldorp M, Lip GYH, Pak HN, Chao TF, Kim YH, Chen SA.",
+      "journalTitle": "J Arrhythm",
+      "issue": "5",
+      "journalVolume": "42",
+      "pubYear": "2026",
+      "journalIssn": "1880-4276; 1883-2148; ",
+      "pageInfo": "e70492",
+      "pubType": "other; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-21",
+      "firstIndexDate": "2026-10-25"
+    },
+    {
+      "id": "41672763",
+      "source": "MED",
+      "pmid": "41672763",
+      "pmcid": "PMC13638283",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13638283"
+        ]
+      },
+      "doi": "10.1136/heartjnl-2025-326305",
+      "title": "Survival benefit of guideline-directed medical therapy in older patients with heart failure: a systematic review and meta-analysis.",
+      "authorString": "Tan E, Meei-Wah C, Teo YH, Tan LF, Ho VWT, Lin W, Yeo TC, Wong RCC, Chai P, Kong W, Sia CH.",
+      "journalTitle": "Heart",
+      "issue": "20",
+      "journalVolume": "112",
+      "pubYear": "2026",
+      "journalIssn": "1355-6037; 1468-201x; ",
+      "pageInfo": "1114-1124",
+      "pubType": "meta-analysis; research-article; systematic review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-24",
+      "firstIndexDate": "2026-02-12"
+    },
+    {
+      "id": "42312775",
+      "source": "MED",
+      "pmid": "42312775",
+      "doi": "10.1016/j.jacadv.2026.102840",
+      "title": "Beta-Blocker Discontinuation After Myocardial Infarction: A Systematic Review and Meta-Analysis.",
+      "authorString": "Thompson W, Alaeiilkhchi N, McCarthy LM, Eskandari R, Yang YM, Barry AR, McDonald W, Pan J, Salzwedel DM, Goyal P.",
+      "journalTitle": "JACC Adv",
+      "issue": "6 pt 2",
+      "journalVolume": "5",
+      "pubYear": "2026",
+      "journalIssn": "2772-963x",
+      "pageInfo": "102840",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-06-19"
+    },
+    {
+      "id": "42306649",
+      "source": "MED",
+      "pmid": "42306649",
+      "pmcid": "PMC13266205",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13266205"
+        ]
+      },
+      "doi": "10.1016/j.ahjo.2026.100810",
+      "title": "β-Blockers after myocardial infarction with preserved or mildly reduced left ventricular ejection fraction: Fragility of contemporary evidence.",
+      "authorString": "Zuin M, Chopard R, Drachman DE, Rigatelli G, De Luca L, Temporelli PL, De Caterina R, Piazza G.",
+      "journalTitle": "Am Heart J Plus",
+      "journalVolume": "67",
+      "pubYear": "2026",
+      "journalIssn": "2666-6022",
+      "pageInfo": "100810",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-06-04",
+      "firstIndexDate": "2026-06-18"
+    },
+    {
+      "id": "42923567",
+      "source": "MED",
+      "pmid": "42923567",
+      "pmcid": "PMC13689039",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13689039"
+        ]
+      },
+      "doi": "10.47895/amp.v60i15.13102",
+      "title": "Quality of Care of Patients with Stable and Stabilized Heart Failure with Reduced Ejection Fraction at the Medical Wards of a Tertiary Center in the Philippines: A Retrospective Cross-sectional Study.",
+      "authorString": "Mondido SMC, Punzalan FER, Enriquez KPDA, Roderos RAB, Santos NJC, Aya-Ay TAP, Sabando MJD, Tago BSAAB, Nelson ZOM, Maramara MKPA, Evangelista LKM.",
+      "journalTitle": "Acta Med Philipp",
+      "issue": "15",
+      "journalVolume": "60",
+      "pubYear": "2026",
+      "journalIssn": "0001-6071; 2094-9278; ",
+      "pageInfo": "107-117",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-15",
+      "firstIndexDate": "2026-10-25"
+    },
+    {
+      "id": "41863565",
+      "source": "MED",
+      "pmid": "41863565",
+      "pmcid": "PMC13005812",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13005812"
+        ]
+      },
+      "doi": "10.1007/s10741-026-10615-5",
+      "title": "The prognostic impact of beta blockers in ischemic heart failure: time for a paradigm shift?",
+      "authorString": "Castiello DS, Calvelli P, Anniballo A, Romano LR, Polimeni A, Curcio A.",
+      "journalTitle": "Heart Fail Rev",
+      "issue": "1",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "1382-4147; 1573-7322; ",
+      "pageInfo": "41",
+      "pubType": "research support, non-u.s. gov't; review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-03-21",
+      "firstIndexDate": "2026-03-23"
+    },
+    {
+      "id": "41778370",
+      "source": "MED",
+      "pmid": "41778370",
+      "pmcid": "PMC13457922",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13457922"
+        ]
+      },
+      "doi": "10.1093/ehjqcco/qcag029",
+      "title": "Heart failure with reduced ejection fraction: a systematic review of clinical practice guidelines and recommendations.",
+      "authorString": "Datta S, Majumder S, Gulsin GS, Banerjee A, Primus CP, Mohammed SF, Ricci F, Aung N, Sen G, Gallagher A, Chahal CAA, Khanji MY.",
+      "journalTitle": "Eur Heart J Qual Care Clin Outcomes",
+      "issue": "5",
+      "journalVolume": "12",
+      "pubYear": "2026",
+      "journalIssn": "2058-5225; 2058-1742; ",
+      "pageInfo": "679-703",
+      "pubType": "systematic review; review-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-01",
+      "firstIndexDate": "2026-03-04"
+    },
+    {
+      "id": "42462167",
+      "source": "MED",
+      "pmid": "42462167",
+      "doi": "10.1093/ejhf/xuag233",
+      "title": "A NETwork meta-analysis with COST-effectiveness evaluation of pharmacological treatments for heart failure with reduced ejection fraction: NET-COST-HFrEF.",
+      "authorString": "Laborante R, Bianchini E, Beer BN, Valente V, Mavridis D, Di Bidino R, D'Amario D, Roes K, Mol P, Basile C, Corovic Cabrera C, Scorza R, Porcher R, Jhund PS, Butler J, Savarese G.",
+      "journalTitle": "Eur J Heart Fail",
+      "issue": "4",
+      "journalVolume": "28",
+      "pubYear": "2026",
+      "journalIssn": "1388-9842; 1879-0844; ",
+      "pageInfo": "646-659",
+      "pubType": "network meta-analysis; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-07-17"
+    },
+    {
+      "id": "42780637",
+      "source": "MED",
+      "pmid": "42780637",
+      "pmcid": "PMC13598551",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13598551"
+        ]
+      },
+      "doi": "10.1002/mco2.71008",
+      "title": "Cardiovascular-Kidney-Metabolic Overlaps, Clinical Outcomes, and Medications Among Patients With Heart Failure: Results From the Chinese Cardiovascular Association Database-Heart Failure Center Registry.",
+      "authorString": "Wang X, Li J, Li Y, Lei L, Wang W, Meng X, Xia C, Yang C, Zhang L, Liao Y, Li W, Dong Y, Li X, Zhou J, Yang J, Wang F.",
+      "journalTitle": "MedComm (2020)",
+      "issue": "10",
+      "journalVolume": "7",
+      "pubYear": "2026",
+      "journalIssn": "2688-2663",
+      "pageInfo": "e71008",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-23",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "42891286",
+      "source": "MED",
+      "pmid": "42891286",
+      "doi": "10.7759/cureus.116345",
+      "title": "Comparative Outcomes of Beta-Blockers vs Non-Dihydropyridine Calcium Channel Blockers in Heart Failure With Preserved Ejection Fraction: A Systematic Review and Meta-Analysis.",
+      "authorString": "Othman SA, Alanazi M, Aljuadi SF, Moeed B, Albaiahy LK, Emara MM, Ahmed BA, Alwabisi WN, Mohammed MK, Alquthami HS, Alotaibi AT, Abdelrahman A, Asiri MA, Almaadi SA, Metwaly AS.",
+      "journalTitle": "Cureus",
+      "issue": "9",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e116345",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-16",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "42941631",
+      "source": "MED",
+      "pmid": "42941631",
+      "pmcid": "PMC13706031",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13706031"
+        ]
+      },
+      "doi": "10.3390/jcm15208118",
+      "title": "Drug Therapies and Incident Heart Failure in Atrial Fibrillation: A Systematic Review.",
+      "authorString": "Zobdeh A, Peterson GM, Bezabhe WM, Shastri P, Hoyle DJ.",
+      "journalTitle": "J Clin Med",
+      "issue": "20",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2077-0383",
+      "pageInfo": "8118",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-19",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "41885176",
+      "source": "MED",
+      "pmid": "41885176",
+      "pmcid": "PMC13457943",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13457943"
+        ]
+      },
+      "doi": "10.1093/ehjqcco/qcag050",
+      "title": "Pharmacological treatment after a first myocardial infarction in Sweden-long-term adherence and prognosis.",
+      "authorString": "Sakalaki M, Fu M, Pivodic A, Rosengren A, Björck L.",
+      "journalTitle": "Eur Heart J Qual Care Clin Outcomes",
+      "issue": "5",
+      "journalVolume": "12",
+      "pubYear": "2026",
+      "journalIssn": "2058-5225; 2058-1742; ",
+      "pageInfo": "782-791",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-01",
+      "firstIndexDate": "2026-03-27"
+    },
+    {
+      "id": "41796956",
+      "source": "MED",
+      "pmid": "41796956",
+      "pmcid": "PMC13316007",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13316007"
+        ]
+      },
+      "doi": "10.1016/j.ihj.2026.02.003",
+      "title": "Beta-blockers after myocardial infarction in the reperfusion era-Time for reappraisal?",
+      "authorString": "Yadav S, Kidambi BR, Sharma V, Naik N.",
+      "journalTitle": "Indian Heart J",
+      "issue": "3",
+      "journalVolume": "78",
+      "pubYear": "2026",
+      "journalIssn": "0019-4832; 2213-3763; ",
+      "pageInfo": "115-117",
+      "pubType": "editorial",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-03-06",
+      "firstIndexDate": "2026-03-10"
+    },
+    {
+      "id": "PMC13639476",
+      "source": "PMC",
+      "pmcid": "PMC13639476",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13639476"
+        ]
+      },
+      "title": "Nurse led titration of guideline-directed medical therapy for heart failure: an operative flow chart",
+      "journalTitle": "ESC Heart Fail",
+      "issue": "5",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2055-5822",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-07"
+    },
+    {
+      "id": "PMC13675830",
+      "source": "PMC",
+      "pmcid": "PMC13675830",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13675830"
+        ]
+      },
+      "title": "Why Circulating Interleukin‐6 Is Not Yet a Standalone Clinically Actionable Biomarker in HFrEF: A Context‐of‐Use Review",
+      "authorString": "Ye Y, Colombo M, Meessen J, Tyl B, Novelli D, Hajizadeh N, Brunner‐La Rocca H, Voors A, Klas S, Schwers S, Follin B, Latini R.",
+      "journalTitle": "Eur J Clin Invest",
+      "issue": "10",
+      "journalVolume": "56",
+      "pubYear": "2026",
+      "journalIssn": "0014-2972; 1365-2362; ",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "42135582",
+      "source": "MED",
+      "pmid": "42135582",
+      "pmcid": "PMC13569765",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13569765"
+        ]
+      },
+      "doi": "10.1007/s11606-026-10414-6",
+      "title": "EBM BLS: Beta-blockers Fail to Improve Cardiovascular Outcomes in Patients with Myocardial Infarction and Preserved Ejection fraction.",
+      "authorString": "Beaty W, Allon S.",
+      "journalTitle": "J Gen Intern Med",
+      "issue": "12",
+      "journalVolume": "41",
+      "pubYear": "2026",
+      "journalIssn": "0884-8734; 1525-1497; ",
+      "pageInfo": "3595-3597",
+      "pubType": "brief-report; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-14",
+      "firstIndexDate": "2026-05-15"
+    },
+    {
+      "id": "42792696",
+      "source": "MED",
+      "pmid": "42792696",
+      "pmcid": "PMC13604452",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13604452"
+        ]
+      },
+      "doi": "10.3390/biomedicines14091954",
+      "title": "Hormonal Modulation in Chronic Coronary Syndrome: From Neurohormonal Activation to Endocrine Targets.",
+      "authorString": "Brie AD, Popescu R, Mornoș C, Brie DM.",
+      "journalTitle": "Biomedicines",
+      "issue": "9",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2227-9059",
+      "pageInfo": "1954",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-30",
+      "firstIndexDate": "2026-09-26"
+    },
+    {
+      "id": "PMC13690626",
+      "source": "PMC",
+      "pmcid": "PMC13690626",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13690626"
+        ]
+      },
+      "title": "Efficacy of beta-blockers in preventing cardiotoxicity in breast cancer patients receiving anthracyclines: a GRADE-assessed systematic review and meta-analysis with trial sequential analysis",
+      "authorString": "Samperio V, Murrieta Bruciaga L, Castañeda Martínez J, Coronado Porchas V, Chen Liang A, Cruz Castillo Y, Ghonge A, Saripalli A, Schulz T.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "13",
+      "journalIssn": "2297-055x",
+      "pubType": "systematic-review; review",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-24",
+      "firstIndexDate": "2026-10-24"
+    },
+    {
+      "id": "42794242",
+      "source": "MED",
+      "pmid": "42794242",
+      "pmcid": "PMC13605619",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13605619"
+        ]
+      },
+      "doi": "10.3390/children13091223",
+      "title": "Extrapolation of Adult Evidence to Pediatric Practice: Bridging the Gap in Pediatric Heart Failure Pharmacotherapy.",
+      "authorString": "Sorescu AM, Ghiță CIV, Stoleru S, Duică G, Nicolescu AM, Cinteză EE, Fulga I, Coman OA.",
+      "journalTitle": "Children (Basel)",
+      "issue": "9",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2227-9067",
+      "pageInfo": "1223",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-10",
+      "firstIndexDate": "2026-09-28"
+    },
+    {
+      "id": "42792664",
+      "source": "MED",
+      "pmid": "42792664",
+      "pmcid": "PMC13604439",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13604439"
+        ]
+      },
+      "doi": "10.3390/biomedicines14091922",
+      "title": "Atrial Fibrillation and HFrEF: Cause, Consequence, or Both?",
+      "authorString": "Grigore M, Grigore AM, Martin-Graur RE, Nicolae C, Balahura AM, Ioana V, Gabriela U, Ilieșiu AM.",
+      "journalTitle": "Biomedicines",
+      "issue": "9",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2227-9059",
+      "pageInfo": "1922",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-27",
+      "firstIndexDate": "2026-09-26"
+    },
+    {
+      "id": "41985940",
+      "source": "MED",
+      "pmid": "41985940",
+      "pmcid": "PMC13593208",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13593208"
+        ]
+      },
+      "doi": "10.1093/eurheartj/ehag206",
+      "title": "Cardiac resynchronization therapy with or without atrioventricular node ablation in atrial fibrillation: the CAAN-AF trial.",
+      "authorString": "Sanders P, Ariyaratnam JP, Stiles MK, Puvrez A, Nicholls SJ, Abhayaratna WP, Perrin MJ, Alison J, Pathak RK, Ganesan A, Paul V, Thomas SP, Thomas G, Middeldorp ME, Shahmohamadi E, Elliott AD, Park R, Haqqani H, Boddington D, Kistler PM, Martin P, Sy RW, Willems S, Stobie P, Webber M, Kaye G, MacIntyre P, John B, Steven D, Hussin A, Singarayar S, Whalley D, O'Donnell D, Lever N, Mahajan R, Ninio D, Amerena J, Esterman A, Chew DP, Worthley M, Tonkin A, De Pasquale CG, Kalman JM.",
+      "journalTitle": "Eur Heart J",
+      "issue": "36",
+      "journalVolume": "47",
+      "pubYear": "2026",
+      "journalIssn": "0195-668x; 1522-9645; ",
+      "pageInfo": "5128-5138",
+      "pubType": "research-article; multicenter study; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-04-16"
+    },
+    {
+      "id": "42739524",
+      "source": "MED",
+      "pmid": "42739524",
+      "pmcid": "PMC13566356",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13566356"
+        ]
+      },
+      "doi": "10.3390/jcm15176519",
+      "title": "Phenotype-Guided Management of Atrial Fibrillation in Heart Failure: From Rate Control to Catheter Ablation.",
+      "authorString": "Şahin E, Ardahanlı İ, Akhan O, Aslan R, Kaplangöray M.",
+      "journalTitle": "J Clin Med",
+      "issue": "17",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2077-0383",
+      "pageInfo": "6519",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-23",
+      "firstIndexDate": "2026-09-15"
+    },
+    {
+      "id": "42153116",
+      "source": "MED",
+      "pmid": "42153116",
+      "pmcid": "PMC13180405",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13180405"
+        ]
+      },
+      "doi": "10.62838/jccm-2026-0014",
+      "title": "Effect of premorbid beta-blockers on cardiac function and clinical outcomes in septic patients: a retrospective study.",
+      "authorString": "Yang S, Feng R, Fang X, Wei C.",
+      "journalTitle": "J Crit Care Med (Targu Mures)",
+      "issue": "2",
+      "journalVolume": "12",
+      "pubYear": "2026",
+      "journalIssn": "2393-1809; 2393-1817; ",
+      "pageInfo": "271-280",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-30",
+      "firstIndexDate": "2026-05-19"
+    },
+    {
+      "id": "41883084",
+      "source": "MED",
+      "pmid": "41883084",
+      "pmcid": "PMC13318420",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13318420"
+        ]
+      },
+      "doi": "10.1093/eurheartj/ehag200",
+      "title": "Beta-blockers, depression, and anxiety after myocardial infarction: the BETAMI-DANBLOCK trial.",
+      "authorString": "Nyen JE, Kristensen AMD, Dammen T, Zwisler AD, Olsen MH, Olsen MH, Maeng M, Halvorsen S, Vikenes K, Bakken A, Holmager T, Fagerland MW, Atar D, Prescott E, Munkhaugen J.",
+      "journalTitle": "Eur Heart J",
+      "issue": "25",
+      "journalVolume": "47",
+      "pubYear": "2026",
+      "journalIssn": "0195-668x; 1522-9645; ",
+      "pageInfo": "3270-3280",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-03-27"
+    },
+    {
+      "id": "PMC13646502",
+      "source": "PMC",
+      "pmcid": "PMC13646502",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13646502"
+        ]
+      },
+      "title": "Recovery beyond ejection fraction after takotsubo syndrome: a multidimensional framework for risk-enriched follow-up",
+      "authorString": "Liang S, Xu L, Hu Z.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "13",
+      "journalIssn": "2297-055x",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-09",
+      "firstIndexDate": "2026-10-09"
+    },
+    {
+      "id": "42483492",
+      "source": "MED",
+      "pmid": "42483492",
+      "pmcid": "PMC13386479",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13386479"
+        ]
+      },
+      "doi": "10.1155/ijhy/9930482",
+      "title": "A Comprehensive Review on the Efficacy of Antihypertensives in Patients With End-Stage Renal Disease.",
+      "authorString": "Akele O, Asogwa N, Wahbah Makhoul G, El-Gharib K, Ling J, Agarwal A, Agberien V, Pokima N, Gut T, El-Sayegh S.",
+      "journalTitle": "Int J Hypertens",
+      "journalVolume": "2026",
+      "pubYear": "2026",
+      "journalIssn": "2090-0384; 2090-0392; ",
+      "pageInfo": "9930482",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-21",
+      "firstIndexDate": "2026-07-22"
+    },
+    {
+      "id": "42898174",
+      "source": "MED",
+      "pmid": "42898174",
+      "pmcid": "PMC13677402",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13677402"
+        ]
+      },
+      "doi": "10.1016/j.ahjo.2026.100934",
+      "title": "The impact of an adaptive patient-centered web application on medication optimization in patients with HFrEF: Rationale and design of the SmartHF trial.",
+      "authorString": "Dorsch MP, Krambrink A, Ganai S, Greer KM, Ali MS, Stevens R, Nwoko U, Ogunniyi MO, Ewald G, Abdul-Nour K, Hummel SL, Koelling TM.",
+      "journalTitle": "Am Heart J Plus",
+      "journalVolume": "71",
+      "pubYear": "2026",
+      "journalIssn": "2666-6022",
+      "pageInfo": "100934",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-06",
+      "firstIndexDate": "2026-10-21"
+    },
+    {
+      "id": "42642993",
+      "source": "MED",
+      "pmid": "42642993",
+      "pmcid": "PMC13507657",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13507657"
+        ]
+      },
+      "doi": "10.1111/liv.70843",
+      "title": "Portal Vein Thrombosis Risk in Cirrhotic Patients With Portal Hypertension on Beta-Blockers: A Multi-Institutional Cohort Study.",
+      "authorString": "Abosheaishaa H, Elfert K, Abusuliman M, Ismail A, Olimy A, Alzamzamy AE, Omran A, Rizzo V, Nassar M, El-Kassas M.",
+      "journalTitle": "Liver Int",
+      "issue": "9",
+      "journalVolume": "46",
+      "pubYear": "2026",
+      "journalIssn": "1478-3223; 1478-3231; ",
+      "pageInfo": "e70843",
+      "pubType": "research-article; multicenter study; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-08-26"
+    },
+    {
+      "id": "42393373",
+      "source": "MED",
+      "pmid": "42393373",
+      "pmcid": "PMC13472951",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13472951"
+        ]
+      },
+      "doi": "10.1038/s41591-026-04504-5",
+      "title": "Polypill for heart failure with reduced ejection fraction: the POLY-HF randomized trial.",
+      "authorString": "Pandey A, Keshvani N, Rizvi SK, Khashami F, Yaros K, Usman MS, Segar MW, Jain AK, Coellar JD, Bustillo-Rubio M, Cox ZL, Thibodeau JT, Ahn C, Gupta DK, Chandra A, Drazner MH, Hussain MT, Zaha VG, Wang TJ.",
+      "journalTitle": "Nat Med",
+      "issue": "8",
+      "journalVolume": "32",
+      "pubYear": "2026",
+      "journalIssn": "1078-8956; 1546-170x; ",
+      "pageInfo": "2933-2940",
+      "pubType": "research-article; multicenter study; randomized controlled trial; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-07-02",
+      "firstIndexDate": "2026-07-03"
+    },
+    {
+      "id": "42766102",
+      "source": "MED",
+      "pmid": "42766102",
+      "doi": "10.1007/s40256-026-00828-2",
+      "title": "Beta-Blockers for the Treatment of Arrhythmias: Which Drug for Which Arrhythmia? A State-of-the-Art Narrative Review.",
+      "authorString": "Muresan L, Cismaru G, Popa SL, Rosu R, Gusetu G, Puiu M, Mada RO, Muresan C, Le Bouar R, Schiau S, Daval C, Levy J, Martins RP.",
+      "journalTitle": "Am J Cardiovasc Drugs",
+      "pubYear": "2026",
+      "journalIssn": "1175-3277; 1179-187x; ",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-21",
+      "firstIndexDate": "2026-09-22"
+    }
+  ]
+}

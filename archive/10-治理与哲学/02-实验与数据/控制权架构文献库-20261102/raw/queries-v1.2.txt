@@ -1,0 +1,8 @@
+D03-op-v12-01|openalex|veto AND shareholder|OK
+D03-op-v12-02|openalex|"protective provisions" AND investor|OK
+D03-op-v12-03|openalex|supermajority AND corporate AND voting|OK
+D03-op-v12-04|openalex|"blocking minority" OR "minority veto"|OK
+D03-op-v12-05|openalex|deadlock AND "board of directors"|OK
+D03-op-v12-06|openalex|shareholder AND ("consent right" OR "approval right")|OK
+D03-op-v12-07|openalex|"term sheet" AND (veto OR "protective provision")|OK
+D03-op-v12-08|openalex|minority AND protection AND (veto OR "special majority")|OK

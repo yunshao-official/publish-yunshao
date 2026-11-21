@@ -1,0 +1,26 @@
+[att0 strat1] construct=OK size=500/500 defects=893
+[att0] match-lns lns=miss;rounds=6000;surg=6;best=198/500
+[att0] expand-FAIL match=190/500
+[att1 strat2] construct=OK size=500/500 defects=1024
+[att1] match-lns lns=miss;rounds=6000;surg=9;best=165/500
+[att1] expand-FAIL match=149/500
+[att2 strat0] construct=OK size=500/500 defects=1244
+[att2] match-lns lns=miss;rounds=6000;surg=8;best=129/500
+[att2] expand-FAIL match=120/500
+[att3 strat1] construct=OK size=500/500 defects=975
+[att3] match-lns lns=miss;rounds=6000;surg=6;best=181/500
+[att3] expand-FAIL match=171/500
+[att4 strat2] construct=OK size=500/500 defects=969
+[att4] match-lns lns=miss;rounds=6000;surg=4;best=174/500
+[att4] expand-FAIL match=166/500
+[att5 strat0] construct=OK size=500/500 defects=1335
+[att5] match-lns lns=miss;rounds=6000;surg=17;best=145/500
+[att5] expand-FAIL match=121/500
+[att6 strat1] construct=OK size=500/500 defects=952
+[att6] match-lns lns=miss;rounds=6000;surg=13;best=193/500
+[att6] expand-FAIL match=175/500
+[att7 strat2] construct=OK size=500/500 defects=1022
+[att7] match-lns lns=miss;rounds=6000;surg=9;best=166/500
+[att7] expand-FAIL match=151/500
+[GPWIN] b1=1 gpT=0.027s size=1000/1000 dline=tRepairEnd
+BA(N=1000,m=4,s=777,src=genba,arm=base): PASS size=1000 breaks 0->0 rot=66 defects=0 con=2.87s rep=0.00s ver=0.000s mech=gpipe+D2(0726descend+fullclosure);b1;

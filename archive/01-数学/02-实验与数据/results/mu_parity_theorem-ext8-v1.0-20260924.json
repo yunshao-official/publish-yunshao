@@ -1,0 +1,188 @@
+{
+ "meta": {
+  "script": "mu_parity_theorem-v1.0-20260924.py",
+  "frozen": "2026-09-24T02:35:38"
+ },
+ "notes": {},
+ "entries": {
+  "c(-64)": {
+   "min_dfa": 11,
+   "reach": 15,
+   "M_int": 0,
+   "pairs": [],
+   "dbltau": [
+    1
+   ],
+   "mu_set": [],
+   "du1_ok": false,
+   "layer_eq": true,
+   "eq_R": true,
+   "pred": [],
+   "pm_hit": true,
+   "mu_parity_ok": true
+  },
+  "c(-65)": {
+   "min_dfa": 12,
+   "reach": 15,
+   "M_int": 0,
+   "pairs": [],
+   "dbltau": [
+    2
+   ],
+   "mu_set": [],
+   "du1_ok": false,
+   "layer_eq": true,
+   "eq_R": true,
+   "pred": [],
+   "pm_hit": true,
+   "mu_parity_ok": true
+  },
+  "c(-66)": {
+   "min_dfa": 11,
+   "reach": 15,
+   "M_int": 1,
+   "pairs": [
+    [
+     -22,
+     1
+    ]
+   ],
+   "dbltau": [
+    1
+   ],
+   "mu_set": [
+    1
+   ],
+   "du1_ok": true,
+   "layer_eq": true,
+   "eq_R": true,
+   "pred": [
+    [
+     -22,
+     1
+    ]
+   ],
+   "pm_hit": true,
+   "mu_parity_ok": true
+  },
+  "c(-67)": {
+   "min_dfa": 11,
+   "reach": 13,
+   "M_int": 0,
+   "pairs": [],
+   "dbltau": [
+    2
+   ],
+   "mu_set": [],
+   "du1_ok": false,
+   "layer_eq": true,
+   "eq_R": true,
+   "pred": [],
+   "pm_hit": true,
+   "mu_parity_ok": true
+  },
+  "c(-68)": {
+   "min_dfa": 11,
+   "reach": 14,
+   "M_int": 0,
+   "pairs": [],
+   "dbltau": [
+    1
+   ],
+   "mu_set": [],
+   "du1_ok": false,
+   "layer_eq": true,
+   "eq_R": true,
+   "pred": [],
+   "pm_hit": true,
+   "mu_parity_ok": true
+  },
+  "c(-69)": {
+   "min_dfa": 10,
+   "reach": 13,
+   "M_int": 1,
+   "pairs": [
+    [
+     -23,
+     2
+    ]
+   ],
+   "dbltau": [
+    2
+   ],
+   "mu_set": [
+    2
+   ],
+   "du1_ok": true,
+   "layer_eq": true,
+   "eq_R": true,
+   "pred": [
+    [
+     -23,
+     2
+    ]
+   ],
+   "pm_hit": true,
+   "mu_parity_ok": true
+  },
+  "c(-70)": {
+   "min_dfa": 11,
+   "reach": 16,
+   "M_int": 0,
+   "pairs": [],
+   "dbltau": [
+    1
+   ],
+   "mu_set": [],
+   "du1_ok": false,
+   "layer_eq": true,
+   "eq_R": true,
+   "pred": [],
+   "pm_hit": true,
+   "mu_parity_ok": true
+  },
+  "c(-71)": {
+   "min_dfa": 11,
+   "reach": 15,
+   "M_int": 0,
+   "pairs": [],
+   "dbltau": [
+    2
+   ],
+   "mu_set": [],
+   "du1_ok": false,
+   "layer_eq": true,
+   "eq_R": true,
+   "pred": [],
+   "pm_hit": true,
+   "mu_parity_ok": true
+  }
+ },
+ "verdict": {
+  "pm_hits": 8,
+  "pm_total": 8,
+  "mu_parity_hits": 8,
+  "lang_bad": [],
+  "nerode_bad": [],
+  "du1_bad": [
+   "c(-64)",
+   "c(-65)",
+   "c(-67)",
+   "c(-68)",
+   "c(-70)",
+   "c(-71)"
+  ]
+ },
+ "log": [
+  "== D-U3 延伸八档 c=-64..-71 ==",
+  "c=-64 R=11 reach=15 Mint=0 pairs=[] du1=False pm=True",
+  "c=-65 R=12 reach=15 Mint=0 pairs=[] du1=False pm=True",
+  "c=-66 R=11 reach=15 Mint=1 pairs=[[-22, 1]] du1=True pm=True",
+  "c=-67 R=11 reach=13 Mint=0 pairs=[] du1=False pm=True",
+  "c=-68 R=11 reach=14 Mint=0 pairs=[] du1=False pm=True",
+  "c=-69 R=10 reach=13 Mint=1 pairs=[[-23, 2]] du1=True pm=True",
+  "c=-70 R=11 reach=16 Mint=0 pairs=[] du1=False pm=True",
+  "c=-71 R=11 reach=15 Mint=0 pairs=[] du1=False pm=True",
+  "P-U3 hits=8/8 mu_parity=8/8 lang_bad=[] nerode_bad=[]"
+ ]
+}

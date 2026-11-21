@@ -1,0 +1,7 @@
+{
+ "injection_recovery_rate": 1.0,
+ "trials": 300,
+ "verdict": "PASS",
+ "baseline_pairs": 2,
+ "note": "频率修正后首版验证。v0.3 频率在极紫外导致 0% 检出，已修正至近红外。"
+}

@@ -1,0 +1,599 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T09:11:28Z",
+      "timestamp": 1768554688933,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          26
+        ]
+      ]
+    },
+    "group-title": "Genetic and Genomic Medicine",
+    "reference-count": 49,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "accepted": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          26
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Menopausal vasomotor symptoms (VMS) significantly impact women’s quality of life, and whilst hormone replacement therapy (HRT) is effective, it is not appropriate for all. We aimed to identify new drug targets for VMS and understand reasons for HRT use through genomic analyses.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>In up to 153,152 women from UK Biobank, a population-based cohort, we performed a genome-wide association study (GWAS) of VMS derived from linked primary-care records and cross-sectional self-reported data. In a subset of this cohort (n=39,356), we analysed exome-sequencing data to test the association of rare deleterious genetic variants with VMS. Finally, we used Mendelian randomisation analysis to investigate the reasons for HRT use and whether these changed over time.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Findings</jats:title>\n                  <jats:p>\n                    Our GWAS identified a genetic signal near the gene encoding NK3R (\n                    <jats:italic>TACR3</jats:italic>\n                    ) associated with a lower risk of VMS (OR=0·85 (95% CI 0·82,0·87) per AT allele, P=1·1×10\n                    <jats:sup>-26</jats:sup>\n                    ), which was consistent with previous studies. However, rare genetic variants predicted to reduce functional NK3R levels were not associated with VMS (P=0·9), though did delay puberty (P=9×10\n                    <jats:sup>-11</jats:sup>\n                    ). Younger menopause age was causally-associated with greater HRT use before 2002 but not after.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Interpretation</jats:title>\n                  <jats:p>\n                    Using genomics we demonstrate that changed HRT use since the early 2000s reflects a switch from preventing post-menopausal complications to primarily treating VMS. We provide support for\n                    <jats:italic>TACR3</jats:italic>\n                    in the genetic basis of VMS but unexpectedly find that rare genomic variants predicted to lower NK3R levels did not modify VMS, despite the proven efficacy of NK3R antagonists, suggesting that further biological understanding could benefit therapeutic efficacy.\n                  </jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Funding</jats:title>\n                  <jats:p>Cancer Research UK and UKRI.</jats:p>\n                </jats:sec>\n                <jats:sec>\n                  <jats:title>Research in context</jats:title>\n                  <jats:sec>\n                    <jats:title>Evidence before the study</jats:title>\n                    <jats:p>\n                      <jats:italic>In vivo</jats:italic>\n                      studies of animal models and clinical studies in humans have determined that menopausal vasomotor symptoms (VMS) result from increased neurokinin B (NKB) signalling via the neurokinin 3 receptor (NK3R) in response to decreased circulating oestradiol levels.\n                    </jats:p>\n                    <jats:p>Recent Phase II clinical trials have demonstrated the efficacy of NK3R antagonists in reducing VMS.</jats:p>\n                    <jats:p>\n                      A previous GWAS in 17,695 women identified a genetic signal at the\n                      <jats:italic>TACR3</jats:italic>\n                      locus (which codes for NK3R) as associated with VMS. The locus was also genome-wide significant in a GWAS of oestrogen-replacement use (15,305 cases) derived from self-reported medications in UK Biobank.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Added value of this study</jats:title>\n                    <jats:p>This study represents a novel approach to analysing the rarely captured phenotype of VMS, since few population-based cohorts have asked about menopausal symptoms.</jats:p>\n                    <jats:p>To the best of our knowledge, this is the first analyses of VMS identified from linked primary care health records. Literature searches of published papers and codelists have not identified any previous studies of VMS in primary care data. The replication of the known GWAS signal for VMS provides a validation of the coding of this phenotype from primary care data.</jats:p>\n                    <jats:p>This is the largest genomic study of VMS currently carried out (92,028 women). Our current analyses are limited by the availability of primary care linked data in ∼45% of the UK Biobank cohort and are based on exome sequencing in 200,000 women. Recently released exome data for the full cohort and further releases of primary care linked data in UK Biobank will allow us to re-visit these analyses further.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Implications of all the available evidence</jats:title>\n                    <jats:p>\n                      Our analyses of rare coding variation in\n                      <jats:italic>TACR3</jats:italic>\n                      identified an intriguing difference that requires further study; while NK3R antagonist drug treatment reduces VMS, women carrying rare genetic variants resulting in reduced NK3R levels were no less likely to experience VMS.\n                    </jats:p>\n                    <jats:p>\n                      Our genome-wide analyses replicate the genetic signals for VMS at the\n                      <jats:italic>TACR3</jats:italic>\n                      gene locus, however we were unable to unequivocally identify\n                      <jats:italic>TACR3</jats:italic>\n                      as the causal gene at this locus.\n                    </jats:p>\n                    <jats:p>We suggest that the effect of the common genetic variant on reducing VMS may be through as yet uncharacterised regulatory pathways, and that complete inhibition of NK3R signalling is required to eliminate (rather than reduce) VMS.</jats:p>\n                  </jats:sec>\n                </jats:sec>",
+    "DOI": "10.1101/2022.05.25.22275501",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          28
+        ]
+      ],
+      "date-time": "2022-05-28T17:30:14Z",
+      "timestamp": 1653759014000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Genomic insights into the mechanism of NK3R antagonists for treatment of menopausal vasomotor symptoms"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4966-9170",
+        "authenticated-orcid": false,
+        "given": "Katherine S.",
+        "family": "Ruth",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Robin N.",
+        "family": "Beaumont",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan M.",
+        "family": "Locke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jessica",
+        "family": "Tyrrell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Carolyn J.",
+        "family": "Crandall",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gareth",
+        "family": "Hawkes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Timothy M.",
+        "family": "Frayling",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Julia K.",
+        "family": "Prague",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9240-8104",
+        "authenticated-orcid": false,
+        "given": "Kashyap A.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrew R.",
+        "family": "Wood",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Michael N.",
+        "family": "Weedon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anna",
+        "family": "Murray",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-008-0655-4"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrendo.2016.164"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.yfrne.2013.07.003"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/en.2018-00934"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1809",
+        "DOI": "10.1016/S0140-6736(17)30823-1",
+        "article-title": "Neurokinin 3 receptor antagonism as a novel treatment for menopausal hot flushes: a phase 2, randomised, double-blind, placebo-controlled trial",
+        "volume": "389",
+        "year": "2017",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1097/GME.0000000000001510",
+        "article-title": "A phase 2b, randomized, placebo-controlled, double-blind, dose-ranging study of the neurokinin 3 receptor antagonist fezolinetant for vasomotor symptoms associated with menopause",
+        "volume": "27",
+        "year": "2020",
+        "journal-title": "Menopause"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "5893",
+        "DOI": "10.1210/jc.2019-00677",
+        "article-title": "Treatment of Menopausal Vasomotor Symptoms with Fezolinetant, a Neurokinin 3 Receptor Antagonist: A Phase 2a Trial",
+        "volume": "104",
+        "year": "2019",
+        "journal-title": "J Clin Endocrinol Metab"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.8",
+        "doi-asserted-by": "crossref",
+        "first-page": "498",
+        "DOI": "10.1097/GME.0000000000001500",
+        "article-title": "Effects of NT-814, a dual neurokinin 1 and 3 receptor antagonist, on vasomotor symptoms in postmenopausal women: a placebo-controlled, randomized trial",
+        "volume": "27",
+        "year": "2020",
+        "journal-title": "Menopause"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.1080/13697137.2020.1834530",
+        "article-title": "Neurokinin 3 receptor antagonists–prime time?",
+        "volume": "24",
+        "year": "2021",
+        "journal-title": "Climacteric"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "92",
+        "DOI": "10.1016/j.coemr.2020.06.009",
+        "article-title": "Tachykinin signaling in the control of puberty onset",
+        "volume": "14",
+        "year": "2020",
+        "journal-title": "Curr Opin Endocr Metab Res"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/jc.2009-2600"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ng.306"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "7756",
+        "DOI": "10.1038/ncomms8756",
+        "article-title": "Rare coding variants and X-linked loci associated with age at menarche",
+        "volume": "6",
+        "year": "2015",
+        "journal-title": "Nat Commun"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ng.3841."
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "252",
+        "DOI": "10.1097/GME.0000000000000763",
+        "article-title": "Association of genetic variation in the tachykinin receptor 3 locus with hot flashes and night sweats in the women’s health initiative study",
+        "volume": "24",
+        "year": "2017",
+        "journal-title": "Menopause"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bycroft C , Freeman C , Petkova D , et al. Genome-wide genetic data on ∼500,000 UK Biobank participants. bioRxiv 2017. DOI:http://dx.doi.org/10.1101/166298.",
+        "DOI": "10.1101/166298"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.1016/j.hlpt.2012.07.003",
+        "article-title": "UK Biobank: Current status and what it means for epidemiology",
+        "volume": "1",
+        "year": "2012",
+        "journal-title": "Heal Policy Technol"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.288.3.321"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "327",
+        "DOI": "10.1016/j.celrep.2018.03.070",
+        "article-title": "A Common Allele in FGF21 Associated with Sugar Intake Is Associated with Body Shape, Lower Total Body-Fat Percentage, and Higher Blood Pressure",
+        "volume": "23",
+        "year": "2018",
+        "journal-title": "Cell Rep"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ng.3190"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btq340"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ng.3412"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13742-015-0047-8"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13059-015-0866-z"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkz966"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkr917"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.aat8464"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13059-015-0866-z"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.29",
+        "doi-asserted-by": "crossref",
+        "first-page": "731",
+        "DOI": "10.21105/joss.00731",
+        "article-title": "qqman: an R package for visualizing GWAS results using Q-Q and manhattan plots",
+        "volume": "3",
+        "year": "2018",
+        "journal-title": "J Open Source Softw"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.30",
+        "first-page": "2336",
+        "article-title": "LocusZoom: regional visualization of genome-wide association scan results",
+        "volume": "26",
+        "year": "2011",
+        "journal-title": "Bioinformatics"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41588-021-00885-0"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41588-020-0621-6"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.33",
+        "doi-asserted-by": "crossref",
+        "first-page": "1097",
+        "DOI": "10.1038/s41588-021-00870-7",
+        "article-title": "Computationally efficient whole-genome regression for quantitative and binary traits",
+        "volume": "53",
+        "year": "2021",
+        "journal-title": "Nat Genet"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/jc.2009-2320"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajhg.2018.12.015"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ije/dyy223"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/gepi.21965"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ije/dyv080"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000001090"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep08026"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.41",
+        "doi-asserted-by": "crossref",
+        "first-page": "393",
+        "DOI": "10.1038/s41586-021-03779-7",
+        "article-title": "Genetic insights into biological mechanisms governing human ovarian ageing",
+        "volume": "596",
+        "year": "2021",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.peptides.2008.05.016"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0025614"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.44",
+        "doi-asserted-by": "crossref",
+        "first-page": "252",
+        "DOI": "10.1038/s41591-020-0751-5",
+        "article-title": "Using human genetics to understand the disease impacts of testosterone in men and women",
+        "volume": "26",
+        "year": "2020",
+        "journal-title": "Nat Med"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.45",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1016/j.neuropharm.2014.07.017",
+        "article-title": "Mapping the binding pocket of a novel, high-affinity, slow dissociating tachykinin NK3 receptor antagonist: Biochemical and electrophysiological characterization",
+        "volume": "86",
+        "year": "2014",
+        "journal-title": "Neuropharmacology"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000001282"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.47",
+        "unstructured": "National Institute for Health and Care Excellence. Menopause: Diagnosis and Management. 2015."
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwx246"
+      },
+      {
+        "key": "2022052814300616000_2022.05.25.22275501v1.49",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Meijsen JJ , Shen H , Vemuri M , Rasgon NL , Koenen KC , Duncan LE . Shared genetic influences on depression and menopause symptoms. Psychol Med 2021; : 1–11.",
+        "DOI": "10.1017/S0033291721004037"
+      }
+    ],
+    "container-title": [],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2022.05.25.22275501",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:43:41Z",
+      "timestamp": 1768488221000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2022.05.25.22275501"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          26
+        ]
+      ]
+    },
+    "references-count": 49,
+    "URL": "https://doi.org/10.1101/2022.05.25.22275501",
+    "relation": {},
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          26
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+}

@@ -1,0 +1,66 @@
+{
+ "date": "2026-09-19",
+ "experiment": "平台期逃逸移动级归因 v1.0",
+ "files": [
+  {
+   "dst": "move_anatomy_nx600_s99-v1.0-20260919.jsonl",
+   "seed": 99,
+   "bytes": 89709
+  },
+  {
+   "dst": "engine_result_nx600_s99-v1.0-20260919.jsonl",
+   "seed": 99,
+   "bytes": 220
+  },
+  {
+   "dst": "engine_log_nx600_s99-v1.0-20260919.log",
+   "seed": 99,
+   "bytes": 1035
+  },
+  {
+   "dst": "verify_nx600_s99-v1.0-20260919.json",
+   "seed": 99,
+   "bytes": 706
+  },
+  {
+   "dst": "move_anatomy_nx600_s2024-v1.0-20260919.jsonl",
+   "seed": 2024,
+   "bytes": 71108
+  },
+  {
+   "dst": "engine_result_nx600_s2024-v1.0-20260919.jsonl",
+   "seed": 2024,
+   "bytes": 222
+  },
+  {
+   "dst": "engine_log_nx600_s2024-v1.0-20260919.log",
+   "seed": 2024,
+   "bytes": 1075
+  },
+  {
+   "dst": "verify_nx600_s2024-v1.0-20260919.json",
+   "seed": 2024,
+   "bytes": 712
+  },
+  {
+   "dst": "move_anatomy_nx600_s42-v1.0-20260919.jsonl",
+   "seed": 42,
+   "bytes": 16680
+  },
+  {
+   "dst": "engine_result_nx600_s42-v1.0-20260919.jsonl",
+   "seed": 42,
+   "bytes": 218
+  },
+  {
+   "dst": "engine_log_nx600_s42-v1.0-20260919.log",
+   "seed": 42,
+   "bytes": 845
+  },
+  {
+   "dst": "verify_nx600_s42-v1.0-20260919.json",
+   "seed": 42,
+   "bytes": 313
+  }
+ ]
+}

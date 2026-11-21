@@ -1,0 +1,1016 @@
+{
+ "检索日期": "2026-11-03",
+ "判据版本": "v1.2",
+ "锚词断言值": 69,
+ "锚词实数": 69,
+ "候选总数": 6229,
+ "池级1_入库": 86,
+ "池级2_入库": 124,
+ "合计入库": 210,
+ "池级1_达标": "否（判负照记）",
+ "合计_达标": "否（判负照记）",
+ "每模块实收_池1": {
+  "M01": 12,
+  "M02": 2,
+  "M03": 11,
+  "M04": 24,
+  "M05": 7,
+  "M06": 1,
+  "M08": 10,
+  "M09": 1,
+  "M11": 3,
+  "M12": 10,
+  "M13": 1,
+  "M14": 2,
+  "M15": 2,
+  "M07": 0,
+  "M10": 0
+ },
+ "每模块实收_池2": {
+  "M01": 30,
+  "M02": 31,
+  "M03": 24,
+  "M04": 15,
+  "M05": 12,
+  "M06": 2,
+  "M08": 5,
+  "M10": 1,
+  "M12": 4,
+  "M07": 0,
+  "M09": 0,
+  "M11": 0,
+  "M13": 0,
+  "M14": 0,
+  "M15": 0
+ },
+ "每模块实收_合计": {
+  "M01": 42,
+  "M02": 33,
+  "M03": 35,
+  "M04": 39,
+  "M05": 19,
+  "M06": 3,
+  "M07": 0,
+  "M08": 15,
+  "M09": 1,
+  "M10": 1,
+  "M11": 3,
+  "M12": 14,
+  "M13": 1,
+  "M14": 2,
+  "M15": 2
+ },
+ "漏斗_池1": {
+  "M01": {
+   "raw": 890,
+   "anchor": 150,
+   "R": 150,
+   "N": 150,
+   "hard": 50,
+   "Q0": 0,
+   "Q": 14,
+   "score": 14,
+   "final": 12
+  },
+  "M02": {
+   "raw": 890,
+   "anchor": 190,
+   "R": 91,
+   "N": 89,
+   "hard": 26,
+   "Q0": 0,
+   "Q": 2,
+   "score": 2,
+   "final": 2
+  },
+  "M03": {
+   "raw": 890,
+   "anchor": 192,
+   "R": 101,
+   "N": 98,
+   "hard": 21,
+   "Q0": 0,
+   "Q": 12,
+   "score": 12,
+   "final": 11
+  },
+  "M04": {
+   "raw": 1175,
+   "anchor": 237,
+   "R": 117,
+   "N": 114,
+   "hard": 49,
+   "Q0": 0,
+   "Q": 25,
+   "score": 25,
+   "final": 24
+  },
+  "M05": {
+   "raw": 740,
+   "anchor": 179,
+   "R": 89,
+   "N": 89,
+   "hard": 11,
+   "Q0": 0,
+   "Q": 7,
+   "score": 7,
+   "final": 7
+  },
+  "M06": {
+   "raw": 140,
+   "anchor": 29,
+   "R": 8,
+   "N": 8,
+   "hard": 8,
+   "Q0": 1,
+   "Q": 1,
+   "score": 1,
+   "final": 1
+  },
+  "M07": {
+   "raw": 108,
+   "anchor": 35,
+   "R": 18,
+   "N": 18,
+   "hard": 12,
+   "Q0": 1,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  },
+  "M08": {
+   "raw": 210,
+   "anchor": 163,
+   "R": 50,
+   "N": 49,
+   "hard": 48,
+   "Q0": 0,
+   "Q": 10,
+   "score": 10,
+   "final": 10
+  },
+  "M09": {
+   "raw": 175,
+   "anchor": 62,
+   "R": 25,
+   "N": 25,
+   "hard": 25,
+   "Q0": 5,
+   "Q": 1,
+   "score": 1,
+   "final": 1
+  },
+  "M10": {
+   "raw": 175,
+   "anchor": 57,
+   "R": 10,
+   "N": 10,
+   "hard": 9,
+   "Q0": 0,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  },
+  "M11": {
+   "raw": 140,
+   "anchor": 44,
+   "R": 7,
+   "N": 6,
+   "hard": 6,
+   "Q0": 1,
+   "Q": 4,
+   "score": 4,
+   "final": 3
+  },
+  "M12": {
+   "raw": 175,
+   "anchor": 104,
+   "R": 21,
+   "N": 21,
+   "hard": 20,
+   "Q0": 0,
+   "Q": 11,
+   "score": 11,
+   "final": 10
+  },
+  "M13": {
+   "raw": 171,
+   "anchor": 85,
+   "R": 3,
+   "N": 3,
+   "hard": 3,
+   "Q0": 0,
+   "Q": 1,
+   "score": 1,
+   "final": 1
+  },
+  "M14": {
+   "raw": 175,
+   "anchor": 62,
+   "R": 2,
+   "N": 2,
+   "hard": 2,
+   "Q0": 0,
+   "Q": 2,
+   "score": 2,
+   "final": 2
+  },
+  "M15": {
+   "raw": 175,
+   "anchor": 56,
+   "R": 6,
+   "N": 5,
+   "hard": 5,
+   "Q0": 1,
+   "Q": 3,
+   "score": 3,
+   "final": 2
+  }
+ },
+ "漏斗_池2": {
+  "M01": {
+   "raw": 867,
+   "anchor": 352,
+   "R": 352,
+   "N": 350,
+   "hard": 95,
+   "Q0": 0,
+   "Q": 34,
+   "score": 34,
+   "final": 30
+  },
+  "M02": {
+   "raw": 886,
+   "anchor": 407,
+   "R": 231,
+   "N": 227,
+   "hard": 72,
+   "Q0": 0,
+   "Q": 33,
+   "score": 33,
+   "final": 31
+  },
+  "M03": {
+   "raw": 876,
+   "anchor": 512,
+   "R": 314,
+   "N": 310,
+   "hard": 68,
+   "Q0": 0,
+   "Q": 28,
+   "score": 28,
+   "final": 24
+  },
+  "M04": {
+   "raw": 1145,
+   "anchor": 587,
+   "R": 176,
+   "N": 171,
+   "hard": 53,
+   "Q0": 0,
+   "Q": 18,
+   "score": 18,
+   "final": 15
+  },
+  "M05": {
+   "raw": 727,
+   "anchor": 433,
+   "R": 238,
+   "N": 231,
+   "hard": 35,
+   "Q0": 0,
+   "Q": 13,
+   "score": 13,
+   "final": 12
+  },
+  "M06": {
+   "raw": 139,
+   "anchor": 39,
+   "R": 17,
+   "N": 17,
+   "hard": 16,
+   "Q0": 1,
+   "Q": 2,
+   "score": 2,
+   "final": 2
+  },
+  "M07": {
+   "raw": 108,
+   "anchor": 41,
+   "R": 22,
+   "N": 22,
+   "hard": 16,
+   "Q0": 1,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  },
+  "M08": {
+   "raw": 200,
+   "anchor": 198,
+   "R": 47,
+   "N": 46,
+   "hard": 45,
+   "Q0": 0,
+   "Q": 5,
+   "score": 5,
+   "final": 5
+  },
+  "M09": {
+   "raw": 173,
+   "anchor": 79,
+   "R": 39,
+   "N": 39,
+   "hard": 36,
+   "Q0": 4,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  },
+  "M10": {
+   "raw": 175,
+   "anchor": 79,
+   "R": 18,
+   "N": 18,
+   "hard": 17,
+   "Q0": 0,
+   "Q": 1,
+   "score": 1,
+   "final": 1
+  },
+  "M11": {
+   "raw": 136,
+   "anchor": 54,
+   "R": 12,
+   "N": 11,
+   "hard": 6,
+   "Q0": 1,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  },
+  "M12": {
+   "raw": 165,
+   "anchor": 110,
+   "R": 16,
+   "N": 16,
+   "hard": 15,
+   "Q0": 0,
+   "Q": 5,
+   "score": 5,
+   "final": 4
+  },
+  "M13": {
+   "raw": 170,
+   "anchor": 97,
+   "R": 2,
+   "N": 2,
+   "hard": 2,
+   "Q0": 0,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  },
+  "M14": {
+   "raw": 173,
+   "anchor": 78,
+   "R": 0,
+   "N": 0,
+   "hard": 0,
+   "Q0": 0,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  },
+  "M15": {
+   "raw": 172,
+   "anchor": 67,
+   "R": 11,
+   "N": 9,
+   "hard": 8,
+   "Q0": 1,
+   "Q": 0,
+   "score": 0,
+   "final": 0
+  }
+ },
+ "通道漏斗_池1": {
+  "M01": {
+   "openalex": {
+    "raw": 750,
+    "final": 11
+   },
+   "crossref": {
+    "raw": 100,
+    "final": 1
+   },
+   "doaj": {
+    "raw": 40,
+    "final": 0
+   }
+  },
+  "M02": {
+   "openalex": {
+    "raw": 750,
+    "final": 2
+   },
+   "crossref": {
+    "raw": 100,
+    "final": 0
+   },
+   "doaj": {
+    "raw": 40,
+    "final": 0
+   }
+  },
+  "M03": {
+   "openalex": {
+    "raw": 750,
+    "final": 4
+   },
+   "crossref": {
+    "raw": 100,
+    "final": 7
+   },
+   "doaj": {
+    "raw": 40,
+    "final": 0
+   }
+  },
+  "M04": {
+   "openalex": {
+    "raw": 1000,
+    "final": 8
+   },
+   "crossref": {
+    "raw": 125,
+    "final": 16
+   },
+   "doaj": {
+    "raw": 50,
+    "final": 0
+   }
+  },
+  "M05": {
+   "openalex": {
+    "raw": 600,
+    "final": 3
+   },
+   "crossref": {
+    "raw": 100,
+    "final": 4
+   },
+   "doaj": {
+    "raw": 40,
+    "final": 0
+   }
+  },
+  "M06": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 100,
+    "final": 1
+   },
+   "doaj": {
+    "raw": 40,
+    "final": 0
+   }
+  },
+  "M07": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 80,
+    "final": 0
+   },
+   "doaj": {
+    "raw": 28,
+    "final": 0
+   }
+  },
+  "M08": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 150,
+    "final": 10
+   },
+   "doaj": {
+    "raw": 60,
+    "final": 0
+   }
+  },
+  "M09": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 125,
+    "final": 0
+   },
+   "doaj": {
+    "raw": 50,
+    "final": 1
+   }
+  },
+  "M10": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 125,
+    "final": 0
+   },
+   "doaj": {
+    "raw": 50,
+    "final": 0
+   }
+  },
+  "M11": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 100,
+    "final": 3
+   },
+   "doaj": {
+    "raw": 40,
+    "final": 0
+   }
+  },
+  "M12": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 125,
+    "final": 10
+   },
+   "doaj": {
+    "raw": 50,
+    "final": 0
+   }
+  },
+  "M13": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 125,
+    "final": 1
+   },
+   "doaj": {
+    "raw": 46,
+    "final": 0
+   }
+  },
+  "M14": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 125,
+    "final": 2
+   },
+   "doaj": {
+    "raw": 50,
+    "final": 0
+   }
+  },
+  "M15": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 125,
+    "final": 2
+   },
+   "doaj": {
+    "raw": 50,
+    "final": 0
+   }
+  }
+ },
+ "通道漏斗_池2": {
+  "M01": {
+   "openalex": {
+    "raw": 728,
+    "final": 27
+   },
+   "crossref": {
+    "raw": 99,
+    "final": 3
+   },
+   "doaj": {
+    "raw": 40,
+    "final": 0
+   }
+  },
+  "M02": {
+   "openalex": {
+    "raw": 746,
+    "final": 30
+   },
+   "crossref": {
+    "raw": 100,
+    "final": 1
+   },
+   "doaj": {
+    "raw": 40,
+    "final": 0
+   }
+  },
+  "M03": {
+   "openalex": {
+    "raw": 743,
+    "final": 23
+   },
+   "crossref": {
+    "raw": 93,
+    "final": 1
+   },
+   "doaj": {
+    "raw": 40,
+    "final": 0
+   }
+  },
+  "M04": {
+   "openalex": {
+    "raw": 987,
+    "final": 11
+   },
+   "crossref": {
+    "raw": 108,
+    "final": 4
+   },
+   "doaj": {
+    "raw": 50,
+    "final": 0
+   }
+  },
+  "M05": {
+   "openalex": {
+    "raw": 591,
+    "final": 12
+   },
+   "crossref": {
+    "raw": 96,
+    "final": 0
+   },
+   "doaj": {
+    "raw": 40,
+    "final": 0
+   }
+  },
+  "M06": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 99,
+    "final": 2
+   },
+   "doaj": {
+    "raw": 40,
+    "final": 0
+   }
+  },
+  "M07": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 80,
+    "final": 0
+   },
+   "doaj": {
+    "raw": 28,
+    "final": 0
+   }
+  },
+  "M08": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 140,
+    "final": 5
+   },
+   "doaj": {
+    "raw": 60,
+    "final": 0
+   }
+  },
+  "M09": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 125,
+    "final": 0
+   },
+   "doaj": {
+    "raw": 48,
+    "final": 0
+   }
+  },
+  "M10": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 125,
+    "final": 1
+   },
+   "doaj": {
+    "raw": 50,
+    "final": 0
+   }
+  },
+  "M11": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 96,
+    "final": 0
+   },
+   "doaj": {
+    "raw": 40,
+    "final": 0
+   }
+  },
+  "M12": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 115,
+    "final": 4
+   },
+   "doaj": {
+    "raw": 50,
+    "final": 0
+   }
+  },
+  "M13": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 124,
+    "final": 0
+   },
+   "doaj": {
+    "raw": 46,
+    "final": 0
+   }
+  },
+  "M14": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 123,
+    "final": 0
+   },
+   "doaj": {
+    "raw": 50,
+    "final": 0
+   }
+  },
+  "M15": {
+   "openalex": {
+    "raw": 0,
+    "final": 0
+   },
+   "crossref": {
+    "raw": 122,
+    "final": 0
+   },
+   "doaj": {
+    "raw": 50,
+    "final": 0
+   }
+  }
+ },
+ "Q0_被引补齐": {
+  "应回查": 16,
+  "实回查": 16,
+  "上限": 400,
+  "命中被引数": 9,
+  "无记录": 7,
+  "无DOI": 0,
+  "筛掉DOAJ候选数": 7,
+  "说明": "Q0回查上限400次为执行参数非判据条款；用完即停"
+ },
+ "章书折叠留痕数": 9,
+ "每模块请求统计": {
+  "M01": {
+   "oa_cache": 30,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 4,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 4,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M02": {
+   "oa_cache": 30,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 4,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 4,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M03": {
+   "oa_cache": 30,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 4,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 4,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M04": {
+   "oa_cache": 40,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 5,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 5,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M05": {
+   "oa_cache": 24,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 4,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 4,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M06": {
+   "oa_cache": 0,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 4,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 4,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M07": {
+   "oa_cache": 0,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 4,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 4,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M08": {
+   "oa_cache": 0,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 6,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 6,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M09": {
+   "oa_cache": 0,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 5,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 5,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M10": {
+   "oa_cache": 0,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 5,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 5,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M11": {
+   "oa_cache": 0,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 4,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 4,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M12": {
+   "oa_cache": 0,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 5,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 5,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M13": {
+   "oa_cache": 0,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 5,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 5,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M14": {
+   "oa_cache": 0,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 5,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 5,
+   "dj_new": 0,
+   "dj_fail": 0
+  },
+  "M15": {
+   "oa_cache": 0,
+   "oa_new": 0,
+   "oa_429": 0,
+   "oa_fail": 0,
+   "cr_cache": 5,
+   "cr_new": 0,
+   "cr_fail": 0,
+   "dj_cache": 5,
+   "dj_new": 0,
+   "dj_fail": 0
+  }
+ },
+ "OpenAlex_429_实测": "429 (Retry-After=49295, remaining=0)",
+ "OpenAlex_说明": "M06-M15 OpenAlex通道因IP日预算耗尽(429)无数据"
+}

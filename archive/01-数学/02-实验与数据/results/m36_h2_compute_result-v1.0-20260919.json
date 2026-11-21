@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "script": "m36_h2_compute-v1.0-20260919.py",
+    "constants": "constants:v1.0",
+    "labels": "数值【复算一致】；口径B=粗化模型"
+  },
+  "B1_d2_review": {
+    "shape": "32x6",
+    "invariants": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "claim": "[2,2,2,2,2,2]",
+    "match": true
+  },
+  "B1_ker_d2_rank": 26,
+  "B2_d3_pinned": {
+    "rule": "每管1截面,两端同调相等→∂₃(T_e)=0; S³体∂₃=0",
+    "d3_rank": 0,
+    "H2_rank": 26,
+    "H2_tors": "无",
+    "preview_20dim_verdict": "否决：两口径钉法均不出 20（26 或 30）"
+  },
+  "A1_H1_review": {
+    "free_rank": 30,
+    "invariants": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "claim_H1": "Z^30 ⊕ (Z/2)^6",
+    "match": true
+  },
+  "A2_H2_euler": {
+    "beta2": 30,
+    "tors_H2": 0,
+    "reason": "闭定向连通3-流形: χ=0, β₃=1 → β₂=β₁=30; UCT: torsH₂=Hom(torsH₁,Z)=0"
+  },
+  "A3_MV_sim": {
+    "final": {
+      "beta1": 30,
+      "beta2": 30,
+      "tors": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "H1": "Z^30 ⊕ Z_2⊕Z_2⊕Z_2⊕Z_2⊕Z_2⊕Z_2",
+      "H2": "Z^30",
+      "H3": "Z(闭定向连通)",
+      "H0": "Z"
+    },
+    "chi_check": 0,
+    "consistency": true
+  },
+  "M_check": {
+    "tor_order": 64,
+    "M_constant": 64,
+    "equal": true,
+    "note": "互锁候选（第六轮立账）数值重合保持【待判别】"
+  }
+}

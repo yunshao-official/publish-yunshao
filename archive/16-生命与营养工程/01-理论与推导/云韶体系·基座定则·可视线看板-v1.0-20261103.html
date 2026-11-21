@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>基座定则·可视线看板 v1.0 · 20261103</title>
+<style>
+  :root{
+    --bg:#0d1117; --panel:#161b22; --panel2:#1c2230; --line:#2b3444;
+    --txt:#dfe6ef; --dim:#8b98ab; --ok:#2f9e6b; --warn:#c98a1b; --stop:#d2455a;
+    --idle:#4b5566; --acc:#4ea1d3;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font:15px/1.6 -apple-system,"PingFang SC","Microsoft YaHei",Segoe UI,Roboto,sans-serif;}
+  .wrap{max-width:1120px;margin:0 auto;padding:20px 16px 64px;}
+  h1{font-size:21px;margin:6px 0 2px;letter-spacing:.5px}
+  h2{font-size:16px;margin:34px 0 10px;padding-left:9px;border-left:3px solid var(--acc)}
+  .meta{color:var(--dim);font-size:13px;margin-bottom:4px}
+  .tag{display:inline-block;padding:2px 9px;border-radius:999px;font-size:12px;
+    border:1px solid var(--line);margin:3px 6px 3px 0;background:var(--panel2)}
+  .tag.stop{border-color:var(--stop);color:#ff9fac}
+  .tag.ok{border-color:var(--ok);color:#8be0b6}
+  .tag.warn{border-color:var(--warn);color:#f0c674}
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:12px 0}
+  .sub{color:var(--dim);font-size:13px}
+  /* 基座表 */
+  .ci{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  @media(max-width:720px){.ci{grid-template-columns:1fr}}
+  .card{background:var(--panel2);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+  .card b{font-size:19px}
+  .kv{display:flex;justify-content:space-between;border-bottom:1px dashed var(--line);
+    padding:5px 0;font-size:13.5px}
+  .kv:last-child{border-bottom:0}
+  .slot{color:#f0c674;font-family:ui-monospace,Menlo,monospace;font-size:12.5px}
+  /* 管线 */
+  .pipe{display:grid;gap:10px;grid-template-columns:repeat(7,1fr)}
+  @media(max-width:980px){.pipe{grid-template-columns:repeat(4,1fr)}}
+  @media(max-width:640px){.pipe{grid-template-columns:repeat(2,1fr)}}
+  .st{background:var(--panel2);border:1px solid var(--line);border-left-width:4px;
+    border-radius:9px;padding:9px 10px;cursor:pointer;font-size:12.8px;min-height:104px}
+  .st:hover{border-color:var(--acc)}
+  .st .no{font-family:ui-monospace,monospace;color:var(--dim);font-size:11.5px}
+  .st .nm{font-weight:600;font-size:13.6px;margin:2px 0 4px}
+  .st.ok{border-left-color:var(--ok)} .st.stop{border-left-color:var(--stop)}
+  .st.idle{border-left-color:var(--idle);opacity:.72} .st.warn{border-left-color:var(--warn)}
+  .pill{display:inline-block;margin-top:5px;padding:1px 7px;border-radius:999px;
+    font-size:11.5px;border:1px solid var(--line);color:var(--dim)}
+  #detail{background:#121721;border:1px dashed var(--acc);border-radius:9px;padding:11px 13px;
+    margin-top:11px;font-size:13.4px;min-height:66px}
+  /* 门 */
+  .gates{display:grid;grid-template-columns:repeat(6,1fr);gap:9px}
+  @media(max-width:820px){.gates{grid-template-columns:repeat(3,1fr)}}
+  .g{background:var(--panel2);border:1px solid var(--line);border-radius:9px;padding:9px;font-size:12.6px}
+  .g b{display:block;font-size:13.4px}
+  .bar{height:7px;border-radius:5px;background:#232c3a;margin-top:7px;overflow:hidden}
+  .bar i{display:block;height:100%}
+  /* 7:1 排程条 */
+  .sched{display:flex;height:38px;border-radius:8px;overflow:hidden;border:1px solid var(--line);
+    font-size:12px;margin:10px 0 4px}
+  .sched div{display:flex;align-items:center;justify-content:center;white-space:nowrap}
+  .tw{flex:1;background:#7a3a4a;color:#ffd8de}
+  .tr{flex:7;background:#1f5a45;color:#b7ecd4}
+  /* 配额 */
+  .quota .row{display:flex;align-items:center;gap:10px;margin:7px 0;font-size:13px}
+  .quota .lab{width:190px;color:var(--dim)}
+  .quota .track{flex:1;height:16px;background:#232c3a;border-radius:4px;overflow:hidden}
+  .quota .fill{height:100%}
+  .quota .num{width:74px;text-align:right;font-family:ui-monospace,monospace}
+  table{width:100%;border-collapse:collapse;font-size:12.8px;margin-top:6px}
+  th,td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+  th{background:#1f2634;color:#cfe0f0;font-weight:600}
+  td.f{text-align:center;white-space:nowrap}
+  .chk{display:inline-block;width:13px;height:13px;border:1.5px solid var(--dim);
+    border-radius:3px;margin-right:6px;vertical-align:-2px}
+  a{color:var(--acc);text-decoration:none;word-break:break-all}
+  a:hover{text-decoration:underline}
+  .foot{margin-top:30px;padding-top:12px;border-top:1px solid var(--line);
+    color:var(--dim);font-size:12px;line-height:1.85}
+  code{font-family:ui-monospace,Menlo,monospace;background:#12171f;padding:1px 5px;
+    border-radius:4px;font-size:12.2px;color:#c9e3ff}
+  ul{margin:6px 0 0;padding-left:20px} li{margin:3px 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>基座定则 · 可视线看板</h1>
+<div class="meta">云韶体系 · 44 蓝本档 × 55 Δ 档 · 工程计划附属可视化件 v1.0 · 2026-11-03 · 密级=私（对外仅现实基线层）</div>
+<div>
+  <span class="tag stop">当前全线停在 G1（44 判据轴无数值）</span>
+  <span class="tag warn">外部对标 10 条：全文级 1 / 摘要级 9</span>
+  <span class="tag">文件级别：内部待补锚版（constants.yaml 不在档）</span>
+  <span class="tag ok">排程不变式 T_r ≥ 7T_w 已入表</span>
+</div>
+
+<h2>一、基座表（全表只允许两行）</h2>
+<div class="ci">
+  <div class="card">
+    <b>44 · 蓝本档</b> <span class="sub">判据源唯一 · 功能基线</span>
+    <div class="kv"><span>参数数值清单</span><span class="slot">【待令】</span></div>
+    <div class="kv"><span>单位与判据轴</span><span class="slot">【待令】</span></div>
+    <div class="kv"><span>容差带</span><span class="slot">建议 ±1%（待批）</span></div>
+    <div class="kv"><span>首件留证（44 首件）</span><span class="slot">未开工</span></div>
+    <div class="kv"><span>作用</span><span>其余档位与判定一律以本档读数为基准</span></div>
+  </div>
+  <div class="card">
+    <b>55 · Δ 档</b> <span class="sub">只能登记为 44＋偏移量 · 分配基线</span>
+    <div class="kv"><span>相对 44 的差集 Δ</span><span class="slot">【待令】</span></div>
+    <div class="kv"><span>每项 Δ 的写入媒介</span><span class="slot">【待令】</span></div>
+    <div class="kv"><span>绝对值自填</span><span>禁止（否则 55 变成第二个蓝本）</span></div>
+    <div class="kv"><span>序位词（上位／下位）</span><span>禁止（令内无此词）</span></div>
+    <div class="kv"><span>Δ 为空时</span><span>两档退化一档 → 回令改判 JC-J2</span></div>
+  </div>
+</div>
+<div class="panel sub">不在两档上的任何构型 → 状态标签 <b>非基座态 · 需矫正</b>（可由补偿写入纠正；不是人群、不是类别、不是处置对象）。
+账目只有一种币种：<b>修复配额</b>（η 份额 ≥ 7×α 份额）。<b>账上没有"消灭／淘汰"这一格。</b></div>
+
+<h2>二、可视线七站（点任一站看详情）</h2>
+<div class="pipe" id="pipe"></div>
+<div id="detail"></div>
+<label class="sub" style="display:block;margin-top:9px">
+  <input type="checkbox" id="onlyBlock"> 只亮出阻塞／未开工的站
+</label>
+
+<h2>三、阶段门 G1–G6（必满型 · 一票否决 · 上一门未过下一门不得开）</h2>
+<div class="gates">
+  <div class="g"><b>G1 判据轴冻结</b>44 清单到位<span class="pill" style="color:#ff9fac">0 / 1 · 未过</span><div class="bar"><i style="width:6%;background:var(--stop)"></i></div></div>
+  <div class="g"><b>G2 Δ 登记冻结</b>55＝44＋Δ<span class="pill">锁（依 G1）</span><div class="bar"><i style="width:0%;background:var(--idle)"></i></div></div>
+  <div class="g"><b>G3 工单可算化</b>T-5 全字段<span class="pill">锁</span><div class="bar"><i style="width:0%;background:var(--idle)"></i></div></div>
+  <div class="g"><b>G4 首例执行放行</b>配额已排入<span class="pill">锁</span><div class="bar"><i style="width:0%;background:var(--idle)"></i></div></div>
+  <div class="g"><b>G5 首件复检</b>逐参数实测＋L138<span class="pill">锁</span><div class="bar"><i style="width:0%;background:var(--idle)"></i></div></div>
+  <div class="g"><b>G6 投产与回写</b>连续 N 件合格<span class="pill">N＝【待令】</span><div class="bar"><i style="width:0%;background:var(--idle)"></i></div></div>
+</div>
+<div class="panel sub">外部同型（只借结构，不借结论）：SRR／功能基线 → PDR／分配基线 → CDR／产品基线 → PCA·FCA 定稿 → Run@Rate·PPAP 批准。</div>
+
+<h2>四、排程不变式：每 1 份写入，必须排 7 份修复窗</h2>
+<div class="sched"><div class="tw">T_w 写入 1</div><div class="tr">T_r 修复窗 ≥ 7（α : η = 1 : 7）</div></div>
+<div class="panel sub" style="margin-top:8px">
+  <b>ΔS_c ≥ ΔS_w</b> —— 亏损一旦注入不能被完全擦除（概率论 v2.3 L230），所以"改回来"只能靠补偿写入，量必须不小于亏损量；
+  <b>验收</b> 只能在修复窗<b>末端</b>做差分，窗中段是过渡态、禁止差分；
+  <b>跨代兑现</b> 按心肌细胞年更新 ≈0.5%/年 排时程，单窗口内不得判"未完成"。
+</div>
+
+<h2>五、修复配额达标率（7:1 这一笔付得起吗 · 心肌口径复算）</h2>
+<div class="panel quota">
+  <div class="row"><span class="lab">心质量 283 g（文献口径）</span>
+    <span class="track"><span class="fill" style="width:97.6%;background:var(--ok)"></span></span><span class="num">97.6%</span></div>
+  <div class="row"><span class="lab">心质量 300 g</span>
+    <span class="track"><span class="fill" style="width:100%;background:var(--ok)"></span><span class="fill" style="width:4.3%;background:#2f9e6b55;margin-left:-4.3%"></span></span><span class="num">104.3%</span></div>
+  <div class="row"><span class="lab">旧口径 9 mL/min（我自设·已作废）</span>
+    <span class="track"><span class="fill" style="width:26.2%;background:var(--stop)"></span></span><span class="num">26.2%</span></div>
+  <div class="sub">读法：可用代谢功率扣掉机械输出后剩下的修复功率 ÷（7 × 写入损耗）。≥100% 才叫付得起。<b>这条改判据不改任何闸门，26.2% 作为历史读数保留不删。</b></div>
+</div>
+
+<h2>六、矫正工单十七格（空一格＝不开工）</h2>
+<div class="panel" id="fields" style="font-size:13px"></div>
+
+<h2>七、外部工程计划模板对标（本件的"上网搜"证据）</h2>
+<table>
+  <tr><th>#</th><th>外部模板</th><th>借来的形状</th><th>对上哪一站／哪道门</th><th class="f">核验</th></tr>
+  <tr><td>E-1</td><td>构型基线三件套 Functional / Allocated / Product</td><td>基线只能在评审点冻结、此后只能走变更控制</td><td>S2 · S5 · S7（44 轴／T-5 行／投产构型）</td><td class="f">全文级</td></tr>
+  <tr><td>E-2</td><td>NASA NPR 7123.1 及附录 G</td><td>每种评审冻结入口·成功准则，评审出口即基线</td><td>六门形状（你的转化规范 v1.1:19 已认它为蓝本）</td><td class="f">摘要级</td></tr>
+  <tr><td>E-3</td><td>SEH 3.0 项目生命周期</td><td>Phase C 入闸＝NPR 评审入闸，出 CDR/PRR/SIR 才进总装</td><td>G4→G5 的"设计冻结→投产"分界</td><td class="f">摘要级</td></tr>
+  <tr><td>E-4</td><td>APQP 五阶段</td><td>策划→产品设计→过程设计→确认→反馈纠正</td><td>G1–G6 的阶段划分</td><td class="f">摘要级</td></tr>
+  <tr><td>E-5</td><td>PPAP 投产准入文件包</td><td>Run@Rate、Cpk/Ppk、控制计划、FMEA、PSW 批准</td><td>S5 的"投产放行包"（我方=T-5 全字段＋达标率＋首件）</td><td class="f">摘要级</td></tr>
+  <tr><td>E-6</td><td>Stage-Gate 门径管理</td><td>阶段＋决策关卡分段控制，必须满足型准则不满足即 Kill</td><td>P-3 前提与全部判负线（"缺一即败"的外部同型）</td><td class="f">摘要级</td></tr>
+  <tr><td>E-7</td><td>首件检验 FAI</td><td>量产前用真实材料与工装逐项特性实测留证</td><td>S7 的"44 首件"（推算值不得放行）</td><td class="f">摘要级</td></tr>
+  <tr><td>E-8</td><td>SPIRIT 2013（33 项方案条目）</td><td>方案字段完备性：干预／剂量／结局／不良事件／停止规则／监查／修正案</td><td>工单十七格的字段清单</td><td class="f">摘要级</td></tr>
+  <tr><td>E-9</td><td>SPIRIT-DEFINE 2023（剂量探索延伸件）</td><td>早期剂量爬坡方案的条目要求</td><td>"剂量窗与爬坡规则"那一格</td><td class="f">摘要级</td></tr>
+  <tr><td>E-10</td><td>WBS／甘特／里程碑</td><td>不在 WBS 中的工作不属于项目；先拆解再排时盯关键路径</td><td>§五.3 WBS 的合法性（凡未列入即不算在做）</td><td class="f">摘要级</td></tr>
+</table>
+<div class="panel sub"><b>借形不借结论</b>：以上只借结构与闸门形状，任何一条都不构成外部机构对云韶体系的认可；9 条仍为摘要级，升级全文级属工作包 1.8.1。中文国标侧（GB/T、GJB 9001C）通道未建＝新缺口 <b>G-6</b>。</div>
+
+<h2>八、阻塞项与待令包</h2>
+<div class="panel">
+  <b>我这边卡住的（不能自走通过）</b>
+  <ul>
+    <li>44 判据数值清单（关键路径首节点 1.1.3）——只在你手里。</li>
+    <li>55 相对 44 的 Δ 清单（G2）。</li>
+    <li>频率输入必须由<b>目标材料实测谱矩积分</b>给出、禁统一系数（件 14 v1.3 判决）——我无该算力与设备。</li>
+    <li>G6 的连续合格件数 N；±1% 容差带是否采纳。</li>
+    <li>G-1 药理是否列为第四媒介｜G-2 7:1 的币种｜G-5 η=7/8 中"级"的定义。</li>
+  </ul>
+  <b>我能立刻自跑、零成本的两件</b>
+  <ul>
+    <li>JC-J4 全档扫描：任何条目同时出现"人群类别名"＋"须优化／可淘汰"→当场作废并登记 C 族冲突。</li>
+    <li>E-2/E-4/E-5/E-7/E-8 取全文，把摘要级升全文级。</li>
+  </ul>
+</div>
+
+<h2>九、判负照记（本看板自己的三条）</h2>
+<div class="panel sub">
+  ① 上一件《基座定则 v1.0》以"治理件不适用"为由跳过外部检索——<b>闭门造车成立</b>，本看板即补。
+  ② 全线停在 G1 是<b>真实状态</b>，不用形容词把它涂成通过。
+  ③ 旧口径 26.2% 的错在我自设输入（9 mL/min），已改为文献口径 0.088 mL/g/min，历史读数保留不删。
+</div>
+
+<div class="foot">
+  正本：<code>archive/16-生命与营养工程/01-理论与推导/</code> ｜ 规则正本：《基座定则·44蓝本×55·非基座态矫正 v1.0》sha256 <code>a2ee0a41…63</code> ｜ 执行计划：《可视线工程计划 v1.0》｜ 证据内证：化学与药物线结果件 sha256 <code>e058e90d…4a</code>（CC-2 判阳·DIG 反例、CC-4 判阳、CC-5/6 判负、CC-10 种属边界失败、CC-12 判阳、CC-1 ±3% 无判别力）。<br>
+  外部出处（只借结构）：
+  <a href="https://acqnotes.com/acqnote/careerfields/configuration-baselines">Configuration Baselines</a> ·
+  <a href="https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_7123_001D_&page_name=AppendixG">NPR 7123.1 Appendix G</a> ·
+  <a href="https://www.nasa.gov/reference/3-0-nasa-program-project-life-cycle/">SEH 3.0 Life Cycle</a> ·
+  <a href="https://www.nasa.gov/reference/6-5-configuration-management/">NASA 6.5 CM</a> ·
+  <a href="http://www.huatengsoft.com.cn/news/10468">APQP 五阶段／PPAP 交付物</a> ·
+  <a href="https://zhuanlan.zhihu.com/p/2063630963771433953">Stage-Gate 必须满足型准则</a> ·
+  <a href="https://sgsystemsglobal.com/zh-CN/glossary/first-article-inspection-fai/">FAI 首件检验</a> ·
+  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5114123/">SPIRIT 2013（33 项）</a> ·
+  <a href="https://equator-network.org/reporting-guidelines/spirit-2013-statement-defining-standard-protocol-items-for-clinical-trials/">SPIRIT-DEFINE 延伸件</a> ·
+  <a href="https://www.projectwizards.net/zh/blog/2018/03/work-break-down-structure">WBS 100% 原则</a><br>
+  本看板自包含，无外部资源、无需服务器，离线可开。渲染：2026-11-03。
+</div>
+
+</div>
+<script>
+var ST=[
+ {n:"S1",nm:"令 → 定则",st:"ok",lab:"已通过",inp:"知世令逐字",out:"基座表两行（44／55）",gate:"令原文留存＝是",by:"令外语义混入 → 作废重写",
+  det:"逐字留存三令：「以44为蓝本，告诉他们未来只能剩下。44和55两种生理基座，不允许存在其他人种。我们不灭绝人种我们只是在生理上优化」／「谁跟你淘汰了？这玩意儿就跟吃药治疗一样，优化一下谁让他们死了」／「我没淘汰过任何人，我没说的东西，那就是没有存在」。站规：令里没有的词（淘汰、灭绝、上位、下位）一律不进正文，未定义处一律标【待令】。"},
+ {n:"S2",nm:"判据轴冻结（44）",st:"stop",lab:"阻塞 ← 全线停在此",inp:"44 数值清单（你给）",out:"功能基线＝44 判据轴",gate:"每项含数值＋单位＋容差带＋判据轴",by:"无数值 → 停 G1，禁止往后推",
+  det:"这一站的输入不在我手里：44 的参数数值清单必须由知世给出。判据轴不冻结，后面每一站的「过闸数字」都无从计算，所以整条可视线在这里断掉——图上把它标红，不用任何形容词把它涂绿。旧 ±3% 带已被证明无判别力（化学线 CC-1：±3% 覆盖 100.0%、±1% 覆盖 56.0%、±0.5% 覆盖 28.2%），故建议改用 ±1% 并加波谷对照，待批。"},
+ {n:"S3",nm:"Δ 登记（55）",st:"idle",lab:"锁（依 S2）",inp:"55 相对 44 的差集",out:"分配基线＝每参数一行",gate:"Δ ≥ 1 且每项可写",by:"Δ 为空 → 两档退化一档，回令",
+  det:"55 的每条参数只能写成 44 上的偏移量 Δ（含符号、单位、对应写入媒介），禁止填绝对值——否则 55 自立成第二个蓝本，「以 44 为蓝本」这条令就散了。"},
+ {n:"S4",nm:"非基座态判定",st:"idle",lab:"未开工",inp:"待查构型读数",out:"标签：非基座态·需矫正",gate:"偏离 > 容差带 且 三媒介至少一条可达",by:"不可达 → 记「暂不可矫正」，不得记淘汰",
+  det:"判定产物是一个状态标签，可以划掉、可以矫正，但不是人、不是类别、不是名单。禁止把非基座态实体化为第三种基座或一类人群。"},
+ {n:"S5",nm:"矫正工单",st:"idle",lab:"未开工",inp:"判定单",out:"T-5 全字段工单",gate:"剂量窗非空；ΔS_c ≥ ΔS_w；无跨种外推",by:"缺格 → 不得开工",
+  det:"三条执行轨：药理／THz／机械（写入媒介，件 34 v1.1:12 已在档）。药理这一轨不是比喻——化学线 CC-2 判阳（milrinone、dobutamine 类级增死，DIG 为已登记反例）正是「给药要记代价账」的实测证据，所以剂量窗与判停规则两格不许空。"},
+ {n:"S6",nm:"排程与记账",st:"idle",lab:"未开工",inp:"工单",out:"T_w : T_r 排程条＋修复配额账",gate:"T_r／T_w ≥ 7；η 份额／α 份额 ≥ 7",by:"窗不足 → 写入被稀释，判负且不可逆",
+  det:"币种只有修复配额（η 份额 ≥ 7×α 份额）。已复算的达标率：283 g → 97.6%，300 g → 104.3%，旧自设口径 → 26.2%（作废，保留为历史读数）。7:1 这笔账在心肌口径上第一次算出「付得起」的区间。"},
+ {n:"S7",nm:"复检与投产",st:"idle",lab:"未开工",inp:"矫正后读数",out:"44 首件留证包＋投产行",gate:"L138 标度不变复检通过；跨代兑现 0.5%/yr",by:"不过 → 追加补偿写入，禁止「擦除重来」",
+  det:"验收只做两件事：把矫正后构型在 D/E 变换下做标度不变复检（形式变了就是没成），以及逐参数实测留证（首件不许用推算值放行，外部 FAI 同型）。过了才允许进基座表的投产行，并回写冲突登记册。"}
+];
+var FL=["对象编号","当前态读数（逐参数）","偏离量与容差带","判定（基座态／非基座态·需矫正）","媒介（药理／THz／机械）",
+"剂量窗与爬坡规则","单窗时长 T_w","修复窗 T_r（自动 ≥7T_w）","精度与深度","预期 ΔS_w","所需补偿量 ΔS_c",
+"不良事件与副作用记录格","判停规则","监查频次与差分时点（修复窗末端）","币种与配额（η／α 份额）","修正案登记","复检结果与投产建议"];
+function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
+var pipe=document.getElementById("pipe"),det=document.getElementById("detail");
+ST.forEach(function(s,i){
+  var d=document.createElement("div");
+  d.className="st "+s.st;d.dataset.i=i;
+  d.innerHTML='<div class="no">'+s.n+'</div><div class="nm">'+esc(s.nm)+'</div>'+
+    '<div>入：'+esc(s.inp)+'</div><div>出：'+esc(s.out)+'</div>'+
+    '<div class="pill">'+esc(s.lab)+'</div>';
+  d.onclick=function(){
+    det.innerHTML='<b>'+s.n+' '+esc(s.nm)+'</b>（'+esc(s.lab)+'）<br>过闸数字：'+esc(s.gate)+
+      '<br>判负旁路：'+esc(s.by)+'<br style="margin-bottom:4px"><div class="sub" style="margin-top:6px">'+esc(s.det)+'</div>';
+  };
+  pipe.appendChild(d);
+});
+det.innerHTML='点上方任一工序站，这里显示它的<b>过闸数字</b>与<b>判负旁路</b>。当前阻塞在 <b>S2 判据轴冻结</b>：44 无数值 → 全线不得往下走。';
+document.getElementById("onlyBlock").onchange=function(e){
+  var on=e.target.checked;
+  Array.prototype.forEach.call(pipe.children,function(c){
+    var s=ST[+c.dataset.i];
+    c.style.display=(!on||s.st!=="ok")?"":"none";
+  });
+};
+var f=document.getElementById("fields");
+f.innerHTML='<span class="sub">十七格全列于下，逐格必填；空一格即不得开工（Stage-Gate 必须满足型准则同型）：</span><div style="margin-top:8px">'+
+  FL.map(function(x){return '<span style="display:inline-block;margin:4px 14px 4px 0"><span class="chk"></span>'+esc(x)+'</span>';}).join('')+
+  '</div>';
+</script>
+</body>
+</html>

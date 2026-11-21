@@ -1,0 +1,1832 @@
+{
+  "query_id": "D3",
+  "group": "D",
+  "query": "tissue optical window AND (hemoglobin OR water) absorption",
+  "hitCount": 19664,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:28:44.614921+00:00",
+  "results": [
+    {
+      "id": "42953459",
+      "source": "MED",
+      "pmid": "42953459",
+      "pmcid": "PMC13715939",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13715939"
+        ]
+      },
+      "doi": "10.1117/1.jbo.31.10.106006",
+      "title": "Development and validation of a low-cost, wearable near-infrared spectroscopy system for quantifying tissue water fraction in the human brain.",
+      "authorString": "Wu KC, Renna M, Otic N, Starkweather Z, Kierul OS, Smith C, Franceschini MA, Robinson MB.",
+      "journalTitle": "J Biomed Opt",
+      "issue": "10",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "1083-3668; 1560-2281; ",
+      "pageInfo": "106006",
+      "pubType": "research-article; validation study; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-28",
+      "firstIndexDate": "2026-10-30"
+    },
+    {
+      "id": "42694639",
+      "source": "MED",
+      "pmid": "42694639",
+      "pmcid": "PMC13539375",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13539375"
+        ]
+      },
+      "doi": "10.3389/fonc.2026.1787591",
+      "title": "Application of photoacoustic imaging in tumor diagnosis and surgical treatment.",
+      "authorString": "Dong Y, Li C, Qian X.",
+      "journalTitle": "Front Oncol",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2234-943x",
+      "pageInfo": "1787591",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-20",
+      "firstIndexDate": "2026-09-05"
+    },
+    {
+      "id": "42812732",
+      "source": "MED",
+      "pmid": "42812732",
+      "pmcid": "PMC13621447",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13621447"
+        ]
+      },
+      "doi": "10.1117/1.jbo.31.9.097004",
+      "title": "OptoCENTAL: a standardized, bench-testing platform based on phantoms for validating optical systems aimed at clinical monitoring of the placenta.",
+      "authorString": "Giannoni L, Hakim U, Lange F, Talati M, Gopal D, Artemiou A, Ranaei-Zamani N, Mitra S, Tachtsidis I.",
+      "journalTitle": "J Biomed Opt",
+      "issue": "9",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "1083-3668; 1560-2281; ",
+      "pageInfo": "097004",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-26",
+      "firstIndexDate": "2026-10-01"
+    },
+    {
+      "id": "PPR1312847",
+      "source": "PPR",
+      "doi": "10.64898/2026.09.02.748230",
+      "title": "Readout-dependent time-of-flight weighting of absorption and flow in interferometric diffuse optics",
+      "authorString": "Marzejon M, Mogharari N, Nowacka-Pieszak K, Borycki D.",
+      "pubYear": "2026",
+      "pubType": "preprint",
+      "bookOrReportDetails": {
+        "publisher": "bioRxiv",
+        "yearOfPublication": 2026
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-03",
+      "firstIndexDate": "2026-09-05"
+    },
+    {
+      "id": "42939072",
+      "source": "MED",
+      "pmid": "42939072",
+      "pmcid": "PMC13701687",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13701687"
+        ]
+      },
+      "doi": "10.3390/bioengineering13101217",
+      "title": "Infrared Technology for Vein Visualization: Device Development.",
+      "authorString": "Ivanov NV, Nicu AI, Roman NM.",
+      "journalTitle": "Bioengineering (Basel)",
+      "issue": "10",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2306-5354",
+      "pageInfo": "1217",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-19",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42399354",
+      "source": "MED",
+      "pmid": "42399354",
+      "pmcid": "PMC13332022",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13332022"
+        ]
+      },
+      "doi": "10.1038/s42003-026-10610-4",
+      "title": "In vivo tissue clearing with tartrazine and other dye molecules.",
+      "authorString": "Crunkleton V, Hong G.",
+      "journalTitle": "Commun Biol",
+      "issue": "1",
+      "journalVolume": "9",
+      "pubYear": "2026",
+      "journalIssn": "2399-3642",
+      "pageInfo": "895",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-03",
+      "firstIndexDate": "2026-07-04"
+    },
+    {
+      "id": "42930085",
+      "source": "MED",
+      "pmid": "42930085",
+      "pmcid": "PMC13702582",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13702582"
+        ]
+      },
+      "doi": "10.3390/bios16100538",
+      "title": "Melanin Bias in Cerebral fNIRS: A Monte Carlo Study Toward Equitable Optical Brain Sensing.",
+      "authorString": "Althobaiti M.",
+      "journalTitle": "Biosensors (Basel)",
+      "issue": "10",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2079-6374",
+      "pageInfo": "538",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-25",
+      "firstIndexDate": "2026-10-27"
+    },
+    {
+      "id": "PMC13667741",
+      "source": "PMC",
+      "pmcid": "PMC13667741",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13667741"
+        ]
+      },
+      "title": "Matrix Effects on the Quantification of NanoLuc Bioluminescence in Ex Vivo Organ Homogenates",
+      "authorString": "Melikov R, Samokhina M, Yurchenko M, Orlov A, Nikitin M.",
+      "journalTitle": "Sensors (Basel)",
+      "issue": "19",
+      "journalVolume": "26",
+      "pubYear": "2026",
+      "journalIssn": "1424-8220",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-28",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42397001",
+      "source": "MED",
+      "pmid": "42397001",
+      "pmcid": "PMC13334587",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13334587"
+        ]
+      },
+      "doi": "10.1002/advs.76366",
+      "title": "Arterial Blood-Mediated Deep-Tissue Photoacoustic Oximetry.",
+      "authorString": "Sastry K, Zhu J, Olick-Gibson J, Lin L, Li L, Basumatary J, Zhang Y, Wang LV.",
+      "journalTitle": "Adv Sci (Weinh)",
+      "issue": "53",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2198-3844",
+      "pageInfo": "e76366",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-03",
+      "firstIndexDate": "2026-07-04"
+    },
+    {
+      "id": "42707969",
+      "source": "MED",
+      "pmid": "42707969",
+      "pmcid": "PMC13548804",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13548804"
+        ]
+      },
+      "doi": "10.3389/fonc.2026.1901235",
+      "title": "Potential of photoacoustic imaging for assessing tumor perfusion in intraocular tumors and high-resolution choroidal microvascular imaging: from technical advances to clinical translation.",
+      "authorString": "Wu H, Huang C, Xu S, Tian Y.",
+      "journalTitle": "Front Oncol",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2234-943x",
+      "pageInfo": "1901235",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-24",
+      "firstIndexDate": "2026-09-09"
+    },
+    {
+      "id": "42770060",
+      "source": "MED",
+      "pmid": "42770060",
+      "pmcid": "PMC13592261",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13592261"
+        ]
+      },
+      "doi": "10.1364/boe.609388",
+      "title": "Photoacoustic imaging to optimize tumor delivery of human hemoglobin-derived oxygen carriers and subsequent photodynamic therapy.",
+      "authorString": "Li Y, Han P, Wang J, Cai Z, Liu J, Gao F, Li J.",
+      "journalTitle": "Biomed Opt Express",
+      "issue": "9",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2156-7085",
+      "pageInfo": "4580-4592",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-10",
+      "firstIndexDate": "2026-09-23"
+    },
+    {
+      "id": "42812684",
+      "source": "MED",
+      "pmid": "42812684",
+      "pmcid": "PMC13621390",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13621390"
+        ]
+      },
+      "doi": "10.1117/1.jbo.31.9.095006",
+      "title": "MLDT: an open-source multilayer diffusion theory Python implementation.",
+      "authorString": "Livecchi TT, Pierce MC, Jacques SL.",
+      "journalTitle": "J Biomed Opt",
+      "issue": "9",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "1083-3668; 1560-2281; ",
+      "pageInfo": "095006",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-29",
+      "firstIndexDate": "2026-10-01"
+    },
+    {
+      "id": "42930090",
+      "source": "MED",
+      "pmid": "42930090",
+      "pmcid": "PMC13702407",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13702407"
+        ]
+      },
+      "doi": "10.3390/bios16100543",
+      "title": "Quantitative Photoacoustic Vascular and Hemodynamic Imaging: Complementary Assessment with Reference Modalities.",
+      "authorString": "Tsedendamba N, Seo J, Choi W.",
+      "journalTitle": "Biosensors (Basel)",
+      "issue": "10",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2079-6374",
+      "pageInfo": "543",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-28",
+      "firstIndexDate": "2026-10-27"
+    },
+    {
+      "id": "42499199",
+      "source": "MED",
+      "pmid": "42499199",
+      "pmcid": "PMC13400900",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13400900"
+        ]
+      },
+      "doi": "10.1002/jbio.70323",
+      "title": "Comparing the Effects of Chemical Optical Clearing Agents and Mechanical Compression on the Optical Attenuation of Porcine Skin.",
+      "authorString": "Silva CR, Yoshimura TM, Dos Santos Oliveira JN, Raele MP, Hortellani MA, Ribeiro MS, Zezell DM, Amaral MM.",
+      "journalTitle": "J Biophotonics",
+      "issue": "7",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1864-063x; 1864-0648; ",
+      "pageInfo": "e70323",
+      "pubType": "comparative study; research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-26"
+    },
+    {
+      "id": "42801563",
+      "source": "MED",
+      "pmid": "42801563",
+      "pmcid": "PMC13616337",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13616337"
+        ]
+      },
+      "doi": "10.1002/advs.77853",
+      "title": "Closing the Loop: High-Precision 3D Photofabrication in Living Tissues.",
+      "authorString": "Zeynali A, Malinauskas M, Chirico G.",
+      "journalTitle": "Adv Sci (Weinh)",
+      "issue": "58",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2198-3844",
+      "pageInfo": "e77853",
+      "pubType": "other; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-27",
+      "firstIndexDate": "2026-09-28"
+    },
+    {
+      "id": "42781509",
+      "source": "MED",
+      "pmid": "42781509",
+      "pmcid": "PMC13599652",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13599652"
+        ]
+      },
+      "doi": "10.1016/j.phro.2026.101083",
+      "title": "Assessment of Linac photon dose delivery on Cherenkov production.",
+      "authorString": "Parks AE, Culberson WS, Pogue BW.",
+      "journalTitle": "Phys Imaging Radiat Oncol",
+      "journalVolume": "42",
+      "pubYear": "2026",
+      "journalIssn": "2405-6316",
+      "pageInfo": "101083",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-15",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "42210830",
+      "source": "MED",
+      "pmid": "42210830",
+      "pmcid": "PMC13583985",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13583985"
+        ]
+      },
+      "doi": "10.1021/acssensors.6c00738",
+      "title": "Nanomaterials for In Vivo Photoacoustic Sensing: Emerging Strategies and Future Outlook.",
+      "authorString": "Hua Y, Jokerst JV.",
+      "journalTitle": "ACS Sens",
+      "issue": "6",
+      "journalVolume": "11",
+      "pubYear": "2026",
+      "journalIssn": "2379-3694",
+      "pageInfo": "4181-4193",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-29",
+      "firstIndexDate": "2026-05-31"
+    },
+    {
+      "id": "PMC13635703",
+      "source": "PMC",
+      "pmcid": "PMC13635703",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13635703"
+        ]
+      },
+      "title": "Transcranial photoacoustic imaging of indocyanine green J-aggregates reveals cerebral signal changes in lipopolysaccharide-induced systemic inflammation",
+      "authorString": "Bodera F, Berndl E, Singh S, Tay A, Tarimala G, Jensen S, Chitnis P, Veneziano R, McVey M, Kolios M.",
+      "journalTitle": "Photoacoustics",
+      "journalVolume": "51",
+      "pubYear": "2026",
+      "journalIssn": "2213-5979",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-10-06"
+    },
+    {
+      "id": "42540341",
+      "source": "MED",
+      "pmid": "42540341",
+      "pmcid": "PMC13425882",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13425882"
+        ]
+      },
+      "doi": "10.1016/j.pacs.2026.100862",
+      "title": "Water-sensitive photoacoustic temperature characterization at 960 nm in cerebral vascular phantoms with CT co-registration.",
+      "authorString": "Chai C, Wang K, Chen L, Zhang J, Mao Y, Ren X, Li Z, Jin F, Chen YH, Lei L, Sawan M.",
+      "journalTitle": "Photoacoustics",
+      "journalVolume": "51",
+      "pubYear": "2026",
+      "journalIssn": "2213-5979",
+      "pageInfo": "100862",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-21",
+      "firstIndexDate": "2026-08-03"
+    },
+    {
+      "id": "42959985",
+      "source": "MED",
+      "pmid": "42959985",
+      "pmcid": "PMC13717880",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13717880"
+        ]
+      },
+      "doi": "10.1016/j.pacs.2026.100896",
+      "title": "Lower lip as a photoacoustic imaging window for detection of CTC clusters: A feasibility phantom study.",
+      "authorString": "Ghanbarzadeh-Dagheyan A, Pashaki ER, Pondman K.",
+      "journalTitle": "Photoacoustics",
+      "journalVolume": "52",
+      "pubYear": "2026",
+      "journalIssn": "2213-5979",
+      "pageInfo": "100896",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-08",
+      "firstIndexDate": "2026-10-31"
+    },
+    {
+      "id": "42783164",
+      "source": "MED",
+      "pmid": "42783164",
+      "pmcid": "PMC13604271",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13604271"
+        ]
+      },
+      "doi": "10.3390/bios16090497",
+      "title": "Photoacoustic Imaging for Liver Disease: The Systems and the Molecules.",
+      "authorString": "Jiang B, Lin Z, Yang X.",
+      "journalTitle": "Biosensors (Basel)",
+      "issue": "9",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2079-6374",
+      "pageInfo": "497",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-05",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "42694636",
+      "source": "MED",
+      "pmid": "42694636",
+      "pmcid": "PMC13540279",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13540279"
+        ]
+      },
+      "doi": "10.7150/ntno.138452",
+      "title": "Nanotechnology-Driven Ultrasound/Photoacoustic Theranostics for Real-Time Imaging and Therapeutics.",
+      "authorString": "Annagowni PK, Setia A, Muthu MS.",
+      "journalTitle": "Nanotheranostics",
+      "journalVolume": "10",
+      "pubYear": "2026",
+      "journalIssn": "2206-7418",
+      "pageInfo": "179-200",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-30",
+      "firstIndexDate": "2026-09-05"
+    },
+    {
+      "id": "42418597",
+      "source": "MED",
+      "pmid": "42418597",
+      "pmcid": "PMC13344349",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13344349"
+        ]
+      },
+      "doi": "10.1126/sciadv.aed2056",
+      "title": "A soft wearable near-infrared spectroscopy system for detecting brain water dynamics linked to glymphatic activity during sleep.",
+      "authorString": "Ban S, Kwon J, Shin I, Kwon Y, Choi KM, Huang Y, Yun CH, Yeo WH.",
+      "journalTitle": "Sci Adv",
+      "issue": "28",
+      "journalVolume": "12",
+      "pubYear": "2026",
+      "journalIssn": "2375-2548",
+      "pageInfo": "eaed2056",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-08",
+      "firstIndexDate": "2026-07-09"
+    },
+    {
+      "id": "42804413",
+      "source": "MED",
+      "pmid": "42804413",
+      "pmcid": "PMC13685624",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13685624"
+        ]
+      },
+      "doi": "10.1159/nim/adxag001",
+      "title": "The Forgotten Beats.",
+      "authorString": "Sommer AP.",
+      "journalTitle": "Neuroimmunomodulation",
+      "issue": "1",
+      "journalVolume": "33",
+      "pubYear": "2026",
+      "journalIssn": "1021-7401; 1423-0216; ",
+      "pageInfo": "349-354",
+      "pubType": "letter",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-28",
+      "firstIndexDate": "2026-09-29"
+    },
+    {
+      "id": "42748236",
+      "source": "MED",
+      "pmid": "42748236",
+      "pmcid": "PMC13580550",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13580550"
+        ]
+      },
+      "doi": "10.1126/sciadv.aeg5510",
+      "title": "Serpin-driven green camouflage and NIR fluorescence in frogs.",
+      "authorString": "Vignesh R, Vu T, Harvey G, Menozzi L, Delia J, White W, Lin P, Galatis E, Johnsen S, Yao J, Taboada C.",
+      "journalTitle": "Sci Adv",
+      "issue": "38",
+      "journalVolume": "12",
+      "pubYear": "2026",
+      "journalIssn": "2375-2548",
+      "pageInfo": "eaeg5510",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-16",
+      "firstIndexDate": "2026-09-17"
+    },
+    {
+      "id": "42072270",
+      "source": "MED",
+      "pmid": "42072270",
+      "pmcid": "PMC13113919",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13113919"
+        ]
+      },
+      "doi": "10.3390/bioengineering13040476",
+      "title": "Photoacoustic Imaging for Women's Gynecological Health: Advances and Clinical Prospects.",
+      "authorString": "Kumar PPP, Lim DK, Kim T.",
+      "journalTitle": "Bioengineering (Basel)",
+      "issue": "4",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2306-5354",
+      "pageInfo": "476",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-18",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "42769663",
+      "source": "MED",
+      "pmid": "42769663",
+      "pmcid": "PMC13592260",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13592260"
+        ]
+      },
+      "doi": "10.1364/boe.608642",
+      "title": "Phase-sensitive photothermal optical coherence tomography: decoupling optical and thermal tissue properties.",
+      "authorString": "Salimi M, Khazaei A, Tabatabaei N.",
+      "journalTitle": "Biomed Opt Express",
+      "issue": "9",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2156-7085",
+      "pageInfo": "4884-4900",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-28",
+      "firstIndexDate": "2026-09-23"
+    },
+    {
+      "id": "42603219",
+      "source": "MED",
+      "pmid": "42603219",
+      "pmcid": "PMC13477492",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13477492"
+        ]
+      },
+      "doi": "10.1007/s10103-026-04990-6",
+      "title": "Emerging non-invasive tools for hair follicle assessment: a narrative review on hyperspectral and terahertz imaging.",
+      "authorString": "Bose D, Kapoor R, Das D, Shome D, Ahmed E.",
+      "journalTitle": "Lasers Med Sci",
+      "issue": "1",
+      "journalVolume": "41",
+      "pubYear": "2026",
+      "journalIssn": "0268-8921; 1435-604x; ",
+      "pageInfo": "190",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-15",
+      "firstIndexDate": "2026-08-16"
+    },
+    {
+      "id": "42259769",
+      "source": "MED",
+      "pmid": "42259769",
+      "pmcid": "PMC13246582",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13246582"
+        ]
+      },
+      "doi": "10.1002/mp.70521",
+      "title": "Monte Carlo modeling and phantom studies show Cherenkov emission per unit dose during total skin electron therapy is a function of tissue optical properties.",
+      "authorString": "Zhu Y, Ong YH, Byrd BK, Alexander DA, Johnson M, Sourvanos D, Zhu TC.",
+      "journalTitle": "Med Phys",
+      "issue": "6",
+      "journalVolume": "53",
+      "pubYear": "2026",
+      "journalIssn": "0094-2405; 2473-4209; ",
+      "pageInfo": "e70521",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-06-09"
+    },
+    {
+      "id": "42761786",
+      "source": "MED",
+      "pmid": "42761786",
+      "pmcid": "PMC13587242",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13587242"
+        ]
+      },
+      "doi": "10.1117/1.jbo.31.9.095003",
+      "title": "Development and optical characterization of a multilayered head phantom for optical brain monitoring.",
+      "authorString": "Awad-Pérez K, Roldan M, Kyriacou PA.",
+      "journalTitle": "J Biomed Opt",
+      "issue": "9",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "1083-3668; 1560-2281; ",
+      "pageInfo": "095003",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-18",
+      "firstIndexDate": "2026-09-20"
+    },
+    {
+      "id": "42633123",
+      "source": "MED",
+      "pmid": "42633123",
+      "pmcid": "PMC13498974",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13498974"
+        ]
+      },
+      "doi": "10.1117/1.jbo.31.8.087001",
+      "title": "Quantitative evaluation of skin pigmentation effects on photoplethysmography using vascular finger phantoms and Monte Carlo simulation.",
+      "authorString": "Osorio-Sanchez L, May JM, Kyriacou PA.",
+      "journalTitle": "J Biomed Opt",
+      "issue": "8",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "1083-3668; 1560-2281; ",
+      "pageInfo": "087001",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-22",
+      "firstIndexDate": "2026-08-23"
+    },
+    {
+      "id": "42944934",
+      "source": "MED",
+      "pmid": "42944934",
+      "pmcid": "PMC13714148",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13714148"
+        ]
+      },
+      "doi": "10.1007/s10103-026-05077-y",
+      "title": "Red and near-infrared photobiomodulation in precision medicine: mechanisms, dosimetry, and clinical translation.",
+      "authorString": "Shi L, Lu J, Wei B, Zhou P.",
+      "journalTitle": "Lasers Med Sci",
+      "issue": "1",
+      "journalVolume": "41",
+      "pubYear": "2026",
+      "journalIssn": "0268-8921; 1435-604x; ",
+      "pageInfo": "276",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-27",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42939763",
+      "source": "MED",
+      "pmid": "42939763",
+      "pmcid": "PMC13702219",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13702219"
+        ]
+      },
+      "doi": "10.3390/biom16101509",
+      "title": "Hyaluronic Acid-Based Nanoplatforms for Photoacoustic Monitoring of Phototherapy.",
+      "authorString": "Jeong Y, Jo D, Choi W, Kim KS, Kim J.",
+      "journalTitle": "Biomolecules",
+      "issue": "10",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2218-273x",
+      "pageInfo": "1509",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-17",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42387511",
+      "source": "MED",
+      "pmid": "42387511",
+      "pmcid": "PMC13499335",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13499335"
+        ]
+      },
+      "doi": "10.1186/s12903-026-09108-6",
+      "title": "Influence of intervening media and thickness on transmitted irradiance from a dental light-curing unit.",
+      "authorString": "Thitivaraporn N, Prawatvatchara W, Thamrongananskul N, Klaisiri A.",
+      "journalTitle": "BMC Oral Health",
+      "issue": "1",
+      "journalVolume": "26",
+      "pubYear": "2026",
+      "journalIssn": "1472-6831",
+      "pageInfo": "1531",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-02"
+    },
+    {
+      "id": "42923901",
+      "source": "MED",
+      "pmid": "42923901",
+      "pmcid": "PMC13690313",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13690313"
+        ]
+      },
+      "doi": "10.4103/jmss.jmss_68_25",
+      "title": "Simulation of Photoplethysmography Signal in Reflection Mode Using Three-layer Skin Optical Modeling.",
+      "authorString": "Afzalipour R, Latifi AR, Rezaei-Latifi A, Rarani MZ, Ghanbarnejad A.",
+      "journalTitle": "J Med Signals Sens",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2228-7477",
+      "pageInfo": "24",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-01",
+      "firstIndexDate": "2026-10-25"
+    },
+    {
+      "id": "42694932",
+      "source": "MED",
+      "pmid": "42694932",
+      "pmcid": "PMC13540261",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13540261"
+        ]
+      },
+      "doi": "10.1117/1.nph.13.3.035007",
+      "title": "Analytical model enabling the correction of absorption and scattering in dual-color ratiometric multiphoton microscopy of brain tissue.",
+      "authorString": "Chaigneau E, Tournissac M, Walter S, Collot M, Charpak S.",
+      "journalTitle": "Neurophotonics",
+      "issue": "3",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2329-423x; 2329-4248; ",
+      "pageInfo": "035007",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-09-05"
+    },
+    {
+      "id": "42774451",
+      "source": "MED",
+      "pmid": "42774451",
+      "pmcid": "PMC13594543",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13594543"
+        ]
+      },
+      "doi": "10.1016/j.pacs.2026.100881",
+      "title": "Photoacoustic and ultrasound Imaging of placental functions in gestational diabetes: From diagnosis to precision interventions.",
+      "authorString": "Liu Y, Wu Y, Gao X, Zhang Q, Jin X, Lin Z, Yang X, Zheng R, Du L, Zhang X, Chang S, Rong Q, Wang L, Kim C, Yang Z.",
+      "journalTitle": "Photoacoustics",
+      "journalVolume": "51",
+      "pubYear": "2026",
+      "journalIssn": "2213-5979",
+      "pageInfo": "100881",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-10",
+      "firstIndexDate": "2026-09-24"
+    },
+    {
+      "id": "42482865",
+      "source": "MED",
+      "pmid": "42482865",
+      "pmcid": "PMC13386801",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13386801"
+        ]
+      },
+      "doi": "10.1088/2515-7647/ae889d",
+      "title": "Optimization of light source parameters for photoacoustic imaging: trade-offs, technologies, and clinical considerations.",
+      "authorString": "Joseph Francis K, Veysset D, Lee H, Bouma BE, van Soest G.",
+      "journalTitle": "JPhys Photonics",
+      "issue": "3",
+      "journalVolume": "8",
+      "pubYear": "2026",
+      "journalIssn": "2515-7647",
+      "pageInfo": "032001",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-21",
+      "firstIndexDate": "2026-07-22"
+    },
+    {
+      "id": "42377614",
+      "source": "MED",
+      "pmid": "42377614",
+      "pmcid": "PMC13319184",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13319184"
+        ]
+      },
+      "doi": "10.1007/s10103-026-04892-7",
+      "title": "Strategic selection of multi-parametric laser settings and clinical endpoints in dermatology: an engineering-to-clinical review.",
+      "authorString": "Park S, Hyeon J, So H.",
+      "journalTitle": "Lasers Med Sci",
+      "issue": "1",
+      "journalVolume": "41",
+      "pubYear": "2026",
+      "journalIssn": "0268-8921; 1435-604x; ",
+      "pageInfo": "137",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-30",
+      "firstIndexDate": "2026-07-02"
+    },
+    {
+      "id": "42656874",
+      "source": "MED",
+      "pmid": "42656874",
+      "pmcid": "PMC13508089",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13508089"
+        ]
+      },
+      "doi": "10.1021/cbmi.5c00280",
+      "title": "Harnessing Rare-Earth Materials as Exogenous Contrast Agents for Enhanced Photoacoustic Imaging.",
+      "authorString": "Saju H, George S, Padmanabhan S, Ramesh N, Jaikumar T, Mukherjee V, Sangshetti JN, Palantavida S, Dalavaikodihalli Nanjaiah N, Prakash J, Kim C, Arote RB.",
+      "journalTitle": "Chem Biomed Imaging",
+      "issue": "8",
+      "journalVolume": "4",
+      "pubYear": "2026",
+      "journalIssn": "2832-3637",
+      "pageInfo": "1629-1645",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-26",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42939086",
+      "source": "MED",
+      "pmid": "42939086",
+      "pmcid": "PMC13701181",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13701181"
+        ]
+      },
+      "doi": "10.3390/bioengineering13101231",
+      "title": "Multispectral PPG Sensing Framework for Noninvasive Glucose Prediction via Multi-Feature Fusion and Micro-Environmental Compensation.",
+      "authorString": "Huang L, Wang J, Fan Y, Lan J, Luo H, Wang R.",
+      "journalTitle": "Bioengineering (Basel)",
+      "issue": "10",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2306-5354",
+      "pageInfo": "1231",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-21",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42457679",
+      "source": "MED",
+      "pmid": "42457679",
+      "pmcid": "PMC13490390",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13490390"
+        ]
+      },
+      "doi": "10.1038/s41467-026-75603-7",
+      "title": "Integrated two-photon and photoacoustic microscopy for single-cell neurometabolic imaging.",
+      "authorString": "Han J, Lee Y, Feng Z, Wu Y, Wang Z, Mejia AM, Bauer A, Goyal M, Lee JM, Zhao P, Zhang HF, Sun C, Hu S.",
+      "journalTitle": "Nat Commun",
+      "issue": "1",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2041-1723",
+      "pageInfo": "8670",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-15",
+      "firstIndexDate": "2026-07-16"
+    },
+    {
+      "id": "42294628",
+      "source": "MED",
+      "pmid": "42294628",
+      "pmcid": "PMC13336465",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13336465"
+        ]
+      },
+      "doi": "10.1002/advs.75938",
+      "title": "Enhancing Blood Circulation With Epsilon-Near-Zero (ENZ) Materials via the Far-Infrared Window of Human Skin.",
+      "authorString": "Yao WT, Yang SC, Tsai MF, Chen HL.",
+      "journalTitle": "Adv Sci (Weinh)",
+      "issue": "49",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2198-3844",
+      "pageInfo": "e75938",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-15",
+      "firstIndexDate": "2026-06-16"
+    },
+    {
+      "id": "42694470",
+      "source": "MED",
+      "pmid": "42694470",
+      "pmcid": "PMC13539382",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13539382"
+        ]
+      },
+      "doi": "10.1039/d6na00444j",
+      "title": "A mesoporous silica-based MRI/NIR-II fluorescence bimodal nanoprobe for precision detection and surgical navigation of sentinel lymph node metastasis.",
+      "authorString": "Feng R, Wang H, Tao S, Xu K, Xu K, Mou Y, Shen Z, Ru J, Shao C.",
+      "journalTitle": "Nanoscale Adv",
+      "issue": "19",
+      "journalVolume": "8",
+      "pubYear": "2026",
+      "journalIssn": "2516-0230",
+      "pageInfo": "5646-5659",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-21",
+      "firstIndexDate": "2026-09-05"
+    },
+    {
+      "id": "42495519",
+      "source": "MED",
+      "pmid": "42495519",
+      "pmcid": "PMC13393824",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13393824"
+        ]
+      },
+      "doi": "10.1016/j.pacs.2026.100857",
+      "title": "Volumetric photoacoustic imaging of elastin and age-related remodeling using near-infrared probe ElaNIR.",
+      "authorString": "Jeon H, Kim J, Kwon HY, Lee J, Kim WJ, Kang NY, Chang YT, Kim C.",
+      "journalTitle": "Photoacoustics",
+      "journalVolume": "51",
+      "pubYear": "2026",
+      "journalIssn": "2213-5979",
+      "pageInfo": "100857",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-18",
+      "firstIndexDate": "2026-07-25"
+    },
+    {
+      "id": "PMC13654724",
+      "source": "PMC",
+      "pmcid": "PMC13654724",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13654724"
+        ]
+      },
+      "title": "20-MHz high-intensity focused ultrasound for tattoo removal without pigment-specific optical targeting and with evidence for an ablation-associated transepidermal extrusion pathway",
+      "authorString": "Hong J, Hong S, Kwon K, Kim S, Lee S, Sung S, Yang H, Yoo S, Jang H, Rhee K, Kwon I, Min C, Jeong S, Kim M, Cha H, Kim S, Park Y, Yoon M, Choi H, You S.",
+      "journalTitle": "Front Med (Lausanne)",
+      "journalVolume": "13",
+      "journalIssn": "2296-858x",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-16",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42922939",
+      "source": "MED",
+      "pmid": "42922939",
+      "pmcid": "PMC13687072",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13687072"
+        ]
+      },
+      "doi": "10.1117/1.jbo.31.10.100901",
+      "title": "Near-infrared fluorescence lifetime imaging: fluorophores, methods, and applications.",
+      "authorString": "Yuan N, Sherry C, Nizam NI, Ragab S, Chavez L, Pandey V, Verma A, Scott CN, Barroso MM, Intes X.",
+      "journalTitle": "J Biomed Opt",
+      "issue": "10",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "1083-3668; 1560-2281; ",
+      "pageInfo": "100901",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-21",
+      "firstIndexDate": "2026-10-25"
+    },
+    {
+      "id": "42890448",
+      "source": "MED",
+      "pmid": "42890448",
+      "pmcid": "PMC13671702",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13671702"
+        ]
+      },
+      "doi": "10.1364/boe.601705",
+      "title": "Differential pathlength factor model for near-infrared diffuse optical imaging.",
+      "authorString": "Niknam K, Paul MB, Das M.",
+      "journalTitle": "Biomed Opt Express",
+      "issue": "10",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2156-7085",
+      "pageInfo": "5261-5283",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-22",
+      "firstIndexDate": "2026-10-19"
+    },
+    {
+      "id": "42959957",
+      "source": "MED",
+      "pmid": "42959957",
+      "pmcid": "PMC13717797",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13717797"
+        ]
+      },
+      "doi": "10.1021/acsomega.6c08357",
+      "title": "Spray-Coated Macroporous CaCO&lt;sub&gt;3&lt;/sub&gt;-PVA Structures for Radiative Cooling.",
+      "authorString": "Bijarniya JP, Yasin G, Seppälä A.",
+      "journalTitle": "ACS Omega",
+      "issue": "42",
+      "journalVolume": "11",
+      "pubYear": "2026",
+      "journalIssn": "2470-1343",
+      "pageInfo": "65594-65603",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-12",
+      "firstIndexDate": "2026-10-31"
+    },
+    {
+      "id": "42481492",
+      "source": "MED",
+      "pmid": "42481492",
+      "pmcid": "PMC13500822",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13500822"
+        ]
+      },
+      "doi": "10.1038/s41467-026-75692-4",
+      "title": "Integrated device for optoacoustically-guided ultrasound surgery.",
+      "authorString": "Esteban I, Mahkam N, Chen Y, Gjikolaj M, Werner B, Richter H, Beckmann K, Nevzati E, Coluccia D, Yoshihara HAI, Seehusen F, Razansky D, Estrada H.",
+      "journalTitle": "Nat Commun",
+      "issue": "1",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "2041-1723",
+      "pageInfo": "8871",
+      "pubType": "research support, non-u.s. gov't; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "gen"
+        ]
+      },
+      "firstPublicationDate": "2026-07-21",
+      "firstIndexDate": "2026-07-22"
+    }
+  ]
+}

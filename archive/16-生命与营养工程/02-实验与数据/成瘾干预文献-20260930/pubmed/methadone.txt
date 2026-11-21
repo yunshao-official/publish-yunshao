@@ -1,0 +1,268 @@
+1. Lancet Reg Health Am. 2023 Dec 4;28:100636. doi: 10.1016/j.lana.2023.100636. 
+eCollection 2023 Dec.
+
+Retention and critical outcomes among new methadone maintenance patients 
+following extended take-home reforms: a retrospective observational cohort 
+study.
+
+Williams AR(1)(2), Krawczyk N(3), Hu MC(2), Harpel L(2), Aydinoglo N(2), Cerda 
+M(3), Rotrosen J(3), Nunes EV(1)(2).
+
+Author information:
+(1)Columbia University Department of Psychiatry, New York, USA.
+(2)New York State Psychiatric Institute, New York, USA.
+(3)Department of Population Health, NYU Grossman School of Medicine, USA.
+
+BACKGROUND: Approximately 1800 opioid treatment programs (OTPs) in the US 
+dispense methadone to upwards of 400,000 patients with opioid use disorder (OUD) 
+annually, operating under longstanding highly restrictive guidelines. OTPs were 
+granted novel flexibilities beginning March 15, 2020, allowing for reduced visit 
+frequency and extended take-home doses to minimize COVID exposure with great 
+variation across states and sites. We sought to use electronic health records to 
+compare retention in treatment, opioid use, and adverse events among patients 
+newly entering methadone maintenance in the post-reform period in comparison 
+with year-ago, unexposed, controls.
+METHODS: Retrospective observational cohort study across 9 OTPs, geographically 
+dispersed, in the National Institute of Drug Abuse (NIDA) Clinical Trials 
+Network. Newly enrolled patients between April 15 and October 14, 2020 
+(post-COVID, reform period) v. March 15-September 14, 2019 (pre-COVID, control 
+period) were assessed. The primary outcome was 6-month retention. Secondary 
+outcomes were opioid use and adverse events including emergency department 
+visits, hospitalizations, and overdose.
+FINDINGS: 821 individuals were newly admitted in the post-COVID and year-ago 
+control periods, average age of 38.3 (SD 11.1), 58.9% male. The only difference 
+across pre- and post-reform groups was the prevalence of psychostimulant use 
+disorder (25.7% vs 32.9%, p = 0.02). Retention was non-inferior (60.0% vs 60.1%) 
+as were hazards of adverse events in the aggregate (X2 (1) = 0.55, p = 0.46) in 
+the post-COVID period. However, rates of month-level opioid use were higher 
+among post-COVID intakes compared to pre-COVID controls (64.8% vs 51.1%, 
+p < 0.001). Moderator analyses accounting for stimulant use and site-level 
+variation in take-home schedules did not change findings.
+INTERPRETATION: Policies allowing for extended take-home schedules were not 
+associated with worse retention or adverse events despite slightly elevated 
+rates of measured opioid use while in care. Relaxed guidelines were not 
+associated with measurable increased harms and findings could inform future 
+studies with prospective trials.
+FUNDING: USDHHSNIDACTNUG1DA013035-15.
+
+© 2023 The Author(s).
+
+DOI: 10.1016/j.lana.2023.100636
+PMCID: PMC10751716
+PMID: 38152421
+
+Conflict of interest statement: ARW receives consulting fees, equity, and travel 
+expenses for a leadership role at Ophelia Health, Inc. a telehealth platform for 
+the treatment of opioid use disorder. NK receives consulting fees for ongoing 
+service as an expert witness in opioid litigation. TR has served as Principal 
+Investigator and co-investigator on studies for which support in the form of 
+donated or discounted medication, smartphone apps, and/or funds was provided by 
+Alkermes, Inc.; Indivior, Inc.; Braeburn Pharmaceuticals, Inc.; Pear 
+Therapeutics; CHESS Health, and Data Cubed. None of this support has gone 
+directly to the investigators, to NYU, to NIDA/NIH, or to NIDA's contractor 
+Emmes, Inc. All other authors have no interest to disclose.
+
+
+2. Drug Alcohol Depend. 2023 Feb 1;243:109699. doi: 
+10.1016/j.drugalcdep.2022.109699. Epub 2022 Dec 15.
+
+A review of factors associated with methadone maintenance treatment adherence 
+and retention in Vietnam.
+
+Nong T(1), Hodgkin D(2), Trang NT(3), Shoptaw SJ(4), Li MJ(4), Hai Van HT(5), Le 
+G(3).
+
+Author information:
+(1)The Heller School for Social Policy and Management, Brandeis University, 415 
+South St, Waltham, MA 02453, the United States of America. Electronic address: 
+thuongnong@brandeis.edu.
+(2)The Heller School for Social Policy and Management, Brandeis University, 415 
+South St, Waltham, MA 02453, the United States of America.
+(3)Center for Training and Research on Substance Abuse and HIV, Hanoi Medical 
+University, Hanoi, Viet Nam.
+(4)Center for Behavioral and Addiction Medicine, Department of Family Medicine, 
+University of California, Los Angeles, the United States of America.
+(5)Global Health Department, Hanoi Medical University, Hanoi, Viet Nam.
+
+BACKGROUND: Starting in 2008, Vietnam's national MMT program expanded quickly, 
+but it is struggling with increasing attrition rates and poor adherence among 
+patients. Several studies have reported on MMT retention and adherence, but no 
+overview has yet been published. The objective of this study is to fill that gap 
+and to review factors associated with retention and adherence in MMT in Vietnam.
+METHODS: A systematic search was conducted using databases of literature - 
+Pubmed, Cochrane, Scopus, Academic search premiere, and SoINDEX. Peer-reviewed 
+empirical studies with full text in English discussing retention attrition and 
+adherence regarding MMT in Vietnam were selected. The results were synthesized 
+using qualitative methods.
+RESULTS: Adherence and retention rates varied among the 11 included studies. In 
+general, patients in mountainous provinces had lower adherence and retention 
+rates than those in big cities. Retention rates decreased with the studies' 
+follow-up period and had a downward trend over time. Factors associated with 
+adherence and retention can be classified into three groups: individual, 
+community, and institutional factors. Important individual factors areage, 
+education, awareness of MMT and HIV, and co-occurring disorders and 
+comorbidities. Stigma is the major community risk factor, and methadone daily 
+dose, the distance between home and clinic, and clinic's service hours are the 
+three most important institutional factors.
+CONCLUSIONS: The literature reviewed identifies important factors associated 
+with MMT adherence and retention in Vietnam. The findings suggest further 
+research exploring both subjective and objective factors and more policies to 
+remove social and structural barriers to enhance treatment outcomes.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.drugalcdep.2022.109699
+PMCID: PMC9851667
+PMID: 36603363 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+report no conflicts of interest.
+
+
+3. Psychol Addict Behav. 2015 Dec;29(4):906-17. doi: 10.1037/adb0000090. Epub
+2015  Jun 22.
+
+Predictors of patient retention in methadone maintenance treatment.
+
+Proctor SL(1), Copeland AL(1), Kopak AM(2), Hoffmann NG(3), Herschman PL(4), 
+Polukhina N(4).
+
+Author information:
+(1)Department of Psychology, Louisiana State University.
+(2)Department of Criminology and Criminal Justice, Western Carolina University.
+(3)Department of Psychology, Western Carolina University.
+(4)CRC Health Group, Inc., Cupertino.
+
+This study sought to determine whether select pretreatment demographic and 
+in-treatment clinical variables predict premature treatment discharge at 6 and 
+12 months among patients receiving methadone maintenance treatment (MMT). Data 
+were abstracted from electronic medical records for 1,644 patients with an 
+average age of 34.7 years (SD = 11.06) admitted to 26 MMT programs located 
+throughout the United States from 2009 to 2011. Patients were studied through 
+retrospective chart review for 12 months or until treatment discharge. Premature 
+discharge at 6- and 12-month intervals were the dependent variables, analyzed in 
+logistic regressions. Clinical predictor variables included average methadone 
+dosage (mg/d) and urinalysis drug screen (UDS) findings for opioids and various 
+nonopioid substances at intake and 6 months. Pretreatment demographic variables 
+included gender, race/ethnicity, employment status, marital status, payment 
+method, and age at admission. UDS findings positive (UDS+) for cocaine at intake 
+and 6 months were found to be independent predictors of premature discharge at 
+12 months. UDS+ for opioids at 6 months was also an independent predictor of 
+premature discharge at 12 months. Higher average daily methadone dosages were 
+found to predict retention at both 6 and 12 months. Significant demographic 
+predictors of premature discharge at 6 months included Hispanic ethnicity, 
+unemployment, and marital status. At 12 months, male gender, younger age, and 
+self-pay were found to predict premature discharge. Select demographic 
+characteristics may be less important as predictors of outcome after patients 
+have been in treatment beyond a minimum period of time, while others may become 
+more important later on in treatment.
+
+(c) 2016 APA, all rights reserved).
+
+DOI: 10.1037/adb0000090
+PMID: 26098127 [Indexed for MEDLINE]
+
+
+4. J Subst Abuse Treat. 2020 Aug;115:108031. doi: 10.1016/j.jsat.2020.108031.
+Epub  2020 May 11.
+
+One year of methadone maintenance treatment in a fentanyl endemic area: Safety, 
+repeated exposure, retention, and remission.
+
+Stone AC(1), Carroll JJ(2), Rich JD(3), Green TC(4).
+
+Author information:
+(1)Discovery House CTC, 1625 Diamond Hill Road, Woonsocket, RI 02895, USA. 
+Electronic address: acstonemd@gmail.com.
+(2)Department of Sociology & Anthropology, Elon University, 100 Campus Drive, 
+Elon, NC 27244, USA.
+(3)The Warren Alpert School of Medicine of Brown University, The Miriam 
+Hospital, 164 Summit Ave, Providence, RI 02903, USA.
+(4)The Warren Alpert School of Medicine of Brown University, Rhode Island 
+Hospital, 55 Claverick Street, Providence, RI 02903, USA.
+
+INTRODUCTION: Fentanyl is a potent synthetic opioid that has contributed to 
+increasing overdose deaths in the United States in recent years. Concern over 
+safety and efficacy of agonist treatment for fentanyl use may limit access to 
+treatment. This study sought to address these potential concerns in a 
+naturalistic setting.
+OBJECTIVES: Measure 12-month treatment outcomes for methadone maintenance 
+treatment (MMT) in a fentanyl endemic area.
+OUTCOMES: Primary: 1) Treatment retention; 2) sustained remission (defined as 3 
+consecutive negative screens); 3) return to use; 4) methadone dosage required; 
+and 5) number of days to achieve remission. Secondary: Mortality.
+METHODS: A naturalistic follow-up study and retrospective review of consecutive 
+patients newly admitted to a single methadone maintenance treatment program in 
+Rhode Island.
+RESULTS: We observed 154 unique intake events (representing 151 patients). 
+Eighty percent (n = 121) tested positive for fentanyl at intake. Seventy-five 
+percent of patients achieved remission within the 12-month study period. 
+One-year retention was 53% for fentanyl-exposed individuals and 47% for those 
+not exposed. The majority (99%) of patients who remained in treatment at 
+12 months achieved remission. We saw prolonged, sustained remission in 44% of 
+patients exposed to fentanyl at intake and 47% of those who were not. Dose and 
+time to remission were similar. Unfortunately, 4 patients died after leaving MMT 
+prematurely.
+CONCLUSIONS: This study suggests MMT is safe despite repeated exposure to 
+fentanyl while taking methadone. Remission is achievable, and MMT is protective 
+against death among fentanyl-exposed patients while in treatment.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jsat.2020.108031
+PMCID: PMC10347815
+PMID: 32600619 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest We wish to 
+draw the attention of the Editor to the following facts, which may be considered 
+as potential conflicts of interest, and to note significant financial 
+contributions to this work: We wish to confirm that there are no other known 
+conflicts of interest associated with this publication and there has been no 
+other significant financial support for this work that could have influenced its 
+outcome.
+
+
+5. J Addict Dis. 2022 Apr-Jun;40(2):183-191. doi: 10.1080/10550887.2021.1962209. 
+Epub 2021 Aug 11.
+
+Cannabis use is associated with lower retention in methadone maintenance 
+treatment, but not among schizophrenic- and other chronically psychotic 
+patients.
+
+Volkov I(1), Schreiber S(1)(2)(3)(4), Adelson M(2), Shoshan S(2)(3), Peles 
+E(2)(3)(4).
+
+Author information:
+(1)Department of Psychiatry, Tel Aviv Sourasky Medical Center, Tel-Aviv, Israel.
+(2)Dr. Miriam & Sheldon G. Adelson Clinic for Drug Abuse, Treatment & Research, 
+Tel-Aviv, Israel.
+(3)Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv, Israel.
+(4)Sagol School of Neuroscience, Tel Aviv University, Tel-Aviv, Israel.
+
+The findings of studies on cannabis use and retention in methadone maintenance 
+treatment (MMT) are inconsistent. To study cannabis use and its relationship to 
+patients' outcomes in MMT with/without lifetime DSM-IV-TR 
+schizophrenia/chronic-psychosis diagnosis. Since June 1993, 877 patients with 
+available lifetime DSM-IV-TR psychiatric diagnosis were followed-up until 
+December 2017. Urine drug screens on admission and after one year were analyzed. 
+Lifetime schizophrenia/psychosis was diagnosed in 50 (5.7%) patients. They did 
+not differ from the other 827 by admission cannabis use (18.0% vs. 12.3%) and 
+had similar 1-year retention rates (76.0% vs.77.0%, respectively). Cumulative 
+retention of the cohort excluding schizophrenia/chronic-psychosis was longer for 
+the 667 patients who did not use cannabis after 1-year (9.1 years, 95%CI 
+8.4-9.9) compared with the 118 cannabis-users after 1-year (6.0 years, 95% CI 
+4.8-7.2, p<.001). Among the schizophrenia/chronic-psychosis group, cannabis was 
+not related to retention (38 non-users, 7.9 years 95%CI 5.2-10.5 vs. 9 
+cannabis-users, 9.9 years, 95% CI 3.8-16.0, p=.5). Survival was shorter for the 
+41 schizophrenia/chronic-psychosis non-users (15.2 years, 95% CI 12.8-17.7) than 
+for the 719 non-schizophrenia/chronic-psychosis non-users (18.5, 95%CI 
+17.9-19.2, p = 0.009). However, survival was comparable among the 9 
+cannabis-users with schizophrenia/chronic-psychosis (20.1, 95% CI 16.2-24.1) and 
+101 other cohort users (18.6, 95% CI 16.9-20.4). Cannabis use is associated with 
+decreased retention among MMT patients, however the effects of cannabis on 
+schizophrenia/psychosis patients on retention and survival cannot be verified 
+due to the small sample size and the limited data regarding chronicity of 
+cannabis use. Future larger, prospective studies are needed.
+
+DOI: 10.1080/10550887.2021.1962209
+PMID: 34379049 [Indexed for MEDLINE]

@@ -1,0 +1,1857 @@
+{
+  "query_id": "A3",
+  "group": "A",
+  "query": "milrinone AND heart failure AND mortality",
+  "hitCount": 5209,
+  "resultType": "lite",
+  "timestamp": "2026-11-03T04:27:46.661697+00:00",
+  "results": [
+    {
+      "id": "42474225",
+      "source": "MED",
+      "pmid": "42474225",
+      "doi": "10.1097/shk.0000000000002907",
+      "title": "Association between Milrinone Use and Mortality Risk in Sepsis: Insights from the MIMIC-IV Database.",
+      "authorString": "Wu J, Liu C, Ji X, Li B, Li X, Zhu J.",
+      "journalTitle": "Shock",
+      "pubYear": "2026",
+      "journalIssn": "1073-2322; 1540-0514; ",
+      "pubType": "journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-20",
+      "firstIndexDate": "2026-07-21"
+    },
+    {
+      "id": "42780004",
+      "source": "MED",
+      "pmid": "42780004",
+      "pmcid": "PMC13597219",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13597219"
+        ]
+      },
+      "doi": "10.3389/fneur.2026.1872442",
+      "title": "Efficacy and safety of milrinone infusion in patients with aneurysmal subarachnoid hemorrhage: a systematic review and meta-analysis.",
+      "authorString": "Gharaibeh K, Ali A, Aladamat N, Shuaib A, Zaidi SF, Jumaa MA.",
+      "journalTitle": "Front Neurol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1664-2295",
+      "pageInfo": "1872442",
+      "pubType": "meta-analysis; systematic review; systematic-review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-09",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "42487866",
+      "source": "MED",
+      "pmid": "42487866",
+      "pmcid": "PMC13389919",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13389919"
+        ]
+      },
+      "doi": "10.12669/pjms.42.7.16206",
+      "title": "Efficacy of milrinone combined with norepinephrine in improving hemodynamics and protecting liver/kidney function in patients with septic shock.",
+      "authorString": "Fu C, Li H, Ge J, Jiang X, Guo L.",
+      "journalTitle": "Pak J Med Sci",
+      "issue": "7",
+      "journalVolume": "42",
+      "pubYear": "2026",
+      "journalIssn": "1682-024x; 1681-715x; ",
+      "pageInfo": "1704-1710",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-07-23"
+    },
+    {
+      "id": "42603047",
+      "source": "MED",
+      "pmid": "42603047",
+      "pmcid": "PMC13475837",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13475837"
+        ]
+      },
+      "doi": "10.4103/apc.apc_115_26",
+      "title": "Pediatric extracorporeal membrane oxygenation support at a single center: Outcomes by indication, prognostic factors, and duration.",
+      "authorString": "Rosenthal LL, Flemmer AW, Förster KM, Bruegel M, Hörer J, Haas NA, Hagl C, Sadoni S, Muensterer OJ, Michel SG.",
+      "journalTitle": "Ann Pediatr Cardiol",
+      "issue": "4",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "0974-2069; 0974-5149; ",
+      "pageInfo": "396-404",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-31",
+      "firstIndexDate": "2026-08-16"
+    },
+    {
+      "id": "42572609",
+      "source": "MED",
+      "pmid": "42572609",
+      "pmcid": "PMC13453045",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13453045"
+        ]
+      },
+      "doi": "10.1016/j.jhlto.2026.100627",
+      "title": "Inhaled pulmonary vasodilators in pulmonary hypertension: Perioperative use and clinical considerations.",
+      "authorString": "Klingbeil R, Hjalmarsson C, Colvin B, Kozarek K, Shapiro AB.",
+      "journalTitle": "JHLT Open",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2950-1334",
+      "pageInfo": "100627",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-10",
+      "firstIndexDate": "2026-08-13"
+    },
+    {
+      "id": "42930613",
+      "source": "MED",
+      "pmid": "42930613",
+      "pmcid": "PMC13706757",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13706757"
+        ]
+      },
+      "doi": "10.3390/medsci14060694",
+      "title": "Physiology-Guided Management of Acute Right Ventricular Failure and Pulmonary Hypertension in Critically Ill Patients: Hemodynamic Phenotypes, Ventilator Interactions, and Rescue Strategies.",
+      "authorString": "Eraky AM, Chazhikattu AJ, Crum JM, Simmons J.",
+      "journalTitle": "Med Sci (Basel)",
+      "issue": "6",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2076-3271",
+      "pageInfo": "694",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-21",
+      "firstIndexDate": "2026-10-27"
+    },
+    {
+      "id": "42273963",
+      "source": "MED",
+      "pmid": "42273963",
+      "doi": "10.1097/mcc.0000000000001393",
+      "title": "Pharmacological treatment of cardiogenic shock.",
+      "authorString": "Levy B, Klein T.",
+      "journalTitle": "Curr Opin Crit Care",
+      "issue": "5",
+      "journalVolume": "32",
+      "pubYear": "2026",
+      "journalIssn": "1070-5295; 1531-7072; ",
+      "pageInfo": "521-527",
+      "pubType": "review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-03",
+      "firstIndexDate": "2026-06-12"
+    },
+    {
+      "id": "42799284",
+      "source": "MED",
+      "pmid": "42799284",
+      "pmcid": "PMC13614691",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13614691"
+        ]
+      },
+      "doi": "10.26502/fccm.92920505",
+      "title": "Rapid Treatment of Acute Decompensated Heart Failure with Cardiogenic Shock in the Emergency Setting.",
+      "authorString": "Chaudhary F, Afzal S, Chaudhary N, Agrawal DK.",
+      "journalTitle": "Cardiol Cardiovasc Med",
+      "issue": "5",
+      "journalVolume": "10",
+      "pubYear": "2026",
+      "journalIssn": "2572-9292",
+      "pageInfo": "263-273",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-07",
+      "firstIndexDate": "2026-09-28"
+    },
+    {
+      "id": "42829509",
+      "source": "MED",
+      "pmid": "42829509",
+      "pmcid": "PMC13633448",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13633448"
+        ]
+      },
+      "doi": "10.1155/cric/7627691",
+      "title": "Unexpected Cardiogenic Shock in a Young Woman: A Case Report.",
+      "authorString": "Johnson BA, Ortiz LA, Prida XE.",
+      "journalTitle": "Case Rep Cardiol",
+      "journalVolume": "2026",
+      "pubYear": "2026",
+      "journalIssn": "2090-6404; 2090-6412; ",
+      "pageInfo": "7627691",
+      "pubType": "case-study; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-02",
+      "firstIndexDate": "2026-10-04"
+    },
+    {
+      "id": "42907944",
+      "source": "MED",
+      "pmid": "42907944",
+      "pmcid": "PMC13689082",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13689082"
+        ]
+      },
+      "doi": "10.1186/s44158-026-00408-5",
+      "title": "Pharmacology of vasopressors and inotropes during extracorporeal membrane oxygenation.",
+      "authorString": "Brinkman HM, Ortoleva JP, Elliott AG, Pisano DV, Ripoll JG, Martin NJ, Seelhammer TG, Kraybill MA, Elmadhoun O, Bottussi A, Leone M, Wittwer ED, Bignami EG, D'Andria Ursoleo J, Wieruszewski PM.",
+      "journalTitle": "J Anesth Analg Crit Care",
+      "issue": "1",
+      "journalVolume": "6",
+      "pubYear": "2026",
+      "journalIssn": "2731-3786",
+      "pageInfo": "133",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-27",
+      "firstIndexDate": "2026-10-23"
+    },
+    {
+      "id": "41978758",
+      "source": "MED",
+      "pmid": "41978758",
+      "pmcid": "PMC13070272",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13070272"
+        ]
+      },
+      "doi": "10.21542/gcsp.2026.5",
+      "title": "Efficacy and safety of dobutamine versus milrinone in cardiogenic shock: Systematic review and meta-analysis.",
+      "authorString": "Adji AS, Wardahni RK, Maulidah I, Saisa D, Puspita A, Saputra AD, Baraja A, Mantofa A, Komalasari I.",
+      "journalTitle": "Glob Cardiol Sci Pract",
+      "issue": "1",
+      "journalVolume": "2026",
+      "pubYear": "2026",
+      "journalIssn": "2305-7823",
+      "pageInfo": "e202605",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-28",
+      "firstIndexDate": "2026-04-14"
+    },
+    {
+      "id": "42935976",
+      "source": "MED",
+      "pmid": "42935976",
+      "pmcid": "PMC13696462",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13696462"
+        ]
+      },
+      "doi": "10.3389/fped.2026.1941518",
+      "title": "Case Report: Pulmonary artery banding for an older child with end-stage dilated cardiomyopathy.",
+      "authorString": "Huang J, Sun L, Tang C, Cao Y, Liang X, Chang Y, Li X, Huang X, Huang J.",
+      "journalTitle": "Front Pediatr",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2296-2360",
+      "pageInfo": "1941518",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-12",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "42222158",
+      "source": "MED",
+      "pmid": "42222158",
+      "pmcid": "PMC13219343",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13219343"
+        ]
+      },
+      "doi": "10.3389/fphar.2026.1785400",
+      "title": "Dobutamine versus milrinone for inferior ST-segment elevation myocardial infarction with right ventricular involvement: a retrospective cohort study.",
+      "authorString": "Wang S, Xiao Q, Li Z, Huang F, Lan F, Xu Y, Wei X.",
+      "journalTitle": "Front Pharmacol",
+      "journalVolume": "17",
+      "pubYear": "2026",
+      "journalIssn": "1663-9812",
+      "pageInfo": "1785400",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-15",
+      "firstIndexDate": "2026-06-02"
+    },
+    {
+      "id": "42592036",
+      "source": "MED",
+      "pmid": "42592036",
+      "pmcid": "PMC13463747",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13463747"
+        ]
+      },
+      "doi": "10.1002/pul2.70382",
+      "title": "Patterns and Trends in Vasoactive Medication Use in Patients With Pulmonary Arterial Hypertension Presenting With Shock.",
+      "authorString": "Pinzon VR, Bosch NA, Klings ES.",
+      "journalTitle": "Pulm Circ",
+      "issue": "3",
+      "journalVolume": "16",
+      "pubYear": "2026",
+      "journalIssn": "2045-8932; 2045-8940; ",
+      "pageInfo": "e70382",
+      "pubType": "letter",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-01",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "42305569",
+      "source": "MED",
+      "pmid": "42305569",
+      "pmcid": "PMC13265466",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13265466"
+        ]
+      },
+      "doi": "10.3389/fped.2026.1845899",
+      "title": "Management of arterial hypotension in critically Ill children: a narrative review and practical approach.",
+      "authorString": "Schneider H.",
+      "journalTitle": "Front Pediatr",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2296-2360",
+      "pageInfo": "1845899",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-01",
+      "firstIndexDate": "2026-06-18"
+    },
+    {
+      "id": "42743904",
+      "source": "MED",
+      "pmid": "42743904",
+      "pmcid": "PMC13595213",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13595213"
+        ]
+      },
+      "doi": "10.1016/j.jacadv.2026.103225",
+      "title": "Evolving Evidence-Driven Strategies in Cardiogenic Shock Management.",
+      "authorString": "Bhardwaj A, Hillerson D, Narang N, Pelter MN, Sinha A, Guglin M.",
+      "journalTitle": "JACC Adv",
+      "issue": "10 pt 2",
+      "journalVolume": "5",
+      "pubYear": "2026",
+      "journalIssn": "2772-963x",
+      "pageInfo": "103225",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-15",
+      "firstIndexDate": "2026-09-16"
+    },
+    {
+      "id": "PMC13654551",
+      "source": "PMC",
+      "pmcid": "PMC13654551",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13654551"
+        ]
+      },
+      "title": "Mitral valve surgery in patients with severe left ventricular dysfunction",
+      "authorString": "Mohammaddin K, Salvatori M, Rao V.",
+      "journalTitle": "JTCVS Struct Endovasc",
+      "journalVolume": "12",
+      "pubYear": "2026",
+      "journalIssn": "2950-6050",
+      "pubType": "editorial",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-04",
+      "firstIndexDate": "2026-10-16"
+    },
+    {
+      "id": "42029150",
+      "source": "MED",
+      "pmid": "42029150",
+      "pmcid": "PMC13178255",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13178255"
+        ]
+      },
+      "doi": "10.1093/eschf/xvag120",
+      "title": "The quantitative haemodynamic effect of levosimendan, dobutamine, and milrinone in heart failure patients: a meta-analysis.",
+      "authorString": "Nuzzi V, Madaudo C, Manca P, Cannata A, Raffa G, Mulè M, Cannata S, La Franca E, Pisano C, Cipriani M, Lorusso R.",
+      "journalTitle": "ESC Heart Fail",
+      "issue": "3",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2055-5822",
+      "pageInfo": "xvag120",
+      "pubType": "meta-analysis; research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-01",
+      "firstIndexDate": "2026-04-24"
+    },
+    {
+      "id": "40960311",
+      "source": "MED",
+      "pmid": "40960311",
+      "pmcid": "PMC12690451",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12690451"
+        ]
+      },
+      "doi": "10.1513/annalsats.202503-339oc",
+      "title": "Inotrope selection in mixed cardiogenic shock with sepsis: a comparative analysis between milrinone and dobutamine.",
+      "authorString": "Li B, Gershengorn HB, Vail EA, Wunsch H, Walkey AJ, Law AC, Ko D, Ayalon N, Kearney CM, Bosch NA.",
+      "journalTitle": "Ann Am Thorac Soc",
+      "issue": "2",
+      "journalVolume": "23",
+      "pubYear": "2026",
+      "journalIssn": "2329-6933; 2325-6621; ",
+      "pageInfo": "252-260",
+      "pubType": "comparative study; research-article; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 2,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-02-01",
+      "firstIndexDate": "2025-09-18"
+    },
+    {
+      "id": "42809661",
+      "source": "MED",
+      "pmid": "42809661",
+      "pmcid": "PMC13722429",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13722429"
+        ]
+      },
+      "doi": "10.1097/ccm.0000000000007338",
+      "title": "Time-Dependent Effects of Inotropic Exposure During Venoarterial Extracorporeal Membrane Oxygenation Support on the Probability of Extracorporeal Membrane Oxygenation Weaning Failure.",
+      "authorString": "van Steenwijk MPJ, Pladet LCA, van Esch A, Shi HJ, Donker DW, Taverne Y, Bunge JJH, Elzo Kraemer CV, Maas JJ, Montenij LJ, Otterspoor LC, Scholten E, van Koppenhagen L, van Rosmalen J, Gommers D, Constantinescu AA, de Boer RA, Møller JE, Rizopoulos D, Meuwese CL.",
+      "journalTitle": "Crit Care Med",
+      "pubYear": "2026",
+      "journalIssn": "0090-3493; 1530-0293; ",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-09-25",
+      "firstIndexDate": "2026-09-30"
+    },
+    {
+      "id": "42783063",
+      "source": "MED",
+      "pmid": "42783063",
+      "pmcid": "PMC13607592",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13607592"
+        ]
+      },
+      "doi": "10.3390/jcdd13090456",
+      "title": "Incidence, Predictors and Outcome of Vasoplegia After Left Ventricular Assist Device Implantation.",
+      "authorString": "Haidari Z, Turaev I, Demircioglu E, Knipp S.",
+      "journalTitle": "J Cardiovasc Dev Dis",
+      "issue": "9",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2308-3425",
+      "pageInfo": "456",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-10",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "42898550",
+      "source": "MED",
+      "pmid": "42898550",
+      "pmcid": "PMC13677932",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13677932"
+        ]
+      },
+      "doi": "10.3389/fped.2026.1891137",
+      "title": "Case Report: When cardiomyopathy is the clue: late-presenting propionic acidemia manifesting as acute heart failure.",
+      "authorString": "Nti BK, Trapp N, Ali A, Lanpher B, Weatherhead J.",
+      "journalTitle": "Front Pediatr",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2296-2360",
+      "pageInfo": "1891137",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-05",
+      "firstIndexDate": "2026-10-21"
+    },
+    {
+      "id": "42450052",
+      "source": "MED",
+      "pmid": "42450052",
+      "pmcid": "PMC13360814",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13360814"
+        ]
+      },
+      "doi": "10.3390/ijms27135779",
+      "title": "Istaroxime in Acute Heart Failure and Early Cardiogenic Shock: A Calcium-Cycling Approach to Inotropic Therapy.",
+      "authorString": "Krasińska B, Maria Raffa G, Pisano C, Nuzzi V, Manca P, Filipiak KJ, Rahnama M, Olasińska-Wiśniewska A, Kowalewski M, Krasiński Z, Suwalski P, Grywalska E, Urbanowicz T.",
+      "journalTitle": "Int J Mol Sci",
+      "issue": "13",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1422-0067",
+      "pageInfo": "5779",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-26",
+      "firstIndexDate": "2026-07-15"
+    },
+    {
+      "id": "42743347",
+      "source": "MED",
+      "pmid": "42743347",
+      "pmcid": "PMC13676308",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13676308"
+        ]
+      },
+      "doi": "10.1161/circheartfailure.126.014307",
+      "title": "A Recovery-Focused Framework for the Management of Cardiogenic Shock.",
+      "authorString": "Kyriakopoulos CP, Taleb I, Hamouche R, Tseliou E, Drakos SG.",
+      "journalTitle": "Circ Heart Fail",
+      "issue": "9",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1941-3289; 1941-3297; ",
+      "pageInfo": "e014307",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct"
+        ]
+      },
+      "firstPublicationDate": "2026-09-15",
+      "firstIndexDate": "2026-09-16"
+    },
+    {
+      "id": "42794236",
+      "source": "MED",
+      "pmid": "42794236",
+      "pmcid": "PMC13605104",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13605104"
+        ]
+      },
+      "doi": "10.3390/children13091215",
+      "title": "Fontan Failure: Current State of the Art in Mechanical Circulatory Support and Transplantation.",
+      "authorString": "Barracano R, De Palma G, Montanaro C, Casale V, Borrelli N, Cutrì AB, Rebonato M, Altobelli I, Butera G, Scognamiglio G, Sarubbi B.",
+      "journalTitle": "Children (Basel)",
+      "issue": "9",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2227-9067",
+      "pageInfo": "1215",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-08",
+      "firstIndexDate": "2026-09-28"
+    },
+    {
+      "id": "42093634",
+      "source": "MED",
+      "pmid": "42093634",
+      "pmcid": "PMC13240787",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13240787"
+        ]
+      },
+      "doi": "10.1161/circheartfailure.125.013778",
+      "title": "Variation in Vasoactive Treatment Selection for Cardiogenic Shock: Insights From the Critical Care Cardiology Trials Network (CCCTN).",
+      "authorString": "Hamilton DE, Shriver JL, Patel SM, Park JG, Michos ZE, Mathis MR, Adie SK, Alviar CL, Barnett CF, Berg DD, Bennett CE, Bohula EA, Carnicelli AP, Daniels LB, Dodson MW, Gage A, Gidwani U, Goldfarb M, Katz JN, Ketcham SW, Kwon Y, Leibner ES, Loriaux DB, Luk A, Marano P, Miller PE, Mukundan SV, Papolos AI, Pisani BA, Proudfoot AG, Roswell RO, Shah KS, Solomon MA, Tomey MI, van Diepen S, Zakaria S, Morrow DA, Thompson AD, CCCTN Investigators.",
+      "journalTitle": "Circ Heart Fail",
+      "issue": "9",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1941-3289; 1941-3297; ",
+      "pageInfo": "e013778",
+      "pubType": "research-article; multicenter study; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-05-07",
+      "firstIndexDate": "2026-05-13"
+    },
+    {
+      "id": "42662835",
+      "source": "MED",
+      "pmid": "42662835",
+      "pmcid": "PMC13520781",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13520781"
+        ]
+      },
+      "doi": "10.1155/crcc/6192253",
+      "title": "Reviving the Standstill Heart: Multimodal Management of Refractory Cardiac Arrest due to Massive Pulmonary Embolism.",
+      "authorString": "Uribe JV, Attia M, Tejeda APT, Seifert K, Valentin RG, Mayer D.",
+      "journalTitle": "Case Rep Crit Care",
+      "journalVolume": "2026",
+      "pubYear": "2026",
+      "journalIssn": "2090-6420; 2090-6439; ",
+      "pageInfo": "6192253",
+      "pubType": "case-study; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-27",
+      "firstIndexDate": "2026-08-30"
+    },
+    {
+      "id": "42820636",
+      "source": "MED",
+      "pmid": "42820636",
+      "pmcid": "PMC13643538",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13643538"
+        ]
+      },
+      "doi": "10.1016/j.jaccas.2026.110274",
+      "title": "Contemporary Management of Valvular Cardiogenic Shock Using Transcatheter Valve Interventions.",
+      "authorString": "Aramouni K, Kharsa C, Kritya M, Abou Zeid K, Bhimaraj A, Guha A, Gorthi JR, Faza NN, Little SH, Atkins MD, Aoun J, Reardon MJ, Kleiman NS, Goel SS.",
+      "journalTitle": "JACC Case Rep",
+      "issue": "39",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "2666-0849",
+      "pageInfo": "110274",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-10-02"
+    },
+    {
+      "id": "42699670",
+      "source": "MED",
+      "pmid": "42699670",
+      "pmcid": "PMC13544085",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13544085"
+        ]
+      },
+      "doi": "10.1016/j.ccrj.2026.100210",
+      "title": "The association between documented right ventricular dysfunction and in-hospital mortality in mechanically ventilated critically ill patients receiving a noradrenaline infusion: A retrospective observational cohort study.",
+      "authorString": "Tan LH, Paul E, Simpson A, Marasco S, Orde S, Hare J, Udy A.",
+      "journalTitle": "Crit Care Resusc",
+      "issue": "3",
+      "journalVolume": "28",
+      "pubYear": "2026",
+      "journalIssn": "1441-2772; 2652-9335; ",
+      "pageInfo": "100210",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-08-27",
+      "firstIndexDate": "2026-09-06"
+    },
+    {
+      "id": "42590087",
+      "source": "MED",
+      "pmid": "42590087",
+      "pmcid": "PMC13467352",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13467352"
+        ]
+      },
+      "doi": "10.3390/jcm15155983",
+      "title": "Digoxin Dosing Errors, Drug Interactions and Off-Label Risks: Insights from an EudraVigilance Disproportionality Analysis.",
+      "authorString": "Fiat ES, Stoicescu L, Popa Ilie IR, Vonica RC, Butuca A, Dobrea CM, Frum A, Morgovan C, Batar F, Solomon CC, Gligor FG.",
+      "journalTitle": "J Clin Med",
+      "issue": "15",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2077-0383",
+      "pageInfo": "5983",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-31",
+      "firstIndexDate": "2026-08-15"
+    },
+    {
+      "id": "41756164",
+      "source": "MED",
+      "pmid": "41756164",
+      "pmcid": "PMC12932496",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12932496"
+        ]
+      },
+      "doi": "10.3389/fcvm.2025.1673410",
+      "title": "Effect of levosimendan treatment in cardiac surgery: a network meta-analysis of randomized controlled trials.",
+      "authorString": "Zhu B, Zhao W, Li Y.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "12",
+      "pubYear": "2025",
+      "journalIssn": "2297-055x",
+      "pageInfo": "1673410",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-02-11",
+      "firstIndexDate": "2026-02-27"
+    },
+    {
+      "id": "42469896",
+      "source": "MED",
+      "pmid": "42469896",
+      "pmcid": "PMC13660236",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13660236"
+        ]
+      },
+      "doi": "10.1186/s13019-026-04612-w",
+      "title": "Single-stage surgical repair of congenital aortopulmonary window associated with interrupted aortic arch in two toddlers: a case report.",
+      "authorString": "Pan J, Zhao M, Zhang X, Zhang E, Jin Y.",
+      "journalTitle": "J Cardiothorac Surg",
+      "issue": "1",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1749-8090",
+      "pageInfo": "773",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-17",
+      "firstIndexDate": "2026-07-18"
+    },
+    {
+      "id": "42743342",
+      "source": "MED",
+      "pmid": "42743342",
+      "pmcid": "PMC13580198",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13580198"
+        ]
+      },
+      "doi": "10.1161/circheartfailure.126.014189",
+      "title": "Kidney Failure in Cardiogenic Shock.",
+      "authorString": "Hanff TC, Zweck E, Burton JS, Ramkumar N, Rali AS, Vorovich EE.",
+      "journalTitle": "Circ Heart Fail",
+      "issue": "9",
+      "journalVolume": "19",
+      "pubYear": "2026",
+      "journalIssn": "1941-3289; 1941-3297; ",
+      "pageInfo": "e014189",
+      "pubType": "research-article; review; journal article",
+      "isOpenAccess": "N",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "nct",
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-15",
+      "firstIndexDate": "2026-09-16"
+    },
+    {
+      "id": "42147059",
+      "source": "MED",
+      "pmid": "42147059",
+      "pmcid": "PMC13171478",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13171478"
+        ]
+      },
+      "doi": "10.3389/fcvm.2026.1781601",
+      "title": "Case Report: When inotropy backfires-dobutamine-associated eosinophilic myocarditis.",
+      "authorString": "Aljudaibi A, Dutta K, Allam S, Almario JA, Tamburro L, Dees L, Sorensen E, Griffith BP, Ramani G, Ananthram M.",
+      "journalTitle": "Front Cardiovasc Med",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2297-055x",
+      "pageInfo": "1781601",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-30",
+      "firstIndexDate": "2026-05-19"
+    },
+    {
+      "id": "41737078",
+      "source": "MED",
+      "pmid": "41737078",
+      "pmcid": "PMC12927664",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12927664"
+        ]
+      },
+      "doi": "10.7759/cureus.102204",
+      "title": "Comparative Efficacy and Safety of Vasopressors and Inotropes in Acute Myocardial Infarction-Related Cardiogenic Shock: A Systematic Review and Network Meta Analysis of Randomized and Observational Studies.",
+      "authorString": "Ali AOH, Ameer F, Ibrahim AA, Ali MS, Abdelhamid TA, Elmasry MH, Alrumaih F, Soliman KAR, Alghannami A, Abdalla SS, Hassan AA.",
+      "journalTitle": "Cureus",
+      "issue": "1",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e102204",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-01-24",
+      "firstIndexDate": "2026-02-25"
+    },
+    {
+      "id": "42781371",
+      "source": "MED",
+      "pmid": "42781371",
+      "pmcid": "PMC13598960",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13598960"
+        ]
+      },
+      "doi": "10.3389/fmed.2026.1812235",
+      "title": "Coronary microvascular dysfunction in HFpEF: pathophysiologic mechanisms, diagnosis, treatments, and the amplifying potential of sepsis.",
+      "authorString": "Chattha S, Kapadia K, Lynch D, McWhorter Y.",
+      "journalTitle": "Front Med (Lausanne)",
+      "journalVolume": "13",
+      "pubYear": "2026",
+      "journalIssn": "2296-858x",
+      "pageInfo": "1812235",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-09-09",
+      "firstIndexDate": "2026-09-25"
+    },
+    {
+      "id": "41790314",
+      "source": "MED",
+      "pmid": "41790314",
+      "pmcid": "PMC12965941",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC12965941"
+        ]
+      },
+      "doi": "10.1186/s40635-026-00881-w",
+      "title": "Milrinone and levosimendan improve microvascular perfusion in septic rats: a randomized, placebo-controlled trial.",
+      "authorString": "Marcus C, Hof S, Gesing A, Thelen P, Orzol S, Vocke A, Schulz J, Kuebart AKC, Truse R, Vollmer C, Bauer I, Picker O, Herminghaus A.",
+      "journalTitle": "Intensive Care Med Exp",
+      "issue": "1",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2197-425x",
+      "pageInfo": "30",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-03-06",
+      "firstIndexDate": "2026-03-07"
+    },
+    {
+      "id": "42769589",
+      "source": "MED",
+      "pmid": "42769589",
+      "pmcid": "PMC13591754",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13591754"
+        ]
+      },
+      "doi": "10.4103/heartviews.heartviews_74_25",
+      "title": "Effect of Birth Asphyxia on Neonatal Heart: A Two-dimensional Echocardiography-based Study at a Tertiary Care Center.",
+      "authorString": "Solunke VN, Reddy MS, Mundada S.",
+      "journalTitle": "Heart Views",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1995-705x; 0976-5123; ",
+      "pageInfo": "2",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-25",
+      "firstIndexDate": "2026-09-23"
+    },
+    {
+      "id": "42740944",
+      "source": "MED",
+      "pmid": "42740944",
+      "pmcid": "PMC13572079",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13572079"
+        ]
+      },
+      "doi": "10.1016/j.jhlto.2026.100636",
+      "title": "Vaso-active inotropic scores: Clinical value, pros and cons.",
+      "authorString": "Van Hattem M, Verzelloni Sef A, Guinot PG, de Waal E.",
+      "journalTitle": "JHLT Open",
+      "journalVolume": "14",
+      "pubYear": "2026",
+      "journalIssn": "2950-1334",
+      "pageInfo": "100636",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-08-22",
+      "firstIndexDate": "2026-09-16"
+    },
+    {
+      "id": "42941692",
+      "source": "MED",
+      "pmid": "42941692",
+      "pmcid": "PMC13706177",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13706177"
+        ]
+      },
+      "doi": "10.3390/jcm15208179",
+      "title": "Impact of Chronic Heart Failure on Vascular Responsiveness: A Prospective Observational In Vivo and Ex Vivo Study in Patients Undergoing Cardiac Surgery.",
+      "authorString": "Papazisi O, van Vessem ME, Beeres SLMA, de Wilde RBP, Berendsen RR, de Vries R, Mertens BJA, Kraemer CE, Lindeman JHN, Klautz RJM, Michel MC, Danser AHJ, Palmen M.",
+      "journalTitle": "J Clin Med",
+      "issue": "20",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2077-0383",
+      "pageInfo": "8179",
+      "pubType": "research-article; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-10-21",
+      "firstIndexDate": "2026-10-28"
+    },
+    {
+      "id": "PMC13652105",
+      "source": "PMC",
+      "pmcid": "PMC13652105",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13652105"
+        ]
+      },
+      "title": "Persistent Pulmonary Hypertension of the Newborn: A Practical Review for UK Level 2 Local Neonatal Units",
+      "authorString": "Mohamed E.",
+      "journalTitle": "Cureus",
+      "issue": "9",
+      "journalVolume": "18",
+      "journalIssn": "2168-8184",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-10-10",
+      "firstIndexDate": "2026-10-10"
+    },
+    {
+      "id": "42487313",
+      "source": "MED",
+      "pmid": "42487313",
+      "pmcid": "PMC13411633",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13411633"
+        ]
+      },
+      "doi": "10.12659/ajcr.953243",
+      "title": "A Novel Presentation of Hemodynamic Decompensation With Cardiogenic Shock in a Patient With Partial Anomalous Pulmonary Venous Return.",
+      "authorString": "Mansour W, Qiqieh J, Stephan J, Gezahegn S, Ayoub F, Worku DK, Gelaye A.",
+      "journalTitle": "Am J Case Rep",
+      "journalVolume": "27",
+      "pubYear": "2026",
+      "journalIssn": "1941-5923",
+      "pageInfo": "e953243",
+      "pubType": "research-article; journal article; case reports",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-23",
+      "firstIndexDate": "2026-07-23"
+    },
+    {
+      "id": "42283688",
+      "source": "MED",
+      "pmid": "42283688",
+      "pmcid": "PMC13523149",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13523149"
+        ]
+      },
+      "doi": "10.1016/j.jaccas.2026.108812",
+      "title": "Intramyocardial Dissecting Hematoma After Myocardial Infarction Diagnosed by Multimodality Imaging.",
+      "authorString": "Borg BC, Josephs C, Ghincea C, Ambardekar AV, Cleveland J, Quezada RQ, Li X.",
+      "journalTitle": "JACC Case Rep",
+      "issue": "33",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "2666-0849",
+      "pageInfo": "108812",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-12",
+      "firstIndexDate": "2026-06-13"
+    },
+    {
+      "id": "42003670",
+      "source": "MED",
+      "pmid": "42003670",
+      "pmcid": "PMC13279137",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13279137"
+        ]
+      },
+      "doi": "10.1161/jaha.125.043366",
+      "title": "Outcomes and Risk Factors for Postoperative Vasoplegia Following Implant of Left Ventricular Assist Devices.",
+      "authorString": "Wright JC, Wilbur JG, Scott SS, Navari Y, Abdel-Rasoul M, Whitson BA, Smith SA.",
+      "journalTitle": "J Am Heart Assoc",
+      "issue": "9",
+      "journalVolume": "15",
+      "pubYear": "2026",
+      "journalIssn": "2047-9980",
+      "pageInfo": "e043366",
+      "pubType": "research-article; journal article; research support, n.i.h., extramural",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-04-20",
+      "firstIndexDate": "2026-04-20"
+    },
+    {
+      "id": "42240539",
+      "source": "MED",
+      "pmid": "42240539",
+      "pmcid": "PMC13350682",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13350682"
+        ]
+      },
+      "doi": "10.1016/j.jaccas.2026.108582",
+      "title": "Transcatheter Tricuspid Valve Replacement for Severe Tricuspid Regurgitation Post-Left Ventricular Assist Device.",
+      "authorString": "Giustino G, Naguib M, Asselin CY, Koulogiannis KP, Flores R, Ahmad S, Slater J, Gillam L, Généreux P, Singh A.",
+      "journalTitle": "JACC Case Rep",
+      "issue": "27",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "2666-0849",
+      "pageInfo": "108582",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-06-03",
+      "firstIndexDate": "2026-06-06"
+    },
+    {
+      "id": "42528901",
+      "source": "MED",
+      "pmid": "42528901",
+      "pmcid": "PMC13415746",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13415746"
+        ]
+      },
+      "doi": "10.1155/crcc/9649482",
+      "title": "Use of Double Dose Intravenous Immunoglobulin Therapy in the Treatment of Streptococcal Toxic Shock Syndrome.",
+      "authorString": "Xue Y, Yartsev A.",
+      "journalTitle": "Case Rep Crit Care",
+      "journalVolume": "2026",
+      "pubYear": "2026",
+      "journalIssn": "2090-6420; 2090-6439; ",
+      "pageInfo": "9649482",
+      "pubType": "case-study; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-07-28",
+      "firstIndexDate": "2026-07-30"
+    },
+    {
+      "id": "42498524",
+      "source": "MED",
+      "pmid": "42498524",
+      "pmcid": "PMC13535733",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13535733"
+        ]
+      },
+      "doi": "10.1002/resp.70286",
+      "title": "Update on the Pathophysiology, Aetiology and Management of Central Sleep Apnoea.",
+      "authorString": "Chandrasekara SD, Naughton MT.",
+      "journalTitle": "Respirology",
+      "issue": "9",
+      "journalVolume": "31",
+      "pubYear": "2026",
+      "journalIssn": "1323-7799; 1440-1843; ",
+      "pageInfo": "873-881",
+      "pubType": "review-article; review; journal article",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 1,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-07-24",
+      "firstIndexDate": "2026-07-26"
+    },
+    {
+      "id": "42460220",
+      "source": "MED",
+      "pmid": "42460220",
+      "pmcid": "PMC13368968",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13368968"
+        ]
+      },
+      "doi": "10.7759/cureus.110842",
+      "title": "Percutaneous Thrombectomy for Clot-in-Transit With Concomitant Left Ventricular Thrombus in a Patient With Acute Heart Failure Exacerbation: A Case Report.",
+      "authorString": "Eskandar E, Joseph S, Vargas Estrada A.",
+      "journalTitle": "Cureus",
+      "issue": "6",
+      "journalVolume": "18",
+      "pubYear": "2026",
+      "journalIssn": "2168-8184",
+      "pageInfo": "e110842",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-06-14",
+      "firstIndexDate": "2026-07-16"
+    },
+    {
+      "id": "42169147",
+      "source": "MED",
+      "pmid": "42169147",
+      "pmcid": "PMC13371529",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13371529"
+        ]
+      },
+      "doi": "10.1186/s13019-026-04046-4",
+      "title": "Surgical repair of extremely late presentation of supracardiac total anomalous pulmonary vein connection: a case series.",
+      "authorString": "Fakhri D, Purba S, Sakdijan I, Ardiansyah, Nugraha AA.",
+      "journalTitle": "J Cardiothorac Surg",
+      "issue": "1",
+      "journalVolume": "21",
+      "pubYear": "2026",
+      "journalIssn": "1749-8090",
+      "pageInfo": "490",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "firstPublicationDate": "2026-05-21",
+      "firstIndexDate": "2026-05-22"
+    },
+    {
+      "id": "42022085",
+      "source": "MED",
+      "pmid": "42022085",
+      "pmcid": "PMC13099058",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13099058"
+        ]
+      },
+      "doi": "10.4103/sja.sja_899_25",
+      "title": "Refractory cardiac arrest during epidural anesthesia for caesarean section in a patient with supra-systemic pulmonary hypertension rescued by VA ECMO.",
+      "authorString": "Soomro NA, Altowairki RS, Ahmed RN, Kurdi WI.",
+      "journalTitle": "Saudi J Anaesth",
+      "issue": "2",
+      "journalVolume": "20",
+      "pubYear": "2026",
+      "journalIssn": "1658-354x; 0975-3125; ",
+      "pageInfo": "470-472",
+      "pubType": "journal article; case reports; case-report",
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasTMAccessionNumbers": "N",
+      "firstPublicationDate": "2026-04-02",
+      "firstIndexDate": "2026-04-23"
+    }
+  ]
+}

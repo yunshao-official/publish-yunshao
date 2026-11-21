@@ -1,0 +1,3457 @@
+{
+  "version": "6.9",
+  "hitCount": 12,
+  "request": {
+    "queryString": "TITLE:\"North American Menopause Society\" OR TITLE:\"International Menopause Society\" OR TITLE:IMS AND TITLE:menopaus*",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "CITED desc",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "26872610",
+        "source": "MED",
+        "pmid": "26872610",
+        "doi": "10.3109/13697137.2015.1129166",
+        "title": "2016 IMS Recommendations on women's midlife health and menopause hormone therapy.",
+        "authorString": "Baber RJ, Panay N, Fenton A, IMS Writing Group.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Baber RJ",
+              "lastName": "Baber",
+              "firstName": "R J",
+              "initials": "RJ"
+            },
+            {
+              "fullName": "Panay N",
+              "lastName": "Panay",
+              "firstName": "N",
+              "initials": "N"
+            },
+            {
+              "fullName": "Fenton A",
+              "lastName": "Fenton",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "collectiveName": "IMS Writing Group"
+            }
+          ]
+        },
+        "investigatorList": {
+          "investigator": [
+            {
+              "fullName": "Baber RJ",
+              "lastName": "Baber",
+              "firstName": "R J",
+              "initials": "RJ"
+            },
+            {
+              "fullName": "Panay N",
+              "lastName": "Panay",
+              "firstName": "N",
+              "initials": "N"
+            },
+            {
+              "fullName": "Fenton A",
+              "lastName": "Fenton",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "Cardozo L",
+              "lastName": "Cardozo",
+              "firstName": "L",
+              "initials": "L"
+            },
+            {
+              "fullName": "Castelo-Branco C",
+              "lastName": "Castelo-Branco",
+              "firstName": "C",
+              "initials": "C",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-9860-8318"
+              }
+            },
+            {
+              "fullName": "Davis SR",
+              "lastName": "Davis",
+              "firstName": "S R",
+              "initials": "SR"
+            },
+            {
+              "fullName": "de Villiers TJ",
+              "lastName": "de Villiers",
+              "firstName": "T J",
+              "initials": "TJ"
+            },
+            {
+              "fullName": "Goldstein SR",
+              "lastName": "Goldstein",
+              "firstName": "S R",
+              "initials": "SR"
+            },
+            {
+              "fullName": "Gompel A",
+              "lastName": "Gompel",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "Henderson VW",
+              "lastName": "Henderson",
+              "firstName": "V W",
+              "initials": "VW"
+            },
+            {
+              "fullName": "Hodis HN",
+              "lastName": "Hodis",
+              "firstName": "H N",
+              "initials": "HN"
+            },
+            {
+              "fullName": "Langer RD",
+              "lastName": "Langer",
+              "firstName": "R D",
+              "initials": "RD"
+            },
+            {
+              "fullName": "Lobo RA",
+              "lastName": "Lobo",
+              "firstName": "R A",
+              "initials": "RA"
+            },
+            {
+              "fullName": "Maki PM",
+              "lastName": "Maki",
+              "firstName": "P M",
+              "initials": "PM"
+            },
+            {
+              "fullName": "Mueck AO",
+              "lastName": "Mueck",
+              "firstName": "A O",
+              "initials": "AO"
+            },
+            {
+              "fullName": "Nappi RE",
+              "lastName": "Nappi",
+              "firstName": "R E",
+              "initials": "RE"
+            },
+            {
+              "fullName": "Pines A",
+              "lastName": "Pines",
+              "firstName": "A",
+              "initials": "A"
+            },
+            {
+              "fullName": "Plu-Bureau G",
+              "lastName": "Plu-Bureau",
+              "firstName": "G",
+              "initials": "G"
+            },
+            {
+              "fullName": "Robinson D",
+              "lastName": "Robinson",
+              "firstName": "D",
+              "initials": "D"
+            },
+            {
+              "fullName": "Simoncini T",
+              "lastName": "Simoncini",
+              "firstName": "T",
+              "initials": "T"
+            },
+            {
+              "fullName": "Vujovic SZ",
+              "lastName": "Vujovic",
+              "firstName": "S Z",
+              "initials": "SZ"
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0002-7043-5099"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-9860-8318"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "2",
+          "volume": "19",
+          "journalIssueId": 2378296,
+          "dateOfPublication": "2016 Apr",
+          "monthOfPublication": 4,
+          "yearOfPublication": 2016,
+          "journal": {
+            "medlineAbbreviation": "Climacteric",
+            "title": "Climacteric : the journal of the International Menopause Society",
+            "essn": "1473-0804",
+            "issn": "1369-7137",
+            "nlmid": "9810959",
+            "isoabbreviation": "Climacteric"
+          },
+          "printPublicationDate": "2016-04-01"
+        },
+        "pubYear": "2016",
+        "pageInfo": "109-150",
+        "abstractText": "The International Menopause Society (IMS) has produced these new 2016 recommendations on women's midlife health and menopause hormone therapy (MHT) to help guide health-care professionals in optimizing their management of women in the menopause transition and beyond. The term MHT has been used to cover therapies including estrogens, progestogens and combined regimens. For the first time, the 2016 IMS recommendations now include grades of recommendations, levels of evidence and 'good practice points', in addition to section-specific references. Where possible, the recommendations are based on and linked to the evidence that supports them, unless good-quality evidence is absent. Particular attention has been paid to published evidence from 2013 onwards, the last time the IMS recommendations were updated. Databases have been extensively searched for relevant publications using key terms specific to each specialist area within menopause physiology and medicine. Information has also been drawn from international consensus statements published by bodies such as the IMS, the European Menopause and Andropause Society and the North American Menopause Society. The recommendations have been produced by experts derived mainly from the IMS, with the assistance of key collaborators where deemed advantageous. In preparing these international recommendations, experts have taken into account geographical variations in medical care, prevalence of diseases, and country-specific attitudes of the public, medical community and health authorities towards menopause management. The variation in availability and licensing of MHT and other products has also been considered.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Neoplasms"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Menopause, Premature"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Cardiovascular Diseases"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Body Weight"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Estrogen Replacement Therapy"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Exercise"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Diet"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Life Style"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Evidence-Based Medicine"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Menopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Quality of Life"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "MEDLINE"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Adult"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Women's Health"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Societies, Medical"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Practice Guidelines as Topic"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Recommendations",
+            "Hormone Replacement Therapy",
+            "Hrt",
+            "Ims",
+            "Menopause Hormone Therapy",
+            "Midlife Health"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.3109/13697137.2015.1129166"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 533,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2016-12-13",
+        "dateOfCreation": "2016-02-14",
+        "dateOfRevision": "2022-04-19",
+        "electronicPublicationDate": "2016-02-12",
+        "firstPublicationDate": "2016-02-12",
+        "firstIndexDate": "2016-02-14",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "27721640",
+        "source": "MED",
+        "pmid": "27721640",
+        "pmcid": "PMC5051232",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC5051232"
+          ]
+        },
+        "doi": "10.4103/0976-7800.191012",
+        "title": "Age of menopause and determinants of menopause age: A PAN India survey by IMS.",
+        "authorString": "Ahuja M.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Ahuja M",
+              "lastName": "Ahuja",
+              "firstName": "Maninder",
+              "initials": "M",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Director Ahuja Hospital and Infertility Centre, Faridabad, Haryana, India."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics",
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "3",
+          "volume": "7",
+          "journalIssueId": 2461377,
+          "dateOfPublication": "2016 Jul-Sep",
+          "monthOfPublication": 0,
+          "yearOfPublication": 2016,
+          "journal": {
+            "medlineAbbreviation": "J Midlife Health",
+            "title": "Journal of mid-life health",
+            "essn": "0976-7819",
+            "issn": "0976-7800",
+            "nlmid": "101552746",
+            "isoabbreviation": "J Midlife Health"
+          },
+          "printPublicationDate": "2016-07-01"
+        },
+        "pubYear": "2016",
+        "pageInfo": "126-131",
+        "abstractText": "<h4>Introduction</h4>Age of menopause is a very important biomarker of not only the loss of fertility but also an increased risk for various mid-life diseases and problems. Many of these diseases can be prevented by timely intervention of lifestyle modification, menopausal hormone therapy, or other supplementations such as calcium, Vitamin D, and micronutrients. In India age of menopause is less than our counterparts in the Western world. This means that the fertility potential of Indian women starts compromising early, so we need to start with the preventive measures much early. Earlier studies in India have been done on a limited population, and small sample size and not all the determinants of menopause age were considered.<h4>Materials and methods</h4>Survey was conducted in 21 chapters of Indian Menopause Society and all regions South, West, East and North were covered. There were 23 Medical practitioners who participated. Consent was taken and inclusion and exclusion criteria was set. Set questions were asked The questionnaire comprised of identification of the participants' religion, education, and various socioeconomic parameters. They were also inquired about their marital and parity status, abortion, or contraceptive use. The menopausal women were asked their menopause age and whether it was natural or surgical. The perimenopausal women were asked to enlist the date of their last period. All women with <1 year to menopause were classified as perimenopausal. The height, weight, and waist circumference were noted for all the women, and body mass index (BMI) was calculated. The women were also inquired about their food habits and social habits including alcohol consumption or smoking. Hence, this study was planned as a PAN India study.<h4>Results</h4>Average age of menopause of an Indian woman is 46.2 years much less than their Western counter parts (51 years). A definite rural and urban division was also seen. There was a correlation between the age of menopause and social and economic status, married status, and parity status.",
+        "affiliation": "Director Ahuja Hospital and Infertility Centre, Faridabad, Haryana, India.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Journal Article"
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "menopause",
+            "Determinants Of Age Of Menopause",
+            "Ethnicity And Menopause",
+            "Smoking And Menopause"
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.4103/0976-7800.191012"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC5051232"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 113,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "license": "cc by-nc-sa",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCreation": "2016-10-11",
+        "dateOfRevision": "2022-04-10",
+        "firstPublicationDate": "2016-07-01",
+        "firstIndexDate": "2016-10-12",
+        "fullTextReceivedDate": "2020-07-09",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "22946508",
+        "source": "MED",
+        "pmid": "22946508",
+        "doi": "10.3109/13697137.2012.699563",
+        "title": "The International Menopause Study of Climate, Altitude, Temperature (IMS-CAT) and vasomotor symptoms.",
+        "authorString": "Hunter MS, Gupta P, Chedraui P, Blümel JE, Tserotas K, Aguirre W, Palacios S, Sturdee DW.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Hunter MS",
+              "lastName": "Hunter",
+              "firstName": "M S",
+              "initials": "MS",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Health Psychology Section, 5th Floor Bermondsey Wing, Guy’s Campus, King’s College London, London SE1 9RT, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Gupta P",
+              "lastName": "Gupta",
+              "firstName": "P",
+              "initials": "P",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7006-9917"
+              }
+            },
+            {
+              "fullName": "Chedraui P",
+              "lastName": "Chedraui",
+              "firstName": "P",
+              "initials": "P"
+            },
+            {
+              "fullName": "Blümel JE",
+              "lastName": "Blümel",
+              "firstName": "J E",
+              "initials": "JE"
+            },
+            {
+              "fullName": "Tserotas K",
+              "lastName": "Tserotas",
+              "firstName": "K",
+              "initials": "K"
+            },
+            {
+              "fullName": "Aguirre W",
+              "lastName": "Aguirre",
+              "firstName": "W",
+              "initials": "W"
+            },
+            {
+              "fullName": "Palacios S",
+              "lastName": "Palacios",
+              "firstName": "S",
+              "initials": "S",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2229-1200"
+              }
+            },
+            {
+              "fullName": "Sturdee DW",
+              "lastName": "Sturdee",
+              "firstName": "D W",
+              "initials": "DW"
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-7006-9917"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-2229-1200"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "1",
+          "volume": "16",
+          "journalIssueId": 2001109,
+          "dateOfPublication": "2013 Feb",
+          "monthOfPublication": 2,
+          "yearOfPublication": 2013,
+          "journal": {
+            "medlineAbbreviation": "Climacteric",
+            "title": "Climacteric : the journal of the International Menopause Society",
+            "essn": "1473-0804",
+            "issn": "1369-7137",
+            "nlmid": "9810959",
+            "isoabbreviation": "Climacteric"
+          },
+          "printPublicationDate": "2013-02-01"
+        },
+        "pubYear": "2013",
+        "pageInfo": "8-16",
+        "abstractText": "<h4>Objective</h4>To examine the relationship between climate (including altitude, temperature, humidity and annual range of temperature) and experience of hot flushes and night sweats amongst Spanish-speaking mid-aged women living in five urban centers.<h4>Methods</h4>A total of 896 peri- and postmenopausal women from centers in Chile (Santiago de Chile), Ecuador (Guayaquil and Quito), Panama (Panama City) and Spain (Madrid) completed questionnaires eliciting information about sociodemographics, hot flushes (prevalence, frequency and problem-rating), health and lifestyle (body mass index, diet, exercise, alcohol use) and mood (Women's Health Questionnaire).<h4>Results</h4>There was a wide range of altitude and temperature in the participating centers. Of the sample, 58.5% (524/896) were currently experiencing vasomotor symptoms. Prevalence was associated with higher temperatures, while hot flushes were more frequent and problematic for women living in higher temperature and lower altitudes. Hot flush variables were not associated with seasonal variation in temperature. When health and lifestyle variables were included as covariates in regression analyses, prevalence was best predicted by age (younger), poor general health, more depressed mood and anxiety; hot flush frequency by anxiety, temperature, life satisfaction (lower), age (higher), regular strenuous exercise (more strenuous exercise more frequent), and a diet including regular hot spicy food intake. Hot flush problem-rating was best predicted by anxiety, life satisfaction, altitude (lower more problematic), any regular exercise (more exercise less problematic), and depressed mood.<h4>Conclusions</h4>In this study of Spanish-speaking women, those living in countries with higher temperatures and lower altitudes reported more frequent and problematic hot flushes.",
+        "affiliation": "Health Psychology Section, 5th Floor Bermondsey Wing, Guy’s Campus, King’s College London, London SE1 9RT, UK.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Vasomotor System",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Hyperhidrosis",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "EP",
+                    "qualifierName": "epidemiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Hot Flashes",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "EP",
+                    "qualifierName": "epidemiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Exercise"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Prevalence"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Analysis of Variance"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Confidence Intervals"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Odds Ratio"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Chi-Square Distribution"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Language"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Altitude"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Temperature"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Climate"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Age Factors"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Perimenopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PX",
+                    "qualifierName": "psychology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Postmenopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PX",
+                    "qualifierName": "psychology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Food"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Urban Population"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Panama"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Chile"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Ecuador"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Spain"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.3109/13697137.2012.699563"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 36,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2013-07-05",
+        "dateOfCreation": "2012-09-06",
+        "dateOfRevision": "2013-01-16",
+        "electronicPublicationDate": "2012-09-04",
+        "firstPublicationDate": "2012-09-04",
+        "firstIndexDate": "2012-09-06",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "41433054",
+        "source": "MED",
+        "pmid": "41433054",
+        "doi": "10.1080/13697137.2025.2585487",
+        "title": "International Menopause Society (IMS) recommendations and key messages on women's midlife health and menopause.",
+        "authorString": "Panay N, Fenton A, Hamoda H, Hillard T, Islam R, Pedder H, Romero L, Vincent AJ, IMS Recommendations Writing Group.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Panay N",
+              "lastName": "Panay",
+              "firstName": "Nick",
+              "initials": "N",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6662-1334"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Queen Charlotte's and Chelsea Hospital, Imperial College London, London, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Fenton A",
+              "lastName": "Fenton",
+              "firstName": "Anna",
+              "initials": "A",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-6732-8284"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Endocrinology, Christchurch Hospital, Christchurch, New Zealand."
+                  },
+                  {
+                    "affiliation": "Oxford Women's Health, Christchurch, New Zealand."
+                  },
+                  {
+                    "affiliation": "University of Otago School of Medicine, Department of Psychological Medicine, Christchurch, New Zealand."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hamoda H",
+              "lastName": "Hamoda",
+              "firstName": "Haitham",
+              "initials": "H",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2330-1768"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "King's College Hospital, London, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hillard T",
+              "lastName": "Hillard",
+              "firstName": "Timothy",
+              "initials": "T",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2097-609X"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "University Hospitals Dorset, Poole, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Islam R",
+              "lastName": "Islam",
+              "firstName": "Rakibul",
+              "initials": "R",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-0889-8658"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "School of Public Health and Preventive Medicine, Monash University, Melbourne, VIC, Australia."
+                  },
+                  {
+                    "affiliation": "South Asian Institute for Social Transformation (SAIST), Dhaka, Bangladesh."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Pedder H",
+              "lastName": "Pedder",
+              "firstName": "Hugo",
+              "initials": "H",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-7813-3749"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Romero L",
+              "lastName": "Romero",
+              "firstName": "Lorena",
+              "initials": "L",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9884-5463"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "The Ian Potter Library, Melbourne, VIC, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Vincent AJ",
+              "lastName": "Vincent",
+              "firstName": "Amanda J",
+              "initials": "AJ",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-3760-7266"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Monash Centre for Health Research and Implementation, Monash University, Clayton, VIC, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "collectiveName": "IMS Recommendations Writing Group"
+            }
+          ]
+        },
+        "investigatorList": {
+          "investigator": [
+            {
+              "fullName": "Bin AS",
+              "lastName": "Bin",
+              "firstName": "Ang Seng",
+              "initials": "AS"
+            },
+            {
+              "fullName": "Arya R",
+              "lastName": "Arya",
+              "firstName": "Roopen",
+              "initials": "R"
+            },
+            {
+              "fullName": "Baber R",
+              "lastName": "Baber",
+              "firstName": "Rod",
+              "initials": "R"
+            },
+            {
+              "fullName": "Bezzant N",
+              "lastName": "Bezzant",
+              "firstName": "Niki",
+              "initials": "N"
+            },
+            {
+              "fullName": "Brennan D",
+              "lastName": "Brennan",
+              "firstName": "Donal",
+              "initials": "D"
+            },
+            {
+              "fullName": "Briggs P",
+              "lastName": "Briggs",
+              "firstName": "Paula",
+              "initials": "P"
+            },
+            {
+              "fullName": "Brown S",
+              "lastName": "Brown",
+              "firstName": "Simon",
+              "initials": "S"
+            },
+            {
+              "fullName": "Cano A",
+              "lastName": "Cano",
+              "firstName": "Antonio",
+              "initials": "A"
+            },
+            {
+              "fullName": "Chedraui P",
+              "lastName": "Chedraui",
+              "firstName": "Peter",
+              "initials": "P"
+            },
+            {
+              "fullName": "Clapham R",
+              "lastName": "Clapham",
+              "firstName": "Rachel",
+              "initials": "R"
+            },
+            {
+              "fullName": "Damodaran P",
+              "lastName": "Damodaran",
+              "firstName": "Premitha",
+              "initials": "P"
+            },
+            {
+              "fullName": "Davis S",
+              "lastName": "Davis",
+              "firstName": "Susan",
+              "initials": "S"
+            },
+            {
+              "fullName": "Duque G",
+              "lastName": "Duque",
+              "firstName": "Gustavo",
+              "initials": "G"
+            },
+            {
+              "fullName": "Ee C",
+              "lastName": "Ee",
+              "firstName": "Carolyn",
+              "initials": "C"
+            },
+            {
+              "fullName": "Ghaem-Maghami S",
+              "lastName": "Ghaem-Maghami",
+              "firstName": "Sadaf",
+              "initials": "S",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-8126-0637"
+              }
+            },
+            {
+              "fullName": "Goldstein S",
+              "lastName": "Goldstein",
+              "firstName": "Steven",
+              "initials": "S"
+            },
+            {
+              "fullName": "Gompel A",
+              "lastName": "Gompel",
+              "firstName": "Anne",
+              "initials": "A"
+            },
+            {
+              "fullName": "Heydtmann M",
+              "lastName": "Heydtmann",
+              "firstName": "Mathis",
+              "initials": "M"
+            },
+            {
+              "fullName": "Hodis H",
+              "lastName": "Hodis",
+              "firstName": "Howard",
+              "initials": "H"
+            },
+            {
+              "fullName": "Jaff N",
+              "lastName": "Jaff",
+              "firstName": "Nicole",
+              "initials": "N"
+            },
+            {
+              "fullName": "Jones A",
+              "lastName": "Jones",
+              "firstName": "Alicia",
+              "initials": "A"
+            },
+            {
+              "fullName": "Kapoor E",
+              "lastName": "Kapoor",
+              "firstName": "Ekta",
+              "initials": "E"
+            },
+            {
+              "fullName": "Langer R",
+              "lastName": "Langer",
+              "firstName": "Robert",
+              "initials": "R"
+            },
+            {
+              "fullName": "Lee JM",
+              "lastName": "Lee",
+              "firstName": "Jean-Jasmin Mi-Li",
+              "initials": "JM",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-9170-2504"
+              }
+            },
+            {
+              "fullName": "Maki P",
+              "lastName": "Maki",
+              "firstName": "Pauline",
+              "initials": "P"
+            },
+            {
+              "fullName": "Nappi RE",
+              "lastName": "Nappi",
+              "firstName": "Rossella E",
+              "initials": "RE"
+            },
+            {
+              "fullName": "Nudy M",
+              "lastName": "Nudy",
+              "firstName": "Matthew",
+              "initials": "M"
+            },
+            {
+              "fullName": "Pickar J",
+              "lastName": "Pickar",
+              "firstName": "James",
+              "initials": "J"
+            },
+            {
+              "fullName": "Pines A",
+              "lastName": "Pines",
+              "firstName": "Amos",
+              "initials": "A"
+            },
+            {
+              "fullName": "Pinkerton J",
+              "lastName": "Pinkerton",
+              "firstName": "JoAnn",
+              "initials": "J"
+            },
+            {
+              "fullName": "Rocca W",
+              "lastName": "Rocca",
+              "firstName": "Walter",
+              "initials": "W"
+            },
+            {
+              "fullName": "Robertson E",
+              "lastName": "Robertson",
+              "firstName": "Elaine",
+              "initials": "E"
+            },
+            {
+              "fullName": "C M MS",
+              "lastName": "C M",
+              "firstName": "Marla Shapiro",
+              "initials": "MS"
+            },
+            {
+              "fullName": "Simcock R",
+              "lastName": "Simcock",
+              "firstName": "Richard",
+              "initials": "R"
+            },
+            {
+              "fullName": "Simoncini T",
+              "lastName": "Simoncini",
+              "firstName": "Tommaso",
+              "initials": "T"
+            },
+            {
+              "fullName": "Stevenson J",
+              "lastName": "Stevenson",
+              "firstName": "John",
+              "initials": "J"
+            },
+            {
+              "fullName": "Villiers T",
+              "lastName": "Villiers",
+              "firstName": "Tobias de",
+              "initials": "T"
+            },
+            {
+              "fullName": "Wolfman W",
+              "lastName": "Wolfman",
+              "firstName": "Wendy",
+              "initials": "W"
+            },
+            {
+              "fullName": "Al-Kanini I",
+              "lastName": "Al-Kanini",
+              "firstName": "Ieman",
+              "initials": "I"
+            },
+            {
+              "fullName": "Cheshire R",
+              "lastName": "Cheshire",
+              "firstName": "Rebecca",
+              "initials": "R"
+            },
+            {
+              "fullName": "Cucinella L",
+              "lastName": "Cucinella",
+              "firstName": "Laura",
+              "initials": "L"
+            },
+            {
+              "fullName": "Delanerolle G",
+              "lastName": "Delanerolle",
+              "firstName": "Gayathri",
+              "initials": "G"
+            },
+            {
+              "fullName": "Eleje G",
+              "lastName": "Eleje",
+              "firstName": "George",
+              "initials": "G"
+            },
+            {
+              "fullName": "Gonzalez BE",
+              "lastName": "Gonzalez",
+              "firstName": "Belén Escudero",
+              "initials": "BE"
+            },
+            {
+              "fullName": "Giese N",
+              "lastName": "Giese",
+              "firstName": "Nora",
+              "initials": "N"
+            },
+            {
+              "fullName": "Jafar NKA",
+              "lastName": "Jafar",
+              "firstName": "Nur K Abdul",
+              "initials": "NKA"
+            },
+            {
+              "fullName": "Liu J",
+              "lastName": "Liu",
+              "firstName": "Jing",
+              "initials": "J"
+            },
+            {
+              "fullName": "Mantzioris E",
+              "lastName": "Mantzioris",
+              "firstName": "Evangeline",
+              "initials": "E"
+            },
+            {
+              "fullName": "Mardon M",
+              "lastName": "Mardon",
+              "firstName": "Millie",
+              "initials": "M"
+            },
+            {
+              "fullName": "Maunder A",
+              "lastName": "Maunder",
+              "firstName": "Alison",
+              "initials": "A"
+            },
+            {
+              "fullName": "Metri J",
+              "lastName": "Metri",
+              "firstName": "Joelle",
+              "initials": "J"
+            },
+            {
+              "fullName": "Mudalige T",
+              "lastName": "Mudalige",
+              "firstName": "Tharanga",
+              "initials": "T"
+            },
+            {
+              "fullName": "Neto NJ",
+              "lastName": "Neto",
+              "firstName": "Nailton José",
+              "initials": "NJ",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-1564-328X"
+              }
+            },
+            {
+              "fullName": "Pathiraja V",
+              "lastName": "Pathiraja",
+              "firstName": "Vindya",
+              "initials": "V"
+            },
+            {
+              "fullName": "Rao V",
+              "lastName": "Rao",
+              "firstName": "Vibhuti",
+              "initials": "V"
+            },
+            {
+              "fullName": "Souza G",
+              "lastName": "Souza",
+              "firstName": "Geovanna",
+              "initials": "G"
+            },
+            {
+              "fullName": "Thomas C",
+              "lastName": "Thomas",
+              "firstName": "Caroline",
+              "initials": "C"
+            },
+            {
+              "fullName": "Torkel S",
+              "lastName": "Torkel",
+              "firstName": "Sophia",
+              "initials": "S"
+            },
+            {
+              "fullName": "Van Doorn J",
+              "lastName": "Van Doorn",
+              "firstName": "Jacob",
+              "initials": "J"
+            },
+            {
+              "fullName": "Weber M",
+              "lastName": "Weber",
+              "firstName": "Miriam",
+              "initials": "M"
+            },
+            {
+              "fullName": "Weishaar EK",
+              "lastName": "Weishaar",
+              "firstName": "Ece Kilic",
+              "initials": "EK"
+            },
+            {
+              "fullName": "Wood S",
+              "lastName": "Wood",
+              "firstName": "Shelby",
+              "initials": "S"
+            },
+            {
+              "fullName": "Wugalter K",
+              "lastName": "Wugalter",
+              "firstName": "Katrina",
+              "initials": "K"
+            },
+            {
+              "fullName": "Yang EG",
+              "lastName": "Yang",
+              "firstName": "Emily Guoyan",
+              "initials": "EG"
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6662-1334"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0001-8126-0637"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0001-9884-5463"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-0889-8658"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-2097-609X"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-2330-1768"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-3760-7266"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-6732-8284"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-7813-3749"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-9170-2504"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-1564-328X"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "6",
+          "volume": "28",
+          "journalIssueId": 4076991,
+          "dateOfPublication": "2025 Dec",
+          "monthOfPublication": 12,
+          "yearOfPublication": 2025,
+          "journal": {
+            "medlineAbbreviation": "Climacteric",
+            "title": "Climacteric : the journal of the International Menopause Society",
+            "essn": "1473-0804",
+            "issn": "1369-7137",
+            "nlmid": "9810959",
+            "isoabbreviation": "Climacteric"
+          },
+          "printPublicationDate": "2025-12-01"
+        },
+        "pubYear": "2025",
+        "pageInfo": "634-656",
+        "abstractText": "Following a rigorous systematic review of the literature, the International Menopause Society (IMS) has produced detailed new recommendations and key messages on women’s midlife health, menopause and menopause hormone therapy (MHT) to help guide healthcare professionals to optimize their support and guidance to women at this critical stage of life. The term MHT has been used to cover therapies including estrogens, progestogens, gonadomimetics and combined regimens. This guidance provides a summary of the recommendations and key messages generated from the systematic review process. The longer version, including the detailed text, key meta-analyses, references, figures and supplementary materials, will be published simultaneously online and can be accessed via the IMS website (https://www.imsociety.org/statements/ims-recommendations/). The quality of evidence and the strength of recommendations used in this guideline are based on the Grades of Recommendation, Assessment, Development, and Evaluation (GRADE) and the Appraisal of Guidelines for Research & Evaluation II (AGREE II) approaches. The new recommendations now include levels of evidence, grades of recommendations, good practice points and key messages.The recommendations were developed by a body of 38 authors and 27 support team members derived from the IMS and other organizations. Global stakeholder surveys, targeted at both healthcare providers and consumers, were initially conducted to identify the key questions. A Publication Steering Committee (PSC) provided oversight of the process through regular meetings and ensured consistency of methodology. By the end of the process, 30 completed sections were submitted by the authors to individual lead reviewers selected from the PSC to provide peer review and finally endorsed by the PSC, IMS board and stakeholders. Overall, 342 recommendations (285 supported by research data and 57 good practice points) and 40 key messages have been formulated. These span a diverse range of health topics, including lifestyle, midlife body changes, vasomotor symptoms, genitourinary syndrome of menopause, osteoporosis, cardiometabolic health, dementia, premature ovarian insufficiency and various malignancies. A new section addresses the often-overlooked topic of sarcopenia which requires urgent attention. Current controversial topics, such as the influence of the media, the role of the pharmaceutical industry and publication ethics, are also explored.The overall aim of these recommendations and guidelines is to provide the blueprint for support and guidance to women on midlife health and menopause, given the latest available evidence. In preparing these international recommendations, experts have endeavored to consider geographical variations in medical care, prevalence of diseases/conditions, symptom severity, availability and licensing of MHT and alternatives, and country-specific attitudes of the public, medical community and health authorities towards menopause management.",
+        "affiliation": "Queen Charlotte's and Chelsea Hospital, Imperial College London, London, UK.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Practice Guideline",
+            "Review",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Estrogen Replacement Therapy"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Women's Health"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Societies, Medical"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "menopause",
+            "Recommendations",
+            "Guidelines",
+            "Vasomotor Symptoms",
+            "Premature Ovarian Insufficiency",
+            "Menopause Hormone Therapy",
+            "International Menopause Society",
+            "Genitourinary Syndrome Of Menopause",
+            "Women’s Midlife Health",
+            "Vulvovaginal Atrophy, Androgen Therapy"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1080/13697137.2025.2585487"
+            }
+          ]
+        },
+        "commentCorrectionList": {
+          "commentCorrection": [
+            {
+              "source": "MED",
+              "id": "41879620",
+              "reference": "Climacteric. 2026 Apr;29(2):318-320. doi: 10.1080/13697137.2026.2638063.",
+              "type": "Erratum in",
+              "orderIn": 1
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 24,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "license": "cc by-nc-nd",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2025-12-23",
+        "dateOfCreation": "2025-12-23",
+        "dateOfRevision": "2026-05-31",
+        "electronicPublicationDate": "2025-12-23",
+        "firstPublicationDate": "2025-12-23",
+        "firstIndexDate": "2025-12-24",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "33459135",
+        "source": "MED",
+        "pmid": "33459135",
+        "doi": "10.1177/2053369120983154",
+        "title": "BMS, IMS, EMAS, RCOG and AMS joint statement on menopausal hormone therapy and breast cancer risk in response to EMA Pharmacovigilance Risk Assessment Committee recommendations in May 2020.",
+        "authorString": "Hamoda H, Davis SR, Cano A, Morris E, Davison S, Panay N, Lumsden MA, Hillard T, Simoncini T.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Hamoda H",
+              "lastName": "Hamoda",
+              "firstName": "Haitham",
+              "initials": "H",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2330-1768"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "King's College Hospital, London, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Davis SR",
+              "lastName": "Davis",
+              "firstName": "Susan R",
+              "initials": "SR",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "International Menopause Society Truro, Cornwall, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Cano A",
+              "lastName": "Cano",
+              "firstName": "Antonio",
+              "initials": "A",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "European Menopause and Andropause Society, Berlin, Germany."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Morris E",
+              "lastName": "Morris",
+              "firstName": "Edward",
+              "initials": "E",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Norfolk & Norwich University Hospital, Norwich, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Davison S",
+              "lastName": "Davison",
+              "firstName": "Sonia",
+              "initials": "S",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Australasian Menopause Society, Healesville, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Panay N",
+              "lastName": "Panay",
+              "firstName": "Nicholas",
+              "initials": "N",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Queen Charlotte's and Chelsea & Westminster Hospitals, London, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lumsden MA",
+              "lastName": "Lumsden",
+              "firstName": "Mary A",
+              "initials": "MA",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Glasgow Royal Infirmary, University of Glasgow, Glasgow, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hillard T",
+              "lastName": "Hillard",
+              "firstName": "Tim",
+              "initials": "T",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2097-609X"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Poole Hospital NHS Foundation Trust, Poole Hospital, Poole, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Simoncini T",
+              "lastName": "Simoncini",
+              "firstName": "Tommaso",
+              "initials": "T",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "International Menopause Society Truro, Cornwall, UK."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0002-2097-609X"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-2330-1768"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "1",
+          "volume": "27",
+          "journalIssueId": 3132610,
+          "dateOfPublication": "2021 Mar",
+          "monthOfPublication": 3,
+          "yearOfPublication": 2021,
+          "journal": {
+            "medlineAbbreviation": "Post Reprod Health",
+            "title": "Post reproductive health",
+            "essn": "2053-3705",
+            "issn": "2053-3691",
+            "nlmid": "101626590",
+            "isoabbreviation": "Post Reprod Health"
+          },
+          "printPublicationDate": "2021-03-01"
+        },
+        "pubYear": "2021",
+        "pageInfo": "49-55",
+        "affiliation": "King's College Hospital, London, UK.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Letter"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Breast Neoplasms",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "CI",
+                    "qualifierName": "chemically induced"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "EP",
+                    "qualifierName": "epidemiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Hormone Replacement Therapy",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "AE",
+                    "qualifierName": "adverse effects"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Risk Assessment"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Pharmacovigilance"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1177/2053369120983154"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 9,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "N",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2021-10-28",
+        "dateOfCreation": "2021-01-18",
+        "dateOfRevision": "2021-10-28",
+        "electronicPublicationDate": "2021-01-17",
+        "firstPublicationDate": "2021-01-17",
+        "firstIndexDate": "2021-01-19",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "24099134",
+        "source": "MED",
+        "pmid": "24099134",
+        "doi": "10.3109/13697137.2013.852169",
+        "title": "An International Menopause Society study of climate, altitude, temperature (IMS-CAT) and vasomotor symptoms in urban Indian regions.",
+        "authorString": "Stefanopoulou E, Shah D, Shah R, Gupta P, Sturdee DW, Hunter MS.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Stefanopoulou E",
+              "lastName": "Stefanopoulou",
+              "firstName": "E",
+              "initials": "E",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-0500-3828"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Institute of Psychiatry, King's College London , London , UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Shah D",
+              "lastName": "Shah",
+              "firstName": "D",
+              "initials": "D"
+            },
+            {
+              "fullName": "Shah R",
+              "lastName": "Shah",
+              "firstName": "R",
+              "initials": "R"
+            },
+            {
+              "fullName": "Gupta P",
+              "lastName": "Gupta",
+              "firstName": "P",
+              "initials": "P",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7006-9917"
+              }
+            },
+            {
+              "fullName": "Sturdee DW",
+              "lastName": "Sturdee",
+              "firstName": "D W",
+              "initials": "DW"
+            },
+            {
+              "fullName": "Hunter MS",
+              "lastName": "Hunter",
+              "firstName": "M S",
+              "initials": "MS"
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-7006-9917"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-0500-3828"
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "4",
+          "volume": "17",
+          "journalIssueId": 2180494,
+          "dateOfPublication": "2014 Aug",
+          "monthOfPublication": 8,
+          "yearOfPublication": 2014,
+          "journal": {
+            "medlineAbbreviation": "Climacteric",
+            "title": "Climacteric : the journal of the International Menopause Society",
+            "essn": "1473-0804",
+            "issn": "1369-7137",
+            "nlmid": "9810959",
+            "isoabbreviation": "Climacteric"
+          },
+          "printPublicationDate": "2014-08-01"
+        },
+        "pubYear": "2014",
+        "pageInfo": "417-424",
+        "abstractText": "<h4>Objective</h4>To examine the relationships between climate (season, temperature, humidity), lifestyle, health, mood and beliefs and experience of hot flushes and night sweats amongst mid-aged women living in eight urban Indian centers.<h4>Methods</h4>A total of 717 peri- and postmenopausal women, aged 45-55 years, from urban centers in different regions of India were included. Data were collected during both summer and winter months. Participants completed questionnaires eliciting information about sociodemographics, hot flushes (prevalence, frequency and problem-rating), health and lifestyle (body mass index, diet, exercise, alcohol use), mood (Women's Health Questionnaire) and attributions and beliefs (Menopause Representations Questionnaire).<h4>Results</h4>The prevalence of vasomotor symptoms was low, with 34% of the sample reporting hot flushes and/or night sweats. Seasonal variation in temperature was not associated with hot flush prevalence, frequency or problem rating. Hot flush prevalence was mainly associated with higher anxiety and intake of spicy foods, frequency with (older) age and (more) frequent exercise, while hot flushes were more problematic for women who reported poorer general health and more negative beliefs about menopause.<h4>Conclusions</h4>In this study of Indian women, seasonal temperature variation did not appear to influence hot flush reporting. Health, mood, beliefs and lifestyle factors appear to explain some, but not all, of the variance in experience of menopausal symptoms.",
+        "affiliation": "Institute of Psychiatry, King's College London , London , UK.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Research Support, Non-U.S. Gov't",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Vasomotor System",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PP",
+                    "qualifierName": "physiopathology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Hot Flashes",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "ET",
+                    "qualifierName": "etiology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "EP",
+                    "qualifierName": "epidemiology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PP",
+                    "qualifierName": "physiopathology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PX",
+                    "qualifierName": "psychology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Body Mass Index"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Prevalence"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Risk Factors"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Emotions",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Life Style"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Altitude"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Temperature"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Climate"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Seasons"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Sweating",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PH",
+                    "qualifierName": "physiology"
+                  },
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "PX",
+                    "qualifierName": "psychology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Culture"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Urban Population"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "India",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "EP",
+                    "qualifierName": "epidemiology"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Statistics as Topic"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Health Status Disparities"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Surveys and Questionnaires"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Culture",
+            "Climate",
+            "Season",
+            "hot flushes",
+            "menopause",
+            "Vasomotor Symptoms"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.3109/13697137.2013.852169"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 9,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2015-04-10",
+        "dateOfCreation": "2013-10-09",
+        "dateOfRevision": "2015-11-19",
+        "electronicPublicationDate": "2013-11-07",
+        "firstPublicationDate": "2013-11-07",
+        "firstIndexDate": "2013-10-09",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "39928407",
+        "source": "MED",
+        "pmid": "39928407",
+        "doi": "10.1080/13697137.2025.2457993",
+        "title": "State of the art in menopause: current best practice approaches from the IMS World Congress 2024, Melbourne.",
+        "authorString": "Simon JA, Davis SR, Lindén Hirschberg A, Kiesel L, Pompei LM, Reginster JY, Simoncini T, Hillard T.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Simon JA",
+              "lastName": "Simon",
+              "firstName": "James A",
+              "initials": "JA",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Obstetrics and Gynecology, George Washington University and IntimMedicine Specialists, Washington, DC, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Davis SR",
+              "lastName": "Davis",
+              "firstName": "Susan R",
+              "initials": "SR",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Women's Health Research Program, School of Public Health and Preventive Medicine, Monash University, Melbourne, Australia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Lindén Hirschberg A",
+              "lastName": "Lindén Hirschberg",
+              "firstName": "Angelica",
+              "initials": "A",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Women's and Children's Health, Karolinska Institutet and Karolinska University Hospital, Stockholm, Sweden."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Kiesel L",
+              "lastName": "Kiesel",
+              "firstName": "Ludwig",
+              "initials": "L",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Obstetrics and Gynecology, University Hospital Münster, Münster, Germany."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Pompei LM",
+              "lastName": "Pompei",
+              "firstName": "Luciano de Melo",
+              "initials": "LM",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Departamento de Ginecologia e Obstetrícia, Faculdade de Medicina do ABC, Santo André, Brazil."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Reginster JY",
+              "lastName": "Reginster",
+              "firstName": "Jean-Yves",
+              "initials": "JY",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Biochemistry Department, College of Science, King Saud University, Riyadh, Kingdom of Saudi Arabia."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Simoncini T",
+              "lastName": "Simoncini",
+              "firstName": "Tommaso",
+              "initials": "T",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Dipartimento di Medicina Clinica e Sperimentale, Università di Pisa, Pisa, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hillard T",
+              "lastName": "Hillard",
+              "firstName": "Timothy",
+              "initials": "T",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Obstetrics and Gynaecology, University Hospitals Dorset, Poole, UK."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics"
+          ]
+        },
+        "journalInfo": {
+          "issue": "2",
+          "volume": "28",
+          "journalIssueId": 3919303,
+          "dateOfPublication": "2025 Apr",
+          "monthOfPublication": 4,
+          "yearOfPublication": 2025,
+          "journal": {
+            "medlineAbbreviation": "Climacteric",
+            "title": "Climacteric : the journal of the International Menopause Society",
+            "essn": "1473-0804",
+            "issn": "1369-7137",
+            "nlmid": "9810959",
+            "isoabbreviation": "Climacteric"
+          },
+          "printPublicationDate": "2025-04-01"
+        },
+        "pubYear": "2025",
+        "pageInfo": "98-103",
+        "abstractText": "The 19th World Congress on Menopause, hosted by the International Menopause Society in 2024, convened global experts to discuss the latest advances in menopause management. This review highlights key focus areas presented at the congress, offering insights into best practices for clinical application. Cardiovascular health remains a priority, with emphasis on recognizing sex-specific risk factors and exploring emerging therapies. Osteoporosis management underscores the role of menopausal hormone therapy (MHT) as foundational, complemented by anti-resorptive and bone-forming agents in high-risk populations and those not candidates for MHT. Addressing genitourinary symptoms and sexual health, vaginal estrogen therapy is confirmed as a safe and effective option with vaginal dehydroepiandrosterone (DHEA) and oral ospemifene as suitable alternatives, while testosterone therapy offers benefits for hypoactive sexual desire disorder in postmenopausal women. Sleep disturbances, depression and workplace challenges linked to menopause were explored, with tailored interventions such as MHT and cognitive behavioral therapy specifically for sleep recommended. Cancer risk management stressed the need for a multidisciplinary approach to risk reduction beginning with lifestyle modification, and with non-hormonal therapies prioritized for symptomatic treatment of menopausal symptoms in those with hormone-sensitive cancers. Lastly, perimenopause management highlighted comprehensive approaches integrating symptom relief and contraceptive needs.",
+        "affiliation": "Department of Obstetrics and Gynecology, George Washington University and IntimMedicine Specialists, Washington, DC, USA.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Review",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Hormone Replacement Therapy"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Estrogen Replacement Therapy"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Congresses as Topic"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Vasomotor Symptoms",
+            "Menopausal Hormone Therapy",
+            "Bone Health In Menopause",
+            "Cancer Risk And Menopausal Hormone Therapy",
+            "Cardiovascular Risk Menopause",
+            "Sexual Function And Dysfunction",
+            "Sleep Disturbances In Menopause",
+            "Urogenital Symptom Treatment"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Unpaywall",
+              "url": "https://orbi.uliege.be/handle/2268/333283"
+            },
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1080/13697137.2025.2457993"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 7,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "Y",
+        "hasData": "N",
+        "license": "cc by-nc-nd",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2025-03-27",
+        "dateOfCreation": "2025-02-10",
+        "dateOfRevision": "2026-06-09",
+        "electronicPublicationDate": "2025-02-10",
+        "firstPublicationDate": "2025-02-10",
+        "firstIndexDate": "2025-02-11",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "42610218",
+        "source": "MED",
+        "pmid": "42610218",
+        "doi": "10.1080/13697137.2026.2691828",
+        "title": "Hormone therapy (HT) in women with premature ovarian insufficiency or early menopause: Time to think of a new paradigm for healthy aging. A joint FIGO and IMS position paper.",
+        "authorString": "Benedetto C, Khadilkar SS, Nappi RE, Genazzani AR, Frezet F, Cucinella L, Divakar H, Anagnostis P, Panay N.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Benedetto C",
+              "lastName": "Benedetto",
+              "firstName": "Chiara",
+              "initials": "C",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-1514-4771"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Obstetrics and Gynecology, Sant'Anna University Hospital, Torino, Italy."
+                  },
+                  {
+                    "affiliation": "Department of Surgical Sciences, University of Torino, Torino, Italy."
+                  },
+                  {
+                    "affiliation": "FIGO Committee on Women at Menopausal Age, International Federation of Gynecology and Obstetrics (FIGO), London, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Khadilkar SS",
+              "lastName": "Khadilkar",
+              "firstName": "Suvarna S",
+              "initials": "SS",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Surgical Sciences, University of Torino, Torino, Italy."
+                  },
+                  {
+                    "affiliation": "Department of Obstetrics and Gynecology, Bombay Hospital, Mumbai, India."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Nappi RE",
+              "lastName": "Nappi",
+              "firstName": "Rossella E",
+              "initials": "RE",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-1713-6396"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, Pavia, Italy."
+                  },
+                  {
+                    "affiliation": "Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. Matteo Foundation, Pavia, Italy."
+                  },
+                  {
+                    "affiliation": "Executive Committee of the International Menopause Society (IMS), Totnes, Devon, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Genazzani AR",
+              "lastName": "Genazzani",
+              "firstName": "Andrea R",
+              "initials": "AR",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Surgical Sciences, University of Torino, Torino, Italy."
+                  },
+                  {
+                    "affiliation": "Department of Clinical and Experimental Medicine, University of Pisa, Pisa, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Frezet F",
+              "lastName": "Frezet",
+              "firstName": "Federica",
+              "initials": "F",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Obstetrics and Gynecology, Sant'Anna University Hospital, Torino, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Cucinella L",
+              "lastName": "Cucinella",
+              "firstName": "Laura",
+              "initials": "L",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. Matteo Foundation, Pavia, Italy."
+                  },
+                  {
+                    "affiliation": "Department of Public Health, Experimental and Forensic Medicine, University of Pavia, Pavia, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Divakar H",
+              "lastName": "Divakar",
+              "firstName": "Hema",
+              "initials": "H",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "FIGO Division on Well Woman Health Care, International Federation of Gynecology and Obstetrics (FIGO), London, UK."
+                  },
+                  {
+                    "affiliation": "Obstetrics and Gynecology, Divakars Speciality Hospital, Bengaluru, India."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Anagnostis P",
+              "lastName": "Anagnostis",
+              "firstName": "Panagiotis",
+              "initials": "P",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Endocrinology, 3rd Department of Internal Medicine, \"Papageorgiou\" General Hospital, Aristotle University of Thessaloniki, Thessaloniki, Greece."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Panay N",
+              "lastName": "Panay",
+              "firstName": "Nick",
+              "initials": "N",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6662-1334"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Executive Committee of the International Menopause Society (IMS), Totnes, Devon, UK."
+                  },
+                  {
+                    "affiliation": "Queen Charlotte's & Chelsea Hospital, Imperial College London, UK."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6662-1334"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-1514-4771"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-1713-6396"
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "4",
+          "volume": "29",
+          "journalIssueId": 4244306,
+          "dateOfPublication": "2026 Aug",
+          "monthOfPublication": 8,
+          "yearOfPublication": 2026,
+          "journal": {
+            "medlineAbbreviation": "Climacteric",
+            "title": "Climacteric : the journal of the International Menopause Society",
+            "essn": "1473-0804",
+            "issn": "1369-7137",
+            "nlmid": "9810959",
+            "isoabbreviation": "Climacteric"
+          },
+          "printPublicationDate": "2026-08-01"
+        },
+        "pubYear": "2026",
+        "pageInfo": "487-506",
+        "abstractText": "Premature ovarian insufficiency (POI) and early menopause (EM) affect millions of women worldwide. Compared with normal menopause, they confer a longer duration of estrogen deficiency and are associated not only with a shorter lifespan, but with a reduced healthspan, owing to an increased risk of cardiovascular, skeletal, cognitive and psychological morbidity, and sexual health concerns. Therefore, interventions in POI/EM represent some of the most actionable opportunities to reduce long-term disability and promote healthy longevity. However, current approaches to hormone therapy (HT) in POI/EM remain fragmented, delayed, and overly influenced by paradigms derived from older postmenopausal populations. We propose a shift toward a life-course model of care. POI and EM should no longer be managed as variants of menopause at normal age but recognized as chronic endocrine conditions and sentinel events for accelerated aging in women. HT should be reframed as a hormonal replacement aimed at preventing long-term disability. Timely initiation, adequate dosing, and long-term continuation of HT should be considered foundational to POI/EM care, alongside integrated preventive strategies. FIGO and IMS, therefore, call for a globally coordinated effort to strengthen awareness, professional education, and research on POI/EM, and to ensure equitable access to multidisciplinary care, with the goal of improving women's health and supporting the long-term sustainability of healthcare systems.",
+        "affiliation": "Department of Obstetrics and Gynecology, Sant'Anna University Hospital, Torino, Italy.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Review",
+            "Consensus Statement",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause, Premature"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Hormone Replacement Therapy"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Estrogen Replacement Therapy",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "MT",
+                    "qualifierName": "methods"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Women's Health"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Primary Ovarian Insufficiency",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DT",
+                    "qualifierName": "drug therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Healthy Aging"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Hormone Therapy",
+            "Healthspan",
+            "Healthy Aging",
+            "Premature Ovarian Insufficiency",
+            "Menopausal Hormone Therapy",
+            "Early Menopause"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1080/13697137.2026.2691828"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2026-08-18",
+        "dateOfCreation": "2026-08-18",
+        "dateOfRevision": "2026-08-31",
+        "electronicPublicationDate": "2026-08-18",
+        "firstPublicationDate": "2026-08-18",
+        "firstIndexDate": "2026-08-19",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "42609071",
+        "source": "MED",
+        "pmid": "42609071",
+        "pmcid": "PMC13629580",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC13629580"
+          ]
+        },
+        "doi": "10.1002/ijgo.71217",
+        "title": "Hormone therapy (HT) in women with premature ovarian insufficiency or early menopause: Time to think of a new paradigm for healthy aging. A joint FIGO and IMS position paper.",
+        "authorString": "Benedetto C, Khadilkar SS, Nappi RE, Genazzani AR, Frezet F, Cucinella L, Divakar H, Anagnostis P, Panay N.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Benedetto C",
+              "lastName": "Benedetto",
+              "firstName": "Chiara",
+              "initials": "C",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Obstetrics and Gynecology, Sant'anna University Hospital, Torino, Italy."
+                  },
+                  {
+                    "affiliation": "Department of Surgical Sciences, University of Torino, Torino, Italy."
+                  },
+                  {
+                    "affiliation": "FIGO Committee on Women at Menopausal Age, International Federation of Gynecology and Obstetrics (FIGO), London, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Khadilkar SS",
+              "lastName": "Khadilkar",
+              "firstName": "Suvarna S",
+              "initials": "SS",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "FIGO Committee on Women at Menopausal Age, International Federation of Gynecology and Obstetrics (FIGO), London, UK."
+                  },
+                  {
+                    "affiliation": "Department of Obstetrics and Gynecology, Bombay Hospital, Mumbai, India."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Nappi RE",
+              "lastName": "Nappi",
+              "firstName": "Rossella E",
+              "initials": "RE",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Clinical, Surgical, Diagnostic and Pediatric Sciences, University of Pavia, Pavia, Italy."
+                  },
+                  {
+                    "affiliation": "Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. Matteo Foundation, Pavia, Italy."
+                  },
+                  {
+                    "affiliation": "Executive Committee of the International Menopause Society (IMS), Totnes, Devon, UK."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Genazzani AR",
+              "lastName": "Genazzani",
+              "firstName": "Andrea R",
+              "initials": "AR",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "FIGO Committee on Women at Menopausal Age, International Federation of Gynecology and Obstetrics (FIGO), London, UK."
+                  },
+                  {
+                    "affiliation": "Department of Clinical and Experimental Medicine, University of Pisa, Pisa, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Frezet F",
+              "lastName": "Frezet",
+              "firstName": "Federica",
+              "initials": "F",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Obstetrics and Gynecology, Sant'anna University Hospital, Torino, Italy."
+                  },
+                  {
+                    "affiliation": "Department of Surgical Sciences, University of Torino, Torino, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Cucinella L",
+              "lastName": "Cucinella",
+              "firstName": "Laura",
+              "initials": "L",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause, IRCCS S. Matteo Foundation, Pavia, Italy."
+                  },
+                  {
+                    "affiliation": "Department of Public Health, Experimental and Forensic Medicine, University of Pavia, Pavia, Italy."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Divakar H",
+              "lastName": "Divakar",
+              "firstName": "Hema",
+              "initials": "H",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "FIGO Division on Well Woman Health Care, International Federation of Gynecology and Obstetrics (FIGO), London, UK."
+                  },
+                  {
+                    "affiliation": "Obstetrics and Gynecology, Divakars Speciality Hospital, Bengaluru, India."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Anagnostis P",
+              "lastName": "Anagnostis",
+              "firstName": "Panagiotis",
+              "initials": "P",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Division of Endocrinology, 3rd Department of Internal Medicine, \"Papageorgiou\" General Hospital, Aristotle University of Thessaloniki, Thessaloniki, Greece."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Panay N",
+              "lastName": "Panay",
+              "firstName": "Nick",
+              "initials": "N",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Executive Committee of the International Menopause Society (IMS), Totnes, Devon, UK."
+                  },
+                  {
+                    "affiliation": "Queen Charlotte's & Chelsea Hospital, Imperial College London, London, UK."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "supporting_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "1",
+          "volume": "175",
+          "journalIssueId": 4275601,
+          "dateOfPublication": "2026 Oct",
+          "monthOfPublication": 10,
+          "yearOfPublication": 2026,
+          "journal": {
+            "medlineAbbreviation": "Int J Gynaecol Obstet",
+            "title": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+            "essn": "1879-3479",
+            "issn": "0020-7292",
+            "nlmid": "0210174",
+            "isoabbreviation": "Int J Gynaecol Obstet"
+          },
+          "printPublicationDate": "2026-10-01"
+        },
+        "pubYear": "2026",
+        "pageInfo": "26-47",
+        "abstractText": "Premature ovarian insufficiency (POI) and early menopause (EM) affect millions of women worldwide. Compared with normal menopause, they confer a longer duration of estrogen deficiency and are associated not only with a shorter lifespan, but with a reduced healthspan, owing to an increased risk of cardiovascular, skeletal, cognitive and psychological morbidity, and sexual health concerns. Therefore, interventions in POI/EM represent some of the most actionable opportunities to reduce long-term disability and promote healthy longevity. However, current approaches to hormone therapy (HT) in POI/EM remain fragmented, delayed, and overly influenced by paradigms derived from older postmenopausal populations. We propose a shift toward a life-course model of care. POI and EM should no longer be managed as variants of menopause at normal age but recognized as chronic endocrine conditions and sentinel events for accelerated aging in women. HT should be reframed as a hormonal replacement aimed at preventing long-term disability. Timely initiation, adequate dosing, and long-term continuation of HT should be considered foundational to POI/EM care, alongside integrated preventive strategies. FIGO and IMS, therefore, call for a globally coordinated effort to strengthen awareness, professional education, and research on POI/EM, and to ensure equitable access to multidisciplinary care, with the goal of improving women's health and supporting the long-term sustainability of healthcare systems.",
+        "affiliation": "Department of Obstetrics and Gynecology, Sant'anna University Hospital, Torino, Italy.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Consensus Statement",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Menopause, Premature"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Estrogen Replacement Therapy",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "MT",
+                    "qualifierName": "methods"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Primary Ovarian Insufficiency",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "DT",
+                    "qualifierName": "drug therapy"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Healthy Aging"
+            }
+          ]
+        },
+        "keywordList": {
+          "keyword": [
+            "Hormone Therapy",
+            "Healthspan",
+            "Healthy Aging",
+            "Premature Ovarian Insufficiency",
+            "Menopausal Hormone Therapy",
+            "Early Menopause"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1002/ijgo.71217"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC13629580"
+            },
+            {
+              "availability": "Open access",
+              "availabilityCode": "OA",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC13629580?pdf=render"
+            }
+          ]
+        },
+        "isOpenAccess": "Y",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "Y",
+        "license": "cc by-nc-nd",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "doi"
+          ]
+        },
+        "dateOfCompletion": "2026-10-01",
+        "dateOfCreation": "2026-08-18",
+        "dateOfRevision": "2026-10-06",
+        "electronicPublicationDate": "2026-08-18",
+        "firstPublicationDate": "2026-08-18",
+        "firstIndexDate": "2026-08-19",
+        "fullTextReceivedDate": "2026-10-03",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "41433055",
+        "source": "MED",
+        "pmid": "41433055",
+        "doi": "10.1080/13697137.2025.2582393",
+        "title": "Managing with evidence: the International Menopause Society (IMS) recommendations.",
+        "authorString": "Panay N, Hillard T.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Panay N (Lead author of IMS Recommendations)",
+              "lastName": "Panay",
+              "firstName": "Nick",
+              "initials": "N",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6662-1334"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Queen Charlotte's and Chelsea Hospital, Imperial College London."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Hillard T (Editor-in-Chief, Climacteric)",
+              "lastName": "Hillard",
+              "firstName": "Tim",
+              "initials": "T",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2097-609X"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "University Hospitals Dorset, Poole, UK."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-6662-1334"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-2097-609X"
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "6",
+          "volume": "28",
+          "journalIssueId": 4076991,
+          "dateOfPublication": "2025 Dec",
+          "monthOfPublication": 12,
+          "yearOfPublication": 2025,
+          "journal": {
+            "medlineAbbreviation": "Climacteric",
+            "title": "Climacteric : the journal of the International Menopause Society",
+            "essn": "1473-0804",
+            "issn": "1369-7137",
+            "nlmid": "9810959",
+            "isoabbreviation": "Climacteric"
+          },
+          "printPublicationDate": "2025-12-01"
+        },
+        "pubYear": "2025",
+        "pageInfo": "631-633",
+        "affiliation": "Queen Charlotte's and Chelsea Hospital, Imperial College London.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Editorial"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1080/13697137.2025.2582393"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "N",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCreation": "2025-12-23",
+        "dateOfRevision": "2025-12-23",
+        "electronicPublicationDate": "2025-12-23",
+        "firstPublicationDate": "2025-12-23",
+        "firstIndexDate": "2025-12-24",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "40843713",
+        "source": "MED",
+        "pmid": "40843713",
+        "doi": "10.1080/13697137.2025.2523718",
+        "title": "IMS World Congress on Menopause.",
+        "authorString": "Baber R.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Baber R",
+              "lastName": "Baber",
+              "firstName": "Rod",
+              "initials": "R",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Chair, Scientific Programme Committee, 19th IMS World Congress on Menopause."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "4",
+          "volume": "28",
+          "journalIssueId": 4000604,
+          "dateOfPublication": "2025 Aug",
+          "monthOfPublication": 8,
+          "yearOfPublication": 2025,
+          "journal": {
+            "medlineAbbreviation": "Climacteric",
+            "title": "Climacteric : the journal of the International Menopause Society",
+            "essn": "1473-0804",
+            "issn": "1369-7137",
+            "nlmid": "9810959",
+            "isoabbreviation": "Climacteric"
+          },
+          "printPublicationDate": "2025-08-01"
+        },
+        "pubYear": "2025",
+        "pageInfo": "371-372",
+        "affiliation": "Chair, Scientific Programme Committee, 19th IMS World Congress on Menopause.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print-Electronic",
+        "pubTypeList": {
+          "pubType": [
+            "Editorial"
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1080/13697137.2025.2523718"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "N",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCreation": "2025-08-22",
+        "dateOfRevision": "2025-09-11",
+        "electronicPublicationDate": "2025-08-22",
+        "firstPublicationDate": "2025-08-22",
+        "firstIndexDate": "2025-08-24",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "24571029",
+        "source": "MED",
+        "pmid": "24571029",
+        "title": "Menopausal hormone therapy and prevention of chronic diseases: IMS members react to the recent JAMA paper.",
+        "authorString": "Hodis HN, Neves-e-Castro M.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Hodis HN",
+              "lastName": "Hodis",
+              "firstName": "Howard N",
+              "initials": "HN"
+            },
+            {
+              "fullName": "Neves-e-Castro M",
+              "lastName": "Neves-e-Castro",
+              "firstName": "Manuel",
+              "initials": "M"
+            }
+          ]
+        },
+        "journalInfo": {
+          "issue": "1",
+          "volume": "17",
+          "journalIssueId": 2115609,
+          "dateOfPublication": "2014 Feb",
+          "monthOfPublication": 2,
+          "yearOfPublication": 2014,
+          "journal": {
+            "medlineAbbreviation": "Climacteric",
+            "title": "Climacteric : the journal of the International Menopause Society",
+            "essn": "1473-0804",
+            "issn": "1369-7137",
+            "nlmid": "9810959",
+            "isoabbreviation": "Climacteric"
+          },
+          "printPublicationDate": "2014-02-01"
+        },
+        "pubYear": "2014",
+        "pageInfo": "99-101",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "Comment",
+            "Journal Article"
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Breast Neoplasms",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PC",
+                    "qualifierName": "prevention & control"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Coronary Disease",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "PC",
+                    "qualifierName": "prevention & control"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Estrogens, Conjugated (USP)",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "AD",
+                    "qualifierName": "administration & dosage"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Estrogens",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "AD",
+                    "qualifierName": "administration & dosage"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Hormone Replacement Therapy",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "AE",
+                    "qualifierName": "adverse effects"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Medroxyprogesterone Acetate",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "AD",
+                    "qualifierName": "administration & dosage"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Estrogens",
+              "registryNumber": "0"
+            },
+            {
+              "name": "Estrogens, Conjugated (USP)",
+              "registryNumber": "0"
+            },
+            {
+              "name": "Medroxyprogesterone Acetate",
+              "registryNumber": "C2QI4IOI2G"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "commentCorrectionList": {
+          "commentCorrection": [
+            {
+              "source": "MED",
+              "id": "24084921",
+              "reference": "JAMA. 2013 Oct 2;310(13):1353-68. doi: 10.1001/jama.2013.278040",
+              "type": "Comment on",
+              "orderIn": 1
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2014-08-18",
+        "dateOfCreation": "2014-02-27",
+        "dateOfRevision": "2018-12-02",
+        "firstPublicationDate": "2014-02-01",
+        "firstIndexDate": "2014-02-27",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

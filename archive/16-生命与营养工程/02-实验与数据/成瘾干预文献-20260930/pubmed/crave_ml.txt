@@ -1,0 +1,294 @@
+1. Prog Neuropsychopharmacol Biol Psychiatry. 2025 Jan 10;136:111216. doi: 
+10.1016/j.pnpbp.2024.111216. Epub 2024 Dec 9.
+
+Predicting drug craving among ketamine-dependent users through machine learning 
+based on brain structural measures.
+
+Sun Y(1), Wu Q(2), Tang J(1), Liao Y(3).
+
+Author information:
+(1)Department of Psychiatry, Sir Run Run Shaw Hospital, Zhejiang University 
+School of Medicine, Hangzhou, Zhejiang, PR China.
+(2)Department of Psychiatry, the Second Xiangya Hospital, Central South 
+University, Changsha, Hunan, PR China.
+(3)Department of Psychiatry, Sir Run Run Shaw Hospital, Zhejiang University 
+School of Medicine, Hangzhou, Zhejiang, PR China. Electronic address: 
+liaoyanhui@zju.edu.cn.
+
+BACKGROUND: Craving is a core factor driving drug-seeking and -taking, 
+representing a significant risk factor for relapse. This study aims to identify 
+neuroanatomical biomarkers for quantifying and predicting craving.
+METHODS: The study enrolled 94 ketamine-dependent users and 103 healthy controls 
+(HC). Utilizing support vector regression (SVR) with 10-fold cross-validated 
+framework, we developed a neuroanatomical craving model based on measures of 
+regional cortical thickness (CT), surface area (SA), and subcortical volume (SV) 
+derived from T1 images. The generalizability of neuroanatomical craving model 
+was examined in an independent set. Spatial correlation analysis was employed to 
+assess the relationship between the regional contribution to craving and density 
+maps of receptors/transporters from previous molecular imaging studies.
+RESULTS: The neuroanatomical craving model identified neuroanatomical biomarkers 
+that predicted self-report craving (r = 0.635). The most importance of 
+predictors of craving included the SA of the left medial orbitofrontal cortex 
+and the left supramarginal gyrus, CT in the left caudal anterior cingulate, the 
+left cuneus, the right lateral occipital cortex and the right lingual gyrus, as 
+well as the left amygdala GMV. Importantly, these predictors were generalized to 
+an independent sample. Moreover, nodal contribution to predicted craving scores 
+were associated with DA2, 5-HTa, 5-HTb receptor and serotonin reuptake 
+transporter densities.
+CONCLUSION: The results offer a key perspective on craving prediction among 
+ketamine-dependent users, and identify neuroanatomical areas associated with 
+craving in the frontal and parietal regions. Additionally, the underlying 
+neuroanatomical structures involved in the craving process may be linked to the 
+dopaminergic and serotonergic systems.
+
+Copyright © 2024 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.pnpbp.2024.111216
+PMID: 39662724 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+2. Front Psychiatry. 2025 Nov 11;16:1693193. doi: 10.3389/fpsyt.2025.1693193. 
+eCollection 2025.
+
+Facial expression analysis and machine learning for objective assessment of 
+alcohol craving in alcohol use disorder: a study protocol.
+
+Liu L(1)(2)(3), He Z(1), Song Y(1), Zuo G(1), Bai X(1), Su H(1), Wang D(1), Zhao 
+H(1), Wang S(1), Li W(1), Wang C(1).
+
+Author information:
+(1)The Second Affiliated Hospital of Xinxiang Medical University, Henan, 
+XinXiang, China.
+(2)Henan Collaborative Innovation Center of Prevention and Treatment of Mental 
+Disorder, Henan, XinXiang, China.
+(3)Brain Institute, Henan Academy of Innovations in Medical Science, Henan, 
+XinXiang, China.
+
+BACKGROUND: Alcohol craving is a key predictor of relapse in alcohol use 
+disorder (AUD), yet current assessments rely mainly on self-reported scales, 
+lacking objective evaluation methods. This single-center observational study 
+aims to explore subtle differences in facial expressions among alcohol use 
+disorder patients during craving states, long-term abstinent individuals, and 
+healthy controls, with the goal of identifying objective biomarkers of alcohol 
+craving. A secondary aim is to establish a rigorous craving evaluation system 
+using machine learning.
+METHODS: We plan to recruit 200 participants per group: alcohol use disorder 
+patients, long-term abstinent individuals, and healthy controls. Patients with 
+alcohol use disorder will first undergo inpatient detoxification (approximately 
+two weeks) and will be eligible once their Clinical Institute Withdrawal 
+Assessment for Alcohol, Revised (CIWA-AR) score falls below 7. At enrollment, 
+participants will complete psychological and clinical assessments, including 
+sociodemographic and drinking history questionnaires, the Alcohol Use Disorders 
+Identification Test (AUDIT), Penn Alcohol Craving Scale (PACS), Hamilton Anxiety 
+Rating Scale (HAM-A), Hamilton Depression Rating Scale (HAM-D), Barratt 
+Impulsiveness Scale, and Pittsburgh Sleep Quality Index (PSQI). Personalized 
+drinking-environment preferences will be collected via semi-structured 
+interviews. During the experiment, participants will provide craving ratings 
+using a visual analog scale (VAS) before and after viewing a 120-second 
+relaxation video and a 120-second alcohol cue-related video, while facial 
+expressions are recorded simultaneously. The alcohol use disorder group will 
+undergo the same assessments again after six weeks of inpatient treatment.
+DISCUSSION: Developing an objective system for evaluating alcohol craving has 
+the potential to enhance routine screening, differential diagnosis, and 
+treatment monitoring in alcohol use disorder. Furthermore, integrating facial 
+expression analysis with machine learning may enable the development of reliable 
+craving assessment tools and treatment response prediction models. Such 
+approaches could provide clinicians with evidence-based guidance for 
+psychological and psychosocial interventions, ultimately reducing relapse rates 
+among individuals with alcohol use disorder.
+
+Copyright © 2025 Liu, He, Song, Zuo, Bai, Su, Wang, Zhao, Wang, Li and Wang.
+
+DOI: 10.3389/fpsyt.2025.1693193
+PMCID: PMC12645829
+PMID: 41306318
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+3. Front Public Health. 2026 May 11;14:1752380. doi: 10.3389/fpubh.2026.1752380. 
+eCollection 2026.
+
+A machine learning approach with SHAP interpretability for classifying drug 
+craving levels.
+
+Zeng W(#)(1)(2), Liu F(#)(2), Liang T(2)(3), Zhao C(1)(2), Liu X(2), Yang P(2).
+
+Author information:
+(1)Clinical Medical College, Hunan University of Chinese Medicine, Changsha, 
+Hunan, China.
+(2)The Second People's Hospital of Hunan Province (Brain Hospital of Hunan 
+Province), Changsha, Hunan, China.
+(3)College of Traditional Chinese Medicine, Hunan University of Chinese 
+Medicine, Changsha, Hunan, China.
+(#)Contributed equally
+
+BACKGROUND: Drug addiction is a chronic relapsing brain disease. Drug craving is 
+the strongest independent predictor of relapse. However, traditional linear 
+models often fail to capture complex non-linear addiction patterns. Although 
+machine learning (ML) demonstrates superior performance, its "black-box" nature 
+limits clinical credibility.
+OBJECTIVE: This study aimed to construct a classification model for drug craving 
+scores based on ML and explore the impact of multifactorial features.
+METHODS: A total of 692 abstainers were recruited from Compulsory Isolation Drug 
+Rehabilitation Centers. Craving was assessed using a 34-item Drug Craving Scale. 
+After preprocessing (imputing missing values, removing outliers via IQR), 629 
+valid samples remained. Eighteen demographic and behavioral features were 
+analyzed. Samples were split 7:3 into training and test sets. SMOTE was employed 
+for class imbalance. Seven algorithms-including Logistic Regression, XGBoost, 
+and LightGBM-were compared. The optimal model was selected using 10-fold 
+cross-validation and grid search, then evaluated on the independent test set 
+using multi-dimensional metrics. SHAP was introduced for interpretability.
+RESULTS: Logistic Regression was the optimal model. On the independent test set, 
+it achieved 66.13% accuracy and 0.85 micro-average AUC, demonstrating 
+encouraging potential in identifying the high-craving group (AUC = 0.84). SHAP 
+quantified feature contributions: frequency of drug use, duration of use, and 
+heroin use were core factors. Behavioral features positively correlated with 
+high craving, whereas sociodemographic features exhibited a protective effect 
+that diminished as addiction severity increased.
+CONCLUSION: The Logistic Regression model combines predictive performance and 
+interpretability. By applying SHAP, this study visually elucidated specific 
+feature contributions, enhancing model transparency for preliminary clinical 
+evaluations, pending rigorous validation in independent and diverse populations.
+
+Copyright © 2026 Zeng, Liu, Liang, Zhao, Liu and Yang.
+
+DOI: 10.3389/fpubh.2026.1752380
+PMCID: PMC13199168
+PMID: 42200120 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared that this work was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+4. CNS Neurosci Ther. 2026 Jun;32(6):e70990. doi: 10.1002/cns.70990.
+
+Functional Brain Network Predictors of Abstinence Treatment Outcomes in 
+Methamphetamine Use Disorder.
+
+Du Y(1), Di S(2)(3), Luo N(2), Yang W(1), Shi W(2), Yang Z(2), Song M(2), Zhang 
+H(4), Zhang J(5), Jiang T(2)(3)(6)(7), Liu J(1)(8)(9).
+
+Author information:
+(1)Department of Radiology, The Second Xiangya Hospital of Central South 
+University, Changsha, Hunan, China.
+(2)Brainnetome Center, Institute of Automation, Chinese Academy of Sciences, 
+Beijing, China.
+(3)School of Artificial Intelligence, University of Chinese Academy of Sciences, 
+Beijing, China.
+(4)MR Research Collaboration, Siemens Healthineers Ltd., Wuhan, China.
+(5)Hunan Judicial Police Academy, Changsha, Hunan, China.
+(6)Center for Excellence in Brain Science and Intelligence Technology, Institute 
+of Automation, Chinese Academy of Sciences, Beijing, China.
+(7)Xiaoxiang Institute for Brain Health and Yongzhou Central Hospital, Yongzhou, 
+Hunan, China.
+(8)Clinical Research Center for Medical Imaging in Hunan Province, The Second 
+Xiangya Hospital of Central South University, Changsha, Hunan, China.
+(9)Department of Radiology Quality Control Center, The Second Xiangya Hospital 
+of Central South University, Changsha, Hunan, China.
+
+BACKGROUND: Methamphetamine (MA) use poses a serious threat to community safety 
+and public health. Despite the existence of some treatment modalities, relapse 
+rates remain high and the effectiveness of these treatments varies among 
+individuals. Identifying behavioral, neuroimaging, and gene expression 
+biomarkers associated with treatment efficacy can enhance our multiscale 
+understanding of the neurobiological mechanisms underlying individualized 
+responses to abstinence-based treatments. This approach has the potential to 
+advance the development of personalized or innovative therapeutic strategies.
+METHODS: Our study included 82 MA users and 68 healthy controls (HCs). 
+Demographic information, craving scale scores, MA use assessment, and MRI scans 
+were collected from the MA group prior to treatment. All MA users underwent 
+abstinence-based treatment, during which they refrained from using MA and 
+received only basic medical care and education on abstinent rehabilitation. 
+Following long-term abstinence-based treatment, craving scale scores were 
+reassessed. A reduction in craving scale scores greater than 30% was defined as 
+the responders. Similarly, demographic information and MRI scans were collected 
+from the 68 HCs. We calculated whole-brain functional connectivity based on fMRI 
+data and applied principal component regression (PCR) with leave-one-out 
+cross-validation to identify response network patterns predictive of abstinence 
+response scores. Furthermore, we evaluated the stability of the predictive 
+models from multiple perspectives. Network strength of the identified response 
+network was then compared to that of HCs to assess its clinical relevance. We 
+also assessed the efficacy of network strength in making binary predictions. 
+Finally, we combined the discovered brain patterns with the Allen Human Brain 
+Atlas data to explore the genetic basis associated with the identified response 
+network.
+RESULTS: Among the 82 MA users, 39 were responders and 43 were non-responders. 
+The 68 HCs had a mean age of 40.1 years, with 46 males. PCR identified a stable 
+MA response network pattern, characterized by network connections positively 
+associated with attention regulation and executive control abilities (within 
+visual, between frontoparietal and default mode, and between visual and dorsal 
+attention), as well as negative network connections associated with emotion 
+regulation and behavioral automatization (within somatomotor, between 
+somatomotor and default mode, and between default mode and ventral attention). 
+HC exhibited moderate levels of network strength between responders and 
+non-responders. The identified network pattern demonstrated efficacy in 
+individual-level binary predictions. This neuroimaging pattern was further 
+associated with synaptic signaling and inhibitory neurons.
+CONCLUSIONS: Together, our results not only provide new neuroimaging markers for 
+predicting personalized treatment response, but also reveal the underlying 
+neurobiological mechanisms associated with abstinence response, providing 
+potential regulatory targets for addiction treatment.
+
+© 2026 The Author(s). CNS Neuroscience & Therapeutics published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1002/cns.70990
+PMCID: PMC13273840
+PMID: 42307080 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+5. Nat Neurosci. 2023 Feb;26(2):316-325. doi: 10.1038/s41593-022-01228-w. Epub
+2022  Dec 19.
+
+A neuromarker for drug and food craving distinguishes drug users from non-users.
+
+Koban L(1)(2), Wager TD(#)(3), Kober H(#)(4).
+
+Author information:
+(1)Paris Brain Institute (ICM), Inserm, CNRS, Sorbonne Université, Paris, 
+France. leonie.koban@cnrs.fr.
+(2)Centre de Recherche en Neurosciences de Lyon (CRNL), CNRS, INSERM, Université 
+Claude Bernard Lyon 1, Bron, France. leonie.koban@cnrs.fr.
+(3)Department of Psychological and Brain Sciences, Dartmouth College, Hanover, 
+NH, USA. tor.d.wager@dartmouth.edu.
+(4)Department of Psychiatry and Psychology, Yale University, New Haven, CT, USA. 
+hedy.kober@yale.edu.
+(#)Contributed equally
+
+Comment in
+    Nat Neurosci. 2023 Feb;26(2):178-180. doi: 10.1038/s41593-022-01246-8.
+
+Craving is a core feature of substance use disorders. It is a strong predictor 
+of substance use and relapse and is linked to overeating, gambling, and other 
+maladaptive behaviors. Craving is measured via self-report, which is limited by 
+introspective access and sociocultural contexts. Neurobiological markers of 
+craving are both needed and lacking, and it remains unclear whether craving for 
+drugs and food involve similar mechanisms. Across three functional magnetic 
+resonance imaging studies (n = 99), we used machine learning to identify a 
+cross-validated neuromarker that predicts self-reported intensity of cue-induced 
+drug and food craving (P < 0.0002). This pattern, which we term the 
+Neurobiological Craving Signature (NCS), includes ventromedial prefrontal and 
+cingulate cortices, ventral striatum, temporal/parietal association areas, 
+mediodorsal thalamus and cerebellum. Importantly, NCS responses to drug versus 
+food cues discriminate drug users versus non-users with 82% accuracy. The NCS is 
+also modulated by a self-regulation strategy. Transfer between separate 
+neuromarkers for drug and food craving suggests shared neurobiological 
+mechanisms. Future studies can assess the discriminant and convergent validity 
+of the NCS and test whether it responds to clinical interventions and predicts 
+long-term clinical outcomes.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41593-022-01228-w
+PMID: 36536243 [Indexed for MEDLINE]

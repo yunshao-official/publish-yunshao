@@ -1,0 +1,17 @@
+{
+ "meta": {
+  "script": "strongform_ec-v1.0-20260924.py",
+  "frozen": "2026-09-24T04:31:41"
+ },
+ "DB3": {
+  "e1_size": 6142,
+  "e1_s1_bad": 0,
+  "e3_mspec_bad": 0,
+  "e3_strong_bad": 0,
+  "x3_strong_bad": 0
+ },
+ "log": [
+  "D-B3 E-1 |lang|=6142 S1!=2 bad=0",
+  "D-B3 E-3 mspec bad=0 ; strong3 bad=0 ; strongX3 bad=0"
+ ]
+}

@@ -1,0 +1,1234 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ],
+      "date-time": "2026-10-01T14:57:43Z",
+      "timestamp": 1790866663284,
+      "version": "4.1.0"
+    },
+    "reference-count": 159,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              18
+            ]
+          ],
+          "date-time": "2026-08-18T00:00:00Z",
+          "timestamp": 1787011200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              18
+            ]
+          ],
+          "date-time": "2026-08-18T00:00:00Z",
+          "timestamp": 1787011200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "obgyn.onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Intl J Gynecology &amp; Obste"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          10
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Premature ovarian insufficiency (POI) and early menopause (EM) affect millions of women worldwide. Compared with normal menopause, they confer a longer duration of estrogen deficiency and are associated not only with a shorter lifespan, but with a reduced healthspan, owing to an increased risk of cardiovascular, skeletal, cognitive and psychological morbidity, and sexual health concerns. Therefore, interventions in POI/EM represent some of the most actionable opportunities to reduce long‐term disability and promote healthy longevity. However, current approaches to hormone therapy (HT) in POI/EM remain fragmented, delayed, and overly influenced by paradigms derived from older postmenopausal populations. We propose a shift toward a life‐course model of care. POI and EM should no longer be managed as variants of menopause at normal age but recognized as chronic endocrine conditions and sentinel events for accelerated aging in women. HT should be reframed as a hormonal replacement aimed at preventing long‐term disability. Timely initiation, adequate dosing, and long‐term continuation of HT should be considered foundational to POI/EM care, alongside integrated preventive strategies. FIGO and IMS, therefore, call for a globally coordinated effort to strengthen awareness, professional education, and research on POI/EM, and to ensure equitable access to multidisciplinary care, with the goal of improving women's health and supporting the long‐term sustainability of healthcare systems.</jats:p>",
+    "DOI": "10.1002/ijgo.71217",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          18
+        ]
+      ],
+      "date-time": "2026-08-18T07:02:31Z",
+      "timestamp": 1787036551000
+    },
+    "page": "26-47",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Hormone therapy (\n                    <scp>HT</scp>\n                    ) in women with premature ovarian insufficiency or early menopause: Time to think of a new paradigm for healthy aging. A joint\n                    <scp>FIGO</scp>\n                    and\n                    <scp>IMS</scp>\n                    position paper"
+    ],
+    "prefix": "10.1002",
+    "volume": "175",
+    "author": [
+      {
+        "given": "Chiara",
+        "family": "Benedetto",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Obstetrics and Gynecology Sant'anna University Hospital  Torino Italy"
+          },
+          {
+            "name": "Department of Surgical Sciences University of Torino  Torino Italy"
+          },
+          {
+            "name": "FIGO Committee on Women at Menopausal Age International Federation of Gynecology and Obstetrics (FIGO)  London UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Suvarna S.",
+        "family": "Khadilkar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "FIGO Committee on Women at Menopausal Age International Federation of Gynecology and Obstetrics (FIGO)  London UK"
+          },
+          {
+            "name": "Department of Obstetrics and Gynecology Bombay Hospital  Mumbai India"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rossella E.",
+        "family": "Nappi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Clinical, Surgical, Diagnostic and Pediatric Sciences University of Pavia  Pavia Italy"
+          },
+          {
+            "name": "Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause IRCCS S. Matteo Foundation  Pavia Italy"
+          },
+          {
+            "name": "Executive Committee of the International Menopause Society (IMS)  Totnes Devon UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrea R.",
+        "family": "Genazzani",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "FIGO Committee on Women at Menopausal Age International Federation of Gynecology and Obstetrics (FIGO)  London UK"
+          },
+          {
+            "name": "Department of Clinical and Experimental Medicine University of Pisa  Pisa Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Federica",
+        "family": "Frezet",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Obstetrics and Gynecology Sant'anna University Hospital  Torino Italy"
+          },
+          {
+            "name": "Department of Surgical Sciences University of Torino  Torino Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laura",
+        "family": "Cucinella",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Research Center for Reproductive Medicine, Gynecological Endocrinology and Menopause IRCCS S. Matteo Foundation  Pavia Italy"
+          },
+          {
+            "name": "Department of Public Health, Experimental and Forensic Medicine University of Pavia  Pavia Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hema",
+        "family": "Divakar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "FIGO Division on Well Woman Health Care International Federation of Gynecology and Obstetrics (FIGO)  London UK"
+          },
+          {
+            "name": "Obstetrics and Gynecology Divakars Speciality Hospital  Bengaluru India"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Panagiotis",
+        "family": "Anagnostis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Endocrinology, 3rd Department of Internal Medicine, “Papageorgiou” General Hospital Aristotle University of Thessaloniki  Thessaloniki Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nick",
+        "family": "Panay",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Executive Committee of the International Menopause Society (IMS)  Totnes Devon UK"
+          },
+          {
+            "name": "Queen Charlotte's &amp; Chelsea Hospital Imperial College London  London UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          18
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_12_2_1",
+        "unstructured": "European Society of Human Reproduction and Embryology.Premature ovarian insufficiency (POI). The guideline development group on Premature Ovarian Insufficiency. 2024.https://www.eshre.eu/guidelines."
+      },
+      {
+        "key": "e_1_2_12_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwn046"
+      },
+      {
+        "key": "e_1_2_12_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ije/dyu094"
+      },
+      {
+        "key": "e_1_2_12_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2024.2394950"
+      },
+      {
+        "key": "e_1_2_12_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10654-018-0367-y"
+      },
+      {
+        "key": "e_1_2_12_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/20533691231186562"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_12_8_1",
+        "first-page": "257",
+        "article-title": "Menopause across Asia: a comprehensive meta‐analysis of age and influencing factors",
+        "volume": "16",
+        "author": "Agrawal PK",
+        "year": "2025",
+        "journal-title": "J Midlife Health"
+      },
+      {
+        "key": "e_1_2_12_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2019.1574738"
+      },
+      {
+        "key": "e_1_2_12_10_1",
+        "unstructured": "World Bank.World development indicators: female population by age group—indicators SP.POP.1519.FE SP.POP.2024.FE SP.POP.2529.FE SP.POP.3034.FE SP.POP.3539.FE and SP.POP.4044.FE. Washington DC: World Bank; 2024.https://databank.worldbank.org/source/world‐development‐indicators"
+      },
+      {
+        "key": "e_1_2_12_11_1",
+        "unstructured": "United Nations Department of Economic and Social Affairs Population Division.World population prospects 2024. New York: United Nations; 2024.https://population.un.org/wpp/"
+      },
+      {
+        "key": "e_1_2_12_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/aogs.13594"
+      },
+      {
+        "key": "e_1_2_12_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(23)02802-7"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_12_14_1",
+        "first-page": "e16",
+        "article-title": "Risk‐reducing Salpingo‐oophorectomy and the use of hormone replacement therapy below the age of natural menopause: scientific impact paper No. 66 October 2021: scientific impact paper No. 66",
+        "volume": "129",
+        "author": "Manchanda R",
+        "year": "2022",
+        "journal-title": "BJOG"
+      },
+      {
+        "key": "e_1_2_12_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/humrep/deg005"
+      },
+      {
+        "key": "e_1_2_12_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2022.2153033"
+      },
+      {
+        "key": "e_1_2_12_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2023.107871"
+      },
+      {
+        "key": "e_1_2_12_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12940-017-0242-4"
+      },
+      {
+        "key": "e_1_2_12_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.31083/j.ceog4906129"
+      },
+      {
+        "issue": "14",
+        "key": "e_1_2_12_20_1",
+        "first-page": "561",
+        "article-title": "Barriers beyond biology: the socioeconomic and cultural determinants of infertility treatment‐seeking behaviour—a systematic review",
+        "volume": "29",
+        "author": "Chavan R",
+        "year": "2025",
+        "journal-title": "J Educ Health Promot"
+      },
+      {
+        "key": "e_1_2_12_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/frph.2025.1732836"
+      },
+      {
+        "key": "e_1_2_12_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/13697137.2011.571320"
+      },
+      {
+        "key": "e_1_2_12_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2022.06.002"
+      },
+      {
+        "key": "e_1_2_12_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamacardio.2016.2415"
+      },
+      {
+        "key": "e_1_2_12_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.fertnstert.2024.11.007"
+      },
+      {
+        "key": "e_1_2_12_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000001246"
+      },
+      {
+        "key": "e_1_2_12_27_1",
+        "unstructured": "European Society of Human Reproduction and Embryology.Premature ovarian insufficiency (POI): healthcare professional toolkit based on the ESHRE guideline on premature ovarian insufficiency. ESHRE; 2024.https://www.eshre.eu/‐/media/sitecore‐files/Guidelines/POI/2024/POI‐GUIDELINE_HCP‐Toolkit‐2024.pdf"
+      },
+      {
+        "key": "e_1_2_12_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2024.2339129"
+      },
+      {
+        "key": "e_1_2_12_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12905-021-01197-5"
+      },
+      {
+        "key": "e_1_2_12_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2024.107994"
+      },
+      {
+        "key": "e_1_2_12_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5152/alphapsychiatry.2024.231501"
+      },
+      {
+        "key": "e_1_2_12_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08870446.2023.2192738"
+      },
+      {
+        "key": "e_1_2_12_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(23)02800-3"
+      },
+      {
+        "key": "e_1_2_12_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MD.0000000000026353"
+      },
+      {
+        "key": "e_1_2_12_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2018.12.015"
+      },
+      {
+        "key": "e_1_2_12_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/gerona/gly092"
+      },
+      {
+        "key": "e_1_2_12_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.12688/f1000research.11948.1"
+      },
+      {
+        "key": "e_1_2_12_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2468-2667(19)30155-0"
+      },
+      {
+        "key": "e_1_2_12_39_1",
+        "article-title": "Premature menopause and lifetime risk of coronary heart disease",
+        "volume": "18",
+        "author": "Freaney PM",
+        "year": "2026",
+        "journal-title": "JAMA Cardiol"
+      },
+      {
+        "key": "e_1_2_12_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2019.19191"
+      },
+      {
+        "key": "e_1_2_12_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12020-018-1746-6"
+      },
+      {
+        "key": "e_1_2_12_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2025.2524170"
+      },
+      {
+        "key": "e_1_2_12_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/humrep/deae037"
+      },
+      {
+        "key": "e_1_2_12_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2023.05.006"
+      },
+      {
+        "key": "e_1_2_12_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajog.2024.11.002"
+      },
+      {
+        "key": "e_1_2_12_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejendo/lvaf102"
+      },
+      {
+        "key": "e_1_2_12_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCRESAHA.123.322984"
+      },
+      {
+        "key": "e_1_2_12_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1604558113"
+      },
+      {
+        "key": "e_1_2_12_49_1",
+        "volume-title": "World health statistics 2019: monitoring health for the SDGs, sustainable development goals",
+        "author": "World Health Organization",
+        "year": "2019"
+      },
+      {
+        "key": "e_1_2_12_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurpub/ckz114"
+      },
+      {
+        "key": "e_1_2_12_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.1907351118"
+      },
+      {
+        "key": "e_1_2_12_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41586-021-03779-7"
+      },
+      {
+        "key": "e_1_2_12_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fcell.2021.672890"
+      },
+      {
+        "key": "e_1_2_12_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fpubh.2025.1685488"
+      },
+      {
+        "key": "e_1_2_12_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3949/ccjm.92gr.25056"
+      },
+      {
+        "key": "e_1_2_12_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000002623"
+      },
+      {
+        "key": "e_1_2_12_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2468-2667(24)00042-2"
+      },
+      {
+        "key": "e_1_2_12_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12905-021-01189-5"
+      },
+      {
+        "key": "e_1_2_12_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjmed-2025-001349"
+      },
+      {
+        "key": "e_1_2_12_60_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-025-18083-x"
+      },
+      {
+        "key": "e_1_2_12_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-026-49559-z"
+      },
+      {
+        "key": "e_1_2_12_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2021.06.006"
+      },
+      {
+        "key": "e_1_2_12_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000002327"
+      },
+      {
+        "key": "e_1_2_12_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000002640"
+      },
+      {
+        "key": "e_1_2_12_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2024.107920"
+      },
+      {
+        "key": "e_1_2_12_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(25)01637-X"
+      },
+      {
+        "key": "e_1_2_12_67_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2665-9913(25)00105-5"
+      },
+      {
+        "key": "e_1_2_12_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/jwh.2012.3719"
+      },
+      {
+        "key": "e_1_2_12_69_1",
+        "unstructured": "HeisselJA DonofrySD BonheurA ShinickD RollisonJ TroxelWM.The economic impacts of menopause in the United States. RAND Corporation; 2025."
+      },
+      {
+        "key": "e_1_2_12_70_1",
+        "unstructured": "ContiG GinjaR PerssonP WillageB.The menopause “penalty”. NBER Working Paper No. 33621. Cambridge MA: National Bureau of Economic Research; 2025."
+      },
+      {
+        "key": "e_1_2_12_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/geront/gnv130"
+      },
+      {
+        "key": "e_1_2_12_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/jwh.2023.0189"
+      },
+      {
+        "key": "e_1_2_12_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000002335"
+      },
+      {
+        "key": "e_1_2_12_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/PPO.0000000000000591"
+      },
+      {
+        "key": "e_1_2_12_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000002127"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_12_76_1",
+        "article-title": "Hormone therapy for preventing cardiovascular disease in post‐menopausal women",
+        "volume": "2015",
+        "author": "Boardman HM",
+        "year": "2015",
+        "journal-title": "Cochrane Database Syst Rev"
+      },
+      {
+        "key": "e_1_2_12_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2013.278040"
+      },
+      {
+        "key": "e_1_2_12_78_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrendo.2016.164"
+      },
+      {
+        "key": "e_1_2_12_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pds.70029"
+      },
+      {
+        "key": "e_1_2_12_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fendo.2024.1350318"
+      },
+      {
+        "key": "e_1_2_12_81_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep44917"
+      },
+      {
+        "key": "e_1_2_12_82_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0b013e3182960cf8"
+      },
+      {
+        "key": "e_1_2_12_83_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000002028"
+      },
+      {
+        "key": "e_1_2_12_84_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacc.2005.12.066"
+      },
+      {
+        "key": "e_1_2_12_85_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fendo.2025.1619516"
+      },
+      {
+        "key": "e_1_2_12_86_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2020.1804547"
+      },
+      {
+        "key": "e_1_2_12_87_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejendo/lvaf206"
+      },
+      {
+        "key": "e_1_2_12_88_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/cen.15136"
+      },
+      {
+        "key": "e_1_2_12_89_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2025.108807"
+      },
+      {
+        "key": "e_1_2_12_90_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2025.2497415"
+      },
+      {
+        "key": "e_1_2_12_91_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.fertnstert.2022.09.027"
+      },
+      {
+        "key": "e_1_2_12_92_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/j.pbj.0000000000000062"
+      },
+      {
+        "key": "e_1_2_12_93_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41572-024-00547-5"
+      },
+      {
+        "key": "e_1_2_12_94_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13048-025-01915-9"
+      },
+      {
+        "key": "e_1_2_12_95_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13048-025-01878-x"
+      },
+      {
+        "key": "e_1_2_12_96_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijms27031353"
+      },
+      {
+        "key": "e_1_2_12_97_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2025.2610484"
+      },
+      {
+        "key": "e_1_2_12_98_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijms22052594"
+      },
+      {
+        "key": "e_1_2_12_99_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12905-025-04113-3"
+      },
+      {
+        "key": "e_1_2_12_100_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1530/EC-22-0024"
+      },
+      {
+        "key": "e_1_2_12_101_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2020.1859246"
+      },
+      {
+        "key": "e_1_2_12_102_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2025.2585487"
+      },
+      {
+        "key": "e_1_2_12_103_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/endrev/bnaf011"
+      },
+      {
+        "key": "e_1_2_12_104_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.fertnstert.2006.09.004"
+      },
+      {
+        "key": "e_1_2_12_105_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/gme.0b013e31818888f7"
+      },
+      {
+        "key": "e_1_2_12_106_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1470-2045(06)70869-5"
+      },
+      {
+        "key": "e_1_2_12_107_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.123.030117"
+      },
+      {
+        "key": "e_1_2_12_108_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/humrep/deac137"
+      },
+      {
+        "key": "e_1_2_12_109_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s13224-023-01924-y"
+      },
+      {
+        "key": "e_1_2_12_110_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cjca.2025.01.024"
+      },
+      {
+        "key": "e_1_2_12_111_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000001756"
+      },
+      {
+        "key": "e_1_2_12_112_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/hropen/hox007"
+      },
+      {
+        "key": "e_1_2_12_113_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/jc.2013-4145"
+      },
+      {
+        "key": "e_1_2_12_114_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.fertnstert.2007.02.032"
+      },
+      {
+        "key": "e_1_2_12_115_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2265.2007.02772.x"
+      },
+      {
+        "key": "e_1_2_12_116_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09513590.2016.1257602"
+      },
+      {
+        "key": "e_1_2_12_117_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-025-89985-z"
+      },
+      {
+        "key": "e_1_2_12_118_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM199809103391104"
+      },
+      {
+        "key": "e_1_2_12_119_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00223-012-9611-8"
+      },
+      {
+        "key": "e_1_2_12_120_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1530/EJE-16-0582"
+      },
+      {
+        "key": "e_1_2_12_121_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/jc.2015-4063"
+      },
+      {
+        "key": "e_1_2_12_122_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1365-2265.2010.03868.x"
+      },
+      {
+        "key": "e_1_2_12_123_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000001592"
+      },
+      {
+        "key": "e_1_2_12_124_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.rbmo.2022.02.006"
+      },
+      {
+        "key": "e_1_2_12_125_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/HYPERTENSIONAHA.108.126516"
+      },
+      {
+        "key": "e_1_2_12_126_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2021.1902496"
+      },
+      {
+        "key": "e_1_2_12_127_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09513590.2025.2468957"
+      },
+      {
+        "key": "e_1_2_12_128_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2023.2258783"
+      },
+      {
+        "key": "e_1_2_12_129_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/jpbs.jpbs_1627_24"
+      },
+      {
+        "key": "e_1_2_12_130_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s42000-024-00526-1"
+      },
+      {
+        "issue": "25",
+        "key": "e_1_2_12_131_1",
+        "first-page": "e1082",
+        "article-title": "2018 AHA / ACC/ AACVPR/AAPA/ ABC/ACPM/ADA/ AGS/APhA/ASPC/NLA/PCNA guideline on the Management of Blood Cholesterol: a report of the American College of Cardiology/American Heart Association task force on clinical practice guidelines",
+        "volume": "139",
+        "author": "Grundy SM",
+        "year": "2019",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "e_1_2_12_132_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurheartj/ehaf190"
+      },
+      {
+        "key": "e_1_2_12_133_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jbm4.10594"
+      },
+      {
+        "key": "e_1_2_12_134_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/clinem/dgaa306"
+      },
+      {
+        "key": "e_1_2_12_135_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00198-018-4704-5"
+      },
+      {
+        "key": "e_1_2_12_136_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/2327-6924.12137"
+      },
+      {
+        "key": "e_1_2_12_137_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2010.2016"
+      },
+      {
+        "key": "e_1_2_12_138_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00042192-200512010-00006"
+      },
+      {
+        "key": "e_1_2_12_139_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.yfrne.2013.07.003"
+      },
+      {
+        "key": "e_1_2_12_140_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1210/clinem/dgad058"
+      },
+      {
+        "key": "e_1_2_12_141_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(23)00085-5"
+      },
+      {
+        "key": "e_1_2_12_142_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2415566"
+      },
+      {
+        "key": "e_1_2_12_143_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamainternmed.2025.4421"
+      },
+      {
+        "key": "e_1_2_12_144_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2024.14618"
+      },
+      {
+        "key": "e_1_2_12_145_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2025.108782"
+      },
+      {
+        "key": "e_1_2_12_146_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2025.2530441"
+      },
+      {
+        "key": "e_1_2_12_147_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/13697137.2023.2184253"
+      },
+      {
+        "key": "e_1_2_12_148_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.6118/jmm.24011"
+      },
+      {
+        "key": "e_1_2_12_149_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000002234"
+      },
+      {
+        "key": "e_1_2_12_150_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GME.0000000000002660"
+      },
+      {
+        "key": "e_1_2_12_151_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/13697137.2012.700846"
+      },
+      {
+        "key": "e_1_2_12_152_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1471-0528.16524"
+      },
+      {
+        "issue": "4",
+        "key": "e_1_2_12_153_1",
+        "first-page": "258",
+        "article-title": "Natural premature ovarian insufficiency and early menopause: a snapshot of hormonal management in a real‐life setting in Italy",
+        "volume": "1",
+        "author": "Cucinella L",
+        "year": "2020",
+        "journal-title": "Gynecol Reprod Endocrinol Metab"
+      },
+      {
+        "key": "e_1_2_12_154_1",
+        "unstructured": "British Menopause Society.Premature ovarian insufficiency (POI) BMS Consensus Statement. British Menopause Society; 2024 https://thebms.org.uk/publications/consensus‐statements/premature‐ovarian‐insufficiency/"
+      },
+      {
+        "key": "e_1_2_12_155_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.maturitas.2024.107971"
+      },
+      {
+        "key": "e_1_2_12_156_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.coemr.2023.100435"
+      },
+      {
+        "key": "e_1_2_12_157_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/humrep/dew027"
+      },
+      {
+        "key": "e_1_2_12_158_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.fertnstert.2016.09.046"
+      },
+      {
+        "key": "e_1_2_12_159_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/AOG.0000000000002044"
+      },
+      {
+        "key": "e_1_2_12_160_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ijgo.15278"
+      }
+    ],
+    "container-title": [
+      "International Journal of Gynecology &amp; Obstetrics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://obgyn.onlinelibrary.wiley.com/doi/pdf/10.1002/ijgo.71217",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://obgyn.onlinelibrary.wiley.com/doi/full-xml/10.1002/ijgo.71217",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://obgyn.onlinelibrary.wiley.com/doi/pdf/10.1002/ijgo.71217",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ],
+      "date-time": "2026-10-01T14:23:45Z",
+      "timestamp": 1790864625000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.71217"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          18
+        ]
+      ]
+    },
+    "references-count": 159,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/ijgo.71217"
+    ],
+    "URL": "https://doi.org/10.1002/ijgo.71217",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "0020-7292",
+      "1879-3479"
+    ],
+    "issn-type": [
+      {
+        "value": "0020-7292",
+        "type": "print"
+      },
+      {
+        "value": "1879-3479",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          18
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2026-06-18",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-06-24",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-08-18",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

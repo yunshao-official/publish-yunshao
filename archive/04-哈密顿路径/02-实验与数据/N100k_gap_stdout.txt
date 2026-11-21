@@ -1,0 +1,14 @@
+[att0 strat1] construct=OK size=50000/50000 defects=116421
+[att0] match-lns lns=miss;rounds=60;surg=1;best=11111/50000
+[att0] expand-FAIL match=11111/50000
+[att1 strat2] construct=OK size=50000/50000 defects=117611
+[att1] match-lns lns=miss;rounds=60;surg=2;best=10586/50000
+[att1] expand-FAIL match=10586/50000
+BA(N=100000,m=4,s=42,src=genba,arm=base): FAIL size=96291 breaks 28->28 rot=5859 defects=0 con=29.36s rep=0.00s ver=0.000s mech=gpipe+D2(0726descend+fullclosure);incomplete;
+[att0 strat1] construct=OK size=50000/50000 defects=115501
+[att0] match-lns lns=miss;rounds=60;surg=7;best=11268/50000
+[att0] expand-FAIL match=11268/50000
+[att1 strat2] construct=OK size=50000/50000 defects=116999
+[att1] match-lns lns=miss;rounds=60;surg=2;best=10580/50000
+[att1] expand-FAIL match=10580/50000
+BA(N=100000,m=4,s=43,src=genba,arm=base): FAIL size=97336 breaks 80->80 rot=6230 defects=0 con=27.08s rep=0.00s ver=0.000s mech=gpipe+D2(0726descend+fullclosure);incomplete;

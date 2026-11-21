@@ -1,0 +1,1991 @@
+[
+ {
+  "q": "acoulev",
+  "id": "1305.6368v1",
+  "title": "Optical measurement of acoustic radiation pressure of the near-field acoustic levitation through transparent object",
+  "date": "2013-05-28",
+  "authors": [
+   "Satoshi Nakamura",
+   "Toshiaki Furusawa",
+   "Yasuhiro Sasao"
+  ],
+  "summary": "It is known that macroscopic objects can be levitated for few to several hundred micrometers by near-field acoustic field and this phenomenon is called near-field acoustic levitation (NFAL). Although there are various experiments conducted to measure integrated acoustic pressure on the object surface, up to now there was no direct method to measure pressure distribution. In this study we measured "
+ },
+ {
+  "q": "acoulev",
+  "id": "2311.09913v1",
+  "title": "Visualizing acoustic levitation using COMSOL Multiphysics",
+  "date": "2023-11-16",
+  "authors": [
+   "Francisco M. Muñoz-Pérez",
+   "Juan C. Castro-Palacio",
+   "Marcos H. Giménez"
+  ],
+  "summary": "We present a new virtual laboratory developed with COMSOL Multiphysics for the simulation of an acoustic levitator. Our computer application simulates the acoustic pressure field and its interaction with a set of particles. Students can interact with the system by having the possibility of changing the frequency and distance parameters between transducers in real-time. We have also developed and s"
+ },
+ {
+  "q": "acoulev",
+  "id": "2412.15539v2",
+  "title": "Mid-Air Single-Sided Acoustic Levitation in High-Pressure Regions of Zero-Order Bessel Beams",
+  "date": "2024-12-20",
+  "authors": [
+   "Yusuke Koroyasu",
+   "Christopher Stone",
+   "Yoichi Ochiai"
+  ],
+  "summary": "Acoustic levitation enables non-contact manipulation using sound waves. While conventional methods entrap particles at pressure nodes (zero-pressure region surrounded by high-pressure), we demonstrate stable acoustic levitation and translation in mid-air within a high-pressure axial core of a single-sided zero-order Bessel beam for the first time. The trap operates at a long working distance, up t"
+ },
+ {
+  "q": "acoulev",
+  "id": "2312.12801v1",
+  "title": "Airborne Ouzo: Evaporation-induced emulsification and phase separation dynamics of ternary droplets in acoustic levitation",
+  "date": "2023-12-20",
+  "authors": [
+   "Misaki Mitsuno",
+   "Koji Hasegawa"
+  ],
+  "summary": "We experimentally investigated the evaporation dynamics of acoustically levitated Ouzo droplets (a mixture of ethanol, water, and anise oil). Acoustic levitation has gained significant attention in various fields due to its potential to create a lab-in-a-drop. Although evaporation is a key process in nature and industry, many studies have focused on single and binary components, and ternary drople"
+ },
+ {
+  "q": "acoulev",
+  "id": "2203.01987v1",
+  "title": "OptiTrap: Optimal Trap Trajectories for Acoustic Levitation Displays",
+  "date": "2022-03-03",
+  "authors": [
+   "Viktorija Paneva",
+   "Arthur Fleig",
+   "Diego Martínez Plasencia"
+  ],
+  "summary": "Acoustic levitation has recently demonstrated the ability to create volumetric content by trapping and quickly moving particles along reference paths to reveal shapes in mid-air. However, the problem of specifying physically feasible trap trajectories to display desired shapes remains unsolved. Even if only the final shape is of interest to the content creator, the trap trajectories need to determ"
+ },
+ {
+  "q": "acoulev",
+  "id": "1711.00380v1",
+  "title": "Realization of a Contactless Acoustic Levitation Motor via Doublet Mode Control and Autoresonance",
+  "date": "2017-11-01",
+  "authors": [
+   "Solomon Davis",
+   "Izhak Bucher"
+  ],
+  "summary": "This paper demonstrates analytically and experimentally an acoustic levitation motor which has the ability to levitate and rotate an object in the air without mechanical contact. To realize such a device two core methods are applied simultaneously; (i) resonance tracking with an Autoresonance feedback loop, (ii) generation of controlled structural traveling waves. The purpose of the first method i"
+ },
+ {
+  "q": "artgrav",
+  "id": "1703.00044v1",
+  "title": "Digital Cellular Solid Pressure Vessels: A Novel Approach for Human Habitation in Space",
+  "date": "2017-02-21",
+  "authors": [
+   "Daniel Cellucci",
+   "Benjamin Jenett",
+   "Kenneth C. Cheung"
+  ],
+  "summary": "It is widely assumed that human exploration beyond Earth's orbit will require vehicles capable of providing long-duration habitats that simulate an Earthlike environment: consistent artificial gravity, breathable atmosphere, and sufficient living space- while requiring the minimum possible launch mass. This paper examines how the qualities of digital cellular solids - high-performance, repairabili"
+ },
+ {
+  "q": "artgrav",
+  "id": "1806.09808v3",
+  "title": "Natural illumination solution for rotating space settlements",
+  "date": "2018-06-26",
+  "authors": [
+   "Pekka Janhunen"
+  ],
+  "summary": "Cylindrical kilometre-scale artificial gravity space settlements were proposed by Gerard O'Neill in the 1970s. The early concept had two oppositely rotating cylinders and moving mirrors to simulate the diurnal cycle. Later, the Kalpana One concept exhibited passively stable rotation and no large moving parts. Here we propose and analyse a specific light transfer solution for Kalpana One type settl"
+ },
+ {
+  "q": "artgrav",
+  "id": "1812.10436v1",
+  "title": "Stability of a rotating asteroid housing a space station",
+  "date": "2018-12-26",
+  "authors": [
+   "Thomas I. Maindl",
+   "Roman Miksch",
+   "Birgit Loibnegger"
+  ],
+  "summary": "Today there are numerous studies on asteroid mining. They elaborate on selecting the right objects, prospecting missions, potential asteroid redirection, and the mining process itself. For economic reasons, most studies focus on mining candidates in the 100-500m size-range. Also, suggestions regarding the design and implementation of space stations or even colonies inside the caverns of mined aste"
+ },
+ {
+  "q": "artgrav",
+  "id": "2310.16918v4",
+  "title": "Geodynamics and artificial gravity in space-time crystals under slow perturbation and deformation",
+  "date": "2023-10-25",
+  "authors": [
+   "Anzhuoer Li",
+   "Liang Dong",
+   "Qian Niu"
+  ],
+  "summary": "We present a theory of geodynamics in a space-time crystal based on an event wave packet constructed from the Floquet-Bloch waves, which not only involve a scalar dispersion function but also a Berry curvature tensor in the phase space manifold of space-time and the reciprocal quasi energy-momentum. In the presence of structural deformation, this theory is naturally extended into a covariant form "
+ },
+ {
+  "q": "artgrav",
+  "id": "2011.07487v5",
+  "title": "Terraforming the dwarf planet: Interconnected and growable Ceres megasatellite world",
+  "date": "2020-11-15",
+  "authors": [
+   "Pekka Janhunen"
+  ],
+  "summary": "We analyse a megasatellite settlement built from Ceres materials in high Ceres orbit. Ceres is selected because it has nitrogen, which is necessary for an earthlike atmosphere. To have $1 g$ artificial gravity, spinning habitats are attached to a disk-shaped megasatellite frame by passively safe magnetic bearings. The habitats are illuminated by concentrated sunlight produced by planar and parabol"
+ },
+ {
+  "q": "artgrav",
+  "id": "2004.02241v1",
+  "title": "Shielded dumbbell L5 settlement",
+  "date": "2020-04-05",
+  "authors": [
+   "Pekka Janhunen"
+  ],
+  "summary": "We present a two-sphere dumbbell configuration of a rotating settlement at Earth-Moon L5. The two-sphere configuration is chosen to minimize the radiation shielding mass which dominates the mass budget. The settlement has max 20 mSv/year radiation conditions and 1 g artificial gravity. If made for 200 people, it weighs 89000 tonnes and provides 60 m$^2$ of floorspace per person. The radiation shie"
+ },
+ {
+  "q": "bci",
+  "id": "2607.24820v1",
+  "title": "More Electrodes, Faster Minds? Rethinking Bandwidth in Brain-Computer Interfaces",
+  "date": "2026-07-17",
+  "authors": [
+   "Boxuan Jiang"
+  ],
+  "summary": "High-bandwidth brain--computer interfaces (BCIs) can bypass damaged pathways, reduce motor costs, and improve communication and control. They also inspire visions of accelerated thought output, mind reading, and instant skill acquisition. This Perspective asks how gains in meaningful human I/O scale with interface capacity. We distinguish bandwidth, decodable neural states, neural states, and info"
+ },
+ {
+  "q": "bci",
+  "id": "2308.13232v1",
+  "title": "Estimating and approaching maximum information rate of noninvasive visual brain-computer interface",
+  "date": "2023-08-25",
+  "authors": [
+   "Nanlin Shi",
+   "Yining Miao",
+   "Changxing Huang"
+  ],
+  "summary": "The mission of visual brain-computer interfaces (BCIs) is to enhance information transfer rate (ITR) to reach high speed towards real-life communication. Despite notable progress, noninvasive visual BCIs have encountered a plateau in ITRs, leaving it uncertain whether higher ITRs are achievable. In this study, we investigate the information rate limits of the primary visual channel to explore whet"
+ },
+ {
+  "q": "bci",
+  "id": "2304.13238v2",
+  "title": "Comparison of Sub-Scalp EEG and Endovascular Stent-Electrode Array for Visual Evoked Potential Brain-Computer Interface",
+  "date": "2023-04-26",
+  "authors": [
+   "Timothy B. Mahoney",
+   "Po-Chen Liu",
+   "David B Grayden"
+  ],
+  "summary": "Brain-computer interfaces (BCI) have the potential to improve the quality of life for persons with paralysis. Sub-scalp EEG provides an alternative BCI signal acquisition method that compromises between the limitations of traditional EEG systems and the risks associated with intracranial electrodes, and has shown promise in long-term seizure monitoring. However, sub-scalp EEG has not yet been asse"
+ },
+ {
+  "q": "bci",
+  "id": "2510.22262v1",
+  "title": "Lateral Ventricular Brain-Computer Interface System with Lantern-Inspired Electrode for Stable Performance and Memory Decoding",
+  "date": "2025-10-25",
+  "authors": [
+   "Yike Sun",
+   "Yaxuan Gao",
+   "Kewei Wang"
+  ],
+  "summary": "We present a lateral ventricular brain-computer interface (LV-BCI) that deploys an expandable, flexible electrode into the lateral ventricle through a minimally invasive external ventricular drainage pathway. Inspired by the framework of traditional Chinese lanterns, the electrode expands uniformly within the ventricle and conforms to the ependymal wall. Compared with conventional subdural ECoG el"
+ },
+ {
+  "q": "bci",
+  "id": "2506.03452v1",
+  "title": "Minimally Invasive Brain Computer Interfaces: Evaluating the Impact of Tissue Layers on Signal Quality of Sub-Scalp EEG",
+  "date": "2025-06-03",
+  "authors": [
+   "Timothy B Mahoney",
+   "JingYang Liu",
+   "Huakun Xin"
+  ],
+  "summary": "Individuals with severe physical disabilities often experience diminished quality of life stemming from limited ability to engage with their surroundings. Brain-Computer Interface (BCI) technology aims to bridge this gap by enabling direct technology interaction. However, current BCI systems require invasive procedures, such as craniotomy or implantation of electrodes through blood vessels, posing"
+ },
+ {
+  "q": "bci",
+  "id": "1609.03224v1",
+  "title": "Bio-Inspired Filter Banks for SSVEP-based Brain-Computer Interfaces",
+  "date": "2016-09-11",
+  "authors": [
+   "A. Fatih Demir",
+   "Huseyin Arslan",
+   "Ismail Uysal"
+  ],
+  "summary": "Brain-computer interfaces (BCI) have the potential to play a vital role in future healthcare technologies by providing an alternative way of communication and control. More specifically, steady-state visual evoked potential (SSVEP) based BCIs have the advantage of higher accuracy and higher information transfer rate (ITR). In order to fully exploit the capabilities of such devices, it is necessary"
+ },
+ {
+  "q": "co2cap",
+  "id": "2510.02550v1",
+  "title": "Quantum simulation of carbon capture in periodic metal-organic frameworks",
+  "date": "2025-10-02",
+  "authors": [
+   "Dario Rocca",
+   "Jerome F. Gonthier",
+   "Joshua Levin"
+  ],
+  "summary": "Carbon capture is vital for decarbonizing heavy industries such as steel and chemicals. Metal-organic frameworks (MOFs), with their high surface area and structural tunability, are promising materials for CO2 capture. This study focuses on Fe-MOF-74, a magnetic Mott insulator with exposed metal sites that enhance CO2 adsorption. Its strongly correlated electronic structure challenges standard DFT "
+ },
+ {
+  "q": "co2cap",
+  "id": "2203.15546v2",
+  "title": "Modelling Carbon Capture on Metal-Organic Frameworks with Quantum Computing",
+  "date": "2022-03-29",
+  "authors": [
+   "Gabriel Greene-Diniz",
+   "David Zsolt Manrique",
+   "Wassil Sennane"
+  ],
+  "summary": "Despite the recent progress in quantum computational algorithms for chemistry, there is a dearth of quantum computational simulations focused on material science applications, especially for the energy sector, where next generation sorbing materials are urgently needed to battle climate change. To drive their development, quantum computing is applied to the problem of CO$_2$ adsorption in Al-fumar"
+ },
+ {
+  "q": "co2cap",
+  "id": "2310.10732v1",
+  "title": "MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design",
+  "date": "2023-10-16",
+  "authors": [
+   "Xiang Fu",
+   "Tian Xie",
+   "Andrew S. Rosen"
+  ],
+  "summary": "Metal-organic frameworks (MOFs) are of immense interest in applications such as gas storage and carbon capture due to their exceptional porosity and tunable chemistry. Their modular nature has enabled the use of template-based methods to generate hypothetical MOFs by combining molecular building blocks in accordance with known network topologies. However, the ability of these methods to identify t"
+ },
+ {
+  "q": "co2cap",
+  "id": "2311.12411v1",
+  "title": "Quantum Simulations for Carbon Capture on Metal-Organic Frameworks",
+  "date": "2023-11-21",
+  "authors": [
+   "Gopal Ramesh Dahale"
+  ],
+  "summary": "Direct air capture of Carbon Dioxide is a technical solution that does not rely on natural processes to capture CO2 from the atmosphere. In DAC, the filter material is designed to specifically bind CO2 molecules. Hence a high-capacity filter is sought. We aim to leverage the potential of quantum computing to improve the filters used in DAC. Metal-Organic Frameworks (MOFs) have high surface area an"
+ },
+ {
+  "q": "co2cap",
+  "id": "2411.16444v3",
+  "title": "Demonstrating Electrochemical CO$_2$ Capture on Redox-Active Metal-Organic Frameworks",
+  "date": "2024-11-25",
+  "authors": [
+   "Iuliia Vetik",
+   "Nikita Žoglo",
+   "Akmal Kosimov"
+  ],
+  "summary": "Addressing climate change calls for action to control CO$_2$ pollution. Direct air and ocean capture offer a solution to this challenge. Making carbon capture competitive with alternatives, such as forestation and mineralisation, requires fundamentally novel approaches and ideas. One such approach is electrosorption, which is currently limited by the availability of suitable electrosorbents. In th"
+ },
+ {
+  "q": "co2cap",
+  "id": "2410.17270v2",
+  "title": "MOFFlow: Flow Matching for Structure Prediction of Metal-Organic Frameworks",
+  "date": "2024-10-07",
+  "authors": [
+   "Nayoung Kim",
+   "Seongsu Kim",
+   "Minsu Kim"
+  ],
+  "summary": "Metal-organic frameworks (MOFs) are a class of crystalline materials with promising applications in many areas such as carbon capture and drug delivery. In this work, we introduce MOFFlow, the first deep generative model tailored for MOF structure prediction. Existing approaches, including ab initio calculations and even deep generative models, struggle with the complexity of MOF structures due to"
+ },
+ {
+  "q": "dnastore",
+  "id": "2403.15827v1",
+  "title": "Permutation Recovery Problem against Deletion Errors for DNA Data Storage",
+  "date": "2024-03-23",
+  "authors": [
+   "Shubhransh Singhvi",
+   "Charchit Gupta",
+   "Avital Boruchovsky"
+  ],
+  "summary": "Owing to its immense storage density and durability, DNA has emerged as a promising storage medium. However, due to technological constraints, data can only be written onto many short DNA molecules called data blocks that are stored in an unordered way. To handle the unordered nature of DNA data storage systems, a unique address is typically prepended to each data block to form a DNA strand. Howev"
+ },
+ {
+  "q": "dnastore",
+  "id": "1803.03322v1",
+  "title": "A Characterization of the DNA Data Storage Channel",
+  "date": "2018-03-08",
+  "authors": [
+   "Reinhard Heckel",
+   "Gediminas Mikutis",
+   "Robert N. Grass"
+  ],
+  "summary": "Owing to its longevity and enormous information density, DNA, the molecule encoding biological information, has emerged as a promising archival storage medium. However, due to technological constraints, data can only be written onto many short DNA molecules that are stored in an unordered way, and can only be read by sampling from this DNA pool. Moreover, imperfections in writing (synthesis), read"
+ },
+ {
+  "q": "dnastore",
+  "id": "2608.09673v1",
+  "title": "The Unified Evaluation App for DNA Data Storage Codecs",
+  "date": "2026-08-10",
+  "authors": [
+   "Aleksandar Anžel",
+   "Chisom Anyabolu",
+   "Leon Wimbes"
+  ],
+  "summary": "Background: Deoxyribonucleic acid (DNA) data storage is a paradigm with great potential for ultra-dense and durable information preservation. However, the rapid proliferation of coding schemes, or codecs, each with their own design constraints and reporting practices, has led to a fragmented landscape that lacks a standardized comparative assessment.   Methods: We developed an open-source, modular"
+ },
+ {
+  "q": "dnastore",
+  "id": "2306.12708v1",
+  "title": "MQ-Coder inspired arithmetic coder for synthetic DNA data storage",
+  "date": "2023-06-22",
+  "authors": [
+   "Xavier Pic",
+   "Melpomeni Dimopoulou",
+   "Eva Gil San Antonio"
+  ],
+  "summary": "Over the past years, the ever-growing trend on data storage demand, more specifically for \"cold\" data (i.e. rarely accessed), has motivated research for alternative systems of data storage. Because of its biochemical characteristics, synthetic DNA molecules are now considered as serious candidates for this new kind of storage. This paper introduces a novel arithmetic coder for DNA data storage, an"
+ },
+ {
+  "q": "dnastore",
+  "id": "2308.05952v2",
+  "title": "Embracing Errors Is More Efficient Than Avoiding Them Through Constrained Coding for DNA Data Storage",
+  "date": "2023-08-11",
+  "authors": [
+   "Franziska Weindel",
+   "Andreas L. Gimpel",
+   "Robert N. Grass"
+  ],
+  "summary": "DNA is an attractive medium for digital data storage. When data is stored on DNA, errors occur, which makes error-correcting coding techniques critical for reliable DNA data storage. To reduce the errors, a common technique is to include constraints that avoid homopolymers (consecutive repeated nucleotides) and balance the GC content, as sequences with homopolymers and unbalanced GC content are of"
+ },
+ {
+  "q": "dnastore",
+  "id": "2205.05488v1",
+  "title": "DNA data storage, sequencing data-carrying DNA",
+  "date": "2022-05-11",
+  "authors": [
+   "Jasmine Quah",
+   "Omer Sella",
+   "Thomas Heinis"
+  ],
+  "summary": "DNA is a leading candidate as the next archival storage media due to its density, durability and sustainability. To read (and write) data DNA storage exploits technology that has been developed over decades to sequence naturally occurring DNA in the life sciences. To achieve higher accuracy for previously unseen, biological DNA, sequencing relies on extending and training deep machine learning mod"
+ },
+ {
+  "q": "dream",
+  "id": "2608.19128v1",
+  "title": "Beyond Trial Averaging: Anchoring Neural and Visual Representations for Few-Repetition Brain-to-Image Retrieval",
+  "date": "2026-08-19",
+  "authors": [
+   "Zhenyao Cui",
+   "Siyuan Kan",
+   "Dingkun Liu"
+  ],
+  "summary": "Decoding visual information from brain signals probes neural representations and enables neuro-rehabilitation and dream decoding. Recent brain-to-image retrieval approaches have achieved promising performance, typically by averaging many (up to 80) neural trials per image, requiring repeated stimulus presentation that increases latency, cost, and user burden. When only one or a few repetitions are"
+ },
+ {
+  "q": "dream",
+  "id": "2309.16457v3",
+  "title": "SI-SD: Sleep Interpreter through awake-guided cross-subject Semantic Decoding",
+  "date": "2023-09-28",
+  "authors": [
+   "Hui Zheng",
+   "Zhong-Tao Chen",
+   "Hai-Teng Wang"
+  ],
+  "summary": "Understanding semantic content from brain activity during sleep represents a major goal in neuroscience. While studies in rodents have shown spontaneous neural reactivation of memories during sleep, capturing the semantic content of human sleep poses a significant challenge due to the absence of well-annotated sleep datasets and the substantial differences in neural patterns between wakefulness an"
+ },
+ {
+  "q": "elevator",
+  "id": "2412.17198v1",
+  "title": "Exponential Tethers for Accelerated Space Elevator Deployment",
+  "date": "2024-12-23",
+  "authors": [
+   "Blaise Gassend"
+  ],
+  "summary": "An exponential space elevator is a space elevator with a tether cross-section that varies exponentially with altitude. With such an elevator it is possible to reel in tether material at one end of the elevator while reeling out at the other end, without changing the overall taper profile. I show how to use this property to build up or clone a space elevator much more efficiently than with standard"
+ },
+ {
+  "q": "elevator",
+  "id": "2509.16231v1",
+  "title": "Non-Equatorial Uniform-Stress Space Elevators",
+  "date": "2025-09-15",
+  "authors": [
+   "Blaise Gassend"
+  ],
+  "summary": "Non-equatorial space elevators are interesting as they give more freedom for anchor location, avoid the highly occupied geosynchronous orbit and the areas of highest radiation in the Van Allen belts. We review the static equation for a uniform-stress tether, and use it to study the tapering of a uniform-stress tether in a general potential field. We then focus on a rotating coulomb potential and s"
+ },
+ {
+  "q": "elevator",
+  "id": "2609.14853v1",
+  "title": "A Review of ERA5 Equatorial Wind Data and Impact on a Space Elevator",
+  "date": "2026-09-13",
+  "authors": [
+   "Blaise Gassend",
+   "Jonathan Gassend"
+  ],
+  "summary": "This paper uses the ERA5 weather dataset to assess the impact of the wind on an equatorial space elevator. An analytical formulation establishes that the effect of wind on tether inclination and payload capacity can be captured by a single scalar: RMS wind velocity, averaged over air pressure. This formulation clarifies what constitutes excessive wind for a particular elevator and provides a direc"
+ },
+ {
+  "q": "elevator",
+  "id": "1805.06438v1",
+  "title": "A Tether-Assisted Space Launch System for Super-Earths",
+  "date": "2018-05-16",
+  "authors": [
+   "Alex R. Howe"
+  ],
+  "summary": "Super-Earths are one of the most common types of extrasolar planets currently known. Hundreds of these planets have been discovered by the $Kepler$ spacecraft and other surveys, with masses up to 10 $M_\\oplus$ and consequently higher surface gravity than Earth. These planets would have greater escape velocities than Earth, reaching as high as 27 km s$^{-1}$ for the largest super-Earths. To launch "
+ },
+ {
+  "q": "elevator",
+  "id": "1609.00709v1",
+  "title": "Scientific Return of a Lunar Elevator",
+  "date": "2016-08-31",
+  "authors": [
+   "T. M. Eubanks",
+   "C. F. Radley"
+  ],
+  "summary": "The concept of a space elevator dates back to Tsilokovsky, but they are not commonly considered in near-term plans for space exploration, perhaps because a terrestrial elevator would not be possible without considerable improvements in tether material. A Lunar Space Elevator (LSE), however, can be built with current technology using commercially available tether polymers. This paper considers miss"
+ },
+ {
+  "q": "emdrive",
+  "id": "physics/0612132v2",
+  "title": "On the role of superconducting shields for propellantless propulsion",
+  "date": "2006-12-13",
+  "authors": [
+   "L. Bergamin",
+   "D. Izzo",
+   "A. Pinchook"
+  ],
+  "summary": "We critically review our recent claims that it is possible to obtain a propellantless propulsion device similar to electrodynamic tethers by means of a closed wire partially shielded by a superconductor from the outer magnetic field. We find that such a device is not possible as it violates basic physical laws. Furthermore, we show what is the correct local picture for the currents distribution wi"
+ },
+ {
+  "q": "emdrive",
+  "id": "2601.10769v1",
+  "title": "Nonlinear Scalar Interactions in the EMDrive: Petiau's Elliptic-Function Approach",
+  "date": "2026-01-15",
+  "authors": [
+   "Mario J. Pinheiro"
+  ],
+  "summary": "The EMDrive, a controversial electromagnetic propulsion concept, challenges momentum conservation in standard Maxwell electrodynamics. We propose a beyond-Maxwell framework by coupling the electromagnetic field to a light scalar field, inspired by axion-like particle models and effective field theory. Using Guy Petiau's 1958 elliptic-function solutions for nonlinear wave equations, we construct ex"
+ },
+ {
+  "q": "emdrive",
+  "id": "1604.03449v1",
+  "title": "Testing quantised inertia on the emdrive",
+  "date": "2016-04-06",
+  "authors": [
+   "M. E. McCulloch"
+  ],
+  "summary": "It has been shown that truncated cone-shaped cavities with microwaves resonating within them move slightly towards their narrow ends (the emdrive). Standard physics has no explanation for this and an error has not yet been found. It is shown here that this effect can be predicted by assuming that the inertial mass of the photons in the cavity is caused by Unruh radiation, whose wavelengths must fi"
+ },
+ {
+  "q": "emdrive",
+  "id": "2510.21743v1",
+  "title": "Propellantless space exploration",
+  "date": "2025-10-07",
+  "authors": [
+   "Roman Ya. Kezerashvili"
+  ],
+  "summary": "Propellantless propulsion refers to methods of space travel that do not require onboard propellant, instead relying on natural forces or external energy sources. In this paper, I review different approaches that have been explored and discuss the pros and cons of each method for interstellar space exploration.   Gravitational assist uses planetary gravity to change a spacecraft's speed and directi"
+ },
+ {
+  "q": "emdrive",
+  "id": "1202.4602v2",
+  "title": "X-Ray Propulsor: Physical Principle for an Electromagnetic Propellantless Propulsion System",
+  "date": "2012-02-21",
+  "authors": [
+   "Alexandre A. Martins"
+  ],
+  "summary": "In this work we are going to develop a physical model that explains how propulsion may be developed in a vacuum by the collision of electrons with an anode. Instead of using principles related to the conservation of only the mechanical momentum to achieve propulsion, like all the current propulsion systems do, the present system achieves propulsion by using principles related to the conservation o"
+ },
+ {
+  "q": "emdrive",
+  "id": "physics/0110042v1",
+  "title": "Gravitational Radiation and its Application to Space Travel, principles and required scientific developments",
+  "date": "2001-10-15",
+  "authors": [
+   "Giorgio Fontana"
+  ],
+  "summary": "Gravitational radiation is an elusive form of radiation predicted by general relativity, it is the subject of intense theoretical and experimental research at the limit of the sensitivity of today's instrumentation. In spite of the fact that no direct evidence of this radiation now exist, observed astrophysical phenomena have given convincing proofs of its existence. Theories predict that gravitat"
+ },
+ {
+  "q": "etextile",
+  "id": "0710.4728v1",
+  "title": "Energy-Aware Routing for E-Textile Applications",
+  "date": "2007-10-25",
+  "authors": [
+   "Jung-Chun Kao",
+   "Radu Marculescu"
+  ],
+  "summary": "As the scale of electronic devices shrinks, \"electronic textiles\" (e-textiles) will make possible a wide variety of novel applications which are currently unfeasible. Due to the wearability concerns, low-power techniques are critical for e-textile applications. In this paper, we address the issue of the energy-aware routing for e-textile platforms and propose an efficient algorithm to solve it. Th"
+ },
+ {
+  "q": "etextile",
+  "id": "2103.16443v1",
+  "title": "On-body Edge Computing through E-Textile Programmable Logic Array",
+  "date": "2021-03-30",
+  "authors": [
+   "Frances Cleary",
+   "David Henshall",
+   "Sasitharan Balasubramaniam"
+  ],
+  "summary": "E-textiles has received tremendous attention in recent years due to the capability of integrating sensors into a garment to provide high precision sensing of the human body. Besides sensing, a number of solutions for e-textile garments have also integrated wireless interfaces allowing these sensing data to be transmitted and also sensors that allow users to provide instructions through touching. W"
+ },
+ {
+  "q": "etextile",
+  "id": "2407.07954v1",
+  "title": "3D E-textile for Exercise Physiology and Clinical Maternal Health Monitoring",
+  "date": "2024-07-10",
+  "authors": [
+   "Junyi Zhao",
+   "Chansoo Kim",
+   "Weilun Li"
+  ],
+  "summary": "Electronic textiles (E-textiles) offer great wearing comfort and unobtrusiveness, thus holding potential for next-generation health monitoring wearables. However, the practical implementation is hampered by challenges associated with poor signal quality, substantial motion artifacts, durability for long-term usage, and non-ideal user experience. Here, we report a cost-effective E-textile system th"
+ },
+ {
+  "q": "etextile",
+  "id": "2606.22800v1",
+  "title": "Machine-knittable, Magnetically-Plug-n-Play E-Textile Prototyping",
+  "date": "2026-06-22",
+  "authors": [
+   "Yifan Li",
+   "Ryo Takahashi",
+   "Wakako Yukita"
+  ],
+  "summary": "Electronic textiles (e-textiles) integrated with wearable sensors are essential for daily motion monitoring and long-term physiological sensing. For example, capturing optimal kinematic or bio-signals requires aligning sensors with specific anatomical parts, which vary significantly across individuals and application scenarios. This necessity for personalization makes e-textile prototyping inheren"
+ },
+ {
+  "q": "etextile",
+  "id": "2609.28485v1",
+  "title": "Make it SewSimple: Navigating UK Curriculum and Classroom Practice in Secondary Computing Education with E-textiles",
+  "date": "2026-08-09",
+  "authors": [
+   "Yifan Feng",
+   "Hanlin Zhang",
+   "Yishan Du"
+  ],
+  "summary": "This paper explores the potential of integrating e-textiles as part of the approach to delivering computing in UK secondary schools. As one of the few UK-based exploratory studies of teachers experiences, it investigates how e-textile platforms such as the SewSimple maker kit and the BBC micro:bit can be incorporated into Key Stage 3 computing education (ages 11-14), taking into account both Engli"
+ },
+ {
+  "q": "etextile",
+  "id": "2404.12627v1",
+  "title": "A Soft e-Textile Sensor for Enhanced Deep Learning-based Shape Sensing of Soft Continuum Robots",
+  "date": "2024-04-19",
+  "authors": [
+   "Eric Vincent Galeta",
+   "Ayman A. Nada",
+   "Sabah M. Ahmed"
+  ],
+  "summary": "The safety and accuracy of robotic navigation hold paramount importance, especially in the realm of soft continuum robotics, where the limitations of traditional rigid sensors become evident. Encoders, piezoresistive, and potentiometer sensors often fail to integrate well with the flexible nature of these robots, adding unwanted bulk and rigidity. To overcome these hurdles, our study presents a ne"
+ },
+ {
+  "q": "exoskel",
+  "id": "1907.02562v1",
+  "title": "Spine-Inspired Continuum Soft Exoskeleton for Stoop Lifting Assistance",
+  "date": "2019-07-04",
+  "authors": [
+   "Xiaolong Yang",
+   "Tzu-Hao Huang",
+   "Hang Hu"
+  ],
+  "summary": "Back injuries are the most prevalent work-related musculoskeletal disorders and represent a major cause of disability. Although innovations in wearable robots aim to alleviate this hazard, the majority of existing exoskeletons are obtrusive because the rigid linkage design limits natural movement, thus causing ergonomic risk. Moreover, these existing systems are typically only suitable for one typ"
+ },
+ {
+  "q": "exoskel",
+  "id": "2504.03379v1",
+  "title": "MultiClear: Multimodal Soft Exoskeleton Glove for Transparent Object Grasping Assistance",
+  "date": "2025-04-04",
+  "authors": [
+   "Chen Hu",
+   "Timothy Neate",
+   "Shan Luo"
+  ],
+  "summary": "Grasping is a fundamental skill for interacting with the environment. However, this ability can be difficult for some (e.g. due to disability). Wearable robotic solutions can enhance or restore hand function, and recent advances have leveraged computer vision to improve grasping capabilities. However, grasping transparent objects remains challenging due to their poor visual contrast and ambiguous "
+ },
+ {
+  "q": "exoskel",
+  "id": "2606.04776v1",
+  "title": "SoftPINCH: EMG-Driven Soft Exoskeleton Assistance for Finger Flexion and Grasping",
+  "date": "2026-06-03",
+  "authors": [
+   "Nicklas Nikolaj Grønvall",
+   "Magnus Malthe Sigsgaard Nielsen",
+   "Xiaofeng Xiong"
+  ],
+  "summary": "Surface electromyography (sEMG) provides a non-invasive interface for detecting hand-movement intention and controlling wearable assistive devices. However, reliable EMG-driven hand assistance remains challenging because EMG signals are affected by noise, motion artifacts, electrode placement, muscle fatigue, and inter-subject variability. At the same time, many hand exoskeletons remain mechanical"
+ },
+ {
+  "q": "exoskel",
+  "id": "2404.03363v2",
+  "title": "Space Physiology and Technology: Musculoskeletal Adaptations, Countermeasures, and Opportunities for Wearable Systems",
+  "date": "2024-04-04",
+  "authors": [
+   "Shamas Ul Ebad Khan",
+   "Rejin John Varghese",
+   "Panagiotis Kassanos"
+  ],
+  "summary": "Space poses significant challenges for humans, leading to physiological adaptations in response to an environment vastly different from Earth. A comprehensive understanding of these physiological adaptations is needed to devise effective countermeasures to support human life in space. This narrative review first focuses on the impact of the environment in space on the musculoskeletal system. It hi"
+ },
+ {
+  "q": "exoskel",
+  "id": "1902.07106v2",
+  "title": "Design and Control of a Quasi-Direct Drive Soft Exoskeleton for Knee Injury Prevention during Squatting",
+  "date": "2019-02-19",
+  "authors": [
+   "Shuangyue Yu",
+   "Tzu-Hao Huang",
+   "Dianpeng Wang"
+  ],
+  "summary": "This paper presents design and control innovations of wearable robots that tackle two barriers to widespread adoption of powered exoskeletons, namely restriction of human movement and versatile control of wearable co-robot systems. First, the proposed quasi-direct drive actuation comprising of our customized high torque density motors and low ratio transmission mechanism significantly reduces the "
+ },
+ {
+  "q": "exoskel",
+  "id": "2509.04324v1",
+  "title": "OVGrasp: Open-Vocabulary Grasping Assistance via Multimodal Intent Detection",
+  "date": "2025-09-04",
+  "authors": [
+   "Chen Hu",
+   "Shan Luo",
+   "Letizia Gionfrida"
+  ],
+  "summary": "Grasping assistance is essential for restoring autonomy in individuals with motor impairments, particularly in unstructured environments where object categories and user intentions are diverse and unpredictable. We present OVGrasp, a hierarchical control framework for soft exoskeleton-based grasp assistance that integrates RGB-D vision, open-vocabulary prompts, and voice commands to enable robust "
+ },
+ {
+  "q": "holo",
+  "id": "1903.09946v1",
+  "title": "Multichannel vectorial holographic display and encryption",
+  "date": "2019-03-24",
+  "authors": [
+   "Ruizhe Zhao",
+   "Basudeb Sain",
+   "Qunshuo Wei"
+  ],
+  "summary": "Since its invention, holography has emerged as a powerful tool to fully reconstruct the wavefronts of light including all the fundamental properties (amplitude, phase, polarization, wave vector, and frequency). For exploring the full capability for information storage/display and enhancing the encryption security of metasurface holograms, smart multiplexing techniques together with suitable metasu"
+ },
+ {
+  "q": "holo",
+  "id": "2309.14668v1",
+  "title": "Depolarized Holography with Polarization-multiplexing Metasurface",
+  "date": "2023-09-26",
+  "authors": [
+   "Seung-Woo Nam",
+   "Youngjin Kim",
+   "Dongyeon Kim"
+  ],
+  "summary": "The evolution of computer-generated holography (CGH) algorithms has prompted significant improvements in the performances of holographic displays. Nonetheless, they start to encounter a limited degree of freedom in CGH optimization and physical constraints stemming from the coherent nature of holograms. To surpass the physical limitations, we consider polarization as a new degree of freedom by uti"
+ },
+ {
+  "q": "holo",
+  "id": "1611.09537v1",
+  "title": "Flexible Metasurface Holograms",
+  "date": "2016-11-29",
+  "authors": [
+   "James Burch",
+   "Dandan Wen",
+   "Xianzhong Chen"
+  ],
+  "summary": "Metasurface holograms are typically fabricated on rigid substrates. Here we experimentally demonstrate broadband, flexible, conformable, helicity multiplexed metasurface holograms operating in the visible range, offering increased potential for real life out-of-the-lab applications. Two symmetrically distributed holographic images are obtained when circularly polarized light impinges on the reflec"
+ },
+ {
+  "q": "holo",
+  "id": "1909.10030v1",
+  "title": "Trichromatic and Tri-polarization-channel Holography with Non-interleaved Dielectric Metasurface",
+  "date": "2019-09-22",
+  "authors": [
+   "Hu Yueqiang",
+   "Li Ling",
+   "Meng Min"
+  ],
+  "summary": "Metasurfaces hold great potentials for advanced holographic display with extraordinary information capacity and pixel sizes in an ultrathin flat profile. Dual-polarization channel to encode two independent phase profiles or spatially multiplexed meta-holography by interleaved metasurfaces are captivated popular solutions to projecting multiplexed and vectorial images. However, the intrinsic limit "
+ },
+ {
+  "q": "holo",
+  "id": "1901.06408v1",
+  "title": "Metasurfaces for near-eye augmented reality",
+  "date": "2019-01-18",
+  "authors": [
+   "Shoufeng Lan",
+   "Xueyue Zhang",
+   "Mohammad Taghinejad"
+  ],
+  "summary": "Augmented reality (AR) has the potential to revolutionize the way in which information is presented by overlaying virtual information onto a person's direct view of their real-time surroundings. By placing the display on the surface of the eye, a contact lens display (CLD) provides a versatile solution for compact AR. However, an unaided human eye cannot visualize patterns on the CLD simply becaus"
+ },
+ {
+  "q": "holo",
+  "id": "2012.13486v1",
+  "title": "Electrically Tunable Multifunctional All-Dielectric Metasurfaces Integrated with Liquid Crystals in the Visible",
+  "date": "2020-12-25",
+  "authors": [
+   "Yueqiang Hu",
+   "Xiangnian Ou",
+   "Tibin Zeng"
+  ],
+  "summary": "As two-dimensional metamaterials, metasurfaces open up new avenues for designing static planar optics. However, the dynamic modulation of metasurfaces in the optical band is required for practical applications. The existing dynamic devices rarely utilized the polarization manipulation capability of metasurfaces. Here, we demonstrate an electrically tunable multifunctional metasurface in the visibl"
+ },
+ {
+  "q": "hts22",
+  "id": "2604.00793v1",
+  "title": "Laser-generated CuPdAgPtAu High-Entropy Alloy Nanoparticles -- Thermal Segregation Threshold and Elemental Segregation",
+  "date": "2026-04-01",
+  "authors": [
+   "Felix Pohl",
+   "Robert Stuckert",
+   "Florent Calvo"
+  ],
+  "summary": "High-entropy alloy nanoparticles synthesized via laser ablation in liquid are promising for catalysis due to their ability to form simple solid solutions despite chemical complexity. In this study, noble metal HEA NPs (CuPdAgPtAu) are produced from equimolar and Cu- or Ag-enriched bulk targets. Advanced electron microscopy, XRD, and atomistic simulations are used for structural and compositional a"
+ },
+ {
+  "q": "hts22",
+  "id": "2509.13479v1",
+  "title": "From Data to Alloys Predicting and Screening High Entropy Alloys for High Hardness Using Machine Learning",
+  "date": "2025-09-16",
+  "authors": [
+   "Rahul Bouri",
+   "Manikantan R. Nair",
+   "Tribeni Roy"
+  ],
+  "summary": "The growing need for structural materials with strength, mechanical stability, and durability in extreme environments is driving the development of high entropy alloys. These are materials with near equiatomic mixing of five or more principal elements, and such compositional complexity often leads to improvements in mechanical properties and high thermal stability, etc. Thus, high-entropy alloys h"
+ },
+ {
+  "q": "hts22",
+  "id": "2104.07827v2",
+  "title": "Optimization of High Entropy Alloy Catalyst for Ammonia Decomposition and Ammonia Synthesis",
+  "date": "2021-04-15",
+  "authors": [
+   "Wissam A. Saidi",
+   "Waseem Shadid",
+   "Götz Veser"
+  ],
+  "summary": "The successful synthesis of high entropy alloy (HEA) nanoparticles, a long-sought goal in materials science, opens a new frontier in materials science with applications across catalysis, electronics, structural alloys, and energetic materials. Recently, a Co25Mo45Fe10Ni10Cu10 HEA made of earth-abundant elements was shown to have a high catalytic activity for ammonia decomposition, which rivals tha"
+ },
+ {
+  "q": "hts22",
+  "id": "2310.07604v2",
+  "title": "Surface segregation in high-entropy alloys from alchemical machine learning",
+  "date": "2023-10-11",
+  "authors": [
+   "Arslan Mazitov",
+   "Maximilian A. Springer",
+   "Nataliya Lopanitsyna"
+  ],
+  "summary": "High-entropy alloys (HEAs), containing several metallic elements in near-equimolar proportions, have long been of interest for their unique mechanical properties. More recently, they have emerged as a promising platform for the development of novel heterogeneous catalysts, because of the large design space, and the synergistic effects between their components. In this work we use a machine-learnin"
+ },
+ {
+  "q": "hts22",
+  "id": "2503.03218v1",
+  "title": "Large Spin Hall Effect in High-Entropy Alloy/CoFeB Bilayers",
+  "date": "2025-03-05",
+  "authors": [
+   "Takahide Kubota",
+   "Kazuya Z. Suzuki",
+   "Yoshiyuki Hirayama"
+  ],
+  "summary": "High-entropy alloys (HEAs) exhibit various physical properties, such as high microhardness for structured materials and high efficiency for catalysis. These features are recognized as a cocktail effect of five or more elements that stabilize a single-phase solid solution due to a high configurational entropy. HEAs may also exhibit short-range orders and microdistorshons, which cause the local symm"
+ },
+ {
+  "q": "hts22",
+  "id": "2504.11325v1",
+  "title": "Crystal nucleation and growth in high-entropy alloys revealed by atomic electron tomography",
+  "date": "2025-04-15",
+  "authors": [
+   "Yakun Yuan",
+   "Saman Moniri",
+   "Yao Yang"
+  ],
+  "summary": "High-entropy alloys (HEAs) balance mixing entropy and intermetallic phase formation enthalpy, creating a vast compositional space for structural and functional materials (1-6). They exhibit exceptional strength-ductility trade-offs in metallurgy (4-10) and near-continuum adsorbate binding energies in catalysis (11-16). A deep understanding of crystal nucleation and growth in HEAs is essential for "
+ },
+ {
+  "q": "lenr",
+  "id": "2003.06144v1",
+  "title": "TDHF and a macroscopic aspect of low-energy nuclear reactions",
+  "date": "2020-03-13",
+  "authors": [
+   "Kouhei Washiyama",
+   "Kazuyuki Sekizawa"
+  ],
+  "summary": "Time-dependent Hartree--Fock (TDHF) method has been applied to various low-energy nuclear reactions, such as fusion, fission, and multinucleon transfer reactions. In this Mini Review, we summarize recent attempts to bridge a microscopic nuclear reaction theory, TDHF, and a macroscopic aspect of nuclear reactions through nucleus--nucleus potentials and energy dissipation from macroscopic degrees of"
+ },
+ {
+  "q": "lenr",
+  "id": "1611.10261v2",
+  "title": "Novel Role of Superfluidity in Low-Energy Nuclear Reactions",
+  "date": "2016-11-30",
+  "authors": [
+   "Piotr Magierski",
+   "Kazuyuki Sekizawa",
+   "Gabriel Wlazłowski"
+  ],
+  "summary": "We demonstrate, within symmetry unrestricted time-dependent density functional theory, the existence of new effects in low-energy nuclear reactions which originate from superfluidity. The dynamics of the pairing field induces solitonic excitations in the colliding nuclear systems, leading to qualitative changes in the reaction dynamics. The solitonic excitation prevents collective energy dissipati"
+ },
+ {
+  "q": "lenr",
+  "id": "1907.05211v2",
+  "title": "On low-energy nuclear reactions",
+  "date": "2019-06-21",
+  "authors": [
+   "Péter Kálmán",
+   "Tamás Keszthelyi"
+  ],
+  "summary": "Based on our recent theoretical findings (Phys. Rev. C 99, 054620 (2019)) it is shown that proton and deuteron capture reactions of extremely low energy may have accountable rate in the case of all elements of the periodic table. Certain numerical results of rates of nuclear reactions of two final fragments of extremely low energy are also given. New way of thinking about low-energy nuclear reacti"
+ },
+ {
+  "q": "lenr",
+  "id": "2406.11550v1",
+  "title": "Low Energy Nuclear Reactions Through Weak Interactions",
+  "date": "2024-06-17",
+  "authors": [
+   "K. Ramkumar",
+   "Harishyam Kumar",
+   "Pankaj Jain"
+  ],
+  "summary": "We consider the possibility that low-energy nuclear reactions (LENR) arise due to the conversion of proton to neutron through weak interactions. The resulting neutron forms a short-lived virtual state, which then gets captured by another nucleus through photon emission. This whole process happens under the framework of second-order perturbation theory. We find that the rate of this process is negl"
+ },
+ {
+  "q": "lenr",
+  "id": "0810.0159v1",
+  "title": "A Primer for Electro-Weak Induced Low Energy Nuclear Reactions",
+  "date": "2008-10-01",
+  "authors": [
+   "Y. N. Srivastava",
+   "A. Widom",
+   "L. Larsen"
+  ],
+  "summary": "In a series of papers, cited in the main body of the paper below, detailed calculations have been presented which show that electromagnetic and weak interactions can induce low energy nuclear reactions to occur with observable rates for a variety of processes. A common element in all these applications is that the electromagnetic energy stored in many relatively slow moving electrons can -under ap"
+ },
+ {
+  "q": "lenr",
+  "id": "cond-mat/0603213v3",
+  "title": "On the Laser Stimulation of Low-Energy Nuclear Reactions in Deuterated Palladium",
+  "date": "2006-03-08",
+  "authors": [
+   "K. P. Sinha",
+   "A. Meulenberg"
+  ],
+  "summary": "Models to account for the observed experimental results for low-energy nuclear reactions in palladium-deuteride systems are presented along with calculated results. The crucial idea is a mechanism of improved probability for the needed penetration of the Coulomb barrier for a D-D reaction. This facilitation occurs, in general, with the formation of D^- ions at special frequency modes (e.g. via pho"
+ },
+ {
+  "q": "magneto",
+  "id": "0807.2474v1",
+  "title": "Strong diamagnetic response of metamaterials",
+  "date": "2008-07-15",
+  "authors": [
+   "E. N. Economou",
+   "Th. Koschny",
+   "C. M. Soukoulis"
+  ],
+  "summary": "We demonstrate that there is a strong diamagnetic response of metamaterials, consisting of open or closed split ring resonators (SRRs). Detailed numerical work shows that for densely packed SRRs the magnetic permeability, $μ(ω)$, does not approach unity, as expected for frequencies lower and higher than the resonance frequency, $ω_0$. Below $ω_0$, $μ(ω)$ gives values ranging from 0.9 to 0.6 depend"
+ },
+ {
+  "q": "magneto",
+  "id": "1406.5643v1",
+  "title": "On the applicability of non-resonant artificial diamagnetics",
+  "date": "2014-06-21",
+  "authors": [
+   "L. Jelinek",
+   "M. Lapine",
+   "R. C. McPhedran"
+  ],
+  "summary": "Artificial diamagnetics are prominent for achieving extraordinarily strong diamagnetism in a wide frequency range. However, as far as the magnetic fields outside the artificial medium are concerned, bulk conductors show a very similar pattern. The question arises whether the complicated internal structure of artificial diamagnetics can, to this end, be replaced by a simpler object. We analyse the "
+ },
+ {
+  "q": "magneto",
+  "id": "2211.08764v1",
+  "title": "Controlling the motional quality factor of a diamagnetically levitated graphite plate",
+  "date": "2022-11-16",
+  "authors": [
+   "Priscila Romagnoli",
+   "Ruvi Lecamwasam",
+   "Shilu Tian"
+  ],
+  "summary": "Researchers seek methods to levitate matter for a wide variety of purposes, ranging from exploring fundamental problems in science, through to developing new sensors and mechanical actuators. Many levitation techniques require active driving and most can only be applied to objects smaller than a few micrometers. Diamagnetic levitation has the strong advantage of being the only form of levitation w"
+ },
+ {
+  "q": "magneto",
+  "id": "2604.22803v1",
+  "title": "A Diamagnetic, Light-Driven Tesla Engine Based on a Mechanically Displaced, Magnetically Levitated Graphene Disk",
+  "date": "2026-04-13",
+  "authors": [
+   "Tian Tong",
+   "Feng Lin",
+   "Wei Zhang"
+  ],
+  "summary": "Ferromagnetic materials are widely used in Tesla thermomagnetic engines, whereas diamagnetic counterparts have remained unexplored. Here, we demonstrate the first diamagnetic Tesla engine by exploiting the strong diamagnetism of graphene. A graphene disk, fabricated by stacking graphene sheets, serves as the engine wheel. We first show that the conventional Tesla engine design using a permanent ma"
+ },
+ {
+  "q": "magneto",
+  "id": "2308.10503v1",
+  "title": "Shape deformation of magnetically levitated fluid droplets",
+  "date": "2023-08-21",
+  "authors": [
+   "I. Sanskriti",
+   "D. Kim",
+   "J. Twamley"
+  ],
+  "summary": "Diamagnetic levitation can provide a completely passive method to support materials against the pull of gravity, and researchers have levitated both solids and fluids. Such levitation can be assisted by increasing the magnetic susceptibility contrast by using a surrounding paramagnetic medium and through buoyancy forces, known as magneto-Archimedean levitation. The magneto-Archimedean levitation o"
+ },
+ {
+  "q": "magneto",
+  "id": "2312.01660v1",
+  "title": "Feedback Cooling of an Insulating High-Q Diamagnetically Levitated Plate",
+  "date": "2023-12-04",
+  "authors": [
+   "S. Tian",
+   "K. Jadeja",
+   "D. Kim"
+  ],
+  "summary": "Levitated systems in vacuum have many potential applications ranging from new types of inertial and magnetic sensors through to fundamental issues in quantum science, the generation of massive Schrodinger cats, and the connections between gravity and quantum physics. In this work, we demonstrate the passive, diamagnetic levitation of a centimeter-sized massive oscillator which is fabricated using "
+ },
+ {
+  "q": "memcon",
+  "id": "2408.04681v1",
+  "title": "Conversational AI Powered by Large Language Models Amplifies False Memories in Witness Interviews",
+  "date": "2024-08-08",
+  "authors": [
+   "Samantha Chan",
+   "Pat Pataranutaporn",
+   "Aditya Suri"
+  ],
+  "summary": "This study examines the impact of AI on human false memories -- recollections of events that did not occur or deviate from actual occurrences. It explores false memory induction through suggestive questioning in Human-AI interactions, simulating crime witness interviews. Four conditions were tested: control, survey-based, pre-scripted chatbot, and generative chatbot using a large language model (L"
+ },
+ {
+  "q": "memcon",
+  "id": "2202.04479v1",
+  "title": "False Memory Formation in Continual Learners Through Imperceptible Backdoor Trigger",
+  "date": "2022-02-09",
+  "authors": [
+   "Muhammad Umer",
+   "Robi Polikar"
+  ],
+  "summary": "In this brief, we show that sequentially learning new information presented to a continual (incremental) learning model introduces new security risks: an intelligent adversary can introduce small amount of misinformation to the model during training to cause deliberate forgetting of a specific task or class at test time, thus creating \"false memory\" about that task. We demonstrate such an adversar"
+ },
+ {
+  "q": "memcon",
+  "id": "2002.07111v1",
+  "title": "Targeted Forgetting and False Memory Formation in Continual Learners through Adversarial Backdoor Attacks",
+  "date": "2020-02-17",
+  "authors": [
+   "Muhammad Umer",
+   "Glenn Dawson",
+   "Robi Polikar"
+  ],
+  "summary": "Artificial neural networks are well-known to be susceptible to catastrophic forgetting when continually learning from sequences of tasks. Various continual (or \"incremental\") learning approaches have been proposed to avoid catastrophic forgetting, but they are typically adversary agnostic, i.e., they do not consider the possibility of a malicious attack. In this effort, we explore the vulnerabilit"
+ },
+ {
+  "q": "memcon",
+  "id": "2409.08895v1",
+  "title": "Synthetic Human Memories: AI-Edited Images and Videos Can Implant False Memories and Distort Recollection",
+  "date": "2024-09-13",
+  "authors": [
+   "Pat Pataranutaporn",
+   "Chayapatr Archiwaranguprok",
+   "Samantha W. T. Chan"
+  ],
+  "summary": "AI is increasingly used to enhance images and videos, both intentionally and unintentionally. As AI editing tools become more integrated into smartphones, users can modify or animate photos into realistic videos. This study examines the impact of AI-altered visuals on false memories--recollections of events that didn't occur or deviate from reality. In a pre-registered study, 200 participants were"
+ },
+ {
+  "q": "memcon",
+  "id": "2604.02280v1",
+  "title": "Novel Memory Forgetting Techniques for Autonomous AI Agents: Balancing Relevance and Efficiency",
+  "date": "2026-04-02",
+  "authors": [
+   "Payal Fofadiya",
+   "Sunil Tiwari"
+  ],
+  "summary": "Long-horizon conversational agents require persistent memory for coherent reasoning, yet uncontrolled accumulation causes temporal decay and false memory propagation. Benchmarks such as LOCOMO and LOCCO report performance degradation from 0.455 to 0.05 across stages, while MultiWOZ shows 78.2% accuracy with 6.8% false memory rate under persistent retention. This work introduces an adaptive budgete"
+ },
+ {
+  "q": "memcon",
+  "id": "2603.29194v1",
+  "title": "Multi-Layered Memory Architectures for LLM Agents: An Experimental Evaluation of Long-Term Context Retention",
+  "date": "2026-03-31",
+  "authors": [
+   "Sunil Tiwari",
+   "Payal Fofadiya"
+  ],
+  "summary": "Long-horizon dialogue systems suffer from semanticdrift and unstable memory retention across extended sessions. This paper presents a Multi-Layer Memory Framework that decomposes dialogue history into working, episodic, and semantic layers with adaptive retrieval gating and retention regularization. The architecture controls cross-session drift while maintaining bounded context growth and computat"
+ },
+ {
+  "q": "metamtl",
+  "id": "1208.3174v2",
+  "title": "Invisibility cloak inside a Luneburg lens: Experimental demonstration of birefrigent transformation optics devices",
+  "date": "2012-08-15",
+  "authors": [
+   "V. N. Smolyaninova",
+   "H. K. Ermer",
+   "A. Piazza"
+  ],
+  "summary": "Transformation optics (TO) has recently become a useful methodology in the design of unusual optical devices, such as novel metamaterial lenses and invisibility cloaks. Very recently Danner et al. [1] have suggested theoretical extension of this approach to birefrigent TO devices, which perform useful and different functions for mutually orthogonal polarization states of light. Theoretical designs"
+ },
+ {
+  "q": "metamtl",
+  "id": "1412.3294v2",
+  "title": "Electrostatic Field Invisibility Cloak",
+  "date": "2014-12-10",
+  "authors": [
+   "Chuwen Lan",
+   "Yuping Yang",
+   "Zhaoxin Geng"
+  ],
+  "summary": "Invisibility cloak is drawing much attention due to its special camouflage when exposed to physical field varing from wave (electromagnetic field, acoustic field, elastic wave, etc.) to scalar field (thermal field, static magnetic field, dc electric field and mass diffusion). Here, an electrostatic field invisibility cloak has been theoretically investigated, and experimentally demonstrated for th"
+ },
+ {
+  "q": "metamtl",
+  "id": "1602.06812v1",
+  "title": "Graphene, plasmons and transformation optics",
+  "date": "2016-02-22",
+  "authors": [
+   "Paloma A. Huidobro",
+   "Matthias Kraft",
+   "Ren Kun"
+  ],
+  "summary": "Here we study subwavelength gratings for coupling into graphene plasmons by means of an an- alytical model based on transformation optics that is not limited to very shallow gratings. We consider gratings that consist of a periodic modulation of the charge density in the graphene sheet, and gratings formed by this conductivity modulation together with a dielectric grating placed in close vicinity "
+ },
+ {
+  "q": "metamtl",
+  "id": "1006.1168v1",
+  "title": "Two dimensional invisibility cloaking via transformation optics",
+  "date": "2010-06-07",
+  "authors": [
+   "Hongyu Liu",
+   "Ting Zhou"
+  ],
+  "summary": "We investigate two-dimensional invisibility cloaking via transformation optics approach. The cloaking media possess much more singular parameters than those having been considered for three-dimensional cloaking in literature. Finite energy solutions for these cloaking devices are studied in appropriate weighted Sobolev spaces. We derive some crucial properties of the singularly weighted Sobolev sp"
+ },
+ {
+  "q": "metamtl",
+  "id": "1006.3118v2",
+  "title": "A Completely Covariant Approach to Transformation Optics",
+  "date": "2010-06-16",
+  "authors": [
+   "Robert T. Thompson",
+   "Steven A. Cummer",
+   "Jörg Frauendiener"
+  ],
+  "summary": "We show that the Plebanski based approach to transformation optics overlooks some subtleties in the electrodynamics of moving dielectrics that restricts its applicability to a certain class of transformations. An alternative, completely covariant, approach is developed that is more generally applicable and provides a clearer picture of transformation optics."
+ },
+ {
+  "q": "metamtl",
+  "id": "1606.07787v1",
+  "title": "Invisibility Cloak Printed on a Photonic Chip",
+  "date": "2016-06-22",
+  "authors": [
+   "Zhen Feng",
+   "Bing-Hong Wu",
+   "Yu-Xi Zhao"
+  ],
+  "summary": "Invisibility cloak capable of hiding an object can be achieved by properly manipulating electromagnetic field. Such a remarkable ability has been shown in transformation and ray optics. Alternatively, it may be realistic to create a spatial cloak by means of confining electromagnetic field in three-dimensional arrayed waveguides and introducing appropriate collective curvature surrounding an objec"
+ },
+ {
+  "q": "molasm",
+  "id": "2104.15016v1",
+  "title": "DNA origami",
+  "date": "2021-04-30",
+  "authors": [
+   "Swarup Dey",
+   "Chunhai Fan",
+   "Kurt V. Gothelf"
+  ],
+  "summary": "Biological materials are self-assembled with near-atomic precision in living cells, whereas synthetic 3D structures generally lack such precision and controllability. Recently, DNA nanotechnology, especially DNA origami technology, has been useful in the bottom-up fabrication of well-defined nanostructures ranging from tens of nanometres to sub-micrometres. In this Primer, we summarize the methodo"
+ },
+ {
+  "q": "navier",
+  "id": "1003.4046v3",
+  "title": "Exploring the beta distribution in variable-density turbulent mixing",
+  "date": "2010-03-22",
+  "authors": [
+   "J. Bakosi",
+   "J. R. Ristorcelli"
+  ],
+  "summary": "In assumed probability density function (pdf) methods of turbulent combustion, the shape of the scalar pdf is assumed a priori and the pdf is parametrized by its moments for which model equations are solved. In non-premixed flows the beta distribution has been a convenient choice to represent the mixture fraction in binary mixtures or a progress variable in combustion. Here the beta-pdf approach i"
+ },
+ {
+  "q": "navier",
+  "id": "2510.06620v1",
+  "title": "Ultra-chaotic property of Navier-Stokes turbulence",
+  "date": "2025-10-08",
+  "authors": [
+   "Shijie Qin",
+   "Kun Xu",
+   "Shijun Liao"
+  ],
+  "summary": "A chaotic system is called ultra-chaos when its statistics have sensitivity dependence on initial condition and/or other small disturbances. In this paper, using two-dimensional turbulent Kolmogorov flow as an example, we illustrate that tiny variation of initial condition of Navier-Stokes equations can lead to huge differences not only in spatiotemporal trajectory but also in flow symmetry and it"
+ },
+ {
+  "q": "navier",
+  "id": "1805.12053v10",
+  "title": "Singularity of Navier-Stokes Equations Leading to Turbulence",
+  "date": "2018-05-30",
+  "authors": [
+   "Hua-Shu Dou"
+  ],
+  "summary": "Singularity of Navier-Stokes equations is uncovered for the first time which explains the mechanism of transition of a smooth laminar flow to turbulence. It is found that when an inflection point is formed on the velocity profile in pressure driven flows, velocity discontinuity occurs at this point. Meanwhile, pressure pulse is produced at the discontinuity due to conservation of the total mechani"
+ },
+ {
+  "q": "navier",
+  "id": "physics/0702115v1",
+  "title": "Lagrangian Statistics of Navier-Stokes- and MHD-Turbulence",
+  "date": "2007-02-14",
+  "authors": [
+   "H. Homann",
+   "R. Grauer",
+   "A. Busse"
+  ],
+  "summary": "We report on a comparison of high-resolution numerical simulations of Lagrangian particles advected by incompressible turbulent hydro- and magnetohydrodynamic (MHD) flows. Numerical simulations were performed with up to $1024^3$ collocation points and 10 million particles in the Navier-Stokes case and $512^3$ collocation points and 1 million particles in the MHD case. In the hydrodynamics case our"
+ },
+ {
+  "q": "navier",
+  "id": "1806.10430v2",
+  "title": "Deterministics descriptions of the turbulence in the Navier-Stokes equations",
+  "date": "2018-06-27",
+  "authors": [
+   "Oscar Jarrin",
+   "Isabelle Gallagher",
+   "Lorenzo Brandolese"
+  ],
+  "summary": "This PhD thesis is devoted to deterministic study of the turbulence in the Navier- Stokes equations. The thesis is divided in four independent chapters.The first chapter involves a rigorous discussion about the energy's dissipation law, proposed by theory of the turbulence K41, in the deterministic setting of the homogeneous and incompressible Navier-Stokes equations, with a stationary external fo"
+ },
+ {
+  "q": "navier",
+  "id": "2310.06007v3",
+  "title": "Anomaly and Brownian fluid particle in Navier-Stokes turbulence",
+  "date": "2023-10-09",
+  "authors": [
+   "Timo Aukusti Laine"
+  ],
+  "summary": "We investigate the Navier-Stokes turbulence driven by a stochastic random Gaussian force. Using a field-theoretic approach, we uncover an anomaly that brings hidden structure to the theory. The anomaly is generated by a non-self-adjoint operator of the Jacobian and it follows the symmetries of the stochastic Navier-Stokes equation. We calculate the anomaly and demonstrate that by forcing the anoma"
+ },
+ {
+  "q": "neuropriv",
+  "id": "2507.12652v2",
+  "title": "Federated Learning in Offline and Online EMG Decoding: A Privacy and Performance Perspective",
+  "date": "2025-07-16",
+  "authors": [
+   "Kai Malcolm",
+   "César Uribe",
+   "Momona Yamagami"
+  ],
+  "summary": "Neural interfaces offer a pathway to intuitive, high-bandwidth interaction, but the sensitive nature of neural data creates significant privacy hurdles for large-scale model training. Federated learning (FL) has emerged as a promising privacy-preserving solution, yet its efficacy in real-time, online neural interfaces remains unexplored. In this study, we 1) propose a conceptual framework for appl"
+ },
+ {
+  "q": "neuropriv",
+  "id": "2603.17109v2",
+  "title": "SENSE: Efficient EEG-to-Text via Privacy-Preserving Semantic Retrieval",
+  "date": "2026-03-17",
+  "authors": [
+   "Akshaj Murhekar",
+   "Christina Liu",
+   "Abhijit Mishra"
+  ],
+  "summary": "Decoding brain activity into natural language is a major challenge in AI with important applications in assistive communication, neurotechnology, and human-computer interaction. Most existing Brain-Computer Interface (BCI) approaches rely on memory-intensive fine-tuning of Large Language Models (LLMs) or encoder-decoder models on raw EEG signals, resulting in expensive training pipelines, limited "
+ },
+ {
+  "q": "neuropriv",
+  "id": "2503.06118v1",
+  "title": "SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography",
+  "date": "2025-03-08",
+  "authors": [
+   "Xuanyu Zhang",
+   "Jiarui Meng",
+   "Zhipei Xu"
+  ],
+  "summary": "3D Gaussian Splatting (3DGS) has emerged as a premier method for 3D representation due to its real-time rendering and high-quality outputs, underscoring the critical need to protect the privacy of 3D assets. Traditional NeRF steganography methods fail to address the explicit nature of 3DGS since its point cloud files are publicly accessible. Existing GS steganography solutions mitigate some issues"
+ },
+ {
+  "q": "neuropriv",
+  "id": "2407.14804v1",
+  "title": "WiFaKey: Generating Cryptographic Keys from Face in the Wild",
+  "date": "2024-07-20",
+  "authors": [
+   "Xingbo Dong",
+   "Hui Zhang",
+   "Yen Lung Lai"
+  ],
+  "summary": "Deriving a unique cryptographic key from biometric measurements is a challenging task due to the existing noise gap between the biometric measurements and error correction coding. Additionally, privacy and security concerns arise as biometric measurements are inherently linked to the user. Biocryptosystems represent a key branch of solutions aimed at addressing these issues. However, many existing"
+ },
+ {
+  "q": "nfix",
+  "id": "2008.08078v2",
+  "title": "Closed-Loop Design of Proton Donors for Lithium-Mediated Ammonia Synthesis with Interpretable Models and Molecular Machine Learning",
+  "date": "2020-08-18",
+  "authors": [
+   "Dilip Krishnamurthy",
+   "Nikifar Lazouski",
+   "Michal L. Gala"
+  ],
+  "summary": "In this work, we experimentally determined the efficacy of several classes of proton donors for lithium-mediated electrochemical nitrogen reduction in a tetrahydrofuran-based electrolyte, an attractive alternative method for producing ammonia. We then built an interpretable data-driven classification model which identified solvatochromic Kamlet-Taft parameters as important for distinguishing betwe"
+ },
+ {
+  "q": "noclass",
+  "id": "1007.1177v2",
+  "title": "No-signaling, entanglement-breaking, and localizability in bipartite channels",
+  "date": "2010-07-07",
+  "authors": [
+   "Giacomo Mauro D'Ariano",
+   "Stefano Facchini",
+   "Paolo Perinotti"
+  ],
+  "summary": "A bipartite quantum channel represents the interaction between systems, generally allowing for exchange of information. A special class of bipartite channels are the no-signaling ones, which do not allow communication. In Ref. [1] it has been conjectured that all no-signaling channels are mixtures of entanglement-breaking and localizable channels, which require only local operations and entangleme"
+ },
+ {
+  "q": "noclass",
+  "id": "2512.17947v1",
+  "title": "Remarks on Legal Entanglement: No-Signaling, Local Operations, and Legal Updates",
+  "date": "2025-12-15",
+  "authors": [
+   "Mikołaj Sienicki",
+   "Krzysztof Sienicki"
+  ],
+  "summary": "Godfrey and Sichelman propose a quantum-inspired framework, legal entanglement, to model coupled legal relations and interpretations, with quantitative proxies for modularity and information cost. We identify a specific technical issue in their account of formulative entanglement: legislation is modeled as a local operation on subsystem A that changes the reduced state of a distant entangled subsy"
+ },
+ {
+  "q": "noclass",
+  "id": "1005.3449v1",
+  "title": "Entanglement, intractability and no-signaling",
+  "date": "2010-05-19",
+  "authors": [
+   "R. Srikanth"
+  ],
+  "summary": "We consider the problem of deriving the no-signaling condition from the assumption that, as seen from a complexity theoretic perspective, the universe is not an exponential place. A fact that disallows such a derivation is the existence of {\\em polynomial superluminal} gates, hypothetical primitive operations that enable superluminal signaling but not the efficient solution of intractable problems"
+ },
+ {
+  "q": "noclass",
+  "id": "0809.0600v3",
+  "title": "No-signaling, intractability and entanglement",
+  "date": "2008-09-03",
+  "authors": [
+   "R. Srikanth"
+  ],
+  "summary": "We consider the problem of deriving the no-signaling condition from the assumption that, as seen from a complexity theoretic perspective, the universe is not an exponential place. A fact that disallows such a derivation is the existence of {\\em polynomial superluminal} gates, hypothetical primitive operations that enable superluminal signaling but not the efficient solution of intractable problems"
+ },
+ {
+  "q": "noclass",
+  "id": "1607.04350v1",
+  "title": "Tight detection efficiency bounds of Bell tests in no-signaling theories",
+  "date": "2016-07-15",
+  "authors": [
+   "Zhu Cao",
+   "Tianyi Peng"
+  ],
+  "summary": "No-signaling theories, which can contain nonlocal correlations stronger than classical correlations but limited by the no-signaling condition, have deepened our understanding of the quantum theory. In principle, the nonlocality of these theories can be verified via Bell tests. In practice, however, inefficient detectors may make Bell tests unreliable, which is called the detection efficiency looph"
+ },
+ {
+  "q": "noclass",
+  "id": "2207.13850v3",
+  "title": "Quantum correlations on the no-signaling boundary: self-testing and more",
+  "date": "2022-07-28",
+  "authors": [
+   "Kai-Siang Chen",
+   "Gelo Noel M. Tabia",
+   "Chellasamy Jebarathinam"
+  ],
+  "summary": "In device-independent quantum information, correlations between local measurement outcomes observed by spatially separated parties in a Bell test play a fundamental role. Even though it is long-known that the set of correlations allowed in quantum theory lies strictly between the Bell-local set and the no-signaling set, many questions concerning the geometry of the quantum set remain unanswered. H"
+ },
+ {
+  "q": "olfact",
+  "id": "2005.01611v1",
+  "title": "Validation of the rapid detection approach for enhancing the electronic nose systems performance, using different deep learning models and support vector machines",
+  "date": "2020-05-04",
+  "authors": [
+   "Juan C. Rodriguez Gamboa",
+   "Adenilton J. da Silva",
+   "Ismael C. S. Araujo"
+  ],
+  "summary": "Real-time gas classification is an essential issue and challenge in applications such as food and beverage quality control, accident prevention in industrial environments, for instance. In recent years, the Deep Learning (DL) models have shown great potential to classify and forecast data in diverse problems, even in the electronic nose (E-Nose) field. In this work, we used a Support Vector Machin"
+ },
+ {
+  "q": "olfact",
+  "id": "2507.17071v1",
+  "title": "Sensor Drift Compensation in Electronic-Nose-Based Gas Recognition Using Knowledge Distillation",
+  "date": "2025-07-22",
+  "authors": [
+   "Juntao Lin",
+   "Xianghao Zhan"
+  ],
+  "summary": "Due to environmental changes and sensor aging, sensor drift challenges the performance of electronic nose systems in gas classification during real-world deployment. Previous studies using the UCI Gas Sensor Array Drift Dataset reported promising drift compensation results but lacked robust statistical experimental validation and may overcompensate for sensor drift, losing class-related variance.T"
+ },
+ {
+  "q": "olfact",
+  "id": "2603.23537v1",
+  "title": "Capacitive Pixelated CMOS Electronic Nose",
+  "date": "2026-03-12",
+  "authors": [
+   "M. A. Basyooni-M. Kabatas",
+   "Tao Shen",
+   "Kai Betlem"
+  ],
+  "summary": "Although some of the human senses can nowadays be replaced by low-cost electronic sensors such as microphones and image sensors, a compact low-cost electronic nose (E-nose) remains elusive. In this work, an E-nose is presented that can capacitively detect volatile organic compounds (VOCs). The E-nose consists of an array of 1024 capacitive microelectrodes on a complementary metal-oxide-semiconduct"
+ },
+ {
+  "q": "olfact",
+  "id": "2406.01904v2",
+  "title": "High-speed odour sensing using miniaturised electronic nose",
+  "date": "2024-06-04",
+  "authors": [
+   "Nik Dennler",
+   "Damien Drix",
+   "Tom P. A. Warner"
+  ],
+  "summary": "Animals have evolved to rapidly detect and recognise brief and intermittent encounters with odour packages, exhibiting recognition capabilities within milliseconds. Artificial olfaction has faced challenges in achieving comparable results -- existing solutions are either slow; or bulky, expensive, and power-intensive -- limiting applicability in real-world scenarios for mobile robotics. Here we in"
+ },
+ {
+  "q": "olfact",
+  "id": "2512.08753v1",
+  "title": "IoT-based Cost-Effective Fruit Quality Monitoring System using Electronic Nose",
+  "date": "2025-12-09",
+  "authors": [
+   "Anindya Bhattacharjee",
+   "Nittya Ananda Biswas",
+   "Khondakar Ashik Shahriar"
+  ],
+  "summary": "Post-harvest losses due to subjective quality assessment cause significant damage to the economy and food safety, especially in countries like Bangladesh. To mitigate such damages, objective decision-making backed by scientific methods is necessary. An IoT-based, cost-effective quality monitoring system can provide a solution by going beyond subjective quality monitoring and decision-making practi"
+ },
+ {
+  "q": "olfact",
+  "id": "2401.00684v1",
+  "title": "A Temporal Filter to Extract Doped Conducting Polymer Information Features from an Electronic Nose",
+  "date": "2024-01-01",
+  "authors": [
+   "Wiem Haj Ammar",
+   "Aicha Boujnah",
+   "Antoine Baron"
+  ],
+  "summary": "Identifying relevant machine-learning features for multi-sensing platforms is both an applicative limitation to recognize environments and a necessity to interpret the physical relevance of transducers' complementarity in their information processing. Particularly for long acquisitions, feature extraction must be fully automatized without human intervention and resilient to perturbations without i"
+ },
+ {
+  "q": "organoid",
+  "id": "2407.18413v1",
+  "title": "Simulation of Neural Responses to Classical Music Using Organoid Intelligence Methods",
+  "date": "2024-07-25",
+  "authors": [
+   "Daniel Szelogowski"
+  ],
+  "summary": "Music is a complex auditory stimulus capable of eliciting significant changes in brain activity, influencing cognitive processes such as memory, attention, and emotional regulation. However, the underlying mechanisms of music-induced cognitive processes remain largely unknown. Organoid intelligence and deep learning models show promise for simulating and analyzing these neural responses to classic"
+ },
+ {
+  "q": "organoid",
+  "id": "cs/0512071v1",
+  "title": "\"Going back to our roots\": second generation biocomputing",
+  "date": "2005-12-16",
+  "authors": [
+   "Jon Timmis",
+   "Martyn Amos",
+   "Wolfgang Banzhaf"
+  ],
+  "summary": "Researchers in the field of biocomputing have, for many years, successfully \"harvested and exploited\" the natural world for inspiration in developing systems that are robust, adaptable and capable of generating novel and even \"creative\" solutions to human-defined problems. However, in this position paper we argue that the time has now come for a reassessment of how we exploit biology to generate n"
+ },
+ {
+  "q": "organoid",
+  "id": "2408.07628v1",
+  "title": "Embodied Biocomputing Sequential Circuits with Data Processing and Storage for Neurons-on-a-chip",
+  "date": "2024-08-14",
+  "authors": [
+   "Giulio Basso",
+   "Reinhold Scherer",
+   "Michael Taynnan Barros"
+  ],
+  "summary": "With conventional silicon-based computing approaching its physical and efficiency limits, biocomputing emerges as a promising alternative. This approach utilises biomaterials such as DNA and neurons as an interesting alternative to data processing and storage. This study explores the potential of neuronal biocomputing to rival silicon-based systems. We explore neuronal logic gates and sequential c"
+ },
+ {
+  "q": "organoid",
+  "id": "2204.00506v3",
+  "title": "Biocomputing Model Using Tripartite Synapses Provides Reliable Neuronal Logic Gating with Spike Pattern Diversity",
+  "date": "2022-04-01",
+  "authors": [
+   "Giulio Basso",
+   "Michael Taynnan Barros"
+  ],
+  "summary": "Biocomputing technologies exploit biological communication mechanisms involving cell-cell signal propagation to perform computations. Researchers recently worked toward realising logic gates made by neurons to develop novel devices such as organic neuroprostheses or brain implants made by cells, herein termed living implants. Several challenges arise from this approach, mainly associated with the "
+ },
+ {
+  "q": "organoid",
+  "id": "2509.21598v1",
+  "title": "Bacterial Gene Regulatory Neural Network as a Biocomputing Library of Mathematical Solvers",
+  "date": "2025-09-25",
+  "authors": [
+   "Adrian Ratwatte",
+   "Samitha Somathilaka",
+   "Thanh Cao"
+  ],
+  "summary": "Current biocomputing approaches predominantly rely on engineered circuits with fixed logic, offering limited stability and reliability under diverse environmental conditions. Here, we use the GRNN framework introduced in our previous work to transform bacterial gene expression dynamics into a biocomputing library of mathematical solvers. We introduce a sub-GRNN search algorithm that identifies fun"
+ },
+ {
+  "q": "organoid",
+  "id": "1606.01319v1",
+  "title": "Modeling and Modifying Response of Biochemical Processes for Biocomputing and Biosensing Signal Processing",
+  "date": "2016-06-04",
+  "authors": [
+   "Sergii Domanskyi",
+   "Vladimir Privman"
+  ],
+  "summary": "Processes involving multi-input multi-step reaction cascades are used in developing novel biosensing, biocomputing, and decision making systems. In various applications different changes in responses of the constituent processing steps (reactions) in a cascade are desirable in order to allow control of the system's response. Here we consider conversion of convex response to sigmoid by \"intensity f"
+ },
+ {
+  "q": "progmat",
+  "id": "2512.21226v3",
+  "title": "Relative Localization System Design for SnailBot: A Modular Self-reconfigurable Robot",
+  "date": "2025-12-24",
+  "authors": [
+   "Shuhan Zhang"
+  ],
+  "summary": "This paper presents the design and implementation of a relative localization system for SnailBot, a modular self reconfigurable robot. The system integrates ArUco marker recognition, optical flow analysis, and IMU data processing into a unified fusion framework, enabling robust and accurate relative positioning for collaborative robotic tasks. Experimental validation demonstrates the effectiveness"
+ },
+ {
+  "q": "progmat",
+  "id": "1905.00580v1",
+  "title": "Deterministic Leader Election in Programmable Matter",
+  "date": "2019-05-02",
+  "authors": [
+   "Yuval Emek",
+   "Shay Kutten",
+   "Ron Lavi"
+  ],
+  "summary": "Addressing a fundamental problem in programmable matter, we present the first deterministic algorithm to elect a unique leader in a system of connected amoebots assuming only that amoebots are initially contracted. Previous algorithms either used randomization, made various assumptions (shapes with no holes, or known shared chirality), or elected several co-leaders in some cases.   Some of the bui"
+ },
+ {
+  "q": "progmat",
+  "id": "2007.04377v2",
+  "title": "Bio-Inspired Energy Distribution for Programmable Matter",
+  "date": "2020-07-08",
+  "authors": [
+   "Joshua J. Daymude",
+   "Andréa W. Richa",
+   "Jamison W. Weber"
+  ],
+  "summary": "In systems of active programmable matter, individual modules require a constant supply of energy to participate in the system's collective behavior. These systems are often powered by an external energy source accessible by at least one module and rely on module-to-module power transfer to distribute energy throughout the system. While much effort has gone into addressing challenging aspects of po"
+ },
+ {
+  "q": "progmat",
+  "id": "1503.07991v2",
+  "title": "Leader Election and Shape Formation with Self-Organizing Programmable Matter",
+  "date": "2015-03-27",
+  "authors": [
+   "Joshua J. Daymude",
+   "Zahra Derakhshandeh",
+   "Robert Gmyr"
+  ],
+  "summary": "We consider programmable matter consisting of simple computational elements, called particles, that can establish and release bonds and can actively move in a self-organized way, and we investigate the feasibility of solving fundamental problems relevant for programmable matter. As a suitable model for such self-organizing particle systems, we will use a generalization of the geometric amoebot mod"
+ },
+ {
+  "q": "progmat",
+  "id": "2202.11663v4",
+  "title": "Fast Reconfiguration for Programmable Matter",
+  "date": "2022-02-23",
+  "authors": [
+   "Irina Kostitsyna",
+   "Tom Peters",
+   "Bettina Speckmann"
+  ],
+  "summary": "The concept of programmable matter envisions a very large number of tiny and simple robot particles forming a smart material. Even though the particles are restricted to local communication, local movement, and simple computation, their actions can nevertheless result in the global change of the material's physical properties and geometry.   A fundamental algorithmic task for programmable matter i"
+ },
+ {
+  "q": "progmat",
+  "id": "2309.04898v2",
+  "title": "Energy-Constrained Programmable Matter Under Unfair Adversaries",
+  "date": "2023-09-09",
+  "authors": [
+   "Jamison W. Weber",
+   "Tishya Chhabra",
+   "Andréa W. Richa"
+  ],
+  "summary": "Individual modules of programmable matter participate in their system's collective behavior by expending energy to perform actions. However, not all modules may have access to the external energy source powering the system, necessitating a local and distributed strategy for supplying energy to modules. In this work, we present a general energy distribution framework for the canonical amoebot model"
+ },
+ {
+  "q": "qec",
+  "id": "2112.02502v1",
+  "title": "Topological graph states and quantum error correction codes",
+  "date": "2021-12-05",
+  "authors": [
+   "Pengcheng Liao",
+   "Barry C. Sanders",
+   "David L. Feder"
+  ],
+  "summary": "Deciding if a given family of quantum states is topologically ordered is an important but nontrivial problem in condensed matter physics and quantum information theory. We derive necessary and sufficient conditions for a family of graph states to be in TQO-1, which is a class of quantum error correction code states whose code distance scales macroscopically with the number of physical qubits. Usin"
+ },
+ {
+  "q": "qec",
+  "id": "2505.06082v2",
+  "title": "Algebraic Topology Principles behind Topological Quantum Error Correction",
+  "date": "2025-05-09",
+  "authors": [
+   "Xiang Zou",
+   "Hoi-Kwong Lo"
+  ],
+  "summary": "Quantum error correction (QEC) is crucial for realizing scalable quantum technologies, and topological quantum error correction (TQEC) has emerged as the most experimentally advanced paradigm of QEC. Existing homological and topological code constructions, however, are largely confined to orientable two-manifolds with simple boundary conditions. In this work, we develop a unified algebraic-topolog"
+ },
+ {
+  "q": "qec",
+  "id": "1308.4776v2",
+  "title": "High-threshold topological quantum error correction against biased noise",
+  "date": "2013-08-22",
+  "authors": [
+   "Ashley M. Stephens",
+   "William J. Munro",
+   "Kae Nemoto"
+  ],
+  "summary": "Quantum information can be protected from decoherence and other errors, but only if these errors are sufficiently rare. For quantum computation to become a scalable technology, practical schemes for quantum error correction that can tolerate realistically high error rates will be necessary. In some physical systems, errors may exhibit a characteristic structure that can be carefully exploited to i"
+ },
+ {
+  "q": "qec",
+  "id": "1901.08061v2",
+  "title": "Parallelized quantum error correction with fracton topological codes",
+  "date": "2019-01-23",
+  "authors": [
+   "Benjamin J. Brown",
+   "Dominic J. Williamson"
+  ],
+  "summary": "Fracton topological phases have a large number of materialized symmetries that enforce a rigid structure on their excitations. Remarkably, we find that the symmetries of a quantum error-correcting code based on a fracton phase enable us to design decoding algorithms. Here we propose and implement decoding algorithms for the three-dimensional X-cube model. In our example, decoding is parallelized i"
+ },
+ {
+  "q": "qec",
+  "id": "quant-ph/0602063v2",
+  "title": "Topological Quantum Error Correction with Optimal Encoding Rate",
+  "date": "2006-02-06",
+  "authors": [
+   "H. Bombin",
+   "M. A. Martin-Delgado"
+  ],
+  "summary": "We prove the existence of topological quantum error correcting codes with encoding rates $k/n$ asymptotically approaching the maximum possible value. Explicit constructions of these topological codes are presented using surfaces of arbitrary genus. We find a class of regular toric codes that are optimal. For physical implementations, we present planar topological codes."
+ },
+ {
+  "q": "qec",
+  "id": "1312.2316v1",
+  "title": "Comparing the Overhead of Topological and Concatenated Quantum Error Correction",
+  "date": "2013-12-09",
+  "authors": [
+   "Martin Suchara",
+   "Arvin Faruque",
+   "Ching-Yi Lai"
+  ],
+  "summary": "This work compares the overhead of quantum error correction with concatenated and topological quantum error-correcting codes. To perform a numerical analysis, we use the Quantum Resource Estimator Toolbox (QuRE) that we recently developed. We use QuRE to estimate the number of qubits, quantum gates, and amount of time needed to factor a 1024-bit number on several candidate quantum technologies tha"
+ },
+ {
+  "q": "reprog",
+  "id": "2512.24427v2",
+  "title": "Epigenetic feedback reshapes dynamical landscapes in gene regulatory networks",
+  "date": "2025-12-30",
+  "authors": [
+   "Sascha H. Hauck",
+   "Sandip Saha",
+   "Narsis A. Kiani"
+  ],
+  "summary": "Understanding how gene regulatory networks (GRNs) give rise to stable and dynamic cellular states remains a central challenge in theoretical biology, particularly when slow epigenetic feedback reshapes the underlying regulatory landscape. While experimental approaches such as single-cell transcriptomics reveal rich dynamical behaviour, a tractable theoretical framework that links gene expression, "
+ },
+ {
+  "q": "rtsupercon",
+  "id": "1907.00425v1",
+  "title": "Dissipative-regime measurements as a tool for confirming and characterizing near-room-temperature superconductivity",
+  "date": "2019-06-30",
+  "authors": [
+   "Charles L. Dean",
+   "Milind N. Kunchur"
+  ],
+  "summary": "The search for new superconducting materials approaching room temperature benefits from having a variety of testing methodologies to confirm and characterize the presence of superconductivity. Often the first signatures of new superconducting species occur incompletely and in very small volume fractions. These trace amounts may be too weak to produce an observable Meissner effect and the resistanc"
+ },
+ {
+  "q": "rtsupercon",
+  "id": "cond-mat/0606187v1",
+  "title": "Room-Temperature Superconductivity",
+  "date": "2006-06-07",
+  "authors": [
+   "A. Mourachkine"
+  ],
+  "summary": "This is the first book on the subject of room-temperature superconductivity. The main purpose of the book is twofold. First, to show that, under suitable conditions, superconductivity can occur above room temperature. Secondly, to present general guidelines on how to synthesize a room temperature superconductor. The book begins with an introduction into the physics of the superconducting state and"
+ },
+ {
+  "q": "rtsupercon",
+  "id": "2409.05031v1",
+  "title": "Room-temperature superconductivity in 1D",
+  "date": "2024-09-08",
+  "authors": [
+   "Carlo A. Trugenberger"
+  ],
+  "summary": "We review the theoretical model underpinning the recently reported room-temperature, ambient-pressure superconductivity along line defects on the surface of highly-oriented pyrolytic graphite. The main ingredients for this 1D room-temperature superconductivity are pairing by effective strain gauge fields, the formation of an effective Josephson junction array in its Bose metal state on the surface"
+ },
+ {
+  "q": "rtsupercon",
+  "id": "1201.2576v3",
+  "title": "Three small systems showing probable room-temperature superconductivity",
+  "date": "2012-01-12",
+  "authors": [
+   "D. M. Eagles"
+  ],
+  "summary": "I shall discuss three small systems in which I think room-temperature superconductivity has been observed. These are: 1. Narrow channels through films of oxidised atactic polypropylene (OAPP) and other polymers. 2. Some multiwalled carbon nanotubes or mats of nanotubes. 3. Sandwich structures based on CdF_2. The main emphasis will be on polymer films."
+ },
+ {
+  "q": "rtsupercon",
+  "id": "2208.00854v3",
+  "title": "Global room-temperature superconductivity in graphite",
+  "date": "2022-08-01",
+  "authors": [
+   "Y. V. Kopelevich",
+   "J. H. S. Torres",
+   "R. Ricardo da Silva"
+  ],
+  "summary": "Room temperature superconductivity under normal conditions has been a major challenge of physics and material science since its very discovery. Here we report the global room-temperature superconductivity observed in cleaved highly oriented pyrolytic graphite carrying dense arrays of nearly parallel surface line defects. The multiterminal measurements performed at the ambient pressure in the tempe"
+ },
+ {
+  "q": "rtsupercon",
+  "id": "2003.14321v1",
+  "title": "Novel approach to Room Temperature Superconductivity problem",
+  "date": "2020-03-31",
+  "authors": [
+   "Ivan Timokhin",
+   "Artem Mishchenko"
+  ],
+  "summary": "A long-standing problem of observing Room Temperature Superconductivity is finally solved by a novel approach. Instead of increasing the critical temperature Tc of a superconductor, the temperature of the room was decreased to an appropriate Tc value. We consider this approach more promising for obtaining a large number of materials possessing Room Temperature Superconductivity in the near future."
+ },
+ {
+  "q": "selfhealc",
+  "id": "2510.19839v2",
+  "title": "Finite Element and Machine Learning Modeling of Autogenous Self-Healing Concrete",
+  "date": "2025-10-18",
+  "authors": [
+   "William Liu"
+  ],
+  "summary": "A time-dependent modeling framework for autogenous self-healing concrete that couples moisture diffusion with damage evolution was developed. Water transport follows Fick's second law with a damage-dependent diffusivity obtained by power-law interpolation between intact concrete and crack space. Healing reduces damage in proportion to the product of local moisture and a smoothed cement availabilit"
+ },
+ {
+  "q": "selfhealc",
+  "id": "1711.10386v6",
+  "title": "Screening of Fungi for the Application of Self-Healing Concrete",
+  "date": "2017-11-23",
+  "authors": [
+   "Rakenth R. Menon",
+   "Jing Luo",
+   "Xiaobo Chen"
+  ],
+  "summary": "Concrete is susceptible to cracking owing to drying shrinkage, freeze-thaw cycles, delayed ettringite formation, reinforcement corrosion, creep and fatigue, etc. Since maintenance and inspection of concrete infrastructure require onerous labor and high costs, self-healing of harmful cracks without human interference or intervention could be of great attraction. The goal of this study is to explore"
+ },
+ {
+  "q": "selfhealc",
+  "id": "1708.01337v2",
+  "title": "Interactions of Fungi with Concrete: Significant Importance for Bio-Based Self-Healing Concrete",
+  "date": "2017-08-04",
+  "authors": [
+   "Jing Luo",
+   "Xiaobo Chen",
+   "Jada Crump"
+  ],
+  "summary": "The goal of this study is to explore a new self-healing concept in which fungi are used as a self-healing agent to promote calcium mineral precipitation to fill the cracks in concrete. An initial screening of different species of fungi has been conducted. Fungal growth medium was overlaid onto cured concrete plate. Mycelial discs were aseptically deposited at the plate center. The results showed t"
+ },
+ {
+  "q": "selfrep",
+  "id": "quant-ph/0510221v6",
+  "title": "Non Existence of Quantum Mechanical Self Replicating Machine",
+  "date": "2005-10-28",
+  "authors": [
+   " Prashant",
+   "Indranil Chakrabarty"
+  ],
+  "summary": "In this letter we establish the impossibility of existence of self replicating machine in the quantum world. We establish this result by three different but consistent approaches of linearity of quantum mechanics, no signalling condition and conservation of entanglement under local unitary operations."
+ },
+ {
+  "q": "selfrep",
+  "id": "cs/0304022v1",
+  "title": "Self-Replicating Machines in Continuous Space with Virtual Physics",
+  "date": "2003-04-15",
+  "authors": [
+   "Arnold Smith",
+   "Peter Turney",
+   "Robert Ewaschuk"
+  ],
+  "summary": "JohnnyVon is an implementation of self-replicating machines in continuous two-dimensional space. Two types of particles drift about in a virtual liquid. The particles are automata with discrete internal states but continuous external relationships. Their internal states are governed by finite state machines but their external relationships are governed by a simulated physics that includes Brownian"
+ },
+ {
+  "q": "selfrep",
+  "id": "1605.02169v1",
+  "title": "Why is there no von Neumann probe on Ceres? Error catastrophe can explain the Fermi-Hart Paradox",
+  "date": "2016-04-13",
+  "authors": [
+   "Axel Kowald"
+  ],
+  "summary": "It has been argued that self-replicating robotic probes could spread to all stars of our galaxy within a timespan that is tiny on cosmological scales, even if they travel well below the speed of light. The apparent absence of such von Neumann probes in our own solar system then needs an explanation that holds for all possible extraterrestrial civilisations. Here I propose such a solution, which is"
+ },
+ {
+  "q": "selfrep",
+  "id": "2202.02938v1",
+  "title": "Entropy, Symmetry, and the Difficulty of Self-Replication",
+  "date": "2022-02-07",
+  "authors": [
+   "Gregory S. Chirikjian"
+  ],
+  "summary": "The defining property of an artificial physical self-replicating system, such as a self-replicating robot, is that it has the ability to make copies of itself from basic parts. Three questions that immediately arises in the study of such systems are: 1) How complex is the whole robot in comparison to each basic part ? 2) How disordered can the parts be while having the robot successfully replicate"
+ },
+ {
+  "q": "selfrep",
+  "id": "1205.1166v1",
+  "title": "Morphogenesis of Chaos",
+  "date": "2012-05-05",
+  "authors": [
+   "Marat Akhmet",
+   "Mehmet Onur Fen"
+  ],
+  "summary": "Morphogenesis, as it is understood in a wide sense by René Thom, is considered for various types of chaos. That is, those, obtained by period-doubling cascade, Devaney's and Li-Yorke chaos. Moreover, in discussion form we consider inheritance of intermittency, the double-scroll Chua's attractor and quasiperiodical motions as a possible skeleton of a chaotic attractor. To make our introduction of t"
+ },
+ {
+  "q": "selfrep",
+  "id": "2408.07154v1",
+  "title": "Self-folding Self-replication",
+  "date": "2024-08-13",
+  "authors": [
+   "Ralph P. Lano"
+  ],
+  "summary": "Inspired by protein folding, we explored the construction of three-dimensional structures and machines from one-dimensional chains of simple building blocks. This approach not only allows us to recreate the self-replication mechanism introduced earlier, but also significantly simplifies the process. We introduced a new set of folding blocks that facilitate the formation of secondary structures suc"
+ },
+ {
+  "q": "superion",
+  "id": "2204.05118v2",
+  "title": "Progress, challenges and perspectives of computational studies on glassy superionic conductors for solid-state batteries",
+  "date": "2022-04-08",
+  "authors": [
+   "Zhenming Xu",
+   "Yongyao Xia"
+  ],
+  "summary": "Sulfide-based glasses and glass-ceramics showing high ionic conductivities and excellent mechanical properties are considered as promising solid-state electrolytes. Nowadays, the computational material techniques with the advantage of low research cost are being widely utilized for understanding, effectively screening and discovering of battery materials. In consideration of the rising importance "
+ },
+ {
+  "q": "superion",
+  "id": "2412.11398v1",
+  "title": "Superionic Ionic Conductor Discovery via Multiscale Topological Learning",
+  "date": "2024-12-16",
+  "authors": [
+   "Dong Chen",
+   "Bingxu Wang",
+   "Shunning Li"
+  ],
+  "summary": "Lithium superionic conductors (LSICs) are crucial for next-generation solid-state batteries, offering exceptional ionic conductivity and enhanced safety for renewable energy and electric vehicles. However, their discovery is extremely challenging due to the vast chemical space, limited labeled data, and the understanding of complex structure-function relationships required for optimizing ion trans"
+ },
+ {
+  "q": "superion",
+  "id": "1709.04798v2",
+  "title": "Vacancy-Controlled Na+ Superion Conduction in Na11Sn2PS12",
+  "date": "2017-09-14",
+  "authors": [
+   "Marc Duchardt",
+   "Uwe Ruschewitz",
+   "Stefanie Dehnen"
+  ],
+  "summary": "Highly conductive solid electrolytes are one key component for the development of safe and high-power all-solid-state batteries. Enormous progress has been achieved in the field of lithium solid electrolytes. Meanwhile, their ion conductivities match those of liquid electrolytes used in commercial Li+ ion batteries. However, the future availability and the price of lithium are points of concern, s"
+ },
+ {
+  "q": "superion",
+  "id": "2203.00814v1",
+  "title": "Stacking Faults Assist Lithium-Ion Conduction in a Halide-Based Superionic Conductor",
+  "date": "2022-03-02",
+  "authors": [
+   "Elias Sebti",
+   "Hayden A. Evans",
+   "Hengning Chen"
+  ],
+  "summary": "In the pursuit of urgently-needed, energy dense solid-state batteries for electric vehicle and portable electronics applications, halide solid electrolytes offer a promising path forward with exceptional compatibility against high-voltage oxide electrodes, tunable ionic conductivities, and facile processing. For this family of compounds, synthesis protocols strongly affect cation site disorder and"
+ },
+ {
+  "q": "superion",
+  "id": "2608.29404v1",
+  "title": "Elastic properties of amorphous LiTaCl$_6$ solid-state electrolyte",
+  "date": "2026-08-29",
+  "authors": [
+   "Xiaolin Liu",
+   "De-en Jiang"
+  ],
+  "summary": "Amorphous solid-state electrolytes are attractive candidates for safe, high-energy-density all-solid-state batteries, yet their mechanical properties remain poorly understood from a computational perspective. Here, we investigate the elastic behavior of the recently discovered amorphous superionic Li-ion conductor LiTaCl$_6$ using density-functional-theory (DFT)-based methods, including unrelaxed "
+ },
+ {
+  "q": "superion",
+  "id": "1811.07936v1",
+  "title": "Influence of lattice dynamics on lithium-ion conductivity: A first-principles study",
+  "date": "2018-11-19",
+  "authors": [
+   "Arun K. Sagotra",
+   "Dewei Chu",
+   "Claudio Cazorla"
+  ],
+  "summary": "In the context of novel solid electrolytes for solid-state batteries, first-principles calculations are becoming increasingly more popular due to their ability to reproduce and predict accurately the energy, structural, and dynamical properties of fast-ion conductors. In order to accelerate the discovery of new superionic conductors is convenient to establish meaningful relations between ionic tra"
+ },
+ {
+  "q": "timex",
+  "id": "2203.01468v2",
+  "title": "Quasi time crystal",
+  "date": "2022-03-03",
+  "authors": [
+   "Xintian Wu"
+  ],
+  "summary": "We discuss the possibility of making a quasi time crystal. A simple two-state model is studied to clarify our definition. In a superposition of the ground state and the excited state and the probability of observation varies periodically in time during the lifetime of the excited state. The quasi time crystal is also discussed around the first order quantum phase transition, which is characterized"
+ },
+ {
+  "q": "timex",
+  "id": "2502.11730v1",
+  "title": "Time crystal optomechanics",
+  "date": "2025-02-17",
+  "authors": [
+   "J. T. Mäkinen",
+   "P. J. Heikkinen",
+   "S. Autti"
+  ],
+  "summary": "Time crystals are an enigmatic phase of matter in which a quantum mechanical system displays repetitive, observable motion - they spontaneously break the time translation symmetry. On the other hand optomechanical systems, where mechanical and optical degrees of freedom are coupled, are well established and enable a range of applications and measurements with unparalleled precision. Here, we conne"
+ },
+ {
+  "q": "timex",
+  "id": "1804.01291v2",
+  "title": "Spatial-Translation-Induced Discrete Time Crystals",
+  "date": "2018-04-04",
+  "authors": [
+   "Kaoru Mizuta",
+   "Kazuaki Takasan",
+   "Masaya Nakagawa"
+  ],
+  "summary": "A discrete time crystal is a phase unique to nonequilibrium systems, where discrete time translation symmetry is spontaneously broken. Most of conventional time crystals proposed so far rely on spontaneous breaking of on-site symmetries and their corresponding on-site symmetry operations. In this Letter, we propose a new time crystal dubbed \"spatial-translation-induced discrete time crystal (STI-D"
+ },
+ {
+  "q": "timex",
+  "id": "1909.05533v1",
+  "title": "Birth of de Sitter Universe from time crystal",
+  "date": "2019-09-12",
+  "authors": [
+   "Daisuke Yoshida",
+   "Jiro Soda"
+  ],
+  "summary": "We show that a simple sub-class of Horndeski theory can describe a time crystal Universe. The time crystal Universe can be regarded as a baby Universe nucleated from a flat space, which is mediated by an extension of Giddings-Strominger instanton in a 2-form theory dual to the Horndeski theory. Remarkably, when a cosmological constant is included, de Sitter Universe can be created by tunneling fro"
+ },
+ {
+  "q": "timex",
+  "id": "2310.05854v2",
+  "title": "Time Crystal in a Single-mode Nonlinear Cavity",
+  "date": "2023-10-09",
+  "authors": [
+   "Yaohua Li",
+   "Chenyang Wang",
+   "Yuanjiang Tang"
+  ],
+  "summary": "Time crystal is a class of non-equilibrium phases with broken time-translational symmetry. Here we demonstrate the time crystal in a single-mode nonlinear cavity. The time crystal originates from the self-oscillation induced by a linear gain and is stabilized by a nonlinear damping. We show in the time crystal phase there are sharp dissipative gap closing and pure imaginary eigenvalues of the Liou"
+ },
+ {
+  "q": "timex",
+  "id": "2406.15017v2",
+  "title": "Observation of Time Crystal in a Spin Maser System",
+  "date": "2024-06-21",
+  "authors": [
+   "Weiyu Wang",
+   "Mingjun Feng",
+   "Qianjin Ma"
+  ],
+  "summary": "Pair interaction potentials between atoms in a crystal are in general non-monotonic in distance, with a local minimum whose position gives the lattice constant of the crystal. A temporal analogue of this idea of crystal formation is still pending despite intensive studies on the time crystal phase. In a hybrid spin maser system with a time delay feedback, we report the observation of a time crysta"
+ },
+ {
+  "q": "wbe",
+  "id": "1806.04793v2",
+  "title": "A Connectome Based Hexagonal Lattice Convolutional Network Model of the Drosophila Visual System",
+  "date": "2018-06-12",
+  "authors": [
+   "Fabian David Tschopp",
+   "Michael B. Reiser",
+   "Srinivas C. Turaga"
+  ],
+  "summary": "What can we learn from a connectome? We constructed a simplified model of the first two stages of the fly visual system, the lamina and medulla. The resulting hexagonal lattice convolutional network was trained using backpropagation through time to perform object tracking in natural scene videos. Networks initialized with weights from connectome reconstructions automatically discovered well-known "
+ },
+ {
+  "q": "wbe",
+  "id": "1602.04776v1",
+  "title": "Parameterizable Consensus Connectomes from the Human Connectome Project: The Budapest Reference Connectome Server v3.0",
+  "date": "2016-02-15",
+  "authors": [
+   "Balázs Szalkai",
+   "Csaba Kerepesi",
+   "Bálint Varga"
+  ],
+  "summary": "Connections of the living human brain, on a macroscopic scale, can be mapped by a diffusion MR imaging based workflow. Since the same anatomic regions can be corresponded between distinct brains, one can compare the presence or the absence of the edges, connecting the very same two anatomic regions, among multiple cortices. Previously, we have constructed the consensus braingraphs on 1015 vertices"
+ },
+ {
+  "q": "wbe",
+  "id": "1609.09036v1",
+  "title": "High-Resolution Directed Human Connectomes and the Consensus Connectome Dynamics",
+  "date": "2016-09-28",
+  "authors": [
+   "Balázs Szalkai",
+   "Csaba Kerepesi",
+   "Bálint Varga"
+  ],
+  "summary": "Here we show a method of directing the edges of the connectomes, prepared from diffusion tensor imaging (DTI) datasets from the human brain. Before the present work, no high-definition directed braingraphs (or connectomes) were published, because the tractography methods in use are not capable of assigning directions to the neural tracts discovered. Previous work on the functional connectomes appl"
+ },
+ {
+  "q": "wbe",
+  "id": "1412.3064v1",
+  "title": "Homomorphisms of connectome graphs",
+  "date": "2014-12-08",
+  "authors": [
+   "Peteris Daugulis"
+  ],
+  "summary": "We propose to study homomorphisms of connectome graphs. Homomorphisms can be studied as sequences of elementary homomorphisms - folds, which identify pairs of vertices. Several fold types are defined. Initial computation results for some connectome graphs are described."
+ },
+ {
+  "q": "wbe",
+  "id": "1812.06317v1",
+  "title": "Spectral peculiarity and criticality of the human connectome",
+  "date": "2018-12-15",
+  "authors": [
+   "K. Anokhin",
+   "V. Avetisov",
+   "A. Gorsky"
+  ],
+  "summary": "We have performed the comparative spectral analysis of structural connectomes for various organisms using open-access data. Our analysis indicates several new peculiar features of the human connectome. We found that the spectral density of human connectome has the maximal deviation from the spectral density of the randomized network compared to all other organisms. For many animals except human st"
+ },
+ {
+  "q": "wbe",
+  "id": "2606.19739v1",
+  "title": "Robust probabilistic measurement of structural-functional module consistency in infant brain development",
+  "date": "2026-06-18",
+  "authors": [
+   "Lingbin Bian",
+   "Feihong Liu",
+   "Qian Wang"
+  ],
+  "summary": "Brain network is commonly divided into modules for analyzing their functionally segregated roles for group-level analysis in neuroimaging studies. Here, we introduce stochastic modules within brain networks for a robust probabilistic measurement of structural-functional module consistency (SFMC) in a group of subjects. Specifically, a stochastic module can be regarded as the chance of a brain regi"
+ },
+ {
+  "q": "wpt",
+  "id": "2408.14220v1",
+  "title": "Miniaturized Patch Rectenna Using 3-Turn Complementary Spiral Resonator for Wireless Power Transfer",
+  "date": "2024-08-26",
+  "authors": [
+   "Ali Raza",
+   "Rasool Keshavarz",
+   "Negin Shariati"
+  ],
+  "summary": "A miniaturized linearly-polarized patch antenna is presented for Wireless Power Transfer (WPT) at 1. 8 GHz. The proposed antenna consists of a patch element and a 3-turn Complementary Spiral Resonator (3-CSR) with antenna dimension of 50 mm x 50 mm. 3-CSR is inserted in the ground plane to reduce the antenna size. This modification also increased the impedance bandwidth from 43 MHz (1.78-1.83 GHz)"
+ },
+ {
+  "q": "wpt",
+  "id": "2609.08833v1",
+  "title": "A New Backscattering Dual-Polarized Rectenna for Wireless Power Transfer and IoT Applications",
+  "date": "2026-09-08",
+  "authors": [
+   "Taki Eddine Djidjekh",
+   "Quentin Bernyer",
+   "Alexandru Takacs"
+  ],
+  "summary": "This paper proposes an innovative dual-polarized backscattering rectenna that operates in two distinct modesenergy harvesting and backscattering modulation-driven by two-bit digital control signals. By utilizing two orthogonal (co-and cross-) polarizations, the design represents a versatile candidate for IoT applications such as battery-free wireless sensing, identification, localization, and comm"
+ },
+ {
+  "q": "wpt",
+  "id": "2012.15615v1",
+  "title": "Refined Nonlinear Rectenna Modeling and Optimal Waveform Design for Multi-User Multi-Antenna Wireless Power Transfer",
+  "date": "2020-12-31",
+  "authors": [
+   "Samith Abeywickrama",
+   "Rui Zhang",
+   "Chau Yuen"
+  ],
+  "summary": "In this paper, we study the optimal waveform design for wireless power transfer (WPT) from a multi-antenna energy transmitter (ET) to multiple single-antenna energy receivers (ERs) simultaneously in multi-path frequency-selective channels. First, we propose a refined nonlinear current-voltage model of the diode in the ER rectifier, and accordingly derive new expressions for the output direct curre"
+ },
+ {
+  "q": "wpt",
+  "id": "2407.14763v2",
+  "title": "Efficient Design of a Pixelated Rectenna for WPT Applications",
+  "date": "2024-07-20",
+  "authors": [
+   "Rasool Keshavarz",
+   "Md. Amanath Ullah",
+   "Ali Raza"
+  ],
+  "summary": "This paper introduces a highly efficient rectenna (rectifying antenna) using a binary optimization algorithm. A novel pixelated receiving antenna has been developed to match the diode impedance of a rectifier, eliminating the need for a separate matching circuit in the rectenna's rectifier. The receiving antenna configuration is fine-tuned via a binary optimization algorithm. A rectenna is designe"
+ },
+ {
+  "q": "wpt",
+  "id": "1604.00074v2",
+  "title": "Waveform Design for Wireless Power Transfer",
+  "date": "2016-03-31",
+  "authors": [
+   "Bruno Clerckx",
+   "Ekaterina Bayguzina"
+  ],
+  "summary": "Far-field Wireless Power Transfer (WPT) has attracted significant attention in recent years. Despite the rapid progress, the emphasis of the research community in the last decade has remained largely concentrated on improving the design of energy harvester (so-called rectenna) and has left aside the effect of transmitter design. In this paper, we study the design of transmit waveform so as to enha"
+ },
+ {
+  "q": "wpt",
+  "id": "1507.05389v1",
+  "title": "Opportunistic Beamforming with Wireless Powered 1-bit Feedback Through Rectenna Array",
+  "date": "2015-07-20",
+  "authors": [
+   "Ioannis Krikidis"
+  ],
+  "summary": "This letter deals with the opportunistic beamforming (OBF) scheme for multi-antenna downlink with spatial randomness. In contrast to conventional OBF, the terminals return only 1-bit feedback, which is powered by wireless power transfer through a rectenna array. We study two fundamental topologies for the combination of the rectenna elements; the direct-current combiner and the radio-frequency com"
+ }
+]

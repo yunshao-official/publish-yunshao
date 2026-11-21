@@ -1,0 +1,286 @@
+1. Encephale. 2020 Feb;46(1):30-40. doi: 10.1016/j.encep.2019.06.005. Epub 2019
+Oct  11.
+
+Practical considerations for the evaluation and management of Attention Deficit 
+Hyperactivity Disorder (ADHD) in adults.
+
+Weibel S(1), Menard O(2), Ionita A(3), Boumendjel M(4), Cabelguen C(5), Kraemer 
+C(6), Micoulaud-Franchi JA(7), Bioulac S(7), Perroud N(8), Sauvaget A(9), Carton 
+L(10), Gachet M(11), Lopez R(12).
+
+Author information:
+(1)Service de psychiatrie 2, Hôpitaux Universitaires de Strasbourg, 67000 
+Strasbourg, France; Inserm U1114, Strasbourg, France; Fédération de Médecine 
+Translationnelle de Strasbourg (FMTS), 67000 Strasbourg, France. Electronic 
+address: sebastien.weibel@chru-strasbourg.fr.
+(2)Service d'addictologie, Hôpital Fontan 2, CHRU de Lille, 59000 Lille, France.
+(3)Clinique du château, Nightingale hospitals Paris, 92380 Garches, France.
+(4)Équipe de liaison et de soins en addictologie (ELSA), service de psychiatrie 
+et d'addictologie, centre de soin de prévention et d'accompagnement en 
+addictologie (CSAPA), Hôpital André Mignot, 78000 Versailles, France.
+(5)Unité de neuromodulation et de psychiatrie de liaison, centre ambulatoire 
+pluridisciplinaire de psychiatrie et d'addictologie, Centre Hospitalier 
+Universitaire de Nantes, 44000 Nantes, France.
+(6)Service de psychiatrie 2, Hôpitaux Universitaires de Strasbourg, 67000 
+Strasbourg, France.
+(7)Service d'explorations fonctionnelles du système nerveux, clinique du 
+sommeil, CHU de Bordeaux, 33000 Bordeaux, France; CNRS, SANPSY, USR 3413, 
+SANPSY, Université de Bordeaux, 33000 Bordeaux, France.
+(8)Service des spécialités psychiatrique, département de santé mentale et de 
+psychiatrie, Hôpitaux Universitaires de Genève, 1201 Genève, Switzerland.
+(9)Addictologie and psychiatrie de liaison, CHU de Nantes, 44000 Nantes, France; 
+Laboratoire "mouvement, interactions, performance" (EA 4334), Faculté Sciences 
+du sport, Université de Nantes, 44000 Nantes, France.
+(10)Inserm U1171 "Troubles cognitifs dégénératifs et vasculaires", Université de 
+Lille, 59000 Lille, France; Département de pharmacologie médicale, CHRU de 
+Lille, 59000 Lille, France.
+(11)Service d'urgence et post-urgence psychiatrique, hôpital Lapeyronie, 34000 
+Montpellier, France.
+(12)Consultation spécialisée TDAH adulte, centre national de référence 
+narcolepsie hypersomnies rares, département de neurologie, Hôpital 
+Gui-De-Chauliac, 34000 Montpellier, France; Inserm U1061, 34000 Montpellier, 
+France. Electronic address: r-lopez@chu-montpellier.fr.
+
+Attention deficit with or without hyperactivity disorder (ADHD) is one of the 
+most frequent neuropsychiatric disorders, and affects 2-4% of adults. In 
+contrast with many European countries, the identification and management of 
+adult ADHD remains underdeveloped in France, and a subject of controversy. This 
+review provides a practical update on current knowledge about ADHD in adults for 
+French-speaking professionals who have to detect or manage adult patients with 
+ADHD. ADHD is classified as a neurodevelopmental disorder in the recent update 
+of the international diagnostic classification. While symptoms and impairment 
+due to ADHD are frequently severe during childhood, they often evolve as 
+children grow older, with frequent persistent disabilities in adulthood. In 
+adulthood, the clinical presentation, as in childhood, involves the symptom 
+triad of inattention, hyperactivity and impulsivity. However, differences are 
+noted: hyperactivity is more often internalized, symptoms of inattention may be 
+masked by anxiety symptoms or obsessive-like compensation strategies. ADHD is 
+often diagnosed during childhood, but it is not rare for the diagnosis to be 
+made later. Failure to recognise symptoms resulting in misdiagnosis, or 
+alternatively well-developed compensation factors could be two underlying 
+reasons for the long delay until diagnosis. Other symptoms, such as emotional 
+deregulation or executive function-related symptoms are also usually observed in 
+adults. In addition, in adults, ADHD is often associated with other psychiatric 
+disorders (in 80% of cases); this makes the diagnosis even more difficult. These 
+disorders encompass a broad spectrum, from mood disorders (unipolar or bipolar), 
+to anxiety disorders, and other neurodevelopmental disorders and personality 
+disorders, especially borderline and antisocial personality disorder. 
+Substance-use disorders are very common, either as a consequence of impulsivity 
+and emotional dysregulation or as an attempt at self-treatment. Sleep disorders, 
+especially restless leg syndrome and hypersomnolence, could share common 
+pathophysiological mechanisms with ADHD. ADHD and comorbidity-related symptoms 
+are responsible for serious functional impairment, in various domains, leading 
+to academic, social, vocational, and familial consequences. The impact on other 
+psychiatric disorders as an aggravating factor should also be considered. The 
+considerable disability and the poorer quality of life among adults with ADHD 
+warrant optimal evaluation and management. The diagnostic procedure for ADHD 
+among adults should be systematic. Once the positive diagnosis is made, the 
+evaluation enables characterisation of the levels of severity and impairment at 
+individual level. A full examination should also assess medical conditions 
+associated with ADHD, to provide personalized care. In recent years, a growing 
+number of assessment tools have been translated and validated in French 
+providing a wide range of structured interviews and standardized self-report 
+questionnaires for the evaluation of core and associated ADHD symptoms, 
+comorbidities and functional impairment. The treatment of ADHD in adults is 
+multimodal, and aims to relieve the symptoms, limit the burden of the disease, 
+and manage comorbidities. The most relevant and validated psychological 
+approaches are psycho-education, cognitive-behavioural therapy and "third wave 
+therapies" with a specific focus on emotional regulation. Cognitive remediation 
+and neurofeedback are promising strategies still under evaluation. Medications, 
+especially psychostimulants, are effective for alleviating ADHD symptoms with a 
+large effect size. Their safety and tolerance are satisfactory, although their 
+long-term clinical benefit is still under discussion. In France, methylphenidate 
+is the only stimulant available for the treatment of ADHD. Unfortunately, there 
+is no authorization for its use among adults except in continuation after 
+adolescence. Hence the prescription, which is subject to the regulations on 
+narcotics, is off-label in France. This article aims to provide practical 
+considerations for the management of ADHD and associated disorders in adults, in 
+this particular French context.
+
+Copyright © 2019 L'Encéphale, Paris. Published by Elsevier Masson SAS. All 
+rights reserved.
+
+DOI: 10.1016/j.encep.2019.06.005
+PMID: 31610922 [Indexed for MEDLINE]
+
+
+2. J Psychiatry Neurosci. 2022 Jun 15;47(3):E222-E229. doi: 10.1503/jpn.210202. 
+Print 2022 May-Jun.
+
+Infralow neurofeedback in the treatment of substance use disorders: a randomized 
+controlled trial.
+
+Gabrielsen KB(1), Clausen T(2), Haugland SH(2), Hollup SA(2), Vederhus JK(2).
+
+Author information:
+(1)From the Addiction Unit, Sørlandet Hospital, Kristiansand, Norway 
+(Gabrielsen, Clausen, Vederhus); the Norwegian Centre for Addiction Research 
+(SERAF), University of Oslo, Oslo, Norway (Clausen); the Department of 
+Psychosocial Health, University of Agder, Grimstad, Norway (Haugland); the 
+Norwegian University of Science and Technology, Trondheim, Norway (Hollup) 
+karin.berle.gabrielsen@sshf.no.
+(2)From the Addiction Unit, Sørlandet Hospital, Kristiansand, Norway 
+(Gabrielsen, Clausen, Vederhus); the Norwegian Centre for Addiction Research 
+(SERAF), University of Oslo, Oslo, Norway (Clausen); the Department of 
+Psychosocial Health, University of Agder, Grimstad, Norway (Haugland); the 
+Norwegian University of Science and Technology, Trondheim, Norway (Hollup).
+
+BACKGROUND: Infralow neurofeedback (ILF-NF) was recently developed as a subtype 
+of traditional, frequency-based neurofeedback that targets cerebral rhythmic 
+activity below 0.5 Hz and improves brain self-regulation. The efficacy of ILF-NF 
+in the treatment of substance use disorder has not yet been evaluated, but 
+clinical evidence suggests that it may prevent relapse by improving functioning 
+in various life domains. The current study aimed to fill this research gap and 
+extend empirical evidence related to this issue.
+METHODS: Ninety-three patients with substance use disorders at an outpatient 
+unit in Norway were randomized to receive 20 sessions (30 minutes each) of 
+ILF-NF training combined with treatment as usual (TAU), or TAU alone. The 
+primary outcome was quality of life post-treatment as an overall measure of 
+functioning. We analyzed between-group differences using Student t tests.
+RESULTS: We found no significant differences in quality of life between groups. 
+We found similar nonsignificant results for most of the secondary outcome 
+measures, including drug use, sleep, anxiety and depression. Compared to TAU, 
+the ILF-NF + TAU group reported significantly lower restlessness scores 
+post-treatment (mean difference -1.8, 95 % confidence interval -3.1 to -0.5; p = 
+0.006).Limitations: This study was limited by broad inclusion criteria and a 
+lack of placebo control (sham neurofeedback treatment).
+CONCLUSION: ILF-NF offered limited additional benefit when combined with TAU, 
+except in the area of restlessness. Future studies could further investigate the 
+relationship between ILF-NF, restlessness and substance use in targeted 
+subpopulations to illuminate relapse mechanisms.
+CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov: NCT03356210.
+
+© 2022 CMA Impact Inc. or its licensors.
+
+DOI: 10.1503/jpn.210202
+PMCID: PMC9343117
+PMID: 35705204 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+3. J Neuroimmune Pharmacol. 2016 Sep;11(3):408-33. doi:
+10.1007/s11481-016-9680-y.  Epub 2016 May 16.
+
+Neuroimaging the Effectiveness of Substance Use Disorder Treatments.
+
+Cabrera EA(1), Wiers CE(2), Lindgren E(2), Miller G(2), Volkow ND(2)(3), Wang 
+GJ(2).
+
+Author information:
+(1)National Institute on Alcohol Abuse and Alcoholism, National Institutes of 
+Health, Bethesda, MD, USA. elizabeth.cabrera@nih.gov.
+(2)National Institute on Alcohol Abuse and Alcoholism, National Institutes of 
+Health, Bethesda, MD, USA.
+(3)National Institute on Drug Abuse, National Institutes of Health, Bethesda, 
+MD, USA.
+
+Neuroimaging techniques to measure the function and biochemistry of the human 
+brain such as positron emission tomography (PET), proton magnetic resonance 
+spectroscopy ((1)H MRS), and functional magnetic resonance imaging (fMRI), are 
+powerful tools for assessing neurobiological mechanisms underlying the response 
+to treatments in substance use disorders. Here, we review the neuroimaging 
+literature on pharmacological and behavioral treatment in substance use 
+disorder. We focus on neural effects of medications that reduce craving (e.g., 
+naltrexone, bupropion hydrochloride, baclofen, methadone, varenicline) and that 
+improve cognitive control (e.g., modafinil, N-acetylcysteine), of behavioral 
+treatments for substance use disorders (e.g., cognitive bias modification 
+training, virtual reality, motivational interventions) and neuromodulatory 
+interventions such as neurofeedback and transcranial magnetic stimulation. A 
+consistent finding for the effectiveness of therapeutic interventions identifies 
+the improvement of executive control networks and the dampening of limbic 
+activation, highlighting their values as targets for therapeutic interventions 
+in substance use disorders.
+
+DOI: 10.1007/s11481-016-9680-y
+PMID: 27184387 [Indexed for MEDLINE]
+
+
+4. Nihon Arukoru Yakubutsu Igakkai Zasshi. 2016 Aug;51(2):91-100.
+
+Neurofeedback therapy for alcohol use disorder.
+
+[Article in English, Japanese]
+
+Yamaguchi T, Tazaki M.
+
+Neurofeedback is a therapeutic learning process that provides visual and 
+auditory feedback to an individual about his or her brainwaves in order to teach 
+self-regulation of brain func- tion. Currently, neurofeedback therapy has been 
+attempted to apply to various psychiatric disorders and certain therapeutic 
+effects have been shown. The advantage of incorporating neurofeedback therapy to 
+the conventional treatments is 1) the action on the central nervous-system can 
+be expected. by directly reinforcing EEG, 2) on the premise of neural 
+plasticity, without ongoing intervention, long-term therapeutic effect can be 
+expected, 3) except rare temporary headache, no significant side effects are 
+reported, 4) compared to other psychotherapies, neurofeedback is expected to 
+have a therapeutic effect within a relatively short period of time. The present 
+paper outlines neurofeedback therapy in the treatment of alcohol dependence and 
+points out the new direction and remaining issues in neurofeedback therapy.
+
+PMID: 30462384 [Indexed for MEDLINE]
+
+
+5. Neurosci Biobehav Rev. 2024 Oct;165:105865. doi: 
+10.1016/j.neubiorev.2024.105865. Epub 2024 Aug 27.
+
+Real-time fMRI-based neurofeedback to restore brain function in substance use 
+disorders: A systematic review of the literature.
+
+Murphy E(1), Poudel G(2), Ganesan S(3), Suo C(4), Manning V(5), Beyer E(1), 
+Clemente A(1), Moffat BA(6), Zalesky A(7), Lorenzetti V(8).
+
+Author information:
+(1)Neuroscience of Addiction and Mental Health Program, Healthy Brain and Mind 
+Research Centre, School of Behavioral and Health Sciences, Faculty of Health, 
+Australian Catholic University, Australia.
+(2)Mary MacKillop Institute for Health Research, Australian Catholic 
+University, Australia.
+(3)Department of Psychiatry, Melbourne Medical School, The University of 
+Melbourne, Australia; Department of Biomedical Engineering, The University of 
+Melbourne, Australia; Contemplative Studies Centre, Melbourne School of 
+Psychological Sciences, The University of Melbourne, Australia.
+(4)Neuroscience of Addiction and Mental Health Program, Healthy Brain and Mind 
+Research Centre, School of Behavioral and Health Sciences, Faculty of Health, 
+Australian Catholic University, Australia; BrainPark, Turner Institute for Brain 
+and Mental Health, Monash University, Clayton, Australia.
+(5)Monash Addiction Research Centre, Eastern Health Clinical School, Monash 
+University, Clayton, Australia; Turning Point, Eastern 
+Health, Melbourne, Victoria, Australia.
+(6)Melbourne Brain Centre Imaging Unit, Department of Radiology, The University 
+of Melbourne, Australia.
+(7)Department of Psychiatry, Melbourne Medical School, The University of 
+Melbourne, Australia; Department of Biomedical Engineering, The University of 
+Melbourne, Australia.
+(8)Neuroscience of Addiction and Mental Health Program, Healthy Brain and Mind 
+Research Centre, School of Behavioral and Health Sciences, Faculty of Health, 
+Australian Catholic University, Australia. Electronic address: 
+valentina.lorenzetti@gmail.com.
+
+INTRODUCTION: Real-time functional magnetic resonance based-neurofeedback 
+(fMRI-neurofeedback) is a neuromodulation tool where individuals self-modulate 
+brain function based on real-time feedback of their brain activity. 
+fMRI-neurofeedback has been used to target brain dysfunction in substance use 
+disorders (SUDs) and to reduce craving, but a systematic synthesis of up-to-date 
+literature is lacking.
+METHOD: Following PRISMA guidelines, we conducted a systematic review of all the 
+literature that examined the effects of fMRI-neurofeedback on individuals with 
+regular psychoactive substance use (PROSPERO pre-registration = CRD42023401137).
+RESULTS: The literature included 16 studies comprising 446 participants with 
+SUDs involving alcohol, tobacco, and cocaine. There is consistent 
+between-condition (e.g., fMRI-neurofeedback versus control), less consistent 
+pre-to-post fMRI-neurofeedback, and little intervention-by-time effects on brain 
+function in prefrontal-striatal regions and craving.
+CONCLUSION: The evidence for changes in brain function/craving was early and 
+inconsistent. More rigorous experiments including repeated measure designs with 
+placebo control conditions, are required to confirm the efficacy of 
+fMRI-neurofeedback in reducing brain alterations and craving in SUDs.
+
+Copyright © 2024 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.neubiorev.2024.105865
+PMID: 39197715 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The 
+authors have no competing interests to declare. GP was employed by Braincast 
+Neurotechnologies.

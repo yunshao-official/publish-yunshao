@@ -1,0 +1,93 @@
+{
+ "-11": {
+  "R": 10,
+  "Bstar": 4,
+  "undist_offdiag": 2,
+  "same_label_pairs": 2,
+  "bfs_consistent": true
+ },
+ "-29": {
+  "R": 12,
+  "Bstar": 5,
+  "undist_offdiag": 4,
+  "same_label_pairs": 4,
+  "bfs_consistent": true
+ },
+ "-35": {
+  "R": 13,
+  "Bstar": 5,
+  "undist_offdiag": 4,
+  "same_label_pairs": 4,
+  "bfs_consistent": true
+ },
+ "-55": {
+  "R": 14,
+  "Bstar": 5,
+  "undist_offdiag": 14,
+  "same_label_pairs": 14,
+  "bfs_consistent": true
+ },
+ "-128": {
+  "R": 14,
+  "Bstar": 6,
+  "undist_offdiag": 12,
+  "same_label_pairs": 12,
+  "bfs_consistent": true
+ },
+ "-129": {
+  "R": 13,
+  "Bstar": 6,
+  "undist_offdiag": 6,
+  "same_label_pairs": 6,
+  "bfs_consistent": true
+ },
+ "-130": {
+  "R": 13,
+  "Bstar": 6,
+  "undist_offdiag": 12,
+  "same_label_pairs": 12,
+  "bfs_consistent": true
+ },
+ "-131": {
+  "R": 13,
+  "Bstar": 6,
+  "undist_offdiag": 8,
+  "same_label_pairs": 8,
+  "bfs_consistent": true
+ },
+ "-244": {
+  "R": 15,
+  "Bstar": 7,
+  "undist_offdiag": 18,
+  "same_label_pairs": 18,
+  "bfs_consistent": true
+ },
+ "-269": {
+  "R": 18,
+  "Bstar": 7,
+  "undist_offdiag": 14,
+  "same_label_pairs": 14,
+  "bfs_consistent": true
+ },
+ "-486": {
+  "R": 15,
+  "Bstar": 7,
+  "undist_offdiag": 16,
+  "same_label_pairs": 16,
+  "bfs_consistent": true
+ },
+ "-487": {
+  "R": 20,
+  "Bstar": 7,
+  "undist_offdiag": 32,
+  "same_label_pairs": 32,
+  "bfs_consistent": true
+ },
+ "-305": {
+  "R": 18,
+  "Bstar": 7,
+  "undist_offdiag": 14,
+  "same_label_pairs": 14,
+  "bfs_consistent": true
+ }
+}

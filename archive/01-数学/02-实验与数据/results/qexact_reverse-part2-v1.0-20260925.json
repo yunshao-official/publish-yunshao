@@ -1,0 +1,54 @@
+{
+ "meta": {
+  "script": "qexact_reverse-v1.0-20260925.py",
+  "frozen": "2026-09-25T01:49:27"
+ },
+ "DE0": {
+  "N": 16777216,
+  "nonempty_rows": 72,
+  "diag_dominant": 72,
+  "top1_half": 72,
+  "outside_bucket": 16597695,
+  "cand_i": true,
+  "cand_ii": true,
+  "samples": {
+   "0": {
+    "0": 8191
+   },
+   "3": {
+    "3": 3070
+   },
+   "9": {
+    "9": 1534
+   },
+   "27": {
+    "27": 766
+   },
+   "55": {
+    "55": 5610
+   },
+   "45": {
+    "45": 510
+   },
+   "35": {
+    "35": 2550
+   },
+   "63": {
+    "63": 1020
+   },
+   "6": {
+    "6": 8184
+   },
+   "30": {
+    "30": 2040
+   }
+  },
+  "rowsum_nonzero": 72,
+  "matrix_nonzero_cells": 72
+ },
+ "log": [
+  "domain N=16777216 D-range=[-177147,0]",
+  "D-E0 nonempty-rows=72 diag-dominant=72/72 top1>0.5=72/72 outside=16597695",
+  "candidates: (i)=True (ii)=True"
+ ]
+}

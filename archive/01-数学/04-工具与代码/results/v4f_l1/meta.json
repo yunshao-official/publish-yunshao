@@ -1,0 +1,16 @@
+{
+ "engine": "概念宇宙 LLM · L1 知识宇宙（V4-Flash FFN 逐层概念条目）",
+ "shape": [
+  43,
+  256,
+  2048,
+  10
+ ],
+ "valid_entries": 220352947,
+ "coverage": 9.7742,
+ "missing_layers": [],
+ "method": "两段式：C@W_e 簇中心预选 + top1 组式 gemm/top2 逐神经元 gemv 精排（cap300/簇）",
+ "approximation": "top-10 在 top-2 簇成员（≤600 词）内精排——近似全局 top-10，精确全词表版需 24 PFLOP 不可行（诚实标注）",
+ "elapsed_s": 9134.3,
+ "honest_note": "blk.26 等 UD 混合量化异常层 dequant 失败则该层落 -1 并在 stderr 照记；npz cap 300/簇截断可能漏低排名词"
+}

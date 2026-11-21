@@ -1,0 +1,48 @@
+{
+ "scenarios": {
+  "无管理（基线）": {
+   "peak_I": 506021,
+   "t_peak": 30,
+   "peak_pct": 50.6,
+   "melt": false
+  },
+  "恐慌放大": {
+   "peak_I": 856298,
+   "t_peak": 11,
+   "peak_pct": 85.6,
+   "melt": false
+  },
+  "分阶段释放（Day0确认/D7证据/D30全公开）": {
+   "peak_I": 696575,
+   "t_peak": 33,
+   "peak_pct": 69.7,
+   "melt": false
+  },
+  "分阶段+熔断(5%)": {
+   "peak_I": 306640,
+   "t_peak": 46,
+   "peak_pct": 30.7,
+   "melt": false
+  },
+  "分阶段+熔断(2%)": {
+   "peak_I": 305595,
+   "t_peak": 51,
+   "peak_pct": 30.6,
+   "melt": false
+  }
+ },
+ "groups": {
+  "科技群体": {
+   "beta_mult": 1.5,
+   "gamma_mult": 2.0
+  },
+  "传统群体": {
+   "beta_mult": 0.5,
+   "gamma_mult": 0.5
+  },
+  "一般公众": {
+   "beta_mult": 1.0,
+   "gamma_mult": 1.0
+  }
+ }
+}

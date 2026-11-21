@@ -1,0 +1,298 @@
+{
+ "script": "ta_tower_graph_hamilton-v1.0-20260927.py",
+ "prereg": "塔交互三构想·预注册判据书-v1.0-20260927.md",
+ "ran_at": "2026-09-27T04:26:28",
+ "platform": "Windows-11-10.0.22631-SP0",
+ "results": {
+  "10t_th12": {
+   "n_towers": 10,
+   "threshold": 12,
+   "n_nodes": 10,
+   "n_edges": 45,
+   "connected": true,
+   "deg_min_max": [
+    9,
+    9
+   ],
+   "avg_deg": 9.0,
+   "capacity": {
+    "L_size": 1,
+    "note": "低度顶点<2，容量判据无靶",
+    "L_independent": false,
+    "KILL": false
+   },
+   "lambda2": 10.0,
+   "hamilton": {
+    "exists": true,
+    "count_capped": 100000,
+    "cap": 100000
+   }
+  },
+  "10t_th4": {
+   "n_towers": 10,
+   "threshold": 4,
+   "n_nodes": 10,
+   "n_edges": 45,
+   "connected": true,
+   "deg_min_max": [
+    9,
+    9
+   ],
+   "avg_deg": 9.0,
+   "capacity": {
+    "L_size": 1,
+    "note": "低度顶点<2，容量判据无靶",
+    "L_independent": false,
+    "KILL": false
+   },
+   "lambda2": 10.0,
+   "hamilton": {
+    "exists": true,
+    "count_capped": 100000,
+    "cap": 100000
+   }
+  },
+  "10t_th48": {
+   "n_towers": 10,
+   "threshold": 48,
+   "n_nodes": 10,
+   "n_edges": 18,
+   "connected": true,
+   "deg_min_max": [
+    1,
+    6
+   ],
+   "avg_deg": 3.6,
+   "capacity": {
+    "L_size": 3,
+    "flow": 3,
+    "need": 4,
+    "L_independent": true,
+    "KILL": true
+   },
+   "lambda2": 0.8074,
+   "hamilton": {
+    "exists": null,
+    "note": "定理A判死（H-KILL照记），不进回溯"
+   }
+  },
+  "20t_th12": {
+   "n_towers": 20,
+   "threshold": 12,
+   "n_nodes": 20,
+   "n_edges": 190,
+   "connected": true,
+   "deg_min_max": [
+    19,
+    19
+   ],
+   "avg_deg": 19.0,
+   "capacity": {
+    "L_size": 1,
+    "note": "低度顶点<2，容量判据无靶",
+    "L_independent": false,
+    "KILL": false
+   },
+   "lambda2": 20.0,
+   "hamilton": {
+    "exists": true,
+    "count_capped": 100000,
+    "cap": 100000
+   }
+  },
+  "20t_th4": {
+   "n_towers": 20,
+   "threshold": 4,
+   "n_nodes": 20,
+   "n_edges": 190,
+   "connected": true,
+   "deg_min_max": [
+    19,
+    19
+   ],
+   "avg_deg": 19.0,
+   "capacity": {
+    "L_size": 1,
+    "note": "低度顶点<2，容量判据无靶",
+    "L_independent": false,
+    "KILL": false
+   },
+   "lambda2": 20.0,
+   "hamilton": {
+    "exists": true,
+    "count_capped": 100000,
+    "cap": 100000
+   }
+  },
+  "20t_th48": {
+   "n_towers": 20,
+   "threshold": 48,
+   "n_nodes": 20,
+   "n_edges": 75,
+   "connected": true,
+   "deg_min_max": [
+    2,
+    14
+   ],
+   "avg_deg": 7.5,
+   "capacity": {
+    "L_size": 2,
+    "flow": 4,
+    "need": 2,
+    "L_independent": true,
+    "KILL": false
+   },
+   "lambda2": 1.3226,
+   "hamilton": {
+    "exists": true,
+    "count_capped": 100000,
+    "cap": 100000
+   }
+  },
+  "30t_th12": {
+   "n_towers": 30,
+   "threshold": 12,
+   "n_nodes": 30,
+   "n_edges": 435,
+   "connected": true,
+   "deg_min_max": [
+    29,
+    29
+   ],
+   "avg_deg": 29.0,
+   "capacity": {
+    "L_size": 1,
+    "note": "低度顶点<2，容量判据无靶",
+    "L_independent": false,
+    "KILL": false
+   },
+   "lambda2": 30.0,
+   "hamilton": {
+    "exists": true,
+    "count_capped": 100000,
+    "cap": 100000
+   }
+  },
+  "30t_th4": {
+   "n_towers": 30,
+   "threshold": 4,
+   "n_nodes": 30,
+   "n_edges": 435,
+   "connected": true,
+   "deg_min_max": [
+    29,
+    29
+   ],
+   "avg_deg": 29.0,
+   "capacity": {
+    "L_size": 1,
+    "note": "低度顶点<2，容量判据无靶",
+    "L_independent": false,
+    "KILL": false
+   },
+   "lambda2": 30.0,
+   "hamilton": {
+    "exists": true,
+    "count_capped": 100000,
+    "cap": 100000
+   }
+  },
+  "30t_th48": {
+   "n_towers": 30,
+   "threshold": 48,
+   "n_nodes": 30,
+   "n_edges": 188,
+   "connected": true,
+   "deg_min_max": [
+    2,
+    21
+   ],
+   "avg_deg": 12.53,
+   "capacity": {
+    "L_size": 1,
+    "note": "低度顶点<2，容量判据无靶",
+    "L_independent": true,
+    "KILL": false
+   },
+   "lambda2": 1.724,
+   "hamilton": {
+    "exists": true,
+    "count_capped": 100000,
+    "cap": 100000
+   }
+  },
+  "40t_th12": {
+   "n_towers": 40,
+   "threshold": 12,
+   "n_nodes": 40,
+   "n_edges": 780,
+   "connected": true,
+   "deg_min_max": [
+    39,
+    39
+   ],
+   "avg_deg": 39.0,
+   "capacity": {
+    "L_size": 1,
+    "note": "低度顶点<2，容量判据无靶",
+    "L_independent": false,
+    "KILL": false
+   },
+   "lambda2": 40.0,
+   "hamilton": {
+    "exists": true,
+    "count_capped": 100000,
+    "cap": 100000
+   }
+  },
+  "40t_th4": {
+   "n_towers": 40,
+   "threshold": 4,
+   "n_nodes": 40,
+   "n_edges": 780,
+   "connected": true,
+   "deg_min_max": [
+    39,
+    39
+   ],
+   "avg_deg": 39.0,
+   "capacity": {
+    "L_size": 1,
+    "note": "低度顶点<2，容量判据无靶",
+    "L_independent": false,
+    "KILL": false
+   },
+   "lambda2": 40.0,
+   "hamilton": {
+    "exists": true,
+    "count_capped": 100000,
+    "cap": 100000
+   }
+  },
+  "40t_th48": {
+   "n_towers": 40,
+   "threshold": 48,
+   "n_nodes": 40,
+   "n_edges": 336,
+   "connected": true,
+   "deg_min_max": [
+    3,
+    29
+   ],
+   "avg_deg": 16.8,
+   "capacity": {
+    "L_size": 2,
+    "flow": 4,
+    "need": 2,
+    "L_independent": true,
+    "KILL": false
+   },
+   "lambda2": 2.3029,
+   "hamilton": {
+    "exists": true,
+    "count_capped": 100000,
+    "cap": 100000
+   }
+  }
+ }
+}

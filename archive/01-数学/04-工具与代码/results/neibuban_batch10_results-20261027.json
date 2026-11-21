@@ -1,0 +1,305 @@
+{
+ "meta": {
+  "started": "2026-10-27 19:43:28",
+  "batch": 10,
+  "X": "X-32",
+  "grid_n": 120,
+  "N_min": 1000,
+  "N_max": 1000000,
+  "sieve_bound": 2000000,
+  "elapsed_s": 0.09,
+  "X33_elapsed_s": 104.47
+ },
+ "X32": {
+  "frozen_v1.7_verdict": {
+   "X32a": false,
+   "X32b": false,
+   "X32c": false,
+   "why": "v1.7 判据方向写反（把抑制类写成 N mod3 != r mod3）；按冻结文本照记 FAIL，不回改"
+  },
+  "erratum_1_direction": "q=N-p≡0(mod3) iff N≡r(mod3)；正确抑制类=N mod3==r mod3（而不是 !=",
+  "erratum_2_expectation": "抑制类中 q=3 要求 p=N-3>N/2，与 p≤N/2 冲突；故抑制类 χ_r 恒为 0（不是 0/1 结构）",
+  "corrected_read": {
+   "suppressed_cells": 336,
+   "suppressed_nonzero": [],
+   "X32a_corrected": true,
+   "fit_normal_classes": {
+    "1": {
+     "C_r": 0.2160822600660402,
+     "R2": 0.9212913861128822,
+     "n": 27,
+     "pass": false
+    },
+    "5": {
+     "C_r": 0.23010231047908075,
+     "R2": 0.908393440854097,
+     "n": 25,
+     "pass": false
+    },
+    "7": {
+     "C_r": 0.22075593097010401,
+     "R2": 0.9145870639544286,
+     "n": 27,
+     "pass": false
+    },
+    "11": {
+     "C_r": 0.2295492809634301,
+     "R2": 0.9082924383582786,
+     "n": 25,
+     "pass": false
+    },
+    "13": {
+     "C_r": 0.2199512267482297,
+     "R2": 0.9202918772619385,
+     "n": 27,
+     "pass": false
+    },
+    "17": {
+     "C_r": 0.2287656385596768,
+     "R2": 0.9079348092910804,
+     "n": 25,
+     "pass": false
+    },
+    "19": {
+     "C_r": 0.22014248550218335,
+     "R2": 0.9195397655599077,
+     "n": 27,
+     "pass": false
+    },
+    "23": {
+     "C_r": 0.22916451433082605,
+     "R2": 0.9239551183164381,
+     "n": 25,
+     "pass": false
+    }
+   },
+   "X32b_corrected": false,
+   "zero_total_Nge1000": 336,
+   "zero_explained_fraction": 1.0,
+   "X32c_corrected": true,
+   "count_consistency": {
+    "100000": {
+     "sum_chi": 810,
+     "goldbach_G": 810,
+     "ratio": 0.5
+    },
+    "500000": {
+     "sum_chi": 3052,
+     "goldbach_G": 3052,
+     "ratio": 0.5
+    },
+    "999990": {
+     "sum_chi": 11143,
+     "goldbach_G": 11143,
+     "ratio": 0.5
+    }
+   }
+  },
+  "structural_finding": "8 类中恰 1/3 的 (N,r) 格（N≡r mod3）结构性恒空；X-29 的空格率由此完全解释；其余 2/3 格符合 χ_r≈C_r·N/ln²N（R²≈0.91-0.92，未达冻结 0.95）",
+  "density_table": {
+   "C_r_range": [
+    0.2160822600660402,
+    0.23010231047908075
+   ],
+   "by_class": {
+    "1": 0.2161,
+    "5": 0.2301,
+    "7": 0.2208,
+    "11": 0.2295,
+    "13": 0.22,
+    "17": 0.2288,
+    "19": 0.2201,
+    "23": 0.2292
+   }
+  }
+ },
+ "X33": {
+  "method": "complete DFS over C(12,4)=495 degree-2 vertex sets, triangle-free pruning",
+  "derived_lemma": "tr(L^3)=sum d^3+3 sum d^2-6T; fixed degree sequence => target 1624 <=> T=12 (no cross-edge triangle)",
+  "degree_sequence": {
+   "extra": "4 vertices x2, 8 vertices x1",
+   "full": "4 vertices x5, 8 vertices x4"
+  },
+  "labeled_configs": 451008,
+  "p4_pass": 1728,
+  "p4_p5_pass": 1728,
+  "spectrum_hits": 1728,
+  "iso_classes": 1,
+  "classes": [
+   {
+    "edges": [
+     [
+      0,
+      4
+     ],
+     [
+      0,
+      8
+     ],
+     [
+      1,
+      5
+     ],
+     [
+      1,
+      9
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      2,
+      10
+     ],
+     [
+      3,
+      7
+     ],
+     [
+      3,
+      11
+     ]
+    ],
+    "labeled_count": 1728,
+    "aut": 48,
+    "split": {
+     "L0-L1": 4,
+     "L0-L2": 4,
+     "L1-L2": 0
+    },
+    "spectrum": [
+     -0.0,
+     1.0,
+     3.0,
+     4.0,
+     4.0,
+     4.0,
+     5.0,
+     5.0,
+     5.0,
+     7.0,
+     7.0,
+     7.0
+    ],
+    "canonical_edges": [
+     [
+      0,
+      4
+     ],
+     [
+      0,
+      8
+     ],
+     [
+      1,
+      5
+     ],
+     [
+      1,
+      9
+     ],
+     [
+      2,
+      6
+     ],
+     [
+      2,
+      10
+     ],
+     [
+      3,
+      7
+     ],
+     [
+      3,
+      11
+     ]
+    ]
+   }
+  ],
+  "canonical_edges_present": true,
+  "X33a_complete": true,
+  "X33b_class_count": 1,
+  "X33c_canonical_ok": true,
+  "erratum": "首跑两处实现错误：①build_L 漏加层内 18 边（0 命中）②修正时度数基址重复（谱整体平移+3）。本版为最终数值；错误过程留档",
+  "note": "T=12 强制唯一 K4 块分解，块保持群 ((S4)^3 x S3, 阶 82944) 去重完备；枚举无封顶",
+  "orbit_check": {
+   "group_order": 82944,
+   "aut": 48,
+   "orbit_size_expected": 1728,
+   "labeled_hits": 1728,
+   "match": true
+  },
+  "canonical_edges": [
+   [
+    0,
+    4
+   ],
+   [
+    0,
+    8
+   ],
+   [
+    1,
+    6
+   ],
+   [
+    1,
+    10
+   ],
+   [
+    2,
+    7
+   ],
+   [
+    2,
+    9
+   ],
+   [
+    3,
+    5
+   ],
+   [
+    3,
+    11
+   ]
+  ],
+  "conclusion": "完整枚举下目标谱的同构类数=1；命中标记数恰等于群阶/Aut=82944/48=1728，证明命中集就是正典轨道本身；唯一性由采样级升为完整枚举级",
+  "canonical_iso_to_rep": true,
+  "class_rep_edges": [
+   [
+    0,
+    4
+   ],
+   [
+    0,
+    8
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    1,
+    9
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    2,
+    10
+   ],
+   [
+    3,
+    7
+   ],
+   [
+    3,
+    11
+   ]
+  ]
+ }
+}

@@ -1,0 +1,51 @@
+[ABHS19] Amir Abboud, Karl Bringmann, Danny Hermelin, and Dvir Shabtay. SETH-Based Lower Bounds for Subset Sum and Bicriteria Path. 30th ACM�SIAM Symposium on Discrete Algorithms, 2019, 41�57. 5 
+[AW14] Amir Abboud and Virginia Vassilevska Williams. Popular Conjectures Imply Strong Lower Bounds for Dynamic Problems. 55th IEEE Symposium on Foundations of Computer Science, 2014, 434�443. 5 
+[AGP23] Josh Alman, Yunfeng Guan, and Ashwin Padaki. Smaller Low-Depth Circuits for Kronecker Powers. 34th ACM�SIAM Symposium on Discrete Algorithms, 2023, 4159�4187. 6 
+[AW15] Josh Alman and Ryan Williams. Probabilistic Polynomials and Hamming Nearest Neighbors. 56th IEEE Symposium on Foundations of Computer Science, 2015, 136�150. 6 
+[AW17] Josh Alman and Ryan Williams. Probabilistic Rank and Matrix Rigidity. 49th ACM Symposium on Theory of Computing, 2017, 641�652. 6 
+[AR94] Noga Alon and Yuval Roichman. Random Cayley Graphs and Expanders. Random Structures & Algorithms 5(2), 1994, 271�284. 7 
+[BI16] Arturs Backurs and Piotr Indyk. Which Regular Expression Patterns Are Hard to Match? 57th IEEE Symposium on Foundations of Computer Science, 2016, 457�466. 5 THE EXPONENTIAL TIME HYPOTHESIS IS FALSE  65 
+[BI18] Arturs Backurs and Piotr Indyk. Edit Distance Cannot Be Computed in Strongly Subquadratic Time (unless SETH is false). SIAM Journal on Computing 47(3), 2018, 1087�1097. Conference version in STOC 2015. 5 
+[Bar23] Boaz Barak. Introduction to Theoretical Computer Science. Online textbook, 2023. Chapter 15, Lem- mas 15.9�15.10. Archived 2023 edition (v0.95). 2, 3 
+[Bar68] Erwin H. Bareiss. Sylvester's Identity and Multistep Integer-Preserving Gaussian Elimination. Mathematics of Computation 22(103), 1968, 565�578. 50 
+[BI13] Chris Beck and Russell Impagliazzo. Strong ETH Holds for Regular Resolution. 45th ACM Symposium on Theory of Computing, 2013, 487�494. 4 
+[BT94] Richard Beigel and Jun Tarui. On ACC . Computational Complexity 4(4), 1994, 350�366. 36
+
+[BGKM23] Vishwas Bhargava, Sumanta Ghosh, Mrinal Kumar, and Chandra Kanta Mohapatra. Fast, Algebraic Multivariate Multipoint Evaluation in Small Characteristic and Applications. Journal of the ACM 70(6), 2023, 42:1�42:46. Conference versio
+[BKW19] Andreas Bj�rklund, Petteri Kaski, and Ryan Williams. Generalized Kakeya Sets for Polynomial Evaluation and Faster Computation of Fermionants. Algorithmica 81, 2019, 4010�4028. Conference version in IPEC 2017. 5
+
+[Bri14] Karl Bringmann. Why Walking the Dog Takes Time: Fr�chet Distance Has No Strongly Subquadratic Algorithms Unless SETH Fails. 55th IEEE Symposium on Foundations of Computer Science, 2014, 661�670. 5
+
+[BK15] Karl Bringmann and Marvin K�nnemann. Quadratic Conditional Lower Bounds for String Problems and Dynamic Time Warping. 56th IEEE Symposium on Foundations of Computer Science, 2015, 79�97. 5
+
+[Cal09] Chris Calabro. The Exponential Complexity of Satisfiability Problems. Ph.D. dissertation, University of California, San Diego, 2009. Chapter 5. 6, 18
+
+[CIP06] Chris Calabro, Russell Impagliazzo, and Ramamohan Paturi. A Duality between Clause Width and Clause Density for SAT . 21st IEEE Conference on Computational Complexity, 2006, 252�260. 6, 18, 44
+[CGI+16] Marco L. Carmosino, Jiawei G
+[CW21] Timothy M. Chan and R. Ryan Williams. Deterministic APSP, Orthogonal Vectors, and More: Quickly Derandomizing Razborov�Smolensky. ACM Transactions on Algorithms 17(1), Article 2, 2021, 1�14. Authors' manuscript, Theorems 1.6 and 2
+[CHKX06] Jianer Chen, Xiuzhen Huang, Iyad A. Kanj, and Ge Xia. Strong Computational Lower Bounds via Parameterized Complexity. Journal of Computer and System Sciences 72(8), 2006, 1346�1367. 5
+
+[CLWYY25] Zongchen Chen, Aditya Lonkar, Chunyang Wang, Kuan Yang, and Yitong Yin. Counting Random k-SAT near the Satisfiability Threshold . 57th ACM Symposium on Theory of Computing, 2025, 867�878. Theorem 1.2 is numbered as in the authors'
+[Coo71] Stephen A. Cook. The Complexity of Theorem-Proving Procedures. 3rd ACM Symposium on Theory of Computing, 1971, 151�158. 1
+
+[Cur18] Radu Curticapean. Block Interpolation: A Framework for Tight Exponential-Time Counting Complexity. Information and Computation 261, Part 2, 2018, 265�280. Conference version in ICALP 2015. 4
+[CDL+16] Marek Cygan, Holger Dell, Dani
+[Din16] Irit Dinur. Mildly Exponential Reduction from Gap 3SAT to Polynomial-Gap Label-Cover . Electronic Colloquium on Computational Complexity, Report TR16-128, 2016. 4
+
+[DL20] Zeev Dvir and Allen Liu. Fourier and Circulant Matrices are Not Rigid . Theory of Computing 16(20), 2020, 1�48. 6
+
+[vzGG13] Joachim von zur Gathen and J�rgen Gerhard. Modern Computer Algebra. 3rd edition, Cambridge University Press, 2013. 57, 58, 60 66                                     OPENAI 
+[Gol00] Oded Goldreich. Candidate One-Way Functions Based on Expander Graphs. Electronic Colloquium on Computational Complexity, Report TR00-090, 2000. 53 
+[Gol08] Oded Goldreich. P, NP, and NP-Completeness: The Basics of Computational Complexity. Author's draft, June 14, 2008, Proposition 4.7. The Cambridge University Press edition appeared in 2010. 19 
+[HKZZ19] Thomas Dueholm Hansen, Haim Kaplan, Or Zamir, and Uri Zwick. Faster k-SAT Algorithms Using Biased-PPSZ . 51st ACM Symposium on Theory of Computing, 2019, 578�589. 3 
+[Her14] Timon Hertli. 3-SAT Faster and Simpler--Unique-SAT Bounds for PPSZ Hold in General . SIAM Journal on Computing 43(2), 2014, 718�729. Conference version in FOCS 2011. 3 
+[Hus11] Thore Husfeldt. Invitation to Algorithmic Uses of Inclusion�Exclusion. 38th International Colloquium on Automata, Languages, and Programming, Part II, Lecture Notes in Computer Science 6756, 2011, 42�59. 5
+
+[IMP12] Russell Impagliazzo, William Matthews, and Ramamohan Paturi. A Satisfiability Algorithm for AC0. 23rd ACM�SIAM Symposium on Discrete Algorithms, 2012, 961�972. Publisher's version. 4 
+[IP01] Russell Impagliazzo and Ramamohan Paturi. On the Complexity of k-SAT . Journal of Computer and System Sciences 62(2), 2001, 367�375. 1, 4 
+[IPZ01] Russell Impagliazzo, Ramamohan Paturi, and Francis Zane. Which Problems Have Strongly Exponential Complexity? Journal of Computer and System Sciences 63(4), 2001, 512�530. 1, 5, 6, 18 
+[JMV13] Hamid Jahanjou, Eric Miles, and Emanuele Viola. Local Reductions. Electronic Colloquium on Compu- tational Complexity, Report TR13-099, revision 2, 2013. Conference version in ICALP 2015, 749�760. 51 
+[JVV86] Mark R. Jerrum, Leslie G. Valiant, and Vijay V. Vazirani. Random Generation of Combinatorial Structures from a Uniform Distribution. Theoretical Computer Science 43(2�3), 1986, 169�188. 2, 53 
+[JC26] Tao Jiang and Shaowei Cai. A Better Analysis For PPSZ For 3-SAT . arXiv:2607.10697, 2026. 3 
+[Koi06] Mikko Koivisto. Optimal 2-Constraint Satisfaction via Sum�Product Algorithms. Information Processing Letters 98(1), 2006, 24�28. 5 
+[KSY14] Swastik Kopparty, Shubhangi Saraf, and Sergey Yekhanin. High-Rate Codes with Sublinear-Time Decoding. Journa

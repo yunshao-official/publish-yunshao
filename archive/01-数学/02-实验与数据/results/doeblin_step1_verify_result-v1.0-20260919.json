@@ -1,0 +1,91 @@
+{
+ "script_clock_first_run": "2026-09-19 22:47:29",
+ "frozen_evidence": "判据书NTFS创建 2026-09-19 22:43:40（本脚本首跑晚于冻结）",
+ "params": {
+  "D": 12,
+  "Lambda_main": 1,
+  "Nstates_main": 4096,
+  "alpha": 0.125,
+  "delta": 0.1,
+  "beta": 1.0,
+  "eps": 2.44140625e-05,
+  "seed": 20260919,
+  "Lambda_check": 2,
+  "Nstates_check": 531441,
+  "eps2": 1.881676423158921e-07
+ },
+ "T0": {
+  "e_well_defined_all_states": true,
+  "row_sum_max_dev": 4.440892098500626e-16,
+  "qbar_sum_dev": 0.0,
+  "pass": true
+ },
+ "T1": {
+  "min_P": 2.44140625e-05,
+  "eps": 2.44140625e-05,
+  "pass": true
+ },
+ "T2": {
+  "support_strongly_connected": true,
+  "diag_min": 2.44140625e-05,
+  "aperiodic_all_selfloop_pos": true,
+  "record_ed_components": 2047,
+  "note": "去注入(E∘D)支撑图连通分量数=记录项（预期可能>1：注入项是连通性承担者）",
+  "pass": true
+ },
+ "T3": {
+  "piP_minus_pi_L1": 9.751930979320228e-15,
+  "pi_all_positive": true,
+  "pi_sum_dev": 2.220446049250313e-16,
+  "power_vs_solve_L1": 2.132847097855795e-12,
+  "pass": true
+ },
+ "T4": {
+  "single_allzero": {
+   "upper_bound_all_points": true,
+   "tv_1500": 1.3940468245911275e-16,
+   "final_lt_1e-6": true,
+   "monotone": true,
+   "t_mix_0.01": 20,
+   "tv_max": 0.7873077392578125
+  },
+  "uniform": {
+   "upper_bound_all_points": true,
+   "tv_1500": 2.3081647812679684e-16,
+   "final_lt_1e-6": true,
+   "monotone": true,
+   "t_mix_0.01": 14,
+   "tv_max": 0.19805814302884625
+  },
+  "e_fixed_points": {
+   "upper_bound_all_points": true,
+   "tv_1500": 1.1816787240555293e-16,
+   "final_lt_1e-6": true,
+   "monotone": true,
+   "t_mix_0.01": 20,
+   "tv_max": 0.7871154785156249
+  }
+ },
+ "T4_pass": true,
+ "T5": {
+  "t_mix_0.01_per_seq": {
+   "single_allzero": 20,
+   "uniform": 14,
+   "e_fixed_points": 20
+  },
+  "lam2_est": 0.9999222311021492,
+  "spectral_gap_est": 7.77688978508273e-05,
+  "pi_min": 2.441406249999999e-05,
+  "pi_max": 0.001473380135489509,
+  "doeblin_bound_at_1500": 0.9640409164789652
+ },
+ "T6": {
+  "e_well_defined_1e6": true,
+  "doeblin_sample_1e4": true,
+  "qbar_pos_1e4": true,
+  "note": "抽查级：不跑幂迭代（级差如实声明）",
+  "pass": true
+ },
+ "overall_T0_T4": true,
+ "clock_finished": "2026-09-19 22:58:58"
+}

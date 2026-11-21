@@ -1,0 +1,12 @@
+{
+ "k": 0,
+ "d_k_decimal": "1",
+ "d_k_digits": 1,
+ "d_k_sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+ "F_kp1_decimal": "1",
+ "F_kp1_digits": 1,
+ "F_kp1_sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+ "mod_P1_F": 1,
+ "mod_P2_F": 1,
+ "elapsed_s": 0.0
+}

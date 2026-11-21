@@ -1,0 +1,19 @@
+{
+ "engine": "v3宇宙为主门为辅（宇宙草稿k=8+30B段级验证+置信门控）",
+ "topic": "夜晚的天空",
+ "output": "夜晚的天空上的月亮希望和：月1.  **《民法典》第民上中  \n  \n谓\n\n",
+ "metrics": {
+  "words_out_V41": 126,
+  "segments": 40,
+  "accepted_rate": 0.067,
+  "gate_forwards": 15,
+  "wall_s": 11.9,
+  "equiv_tok_s": 10.6,
+  "chars_out": 33
+ },
+ "params": {
+  "K_DRAFT": 8,
+  "ACCEPT_LP": -2.5,
+  "TAU": 0.8
+ }
+}

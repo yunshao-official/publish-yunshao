@@ -1,0 +1,51 @@
+检索式编号	数据库	检索式原文	执行UTC时间	HTTP状态	hitCount	取回条数	语法修订	保存文件名
+A1	Europe PMC	digoxin AND heart failure AND PUBTYPE:"Clinical Trial"	2026-11-03T04:27:43Z	200	0	0	-	A_A1.json
+A2	Europe PMC	dobutamine AND randomized	2026-11-03T04:27:44Z	200	7595	50	-	A_A2.json
+A3	Europe PMC	milrinone AND heart failure AND mortality	2026-11-03T04:27:46Z	200	5209	50	-	A_A3.json
+A4	Europe PMC	levosimendan AND trial	2026-11-03T04:27:48Z	200	2131	50	-	A_A4.json
+A5	Europe PMC	pimobendan	2026-11-03T04:27:50Z	200	1514	50	-	A_A5.json
+A6	Europe PMC	omecamtiv mecarbil AND GALACTIC	2026-11-03T04:27:52Z	200	219	50	-	A_A6.json
+A7	Europe PMC	cardiac myosin activator	2026-11-03T04:27:54Z	200	14112	50	-	A_A7.json
+A8	Europe PMC	beta blocker AND heart failure AND mortality AND randomized	2026-11-03T04:27:56Z	200	17891	50	-	A_A8.json
+A9	Europe PMC	ivabradine AND SHIFT	2026-11-03T04:27:58Z	200	1528	50	-	A_A9.json
+A10	Europe PMC	(SERCA2a OR phospholamban) AND contractility	2026-11-03T04:28:00Z	200	6227	50	-	A_A10.json
+B1	Europe PMC	rapamycin AND lifespan AND mouse	2026-11-03T04:28:03Z	200	11979	50	-	B_B1.json
+B2	Europe PMC	metformin AND aging AND trial	2026-11-03T04:28:05Z	200	12088	50	-	B_B2.json
+B3	Europe PMC	(nicotinamide riboside OR NMN) AND human trial	2026-11-03T04:28:06Z	200	22385	50	-	B_B3.json
+B4	Europe PMC	(dasatinib AND quercetin) AND senolytic	2026-11-03T04:28:08Z	200	2478	50	-	B_B4.json
+B5	Europe PMC	fisetin AND senolytic	2026-11-03T04:28:10Z	200	1240	50	-	B_B5.json
+B6	Europe PMC	spermidine AND autophagy AND longevity	2026-11-03T04:28:12Z	200	1346	50	-	B_B6.json
+B7	Europe PMC	urolithin A AND mitophagy	2026-11-03T04:28:14Z	200	1459	50	-	B_B7.json
+B8	Europe PMC	(glycine AND N-acetylcysteine) OR GlyNAC	2026-11-03T04:28:15Z	200	6544	50	-	B_B8.json
+B9	Europe PMC	partial reprogramming AND aging	2026-11-03T04:28:17Z	200	12059	50	-	B_B9.json
+B10	Europe PMC	senescence AND intervention AND aged	2026-11-03T04:28:19Z	200	34364	50	-	B_B10.json
+B11	Europe PMC	caloric restriction AND primate	2026-11-03T04:28:21Z	200	1504	50	-	B_B11.json
+B12	Europe PMC	(torpor OR hypometabolism) AND organ protection	2026-11-03T04:28:23Z	200	1092	50	-	B_B12.json
+C1	Europe PMC	aducanumab AND withdrawal	2026-11-03T04:28:24Z	200	352	50	-	C_C1.json
+C2	Europe PMC	rapamycin AND dog AND trial	2026-11-03T04:28:26Z	200	943	50	-	C_C2.json
+C3	Europe PMC	(NMN OR nicotinamide riboside) AND randomized AND (no effect OR null OR unchanged)	2026-11-03T04:28:28Z	200	1703	50	-	C_C3.json
+C4	Europe PMC	senolytic AND (failure OR did not)	2026-11-03T04:28:30Z	200	5184	50	-	C_C4.json
+C5	Europe PMC	metformin AND cancer AND mortality	2026-11-03T04:28:32Z	200	24748	50	-	C_C5.json
+C6	Europe PMC	NAD+ AND trial AND (no benefit OR futile)	2026-11-03T04:28:34Z	200	11378	50	-	C_C6.json
+C7	Europe PMC	"dietary supplement" AND "adjunctive cancer therapy" AND adverse	2026-11-03T04:28:35Z	200	5	5	-	C_C7.json
+C8	Europe PMC	positive inotrope AND increased mortality	2026-11-03T04:28:37Z	200	3940	50	-	C_C8.json
+D1	Europe PMC	"cytochrome c oxidase" AND near-infrared AND absorption spectrum	2026-11-03T04:28:39Z	200	1374	50	-	D_D1.json
+D2	Europe PMC	photobiomodulation AND (720 OR 730 OR 960 OR 980) AND mitochondria	2026-11-03T04:28:42Z	200	331	50	-	D_D2.json
+D3	Europe PMC	tissue optical window AND (hemoglobin OR water) absorption	2026-11-03T04:28:44Z	200	19664	50	-	D_D3.json
+D4	Europe PMC	myocardial efficiency AND oxygen consumption	2026-11-03T04:28:46Z	200	17860	50	-	D_D4.json
+D5	Europe PMC	cardiomyocyte renewal AND turnover AND age	2026-11-03T04:28:48Z	200	998	50	-	D_D5.json
+D6	Europe PMC	cardiac power output AND cardiac index	2026-11-03T04:28:50Z	200	44089	50	-	D_D6.json
+A3-core	Europe PMC	milrinone AND heart failure AND mortality	2026-11-03T04:28:52Z	200	5209	25	-	A_A3_core.json
+A8-core	Europe PMC	beta blocker AND heart failure AND mortality AND randomized	2026-11-03T04:28:54Z	200	17891	25	-	A_A8_core.json
+A9-core	Europe PMC	ivabradine AND SHIFT	2026-11-03T04:28:56Z	200	1528	25	-	A_A9_core.json
+B1-core	Europe PMC	rapamycin AND lifespan AND mouse	2026-11-03T04:28:57Z	200	11979	25	-	B_B1_core.json
+B3-core	Europe PMC	(nicotinamide riboside OR NMN) AND human trial	2026-11-03T04:28:59Z	200	22385	25	-	B_B3_core.json
+B9-core	Europe PMC	partial reprogramming AND aging	2026-11-03T04:29:01Z	200	12059	25	-	B_B9_core.json
+B11-core	Europe PMC	caloric restriction AND primate	2026-11-03T04:29:03Z	200	1504	25	-	B_B11_core.json
+C2-core	Europe PMC	rapamycin AND dog AND trial	2026-11-03T04:29:05Z	200	943	25	-	C_C2_core.json
+C8-core	Europe PMC	positive inotrope AND increased mortality	2026-11-03T04:29:07Z	200	3940	25	-	C_C8_core.json
+D1-core	Europe PMC	"cytochrome c oxidase" AND near-infrared AND absorption spectrum	2026-11-03T04:29:09Z	200	1374	25	-	D_D1_core.json
+D2-core	Europe PMC	photobiomodulation AND (720 OR 730 OR 960 OR 980) AND mitochondria	2026-11-03T04:29:11Z	200	331	25	-	D_D2_core.json
+D4-core	Europe PMC	myocardial efficiency AND oxygen consumption	2026-11-03T04:29:13Z	200	17860	25	-	D_D4_core.json
+D5-core	Europe PMC	cardiomyocyte renewal AND turnover AND age	2026-11-03T04:29:15Z	200	998	25	-	D_D5_core.json
+D6-core	Europe PMC	cardiac power output AND cardiac index	2026-11-03T04:29:17Z	200	44089	25	-	D_D6_core.json

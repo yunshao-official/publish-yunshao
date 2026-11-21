@@ -1,0 +1,125 @@
+{
+ "meta": {
+  "started": "2026-10-26 04:33:36",
+  "batch": 4,
+  "v2": "首跑stub-match树~1e9 OOM作废,换采样饱和法",
+  "elapsed": 195.2
+ },
+ "X16": {
+  "spearman_k_vs_KL": -0.0363,
+  "X16a": false,
+  "KL_ratio": 7.58268,
+  "X16b": false,
+  "spearman_k_vs_H": -0.006,
+  "X16c": false,
+  "KL_start": 0.000137,
+  "KL_end": 0.00104003,
+  "supplement_concentrated_start": {
+   "start_concentrated": true,
+   "KL_start": 1.1507,
+   "KL_half": 0.000878,
+   "KL_end": 0.00052515,
+   "ratio_end_over_start": 0.000456,
+   "spearman_full": 0.014,
+   "spearman_first_half": -0.039,
+   "verdict_prefix": "冻结判据X16a/b/c全FAIL（均匀初值=平稳初值无瞬态,判据设计失误照记）;补充集中初值下KL强烈衰减=李雅普诺夫性在有效瞬态下成立(弱形态)"
+  }
+ },
+ "X17": {
+  "method": "random saturation sampling 3e6 (full enumeration infeasible in-process: stub tree ~1e9; honest capped per criteria v1.3)",
+  "tries": 3000000,
+  "raw_hits": 78,
+  "iso_classes": 1,
+  "last_new_hit_at_try": 2993718,
+  "saturation": false,
+  "classes": [
+   {
+    "edges": [
+     [
+      0,
+      4
+     ],
+     [
+      0,
+      8
+     ],
+     [
+      1,
+      6
+     ],
+     [
+      1,
+      10
+     ],
+     [
+      2,
+      7
+     ],
+     [
+      2,
+      9
+     ],
+     [
+      3,
+      5
+     ],
+     [
+      3,
+      11
+     ]
+    ],
+    "aut": 48,
+    "tri": 12,
+    "split": [
+     4,
+     4,
+     0
+    ]
+   }
+  ],
+  "X17a_capped": true,
+  "X17b_canon": {
+   "edges": [
+    [
+     0,
+     4
+    ],
+    [
+     0,
+     8
+    ],
+    [
+     1,
+     6
+    ],
+    [
+     1,
+     10
+    ],
+    [
+     2,
+     7
+    ],
+    [
+     2,
+     9
+    ],
+    [
+     3,
+     5
+    ],
+    [
+     3,
+     11
+    ]
+   ],
+   "aut": 48,
+   "tri": 12,
+   "split": [
+    4,
+    4,
+    0
+   ]
+  }
+ }
+}

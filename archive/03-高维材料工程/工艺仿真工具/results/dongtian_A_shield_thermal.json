@@ -1,0 +1,40 @@
+{
+ "radiation": [
+  {
+   "source": "Cs-137 662keV",
+   "material": "铅",
+   "mu_cm": 1.17,
+   "thickness_cm": 7.872085788013832
+  },
+  {
+   "source": "Cs-137 662keV",
+   "material": "钢",
+   "mu_cm": 0.42,
+   "thickness_cm": 21.929381838038534
+  },
+  {
+   "source": "Cs-137 662keV",
+   "material": "混凝土",
+   "mu_cm": 0.19,
+   "thickness_cm": 48.47547564197991
+  },
+  {
+   "source": "Co-60 1250keV",
+   "material": "铅",
+   "mu_cm": 0.66,
+   "thickness_cm": 13.955061169660883
+  },
+  {
+   "source": "Co-60 1250keV",
+   "material": "钢",
+   "mu_cm": 0.41,
+   "thickness_cm": 22.46424480969801
+  },
+  {
+   "source": "Co-60 1250keV",
+   "material": "混凝土",
+   "mu_cm": 0.15,
+   "thickness_cm": 61.40226914650789
+  }
+ ]
+}

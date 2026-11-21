@@ -1,0 +1,3875 @@
+[
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p1",
+  "doi": "10.7551/mitpress/4117.003.0013",
+  "title": "Language and Thought Online: Cognitive Consequences of Linguistic Relativity",
+  "authors": [
+   "Dan I. Slobin"
+  ],
+  "year": 2003,
+  "venue": "The MIT Press eBooks",
+  "type": "book-chapter",
+  "oa_cites": 791,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The voluminous literature on linguistic relativity has concerned itself primarily with the search for influences of particular languages on nonlinguistic cognition in situations in which language is not being used, overtly or covertly. This represents a long tradition in which anthropologists, psychologists, and linguists have sought to relate grammatical and semantic systems of a language to the worldview or epistemology or culture of the community of speakers of the language. For example, Lucy has proposed a set of requirements for studies of linguistic relativity. He stipulates that such research “should assess the cognitive performance of individual speakers aside from explicitly verbal contexts and try to establish that any cognitive patterns that are detected also characterize everyday behavior outside of the assessment situation ” (Lucy, 1996, p. 48, emphasis added). In this view,",
+  "anchors": [
+   "linguistic relativity",
+   "language and thought"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "title",
+   "language and thought": "title"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 4,
+  "T": 250,
+  "cites": 791,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M01-01",
+  "检索URL": "见 M01-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p1",
+  "doi": "10.1146/annurev.anthro.26.1.291",
+  "title": "Linguistic Relativity",
+  "authors": [
+   "John A. Lucy"
+  ],
+  "year": 1997,
+  "venue": "Annual Review of Anthropology",
+  "type": "review",
+  "oa_cites": 443,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The linguistic relativity hypothesis, the proposal that the particular language we speak influences the way we think about reality, forms one part of the broader question of how language influences thought. Despite long-standing historical interest in the hypothesis, there is relatively little empirical research directly addressing it. Existing empirical approaches are classified into three types. 1. Structure-centered approaches begin with language differences and ask about their implications for thought. 2. Domain-centered approaches begin with experienced reality and ask how different languages encode it. 3. Behavior-centered approaches begin with some practical concern and seek an explanation in language. These approaches are compared, and recent methodological improvements highlighted. Despite empirical advances, a theoretical account needs to articulate exactly how languages interp",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 400,
+  "cites": 443,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M01-02",
+  "检索URL": "见 M01-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-02-p1",
+  "doi": "10.4324/9781410616685",
+  "title": "Irony in Language and Thought",
+  "authors": [
+   "Raymond W. Gibbs"
+  ],
+  "year": 2007,
+  "venue": "Routledge eBooks",
+  "type": "book",
+  "oa_cites": 324,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Part I: Introduction. H.L. Colston, R.W. Gibbs, A Brief History of Irony. Part II: Theories of Irony. H. Clark, R. Gerrig, On the Pretense Theory of Irony. D. Wilson, D. Sperber, On Verbal Irony. S. Kumon-Nakamura, S. Glucksberg, M. Brown, How About Another Piece of Pie: The Allusional Pretense Theory of Discourse Irony. H.L. Colston, On Necessary Conditions for Verbal Irony Comprehension. S. Attardo, Irony as Relevant Inappropriateness. Part III: Context in Irony Comprehension. R.W. Gibbs, On the Psycholinguistics of Sarcasm. R. Giora, O. Fein, Irony: Context and Salience. S. McDonald, Neuropsychological Studies of Sarcasm. P. Pexman, T. Ferretti, A. Katz, Discourse Factors That Influence On-line Reading of Metaphor and Irony. J. Schwoebel, S. Dews, E. Winner, K. Srinivas, Obligatory Processing of Literal Meaning of Ironic Utterances: Further Evidence. C. Curco, Irony: Negation, Echo, a",
+  "anchors": [
+   "language and thought"
+  ],
+  "anchor_where": {
+   "language and thought": "title"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 324,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M01-03",
+  "检索URL": "见 M01-oa-02-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p2",
+  "doi": "10.1075/cilt.198",
+  "title": "Evidence for Linguistic Relativity",
+  "authors": [],
+  "year": 2000,
+  "venue": "Amsterdam studies in the theory and history of linguistic science. Series 4, Current issues in linguistic theory",
+  "type": "book",
+  "oa_cites": 272,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "This volume has arisen from the 26th International LAUD Symposium on “Humboldt and Whorf Revisited. Universal and Culture-Specific Conceptualizations in Grammar and Lexis”. While contrasting two or more languages, the papers in this volume either provide empirical evidence confirming hypotheses related to linguistic relativity, or deal with methodological issues of empirical research.These new approaches to Whorf’s hypotheses do not focus on mere theorizing but provide more and more empirical evidence gathered over the last years. They prove in a very sophisticated way that Whorf’s ideas were very lucid ones, even if Whorf’s insights were framed in a terminology which lacked the flexibility of linguistic categories developed over the last quarter of this century, especially in cognitive linguistics. To date, there is sufficient proof to claim that linguistic relativity is indeed a vital ",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "title"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 272,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M01-04",
+  "检索URL": "见 M01-oa-01-p2（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-02-p1",
+  "doi": "10.1017/cbo9780511983689",
+  "title": "Perspectives on Language and Thought",
+  "authors": [],
+  "year": 1991,
+  "venue": "Cambridge University Press eBooks",
+  "type": "book",
+  "oa_cites": 199,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "From the time of birth through the early school years, young children rapidly acquire two complex cognitive systems: They organize their experiences into concepts and categories, and they acquire their first language. How do children accomplish these critical tasks? How do conceptual systems influence the structure of the language we speak? How do linguistic patterns influence how we view reality? These questions have captured the interest of such theorists as Piaget, Vygotsky, Chomsky and Whorf but until recently very little has been known about the relation between language and thought during development. Perspectives on Language and Thought presents current observational and experimental research on the links between thought and language in young children. Chapters from leading figures in the field focus on the acquisition of hierarchical category systems, concepts of time, causality,",
+  "anchors": [
+   "language and thought"
+  ],
+  "anchor_where": {
+   "language and thought": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 400,
+  "cites": 199,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M01-05",
+  "检索URL": "见 M01-oa-02-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p2",
+  "doi": "10.1075/cilt.199",
+  "title": "Explorations in Linguistic Relativity",
+  "authors": [],
+  "year": 2000,
+  "venue": "Amsterdam studies in the theory and history of linguistic science. Series 4, Current issues in linguistic theory",
+  "type": "book",
+  "oa_cites": 196,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "About a century after the year Benjamin Lee Whorf (1897–1941) was born, his theory complex is still the object of keen interest to linguists. Rencently, scholars have argued that it was not his theory complex itself, but an over-simplified, reduced section taken out of context that has become known as the Sapir-Whorf hypothesis that has met with so much resistance among linguists over the last few decades. Not only did Whorf present his views much more subtly than most people would believe, but he also dealt with a great number of other issues in his work. Taking Whorf’s own notion of linguistic relativity as a starting point, this volume explores the relation between language, mind and experience through its historical development, Whorf’s own writing, its misinterpretations, various theoretical and methodological issues and a closer look at a few specific issues in his work.",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 196,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M01-06",
+  "检索URL": "见 M01-oa-01-p2（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "crossref",
+  "src_file": "M01-cr-02",
+  "doi": "10.1111/j.1467-9922.2008.00462.x",
+  "title": "Who's Afraid of the Big Bad Whorf? Crosslinguistic Differences in Temporal Language and Thought",
+  "authors": [
+   "Casasanto, Daniel"
+  ],
+  "year": 2008,
+  "venue": "Language Learning",
+  "type": "journal-article",
+  "oa_cites": 0,
+  "cr_cites": 163,
+  "is_retracted": false,
+  "abstract": "The idea that language shapes the way we think, often associated with Benjamin Whorf, has long been decried as not only wrong but also fundamentally wrong‐headed. Yet, experimental evidence has reopened debate about the extent to which language influences nonlinguistic cognition, particularly in the domain of time. In this article, I will first analyze an influential argument against the Whorfian hypothesis and show that its anti‐Whorfian conclusion is in part an artifact of conflating two distinct questions: Do we think in language ? and Does language shape thought ? Next, I will discuss crosslinguistic differences in spatial metaphors for time and describe experiments that demonstrate corresponding differences in nonlinguistic mental representations. Finally, I will sketch a simple learning mechanism by which some linguistic relativity effects appear to arise. Although people may not think in language, speakers of different languages develop distinctive conceptual repertoires as a consequence of ordinary and presumably universal neural and cognitive processes.",
+  "anchors": [
+   "language and thought"
+  ],
+  "anchor_where": {
+   "language and thought": "title"
+  },
+  "q_gates": [
+   "Q2"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 163,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M01-07",
+  "检索URL": "见 M01-cr-02（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-02-p1",
+  "doi": "10.1093/oxfordhb/9780199734689.013.0028",
+  "title": "New Perspectives on Language and Thought",
+  "authors": [
+   "Lila R. Gleitman",
+   "Anna Papafragou A"
+  ],
+  "year": 2012,
+  "venue": "Oxford University Press eBooks",
+  "type": "book-chapter",
+  "oa_cites": 161,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Abstract In this chapter we discuss the question of whether, how, where, and to what extent language plays a causally fundamental role in creating categories of thought, and in organizing and channeling thought that is already mentally present. In general, both logic and currently available evidence suggest a disclamatory view of strongest proposals (Benjamin Whorf 1956) according to which particulars of certain human languages are important progenitors of thought, such that elements of perception or conception would be permanently altered by learning one or another language. However, several credible lines of experimental and developmental evidence suggest significant influence of linguistic representation during online processing in many cognitive and perceptual domains: Insofar as languages differ in the short-term processing demands that they pose to listeners, interpretational outco",
+  "anchors": [
+   "language and thought"
+  ],
+  "anchor_where": {
+   "language and thought": "title"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 161,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M01-08",
+  "检索URL": "见 M01-oa-02-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p4",
+  "doi": "10.7551/mitpress/4117.003.0022",
+  "title": "Reevaluating Linguistic Relativity: Language-Specific Categories and the Role of Universal Ontological Knowledge in the Construal of Individuation",
+  "authors": [
+   "Mutsumi Imai",
+   "Reiko Mazuka"
+  ],
+  "year": 2003,
+  "venue": "The MIT Press eBooks",
+  "type": "book-chapter",
+  "oa_cites": 102,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 102,
+  "level": "待核",
+  "池级": 1,
+  "编号": "P1-M01-09",
+  "检索URL": "见 M01-oa-01-p4（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-02-p3",
+  "doi": "10.1093/oxfordhb/9780195376746.013.0032",
+  "title": "Relations Between Language and Thought",
+  "authors": [
+   "Lila R. Gleitman",
+   "Anna Papafragou A"
+  ],
+  "year": 2013,
+  "venue": "Oxford University Press eBooks",
+  "type": "book",
+  "oa_cites": 56,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "In this chapter we consider the question of whether the language one speaks affects one’s thinking. We discuss arguments showing that language cannot be taken to be the vehicle of thought. We then review evidence from several domains in which language has been proposed to reorganize conceptual representations, including color, objects and substances, space, motion, number, and spatial orientation. We conclude that linguistic representations have significant online processing effects in these and other cognitive and perceptual domains but do not alter conceptual representation.",
+  "anchors": [
+   "language and thought"
+  ],
+  "anchor_where": {
+   "language and thought": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 56,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M01-10",
+  "检索URL": "见 M01-oa-02-p3（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p7",
+  "doi": "10.1093/oxfordhb/9780199738632.013.0038",
+  "title": "Cognitive Linguistics and Linguistic Relativity",
+  "authors": [
+   "Eric R. A. Pederson"
+  ],
+  "year": 2010,
+  "venue": "Oxford University Press eBooks",
+  "type": "book",
+  "oa_cites": 43,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Linguistic relativity (also known as the Sapir-Whorf Hypothesis) is a general cover term for the conjunction of two basic notions. The first notion is that languages are relative, that is, that they vary in their expression of concepts in noteworthy ways. The second notion is that the linguistic expression of concepts has some degree of influence over conceptualization in cognitive domains, which need not necessarily be linguistically mediated. This article explores the treatment of linguistic relativity within works generally representative of cognitive linguistics and presents a survey of classic and more modern (pre- and post-1980s) research within linguistics, anthropology, and psychology. First, it provides a brief overview of the history of linguistic relativity theorizing from Wilhelm von Humboldt through to Benjamin Whorf. It then discusses the role of literacy to cognitive and c",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 43,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M01-11",
+  "检索URL": "见 M01-oa-01-p7（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p8",
+  "doi": "10.4324/9781315265483",
+  "title": "The Semantics of Chinese Classifiers and Linguistic Relativity",
+  "authors": [
+   "Song Jiang"
+  ],
+  "year": 2017,
+  "venue": "Routledge eBooks",
+  "type": "book",
+  "oa_cites": 42,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The Semantics of Chinese Classifiers and Linguistic Relativity focuses on the semantic structure of Chinese classifiers under the cognitive linguistics framework, and the implications thereof on linguistic relativity and language acquisition. It examines the semantic correlation between a given classifier and its associated nouns. Nouns in Chinese, which are assigned specific classifiers according to their selected characteristics, reflect the process of human categorization. The concrete categories formed by the relationship between nouns and classifiers may serve to explain the conceptual structure of the Chinese language and certain underlying aspects of culture and human cognition. Song Jiang is Assistant Professor of Chinese for the Department of East Asian Languages and Literatures at university of Hawai‘i at Mānoa.",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 90,
+  "cites": 42,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M01-12",
+  "检索URL": "见 M01-oa-01-p8（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-02-p1",
+  "doi": "10.7208/chicago/9780226220154.001.0001",
+  "title": "The Political Language of Islam",
+  "authors": [
+   "Bernard L. Lewis"
+  ],
+  "year": 1988,
+  "venue": "University of Chicago Press eBooks",
+  "type": "book",
+  "oa_cites": 409,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "political language"
+  ],
+  "anchor_where": {
+   "political language": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 600,
+  "cites": 409,
+  "level": "待核",
+  "池级": 1,
+  "编号": "P1-M02-13",
+  "检索URL": "见 M02-oa-02-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-01-p1",
+  "doi": "10.7551/mitpress/3137.001.0001",
+  "title": "From Newspeak to Cyberspeak",
+  "authors": [
+   "Slava Gerovitch"
+  ],
+  "year": 2002,
+  "venue": "The MIT Press eBooks",
+  "type": "book",
+  "oa_cites": 243,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "In this book, Slava Gerovitch argues that Soviet cybernetics was not just an intellectual trend but a social movement for radical reform in science and society as a whole. Followers of cybernetics viewed computer simulation as a universal method of problem solving and the language of cybernetics as a language of objectivity and truth. With this new objectivity, they challenged the existing order of things in economics and politics as well as in science. The history of Soviet cybernetics followed a curious arc. In the 1950s it was labeled a reactionary pseudoscience and a weapon of imperialist ideology. With the arrival of Khrushchev's political \"thaw,\" however, it was seen as an innocent victim of political oppression, and it evolved into a movement for radical reform of the Stalinist system of science. In the early 1960s it was hailed as \"science in the service of communism,\" but by the",
+  "anchors": [
+   "newspeak"
+  ],
+  "anchor_where": {
+   "newspeak": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 243,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M02-14",
+  "检索URL": "见 M02-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-02-p3",
+  "doi": "10.4324/9780203931233",
+  "title": "Political Language and Metaphor",
+  "authors": [],
+  "year": 2008,
+  "venue": "Routledge eBooks",
+  "type": "book",
+  "oa_cites": 139,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Part 1: Science 1. The Ways of Stargazing: Newtonian Metaphoricity in American Foreign Policy 2. Slippery Slopes in Political Discourse 3. Mechanical Metaphors in Politics Part 2: Structures 4. Metaphors of Social Order 5. Metaphors of Solidarity 6. Exploring the Metaphorical (De-)Construction of Legitimacy Part 3: Europe 7. Identifying and Assessing Metaphors 8. Discursive Metaphor Analysis 9. Political Protest and Metaphor Part 4: Sexuality 10. Real Construction through Metaphorical Language: How Animals and Machines (Amongst other Metaphors) Maketh (Hu)Man (What 'He' Is) 11. Data, Anecdote and Metaphor in Gender Equality Policy-Making: Merging 'Intellectual and Real World Mainstreaming' 12. Metaphors, Mini-Narratives and Foucauldian Discourse Theory Part 5: Policy 13. Metaphor, Catachresis and Equivalence 14. Love and Life in Heartless Town 15. Cognition Meets Action Part 6: Language ",
+  "anchors": [
+   "political language"
+  ],
+  "anchor_where": {
+   "political language": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 139,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M02-15",
+  "检索URL": "见 M02-oa-02-p3（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-02-p8",
+  "doi": "10.1080/10926488.2017.1297623",
+  "title": "The Effects of Metaphorical Framing on Political Persuasion: A Systematic Literature Review",
+  "authors": [
+   "Amber Boeynaems",
+   "Christian  F. Burgers",
+   "Elly A. Konijn",
+   "Gerard J. Steen"
+  ],
+  "year": 2017,
+  "venue": "Metaphor and Symbol",
+  "type": "review",
+  "oa_cites": 198,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Effects of metaphorical framing of political issues on opinion have been studied widely by two approaches: a critical-discourse approach (CDA) and a response-elicitation approach (REA). The current article reports a systematic literature review (N = 109) that examines whether these approaches report converging or diverging effects. We compared CDA and REA on the metaphorical frames that were studied and their reported effects. Results show that the CDA frames are typically more negative, nonfictional, and extreme than REA frames. Reported effects in CDA and REA studies differ in terms of presence, directionality, and strength, with CDA typically reporting strong effects in line with the frame, compared to REA. These differences in effects can be (partly) explained by the different frame characteristics. However, differences in the methods applied by CDA and REA could be (partly) responsi",
+  "anchors": [
+   "framing",
+   "metaphor AND politics"
+  ],
+  "anchor_where": {
+   "framing": "title",
+   "metaphor AND politics": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 4,
+  "T": 90,
+  "cites": 198,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M03-16",
+  "检索URL": "见 M03-oa-02-p8（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p2",
+  "doi": "10.1017/langcog.2019.5",
+  "title": "Metaphorical framing in political discourse through words vs. concepts: a meta-analysis",
+  "authors": [
+   "Britta Carmen Brugman",
+   "Christian  F. Burgers",
+   "Barbara Vis"
+  ],
+  "year": 2019,
+  "venue": "Language and Cognition",
+  "type": "review",
+  "oa_cites": 81,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "abstract Conceptual metaphor theory and other important theories in metaphor research are often experimentally tested by studying the effects of metaphorical frames on individuals’ reasoning. Metaphorical frames can be identified by at least two levels of analysis: words vs. concepts. Previous overviews of metaphorical-framing effects have mostly focused on metaphorical framing through words (metaphorical-words frames) rather than through concepts (metaphorical-concepts frames). This means that these overviews included only experimental studies that looked at variations in individual words instead of at the broader logic of messages. For this reason, we conducted a meta-analysis (k= 91,N= 34,783) to compare the persuasive impact of both types of metaphorical frames. Given that patterns of metaphor usage differ across discourse domains, and that effects may differ across modalities and di",
+  "anchors": [
+   "framing",
+   "metaphor AND politics"
+  ],
+  "anchor_where": {
+   "framing": "title",
+   "metaphor AND politics": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 4,
+  "T": 90,
+  "cites": 81,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M03-17",
+  "检索URL": "见 M03-oa-01-p2（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-02-p1",
+  "doi": "10.1017/cbo9781139173865.012",
+  "title": "The conduit metaphor: A case of frame conflict in our language about language",
+  "authors": [
+   "Michael J. Reddy"
+  ],
+  "year": 1993,
+  "venue": "Cambridge University Press eBooks",
+  "type": "book-chapter",
+  "oa_cites": 1736,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "I should like to respond to Professor Schön's chapter by replaying his theme several octaves lower. In my opinion, he has struck exactly the right set of notes. “Problem setting” should indeed be considered the crucial process, as opposed to “problem solving.” And the “stories that people tell about troublesome situations” do set up or “mediate” the problem. And “frame conflict” between various stories should be studied in detail, precisely because it is quite often “immune to resolution by appeal to the facts.” It is hard to think of a better overture to genuine advance in the social and behavioral sciences than this. At the same time, it seems to me that Schön has managed to sound these excellent notes only in their overtones, so that the fundamental frequency is barely to be heard – even though, to my ears at least, Schön's kind of thinking is real and long awaited music. Quite simply",
+  "anchors": [
+   "frame"
+  ],
+  "anchor_where": {
+   "frame": "title"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 2,
+  "T": 400,
+  "cites": 1736,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M03-18",
+  "检索URL": "见 M03-oa-02-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-03-p2",
+  "doi": "10.1057/9780230504516",
+  "title": "Metaphor and Political Discourse",
+  "authors": [
+   "Андреас Мусолфф"
+  ],
+  "year": 2004,
+  "venue": "Palgrave Macmillan UK eBooks",
+  "type": "book",
+  "oa_cites": 663,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Far from being rhetorical ornaments, metaphors play a central role in public discourse, as they shape the structure of political categorisation and argumentation. Drawing on a very large bilingual cor",
+  "anchors": [
+   "metaphor AND politics"
+  ],
+  "anchor_where": {
+   "metaphor AND politics": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 663,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M03-19",
+  "检索URL": "见 M03-oa-03-p2（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p1",
+  "doi": "10.5040/9781474295413",
+  "title": "Political Metaphor Analysis : Discourse and Scenarios",
+  "authors": [],
+  "year": 2016,
+  "venue": "Bloomsbury Academic eBooks",
+  "type": "book",
+  "oa_cites": 207,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Political metaphors and related figurative discourse tools such as metonymies are characterised by their variability and contentiousness. Using them, discourse participants try to gain competitive advantage over others by offering their audiences new meaning nuances, challenging each other and announcing political initiatives. It is here that metaphor as a means to change meanings – and thus, to change social and political reality – comes into its own. Political Metaphor Analysis provides an innovative approach to the study of metaphor in political discourse by presenting empirical analyses of metaphor use based on a large corpus of political metaphors and linking these analyses to theoretical positions and assessing their limitations and perspectives for further exploration. In particular the ‘classic’ conceptual metaphor analysis, as pioneered by Lakoff and Johnson (1980) and expanded ",
+  "anchors": [
+   "metaphor AND politics"
+  ],
+  "anchor_where": {
+   "metaphor AND politics": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 90,
+  "cites": 207,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M03-20",
+  "检索URL": "见 M03-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p2",
+  "doi": "10.1075/dapsac.85",
+  "title": "Variation in political metaphor",
+  "authors": [
+   "Julien Perrez",
+   "Min Reuchamps",
+   "Paul H. Thibodeau"
+  ],
+  "year": 2019,
+  "venue": "Discourse approaches to politics, society and culture",
+  "type": "book",
+  "oa_cites": 45,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The objective of this book is to understand variation in political metaphor. Political metaphors are distinctive and important because they are used to achieve political goals: to persuade, to shape expectations, to realize specific objectives and actions. The analyses in the book go beyond the mere identification of conceptual metaphors in discourse to show how political metaphors function in the real world. It starts from the finding that the same conceptual domains are used to characterize politics, political entities and political issues. Yet, the specific metaphors used to describe these conceptual domains often change. This book explores some of the reasons for this variation, including features of political leaders (e.g., their age and gender), countries, and other sociopolitical circumstances. This perspective yields a better understanding of the role(s) of metaphors in political",
+  "anchors": [
+   "metaphor AND politics"
+  ],
+  "anchor_where": {
+   "metaphor AND politics": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 90,
+  "cites": 45,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M03-21",
+  "检索URL": "见 M03-oa-01-p2（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p3",
+  "doi": "10.4324/9780429026751-18",
+  "title": "Metaphors portraying right-wing politician Geert Wilders in Dutch political cartoons",
+  "authors": [
+   "Charles J. Forceville",
+   "Nataša van de Laar"
+  ],
+  "year": 2019,
+  "venue": "Routledge eBooks",
+  "type": "book-chapter",
+  "oa_cites": 36,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "In order to understand the cartoons, a short characterization of Geert Wilders is called for.1 In the late 1990s, after doing several jobs within the party, Wilders became an MP for the VVD. In 2004, he left the VVD (“Volkspartij voor Vrede en Democratie”/“People’s Party for Peace and Democracy”) to found his own “Vereniging Groep Wilders”, a forerunner of the PVV (“Partij voor de Vrijheid”/“Party for Freedom”),, attracting the attention of prospective voters by voicing his opinions in contributions to national newspapers. Compared to other political leaders, Wilders appears to be represented very frequently in Dutch political cartoons, just as right-wing party leader Rita Verdonk was before him. Taking seriously Lakoff and Johnson’s claim that “metaphor is primarily a matter of thought and action, and only derivatively a matter of language”, Forceville proposed a model for visual metaph",
+  "anchors": [
+   "metaphor AND politics"
+  ],
+  "anchor_where": {
+   "metaphor AND politics": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 90,
+  "cites": 36,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M03-22",
+  "检索URL": "见 M03-oa-01-p3（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p4",
+  "doi": "10.1007/978-3-030-42734-4_4",
+  "title": "The Red Pill, Unicorns and White Knights: Cultural Symbolism and Conceptual Metaphor in the Slang of Online Incel Communities",
+  "authors": [
+   "Małgorzata Waśniewska"
+  ],
+  "year": 2020,
+  "venue": "Second language learning and teaching",
+  "type": "book-chapter",
+  "oa_cites": 31,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "conceptual metaphor"
+  ],
+  "anchor_where": {
+   "conceptual metaphor": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 90,
+  "cites": 31,
+  "level": "待核",
+  "池级": 1,
+  "编号": "P1-M03-23",
+  "检索URL": "见 M03-oa-01-p4（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p1",
+  "doi": "10.1515/9781400865802",
+  "title": "How Propaganda Works",
+  "authors": [
+   "Jason Stanley"
+  ],
+  "year": 2015,
+  "venue": "Princeton University Press eBooks",
+  "type": "book",
+  "oa_cites": 482,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Our democracy today is fraught with political campaigns, lobbyists, liberal media, and Fox News commentators, all using language to influence the way we think and reason about public issues. Even so, many of us believe that propaganda and manipulation aren't problems for us--not in the way they were for the totalitarian societies of the mid-twentieth century. In How Propaganda Works, Jason Stanley demonstrates that more attention needs to be paid. He examines how propaganda operates subtly, how it undermines democracy--particularly the ideals of democratic deliberation and equality--and how it has damaged democracies of the past",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 482,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M04-24",
+  "检索URL": "见 M04-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p1",
+  "doi": "10.1515/9781580468299-010",
+  "title": "7 Propaganda and Persuasion",
+  "authors": [
+   "Laurie Cohen"
+  ],
+  "year": 2013,
+  "venue": "Boydell and Brewer eBooks",
+  "type": "book-chapter",
+  "oa_cites": 468,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Preface to the First Edition Preface to the Second Edition Preface to the Third Edition Preface to the Fourth Edition Chapter 1: What Is Propaganda, and How Does It Differ From Persuasion? Chapter 2: Propaganda Through the Ages Chapter 3: Propaganda Institutionalized Chapter 4: Propaganda and Persuasion Examined Chapter 5: Propaganda and Psychological Warfare Chapter 6: How to Analyze Propaganda Chatper 7: Propaganda in Action: Four Case Studies Chapter 8: How Propaganda Works in Modern Society",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 468,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M04-25",
+  "检索URL": "见 M04-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p1",
+  "doi": "10.18653/v1/d19-1565",
+  "title": "Fine-Grained Analysis of Propaganda in News Article",
+  "authors": [
+   "Giovanni Da San Martino",
+   "Seunghak Yu",
+   "Alberto Barrón‐Cedeño",
+   "Rostislav Petrov",
+   "Preslav Nakov"
+  ],
+  "year": 2019,
+  "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+  "type": "conference-paper",
+  "oa_cites": 285,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Giovanni Da San Martino, Seunghak Yu, Alberto Barrón-Cedeño, Rostislav Petrov, Preslav Nakov. Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP). 2019.",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "title"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 2,
+  "T": 90,
+  "cites": 285,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M04-26",
+  "检索URL": "见 M04-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-02-p3",
+  "doi": "10.1093/oxfordhb/9780199764419.001.0001",
+  "title": "The Oxford Handbook of Propaganda Studies",
+  "authors": [
+   "Jonathan Auerbach"
+  ],
+  "year": 2013,
+  "venue": "Oxford University Press eBooks",
+  "type": "book",
+  "oa_cites": 150,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Introduction - Thirteen Propositions about Propaganda - Jonathan Auerbach and Russ Castronovo Part I - Histories and Nationalities Chapter 1 - Invention of Propaganda: a Critical Commentary on and Translation of Inscrutabili Divinae Providentiae Arcano - Maria Teresa Prendergast and Thomas A. Prendergast Chapter 2 - Brazilian and North American Slavery Propagandas: Some Thoughts on Difference - Marcus Wood Chapter 3 - A World to Win: Propaganda and African American Expressive - Bill V. Mullen Chapter 4 - Literacy or Legibility: Trace of Subjectivity in Soviet Socialist Realism - Elizabeth A. Papazian Chapter 5 - Narrative and Mendacity: Anti-Semitic Propaganda in Nazi Germany - Jeffrey Herf Chapter 6 - Hidden Tyrant: Propaganda, Brainwashing, and Psycho-Politics in the Cold War Period - Priscilla Wald Chapter 7 - Roof for a House Divided: How U.S. Propaganda Evolved into Public Diplomacy",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 150,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M04-27",
+  "检索URL": "见 M04-oa-02-p3（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p3",
+  "doi": "10.24963/ijcai.2020/672",
+  "title": "A Survey on Computational Propaganda Detection",
+  "authors": [
+   "Giovanni Da San Martino",
+   "Stefano Cresci",
+   "Alberto Barrón‐Cedeño",
+   "Seunghak Yu",
+   "Roberto Di Pietro",
+   "Preslav Nakov"
+  ],
+  "year": 2020,
+  "venue": "International Joint Conference on Artificial Intelligence",
+  "type": "conference-paper",
+  "oa_cites": 150,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Propaganda campaigns aim at influencing people's mindset with the purpose of advancing a specific agenda. They exploit the anonymity of the Internet, the micro-profiling ability of social networks, and the ease of automatically creating and managing coordinated networks of accounts, to reach millions of social network users with persuasive messages, specifically targeted to topics each individual user is sensitive to, and ultimately influencing the outcome on a targeted issue. In this survey, we review the state of the art on computational propaganda detection from the perspective of Natural Language Processing and Network Analysis, arguing about the need for combined efforts between these communities. We further discuss current challenges and future research directions.",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 90,
+  "cites": 150,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M04-28",
+  "检索URL": "见 M04-oa-01-p3（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p6",
+  "doi": "10.18653/v1/2021.acl-long.516",
+  "title": "Detecting Propaganda Techniques in Memes",
+  "authors": [
+   "Dimitar Dimitrov",
+   "Bishr Bin Ali",
+   "Shaden Shaar",
+   "Firoj Alam",
+   "Fabrizio Silvestri",
+   "Hamed Firooz",
+   "Preslav Nakov",
+   "Giovanni Da San Martino"
+  ],
+  "year": 2021,
+  "venue": "",
+  "type": "conference-paper",
+  "oa_cites": 83,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Dimitar Dimitrov, Bishr Bin Ali, Shaden Shaar, Firoj Alam, Fabrizio Silvestri, Hamed Firooz, Preslav Nakov, Giovanni Da San Martino. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). 2021.",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 40,
+  "cites": 83,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M04-29",
+  "检索URL": "见 M04-oa-01-p6（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p6",
+  "doi": "10.1017/9781009271226",
+  "title": "Propaganda in Autocracies",
+  "authors": [
+   "Erin Baggott Carter",
+   "Brett Logan Carter"
+  ],
+  "year": 2023,
+  "venue": "Cambridge University Press eBooks",
+  "type": "book",
+  "oa_cites": 81,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "A dictator's power is secure, the authors begin in this muscular, impressive study, only as long as citizens believe in it. When citizens suddenly believe otherwise, a dictator's power is anything but, as the Soviet Union's collapse revealed. This conviction – that power rests ultimately on citizens' beliefs – compels the world's autocrats to invest in sophisticated propaganda. This study draws on the first global data set of autocratic propaganda, encompassing nearly eight million newspaper articles from fifty-nine countries in six languages. The authors document dramatic variation in propaganda across autocracies: in coverage of the regime and its opponents, in narratives about domestic and international life, in the threats of violence issued to citizens, and in the domestic events that shape it. The book explains why Russian President Vladimir uses Donald Trump as a propaganda tool a",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "title"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 2,
+  "T": 40,
+  "cites": 81,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M04-30",
+  "检索URL": "见 M04-oa-01-p6（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p9",
+  "doi": "10.18653/v1/2022.wanlp-1.11",
+  "title": "Overview of the WANLP 2022 Shared Task on Propaganda Detection in Arabic",
+  "authors": [
+   "Firoj Alam",
+   "Hamdy Mubarak",
+   "Wajdi Zaghouani",
+   "Giovanni Da San Martino",
+   "Preslav Nakov"
+  ],
+  "year": 2022,
+  "venue": "Arabic Natural Language Processing Workshop (WANLP)",
+  "type": "conference-paper",
+  "oa_cites": 57,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Propaganda is the expression of an opinion or an action by an individual or a group deliberately designed to influence the opinions or the actions of other individuals or groups with reference to predetermined ends, which is achieved by means of well-defined rhetorical and psychological devices.Propaganda techniques are commonly used in social media to manipulate or to mislead users.Thus, there has been a lot of recent research on automatic detection of propaganda techniques in text as well as in memes.However, so far the focus has been primarily on English.With the aim to bridge this language gap, we ran a shared task on detecting propaganda techniques in Arabic tweets as part of the WANLP 2022 workshop, which included two subtasks.Subtask 1 asks to identify the set of propaganda techniques used in a tweet, which is a multilabel classification problem, while Subtask 2 asks to detect the",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 40,
+  "cites": 57,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M04-31",
+  "检索URL": "见 M04-oa-01-p9（v1.0 缓存）"
+ },
+ {
+  "module": "M05",
+  "channel": "openalex",
+  "src_file": "M05-oa-02-p1",
+  "doi": "10.1609/icwsm.v7i1.14412",
+  "title": "Self-Censorship on Facebook",
+  "authors": [
+   "Sauvik Das",
+   "Adam D. I. Kramer"
+  ],
+  "year": 2021,
+  "venue": "Proceedings of the International AAAI Conference on Web and Social Media",
+  "type": "conference-paper",
+  "oa_cites": 189,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "We report results from an exploratory analysis examining “last-minute” self-censorship, or content that is filtered after being written, on Facebook. We collected data from 3.9 million users over 17 days and associate self-censorship behavior with features describing users, their social graph, and the interactions between them. Our results indicate that 71% of users exhibited some level of last-minute self-censorship in the time period, and provide specific evidence supporting the theory that a user’s “perceived audience” lies at the heart of the issue: posts are censored more frequently than comments, with status updates and posts directed at groups censored most frequently of all sharing use cases investigated. Furthermore, we find that: people with more boundaries to regulate censor more; males censor more posts than females and censor even more posts with mostly male friends than do ",
+  "anchors": [
+   "censorship",
+   "self-censorship"
+  ],
+  "anchor_where": {
+   "censorship": "title",
+   "self-censorship": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 4,
+  "T": 40,
+  "cites": 189,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M05-32",
+  "检索URL": "见 M05-oa-02-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M05",
+  "channel": "openalex",
+  "src_file": "M05-oa-02-p10",
+  "doi": "10.4324/9780367810139",
+  "title": "Journalist Safety and Self-Censorship",
+  "authors": [
+   "Anna Grøndahl Larsen",
+   "Ingrid Fadnes",
+   "Roy Krøvel"
+  ],
+  "year": 2020,
+  "venue": "Routledge eBooks",
+  "type": "book",
+  "oa_cites": 26,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "This book explores the relationship between the safety of journalists and self-censorship practices around the world, including local case studies and regional and international perspectives. Bringing together scholars and practitioners from around the globe, Journalist Safety and Self-Censorship provides new and updated insights into patterns of self-censorship and free speech, focusing on a variety of factors that affect these issues, including surveillance, legislation, threats, violent conflict, gender-related stereotypes, digitisation and social media. The contributions examine topics such as trauma, risk and self-censorship among journalists in different regions of the world, including Central America, Estonia, Turkey, Uganda and Pakistan. The book also provides conceptual clarity to the notion of journalist self-censorship, and explores the question of how self-censorship may be s",
+  "anchors": [
+   "censorship",
+   "self-censorship"
+  ],
+  "anchor_where": {
+   "censorship": "title",
+   "self-censorship": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 4,
+  "T": 90,
+  "cites": 26,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M05-33",
+  "检索URL": "见 M05-oa-02-p10（v1.0 缓存）"
+ },
+ {
+  "module": "M05",
+  "channel": "openalex",
+  "src_file": "M05-oa-01-p2",
+  "doi": "10.1007/978-3-642-19260-9_14",
+  "title": "Internet Censorship in China: Where Does the Filtering Occur?",
+  "authors": [
+   "Xueyang Xu",
+   "Z. Morley Mao",
+   "J. Alex Halderman"
+  ],
+  "year": 2011,
+  "venue": "Lecture notes in computer science",
+  "type": "conference-paper",
+  "oa_cites": 147,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "censorship"
+  ],
+  "anchor_where": {
+   "censorship": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 147,
+  "level": "待核",
+  "池级": 1,
+  "编号": "P1-M05-34",
+  "检索URL": "见 M05-oa-01-p2（v1.0 缓存）"
+ },
+ {
+  "module": "M05",
+  "channel": "openalex",
+  "src_file": "M05-oa-03-p4",
+  "doi": "10.1145/3442381.3450076",
+  "title": "Chinese Wall or Swiss Cheese? Keyword filtering in the Great Firewall of China",
+  "authors": [
+   "Zachary Weinberg",
+   "Diogo Barradas",
+   "Nicolas Christin"
+  ],
+  "year": 2021,
+  "venue": "International World Wide Web Conference (WWW)",
+  "type": "conference-paper",
+  "oa_cites": 11,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The Great Firewall of China (GFW) prevents Chinese citizens from accessing online content deemed objectionable by the Chinese government. One way it does this is to search for forbidden keywords in unencrypted packet streams. When it detects them, it terminates the offending stream by injecting TCP RST packets, and blocks further traffic between the same two hosts for a few minutes.",
+  "anchors": [
+   "keyword filtering"
+  ],
+  "anchor_where": {
+   "keyword filtering": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 40,
+  "cites": 11,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M05-35",
+  "检索URL": "见 M05-oa-03-p4（v1.0 缓存）"
+ },
+ {
+  "module": "M07",
+  "channel": "crossref",
+  "src_file": "M07-cr-01",
+  "doi": "10.1177/20563051231194586",
+  "title": "You Can (Not) Say What You Want: Using Algospeak to Contest and Evade Algorithmic Content Moderation on TikTok",
+  "authors": [
+   "Steen, Ella",
+   "Yurechko, Kathryn",
+   "Klug, Daniel"
+  ],
+  "year": 2023,
+  "venue": "Social Media + Society",
+  "type": "journal-article",
+  "oa_cites": 0,
+  "cr_cites": 111,
+  "is_retracted": false,
+  "abstract": "Social media users have long been aware of opaque content moderation systems and how they shape platform environments. On TikTok, creators increasingly utilize algospeak to circumvent unjust content restriction, meaning, they change or invent words to prevent TikTok’s content moderation algorithm from banning their video (e.g., “le$bean” for “lesbian”). We interviewed 19 TikTok creators about their motivations and practices of using algospeak in relation to their experience with TikTok’s content moderation. Participants largely anticipated how TikTok’s algorithm would read their videos, and used algospeak to evade unjustified content moderation while simultaneously ensuring target audiences can still find their videos. We identify non-contextuality, randomness, inaccuracy, and bias against marginalized communities as major issues regarding freedom of expression, equality of subjects, and support for communities of interest. Using algospeak, we argue for a need to improve contextually informed content moderation to valorize marginalized and tabooed audiovisual content on social media.",
+  "anchors": [
+   "algospeak"
+  ],
+  "anchor_where": {
+   "algospeak": "title"
+  },
+  "q_gates": [
+   "Q2",
+   "Q3"
+  ],
+  "score": 2,
+  "T": 40,
+  "cites": 111,
+  "level": "核",
+  "池级": 1,
+  "编号": "P1-M07-36",
+  "检索URL": "见 M07-cr-01（v1.0 缓存）"
+ },
+ {
+  "module": "M08",
+  "channel": "crossref",
+  "src_file": "M08-cr-01",
+  "doi": "10.1016/j.pragma.2010.09.016",
+  "title": "Political correctness, euphemism, and language change: The case of ‘people first’",
+  "authors": [
+   "Halmari, Helena"
+  ],
+  "year": 2011,
+  "venue": "Journal of Pragmatics",
+  "type": "journal-article",
+  "oa_cites": 0,
+  "cr_cites": 48,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "euphemism"
+  ],
+  "anchor_where": {
+   "euphemism": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 48,
+  "level": "待核",
+  "池级": 1,
+  "编号": "P1-M08-37",
+  "检索URL": "见 M08-cr-01（v1.0 缓存）"
+ },
+ {
+  "module": "M11",
+  "channel": "crossref",
+  "src_file": "M11-cr-02",
+  "doi": "10.1111/j.1460-2466.1974.tb00367.x",
+  "title": "The Spiral of Silence a Theory of Public Opinion",
+  "authors": [
+   "Noelle-Neumann, Elisabeth"
+  ],
+  "year": 1974,
+  "venue": "Journal of Communication",
+  "type": "journal-article",
+  "oa_cites": 0,
+  "cr_cites": 1644,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "spiral of silence",
+   "silence"
+  ],
+  "anchor_where": {
+   "spiral of silence": "title",
+   "silence": "title"
+  },
+  "q_gates": [
+   "Q2",
+   "Q3"
+  ],
+  "score": 4,
+  "T": 600,
+  "cites": 1644,
+  "level": "待核",
+  "池级": 1,
+  "编号": "P1-M11-38",
+  "检索URL": "见 M11-cr-02（v1.0 缓存）"
+ },
+ {
+  "module": "M14",
+  "channel": "crossref",
+  "src_file": "M14-cr-01",
+  "doi": "10.1176/ajp.141.6.725",
+  "title": "Alexithymia: concept, measurement, and implications for treatment",
+  "authors": [],
+  "year": 1984,
+  "venue": "American Journal of Psychiatry",
+  "type": "journal-article",
+  "oa_cites": 0,
+  "cr_cites": 454,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "alexithymia"
+  ],
+  "anchor_where": {
+   "alexithymia": "title"
+  },
+  "q_gates": [
+   "Q2",
+   "Q3"
+  ],
+  "score": 2,
+  "T": 600,
+  "cites": 454,
+  "level": "待核",
+  "池级": 1,
+  "编号": "P1-M14-39",
+  "检索URL": "见 M14-cr-01（v1.0 缓存）"
+ },
+ {
+  "module": "M15",
+  "channel": "crossref",
+  "src_file": "M15-cr-01",
+  "doi": "10.1086/267990",
+  "title": "The Agenda-Setting Function of Mass Media",
+  "authors": [
+   "McCombs, Maxwell E.",
+   "Shaw, Donald L."
+  ],
+  "year": 1972,
+  "venue": "Public Opinion Quarterly",
+  "type": "journal-article",
+  "oa_cites": 0,
+  "cr_cites": 6051,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "agenda setting"
+  ],
+  "anchor_where": {
+   "agenda setting": "title"
+  },
+  "q_gates": [
+   "Q2",
+   "Q3"
+  ],
+  "score": 2,
+  "T": 600,
+  "cites": 6051,
+  "level": "待核",
+  "池级": 1,
+  "编号": "P1-M15-40",
+  "检索URL": "见 M15-cr-01（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p1",
+  "doi": "10.1017/cbo9780511620843",
+  "title": "Language Diversity and Thought",
+  "authors": [
+   "John A. Lucy"
+  ],
+  "year": 1992,
+  "venue": "Cambridge University Press eBooks",
+  "type": "book",
+  "oa_cites": 794,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Language Diversity and Thought examines the Sapir–Whorf linguistic relativity hypothesis: the proposal that the grammar of the particular language we speak affects the way we think about reality. Adopting an historical approach, the book reviews the various lines of empirical inquiry which arose in America in response to the ideas of anthropologists Edward Sapir and Benjamin L. Whorf. John Lucy asks why there has been so little fruitful empirical research on this problem and what lessons can be learned from past work. He then proposes a new, more adequate approach to future empirical research. A companion volume, Grammatical Categories and Cognition, illustrates the proposed approach with an original case study. The study compares the grammar of American English with that of Yucatec Maya, an indigenous language spoken in southeastern Mexico, and then identifies distinctive patterns of th",
+  "anchors": [
+   "linguistic relativity",
+   "sapir-whorf"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "abstract",
+   "sapir-whorf": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 2,
+  "T": 400,
+  "cites": 794,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-01",
+  "检索URL": "见 M01-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "crossref",
+  "src_file": "M01-cr-02",
+  "doi": "10.1016/0010-0277(83)90038-0",
+  "title": "Chinese and English counterfactuals: The Sapir-Whorf hypothesis revisited",
+  "authors": [
+   "Au, Terry Kit-Fong"
+  ],
+  "year": 1983,
+  "venue": "Cognition",
+  "type": "journal-article",
+  "oa_cites": 0,
+  "cr_cites": 140,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "sapir-whorf"
+  ],
+  "anchor_where": {
+   "sapir-whorf": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 600,
+  "cites": 140,
+  "level": "待核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-02",
+  "检索URL": "见 M01-cr-02（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p3",
+  "doi": "10.1515/9783110308143",
+  "title": "Linguistic Relativity",
+  "authors": [
+   "Caleb Everett"
+  ],
+  "year": 2013,
+  "venue": "De Gruyter eBooks",
+  "type": "book",
+  "oa_cites": 133,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The claim that crosslinguistic disparities foster differences in nonlinguistic thought, often referred to as 'linguistic relativity', has for some time been the subject of intense debate. For much of that time the debate was not informed by much experimental work. Recently, however, there has been an explosion of research on linguistic relativity, carried out by numerous scholars interested in the interaction between language and nonlinguistic cognition. This book surveys the rapidly accruing research on this topic, much of it carried out in the last decade. Structured so as to be accessible to students and scholars in linguistics, psychology, and anthropology, it first introduces crucial concepts in the study of language and cognition. It then explores the relevant experimentally oriented research, focusing independently on the evidence for relativistic effects in spatial orientation, t",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 133,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-03",
+  "检索URL": "见 M01-oa-01-p3（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p7",
+  "doi": "10.1075/cilt.199.05lee",
+  "title": "When is ‘linguistic relativity’ Whorf’s linguistic relativity?",
+  "authors": [
+   "Penny Lee"
+  ],
+  "year": 2000,
+  "venue": "Amsterdam studies in the theory and history of linguistic science. Series 4, Current issues in linguistic theory",
+  "type": "book-chapter",
+  "oa_cites": 59,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 59,
+  "level": "待核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-04",
+  "检索URL": "见 M01-oa-01-p7（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p7",
+  "doi": "10.1075/cilt.199.03koe",
+  "title": "Towards a ‘full pedigree’ of the ‘Sapir-Whorf hypothesis’",
+  "authors": [
+   "E.F.K. Koerner"
+  ],
+  "year": 2000,
+  "venue": "Amsterdam studies in the theory and history of linguistic science. Series 4, Current issues in linguistic theory",
+  "type": "book-chapter",
+  "oa_cites": 57,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "sapir-whorf"
+  ],
+  "anchor_where": {
+   "sapir-whorf": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 57,
+  "level": "待核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-05",
+  "检索URL": "见 M01-oa-01-p7（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p7",
+  "doi": "10.1017/cbo9781139629430",
+  "title": "Language",
+  "authors": [
+   "Edward Sapir"
+  ],
+  "year": 2014,
+  "venue": "Cambridge University Press eBooks",
+  "type": "book",
+  "oa_cites": 51,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Among the most influential figures in the development of modern linguistics, the American scholar Edward Sapir (1884–1939) notably promoted the connection between anthropology and the study of language. His name is also associated with that of his student in the Sapir–Whorf principle of linguistic relativity, the hypothesis that the structure of a language affects how its speakers conceptualise the world. In this seminal work, first published in 1921, Sapir lucidly introduces his ideas about language and explores topics that remain fundamental to linguistics today, such as the relationship between language and culture, the elements of speech, grammatical processes and concepts, historical language development, and the question of how languages influence one another. Especially significant in the history of structural linguistics and ethnolinguistics, this clearly written text remains rel",
+  "anchors": [
+   "linguistic relativity",
+   "sapir-whorf"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "abstract",
+   "sapir-whorf": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 51,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-06",
+  "检索URL": "见 M01-oa-01-p7（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p7",
+  "doi": "10.4324/9780203938560-22",
+  "title": "CONCEPTUAL TRANSFER AND MEANING EXTENSIONS",
+  "authors": [
+   "Terence Odlin"
+  ],
+  "year": 2008,
+  "venue": "Routledge eBooks",
+  "type": "book-chapter",
+  "oa_cites": 50,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "As early as Wilhelm von Humboldt (1767-1835) some linguists have seen the mutual relevance of Second Language Acquisition (SLA) and linguistic relativity. As will be described, von Humboldt believed that the relation between language and thought is so highly specific to the native language that full attainment of another language is impossible. Relativistic analyses do not, however, compel this pessimistic stance on ultimate attainment in SLA. Indeed, another famous relativist, Benjamin Lee Whorf (1897-1941), took a decidedly more optimistic stance-even though, ironically, he is often labeled a “linguistic determinist.” In decades of intensive SLA research (from the mid-1960s to the present), many linguists have pondered just how far learners of a second language may attain the competence and performance capacities of native speakers, and the question remains controversial (Han & Odlin 2",
+  "anchors": [
+   "linguistic relativity",
+   "language and thought"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "abstract",
+   "language and thought": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 50,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-07",
+  "检索URL": "见 M01-oa-01-p7（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p8",
+  "doi": "10.1093/oxfordhb/9780199544004.013.0026",
+  "title": "Linguistic Relativity",
+  "authors": [
+   "Eric R. A. Pederson"
+  ],
+  "year": 2012,
+  "venue": "Oxford University Press eBooks",
+  "type": "book-chapter",
+  "oa_cites": 38,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Abstract This chapter focuses on a body of research falling under the cover term linguistic relativity. More generally, linguistic relativity studies investigate possible effects of natural language on purportedly non-linguistic cognition. The chapter begins with a historical background of linguistic relativity. It then discusses the requirements for linguistic-relativity research, linguistic relativity and mainstream linguistics, language effect, language development, and domains of research.",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 38,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-08",
+  "检索URL": "见 M01-oa-01-p8（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p8",
+  "doi": "10.4324/9781315793993-9",
+  "title": "Linguistic relativity: precursors and transformations",
+  "authors": [
+   "Karen Risager"
+  ],
+  "year": 2014,
+  "venue": "Routledge eBooks",
+  "type": "book-chapter",
+  "oa_cites": 37,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 37,
+  "level": "待核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-09",
+  "检索URL": "见 M01-oa-01-p8（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-02-p1",
+  "doi": "10.2307/j.ctvt9k614.12",
+  "title": "Language, Thought, and Reality",
+  "authors": [],
+  "year": 2019,
+  "venue": "Catholic University of America Press eBooks",
+  "type": "book-chapter",
+  "oa_cites": 840,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Writings by a pioneering linguist, including his famous work on the Hopi language, general reflections on language and meaning, and the Yale Report. The pioneering linguist Benjamin Whorf (1897-1941) grasped the relationship between human language and human thinking: how language can shape our innermost thoughts. His basic thesis is that our perception of the world and our ways of thinking about it are deeply influenced by the structure of the languages we speak. The writings collected in this volume include important papers on the Maya, Hopi, and Shawnee languages, as well as more general reflections on language and meaning. Whorf's ideas about the relation of language and thought have always appealed to a wide audience, but their reception in expert circles has alternated between dismissal and applause. Recently the language sciences have headed in directions that give Whorf's thinking",
+  "anchors": [
+   "language and thought"
+  ],
+  "anchor_where": {
+   "language and thought": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 840,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-10",
+  "检索URL": "见 M01-oa-02-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p1",
+  "doi": "10.1017/cbo9780511620850.010",
+  "title": "Growth points in thinking-for-speaking",
+  "authors": [
+   "David McNeill",
+   "Susan Duncan"
+  ],
+  "year": 2000,
+  "venue": "Cambridge University Press eBooks",
+  "type": "book-chapter",
+  "oa_cites": 518,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Introduction Many bilingual speakers believe they engage in different forms of thinking when they shift languages. This experience of entering different thought worlds can be explained with the hypothesis that languages induce different forms of ‘thinking-for-speaking’ – thinking generated, as Slobin (1987) says, because of the requirements of a linguistic code. “‘Thinking for speaking’ involves picking those characteristics that (a) fit some conceptualization of the event, and (b) are readily encodable in the language” (p. 435). That languages differ in their thinking-for-speaking demands is a version of the linguistic relativity hypothesis, the proposition that language influences thought and that different languages influence thought in different ways. Thinking-for-speaking differs from the so-called strong Whorfian version of the linguistic relativity hypothesis, as we understand it.",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 250,
+  "cites": 518,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-11",
+  "检索URL": "见 M01-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p1",
+  "doi": "10.7551/mitpress/4117.001.0001",
+  "title": "Language in Mind",
+  "authors": [],
+  "year": 2003,
+  "venue": "The MIT Press eBooks",
+  "type": "book",
+  "oa_cites": 490,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The idea that the language we speak influences the way we think has evoked perennial fascination and intense controversy. According to the strong version of this hypothesis, called the Sapir-Whorf hypothesis after the American linguists who propounded it, languages vary in their semantic partitioning of the world, and the structure of one's language influences how one understands the world. Thus speakers of different languages perceive the world differently. Although the last two decades have been marked by extreme skepticism concerning the possible effects of language on thought, recent theoretical and methodological advances in cognitive science have given the question new life. Research in linguistics and linguistic anthropology has revealed striking differences in cross-linguistic semantic patterns, and cognitive psychology has developed subtle techniques for studying how people repr",
+  "anchors": [
+   "sapir-whorf"
+  ],
+  "anchor_where": {
+   "sapir-whorf": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 250,
+  "cites": 490,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-12",
+  "检索URL": "见 M01-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p2",
+  "doi": "10.4324/9780203776476",
+  "title": "Understanding Pragmatics",
+  "authors": [
+   "Gunter Senft"
+  ],
+  "year": 2014,
+  "venue": "Routledge eBooks",
+  "type": "book",
+  "oa_cites": 214,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Understanding Pragmatics takes an interdisciplinary approach to provide an accessible introduction to linguistic pragmatics. This book discusses how the meaning of utterances can only be understood in relation to overall cultural, social and interpersonal contexts, as well as to culture specific conventions and the speech events in which they are embedded. From a cross-linguistic and cross-cultural perspective, this book: debates the core issues of pragmatics such as speech act theory, conversational implicature, deixis, gesture, interaction strategies, ritual communication, phatic communion, linguistic relativity, ethnography of speaking, ethnomethodology, conversation analysis, languages and social classes, and linguistic ideologies incorporates examples from a broad variety of different languages and cultures takes an innovative and transdisciplinary view of the field showing linguist",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 160,
+  "cites": 214,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-13",
+  "检索URL": "见 M01-oa-01-p2（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p3",
+  "doi": "10.1075/tsl.66",
+  "title": "Space in Languages",
+  "authors": [
+   "Maya Hickmann",
+   "Stéphane Robert"
+  ],
+  "year": 2006,
+  "venue": "Typological studies in language",
+  "type": "book",
+  "oa_cites": 162,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Space is presently the focus of much research and debate across disciplines, including linguistics, anthropology, psychology, and philosophy. One strong feature of this collection is to bring together theoretical and empirical contributions from these varied scientific traditions, with the collective aim of addressing fundamental questions at the forefront of the current literature: the nature of space in language, the linguistic relativity of space, the relation between spatial language and cognition. Linguistic analyses highlight the multidimensional and heterogeneous nature of space, while also showing the existence of a set of types, parameters, and principles organizing the considerable diversity of linguistic systems and accounting for mechanisms of diachronic change. Findings concerning spatial perception and cognition suggest the existence of two distinct systems governing lingui",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 250,
+  "cites": 162,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-14",
+  "检索URL": "见 M01-oa-01-p3（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p3",
+  "doi": "10.1075/sihols.79",
+  "title": "Professing Linguistic Historiography",
+  "authors": [
+   "E.F.K. Koerner"
+  ],
+  "year": 1995,
+  "venue": "Amsterdam studies in the theory and history of linguistic science. Series 3, Studies in the history of linguistics",
+  "type": "book",
+  "oa_cites": 156,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The volume brings together recent papers by the author, selected to form a broad picture of his teachings, all of them revised and updated, either addressing particular topics in the Histor(iograph)y of Linguistics (Part I) or offering historical accounts of linguistic subfields (Part II), in altogether 10 chapters: 1, Persistent Issues in Linguistic Historiography; 2, Metalanguage in Linguistic Historiography; 3, The Natural Science Impact on Theory Formation in 19th and 20th Century Linguistics; 4, Saussure and the Question of the Sources of his Linguistic Theory; 5, Chomsky’s Readings of the Cours de linguistique générale; 6, Toward a History of Modern Sociolinguistics; 7, Toward a History of Americanist Linguistics; 8, Toward a History of Linguistic Typology; 9, History and Historiography of Phonetics: A state-of-the-art account, and 10, The ‘Sapir-Whorf Hypothesis’: An historico-bib",
+  "anchors": [
+   "sapir-whorf"
+  ],
+  "anchor_where": {
+   "sapir-whorf": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 1,
+  "T": 400,
+  "cites": 156,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-15",
+  "检索URL": "见 M01-oa-01-p3（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-02-p2",
+  "doi": "10.3389/fnhum.2015.00643",
+  "title": "A Hierarchical Generative Framework of Language Processing: Linking Language Perception, Interpretation, and Production Abnormalities in Schizophrenia",
+  "authors": [
+   "Meredith Brown",
+   "Gina R. Kuperberg"
+  ],
+  "year": 2015,
+  "venue": "Frontiers in Human Neuroscience",
+  "type": "review",
+  "oa_cites": 109,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Language and thought dysfunction are central to the schizophrenia syndrome. They are evident in the major symptoms of psychosis itself, particularly as disorganized language output (positive thought disorder) and auditory verbal hallucinations (AVHs), and they also manifest as abnormalities in both high-level semantic and contextual processing and low-level perception. However, the literatures characterizing these abnormalities have largely been separate and have sometimes provided mutually exclusive accounts of aberrant language in schizophrenia. In this review, we propose that recent generative probabilistic frameworks of language processing can provide crucial insights that link these four lines of research. We first outline neural and cognitive evidence that real-time language comprehension and production normally involve internal generative circuits that propagate probabilistic pred",
+  "anchors": [
+   "language and thought"
+  ],
+  "anchor_where": {
+   "language and thought": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 160,
+  "cites": 109,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-16",
+  "检索URL": "见 M01-oa-02-p2（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p4",
+  "doi": "10.1111/lang.12186",
+  "title": "Neurolinguistic Relativity: How Language Flexes Human Perception and Cognition",
+  "authors": [
+   "Guillaume Thierry"
+  ],
+  "year": 2016,
+  "venue": "Language Learning",
+  "type": "review",
+  "oa_cites": 108,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The time has come, perhaps, to go beyond merely acknowledging that language is a core manifestation of the workings of the human mind and that it relates interactively to all aspects of thinking. The issue, thus, is not to decide whether language and human thought may be ineluctably linked (they just are), but rather to determine what the characteristics of this relationship may be and to understand how language influences-and may be influenced by-nonverbal information processing. In an attempt to demystify linguistic relativity, I review neurolinguistic studies from our research group showing a link between linguistic distinctions and perceptual or conceptual processing. On the basis of empirical evidence showing effects of terminology on perception, language-idiosyncratic relationships in semantic memory, grammatical skewing of event conceptualization, and unconscious modulation of exe",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 108,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-17",
+  "检索URL": "见 M01-oa-01-p4（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p5",
+  "doi": "10.4324/9780203929353",
+  "title": "International Management and Language",
+  "authors": [
+   "Susanne Tietze"
+  ],
+  "year": 2013,
+  "venue": "Routledge eBooks",
+  "type": "book",
+  "oa_cites": 87,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Globalization processes have resulted in the emergence of business and management networks in which the sharing of knowledge is of crucial importance. Combining two contemporary and important subject areas – namely that of international management and also language and communication in multi-language contexts – the author of this book presents a wealth of ideas, examples and applications taken from international and global contexts, which show that ‘language matters’ in the pursuit of international business affairs. The book establishes the theoretical core of its main ideas by introducing two orientations (social construction and linguistic relativity) and demonstrates how they can be drawn on to frame and understand the activities of managers. Highly innovative and topical, Susanne Tietze’s book will appeal to students of international management and international human resource manage",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 160,
+  "cites": 87,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-18",
+  "检索URL": "见 M01-oa-01-p5（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p5",
+  "doi": "10.4324/9780203361856",
+  "title": "Toward a History of American Linguistics",
+  "authors": [
+   "E.F.K. Koerner"
+  ],
+  "year": 2003,
+  "venue": "Routledge eBooks",
+  "type": "book",
+  "oa_cites": 84,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Beginning with the anthropological linguistic tradition associated primarily with the names of Franz Boas, Edward Sapir and their students and concluding with the work of Noam Chomsky and William Labov at the end of the century. This book offers a comprehensive account of essential periods and areas of research in the history of American Linguistics and also addresses contemporary debates and issues within linguistics.Topics covered include: * The sources of the 'Sapir-Whorf Hypothesis' * Leonard Bloomfield and the Cours de linguistique générale * The 'Chomskyan Revolution' and its Historiography * The Origins of Morphophonemics in American Linguistics *William Labov and the Origins of Sociolinguistics in America.Toward a History of American Linguistics will be invaluable reading for academics and advanced students within the fields of linguistics and the history of linguistics.",
+  "anchors": [
+   "sapir-whorf"
+  ],
+  "anchor_where": {
+   "sapir-whorf": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 1,
+  "T": 250,
+  "cites": 84,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-19",
+  "检索URL": "见 M01-oa-01-p5（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p6",
+  "doi": "10.1017/9781108698283",
+  "title": "The Cambridge Handbook of the Philosophy of Language",
+  "authors": [],
+  "year": 2021,
+  "venue": "Cambridge University Press eBooks",
+  "type": "book",
+  "oa_cites": 69,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The philosophy of language is central to the concerns of those working across semantics, pragmatics and cognition, as well as the philosophy of mind and ideas. Bringing together an international team of leading scholars, this handbook provides a comprehensive guide to contemporary investigations into the relationship between language, philosophy, and linguistics. Chapters are grouped into thematic areas and cover a wide range of topics, from key philosophical notions, such as meaning, truth, reference, names and propositions, to characteristics of the most recent research in the field, including logicality of language, vagueness in natural language, value judgments, slurs, deception, proximization in discourse, argumentation theory and linguistic relativity. It also includes chapters that explore selected linguistic theories and their philosophical implications, providing a much-needed i",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 40,
+  "cites": 69,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-20",
+  "检索URL": "见 M01-oa-01-p6（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p8",
+  "doi": "10.1017/cbo9780511616792.006",
+  "title": "Methodological issues in cross-language color naming",
+  "authors": [
+   "Paul Kay"
+  ],
+  "year": 2006,
+  "venue": "Cambridge University Press eBooks",
+  "type": "book-chapter",
+  "oa_cites": 37,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "In the period from roughly 1940 to 1965, linguistics and anthropology in North America and much of the world were dominated by Whorfian radical linguistic relativity. The challenge from Chomskian innateness was on the horizon, but not yet the dominant force it was to become. The main tenets of the linguistic relativity doctrine were, and in many quarters remain, that (1) the categories that each language imposes on the world are the categories in which its speakers are constrained to experience the world and (2) the linguistic – hence cognitive and perceptual – categories of each language are arbitrary, conventional stipulations. In what is probably his most frequently cited passage, Whorf wrote: The categories and types that we isolate from the world of phenomena we do not find there because they stare every observer in the face; on the contrary, the world is presented in a kaleidoscopi",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 1,
+  "T": 250,
+  "cites": 37,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-21",
+  "检索URL": "见 M01-oa-01-p8（v1.0 缓存）"
+ },
+ {
+  "module": "M01",
+  "channel": "openalex",
+  "src_file": "M01-oa-01-p10",
+  "doi": "10.4324/9781351034708-27",
+  "title": "Culture in Language and Cognition",
+  "authors": [
+   "Chris Sinha"
+  ],
+  "year": 2021,
+  "venue": "Routledge eBooks",
+  "type": "book-chapter",
+  "oa_cites": 26,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "This Handbook chapter provides an overview of the interdisciplinary field of language, cognition and culture. The chapter explores the historical background of research from anthropological, psychological and linguistic perspectives. The key concepts of linguistic relativity, semiotic mediation and extended embodiment are explored and the field of cultural linguistics is outlined. Research methods are critically described. The state of the art in the key research topics of colour, space and time, and self and identities is outlined.",
+  "anchors": [
+   "linguistic relativity"
+  ],
+  "anchor_where": {
+   "linguistic relativity": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 40,
+  "cites": 26,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M01-22",
+  "检索URL": "见 M01-oa-01-p10（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-02-p8",
+  "doi": "10.7765/9781526133113.00005",
+  "title": "Vulnerability as a political language",
+  "authors": [
+   "Anu Koivunen",
+   "Katariina Kyrölä",
+   "Ingrid Ryberg"
+  ],
+  "year": 2018,
+  "venue": "Manchester University Press eBooks",
+  "type": "book-chapter",
+  "oa_cites": 46,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "This chapter introduces the main questions addressed in the book and thoroughly accounts for the concept of vulnerability, its various theoretical legacies and uses in feminist, anti-racist, and queer scholarship, and key role in present-day discussions about power, agency, and the media. Vulnerability is addressed both as a concept and as a political language. The authors highlight four aspects of how this language operates: as a human rights discourse, as a language easily appropriated by dominant groups, as a contested language invoking long-running debates in queer, feminist, and anti-racist media cultures, and as a language translated into cultural policymaking. The #MeToo and #BlackLivesMatter campaigns exemplify how the public articulation of experiences of injury, trauma, and hurt can turn into powerful movements. However, in neo-liberal media culture, vulnerability operates as a",
+  "anchors": [
+   "political language"
+  ],
+  "anchor_where": {
+   "political language": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 90,
+  "cites": 46,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M02-23",
+  "检索URL": "见 M02-oa-02-p8（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "crossref",
+  "src_file": "M02-cr-02",
+  "doi": "10.1007/978-3-642-14107-2_20",
+  "title": "Modules as Objects in Newspeak",
+  "authors": [
+   "Bracha, Gilad",
+   "von der Ahé, Peter",
+   "Bykov, Vassili",
+   "Kashai, Yaron",
+   "Maddox, William",
+   "Miranda, Eliot"
+  ],
+  "year": 2010,
+  "venue": "Lecture Notes in Computer Science",
+  "type": "book-chapter",
+  "oa_cites": 0,
+  "cr_cites": 26,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "newspeak"
+  ],
+  "anchor_where": {
+   "newspeak": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 26,
+  "level": "待核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M02-24",
+  "检索URL": "见 M02-cr-02（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-02-p1",
+  "doi": "10.4324/9780203561218",
+  "title": "Analysing Political Discourse",
+  "authors": [
+   "Paul Chilton"
+  ],
+  "year": 2004,
+  "venue": "Routledge eBooks",
+  "type": "book",
+  "oa_cites": 1939,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "This is an essential read for anyone interested in the way language is used in the world of politics. Based on Aristotle's premise that we are all political animals, able to use language to pursue our own ends, the book uses the theoretical framework of linguistics to explore the ways in which we think and behave politically. Contemporary and high profile case studies of politicians and other speakers are used, including an examination of the dangerous influence of a politician's words on the defendants in the Stephen Lawrence murder trial.International in its perspective, Analysing Political Discourse also considers the changing landscape of political language post-September 11, including the increasing use of religious imagery in the political discourse of, amongst others, George Bush.Written in a lively and engaging style, this book provides an essential introduction to political disc",
+  "anchors": [
+   "political language"
+  ],
+  "anchor_where": {
+   "political language": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 250,
+  "cites": 1939,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M02-25",
+  "检索URL": "见 M02-oa-02-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-02-p2",
+  "doi": "10.1017/cbo9781139567190",
+  "title": "The Language of Contention",
+  "authors": [
+   "Sidney Tarrow"
+  ],
+  "year": 2013,
+  "venue": "Cambridge University Press eBooks",
+  "type": "book",
+  "oa_cites": 182,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "This book examines the relations between the material and political bases of contentious politics and the construction, diffusion and endurance of contentious language. Beginning with the language of revolution developed from the seventeenth to the nineteenth centuries, it examines contentious language at work, in gender and race relations and in nationalist and ethnic movements. It closes with an examination of emotions in contentious politics, reflecting on the changes in political language since 9/11 and assessing the impact of religion and recent innovations in electronic communication on the language of politics.",
+  "anchors": [
+   "political language"
+  ],
+  "anchor_where": {
+   "political language": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 160,
+  "cites": 182,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M02-26",
+  "检索URL": "见 M02-oa-02-p2（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-02-p3",
+  "doi": "10.1017/cbo9780511497391",
+  "title": "Hindu Nationalism and the Language of Politics in Late Colonial India",
+  "authors": [
+   "William Gould"
+  ],
+  "year": 2004,
+  "venue": "Cambridge University Press eBooks",
+  "type": "book",
+  "oa_cites": 139,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "In this book William Gould explores what is arguably one of the most important and controversial themes in twentieth-century Indian history and politics: the nature of Hindu nationalism as an ideology and political language. Rather than concentrating on the main institutions of the Hindu Right in India as other studies have done, the author uses a variety of historical sources to analyse how Hindu nationalism affected the supposedly secularist Congress in the key state of Uttar Pradesh. In this way, the author offers an alternative assessment of how these languages and ideologies transformed the relationship between Congress and north Indian Muslims. The book makes a major contribution to historical analyses of the critical last two decades before Partition and Independence in 1947, which will be of value to scholars interested in historical and contemporary Hindu nationalism, and to stu",
+  "anchors": [
+   "political language"
+  ],
+  "anchor_where": {
+   "political language": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 250,
+  "cites": 139,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M02-27",
+  "检索URL": "见 M02-oa-02-p3（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-01-p1",
+  "doi": "10.2307/j.ctt1w76tbg",
+  "title": "Post-Truth Rhetoric and Composition",
+  "authors": [
+   "Bruce McComiskey"
+  ],
+  "year": 2017,
+  "venue": "Utah State University Press eBooks",
+  "type": "book",
+  "oa_cites": 114,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "An exploration of the increasingly widespread and disturbing effect of \"post-truth\" on public discourse in the United States. McComiskey analyzes the countless instances of doublespeak, hyperbole, fabrication, and other forms of post-truth discourse employed throughout the 2016 presidential campaign.--Provided by publisher.",
+  "anchors": [
+   "doublespeak"
+  ],
+  "anchor_where": {
+   "doublespeak": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 114,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M02-28",
+  "检索URL": "见 M02-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-02-p4",
+  "doi": "10.4324/9781003406990",
+  "title": "Analysing Political Discourse",
+  "authors": [
+   "Paul Chilton"
+  ],
+  "year": 2025,
+  "venue": "Routledge eBooks",
+  "type": "book",
+  "oa_cites": 107,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "In today’s world, analysing political language is more important than ever. This revised edition, while retaining the historically significant case studies, adds new analyses that reflect the 2010s and 2020s. It retains the original analytical tools, including the discourse space model, and in a fresh chapter advocates development of tools from neuroscience. The book begins by exploring some fundamental questions concerning the relationship between language and politics, putting forward the idea that society, language and politics are closely intertwined. There cannot be any politics, as we know it, without language. The following chapters focus on key aspects of language in relation to political institutions, practices and ideologies: the interaction between speakers and hearers, the projection of different world-views, and the arousal of political emotions. The final chapters are devot",
+  "anchors": [
+   "political language"
+  ],
+  "anchor_where": {
+   "political language": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 40,
+  "cites": 107,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M02-29",
+  "检索URL": "见 M02-oa-02-p4（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-02-p4",
+  "doi": "10.1017/cbo9780511521447.003",
+  "title": "The history of the word politicus in early-modern Europe",
+  "authors": [
+   "Nicolai Rubinstein"
+  ],
+  "year": 1987,
+  "venue": "Cambridge University Press eBooks",
+  "type": "book-chapter",
+  "oa_cites": 105,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The history of the word politicus in early-modern Europe begins in the thirteenth century; as in other instances, the origins of modern political language have to be sought in the late Middle Ages. John of Salisbury had already used the term in the Policraticus to denote the institutions of the State; in his Didascalicon, Hugh of St Victor divides the practical science alternatively into solitary, private, and public, and into ‘ethicam, oeconomicam et politicam’; but politicus and other words with the same root definitively entered medieval political language after the middle of that century as the result of the translation of Aristotle's Politics and, to a lesser extent, of his Nicomachean Ethics. Albert the Great criticises the civilian lawyers who wrongly call themselves politici, although they are ignorant of the ars politica; and Brunetto Latini draws on a translation of the Ethics ",
+  "anchors": [
+   "political language"
+  ],
+  "anchor_where": {
+   "political language": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 1,
+  "T": 600,
+  "cites": 105,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M02-30",
+  "检索URL": "见 M02-oa-02-p4（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-01-p1",
+  "doi": "10.4324/9781003164869",
+  "title": "The Routledge Handbook of Social and Political Philosophy of Language",
+  "authors": [],
+  "year": 2021,
+  "venue": "Routledge eBooks",
+  "type": "book",
+  "oa_cites": 92,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "In an appendix to 1984, George Orwell described Newspeak, a language designed to advance the social and political ends of the totalitarian Ingsoc regime.Orwell discusses various linguistic features of Newspeak, including its syntax; but the most important feature of Newspeak is the meanings of its words: \"Its vocabulary was so constructed as to give exact and often very subtle expression to every meaning that a Party member could properly wish to express, while excluding all other meanings\" (1949/2000: 312-3) In short, the idea behind Newspeak is that a political group can bring about its political ends by making it the case that the language contains words with certain meanings, and lacks words with other meanings.And Big Brother isn't the only one who has thought meaning-making an important tool for social and political change; those with more admirable social and political aims have s",
+  "anchors": [
+   "newspeak"
+  ],
+  "anchor_where": {
+   "newspeak": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 40,
+  "cites": 92,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M02-31",
+  "检索URL": "见 M02-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-02-p5",
+  "doi": "10.1525/california/9780520297067.001.0001",
+  "title": "An American Language",
+  "authors": [
+   "Rosina Lozano"
+  ],
+  "year": 2018,
+  "venue": "University of California Press eBooks",
+  "type": "book",
+  "oa_cites": 78,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "An American Language is a political history of the Spanish language in the United States. The nation has always been multilingual and the Spanish language in particular has remained as an important political issue into the present. After the U.S.-Mexican War, the Spanish language became a language of politics as Spanish speakers in the U.S. Southwest used it to build territorial and state governments. In the twentieth century, Spanish became a political language where speakers and those opposed to its use clashed over what Spanish's presence in the United States meant. This book recovers this story by using evidence that includes Spanish language newspapers, letters, state and territorial session laws, and federal archives to profile the struggle and resilience of Spanish speakers who advocated for their language rights as U.S. citizens. Comparing Spanish as a language of politics and as",
+  "anchors": [
+   "political language"
+  ],
+  "anchor_where": {
+   "political language": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 78,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M02-32",
+  "检索URL": "见 M02-oa-02-p5（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-02-p7",
+  "doi": "10.18574/nyu/9780814769447.001.0001",
+  "title": "Queer Words, Queer Images",
+  "authors": [
+   "Ronald Jeffrey Ringer"
+  ],
+  "year": 2020,
+  "venue": "New York University Press eBooks",
+  "type": "book",
+  "oa_cites": 49,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "In many arenas the debate is raging over the nature of sexual orientation. Queer Words, Queer Images addresses this debate, but with a difference, arguing that homosexuality has become an issue precisely because of the way in which we discuss, debate, and communicate about the concept and experience of homosexuality. The debate over homosexuality is fundamentally an issue of communication—as we can see by the recent controversy over gays in the military. This controversy, termed by one gay man as the annoying habit of heterosexual men to overestimate their own attractiveness, has been debated in communication-sensitive terms, such as morale and discipline. The twenty chapters address such subjects as gay political language, homosexuality and AIDS on prime-time television, the politics of male homosexuality in young adult fiction, the identification of female athleticism with lesbianism, ",
+  "anchors": [
+   "political language"
+  ],
+  "anchor_where": {
+   "political language": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 49,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M02-33",
+  "检索URL": "见 M02-oa-02-p7（v1.0 缓存）"
+ },
+ {
+  "module": "M02",
+  "channel": "openalex",
+  "src_file": "M02-oa-01-p3",
+  "doi": "10.4324/9780429313929-4",
+  "title": "In Their Own Words: The World of the Torturer",
+  "authors": [
+   "Ronald D. Crelinsten"
+  ],
+  "year": 2019,
+  "venue": "Routledge eBooks",
+  "type": "book-chapter",
+  "oa_cites": 31,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The social nature of the torturer's world explains why it is so difficult for individuals to exit from the group. Probably all ex-torturers who have spoken out about their experience have at one time or another feared being killed by their former colleagues. The torturers who focused on the Argentinian pianist's hands could just as easily be zealots, coolly tailoring their torture to gain maximum advantage, or professionals using threats that exert maximum pressure. The skilled torturer can reach the breaking point sooner than the incompetent one. Resistance and compliance, innocence and guilt, might be irrelevant for the ultimate fate of the victim who stands alone facing a group of torturers. The information, the confessions, and, ultimately, the broken people, are the end products of the torturer's work. Sometimes torturers even use human rights language as Orwellian newspeak for thei",
+  "anchors": [
+   "newspeak"
+  ],
+  "anchor_where": {
+   "newspeak": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 31,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M02-34",
+  "检索URL": "见 M02-oa-01-p3（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p1",
+  "doi": "10.1075/dapsac.23",
+  "title": "Washing the Brain – Metaphor and Hidden Ideology",
+  "authors": [
+   "Andrew Goatly"
+  ],
+  "year": 2007,
+  "venue": "Discourse approaches to politics, society and culture",
+  "type": "book",
+  "oa_cites": 840,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Contemporary metaphor theory has recently begun to address the relation between metaphor, culture and ideology. In this wide-ranging book, Andrew Goatly, using lexical data from his database Metalude , investigates how conceptual metaphor themes construct our thinking and social behaviour in fields as diverse as architecture, engineering, education, genetics, ecology, economics, politics, industrial time-management, medicine, immigration, race, and sex. He argues that metaphor themes are created not only through the universal body but also through cultural experience, so that an apparently universal metaphor such as event-structure as realized in English grammar is, in fact, culturally relative, compared with e.g. the construal of 'cause and effect' in the Algonquin language Blackfoot. Moreover, event-structure as a model is both scientifically reactionary and, as the basis for technolog",
+  "anchors": [
+   "conceptual metaphor",
+   "metaphor AND politics"
+  ],
+  "anchor_where": {
+   "conceptual metaphor": "abstract",
+   "metaphor AND politics": "title"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 3,
+  "T": 250,
+  "cites": 840,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-35",
+  "检索URL": "见 M03-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p4",
+  "doi": "10.1075/dapsac.79",
+  "title": "Persuasion in Public Discourse",
+  "authors": [],
+  "year": 2018,
+  "venue": "Discourse approaches to politics, society and culture",
+  "type": "book",
+  "oa_cites": 23,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "This book approaches persuasion in public discourse as a rhetorical phenomenon that enables the persuader to appeal to the addressee’s intellectual and emotional capacities in a competing public environment. The aim is to investigate persuasive strategies from the overlapping perspectives of cognitive and functional linguistics. Both qualitative and quantitative analyses of authentic data (including English, Czech, Spanish, Slovene, Russian, and Hungarian) are grounded in the frameworks of functional grammar, facework and rapport management, classical rhetoric studies and multimodal discourse analysis and are linked to the constructs of (re)framing, conceptual metaphor and blending, mental space and viewpoint. In addition to traditional genres such as political speeches, news reporting, and advertising, the book also studies texts that examine book reviews, medieval medical recipes, publ",
+  "anchors": [
+   "conceptual metaphor",
+   "framing",
+   "metaphor AND politics"
+  ],
+  "anchor_where": {
+   "conceptual metaphor": "abstract",
+   "framing": "abstract",
+   "metaphor AND politics": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 3,
+  "T": 90,
+  "cites": 23,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-36",
+  "检索URL": "见 M03-oa-01-p4（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-03-p4",
+  "doi": "10.1515/9783110199895",
+  "title": "Corpus-Based Approaches to Metaphor and Metonymy",
+  "authors": [
+   "Stefan Τh. Gries",
+   "Anatol Stefanowitsch"
+  ],
+  "year": 2006,
+  "venue": "",
+  "type": "book",
+  "oa_cites": 474,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The papers in this volume deal with the issue of how corpus data relate to the questions that cognitive linguists have typically investigated with respect to conceptual mappings. The authors in this volume investigate a wide range of issues - the coherence and function of particular metaphorical models, the interaction of form and meaning, the identification of source domains of metaphorical expressions, the relationship between metaphor and discourse, the priming of metaphors, and the historical development of metaphors. The studies deal with a variety of metaphorical and metonymic source and target domains, including the source domains SPACE, ANIMALS, BODY PARTS, ORGANIZATIONS and WAR, and the target domains VERBAL ACTIVITY, ECONOMY, EMOTIONS and POLITICS. In their studies, the authors present a variety of corpus-linguistic methods for the investigation of conceptual mappings, for exam",
+  "anchors": [
+   "metaphor AND politics"
+  ],
+  "anchor_where": {
+   "metaphor AND politics": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 474,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-37",
+  "检索URL": "见 M03-oa-03-p4（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-03-p8",
+  "doi": "10.1515/9783110199895.1",
+  "title": "Corpus-based approaches to metaphor and metonymy",
+  "authors": [
+   "Anatol Stefanowitsch"
+  ],
+  "year": 2006,
+  "venue": "",
+  "type": "book-chapter",
+  "oa_cites": 261,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The papers in this volume deal with the issue of how corpus data relate to the questions that cognitive linguists have typically investigated with respect to conceptual mappings. The authors in this volume investigate a wide range of issues- the coherence and function of particular metaphorical models, the interaction of form and meaning, the identification of source domains of metaphorical expressions, the relationship between metaphor and discourse, the priming of metaphors, and the historical development of metaphors. The studies deal with a variety of metaphorical and metonymic source and target domains, including the source domains SPACE, ANIMALS, BODY PARTS, ORGANIZATIONS and WAR, and the target domains VERBAL ACTIVITY, ECONOMY, EMOTIONS and POLITICS. In their studies, the authors present a variety of corpus-linguistic methods for the investigation of conceptual mappings, for examp",
+  "anchors": [
+   "metaphor AND politics"
+  ],
+  "anchor_where": {
+   "metaphor AND politics": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 261,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-38",
+  "检索URL": "见 M03-oa-03-p8（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p3",
+  "doi": "10.1075/cilt.205",
+  "title": "Language and Ideology",
+  "authors": [],
+  "year": 2001,
+  "venue": "Amsterdam studies in the theory and history of linguistic science. Series 4, Current issues in linguistic theory",
+  "type": "book",
+  "oa_cites": 43,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Together with its sister volume on Theoretical Cognitive Approaches, this volume explores the contribution which cognitive linguistics can make to the identification and analysis of overt and hidden ideologies. This volume shows that descriptive tools which cognitive linguistics developed for the analysis of language-in-use are highly efficient for the analysis of ideologies as well. Amongst them are the concept of grounding and the speaker’s deictic centre, iconographic reference, frames, cultural cognitive models as a subgroup of Idealized Cognitive Models, conceptual metaphors, root metaphors, frames as groups of metaphors, mental spaces, and conceptual blending. The first section ‘Political metaphor and ideology’ discusses topics such as Nazi Germany, discrimination of Afro-Americans, South Africa’s “rainbow nation”, and the impeachment campaign against President Clinton. The second ",
+  "anchors": [
+   "frame",
+   "metaphor AND politics"
+  ],
+  "anchor_where": {
+   "frame": "abstract",
+   "metaphor AND politics": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 43,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-39",
+  "检索URL": "见 M03-oa-01-p3（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p5",
+  "doi": "10.4324/9781315312019",
+  "title": "Conceptual Metaphor in Social Psychology",
+  "authors": [
+   "Mark Jordan Landau"
+  ],
+  "year": 2016,
+  "venue": "Routledge eBooks",
+  "type": "book",
+  "oa_cites": 16,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "We learn in grade school that metaphor is an ornamental figure of speech reserved for poets. But we now know that it is also a key strategy people use to make sense of the world, from basic concepts like time and causation to the major social issues facing society. In this book, Mark Landau clarifies with wide-ranging evidence the many ways conceptual metaphor guides our thoughts and actions, shining a light on the cognitive underpinnings of social life. Conceptual Metaphor in Social Psychology synthesizes over twenty-five years of in-depth research. Drawing from innovative experiments conducted around the globe, Landau shows conclusively that individuals and groups use metaphor—often unconsciously—to grasp abstractions, make judgments and decisions, communicate, and organize their behavior. Each chapter explores metaphor’s importance for understanding a major topic in social psychology:",
+  "anchors": [
+   "conceptual metaphor"
+  ],
+  "anchor_where": {
+   "conceptual metaphor": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 90,
+  "cites": 16,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-40",
+  "检索URL": "见 M03-oa-01-p5（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p6",
+  "doi": "10.4324/9781315456935-6",
+  "title": "Conceptual Metaphors Associated with Climate Change in Corporate Reports in the Fossil Fuels Market",
+  "authors": [
+   "Олександр Капранов"
+  ],
+  "year": 2017,
+  "venue": "Routledge eBooks",
+  "type": "book-chapter",
+  "oa_cites": 15,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The issue of climate change is a multifaceted and complex phenomenon. The complexity of climate change discourse involves a plethora of variables, which encompass the input from political, nongovernmental, and corporate actors. Climate change discourse by fossil fuels corporations is reflective of the measures undertaken by corporate actors to mitigate the negative consequences of human-induced climate change. This chapter discusses the climate change discourse by two different corporations and provide insight into how these corporate actors present themselves to the public in their business reports concerning the issue of climate change. It involves climate change discourse by ExxonMobil (United States) and BHP Billiton (Australia), each considered one of the major players in the fossil fuels market in North America and Australia, respectively. The focus of the study is on investigating",
+  "anchors": [
+   "metaphor AND politics"
+  ],
+  "anchor_where": {
+   "metaphor AND politics": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 90,
+  "cites": 15,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-41",
+  "检索URL": "见 M03-oa-01-p6（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p10",
+  "doi": "10.1075/dapsac.103",
+  "title": "Cultural Linguistics and Critical Discourse Studies",
+  "authors": [],
+  "year": 2023,
+  "venue": "Discourse approaches to politics, society and culture",
+  "type": "book",
+  "oa_cites": 6,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "The present volume explores the meeting ground between Critical Discourse Studies and Cultural Linguistics. The contributions investigate culture-specific conceptualisations, ways of framing and conceptual metaphors in political discourse, as well as cultural models, cultural stereotypes and stereotyping. The individual authors use quantitative (e.g. corpus-based approaches) and/or qualitative methods. They address a range of contexts, e.g. Europe, the US, Japan, West Africa, and a variety of topics, e.g. migration, presidential elections, identity, food culture, concepts of health. The papers included in this volume show that ideologies, the key concern of Critical Discourse Studies, cannot be analysed independently of cultural conceptualisations. In a complementary, dialectic fashion, cultural conceptualisation, the central concern of Cultural Linguistics, have ideological implications",
+  "anchors": [
+   "framing",
+   "metaphor AND politics"
+  ],
+  "anchor_where": {
+   "framing": "abstract",
+   "metaphor AND politics": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 40,
+  "cites": 6,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-42",
+  "检索URL": "见 M03-oa-01-p10（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-02-p1",
+  "doi": "10.21437/interspeech.2017-1452",
+  "title": "Tacotron: Towards End-to-End Speech Synthesis",
+  "authors": [
+   "Yuxuan Wang",
+   "RJ Skerry-Ryan",
+   "Daisy Stanton",
+   "Yonghui Wu",
+   "Ron J. Weiss",
+   "Navdeep Jaitly",
+   "Zongheng Yang",
+   "Ying Xiao",
+   "Zhifeng Chen",
+   "Samy Bengio A",
+   "Quoc Viet Le",
+   "Yannis Agiomyrgiannakis",
+   "Rob Clark",
+   "Rif A. Saurous"
+  ],
+  "year": 2017,
+  "venue": "Interspeech (USB)",
+  "type": "conference-paper",
+  "oa_cites": 1744,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "A text-to-speech synthesis system typically consists of multiple stages, such as a text analysis frontend, an acoustic model and an audio synthesis module.Building these components often requires extensive domain expertise and may contain brittle design choices.In this paper, we present Tacotron, an end-to-end generative text-to-speech model that synthesizes speech directly from characters.Given <text, audio> pairs, the model can be trained completely from scratch with random initialization.We present several key techniques to make the sequence-tosequence framework perform well for this challenging task.Tacotron achieves a 3.82 subjective 5-scale mean opinion score on US English, outperforming a production parametric system in terms of naturalness.In addition, since Tacotron generates speech at the frame level, it's substantially faster than sample-level autoregressive methods.",
+  "anchors": [
+   "frame"
+  ],
+  "anchor_where": {
+   "frame": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 1744,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-43",
+  "检索URL": "见 M03-oa-02-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-03-p1",
+  "doi": "10.1075/celcr.6",
+  "title": "Metaphor and Corpus Linguistics",
+  "authors": [
+   "Alice Deignan"
+  ],
+  "year": 2005,
+  "venue": "Converging evidence in language and communication research",
+  "type": "book",
+  "oa_cites": 1107,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Metaphor is a topical issue across a number of disciplines, wherever researchers are concerned with how speakers and writers package and process messages. This book is addressed at readers from diverse academic backgrounds who are interested in ways of researching metaphor from different perspectives, and especially through corpus linguistics. A number of approaches to and exploitations of metaphor, including conceptual metaphor theory and cognitive approaches more generally, text and spoken discourse analysis, and CDA, are discussed, explored and critiqued using corpus data. The book also includes corpus linguistic studies of different aspects of metaphor, which investigate its linguistic and semantic properties and relate them to current theoretical views. The book demonstrates the need for naturally-occurring language data to be used in the development of metaphor theory, and shows th",
+  "anchors": [
+   "conceptual metaphor"
+  ],
+  "anchor_where": {
+   "conceptual metaphor": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 250,
+  "cites": 1107,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-44",
+  "检索URL": "见 M03-oa-03-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-03-p2",
+  "doi": "10.1093/acprof:oso/9780190224868.001.0001",
+  "title": "Where Metaphors Come From",
+  "authors": [
+   "Zoltán Kövecses"
+  ],
+  "year": 2015,
+  "venue": "Oxford University Press eBooks",
+  "type": "book",
+  "oa_cites": 767,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "This book argues that what is known as “conceptual metaphor theory” has stood the test of time. At the same time, it also suggests that the view of metaphorical grounding as proposed in the book augments and refines conceptual metaphor theory according to which conceptual metaphors are based on our bodily experience. Although this is certainly true in many cases of metaphor, the role of the body in metaphor creation can and should be reinterpreted, and, consequently, the body can be seen as just one of the several contexts from which metaphors can emerge (including the situational, discourse, and conceptual-cognitive contexts)—although perhaps the dominant or crucial one. Such a proposal seems to be more in line with what has been discovered about the nature of human cognition in recent years; namely, that human cognition is grounded in experience in multiple ways—embodiment, in a strict",
+  "anchors": [
+   "conceptual metaphor"
+  ],
+  "anchor_where": {
+   "conceptual metaphor": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 160,
+  "cites": 767,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-45",
+  "检索URL": "见 M03-oa-03-p2（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-03-p2",
+  "doi": "10.1515/9783110894677",
+  "title": "Metaphor and Metonymy at the Crossroads",
+  "authors": [],
+  "year": 2003,
+  "venue": "De Gruyter eBooks",
+  "type": "book",
+  "oa_cites": 669,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Metaphor and Metonymy at the Crossroads is a collection of essays, most of them written from a cognitive linguistics standpoint by leading specialists in the fields of conceptual metaphor and metonymy, and conceptual integration (blending). The book has two main goals. One of them is to discuss in new, provocative ways the nature of these conceptual mappings in English and their interaction. The other goal is to explore by means of several detailed case studies the central role of these mappings in English. The studies are, thus, concerned with the operation of metaphor and metonymy in discourse, including literary discourse or with the effect of metaphorical and/or metonymic mappings on some aspects of linguistic structure, be it polysemy or grammar. The book is of interest to students and researchers in English and linguistics, English literature, cognitive psychology and cognitive sci",
+  "anchors": [
+   "conceptual metaphor"
+  ],
+  "anchor_where": {
+   "conceptual metaphor": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 250,
+  "cites": 669,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-46",
+  "检索URL": "见 M03-oa-03-p2（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-02-p6",
+  "doi": "10.1109/icassp.2015.7178896",
+  "title": "Voice conversion using deep Bidirectional Long Short-Term Memory based Recurrent Neural Networks",
+  "authors": [
+   "Lifa Sun",
+   "Shiyin Kang",
+   "Kun Li",
+   "Helen M. L. Meng"
+  ],
+  "year": 2015,
+  "venue": "IEEE International Conference on Acoustics Speech and Signal Processing",
+  "type": "conference-paper",
+  "oa_cites": 261,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "This paper investigates the use of Deep Bidirectional Long Short-Term Memory based Recurrent Neural Networks (DBLSTM-RNNs) for voice conversion. Temporal correlations across speech frames are not directly modeled in frame-based methods using conventional Deep Neural Networks (DNNs), which results in a limited quality of the converted speech. To improve the naturalness and continuity of the speech output in voice conversion, we propose a sequence-based conversion method using DBLSTM-RNNs to model not only the frame-wised relationship between the source and the target voice, but also the long-range context-dependencies in the acoustic trajectory. Experiments show that DBLSTM-RNNs outperform DNNs where Mean Opinion Scores are 3.2 and 2.3 respectively. Also, DBLSTM-RNNs without dynamic features have better performance than DNNs with dynamic features.",
+  "anchors": [
+   "frame"
+  ],
+  "anchor_where": {
+   "frame": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 160,
+  "cites": 261,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-47",
+  "检索URL": "见 M03-oa-02-p6（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-02-p9",
+  "doi": "10.21437/interspeech.2018-1802",
+  "title": "Quality-Net: An End-to-End Non-intrusive Speech Quality Assessment Model Based on BLSTM",
+  "authors": [
+   "Szu‐Wei Fu",
+   "Yu Tsao",
+   "Hsin-Te Hwang",
+   "Hsin‐Min Wang"
+  ],
+  "year": 2018,
+  "venue": "Interspeech (USB)",
+  "type": "conference-paper",
+  "oa_cites": 179,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Nowadays, most of the objective speech quality assessment tools (e.g., perceptual evaluation of speech quality (PESQ)) are based on the comparison of the degraded/processed speech with its clean counterpart. The need of a \"golden\" reference considerably restricts the practicality of such assessment tools in real-world scenarios since the clean reference usually cannot be accessed. On the other hand, human beings can readily evaluate the speech quality without any reference (e.g., mean opinion score (MOS) tests), implying the existence of an objective and non-intrusive (no clean reference needed) quality assessment mechanism. In this study, we propose a novel end-to-end, non-intrusive speech quality evaluation model, termed Quality-Net, based on bidirectional long short-term memory. The evaluation of utterance-level quality in Quality-Net is based on the frame-level assessment. Frame cons",
+  "anchors": [
+   "frame"
+  ],
+  "anchor_where": {
+   "frame": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 179,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-48",
+  "检索URL": "见 M03-oa-02-p9（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p3",
+  "doi": "10.4324/9781003060789-29",
+  "title": "A cognitive stylistic approach to mind style in narrative fiction",
+  "authors": [
+   "Elena Semino"
+  ],
+  "year": 2020,
+  "venue": "Routledge eBooks",
+  "type": "book-chapter",
+  "oa_cites": 43,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "In this chapter, the author develops Fowler’s notion of mind style in order to contrast it with the notion of ideological point of view, drawing a more delicate distinction than Fowler that allows her to focus on individual rather than social consciousness. She draws on conceptual metaphor and blending theory from cognitive linguistics, and in so doing produces a detailed analysis of the deviant criminal mind in John Fowles’s The Collector . The frequency and elaboration of the metaphorical expressions drawing from the source domain of butterflies suggests that a systematic set of correspondences between the butterfly domain and the miranda domain is part of the Clegg’s conceptual structure. Because the relevant metaphorical expressions do not relate to a conventional pattern in English, the corresponding conceptual mapping is idiosyncratic rather than conventional, and therefore a featu",
+  "anchors": [
+   "conceptual metaphor"
+  ],
+  "anchor_where": {
+   "conceptual metaphor": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 43,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-49",
+  "检索URL": "见 M03-oa-01-p3（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p5",
+  "doi": "10.1075/dapsac.82.07ras",
+  "title": "Metaphors of plant cultivation and flowing liquid in German colonialist discourse (1871–1914)",
+  "authors": [
+   "Felicity J. Rash"
+  ],
+  "year": 2019,
+  "venue": "Discourse approaches to politics, society and culture",
+  "type": "book-chapter",
+  "oa_cites": 17,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Abstract This chapter offers a critical analysis of two major metaphor groups, plant cultivation and flowing liquids, using theories of conceptual metaphor alongside Zinken and Musolff’s premise that metaphor understanding in the real world is “a matter of engagement in debate” rather than solely a speedy and unconscious cognitive operation ( Zinken & Musolff 2009: 4 ). A qualitative analysis of representative texts produced between 1879 and 1913 will show how metaphors of cultivation and flowing reflect German pro-colonialist ideology at the turn of the twentieth century: Wilhelm Hübbe-Schleiden’s Ethiopien, Friedrich Fabri’s Bedarf Deutschland der Colonien, Friedrich Ratzel’s Politische Geographie and Der Lebensraum. Frieda von Bülow’s Tropenkoller, Robert Streit’s Ein Opfer der Hottentotten, and, to a certain extent, Leo Frobenius’s Und Afrika Sprach show some of the less positive asp",
+  "anchors": [
+   "conceptual metaphor"
+  ],
+  "anchor_where": {
+   "conceptual metaphor": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 17,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-50",
+  "检索URL": "见 M03-oa-01-p5（v1.0 缓存）"
+ },
+ {
+  "module": "M03",
+  "channel": "openalex",
+  "src_file": "M03-oa-01-p6",
+  "doi": "10.4324/9781315538211-9",
+  "title": "Interpreted Ideologies in Institutional Discourse: The Case of the European Parliament",
+  "authors": [
+   "The Case of the European Parliament University of Manchester, UK"
+  ],
+  "year": 2016,
+  "venue": "Routledge eBooks",
+  "type": "book-chapter",
+  "oa_cites": 14,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Abstract. This article investigates the impact of simultaneous interpretation on ideology in the European Parliament, drawing on a larger empirical study (Beaton, in progress). The traditional Marxist definition of ideology is first rejected before a broader definition of ideology as ‘common sense’ is employed. The concepts of hegemony and axiology are then introduced to account for the struggle between the dominant institutional ideology and subjective interpreter beliefs and ethics. Comparative data analysis of German source texts and English target texts from European Parliament plenary sessions focuses on lexical repetition of key terms and hegemonic conceptual metaphor strings. The findings suggest that EU institutional hegemony is strengthened by simultaneous interpreters, primarily through extensive use of conceptual metaphor strings in the interpretation. In addition, contrary to",
+  "anchors": [
+   "conceptual metaphor"
+  ],
+  "anchor_where": {
+   "conceptual metaphor": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 14,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M03-51",
+  "检索URL": "见 M03-oa-01-p6（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p9",
+  "doi": "10.1515/9780887555121",
+  "title": "Propaganda and Persuasion",
+  "authors": [
+   "Jennifer Anderson"
+  ],
+  "year": 2017,
+  "venue": "University of Manitoba Press eBooks",
+  "type": "book",
+  "oa_cites": 57,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "During the early Cold War, thousands of Canadians attended events organized by the Canadian-Soviet Friendship Society (CSFS) and subscribed to its publications. Using previously unavailable archival sources and oral histories, Propaganda and Persuasion looks at the CSFS as a blend of social and political activism.",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 90,
+  "cites": 57,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M04-52",
+  "检索URL": "见 M04-oa-01-p9（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p1",
+  "doi": "10.18653/v1/d17-1317",
+  "title": "Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking",
+  "authors": [
+   "Hannah Rashkin",
+   "Eunsol Choi",
+   "Jin Yea Jang",
+   "Svitlana Volkova",
+   "Yejin Choi"
+  ],
+  "year": 2017,
+  "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+  "type": "conference-paper",
+  "oa_cites": 898,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "We present an analytic study on the language of news media in the context of political fact-checking and fake news detection.We compare the language of real news with that of satire, hoaxes, and propaganda to find linguistic characteristics of untrustworthy text.To probe the feasibility of automatic political fact-checking, we also present a case study based on PolitiFact.com using their factuality judgments on a 6-point scale.Experiments show that while media fact-checking remains to be an open research question, stylistic cues can help determine the truthfulness of text.",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 898,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M04-53",
+  "检索URL": "见 M04-oa-01-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p2",
+  "doi": "10.4135/9781446212943",
+  "title": "Key Concepts in Political Communication",
+  "authors": [
+   "Darren G. Lilleker"
+  ],
+  "year": 2006,
+  "venue": "SAGE Publications Ltd eBooks",
+  "type": "book",
+  "oa_cites": 242,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Aestheticisation Agenda-Setting Americanisation/Professionalism Audiences Authenticity Brands/Branding Broadcasting/Narrowcasting Campaigns/Campaigning Civil/Civic Society Consumerism/Consumerisation Cynicism Dealignment Dumbing Down E-representation/E-politics Electoral professionalism Emotionalisation Framing Globalisation Hegemonic Model Ideology Image Information Subsidies Infotainment Legitimacy/Legitimisation Manufactured Consent Media-Centred Democracy Media Effects Mediatisation Message/Messages Negativity News Management News Values Packaging Permanent Campaigning Political Advertising Political Marketing Popular Culture Populism Propaganda Pseudo-Events Public Relations Democracy Public Sphere Representation Rhetoric Segmentation Soundbite/Soundbite Culture Source-Reporter Relations Spin/Spin-Doctor Technological Determinism Terrorism Uses and Gratifications Theory Virtual Poli",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 250,
+  "cites": 242,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M04-54",
+  "检索URL": "见 M04-oa-01-p2（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p3",
+  "doi": "10.4324/9781315045474",
+  "title": "Rhetorical and Critical Approaches to Public Relations II",
+  "authors": [
+   "Robert L. Heath",
+   "Elizabeth Lance Toth"
+  ],
+  "year": 2013,
+  "venue": "Routledge eBooks",
+  "type": "book",
+  "oa_cites": 164,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "This volume is the first to illustrate the application of rhetorical theory and critical perspectives to explain public relations practices. It provides a systematic and coherent statement of the critical guidelines and philosophical underpinnings of public relations and as such should guide pedagogy and practice. It also supplies pedagogic and critical standards with which to meet the needs of an increasingly sophisticated society that tends to reject all of public relations as propaganda. With the enormous amount of money spent on product publicity and public policy debates, this book gives practitioners a sense of whether their public relations campaigns make a contribution to the organizational bottom line by means of achieving the timeless standards of the art of rhetoric.",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 160,
+  "cites": 164,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M04-55",
+  "检索URL": "见 M04-oa-01-p3（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p4",
+  "doi": "10.4324/9781003195054",
+  "title": "Language – The Loaded Weapon",
+  "authors": [
+   "Dwight L. Bolinger"
+  ],
+  "year": 2021,
+  "venue": "Routledge eBooks",
+  "type": "book",
+  "oa_cites": 129,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "First published in 1980 and now reissued for the first time as a Routledge Linguistics Classic, Language – The Loaded Weapon is at once an introduction to and a critique of everything we know, or think we know, about language. This classic text explains in simple terms the essentials of linguistic form and meaning, and applies them to illuminate questions touching on issues related to: correctness; truth; class and dialect; manipulation through advertising and propaganda; sexual and other discrimination; and official obfuscation and the maintenance of power. Bolinger notes that our deepest societal problems are entangled with language, raising questions such as: What kind of English should be taught, or should there be no standard at all? What are the verbal persuasions of technology doing to our children? Which way does information flow, what are its biases, when does it inform and when",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 40,
+  "cites": 129,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M04-56",
+  "检索URL": "见 M04-oa-01-p4（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p5",
+  "doi": "10.2307/j.ctv15r5dsh",
+  "title": "Teresa of Avila and the Rhetoric of Femininity",
+  "authors": [
+   "Alison Parks Weber"
+  ],
+  "year": 2020,
+  "venue": "Princeton University Press eBooks",
+  "type": "book",
+  "oa_cites": 91,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Celebrated as a visionary chronicler of spirituality, Teresa of Avila (1515-1582) suffered persecution by the Counter-Reformation clergy in Spain, who denounced her for her diabolical illusions and dangerous propaganda. Confronting the historical irony of Teresa's transformation from a figure of questionable orthodoxy to a national saint, Alison Weber shows how this teacher and reformer used exceptional rhetorical skills to defend her ideas at a time when women were denied participation in theological discourse. In a close examination of Teresa's major writings, Weber correlates the stylistic techniques of humility, irony, obfuscation, and humor with social variables such as the marginalized status of pietistic groups and demonstrates how Teresa strategically adopted linguistic features associated with women--affectivity, spontaneity, colloquialism--in order to gain access to the realm o",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 91,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M04-57",
+  "检索URL": "见 M04-oa-01-p5（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p5",
+  "doi": "10.1093/oso/9780198828174.003.0004",
+  "title": "The Authority of Hate Speech",
+  "authors": [
+   "Rae Langton"
+  ],
+  "year": 2018,
+  "venue": "Oxford University Press eBooks",
+  "type": "book",
+  "oa_cites": 89,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Could hate speech have authority? Yes. Some hate speech is propaganda, and has epistemic authority. Some hate speech is directive, and has practical authority. Some has both, in part because epistemic authority can be a basis for practical authority. Hate speech can acquire authority informally through a process of accommodation, whereby a presupposition of authority is accommodated by hearers, and becomes acceptable or true. This phenomenon is familiar to philosophers of language, but has political implications, as this chapter shows, drawing on work by Lewis, Thomason, Witek, and Maitra. Authority makes a difference to what is done with words; and the accommodation of authority can make a difference to hate speech, enabling it to enact norms, rank people, or deprive them of powers. The accommodation of authority matters, because it alters the force hate speech can have, as a speech act",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 89,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M04-58",
+  "检索URL": "见 M04-oa-01-p5（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p10",
+  "doi": "10.1017/9781108584517",
+  "title": "Weaponized Words",
+  "authors": [
+   "Kurt H. Braddock"
+  ],
+  "year": 2020,
+  "venue": "Cambridge University Press eBooks",
+  "type": "book",
+  "oa_cites": 50,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Strengthen your understanding of the persuasive mechanisms used by terrorist groups and how they are effective in order to defeat them. Weaponized Words applies existing theories of persuasion to domains unique to this digital era, such as social media, YouTube, websites, and message boards to name but a few. Terrorists deploy a range of communication methods and harness reliable communication theories to create strategic messages that persuade peaceful individuals to join their groups and engage in violence. While explaining how they accomplish this, the book lays out a blueprint for developing counter-messages perfectly designed to conquer such violent extremism and terrorism. Using this basis in persuasion theory, a socio-scientific approach is generated to fight terrorist propaganda and the damage it causes.",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "abstract"
+  },
+  "q_gates": [
+   "Q1",
+   "Q3"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 50,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M04-59",
+  "检索URL": "见 M04-oa-01-p10（v1.0 缓存）"
+ },
+ {
+  "module": "M04",
+  "channel": "openalex",
+  "src_file": "M04-oa-01-p10",
+  "doi": "10.1609/icwsm.v17i1.22149",
+  "title": "Happenstance: Utilizing Semantic Search to Track Russian State Media Narratives about the Russo-Ukrainian War on Reddit",
+  "authors": [
+   "Hans W. A. Hanley",
+   "Deepak Kumar",
+   "Zakir Durumeric"
+  ],
+  "year": 2023,
+  "venue": "Proceedings of the International AAAI Conference on Web and Social Media",
+  "type": "conference-paper",
+  "oa_cites": 50,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "In the buildup to and in the weeks following the Russian Federation’s invasion of Ukraine, Russian state media outlets output torrents of misleading and outright false information. In this work, we study this coordinated information campaign in order to understand the most prominent state media narratives touted by the Russian government to English-speaking audiences. To do this, we first perform sentence-level topic analysis using the large-language model MPNet on articles published by ten different pro-Russian propaganda websites including the new Russian “fact-checking” website waronfakes.com. Within this ecosystem, we show that smaller websites like katehon.com were highly effective at publishing topics that were later echoed by other Russian sites. After analyzing this set of Russian information narratives, we then analyze their correspondence with narratives and topics of discussio",
+  "anchors": [
+   "propaganda"
+  ],
+  "anchor_where": {
+   "propaganda": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 40,
+  "cites": 50,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M04-60",
+  "检索URL": "见 M04-oa-01-p10（v1.0 缓存）"
+ },
+ {
+  "module": "M05",
+  "channel": "openalex",
+  "src_file": "M05-oa-02-p8",
+  "doi": "10.1145/1978942.1979108",
+  "title": "Online contribution practices in countries that engage in internet blocking and censorship",
+  "authors": [
+   "Irina Shklovski",
+   "Nalini P. Kotamraju"
+  ],
+  "year": 2011,
+  "venue": "CHI Conference on Human Factors in Computing Systems",
+  "type": "conference-paper",
+  "oa_cites": 32,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "In this article we describe people's online contribution practices in contexts in which the government actively blocks access to or censors the Internet. We argue that people experience blocking as confusing, as a motivation for self-censorship online, as a cause of impoverishment of available content and as a real threat of personal persecution. Challenging ideas of blocking as a monolithic, abstract policy, we discuss five strategies with which Internet users navigate blocking: self-censorship, cultivating technical savvy, reliance on social ties to relay blocked content, use of already blocked sites for content production as a form of protection and practiced transparency. We also discuss strategies that forum owners and blogging platform providers employ to deal with and to avoid blocking. We conclude by advocating for more research that acknowledges the complexity of the contexts in",
+  "anchors": [
+   "censorship",
+   "self-censorship"
+  ],
+  "anchor_where": {
+   "censorship": "title",
+   "self-censorship": "abstract"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 3,
+  "T": 160,
+  "cites": 32,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M05-61",
+  "检索URL": "见 M05-oa-02-p8（v1.0 缓存）"
+ },
+ {
+  "module": "M05",
+  "channel": "openalex",
+  "src_file": "M05-oa-01-p4",
+  "doi": "10.48550/arxiv.1303.0597",
+  "title": "The Velocity of Censorship: High-Fidelity Detection of Microblog Post Deletions",
+  "authors": [
+   "Tao Zhu",
+   "Phipps, David",
+   "Adam Pridgen",
+   "Jedidiah R. Crandall",
+   "Dan S. Wallach"
+  ],
+  "year": 2013,
+  "venue": "arXiv (Cornell University)",
+  "type": "preprint",
+  "oa_cites": 81,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Weibo and other popular Chinese microblogging sites are well known for exercising internal censorship, to comply with Chinese government requirements. This research seeks to quantify the mechanisms of this censorship: how fast and how comprehensively posts are deleted.Our analysis considered 2.38 million posts gathered over roughly two months in 2012, with our attention focused on repeatedly visiting \"sensitive\" users. This gives us a view of censorship events within minutes of their occurrence, albeit at a cost of our data no longer representing a random sample of the general Weibo population. We also have a larger 470 million post sampling from Weibo's public timeline, taken over a longer time period, that is more representative of a random sample. We found that deletions happen most heavily in the first hour after a post has been submitted. Focusing on original posts, not reposts/retw",
+  "anchors": [
+   "censorship"
+  ],
+  "anchor_where": {
+   "censorship": "title"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 2,
+  "T": 160,
+  "cites": 81,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M05-62",
+  "检索URL": "见 M05-oa-01-p4（v1.0 缓存）"
+ },
+ {
+  "module": "M05",
+  "channel": "openalex",
+  "src_file": "M05-oa-02-p1",
+  "doi": "10.4135/9781446215821",
+  "title": "Key Concepts in Journalism Studies",
+  "authors": [
+   "Bob Franklin",
+   "Martin Hamer",
+   "Mark Hanna",
+   "Marie Kinsey",
+   "John Richardson"
+  ],
+  "year": 2005,
+  "venue": "SAGE Publications Ltd eBooks",
+  "type": "book",
+  "oa_cites": 223,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "Entry Absence Accessibility Accountability Accuracy Adversarial journalism Advertising Advertising codes Advertorial Agenda setting Agony aunt Alternative media Ambient news Apologies April fool Audience Audience fragmentation Audience segmentation Bad News Balance Bandwidth Bias Bi-media Broadcasting Broadloid Broadsheet Calcutt Cartoons Censorship Chequebook journalism Circulation Collocation Columnist Commercial radio/ILR Communication Communication Act 2003 Competition Contempt of court Content analysis Context Contextualised journalism Convergence Conversation analysis Culturogical approaches Cyberspace D notice, DA notice Decoding Defamation De-regulation De-unionisation Diary Digitisation Discourse Discourse analysis Documentary Dumbing down Editor Email Embargo Embedded journalist Ethics (journalism) Ethnicity Fairness Fallacy Fifth estate Fillers or COIs First Amendment Fleet St",
+  "anchors": [
+   "censorship"
+  ],
+  "anchor_where": {
+   "censorship": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 250,
+  "cites": 223,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M05-63",
+  "检索URL": "见 M05-oa-02-p1（v1.0 缓存）"
+ },
+ {
+  "module": "M05",
+  "channel": "openalex",
+  "src_file": "M05-oa-01-p2",
+  "doi": "10.23943/9781400890057",
+  "title": "Censored",
+  "authors": [
+   "Margaret E. Roberts"
+  ],
+  "year": 2018,
+  "venue": "Princeton University Press eBooks",
+  "type": "book",
+  "oa_cites": 159,
+  "cr_cites": 0,
+  "is_retracted": false,
+  "abstract": "A groundbreaking and surprising look at contemporary censorship in China As authoritarian governments around the world develop sophisticated technologies for controlling information, many observers have predicted that these controls would be ineffective because they are easily thwarted and evaded by savvy Internet users. In Censored , Margaret Roberts demonstrates that even censorship that is easy to circumvent can still be enormously effective. Taking advantage of digital data harvested from the Chinese Internet and leaks from China's Propaganda Department, this important book sheds light on how and when censorship influences the Chinese public. Roberts finds that much of censorship in China works not by making information impossible to access but by requiring those seeking information to spend extra time and money for access. By inconveniencing users, censorship diverts the attention o",
+  "anchors": [
+   "censorship"
+  ],
+  "anchor_where": {
+   "censorship": "abstract"
+  },
+  "q_gates": [
+   "Q1"
+  ],
+  "score": 1,
+  "T": 90,
+  "cites": 159,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M05-64",
+  "检索URL": "见 M05-oa-01-p2（v1.0 缓存）"
+ },
+ {
+  "module": "M08",
+  "channel": "crossref",
+  "src_file": "M08-cr-01",
+  "doi": "10.4000/lexis.355",
+  "title": "Euphemism and Language Change: The Sixth and Seventh Ages",
+  "authors": [
+   "Burridge, Kate"
+  ],
+  "year": 2012,
+  "venue": "Lexis",
+  "type": "journal-article",
+  "oa_cites": 0,
+  "cr_cites": 50,
+  "is_retracted": false,
+  "abstract": "No matter which human group we look at, past or present, euphemism and its counterpart dysphemism are powerful forces and they are extremely important for the study of language change. They provide an emotive trigger for word addition, word loss, phonological distortion and semantic shift. Word taboo plays perpetual havoc with the methods of historical comparative linguistics, even undermining one of the cornerstones of the discipline – the arbitrary nature of the word. When it comes to taboo words, speakers behave as if there were a very real connection between the physical shape of words and their taboo sense. This is why these words are so unstable and why they are so powerful. This paper reviews the various communicative functions of euphemisms and the different linguistic strategies that are used in their creation, focusing on the linguistic creativity that surrounds the topic of ‘old age’ in Modern English (Shakespeare’s sixth and seventh ages). And since personal names form such a special case of word taboo, some consideration will also be given to the ancient and modern perspective of naming.",
+  "anchors": [
+   "taboo",
+   "euphemism",
+   "dysphemism"
+  ],
+  "anchor_where": {
+   "taboo": "abstract",
+   "euphemism": "title",
+   "dysphemism": "abstract"
+  },
+  "q_gates": [
+   "Q2"
+  ],
+  "score": 4,
+  "T": 160,
+  "cites": 50,
+  "level": "核",
+  "池级": 2,
+  "放宽项": [
+   "强锚仅在摘要命中",
+   "Q门取半档"
+  ],
+  "编号": "P2-M08-65",
+  "检索URL": "见 M08-cr-01（v1.0 缓存）"
+ },
+ {
+  "module": "M08",
+  "channel": "crossref",
+  "src_file": "M08-cr-01",
+  "doi": "10.1016/j.langsci.2009.05.001",
+  "title": "Towards a new approach to the linguistic definition of euphemism",
+  "authors": [
+   "Casas Gómez, Miguel"
+  ],
+  "year": 2009,
+  "venue": "Language Sciences",
+  "type": "journal-article",
+  "oa_cites": 0,
+  "cr_cites": 53,
+  "is_retracted": false,
+  "abstract": "",
+  "anchors": [
+   "euphemism"
+  ],
+  "anchor_where": {
+   "euphemism": "title"
+  },
+  "q_gates": [
+   "Q3"
+  ],
+  "score": 2,
+  "T": 250,
+  "cites": 53,
+  "level": "待核",
+  "池级": 2,
+  "放宽项": [
+   "Q门取半档"
+  ],
+  "编号": "P2-M08-66",
+  "检索URL": "见 M08-cr-01（v1.0 缓存）"
+ }
+]

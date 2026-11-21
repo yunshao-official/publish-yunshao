@@ -1,0 +1,71 @@
+[
+ {
+  "seed": 42,
+  "dnf": false,
+  "wall_s": 688.966,
+  "engine_json": {
+   "mode": "edges",
+   "pass": false,
+   "size": 100000,
+   "breaks0": 45,
+   "breaks1": 42,
+   "closed": false,
+   "rot": 5436,
+   "t_gen": 0.0,
+   "t_con": 79.933,
+   "t_rep": 608.254,
+   "t_ver": 0.0,
+   "cap_s": 1400.0,
+   "seed": 42
+  },
+  "rc": 1,
+  "stderr_head": "[load_edges] edges_m5_N100000_s42.txt: N=100000 E=499975 dup=0",
+  "path_file": "path_m5_N100000_s42.txt"
+ },
+ {
+  "seed": 13,
+  "dnf": false,
+  "wall_s": 651.441,
+  "engine_json": {
+   "mode": "edges",
+   "pass": false,
+   "size": 100000,
+   "breaks0": 40,
+   "breaks1": 29,
+   "closed": false,
+   "rot": 5152,
+   "t_gen": 0.0,
+   "t_con": 110.598,
+   "t_rep": 540.058,
+   "t_ver": 0.0,
+   "cap_s": 1400.0,
+   "seed": 13
+  },
+  "rc": 1,
+  "stderr_head": "[load_edges] edges_m5_N100000_s13.txt: N=100000 E=499975 dup=0",
+  "path_file": "path_m5_N100000_s13.txt"
+ },
+ {
+  "seed": 7,
+  "dnf": false,
+  "wall_s": 558.081,
+  "engine_json": {
+   "mode": "edges",
+   "pass": false,
+   "size": 100000,
+   "breaks0": 43,
+   "breaks1": 33,
+   "closed": false,
+   "rot": 5149,
+   "t_gen": 0.0,
+   "t_con": 108.926,
+   "t_rep": 448.264,
+   "t_ver": 0.0,
+   "cap_s": 1400.0,
+   "seed": 7
+  },
+  "rc": 1,
+  "stderr_head": "[load_edges] edges_m5_N100000_s7.txt: N=100000 E=499975 dup=0",
+  "path_file": "path_m5_N100000_s7.txt"
+ }
+]

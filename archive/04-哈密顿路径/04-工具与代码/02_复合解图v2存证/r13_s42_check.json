@@ -1,0 +1,206 @@
+{
+ "tag": "armB_check",
+ "N": 100000,
+ "breaks": 892,
+ "E": 399990,
+ "C1_double_bridge": {
+  "moves_le_m1": 886,
+  "moves_le_m2": 0,
+  "moves_le_m3": 0,
+  "delta_hist": {
+   "-3": 0,
+   "-2": 0,
+   "-1": 886
+  },
+  "example": {
+   "i": 2367,
+   "j": 66110,
+   "k": 91971,
+   "delta": -1
+  },
+  "family": "i,j∈断口接缝; k全域(N驱动穷举)"
+ },
+ "C3_width_ladder": [
+  {
+   "d": 0,
+   "anchors": 892,
+   "i_anchors": 892,
+   "exhaustive": true,
+   "moves_le_m1": 886,
+   "moves_le_m2": 0,
+   "moves_le_m3": 0,
+   "window_arcs": 8,
+   "window_components": 885,
+   "runs": 893,
+   "example": {
+    "i": 2367,
+    "j": 66110,
+    "k": 91971,
+    "delta": -1
+   }
+  },
+  {
+   "d": 1,
+   "anchors": 2635,
+   "i_anchors": 892,
+   "exhaustive": true,
+   "moves_le_m1": 887,
+   "moves_le_m2": 0,
+   "moves_le_m3": 0,
+   "window_arcs": 8,
+   "window_components": 885,
+   "runs": 893,
+   "example": {
+    "i": 2367,
+    "j": 66110,
+    "k": 91971,
+    "delta": -1
+   }
+  },
+  {
+   "d": 2,
+   "anchors": 4313,
+   "i_anchors": 892,
+   "exhaustive": true,
+   "moves_le_m1": 887,
+   "moves_le_m2": 0,
+   "moves_le_m3": 0,
+   "window_arcs": 542,
+   "window_components": 362,
+   "runs": 893,
+   "example": {
+    "i": 2367,
+    "j": 66110,
+    "k": 91971,
+    "delta": -1
+   }
+  },
+  {
+   "d": 4,
+   "anchors": 7561,
+   "i_anchors": 892,
+   "exhaustive": true,
+   "moves_le_m1": 887,
+   "moves_le_m2": 0,
+   "moves_le_m3": 0,
+   "window_arcs": 1459,
+   "window_components": 63,
+   "runs": 893,
+   "example": {
+    "i": 2367,
+    "j": 66110,
+    "k": 91971,
+    "delta": -1
+   }
+  },
+  {
+   "d": 8,
+   "anchors": 13697,
+   "i_anchors": 120,
+   "exhaustive": false,
+   "moves_le_m1": 439,
+   "moves_le_m2": 0,
+   "moves_le_m3": 0,
+   "window_arcs": 4084,
+   "window_components": 2,
+   "runs": 893,
+   "example": {
+    "i": 2367,
+    "j": 66110,
+    "k": 91971,
+    "delta": -1
+   }
+  },
+  {
+   "d": 10,
+   "anchors": 16591,
+   "i_anchors": 120,
+   "exhaustive": false,
+   "moves_le_m1": 440,
+   "moves_le_m2": 0,
+   "moves_le_m3": 0,
+   "window_arcs": 6111,
+   "window_components": 1,
+   "runs": 893,
+   "example": {
+    "i": 2367,
+    "j": 66110,
+    "k": 91971,
+    "delta": -1
+   }
+  }
+ ],
+ "C3_matched_subset_ladder": [
+  {
+   "d": 0,
+   "anchors": 892,
+   "i_subset": 150,
+   "moves_le_m1": 360,
+   "moves_le_m2": 0,
+   "window_arcs": 8,
+   "window_components": 885,
+   "runs": 893
+  },
+  {
+   "d": 1,
+   "anchors": 2635,
+   "i_subset": 150,
+   "moves_le_m1": 360,
+   "moves_le_m2": 0,
+   "window_arcs": 8,
+   "window_components": 885,
+   "runs": 893
+  },
+  {
+   "d": 2,
+   "anchors": 4313,
+   "i_subset": 150,
+   "moves_le_m1": 360,
+   "moves_le_m2": 0,
+   "window_arcs": 542,
+   "window_components": 362,
+   "runs": 893
+  },
+  {
+   "d": 4,
+   "anchors": 7561,
+   "i_subset": 150,
+   "moves_le_m1": 360,
+   "moves_le_m2": 0,
+   "window_arcs": 1459,
+   "window_components": 63,
+   "runs": 893
+  },
+  {
+   "d": 8,
+   "anchors": 13697,
+   "i_subset": 150,
+   "moves_le_m1": 360,
+   "moves_le_m2": 0,
+   "window_arcs": 4084,
+   "window_components": 2,
+   "runs": 893
+  },
+  {
+   "d": 10,
+   "anchors": 16591,
+   "i_subset": 150,
+   "moves_le_m1": 360,
+   "moves_le_m2": 0,
+   "window_arcs": 6111,
+   "window_components": 1,
+   "runs": 893
+  },
+  {
+   "d": 16,
+   "anchors": 24641,
+   "i_subset": 150,
+   "moves_le_m1": 362,
+   "moves_le_m2": 0,
+   "window_arcs": 14462,
+   "window_components": 1,
+   "runs": 893
+  }
+ ],
+ "wall_s": 17.47
+}

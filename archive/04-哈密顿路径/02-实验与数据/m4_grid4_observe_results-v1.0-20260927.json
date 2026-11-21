@@ -1,0 +1,604 @@
+{
+ "frozen_criteria": "格四·成功路径轨迹形态学纯观测判据书-v1.0-20260927.md",
+ "observations": [
+  {
+   "N": 100,
+   "seed": 42,
+   "solved": true,
+   "ql_count": 5,
+   "ql_endshare": 0.2,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.0,
+   "ql_conshalf": 0.6,
+   "hub_mid": 0.2,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 43,
+   "solved": false
+  },
+  {
+   "N": 100,
+   "seed": 44,
+   "solved": true,
+   "ql_count": 3,
+   "ql_endshare": 0.333,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.0,
+   "ql_conshalf": 0.333,
+   "hub_mid": 0.4,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 45,
+   "solved": true,
+   "ql_count": 6,
+   "ql_endshare": 0.333,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.2,
+   "ql_conshalf": 0.333,
+   "hub_mid": 0.0,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 46,
+   "solved": false
+  },
+  {
+   "N": 100,
+   "seed": 47,
+   "solved": false
+  },
+  {
+   "N": 100,
+   "seed": 48,
+   "solved": true,
+   "ql_count": 1,
+   "ql_endshare": 1.0,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.0,
+   "ql_conshalf": 1.0,
+   "hub_mid": 0.2,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 49,
+   "solved": false
+  },
+  {
+   "N": 100,
+   "seed": 50,
+   "solved": true,
+   "ql_count": 2,
+   "ql_endshare": 1.0,
+   "ends_quasileaf": 1,
+   "ql_bunch": 1.0,
+   "ql_conshalf": 1.0,
+   "hub_mid": 0.0,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 51,
+   "solved": true,
+   "ql_count": 2,
+   "ql_endshare": 0.5,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.0,
+   "ql_conshalf": 1.0,
+   "hub_mid": 0.4,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 52,
+   "solved": true,
+   "ql_count": 2,
+   "ql_endshare": 0.5,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.0,
+   "ql_conshalf": 1.0,
+   "hub_mid": 0.4,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 53,
+   "solved": true,
+   "ql_count": 5,
+   "ql_endshare": 0.2,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.25,
+   "ql_conshalf": 0.6,
+   "hub_mid": 0.4,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 54,
+   "solved": false
+  },
+  {
+   "N": 100,
+   "seed": 55,
+   "solved": true,
+   "ql_count": 2,
+   "ql_endshare": 0.5,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.0,
+   "ql_conshalf": 0.5,
+   "hub_mid": 0.0,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 56,
+   "solved": false
+  },
+  {
+   "N": 100,
+   "seed": 57,
+   "solved": false
+  },
+  {
+   "N": 100,
+   "seed": 58,
+   "solved": false
+  },
+  {
+   "N": 100,
+   "seed": 59,
+   "solved": false
+  },
+  {
+   "N": 100,
+   "seed": 60,
+   "solved": true,
+   "ql_count": 4,
+   "ql_endshare": 0.25,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.333,
+   "ql_conshalf": 0.5,
+   "hub_mid": 0.2,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 61,
+   "solved": false
+  },
+  {
+   "N": 100,
+   "seed": 62,
+   "solved": true,
+   "ql_count": 7,
+   "ql_endshare": 0.286,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.0,
+   "ql_conshalf": 0.429,
+   "hub_mid": 0.4,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 63,
+   "solved": false
+  },
+  {
+   "N": 100,
+   "seed": 64,
+   "solved": true,
+   "ql_count": 6,
+   "ql_endshare": 0.5,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.6,
+   "ql_conshalf": 0.333,
+   "hub_mid": 0.4,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 65,
+   "solved": true,
+   "ql_count": 5,
+   "ql_endshare": 0.2,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.0,
+   "ql_conshalf": 0.6,
+   "hub_mid": 0.4,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 66,
+   "solved": true,
+   "ql_count": 3,
+   "ql_endshare": 0.667,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.0,
+   "ql_conshalf": 0.667,
+   "hub_mid": 0.2,
+   "phi_last5": [
+    0,
+    1,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 67,
+   "solved": false
+  },
+  {
+   "N": 100,
+   "seed": 68,
+   "solved": true,
+   "ql_count": 7,
+   "ql_endshare": 0.429,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.333,
+   "ql_conshalf": 1.0,
+   "hub_mid": 0.6,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 69,
+   "solved": true,
+   "ql_count": 5,
+   "ql_endshare": 0.2,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.25,
+   "ql_conshalf": 0.4,
+   "hub_mid": 0.6,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 100,
+   "seed": 70,
+   "solved": false
+  },
+  {
+   "N": 100,
+   "seed": 71,
+   "solved": true,
+   "ql_count": 5,
+   "ql_endshare": 0.2,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.25,
+   "ql_conshalf": 0.6,
+   "hub_mid": 0.4,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 200,
+   "seed": 42,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 43,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 44,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 45,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 46,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 47,
+   "solved": true,
+   "ql_count": 3,
+   "ql_endshare": 0.667,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.0,
+   "ql_conshalf": 0.667,
+   "hub_mid": 0.2,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 200,
+   "seed": 48,
+   "solved": true,
+   "ql_count": 4,
+   "ql_endshare": 0.25,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.333,
+   "ql_conshalf": 0.75,
+   "hub_mid": 0.2,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 200,
+   "seed": 49,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 50,
+   "solved": true,
+   "ql_count": 3,
+   "ql_endshare": 0.667,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.0,
+   "ql_conshalf": 0.667,
+   "hub_mid": 0.1,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 200,
+   "seed": 51,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 52,
+   "solved": true,
+   "ql_count": 4,
+   "ql_endshare": 0.5,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.0,
+   "ql_conshalf": 0.75,
+   "hub_mid": 0.5,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 200,
+   "seed": 53,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 54,
+   "solved": true,
+   "ql_count": 6,
+   "ql_endshare": 0.167,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.6,
+   "ql_conshalf": 0.833,
+   "hub_mid": 0.3,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 200,
+   "seed": 55,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 56,
+   "solved": true,
+   "ql_count": 3,
+   "ql_endshare": 0.333,
+   "ends_quasileaf": 1,
+   "ql_bunch": 0.0,
+   "ql_conshalf": 0.667,
+   "hub_mid": 0.3,
+   "phi_last5": [
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "N": 200,
+   "seed": 57,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 58,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 59,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 60,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 61,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 62,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 63,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 64,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 65,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 66,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 67,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 68,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 69,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 70,
+   "solved": false
+  },
+  {
+   "N": 200,
+   "seed": 71,
+   "solved": false
+  }
+ ]
+}

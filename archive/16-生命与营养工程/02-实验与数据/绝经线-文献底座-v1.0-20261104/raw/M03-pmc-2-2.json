@@ -1,0 +1,1011 @@
+{
+  "version": "6.9",
+  "hitCount": 5,
+  "request": {
+    "queryString": "TITLE:\"KNDy neuron*\" OR TITLE:tachykinin AND TITLE:(menopause OR hot flash*)",
+    "resultType": "core",
+    "cursorMark": "*",
+    "pageSize": 25,
+    "sort": "CITED desc",
+    "synonym": false
+  },
+  "resultList": {
+    "result": [
+      {
+        "id": "28231077",
+        "source": "MED",
+        "pmid": "28231077",
+        "pmcid": "PMC5327841",
+        "fullTextIdList": {
+          "fullTextId": [
+            "PMC5327841"
+          ]
+        },
+        "doi": "10.1097/gme.0000000000000763",
+        "title": "Association of genetic variation in the tachykinin receptor 3 locus with hot flashes and night sweats in the Women's Health Initiative Study.",
+        "authorString": "Crandall CJ, Manson JE, Hohensee C, Horvath S, Wactawski-Wende J, LeBlanc ES, Vitolins MZ, Nassir R, Sinsheimer JS.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "Crandall CJ",
+              "lastName": "Crandall",
+              "firstName": "Carolyn J",
+              "initials": "CJ",
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "1Department of Medicine, David Geffen School of Medicine at UCLA, Los Angeles, CA2Division of Preventive Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA3Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, Seattle, WA4Department of Human Genetics and Biostatistics, David Geffen School of Medicine at UCLA, Los Angeles, CA5Department of Epidemiology and Environmental Health, University at Buffalo, The State University of New York, Buffalo, NY6Center for Health Research NW, Kaiser Permanente, Portland, OR7Department of Epidemiology and Prevention, Wake Forest School of Medicine, Winston-Salem, NC8Department of Biochemistry and Molecular Medicine, University of California-Davis, Davis, CA9Department of Human Genetics and Biomathematics, David Geffen School of Medicine at UCLA, Los Angeles, CA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Manson JE",
+              "lastName": "Manson",
+              "firstName": "JoAnn E",
+              "initials": "JE"
+            },
+            {
+              "fullName": "Hohensee C",
+              "lastName": "Hohensee",
+              "firstName": "Chancellor",
+              "initials": "C"
+            },
+            {
+              "fullName": "Horvath S",
+              "lastName": "Horvath",
+              "firstName": "Steve",
+              "initials": "S",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-4110-3589"
+              }
+            },
+            {
+              "fullName": "Wactawski-Wende J",
+              "lastName": "Wactawski-Wende",
+              "firstName": "Jean",
+              "initials": "J",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3096-9595"
+              }
+            },
+            {
+              "fullName": "LeBlanc ES",
+              "lastName": "LeBlanc",
+              "firstName": "Erin S",
+              "initials": "ES",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-4067-3432"
+              }
+            },
+            {
+              "fullName": "Vitolins MZ",
+              "lastName": "Vitolins",
+              "firstName": "Mara Z",
+              "initials": "MZ"
+            },
+            {
+              "fullName": "Nassir R",
+              "lastName": "Nassir",
+              "firstName": "Rami",
+              "initials": "R",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9914-7851"
+              }
+            },
+            {
+              "fullName": "Sinsheimer JS",
+              "lastName": "Sinsheimer",
+              "firstName": "Janet S",
+              "initials": "JS"
+            }
+          ]
+        },
+        "authorIdList": {
+          "authorId": [
+            {
+              "type": "ORCID",
+              "value": "0000-0001-9914-7851"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-4067-3432"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0002-4110-3589"
+            },
+            {
+              "type": "ORCID",
+              "value": "0000-0003-3096-9595"
+            }
+          ]
+        },
+        "dataLinksTagsList": {
+          "dataLinkstag": [
+            "altmetrics",
+            "supporting_data",
+            "related_data"
+          ]
+        },
+        "journalInfo": {
+          "issue": "3",
+          "volume": "24",
+          "journalIssueId": 2526897,
+          "dateOfPublication": "2017 Mar",
+          "monthOfPublication": 3,
+          "yearOfPublication": 2017,
+          "journal": {
+            "medlineAbbreviation": "Menopause",
+            "title": "Menopause (New York, N.Y.)",
+            "essn": "1530-0374",
+            "issn": "1072-3714",
+            "nlmid": "9433353",
+            "isoabbreviation": "Menopause"
+          },
+          "printPublicationDate": "2017-03-01"
+        },
+        "pubYear": "2017",
+        "pageInfo": "252-261",
+        "abstractText": "<h4>Objective</h4>Vasomotor symptoms (VMS, ie, hot flashes or night sweats) are reported by many, but not all, women. The extent to which VMS are genetically determined is unknown. We evaluated the relationship of genetic variation and VMS.<h4>Methods</h4>In this observational study, we accessed data from three genome-wide association studies (GWAS) (SNP Health Association Resource cohort [SHARe], WHI Memory Study cohort [WHIMS+], and Genome-Wide Association Studies of Treatment Response in Randomized Clinical Trials [GARNET] studies, total n = 17,695) of European American, African American, and Hispanic American postmenopausal women aged 50 to 79 years at baseline in the Women's Health Initiative Study. We examined genetic variation in relation to VMS (yes/no) in each study and using trans-ethnic inverse variance fixed-effects meta-analysis. A total of 11,078,977 single-nucleotide polymorphisms (SNPs) met the quality criteria.<h4>Results</h4>After adjustment for covariates and population structure, three SNPs (on chromosomes 3 and 11) were associated with VMS at the genome-wide threshold of 5 × 10 in the African American SHARe GWAS, but were not associated in the other cohorts. In the meta-analysis, 14 SNPs, all located on chromosome 4 in the tachykinin receptor 3 (TACR3) locus, however, had P < 5 × 10. These SNPs' effect sizes were similar across studies/participants' ancestry (odds ratio ∼1.5).<h4>Conclusions</h4>Genetic variation in TACR3 may contribute to the risk of VMS. To our knowledge, this is the first GWAS to examine SNPs associated with VMS. These results support the biological hypothesis of a role for TACR3 in VMS, which was previously hypothesized from animal and human studies. Further study of these variants may lead to new insights into the biological pathways involved in VMS, which are poorly understood.",
+        "affiliation": "1Department of Medicine, David Geffen School of Medicine at UCLA, Los Angeles, CA2Division of Preventive Medicine, Brigham and Women's Hospital, Harvard Medical School, Boston, MA3Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, Seattle, WA4Department of Human Genetics and Biostatistics, David Geffen School of Medicine at UCLA, Los Angeles, CA5Department of Epidemiology and Environmental Health, University at Buffalo, The State University of New York, Buffalo, NY6Center for Health Research NW, Kaiser Permanente, Portland, OR7Department of Epidemiology and Prevention, Wake Forest School of Medicine, Winston-Salem, NC8Department of Biochemistry and Molecular Medicine, University of California-Davis, Davis, CA9Department of Human Genetics and Biomathematics, David Geffen School of Medicine at UCLA, Los Angeles, CA.",
+        "publicationStatus": "ppublish",
+        "language": "eng",
+        "pubModel": "Print",
+        "pubTypeList": {
+          "pubType": [
+            "research-article",
+            "Journal Article",
+            "Observational Study"
+          ]
+        },
+        "grantsList": {
+          "grant": [
+            {
+              "agency": "WHI NIH HHS",
+              "acronym": "WH",
+              "grantId": "HHSN268201100003C",
+              "orderIn": 0
+            },
+            {
+              "agency": "NHLBI NIH HHS",
+              "acronym": "HL",
+              "grantId": "HHSN268201100003I",
+              "orderIn": 0
+            },
+            {
+              "agency": "NHLBI NIH HHS",
+              "acronym": "HL",
+              "grantId": "HHSN268201100046C",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIGMS NIH HHS",
+              "acronym": "GM",
+              "grantId": "R01 GM053275",
+              "orderIn": 0
+            },
+            {
+              "agency": "WHI NIH HHS",
+              "acronym": "WH",
+              "grantId": "HHSN268201100004C",
+              "orderIn": 0
+            },
+            {
+              "agency": "WHI NIH HHS",
+              "acronym": "WH",
+              "grantId": "HHSN268201100002C",
+              "orderIn": 0
+            },
+            {
+              "agency": "NIA NIH HHS",
+              "acronym": "AG",
+              "grantId": "HHSN271201100004C",
+              "orderIn": 0
+            },
+            {
+              "agency": "NHLBI NIH HHS",
+              "acronym": "HL",
+              "grantId": "HHSN268201100001I",
+              "orderIn": 0
+            },
+            {
+              "agency": "NHLBI NIH HHS",
+              "acronym": "HL",
+              "grantId": "HHSN268201100002I",
+              "orderIn": 0
+            },
+            {
+              "agency": "NHLBI NIH HHS",
+              "acronym": "HL",
+              "grantId": "HHSN268201100004I",
+              "orderIn": 0
+            },
+            {
+              "agency": "WHI NIH HHS",
+              "acronym": "WH",
+              "grantId": "HHSN268201100001C",
+              "orderIn": 0
+            }
+          ]
+        },
+        "meshHeadingList": {
+          "meshHeading": [
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Humans"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Hot Flashes",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Receptors, Neurokinin-3",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Odds Ratio"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Sweating",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Postmenopause",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "EH",
+                    "qualifierName": "ethnology"
+                  },
+                  {
+                    "majorTopic_YN": "Y",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "Y",
+              "descriptorName": "Polymorphism, Single Nucleotide"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Middle Aged"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Female"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Genome-Wide Association Study"
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Genetic Loci",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Hispanic or Latino",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "White People",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            },
+            {
+              "majorTopic_YN": "N",
+              "descriptorName": "Black or African American",
+              "meshQualifierList": {
+                "meshQualifier": [
+                  {
+                    "majorTopic_YN": "N",
+                    "abbreviation": "GE",
+                    "qualifierName": "genetics"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "chemicalList": {
+          "chemical": [
+            {
+              "name": "Receptors, Neurokinin-3",
+              "registryNumber": "0"
+            },
+            {
+              "name": "TACR3 protein, human",
+              "registryNumber": "0"
+            }
+          ]
+        },
+        "subsetList": {
+          "subset": [
+            {
+              "code": "IM",
+              "name": "Index Medicus"
+            }
+          ]
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Subscription required",
+              "availabilityCode": "S",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1097/GME.0000000000000763"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC5327841"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "pdf",
+              "site": "Europe_PMC",
+              "url": "https://europepmc.org/articles/PMC5327841?pdf=render"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "doi",
+              "site": "DOI",
+              "url": "https://doi.org/10.1097/gme.0000000000000763"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "Y",
+        "inPMC": "Y",
+        "citedByCount": 60,
+        "hasReferences": "Y",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "Y",
+        "hasBook": "N",
+        "hasSuppl": "Y",
+        "hasLabsLinks": "Y",
+        "hasData": "Y",
+        "authMan": "Y",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "Y",
+        "manuscriptId": "NIHMS811518",
+        "hasTMAccessionNumbers": "Y",
+        "tmAccessionTypeList": {
+          "accessionType": [
+            "refsnp"
+          ]
+        },
+        "dateOfCompletion": "2018-02-16",
+        "dateOfCreation": "2017-02-24",
+        "dateOfRevision": "2024-06-10",
+        "firstPublicationDate": "2017-03-01",
+        "firstIndexDate": "2017-02-24",
+        "fullTextReceivedDate": "2025-02-05",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "AU2001275524B",
+        "source": "PAT",
+        "title": "Method of treating symptoms of hormonal variation, including hot flashes, using tachykinin receptor antagonist",
+        "authorString": "GUTTUSO THOMAS J JR.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "GUTTUSO THOMAS J JR",
+              "lastName": "GUTTUSO THOMAS J JR"
+            }
+          ]
+        },
+        "pubYear": "2006",
+        "affiliation": "UNIV ROCHESTER",
+        "language": "eng",
+        "pubTypeList": {
+          "pubType": [
+            "Patent"
+          ]
+        },
+        "patentDetails": {
+          "typeCode": "B2",
+          "typeDescription": "Patent (APP. advertised accepted)",
+          "countryCode": "AU",
+          "country": "Australia",
+          "classifierList": {
+            "classifier": [
+              {
+                "classification": "A61K31/00",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/00"
+              },
+              {
+                "classification": "A61K31/395",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/395"
+              },
+              {
+                "classification": "A61K31/40",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/40"
+              },
+              {
+                "classification": "A61K31/401",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/401"
+              },
+              {
+                "classification": "A61K31/403",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/403"
+              },
+              {
+                "classification": "A61K31/404",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/404"
+              },
+              {
+                "classification": "A61K31/405",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/405"
+              },
+              {
+                "classification": "A61K31/445",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/445"
+              },
+              {
+                "classification": "A61K31/451",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/451"
+              },
+              {
+                "classification": "A61K31/454",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/454"
+              },
+              {
+                "classification": "A61K31/4545",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/4545"
+              },
+              {
+                "classification": "A61K31/496",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/496"
+              },
+              {
+                "classification": "A61K31/5377",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/5377"
+              },
+              {
+                "classification": "A61K38/12",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K38/12"
+              },
+              {
+                "classification": "A61K45/06",
+                "classificationType": "EPO",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K45/06"
+              },
+              {
+                "classification": "A61K31/00",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/395",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/40",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/401",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/403",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/404",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/405",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/445",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/451",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/4523",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/454",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/4545",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/496",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/5375",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/5377",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K38/12",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K45/00",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K45/06",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              }
+            ]
+          },
+          "application": {
+            "applicationNumber": "AU20010275524",
+            "applicationDate": "2001-06-12",
+            "orderIn": 0
+          },
+          "priorityList": {
+            "priority": [
+              {
+                "priorityNumber": "US20000211116P",
+                "orderIn": 1,
+                "priorityDate": "2001-06-12"
+              },
+              {
+                "priorityNumber": "WO2001US40924",
+                "orderIn": 2,
+                "priorityDate": "2001-06-12"
+              }
+            ]
+          }
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "EPO",
+              "url": "http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=AU2001275524B"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "SureChembl",
+              "url": "https://www.surechembl.org/document/AU-2001275524-B2"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "N",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2006-02-02",
+        "dateOfCreation": "2001-06-12",
+        "firstPublicationDate": "2001-06-12",
+        "firstIndexDate": "2010-09-30",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "US2002016283",
+        "source": "PAT",
+        "title": "Method of treating symptoms of hormonal variation, including hot flashes,  using tachykinin receptor antagonist",
+        "authorString": "GUTTUSO THOMAS J.",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "GUTTUSO THOMAS J",
+              "lastName": "GUTTUSO THOMAS J"
+            }
+          ]
+        },
+        "pubYear": "2002",
+        "abstractText": "The present invention relates to a methods of treating  hot flashes and symptoms of hormonal variation in a patient, which methods include  providing a tachykinin receptor antagonist and administering the tachykinin  receptor antagonist to a patient experiencing a symptom of hormonal variation  under conditions effective to treat the symptom of hormonal variation, which  symptoms of hormonal variation can include hot flashes.",
+        "language": "eng",
+        "pubTypeList": {
+          "pubType": [
+            "Patent"
+          ]
+        },
+        "patentDetails": {
+          "typeCode": "A1",
+          "typeDescription": "Patent Appl. Publ. within the TVPP",
+          "countryCode": "US",
+          "country": "United States",
+          "classifierList": {
+            "classifier": [
+              {
+                "classification": "A61K31/00",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              }
+            ]
+          },
+          "application": {
+            "applicationNumber": "US20010879390",
+            "applicationDate": "2001-06-12",
+            "orderIn": 0
+          },
+          "priorityList": {
+            "priority": [
+              {
+                "priorityNumber": "US20010879390",
+                "orderIn": 1,
+                "priorityDate": "2001-06-12"
+              },
+              {
+                "priorityNumber": "US20000211116",
+                "orderIn": 2,
+                "priorityDate": "2001-06-12"
+              }
+            ]
+          },
+          "familyList": {
+            "family": [
+              {
+                "familyNumber": "US2002016283",
+                "orderIn": 3
+              }
+            ]
+          }
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "SureChembl",
+              "url": "https://www.surechembl.org/document/US-20020016283-A1"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "EPO",
+              "url": "http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=US2002016283"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2002-02-07",
+        "dateOfCreation": "2001-06-12",
+        "firstPublicationDate": "2001-06-12",
+        "firstIndexDate": "2005-11-25",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "EP1299100",
+        "source": "PAT",
+        "title": "METHOD OF TREATING SYMPTOMS OF HORMONAL VARIATION, INCLUDING HOT FLASHES, USING TACHYKININ RECEPTOR ANTAGONIST",
+        "authorString": "GUTTUSO Thomas J. Jr..",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "GUTTUSO Thomas J. Jr.",
+              "lastName": "GUTTUSO Thomas J. Jr."
+            }
+          ]
+        },
+        "pubYear": "2003",
+        "abstractText": "The present invention relates to methods of treating hot flashes and symptoms of hormonal variation in a patient, which methods include providing a tachykinin receptor antagonist and administering the tachykinin receptor antagonist to a patient experiencing a symptom of hormonal variation under conditions effective to treat the symptom of hormonal variation, which symptoms of hormonal variation can include hot flashes.",
+        "affiliation": "THE UNIVERSITY OF ROCHESTER",
+        "language": "eng",
+        "pubTypeList": {
+          "pubType": [
+            "Patent"
+          ]
+        },
+        "patentDetails": {
+          "typeCode": "A1",
+          "typeDescription": "Publ. of Application with search report",
+          "countryCode": "EP",
+          "country": "European Patent Office",
+          "classifierList": {
+            "classifier": [
+              {
+                "classification": "A61K31/445",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/40",
+                "classificationType": "MC",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/40"
+              }
+            ]
+          },
+          "application": {
+            "applicationNumber": "EP20010942248",
+            "applicationDate": "2001-06-12",
+            "orderIn": 0
+          },
+          "priorityList": {
+            "priority": [
+              {
+                "priorityNumber": "US20000211116",
+                "orderIn": 1,
+                "priorityDate": "2001-06-12"
+              }
+            ]
+          }
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "SureChembl",
+              "url": "https://www.surechembl.org/document/EP-1299100-B1"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "EPO",
+              "url": "http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=EP1299100"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2003-04-09",
+        "dateOfCreation": "2001-06-12",
+        "firstPublicationDate": "2001-06-12",
+        "firstIndexDate": "2006-02-20",
+        "hasEvaluations": "N"
+      },
+      {
+        "id": "WO0195904",
+        "source": "PAT",
+        "title": "METHOD OF TREATING SYMPTOMS OF HORMONAL VARIATION, INCLUDING HOT FLASHES, USING TACHYKININ RECEPTOR ANTAGONIST",
+        "authorString": "GUTTUSO Thomas J. Jr..",
+        "authorList": {
+          "author": [
+            {
+              "fullName": "GUTTUSO Thomas J. Jr.",
+              "lastName": "GUTTUSO Thomas J. Jr."
+            }
+          ]
+        },
+        "pubYear": "2001",
+        "abstractText": "The present invention relates to methods of treating hot flashes and symptoms of hormonal variation in a patient, which methods include providing a tachykinin receptor antagonist and administering the tachykinin receptor antagonist to a patient experiencing a symptom of hormonal variation under conditions effective to treat the symptom of hormonal variation, which symptoms of hormonal variation can include hot flashes.",
+        "affiliation": "UNIVERSITY OF ROCHESTER",
+        "language": "eng",
+        "pubTypeList": {
+          "pubType": [
+            "Patent"
+          ]
+        },
+        "patentDetails": {
+          "typeCode": "A1",
+          "typeDescription": "Publ.of the Int.Appl. with Int.search report",
+          "countryCode": "WO",
+          "country": "World Intellectual Property Organization",
+          "classifierList": {
+            "classifier": [
+              {
+                "classification": "A61K31/445",
+                "classificationType": "IPC",
+                "hyperlink": "http://www.cooperativepatentclassification.org/cpc/scheme/A/scheme-A61K.pdf"
+              },
+              {
+                "classification": "A61K31/40",
+                "classificationType": "MC",
+                "hyperlink": "http://worldwide.espacenet.com/classification?locale=en_EP#!/CPC=A61K31/40"
+              }
+            ]
+          },
+          "application": {
+            "applicationNumber": "WO2001US40924",
+            "applicationDate": "2001-06-12",
+            "orderIn": 0
+          },
+          "priorityList": {
+            "priority": [
+              {
+                "priorityNumber": "US20000211116",
+                "orderIn": 1,
+                "priorityDate": "2001-06-12"
+              }
+            ]
+          }
+        },
+        "fullTextUrlList": {
+          "fullTextUrl": [
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "EPO",
+              "url": "http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=WO0195904"
+            },
+            {
+              "availability": "Free",
+              "availabilityCode": "F",
+              "documentStyle": "html",
+              "site": "SureChembl",
+              "url": "https://www.surechembl.org/document/WO-2001095904-A1"
+            }
+          ]
+        },
+        "isOpenAccess": "N",
+        "inEPMC": "N",
+        "inPMC": "N",
+        "citedByCount": 0,
+        "hasReferences": "N",
+        "hasTextMinedTerms": "Y",
+        "hasDbCrossReferences": "N",
+        "hasPDF": "N",
+        "hasBook": "N",
+        "hasSuppl": "N",
+        "hasLabsLinks": "N",
+        "hasData": "N",
+        "authMan": "N",
+        "epmcAuthMan": "N",
+        "nihAuthMan": "N",
+        "hasTMAccessionNumbers": "N",
+        "dateOfCompletion": "2001-12-20",
+        "dateOfCreation": "2001-06-12",
+        "firstPublicationDate": "2001-06-12",
+        "firstIndexDate": "2006-02-20",
+        "hasEvaluations": "N"
+      }
+    ]
+  }
+}

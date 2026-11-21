@@ -1,0 +1,143 @@
+{
+ "experiment": "v3×networkx对照·同帽对照补强（gen_ba侧@cap=240s）",
+ "date": "2026-09-18",
+ "purpose": "排除预算不足替代解释：门一网格 gen_ba 6/6 清零出自 cap=600 档（t_rep 273-447s 均超 240s）",
+ "engine": "door1_construction_v3.exe 原生（内置 gen_ba，非 IO 扩展版）",
+ "seeds": [
+  7,
+  13,
+  21,
+  42,
+  99,
+  2024
+ ],
+ "n_pass": 0,
+ "cells": [
+  {
+   "seed": 7,
+   "rc": 1,
+   "wall_s": 240.56,
+   "engine": {
+    "N": 100000,
+    "m": 5,
+    "seed": 7,
+    "pass": false,
+    "breaks0": 57,
+    "breaks1": 36,
+    "size": 100000,
+    "rot": 1864,
+    "defects": 0,
+    "t_gen": 0.316,
+    "t_con": 21.671,
+    "t_rep": 174.753,
+    "t_ver": 0.03,
+    "mech": "gpipe?D2?0726descend?fullclosure?;"
+   }
+  },
+  {
+   "seed": 13,
+   "rc": 1,
+   "wall_s": 238.41,
+   "engine": {
+    "N": 100000,
+    "m": 5,
+    "seed": 13,
+    "pass": false,
+    "breaks0": 52,
+    "breaks1": 37,
+    "size": 100000,
+    "rot": 1846,
+    "defects": 0,
+    "t_gen": 0.289,
+    "t_con": 20.869,
+    "t_rep": 180.171,
+    "t_ver": 0.03,
+    "mech": "gpipe?D2?0726descend?fullclosure?;"
+   }
+  },
+  {
+   "seed": 21,
+   "rc": 1,
+   "wall_s": 238.57,
+   "engine": {
+    "N": 100000,
+    "m": 5,
+    "seed": 21,
+    "pass": false,
+    "breaks0": 51,
+    "breaks1": 17,
+    "size": 100000,
+    "rot": 1893,
+    "defects": 0,
+    "t_gen": 0.297,
+    "t_con": 19.922,
+    "t_rep": 193.492,
+    "t_ver": 0.029,
+    "mech": "gpipe?D2?0726descend?fullclosure?;"
+   }
+  },
+  {
+   "seed": 42,
+   "rc": 1,
+   "wall_s": 234.5,
+   "engine": {
+    "N": 100000,
+    "m": 5,
+    "seed": 42,
+    "pass": false,
+    "breaks0": 49,
+    "breaks1": 13,
+    "size": 100000,
+    "rot": 1882,
+    "defects": 0,
+    "t_gen": 0.301,
+    "t_con": 20.205,
+    "t_rep": 190.286,
+    "t_ver": 0.03,
+    "mech": "gpipe?D2?0726descend?fullclosure?;"
+   }
+  },
+  {
+   "seed": 99,
+   "rc": 1,
+   "wall_s": 235.13,
+   "engine": {
+    "N": 100000,
+    "m": 5,
+    "seed": 99,
+    "pass": false,
+    "breaks0": 51,
+    "breaks1": 10,
+    "size": 100000,
+    "rot": 1843,
+    "defects": 0,
+    "t_gen": 0.274,
+    "t_con": 26.434,
+    "t_rep": 185.944,
+    "t_ver": 0.056,
+    "mech": "gpipe?D2?0726descend?fullclosure?;"
+   }
+  },
+  {
+   "seed": 2024,
+   "rc": 1,
+   "wall_s": 240.01,
+   "engine": {
+    "N": 100000,
+    "m": 5,
+    "seed": 2024,
+    "pass": false,
+    "breaks0": 60,
+    "breaks1": 42,
+    "size": 100000,
+    "rot": 1943,
+    "defects": 0,
+    "t_gen": 0.411,
+    "t_con": 28.033,
+    "t_rep": 174.987,
+    "t_ver": 0.029,
+    "mech": "gpipe?D2?0726descend?fullclosure?;"
+   }
+  }
+ ]
+}

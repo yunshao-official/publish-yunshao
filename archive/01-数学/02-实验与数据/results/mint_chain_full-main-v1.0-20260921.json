@@ -1,0 +1,1886 @@
+{
+ "A0": {
+  "mismatch_2000": 0
+ },
+ "regression": {},
+ "entries": {
+  "c(0)": {
+   "min_dfa": 3,
+   "reach": 2,
+   "acc": 2,
+   "M_acc": 0,
+   "M_dead": 0,
+   "M_int": 0,
+   "R_f": 3,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 0,
+   "spec_match": true
+  },
+  "c(-1)": {
+   "min_dfa": 5,
+   "reach": 4,
+   "acc": 2,
+   "M_acc": 0,
+   "M_dead": 0,
+   "M_int": 0,
+   "R_f": 5,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 0,
+   "spec_match": true
+  },
+  "c(-2)": {
+   "min_dfa": 5,
+   "reach": 6,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 0,
+   "M_int": 0,
+   "R_f": 5,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 0,
+   "spec_match": true
+  },
+  "c(-3)": {
+   "min_dfa": 6,
+   "reach": 6,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 0,
+   "M_int": 0,
+   "R_f": 6,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 0,
+   "spec_match": true
+  },
+  "c(-4)": {
+   "min_dfa": 7,
+   "reach": 8,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 0,
+   "M_int": 0,
+   "R_f": 7,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 0,
+   "spec_match": true
+  },
+  "c(-5)": {
+   "min_dfa": 7,
+   "reach": 7,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 0,
+   "M_int": 0,
+   "R_f": 7,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 0,
+   "spec_match": true
+  },
+  "c(-6)": {
+   "min_dfa": 7,
+   "reach": 9,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 0,
+   "M_int": 1,
+   "R_f": 7,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -2,
+     1
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -2,
+       -1,
+       1
+      ],
+      [
+       -2,
+       1,
+       1
+      ]
+     ],
+     "d": -2,
+     "m": 1,
+     "j": 1,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 1,
+   "slots": {
+    "S2": 1,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -2,
+      1
+     ],
+     "slot": "S2"
+    }
+   ],
+   "dead_n": 0,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-7)": {
+   "min_dfa": 8,
+   "reach": 9,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 1,
+   "M_int": 0,
+   "R_f": 8,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 1,
+   "spec_match": true
+  },
+  "c(-8)": {
+   "min_dfa": 7,
+   "reach": 9,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 1,
+   "M_int": 0,
+   "R_f": 7,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 1,
+   "spec_match": true
+  },
+  "c(-9)": {
+   "min_dfa": 7,
+   "reach": 8,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 0,
+   "M_int": 1,
+   "R_f": 7,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -3,
+     2
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -3,
+       -1,
+       2
+      ],
+      [
+       -3,
+       1,
+       2
+      ]
+     ],
+     "d": -3,
+     "m": 2,
+     "j": 1,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 1,
+   "slots": {
+    "S2": 1,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -3,
+      2
+     ],
+     "slot": "S2"
+    }
+   ],
+   "dead_n": 0,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-10)": {
+   "min_dfa": 9,
+   "reach": 10,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 0,
+   "M_int": 0,
+   "R_f": 9,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 0,
+   "spec_match": true
+  },
+  "c(-11)": {
+   "min_dfa": 10,
+   "reach": 10,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 0,
+   "M_int": 0,
+   "R_f": 10,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 0,
+   "spec_match": true
+  },
+  "c(-12)": {
+   "min_dfa": 9,
+   "reach": 11,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 0,
+   "M_int": 1,
+   "R_f": 9,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -4,
+     1
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -4,
+       -1,
+       1
+      ],
+      [
+       -4,
+       1,
+       1
+      ]
+     ],
+     "d": -4,
+     "m": 1,
+     "j": 1,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 1,
+   "slots": {
+    "S2": 1,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -4,
+      1
+     ],
+     "slot": "S2"
+    }
+   ],
+   "dead_n": 0,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-13)": {
+   "min_dfa": 9,
+   "reach": 9,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 0,
+   "M_int": 0,
+   "R_f": 9,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 0,
+   "spec_match": true
+  },
+  "c(-14)": {
+   "min_dfa": 9,
+   "reach": 10,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 0,
+   "M_int": 0,
+   "R_f": 9,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 0,
+   "spec_match": true
+  },
+  "c(-15)": {
+   "min_dfa": 8,
+   "reach": 9,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 0,
+   "M_int": 1,
+   "R_f": 8,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -5,
+     2
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -5,
+       -1,
+       2
+      ],
+      [
+       -5,
+       1,
+       2
+      ]
+     ],
+     "d": -5,
+     "m": 2,
+     "j": 1,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 1,
+   "slots": {
+    "S2": 1,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -5,
+      2
+     ],
+     "slot": "S2"
+    }
+   ],
+   "dead_n": 0,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-16)": {
+   "min_dfa": 9,
+   "reach": 12,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 2,
+   "M_int": 0,
+   "R_f": 9,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 2,
+   "spec_match": true
+  },
+  "c(-17)": {
+   "min_dfa": 9,
+   "reach": 11,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 2,
+   "M_int": 0,
+   "R_f": 9,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 2,
+   "spec_match": true
+  },
+  "c(-18)": {
+   "min_dfa": 9,
+   "reach": 12,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 0,
+   "M_int": 2,
+   "R_f": 9,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -6,
+     1
+    ],
+    [
+     -2,
+     1
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -6,
+       -1,
+       1
+      ],
+      [
+       -6,
+       1,
+       1
+      ]
+     ],
+     "d": -6,
+     "m": 1,
+     "j": 1,
+     "mech_ok": true
+    },
+    {
+     "pair": [
+      [
+       -2,
+       -1,
+       1
+      ],
+      [
+       -2,
+       1,
+       1
+      ]
+     ],
+     "d": -2,
+     "m": 1,
+     "j": 2,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 2,
+   "slots": {
+    "S2": 1,
+    "S2star": 1,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -6,
+      1
+     ],
+     "slot": "S2"
+    },
+    {
+     "pair": [
+      -2,
+      1
+     ],
+     "slot": "S2star"
+    }
+   ],
+   "dead_n": 0,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-19)": {
+   "min_dfa": 11,
+   "reach": 13,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 2,
+   "M_int": 0,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 2,
+   "spec_match": true
+  },
+  "c(-20)": {
+   "min_dfa": 10,
+   "reach": 13,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 2,
+   "M_int": 0,
+   "R_f": 10,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 2,
+   "spec_match": true
+  },
+  "c(-21)": {
+   "min_dfa": 9,
+   "reach": 11,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 1,
+   "M_int": 1,
+   "R_f": 9,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -7,
+     2
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -7,
+       -1,
+       2
+      ],
+      [
+       -7,
+       1,
+       2
+      ]
+     ],
+     "d": -7,
+     "m": 2,
+     "j": 1,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 1,
+   "slots": {
+    "S2": 1,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -7,
+      2
+     ],
+     "slot": "S2"
+    }
+   ],
+   "dead_n": 1,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-22)": {
+   "min_dfa": 9,
+   "reach": 12,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 2,
+   "M_int": 0,
+   "R_f": 9,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 2,
+   "spec_match": true
+  },
+  "c(-23)": {
+   "min_dfa": 9,
+   "reach": 11,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 2,
+   "M_int": 0,
+   "R_f": 9,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 2,
+   "spec_match": true
+  },
+  "c(-24)": {
+   "min_dfa": 9,
+   "reach": 12,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 1,
+   "M_int": 1,
+   "R_f": 9,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -8,
+     1
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -8,
+       -1,
+       1
+      ],
+      [
+       -8,
+       1,
+       1
+      ]
+     ],
+     "d": -8,
+     "m": 1,
+     "j": 1,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 1,
+   "slots": {
+    "S2": 1,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -8,
+      1
+     ],
+     "slot": "S2"
+    }
+   ],
+   "dead_n": 1,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-25)": {
+   "min_dfa": 10,
+   "reach": 12,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 2,
+   "M_int": 0,
+   "R_f": 10,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 2,
+   "spec_match": true
+  },
+  "c(-26)": {
+   "min_dfa": 9,
+   "reach": 12,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 2,
+   "M_int": 0,
+   "R_f": 9,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 2,
+   "spec_match": true
+  },
+  "c(-27)": {
+   "min_dfa": 8,
+   "reach": 10,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 0,
+   "M_int": 2,
+   "R_f": 8,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -9,
+     2
+    ],
+    [
+     -3,
+     2
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -9,
+       -1,
+       2
+      ],
+      [
+       -9,
+       1,
+       2
+      ]
+     ],
+     "d": -9,
+     "m": 2,
+     "j": 1,
+     "mech_ok": true
+    },
+    {
+     "pair": [
+      [
+       -3,
+       -1,
+       2
+      ],
+      [
+       -3,
+       1,
+       2
+      ]
+     ],
+     "d": -3,
+     "m": 2,
+     "j": 2,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 2,
+   "slots": {
+    "S2": 1,
+    "S2star": 1,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -9,
+      2
+     ],
+     "slot": "S2"
+    },
+    {
+     "pair": [
+      -3,
+      2
+     ],
+     "slot": "S2star"
+    }
+   ],
+   "dead_n": 0,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-28)": {
+   "min_dfa": 11,
+   "reach": 13,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 1,
+   "M_int": 0,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 1,
+   "spec_match": true
+  },
+  "c(-29)": {
+   "min_dfa": 12,
+   "reach": 13,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 1,
+   "M_int": 0,
+   "R_f": 12,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 1,
+   "spec_match": true
+  },
+  "c(-30)": {
+   "min_dfa": 11,
+   "reach": 13,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 0,
+   "M_int": 1,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -10,
+     1
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -10,
+       -1,
+       1
+      ],
+      [
+       -10,
+       1,
+       1
+      ]
+     ],
+     "d": -10,
+     "m": 1,
+     "j": 1,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 1,
+   "slots": {
+    "S2": 1,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -10,
+      1
+     ],
+     "slot": "S2"
+    }
+   ],
+   "dead_n": 0,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-31)": {
+   "min_dfa": 11,
+   "reach": 12,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 1,
+   "M_int": 0,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 1,
+   "spec_match": true
+  },
+  "c(-32)": {
+   "min_dfa": 11,
+   "reach": 13,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 1,
+   "M_int": 0,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 1,
+   "spec_match": true
+  },
+  "c(-33)": {
+   "min_dfa": 11,
+   "reach": 12,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 0,
+   "M_int": 1,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -11,
+     2
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -11,
+       -1,
+       2
+      ],
+      [
+       -11,
+       1,
+       2
+      ]
+     ],
+     "d": -11,
+     "m": 2,
+     "j": 1,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 1,
+   "slots": {
+    "S2": 1,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -11,
+      2
+     ],
+     "slot": "S2"
+    }
+   ],
+   "dead_n": 0,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-34)": {
+   "min_dfa": 12,
+   "reach": 14,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 1,
+   "M_int": 0,
+   "R_f": 12,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 1,
+   "spec_match": true
+  },
+  "c(-35)": {
+   "min_dfa": 13,
+   "reach": 14,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 1,
+   "M_int": 0,
+   "R_f": 13,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 1,
+   "spec_match": true
+  },
+  "c(-36)": {
+   "min_dfa": 11,
+   "reach": 14,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 0,
+   "M_int": 2,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -12,
+     1
+    ],
+    [
+     -4,
+     1
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -12,
+       -1,
+       1
+      ],
+      [
+       -12,
+       1,
+       1
+      ]
+     ],
+     "d": -12,
+     "m": 1,
+     "j": 1,
+     "mech_ok": true
+    },
+    {
+     "pair": [
+      [
+       -4,
+       -1,
+       1
+      ],
+      [
+       -4,
+       1,
+       1
+      ]
+     ],
+     "d": -4,
+     "m": 1,
+     "j": 2,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 2,
+   "slots": {
+    "S2": 1,
+    "S2star": 1,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -12,
+      1
+     ],
+     "slot": "S2"
+    },
+    {
+     "pair": [
+      -4,
+      1
+     ],
+     "slot": "S2star"
+    }
+   ],
+   "dead_n": 0,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-37)": {
+   "min_dfa": 11,
+   "reach": 13,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 2,
+   "M_int": 0,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 2,
+   "spec_match": true
+  },
+  "c(-38)": {
+   "min_dfa": 11,
+   "reach": 14,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 2,
+   "M_int": 0,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 2,
+   "spec_match": true
+  },
+  "c(-39)": {
+   "min_dfa": 10,
+   "reach": 11,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 0,
+   "M_int": 1,
+   "R_f": 10,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -13,
+     2
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -13,
+       -1,
+       2
+      ],
+      [
+       -13,
+       1,
+       2
+      ]
+     ],
+     "d": -13,
+     "m": 2,
+     "j": 1,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 1,
+   "slots": {
+    "S2": 1,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -13,
+      2
+     ],
+     "slot": "S2"
+    }
+   ],
+   "dead_n": 0,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-40)": {
+   "min_dfa": 11,
+   "reach": 12,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 0,
+   "M_int": 0,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 0,
+   "spec_match": true
+  },
+  "c(-41)": {
+   "min_dfa": 11,
+   "reach": 11,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 0,
+   "M_int": 0,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 0,
+   "spec_match": true
+  },
+  "c(-42)": {
+   "min_dfa": 11,
+   "reach": 13,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 0,
+   "M_int": 1,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -14,
+     1
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -14,
+       -1,
+       1
+      ],
+      [
+       -14,
+       1,
+       1
+      ]
+     ],
+     "d": -14,
+     "m": 1,
+     "j": 1,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 1,
+   "slots": {
+    "S2": 1,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -14,
+      1
+     ],
+     "slot": "S2"
+    }
+   ],
+   "dead_n": 0,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-43)": {
+   "min_dfa": 12,
+   "reach": 13,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 1,
+   "M_int": 0,
+   "R_f": 12,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 1,
+   "spec_match": true
+  },
+  "c(-44)": {
+   "min_dfa": 11,
+   "reach": 13,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 1,
+   "M_int": 0,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 1,
+   "spec_match": true
+  },
+  "c(-45)": {
+   "min_dfa": 9,
+   "reach": 11,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 0,
+   "M_int": 2,
+   "R_f": 9,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [
+    [
+     -15,
+     2
+    ],
+    [
+     -5,
+     2
+    ]
+   ],
+   "pair_records": [
+    {
+     "pair": [
+      [
+       -15,
+       -1,
+       2
+      ],
+      [
+       -15,
+       1,
+       2
+      ]
+     ],
+     "d": -15,
+     "m": 2,
+     "j": 1,
+     "mech_ok": true
+    },
+    {
+     "pair": [
+      [
+       -5,
+       -1,
+       2
+      ],
+      [
+       -5,
+       1,
+       2
+      ]
+     ],
+     "d": -5,
+     "m": 2,
+     "j": 2,
+     "mech_ok": true
+    }
+   ],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 2,
+   "slots": {
+    "S2": 1,
+    "S2star": 1,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [
+    {
+     "pair": [
+      -15,
+      2
+     ],
+     "slot": "S2"
+    },
+    {
+     "pair": [
+      -5,
+      2
+     ],
+     "slot": "S2star"
+    }
+   ],
+   "dead_n": 0,
+   "spec_match": true,
+   "pairs_match_archive": true
+  },
+  "c(-46)": {
+   "min_dfa": 11,
+   "reach": 15,
+   "acc": 3,
+   "M_acc": 2,
+   "M_dead": 3,
+   "M_int": 0,
+   "R_f": 11,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 3,
+   "spec_match": true
+  },
+  "c(-47)": {
+   "min_dfa": 12,
+   "reach": 15,
+   "acc": 2,
+   "M_acc": 1,
+   "M_dead": 3,
+   "M_int": 0,
+   "R_f": 12,
+   "eq_R": true,
+   "layer_eq": true,
+   "pairs": [],
+   "pair_records": [],
+   "mech_bad": [],
+   "rev_eq": true,
+   "rev_n": 0,
+   "slots": {
+    "S2": 0,
+    "S2star": 0,
+    "S1": 0,
+    "S3": 0
+   },
+   "slot_detail": [],
+   "dead_n": 3,
+   "spec_match": true
+  }
+ },
+ "P_pred": {},
+ "notes": {
+  "verdict": {
+   "spec_bad": [],
+   "archive_pairs_bad": [],
+   "form_bad": [],
+   "rev_bad": [],
+   "R_bad": [],
+   "lay_bad": [],
+   "pm2_noninherit_bad": [],
+   "slots_total_48": {
+    "S2": 14,
+    "S2star": 4,
+    "S1": 0,
+    "S3": 0
+   },
+   "D_M5_components": {
+    "c(-3)": {
+     "dR": 2,
+     "dMacc": 1,
+     "dMdead": 0,
+     "dMint": 0,
+     "dRstate": 1,
+     "identity_ok": true
+    },
+    "c(-6)": {
+     "dR": 3,
+     "dMacc": 0,
+     "dMdead": 0,
+     "dMint": 1,
+     "dRstate": 2,
+     "identity_ok": true
+    },
+    "c(-9)": {
+     "dR": 2,
+     "dMacc": 0,
+     "dMdead": 0,
+     "dMint": 1,
+     "dRstate": 1,
+     "identity_ok": true
+    },
+    "c(-12)": {
+     "dR": 3,
+     "dMacc": 0,
+     "dMdead": 0,
+     "dMint": 1,
+     "dRstate": 2,
+     "identity_ok": true
+    },
+    "c(-15)": {
+     "dR": 2,
+     "dMacc": 0,
+     "dMdead": 0,
+     "dMint": 1,
+     "dRstate": 1,
+     "identity_ok": true
+    },
+    "c(-18)": {
+     "dR": 3,
+     "dMacc": 0,
+     "dMdead": 0,
+     "dMint": 1,
+     "dRstate": 2,
+     "identity_ok": true
+    },
+    "c(-21)": {
+     "dR": 2,
+     "dMacc": 0,
+     "dMdead": 0,
+     "dMint": 1,
+     "dRstate": 1,
+     "identity_ok": true
+    },
+    "c(-24)": {
+     "dR": 3,
+     "dMacc": 0,
+     "dMdead": 0,
+     "dMint": 1,
+     "dRstate": 2,
+     "identity_ok": true
+    },
+    "c(-27)": {
+     "dR": 2,
+     "dMacc": 0,
+     "dMdead": 0,
+     "dMint": 1,
+     "dRstate": 1,
+     "identity_ok": true
+    },
+    "c(-30)": {
+     "dR": 3,
+     "dMacc": 0,
+     "dMdead": 0,
+     "dMint": 1,
+     "dRstate": 2,
+     "identity_ok": true
+    }
+   }
+  }
+ }
+}

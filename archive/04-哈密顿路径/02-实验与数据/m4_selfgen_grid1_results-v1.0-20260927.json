@@ -1,0 +1,2406 @@
+{
+ "frozen_criteria": "m4悬崖边界·参考实现扫描预注册判据书-v1.2-20260927.md §九",
+ "generator": "gen_ba_rebuild(K_4 start, m-fold degree-weighted sampling, no-retry)",
+ "results": [
+  {
+   "N": 100,
+   "seed": 42,
+   "arm": "B'",
+   "solved": true,
+   "time_s": 0.201,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 42,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.165,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 42,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 42,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.159,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 43,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 43,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 43,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 43,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 44,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 2,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 44,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 2,
+   "quasi_leaf": 3,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 44,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 2,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 44,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 2,
+   "quasi_leaf": 3,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 45,
+   "arm": "B'",
+   "solved": true,
+   "time_s": 0.004,
+   "min_deg": 2,
+   "quasi_leaf": 6,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 45,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 2,
+   "quasi_leaf": 6,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 45,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 2,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 45,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 2,
+   "quasi_leaf": 6,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 46,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 46,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 46,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 46,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 1.247,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 47,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 47,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 47,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 47,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.404,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 48,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 1,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 48,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 3,
+   "quasi_leaf": 1,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 48,
+   "arm": "D",
+   "solved": true,
+   "time_s": 0.243,
+   "min_deg": 3,
+   "quasi_leaf": 1,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 48,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 3,
+   "quasi_leaf": 1,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 49,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 49,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 49,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 49,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 50,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 50,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 50,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 50,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 51,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 51,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 51,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 51,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 52,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 52,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.326,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 52,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 52,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.222,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 53,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 53,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.009,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 53,
+   "arm": "D",
+   "solved": true,
+   "time_s": 0.064,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 53,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.003,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 54,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 54,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 54,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 54,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.428,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 55,
+   "arm": "B'",
+   "solved": true,
+   "time_s": 0.148,
+   "min_deg": 2,
+   "quasi_leaf": 2,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 55,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.002,
+   "min_deg": 2,
+   "quasi_leaf": 2,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 55,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 2,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 55,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.002,
+   "min_deg": 2,
+   "quasi_leaf": 2,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 56,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 56,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 56,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 56,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.615,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 57,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 57,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 57,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 57,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 58,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 12,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 58,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 12,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 58,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 12,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 58,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 12,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 59,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 59,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 59,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 59,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 2,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 60,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 60,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.025,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 60,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 60,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.022,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 61,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 61,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 61,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 61,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.403,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 62,
+   "arm": "B'",
+   "solved": true,
+   "time_s": 0.056,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 62,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.057,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 62,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 62,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.056,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 63,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 63,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 63,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 63,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 1.26,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 64,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 2,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 64,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.212,
+   "min_deg": 2,
+   "quasi_leaf": 6,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 64,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 2,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 64,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.214,
+   "min_deg": 2,
+   "quasi_leaf": 6,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 65,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 65,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.196,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 65,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 65,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.191,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 66,
+   "arm": "B'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 2,
+   "quasi_leaf": 3,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 66,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 2,
+   "quasi_leaf": 3,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 66,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 2,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 66,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 2,
+   "quasi_leaf": 3,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 67,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 67,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 67,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 67,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.423,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 68,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 2,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 68,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.144,
+   "min_deg": 2,
+   "quasi_leaf": 7,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 68,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 2,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 68,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.147,
+   "min_deg": 2,
+   "quasi_leaf": 7,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 69,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 69,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.209,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 69,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 69,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.205,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 70,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 70,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 70,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 70,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.435,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 71,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 71,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 100,
+   "seed": 71,
+   "arm": "D",
+   "solved": false,
+   "time_s": 1.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 100,
+   "seed": 71,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.001,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 42,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 42,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 42,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 42,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 43,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 43,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 43,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 43,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 44,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 2,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 44,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 2,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 44,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 2,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 44,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 2,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 45,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 2,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 45,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 2,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 45,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.501,
+   "min_deg": 2,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 45,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 2,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 46,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 8,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 46,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 8,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 46,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 8,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 46,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 8,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 47,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 47,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.354,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 47,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 47,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.363,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 48,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 48,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.004,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 48,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 48,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.004,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 49,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 49,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 49,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 49,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.501,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 50,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 50,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.004,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 50,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 50,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.005,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 51,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 2,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 51,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 2,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 51,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 2,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 51,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 2,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 52,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 52,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.004,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 52,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 52,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.004,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 53,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 53,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 53,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 53,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 54,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 2,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 54,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.019,
+   "min_deg": 2,
+   "quasi_leaf": 6,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 54,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 2,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 54,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.02,
+   "min_deg": 2,
+   "quasi_leaf": 6,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 55,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 55,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 55,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 55,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 2.224,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 56,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 56,
+   "arm": "C'",
+   "solved": true,
+   "time_s": 0.344,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 56,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 56,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 0.361,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 57,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.51,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 57,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 57,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 57,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 58,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 58,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 58,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.508,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 58,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 59,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 59,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 59,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 59,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.501,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 60,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 60,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 60,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 60,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 61,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 61,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 61,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 61,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.503,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 62,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 62,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 62,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 62,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 63,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 63,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 63,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.501,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 63,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 64,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 64,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 64,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 64,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 65,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 65,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 65,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 65,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.534,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 66,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 66,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 66,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 66,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 1.926,
+   "min_deg": 3,
+   "quasi_leaf": 4,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 67,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 67,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 67,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 67,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 3,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 68,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 68,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 68,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 68,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 1.036,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": true
+  },
+  {
+   "N": 200,
+   "seed": 69,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 69,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 69,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 69,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 7,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 70,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 70,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 70,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.501,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 70,
+   "arm": "A'",
+   "solved": false,
+   "time_s": 2.519,
+   "min_deg": 3,
+   "quasi_leaf": 5,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 71,
+   "arm": "B'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 71,
+   "arm": "C'",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 71,
+   "arm": "D",
+   "solved": false,
+   "time_s": 2.5,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": false
+  },
+  {
+   "N": 200,
+   "seed": 71,
+   "arm": "A'",
+   "solved": true,
+   "time_s": 1.247,
+   "min_deg": 3,
+   "quasi_leaf": 6,
+   "verified": true
+  }
+ ]
+}

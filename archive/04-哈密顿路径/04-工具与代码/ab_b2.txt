@@ -1,0 +1,3 @@
+[att0 strat1] construct=PARTIAL size=4437/500000 defects=11617
+[att1 strat2] construct=PARTIAL size=4448/500000 defects=12221
+BA(N=1000000,m=5,s=42,src=genba,arm=base): FAIL size=964684 breaks 0->0 rot=6637 defects=0 con=111.97s rep=0.00s ver=0.002s mech=gpipe+D2(0726descend+fullclosure);incomplete;

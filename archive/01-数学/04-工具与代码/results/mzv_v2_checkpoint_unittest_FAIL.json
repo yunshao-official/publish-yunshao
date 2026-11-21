@@ -1,0 +1,120 @@
+{
+ "pass": false,
+ "items": [
+  {
+   "name": "G表 zeta(2,m+1) m=5000",
+   "pass": true,
+   "detail": "err=0.0"
+  },
+  {
+   "name": "G表 zeta(3,m+1) m=5000",
+   "pass": true,
+   "detail": "err=3.98e-59"
+  },
+  {
+   "name": "G表 zeta(5,m+1) m=5000",
+   "pass": true,
+   "detail": "err=4.21e-65"
+  },
+  {
+   "name": "G表 zeta(7,m+1) m=5000",
+   "pass": true,
+   "detail": "err=5.52e-65"
+  },
+  {
+   "name": "DG表 -d_w zeta(3,m+1) m=5000",
+   "pass": true,
+   "detail": "err=0.0"
+  },
+  {
+   "name": "G表 psi(m+1) m=5000",
+   "pass": false,
+   "detail": "err=0.577"
+  },
+  {
+   "name": "ζ(2)=pi^2/6",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "ζ(3)=zeta(3)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "ζ(2,2)=pi^4/120",
+   "pass": true,
+   "detail": "val=0.81174242528335364364"
+  },
+  {
+   "name": "ζ(2,2,2)=pi^6/7!",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "ζ(3,3)=ζ3²/2-ζ6/2",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "ζ(2,1)=ζ(3)",
+   "pass": true,
+   "detail": "val=1.2020569031595942854"
+  },
+  {
+   "name": "ζ(3,1)=ζ4/4",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "ζ(4,1)=2ζ5-ζ2ζ3",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "ζ(5,1)=Euler闭式",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "v1.0深度2值交叉(4/12)",
+   "pass": false,
+   "detail": "worst=2.76e-10"
+  },
+  {
+   "name": "对偶 ζ(2, 3) = ζ(2, 1, 2)",
+   "pass": false,
+   "detail": "err=9.88e+15"
+  },
+  {
+   "name": "对偶 ζ(3, 3) = ζ(2, 1, 2, 1)",
+   "pass": false,
+   "detail": "err=1.31e+17"
+  },
+  {
+   "name": "对偶 ζ(2, 2, 3) = ζ(2, 1, 2, 2)",
+   "pass": false,
+   "detail": "err=3.9e+16"
+  },
+  {
+   "name": "对偶 ζ(2, 3, 3) = ζ(2, 1, 2, 1, 2)",
+   "pass": false,
+   "detail": "err=3.9e+35"
+  },
+  {
+   "name": "对偶 ζ(3, 2, 2) = ζ(2, 2, 2, 1)",
+   "pass": true,
+   "detail": "err=1.25e-52"
+  },
+  {
+   "name": "自对偶 ζ(2,2,2)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "name": "N/2N自洽残差抽样",
+   "pass": true,
+   "detail": "worst=2.54e-50"
+  }
+ ]
+}

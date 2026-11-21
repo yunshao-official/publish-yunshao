@@ -1,0 +1,25 @@
+[att0 strat1] construct=OK size=5000/5000 defects=11438
+[att0] match-lns lns=miss;rounds=1500;surg=20;best=1188/5000
+[att0] expand-FAIL match=1166/5000
+[att1 strat2] construct=OK size=5000/5000 defects=11178
+[att1] match-lns lns=miss;rounds=1500;surg=22;best=1257/5000
+[att1] expand-FAIL match=1232/5000
+[att2 strat0] construct=OK size=5000/5000 defects=13095
+[att2] match-lns lns=miss;rounds=1500;surg=12;best=721/5000
+[att2] expand-FAIL match=702/5000
+[att3 strat1] construct=OK size=5000/5000 defects=10867
+[att3] match-lns lns=miss;rounds=1500;surg=23;best=1223/5000
+[att3] expand-FAIL match=1187/5000
+[att4 strat2] construct=OK size=5000/5000 defects=11603
+[att4] match-lns lns=miss;rounds=1500;surg=21;best=1116/5000
+[att4] expand-FAIL match=1090/5000
+[att5 strat0] construct=OK size=5000/5000 defects=13174
+[att5] match-lns lns=miss;rounds=1500;surg=14;best=740/5000
+[att5] expand-FAIL match=716/5000
+[att6 strat1] construct=OK size=5000/5000 defects=11222
+[att6] match-lns lns=miss;rounds=1500;surg=37;best=1190/5000
+[att6] expand-FAIL match=1139/5000
+[att7 strat2] construct=OK size=5000/5000 defects=11569
+[att7] match-lns lns=miss;rounds=1500;surg=22;best=1162/5000
+[att7] expand-FAIL match=1128/5000
+BA(N=10000,m=5,s=777,src=genba,arm=base): PASS size=10000 breaks 3->0 rot=173 defects=0 con=9.90s rep=2.36s ver=0.000s mech=gpipe+D2(0726descend+fullclosure);

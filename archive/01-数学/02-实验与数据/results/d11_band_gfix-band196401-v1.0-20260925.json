@@ -1,0 +1,19 @@
+{
+ "meta": {
+  "script": "d11_band_gfix-v1.0-20260925.py",
+  "frozen": "2026-09-25T10:23:07",
+  "part": "band",
+  "cstart": -196401,
+  "cend": -196905,
+  "mode": "emptydomain-proof"
+ },
+ "gear": {},
+ "empty_ok": true,
+ "max": {
+  "R": 0,
+  "at": 0
+ },
+ "log": [
+  "BAND [-196401..-196905] n=505 empty_ok=True max=0@0"
+ ]
+}

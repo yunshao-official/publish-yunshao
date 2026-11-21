@@ -1,0 +1,55 @@
+{
+ "experiment": "W-SAT-1 干涉场3-SAT预注册（盘点#5）",
+ "frozen": {
+  "n": 6,
+  "m": 24,
+  "N_inst": 40,
+  "pass_rule": "hit>=0.8 且 P1/P2中位数>=2.0",
+  "fail_rule": "hit<=CP95(基线)",
+  "seed": 42,
+  "grid": 512
+ },
+ "arms": {
+  "G_r0.5_L16": {
+   "hit_rate_top1": 0.325,
+   "hits": 13,
+   "N": 40,
+   "median_P1_over_P2": 1.0540655212323489,
+   "median_sol_vs_nonsol_power_ratio": 2.771457058186733,
+   "random_baseline_mean_solution_fraction": 0.051953125,
+   "cp95_upper_of_baseline": 0.14915196127321298,
+   "verdict": "INDETERMINATE"
+  },
+  "G_r0.5_L256": {
+   "hit_rate_top1": 1.0,
+   "hits": 40,
+   "N": 40,
+   "median_P1_over_P2": 1.0000000000000004,
+   "median_sol_vs_nonsol_power_ratio": 64.00000000000009,
+   "random_baseline_mean_solution_fraction": 0.051953125,
+   "cp95_upper_of_baseline": 0.14915196127321298,
+   "verdict": "INDETERMINATE"
+  },
+  "R_r0.9_L16": {
+   "hit_rate_top1": 0.05,
+   "hits": 2,
+   "N": 40,
+   "median_P1_over_P2": 1.0416370565779915,
+   "median_sol_vs_nonsol_power_ratio": 1.248046744949391,
+   "random_baseline_mean_solution_fraction": 0.051953125,
+   "cp95_upper_of_baseline": 0.14915196127321298,
+   "verdict": "FAIL"
+  },
+  "R_r0.9_L256": {
+   "hit_rate_top1": 1.0,
+   "hits": 40,
+   "N": 40,
+   "median_P1_over_P2": 1.0000000000000004,
+   "median_sol_vs_nonsol_power_ratio": 1.881676423158921,
+   "random_baseline_mean_solution_fraction": 0.051953125,
+   "cp95_upper_of_baseline": 0.14915196127321298,
+   "verdict": "INDETERMINATE"
+  }
+ },
+ "honest_note": "线性相干光学单通道无反馈；通道数=2^n（n=6→64；n=50→1.1e15）。任何命中都来自掩模内已完成的逐子句乘积评估（硬件穷举），不构成计算复杂度降低；消光比与孔径分辨是物理瓶颈。"
+}

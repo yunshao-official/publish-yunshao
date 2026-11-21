@@ -1,0 +1,239 @@
+{
+ "meta": {
+  "script": "unit_group_track_mod3k-v1.0-20260920.py",
+  "criterion_freeze_ntfs": "2026-09-20 00:31:48",
+  "first_run": "2026-09-20 00:33:42"
+ },
+ "V1": {
+  "detail": {
+   "1": {
+    "n": 2,
+    "expect": 2
+   },
+   "2": {
+    "n": 6,
+    "expect": 6
+   },
+   "3": {
+    "n": 18,
+    "expect": 18
+   },
+   "4": {
+    "n": 54,
+    "expect": 54
+   },
+   "5": {
+    "n": 162,
+    "expect": 162
+   },
+   "6": {
+    "n": 486,
+    "expect": 486
+   }
+  },
+  "pass": true
+ },
+ "V2": {
+  "detail": {
+   "1": {
+    "ord2": 2,
+    "expect": 2
+   },
+   "2": {
+    "ord2": 6,
+    "expect": 6
+   },
+   "3": {
+    "ord2": 18,
+    "expect": 18
+   },
+   "4": {
+    "ord2": 54,
+    "expect": 54
+   },
+   "5": {
+    "ord2": 162,
+    "expect": 162
+   },
+   "6": {
+    "ord2": 486,
+    "expect": 486
+   }
+  },
+  "pass": true
+ },
+ "V3": {
+  "detail": {
+   "1": {
+    "cyclic_generated_by_2": true,
+    "all_x_pow_e_equals_1": true
+   },
+   "2": {
+    "cyclic_generated_by_2": true,
+    "all_x_pow_e_equals_1": true
+   },
+   "3": {
+    "cyclic_generated_by_2": true,
+    "all_x_pow_e_equals_1": true
+   },
+   "4": {
+    "cyclic_generated_by_2": true,
+    "all_x_pow_e_equals_1": true
+   },
+   "5": {
+    "cyclic_generated_by_2": true,
+    "all_x_pow_e_equals_1": true
+   },
+   "6": {
+    "cyclic_generated_by_2": true,
+    "all_x_pow_e_equals_1": true
+   }
+  },
+  "pass": true
+ },
+ "V4": {
+  "detail": {
+   "1": {
+    "add_order": 3,
+    "unit_order": 2,
+    "add_has_order_m": true,
+    "unit_exponent": 2,
+    "orders_differ": true
+   },
+   "2": {
+    "add_order": 9,
+    "unit_order": 6,
+    "add_has_order_m": true,
+    "unit_exponent": 6,
+    "orders_differ": true
+   },
+   "3": {
+    "add_order": 27,
+    "unit_order": 18,
+    "add_has_order_m": true,
+    "unit_exponent": 18,
+    "orders_differ": true
+   },
+   "4": {
+    "add_order": 81,
+    "unit_order": 54,
+    "add_has_order_m": true,
+    "unit_exponent": 54,
+    "orders_differ": true
+   },
+   "5": {
+    "add_order": 243,
+    "unit_order": 162,
+    "add_has_order_m": true,
+    "unit_exponent": 162,
+    "orders_differ": true
+   },
+   "6": {
+    "add_order": 729,
+    "unit_order": 486,
+    "add_has_order_m": true,
+    "unit_exponent": 486,
+    "orders_differ": true
+   }
+  },
+  "pass": true
+ },
+ "V5": {
+  "bijective": true,
+  "homomorphic_8x8": true,
+  "U8_structure": "C2xC2 (W2)",
+  "U3_structure": "C2 (V1/V3 k=1)",
+  "conclusion": "(Z/24)^× ≅ C2×C2×C2",
+  "pass": true
+ },
+ "V6": {
+  "detail": {
+   "a2b1": {
+    "m": 12,
+    "|U(m)|": 4,
+    "|U(2^a)|*|U(3^b)|": 4,
+    "bijective": true,
+    "homomorphic": true
+   },
+   "a2b2": {
+    "m": 36,
+    "|U(m)|": 12,
+    "|U(2^a)|*|U(3^b)|": 12,
+    "bijective": true,
+    "homomorphic": true
+   },
+   "a2b3": {
+    "m": 108,
+    "|U(m)|": 36,
+    "|U(2^a)|*|U(3^b)|": 36,
+    "bijective": true,
+    "homomorphic": true
+   },
+   "a3b1": {
+    "m": 24,
+    "|U(m)|": 8,
+    "|U(2^a)|*|U(3^b)|": 8,
+    "bijective": true,
+    "homomorphic": true
+   },
+   "a3b2": {
+    "m": 72,
+    "|U(m)|": 24,
+    "|U(2^a)|*|U(3^b)|": 24,
+    "bijective": true,
+    "homomorphic": true
+   },
+   "a3b3": {
+    "m": 216,
+    "|U(m)|": 72,
+    "|U(2^a)|*|U(3^b)|": 72,
+    "bijective": true,
+    "homomorphic": true
+   },
+   "a4b1": {
+    "m": 48,
+    "|U(m)|": 16,
+    "|U(2^a)|*|U(3^b)|": 16,
+    "bijective": true,
+    "homomorphic": true
+   },
+   "a4b2": {
+    "m": 144,
+    "|U(m)|": 48,
+    "|U(2^a)|*|U(3^b)|": 48,
+    "bijective": true,
+    "homomorphic": true
+   },
+   "a4b3": {
+    "m": 432,
+    "|U(m)|": 144,
+    "|U(2^a)|*|U(3^b)|": 144,
+    "bijective": true,
+    "homomorphic": true
+   },
+   "a5b1": {
+    "m": 96,
+    "|U(m)|": 32,
+    "|U(2^a)|*|U(3^b)|": 32,
+    "bijective": true,
+    "homomorphic": true
+   },
+   "a5b2": {
+    "m": 288,
+    "|U(m)|": 96,
+    "|U(2^a)|*|U(3^b)|": 96,
+    "bijective": true,
+    "homomorphic": true
+   },
+   "a5b3": {
+    "m": 864,
+    "|U(m)|": 288,
+    "|U(2^a)|*|U(3^b)|": 288,
+    "bijective": true,
+    "homomorphic": true
+   }
+  },
+  "pass": true
+ },
+ "verdict": "V1-V6 全过【复算一致】"
+}

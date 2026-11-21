@@ -1,0 +1,1380 @@
+{
+  "卷": "B",
+  "条数": 104,
+  "模块": {
+    "M07": {
+      "送审": 54,
+      "留": 46,
+      "删": 7,
+      "待核": 1,
+      "剔除率": "14.8%",
+      "检索式判定": "不合格(>10%)",
+      "关联疑问命中": [
+        "Q12",
+        "Q14",
+        "Q15",
+        "Q27",
+        "Q30"
+      ]
+    },
+    "M10": {
+      "送审": 50,
+      "留": 41,
+      "删": 9,
+      "待核": 0,
+      "剔除率": "18.0%",
+      "检索式判定": "不合格(>10%)",
+      "关联疑问命中": [
+        "Q09",
+        "Q12",
+        "Q14",
+        "Q15",
+        "Q16",
+        "Q17",
+        "Q19",
+        "Q21",
+        "Q22"
+      ]
+    }
+  },
+  "门W漏网": [
+    "B022",
+    "B027",
+    "B037",
+    "B044",
+    "B046",
+    "B049",
+    "B062",
+    "B064",
+    "B073",
+    "B077",
+    "B080",
+    "B085",
+    "B094",
+    "B095",
+    "B102"
+  ],
+  "门N漏网": [
+    "B031"
+  ],
+  "文献": [
+    {
+      "编号": "B001",
+      "模块号": "M07",
+      "PMID": "17405972",
+      "标题": "Postmenopausal hormone therapy and risk of cardiovascular di",
+      "结论": "留",
+      "理由": "WHI按年龄与绝经年限分层分析HT对CVD的差异化效应",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B002",
+      "模块号": "M07",
+      "PMID": "12788835",
+      "标题": "The emergence of the metabolic syndrome with menopause.",
+      "结论": "留",
+      "理由": "绝经后MetS患病率上升，详述向心肥胖/血脂/胰岛素变化",
+      "标签": [],
+      "关联疑问": [
+        "Q15",
+        "Q30"
+      ]
+    },
+    {
+      "编号": "B003",
+      "模块号": "M07",
+      "PMID": "970770",
+      "标题": "Menopause and risk of cardiovascular disease: the Framingham",
+      "结论": "留",
+      "理由": "Framingham队列：同年龄段绝经后CVD事件70 vs 绝经前20",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B004",
+      "模块号": "M07",
+      "PMID": "33251828",
+      "标题": "Menopause Transition and Cardiovascular Disease Risk: Implic",
+      "结论": "留",
+      "理由": "AHA声明：区分时间衰老与卵巢衰老对CVD独立效应",
+      "标签": [],
+      "关联疑问": [
+        "Q12",
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B005",
+      "模块号": "M07",
+      "PMID": "3574358",
+      "标题": "Menopause and the risk of coronary heart disease in women.",
+      "结论": "留",
+      "理由": "NHS 12万队列：自然绝经本身未显著增加CHD风险(RR 1.2)",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B006",
+      "模块号": "M07",
+      "PMID": "2488072",
+      "标题": "Menopause and risk factors for coronary heart disease.",
+      "结论": "留",
+      "理由": "前瞻性：绝经后HDL降0.09mmol/L、LDL与纤维蛋白原升高",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B007",
+      "模块号": "M07",
+      "PMID": "16645540",
+      "标题": "Postmenopausal status and early menopause as independent ris",
+      "结论": "留",
+      "理由": "Meta分析：绝经后状态与早绝经均增加CVD合并RR",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B008",
+      "模块号": "M07",
+      "PMID": "677576",
+      "标题": "Menopause and coronary heart disease. The Framingham Study.",
+      "结论": "留",
+      "理由": "Framingham：绝经后CHD严重形态(心梗/猝死)占40%以上",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B009",
+      "模块号": "M07",
+      "PMID": "8784109",
+      "标题": "Effects of gender, body composition, and menopause on plasma",
+      "结论": "留",
+      "理由": "瘦素与体脂正相关；绝经后女性瘦素水平高于绝经前女性",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B010",
+      "模块号": "M07",
+      "PMID": "18663170",
+      "标题": "Menopause and the metabolic syndrome: the Study of Women's H",
+      "结论": "留",
+      "理由": "SWAN 9年纵向：MetS发生率随绝经进展推进而升高",
+      "标签": [],
+      "关联疑问": [
+        "Q15",
+        "Q30"
+      ]
+    },
+    {
+      "编号": "B011",
+      "模块号": "M07",
+      "PMID": "24734243",
+      "标题": "Estrogen Deficiency and the Origin of Obesity during Menopau",
+      "结论": "留",
+      "理由": "系统综述：雌激素缺失致腹部脂肪堆积与脂代谢紊乱",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B012",
+      "模块号": "M07",
+      "PMID": "31738818",
+      "标题": "Association of Premature Natural and Surgical Menopause With",
+      "结论": "留",
+      "理由": "UK Biobank 14万：40岁前早绝经(自然/手术)增加CVD",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B013",
+      "模块号": "M07",
+      "PMID": "29852978",
+      "标题": "Endogenous Sex Hormones and Incident Cardiovascular Disease ",
+      "结论": "留",
+      "理由": "MESA 2834例：绝经后内源性雄激素/雌激素与CVD事件关联",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B014",
+      "模块号": "M07",
+      "PMID": "30843880",
+      "标题": "Changes in body composition and weight during the menopause ",
+      "结论": "留",
+      "理由": "SWAN DEXA：MT起始脂肪增速翻倍、瘦体质量下降",
+      "标签": [],
+      "关联疑问": [
+        "Q12",
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B015",
+      "模块号": "M07",
+      "PMID": "21494229",
+      "标题": "Effect of diet and exercise, alone or combined, on weight an",
+      "结论": "留",
+      "理由": "RCT 439例：绝经后肥胖女性饮食/运动/联合减重效果比较",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B016",
+      "模块号": "M07",
+      "PMID": "17364594",
+      "标题": "Menopause and cardiovascular disease: the evidence.",
+      "结论": "留",
+      "理由": "综述：绝经后CVD多因素(脂分布/血糖/血脂/BP/内皮)",
+      "标签": [],
+      "关联疑问": [
+        "Q14",
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B017",
+      "模块号": "M07",
+      "PMID": "7574222",
+      "标题": "Changes in energy balance and body composition at menopause:",
+      "结论": "待核",
+      "理由": "撤稿文献(Retracted Publication)，数据可靠性待确认",
+      "标签": [],
+      "关联疑问": [
+        "Q12",
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B018",
+      "模块号": "M07",
+      "PMID": "10702775",
+      "标题": "Effect of menopausal status on body composition and abdomina",
+      "结论": "留",
+      "理由": "横断面：绝经后总脂量高28%、内脏脂肪占比显著升高",
+      "标签": [],
+      "关联疑问": [
+        "Q12",
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B019",
+      "模块号": "M07",
+      "PMID": "16417416",
+      "标题": "Hormone therapy and coronary heart disease: the role of time",
+      "结论": "留",
+      "理由": "NHS：绝经近期启动HT显著降低CHD，远期则无益",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B020",
+      "模块号": "M07",
+      "PMID": "25754617",
+      "标题": "Hormone therapy for preventing cardiovascular disease in pos",
+      "结论": "留",
+      "理由": "Cochrane系统综述：HT预防CVD的RCT证据汇总",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B021",
+      "模块号": "M07",
+      "PMID": "20216473",
+      "标题": "Obesity and reproductive hormone levels in the transition to",
+      "结论": "留",
+      "理由": "Penn队列：肥胖与生殖激素关联随绝经阶段不同而异",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B022",
+      "模块号": "M07",
+      "PMID": "2228308",
+      "标题": "Age at menarche, age at menopause, height and obesity as ris",
+      "结论": "删",
+      "理由": "主题为乳腺癌风险因素(身高/体重/绝经年龄)，非M07心血管代谢",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B023",
+      "模块号": "M07",
+      "PMID": "10770146",
+      "标题": "Estrogen and progestin, lipoprotein(a), and the risk of recu",
+      "结论": "留",
+      "理由": "HERS RCT：雌孕激素降低Lp(a)并减少CHD复发事件",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B024",
+      "模块号": "M07",
+      "PMID": "22692332",
+      "标题": "Early menopause predicts future coronary heart disease and s",
+      "结论": "留",
+      "理由": "MESA：早绝经预测更差CHD与卒中生存曲线",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B025",
+      "模块号": "M07",
+      "PMID": "7885283",
+      "标题": "Age- and menopause-associated variations in body composition",
+      "结论": "留",
+      "理由": "DEXA 407例：绝经后脂肪比例升高、向心分布加重",
+      "标签": [],
+      "关联疑问": [
+        "Q12",
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B026",
+      "模块号": "M07",
+      "PMID": "18407440",
+      "标题": "Metabolic syndrome after menopause and the role of hormones.",
+      "结论": "留",
+      "理由": "综述：绝经后MetS约40%患病率，激素治疗改善胰岛素抵抗",
+      "标签": [],
+      "关联疑问": [
+        "Q15",
+        "Q30"
+      ]
+    },
+    {
+      "编号": "B027",
+      "模块号": "M07",
+      "PMID": "14671163",
+      "标题": "Ghrelin levels correlate with insulin levels, insulin resist",
+      "结论": "删",
+      "理由": "Ghrelin与胰岛素相关但与绝经状态无关(标题明确否定)",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B028",
+      "模块号": "M07",
+      "PMID": "22395454",
+      "标题": "The effect of the menopausal transition on body composition ",
+      "结论": "留",
+      "理由": "纵向5年：MT过程中体成分与心脏代谢风险因子同步恶化",
+      "标签": [],
+      "关联疑问": [
+        "Q12",
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B029",
+      "模块号": "M07",
+      "PMID": "34932890",
+      "标题": "Body composition and cardiometabolic health across the menop",
+      "结论": "留",
+      "理由": "综述：MT期间体重/脂分布/血脂/血糖/血管功能变化",
+      "标签": [],
+      "关联疑问": [
+        "Q12",
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B030",
+      "模块号": "M07",
+      "PMID": "18156138",
+      "标题": "Peri-coronary epicardial adipose tissue is related to cardio",
+      "结论": "留",
+      "理由": "573例绝经后女性：心外膜脂肪厚度与冠脉钙化正相关",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B031",
+      "模块号": "M07",
+      "PMID": "27252160",
+      "标题": "The VCD Mouse Model of Menopause and Perimenopause for the S",
+      "结论": "删",
+      "理由": "VCD小鼠模型综述，纯动物机制无人体对照数据",
+      "标签": [
+        "门N漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B032",
+      "模块号": "M07",
+      "PMID": "26471080",
+      "标题": "Metabolic Syndrome and Menopause: Pathophysiology, Clinical ",
+      "结论": "留",
+      "理由": "综述：MetS病理生理(胰岛素抵抗/腹型肥胖/脂紊乱/高血压)",
+      "标签": [],
+      "关联疑问": [
+        "Q15",
+        "Q30"
+      ]
+    },
+    {
+      "编号": "B033",
+      "模块号": "M07",
+      "PMID": "8987946",
+      "标题": "Relative influence of age and menopause on total and regiona",
+      "结论": "留",
+      "理由": "205例：绝经后android脂肪比例升高，与绝经关系大于年龄",
+      "标签": [],
+      "关联疑问": [
+        "Q12",
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B034",
+      "模块号": "M07",
+      "PMID": "11595778",
+      "标题": "Obesity and sarcopenia after menopause are reversed by sex h",
+      "结论": "留",
+      "理由": "RCT 16例：HRT逆转绝经后肥胖与肌少症(DXA区域分析)",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B035",
+      "模块号": "M07",
+      "PMID": "29097389",
+      "标题": "Duration of Reproductive Life Span, Age at Menarche, and Age",
+      "结论": "留",
+      "理由": "NHS 7.4万：生殖寿命短/早绝经/晚初潮均增CVD风险",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B036",
+      "模块号": "M07",
+      "PMID": "35594469",
+      "标题": "Menopausal Hormone Replacement Therapy and Reduction of All-",
+      "结论": "留",
+      "理由": "综述：HT在<60岁/绝经近期启动可降低全因死亡与CVD",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B037",
+      "模块号": "M07",
+      "PMID": "20181446",
+      "标题": "Interaction between menopausal status and obesity in affecti",
+      "结论": "删",
+      "理由": "主题为肥胖×绝经状态对乳腺癌的交互作用，非M07范畴",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B038",
+      "模块号": "M07",
+      "PMID": "32951609",
+      "标题": "Gut microbiota steroid sexual dimorphism and its impact on g",
+      "结论": "留",
+      "理由": "肠道菌群功能与绝经状态/性类固醇激素水平相关联",
+      "标签": [],
+      "关联疑问": [
+        "Q15",
+        "Q27"
+      ]
+    },
+    {
+      "编号": "B039",
+      "模块号": "M07",
+      "PMID": "16303830",
+      "标题": "Menopause modifies the association of leukocyte telomere len",
+      "结论": "留",
+      "理由": "双生子研究：绝经修饰端粒长度与胰岛素抵抗/CRP的关联",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B040",
+      "模块号": "M07",
+      "PMID": "25380275",
+      "标题": "Methods and baseline cardiovascular data from the Early vers",
+      "结论": "留",
+      "理由": "ELITE试验设计：唯一直接检验HT时机假说的RCT",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B041",
+      "模块号": "M07",
+      "PMID": "28721132",
+      "标题": "Obesity in menopause - our negligence or an unfortunate inev",
+      "结论": "留",
+      "理由": "综述：绝经后肥胖的激素机制(雌激素下降/雄激素相对升高)",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B042",
+      "模块号": "M07",
+      "PMID": "27417630",
+      "标题": "Association of Mid-Life Changes in Body Size, Body Compositi",
+      "结论": "留",
+      "理由": "综述：MT体成分变化主因卵巢衰老而非时间衰老",
+      "标签": [],
+      "关联疑问": [
+        "Q12",
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B043",
+      "模块号": "M07",
+      "PMID": "37244787",
+      "标题": "Obesity and menopause.",
+      "结论": "留",
+      "理由": "综述：绝经后肥胖流行、向心脂肪增加与心脏代谢风险",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B044",
+      "模块号": "M07",
+      "PMID": "34485137",
+      "标题": "Obesity and Breast Cancer: A Paradoxical and Controversial R",
+      "结论": "删",
+      "理由": "主题为肥胖与乳腺癌关系(按绝经状态分层)，非M07范畴",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B045",
+      "模块号": "M07",
+      "PMID": "25579233",
+      "标题": "Obesity and menopause.",
+      "结论": "留",
+      "理由": "综述：肥胖对绝经症状/生殖激素影响及绝经对肥胖影响",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B046",
+      "模块号": "M07",
+      "PMID": "22996743",
+      "标题": "Impact + resistance training improves bone health and body c",
+      "结论": "删",
+      "理由": "主题为乳腺癌幸存者运动干预骨密度，非M07心血管代谢",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B047",
+      "模块号": "M07",
+      "PMID": "16015138",
+      "标题": "Menopause, physical activity, and body composition/fat distr",
+      "结论": "留",
+      "理由": "SWAN子研究：体力活动水平与绝经后体成分/脂分布关联",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B048",
+      "模块号": "M07",
+      "PMID": "23435033",
+      "标题": "Timing hypothesis for postmenopausal hormone therapy:  its o",
+      "结论": "留",
+      "理由": "综述：时机假说的临床前/临床证据与RCT亚组分析",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B049",
+      "模块号": "M07",
+      "PMID": "20197698",
+      "标题": "Oophorectomy, menopause, estrogen, and cognitive aging: the ",
+      "结论": "删",
+      "理由": "主题为雌激素与认知老化/痴呆(时机假说)，非M07范畴",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B050",
+      "模块号": "M07",
+      "PMID": "22612607",
+      "标题": "The timing hypothesis for coronary heart disease prevention ",
+      "结论": "留",
+      "理由": "综述：时机假说——绝经10年内启动HT最大化降CHD与死亡",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B051",
+      "模块号": "M07",
+      "PMID": "30705938",
+      "标题": "A systematic review and meta-regression analysis to examine ",
+      "结论": "留",
+      "理由": "Meta回归31项RCT：<60岁启动HT降低全因死亡与CHD",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B052",
+      "模块号": "M07",
+      "PMID": "30484736",
+      "标题": "The Timing Hypothesis: Hormone Therapy for Treating Symptoma",
+      "结论": "留",
+      "理由": "综述：时机假说解释WHI与观察研究差异(猴实验基础)",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B053",
+      "模块号": "M07",
+      "PMID": "27085786",
+      "标题": "The timing hypothesis: Do coronary risks of menopausal hormo",
+      "结论": "留",
+      "理由": "综述：WHI数据按年龄/绝经年限分层后HT冠脉风险差异",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B054",
+      "模块号": "M07",
+      "PMID": "31077368",
+      "标题": "The exercise timing hypothesis: can exercise training compen",
+      "结论": "留",
+      "理由": "综述：运动时机假说——运动或可替代HT保护血管功能",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B055",
+      "模块号": "M10",
+      "PMID": "12117397",
+      "标题": "Risks and benefits of estrogen plus progestin in healthy pos",
+      "结论": "留",
+      "理由": "WHI主报告：CEE+MPA增CHD/乳腺癌/卒中/VTE综合风险",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q14",
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B056",
+      "模块号": "M10",
+      "PMID": "9718051",
+      "标题": "Randomized trial of estrogen plus progestin for secondary pr",
+      "结论": "留",
+      "理由": "HERS RCT：雌孕激素未降低已有CHD绝经后女性冠脉事件",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B057",
+      "模块号": "M10",
+      "PMID": "15082697",
+      "标题": "Effects of conjugated equine estrogen in postmenopausal wome",
+      "结论": "留",
+      "理由": "WHI雌激素单药试验：CEE对子宫切除女性CHD/乳腺癌效应",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q14",
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B058",
+      "模块号": "M10",
+      "PMID": "12927427",
+      "标题": "Breast cancer and hormone-replacement therapy in the Million",
+      "结论": "留",
+      "理由": "百万女性研究：当前使用HRT增乳腺癌风险RR 1.66",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B059",
+      "模块号": "M10",
+      "PMID": "12771112",
+      "标题": "Estrogen plus progestin and the incidence of dementia and mi",
+      "结论": "留",
+      "理由": "WHIMS RCT：雌孕激素增加痴呆风险(应归M11不良结局)",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q16"
+      ]
+    },
+    {
+      "编号": "B060",
+      "模块号": "M10",
+      "PMID": "12824205",
+      "标题": "Influence of estrogen plus progestin on breast cancer and ma",
+      "结论": "留",
+      "理由": "WHI：E+P组乳腺癌检出率升高且乳腺X线密度增加",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B061",
+      "模块号": "M10",
+      "PMID": "24084921",
+      "标题": "Menopausal hormone therapy and health outcomes during the in",
+      "结论": "留",
+      "理由": "WHI综合随访13年：E+P/CEE单药全因与病因别死亡率",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q14",
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B062",
+      "模块号": "M10",
+      "PMID": "20005174",
+      "标题": "Prognostic and predictive value of the 21-gene recurrence sc",
+      "结论": "删",
+      "理由": "21基因复发评分预测乳腺癌化疗获益，主题为肿瘤标志物",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B063",
+      "模块号": "M10",
+      "PMID": "12771114",
+      "标题": "Effect of estrogen plus progestin on stroke in postmenopausa",
+      "结论": "留",
+      "理由": "WHI：E+P增加卒中风险，含炎症/血栓标志物亚组分析",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B064",
+      "模块号": "M10",
+      "PMID": "12558355",
+      "标题": "Individual and combined effects of age, breast density, and ",
+      "结论": "删",
+      "理由": "主题为乳腺密度/年龄/HRT对乳腺X线筛查准确度的影响",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B065",
+      "模块号": "M10",
+      "PMID": "12413371",
+      "标题": "Hormone replacement therapy and incidence of Alzheimer disea",
+      "结论": "留",
+      "理由": "Cache County：HRT使用者AD风险降低(观察性，需RCT验证)",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q16"
+      ]
+    },
+    {
+      "编号": "B066",
+      "模块号": "M10",
+      "PMID": "12771113",
+      "标题": "Effect of estrogen plus progestin on global cognitive functi",
+      "结论": "留",
+      "理由": "WHIMS RCT：E+P未保护整体认知功能反而有害下降更快",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q17"
+      ]
+    },
+    {
+      "编号": "B067",
+      "模块号": "M10",
+      "PMID": "12186605",
+      "标题": "Postmenopausal hormone replacement therapy: scientific revie",
+      "结论": "留",
+      "理由": "JAMA综述：HRT预防CVD/骨质疏松/癌/痴呆的获益-风险",
+      "标签": [],
+      "关联疑问": [
+        "Q14",
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B068",
+      "模块号": "M10",
+      "PMID": "7824251",
+      "标题": "Hormone replacement therapy and endometrial cancer risk: a m",
+      "结论": "留",
+      "理由": "Meta分析：无拮抗雌激素增内膜癌RR 2.3，用≥10年RR 9.5",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B069",
+      "模块号": "M10",
+      "PMID": "8384316",
+      "标题": "Association of hormone-replacement therapy with various card",
+      "结论": "留",
+      "理由": "ARIC 4958例：HRT使用者HDL-C高、纤维蛋白原低",
+      "标签": [],
+      "关联疑问": [
+        "Q14",
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B070",
+      "模块号": "M10",
+      "PMID": "10675382",
+      "标题": "Effect of hormone replacement therapy on breast cancer risk:",
+      "结论": "留",
+      "理由": "E单药 vs E+P对乳腺癌风险差异：联合方案风险更高",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B071",
+      "模块号": "M10",
+      "PMID": "31474332",
+      "标题": "Type and timing of menopausal hormone therapy and breast can",
+      "结论": "留",
+      "理由": "全球荟萃分析：MHT类型/时机与乳腺癌剂量-反应关系",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q14",
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B072",
+      "模块号": "M10",
+      "PMID": "12190368",
+      "标题": "Inflammatory biomarkers, hormone replacement therapy, and in",
+      "结论": "留",
+      "理由": "WHI观察：CRP/IL-6升高介导HRT对CHD风险",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B073",
+      "模块号": "M10",
+      "PMID": "15968009",
+      "标题": "The effect of combined estrogen and progesterone hormone rep",
+      "结论": "删",
+      "理由": "HRT治疗系统性红斑狼疮(SLE)的RCT，主题为自身免疫病",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B074",
+      "模块号": "M10",
+      "PMID": "10213546",
+      "标题": "Breast cancer and hormone replacement therapy: collaborative",
+      "结论": "留",
+      "理由": "51研究荟萃：HRT使用与乳腺癌RR，停用后风险逐渐下降",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B075",
+      "模块号": "M10",
+      "PMID": "16918589",
+      "标题": "Meta-analysis: effect of hormone-replacement therapy on comp",
+      "结论": "留",
+      "理由": "107项RCT荟萃：HRT减腹脂/胰岛素抵抗/新发糖尿病",
+      "标签": [],
+      "关联疑问": [
+        "Q14",
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B076",
+      "模块号": "M10",
+      "PMID": "23048011",
+      "标题": "Effect of hormone replacement therapy on cardiovascular even",
+      "结论": "留",
+      "理由": "丹麦RCT 1006例：绝经近期HRT显著降低心血管事件",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B077",
+      "模块号": "M10",
+      "PMID": "20855825",
+      "标题": "Results of the CONFIRM phase III trial comparing fulvestrant",
+      "结论": "删",
+      "理由": "CONFIRM试验：氟维司群500mg vs 250mg治乳腺癌剂量比较",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B078",
+      "模块号": "M10",
+      "PMID": "15866308",
+      "标题": "Endometrial cancer and hormone-replacement therapy in the Mi",
+      "结论": "留",
+      "理由": "百万女性研究：雌激素单药增内膜癌，联合/替勃龙风险低",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B079",
+      "模块号": "M10",
+      "PMID": "15252707",
+      "标题": "Effect of oestrogen plus progestin on the incidence of diabe",
+      "结论": "留",
+      "理由": "WHI RCT：E+P降低新发糖尿病37%(空腹血糖/胰岛素改善)",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B080",
+      "模块号": "M10",
+      "PMID": "11821457",
+      "标题": "Influence of letrozole and anastrozole on total body aromati",
+      "结论": "删",
+      "理由": "来曲唑/阿那曲唑对乳腺癌患者全身芳香化与雌激素水平",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B081",
+      "模块号": "M10",
+      "PMID": "11255426",
+      "标题": "Hormone replacement therapy and cognition: systematic review",
+      "结论": "留",
+      "理由": "29项研究荟萃：HRT对认知功能影响RCT与队列证据不一",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q16",
+        "Q17"
+      ]
+    },
+    {
+      "编号": "B082",
+      "模块号": "M10",
+      "PMID": "7807658",
+      "标题": "Effects of estrogen or estrogen/progestin regimens on heart ",
+      "结论": "留",
+      "理由": "PEPI RCT：5种E/P方案对血脂/HDL/纤维蛋白原的pairwise",
+      "标签": [],
+      "关联疑问": [
+        "Q14",
+        "Q21"
+      ]
+    },
+    {
+      "编号": "B083",
+      "模块号": "M10",
+      "PMID": "12513038",
+      "标题": "Glycemic effects of postmenopausal hormone therapy: the Hear",
+      "结论": "留",
+      "理由": "HERS RCT：HRT降低空腹血糖与新发糖尿病(3年随访)",
+      "标签": [],
+      "关联疑问": [
+        "Q14",
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B084",
+      "模块号": "M10",
+      "PMID": "28898378",
+      "标题": "Menopausal Hormone Therapy and Long-term All-Cause and Cause",
+      "结论": "留",
+      "理由": "WHI随访：CEE+MPA增全因死亡(HR 1.17)，CEE单药无显著",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q14",
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B085",
+      "模块号": "M10",
+      "PMID": "21555689",
+      "标题": "Randomized phase II neoadjuvant comparison between letrozole",
+      "结论": "删",
+      "理由": "ACOSOG Z1031：来曲唑/阿那曲唑/依西美坦新辅助治乳腺癌",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B086",
+      "模块号": "M10",
+      "PMID": "8855852",
+      "标题": "Risk of venous thromboembolism in users of hormone replaceme",
+      "结论": "留",
+      "理由": "病例对照：HRT使用者VTE风险升高(口服雌激素为主)",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q22"
+      ]
+    },
+    {
+      "编号": "B087",
+      "模块号": "M10",
+      "PMID": "18495631",
+      "标题": "Hormone replacement therapy and risk of venous thromboemboli",
+      "结论": "留",
+      "理由": "荟萃：口服雌激素增VTE，经皮雌激素无显著增加",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q22"
+      ]
+    },
+    {
+      "编号": "B088",
+      "模块号": "M10",
+      "PMID": "12435256",
+      "标题": "Effects of hormone replacement therapy and antioxidant vitam",
+      "结论": "留",
+      "理由": "WAVE RCT：HRT±抗氧化剂对冠脉粥样硬化进展无益",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B089",
+      "模块号": "M10",
+      "PMID": "27912889",
+      "标题": "Hormone replacement therapy in young women with primary ovar",
+      "结论": "留",
+      "理由": "综述：POI/早绝经HRT方案(需替代至自然绝经年龄水平)",
+      "标签": [],
+      "关联疑问": [
+        "Q09",
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B090",
+      "模块号": "M10",
+      "PMID": "12117398",
+      "标题": "Menopausal hormone replacement therapy and risk of ovarian c",
+      "结论": "留",
+      "理由": "WHI队列：雌激素单药增卵巢癌RR 1.6(E+P无显著)",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B091",
+      "模块号": "M10",
+      "PMID": "9611612",
+      "标题": "Hormone replacement therapy, heart disease, and other consid",
+      "结论": "留",
+      "理由": "Meta分析：观察性E+P方案均降CHD但偏倚可能夸大获益",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    },
+    {
+      "编号": "B092",
+      "模块号": "M10",
+      "PMID": "8382141",
+      "标题": "Muscle weakness in women occurs at an earlier age than in me",
+      "结论": "留",
+      "理由": "绝经期女性握力急剧下降，HRT可预防(横断面+干预)",
+      "标签": [],
+      "关联疑问": [
+        "Q15"
+      ]
+    },
+    {
+      "编号": "B093",
+      "模块号": "M10",
+      "PMID": "27716751",
+      "标题": "Hormone-replacement therapy: current thinking.",
+      "结论": "留",
+      "理由": "Nat Rev综述：HRT时机假说再分析——近期启动降CHD/死亡",
+      "标签": [],
+      "关联疑问": [
+        "Q14",
+        "Q21"
+      ]
+    },
+    {
+      "编号": "B094",
+      "模块号": "M10",
+      "PMID": "17679725",
+      "标题": "Prognostic and predictive value of centrally reviewed expres",
+      "结论": "删",
+      "理由": "BIG 1-98：来曲唑vs他莫昔芬辅助治乳腺癌ER/PgR表达",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B095",
+      "模块号": "M10",
+      "PMID": "23650416",
+      "标题": "Randomized phase II, double-blind, placebo-controlled study ",
+      "结论": "删",
+      "理由": "依西美坦±恩替诺司他治ER+转移性乳腺癌II期RCT",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B096",
+      "模块号": "M10",
+      "PMID": "8569016",
+      "标题": "Effects of hormone replacement therapy on endometrial histol",
+      "结论": "留",
+      "理由": "PEPI RCT：4种E/P方案3年内膜组织学(增生/出血)比较",
+      "标签": [],
+      "关联疑问": [
+        "Q21"
+      ]
+    },
+    {
+      "编号": "B097",
+      "模块号": "M10",
+      "PMID": "22401913",
+      "标题": "Conjugated equine oestrogen and breast cancer incidence and ",
+      "结论": "留",
+      "理由": "WHI延长随访：CEE单药组乳腺癌incidence与mortality",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B098",
+      "模块号": "M10",
+      "PMID": "912324",
+      "标题": "Prospective trial of oestrogen and calcium in postmenopausal",
+      "结论": "留",
+      "理由": "RCT 72例：雌激素抑制骨吸收/钙组居中/对照继续丢失",
+      "标签": [],
+      "关联疑问": [
+        "Q12"
+      ]
+    },
+    {
+      "编号": "B099",
+      "模块号": "M10",
+      "PMID": "6374537",
+      "标题": "The minimum effective dose of estrogen for prevention of pos",
+      "结论": "留",
+      "理由": "RCT：CEE≥0.625mg/d等效防骨丢失，<0.625mg基本无效",
+      "标签": [],
+      "关联疑问": [
+        "Q21"
+      ]
+    },
+    {
+      "编号": "B100",
+      "模块号": "M10",
+      "PMID": "9409295",
+      "标题": "Effects of oral and transdermal estrogen/progesterone regime",
+      "结论": "留",
+      "理由": "RCT 45例：口服E/P增凝血标志物，经皮途径影响较小",
+      "标签": [],
+      "关联疑问": [
+        "Q22"
+      ]
+    },
+    {
+      "编号": "B101",
+      "模块号": "M10",
+      "PMID": "19767090",
+      "标题": "Oestrogen plus progestin and lung cancer in postmenopausal w",
+      "结论": "留",
+      "理由": "WHI事后分析：E+P组肺癌死亡率升高(应归M11风险)",
+      "标签": [
+        "应归M11"
+      ],
+      "关联疑问": [
+        "Q19"
+      ]
+    },
+    {
+      "编号": "B102",
+      "模块号": "M10",
+      "PMID": "17538978",
+      "标题": "Phase 2 randomized trial of primary endocrine therapy versus",
+      "结论": "删",
+      "理由": "Phase II：新辅助内分泌 vs 化疗治ER+乳腺癌(绝经后)",
+      "标签": [
+        "门W漏网"
+      ],
+      "关联疑问": []
+    },
+    {
+      "编号": "B103",
+      "模块号": "M10",
+      "PMID": "9840563",
+      "标题": "Symptom relief and side effects of postmenopausal hormones: ",
+      "结论": "留",
+      "理由": "PEPI RCT：4种E/P方案均显著缓解潮热(1年/3年随访)",
+      "标签": [],
+      "关联疑问": [
+        "Q21"
+      ]
+    },
+    {
+      "编号": "B104",
+      "模块号": "M10",
+      "PMID": "12504395",
+      "标题": "Oestrogen therapy for prevention of reinfarction in postmeno",
+      "结论": "留",
+      "理由": "HERS II RCT：雌二醇戊酸酯2mg未降低绝经后再梗死风险",
+      "标签": [],
+      "关联疑问": [
+        "Q14"
+      ]
+    }
+  ]
+}

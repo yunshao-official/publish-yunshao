@@ -1,0 +1,403 @@
+{
+ "frozen_criteria": "格五·韧度证词与预算分配判据书-v1.0-20260927.md",
+ "results": {
+  "T": [
+   {
+    "N": 100,
+    "seed": 42,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 43,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 44,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 45,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 46,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 47,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 48,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 49,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 50,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 51,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 52,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 53,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 54,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 55,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 56,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 57,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 58,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 59,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 60,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 61,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 62,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 63,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 64,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 65,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 66,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 67,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 68,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 69,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 70,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 100,
+    "seed": 71,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 42,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 43,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 44,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 45,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 46,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 47,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 48,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 49,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 50,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 51,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 52,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 53,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 54,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 55,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 56,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 57,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 58,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 59,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 60,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 61,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 62,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 63,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 64,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 65,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 66,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 67,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 68,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 69,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 70,
+    "witness": false,
+    "detail": null
+   },
+   {
+    "N": 200,
+    "seed": 71,
+    "witness": false,
+    "detail": null
+   }
+  ],
+  "B": [
+   {
+    "arm": "B1",
+    "restarts": 40,
+    "dfs_budget": 100000,
+    "solved": 6
+   },
+   {
+    "arm": "B2",
+    "restarts": 80,
+    "dfs_budget": 50000,
+    "solved": 6
+   },
+   {
+    "arm": "B3",
+    "restarts": 160,
+    "dfs_budget": 25000,
+    "solved": 6
+   },
+   {
+    "arm": "B4",
+    "restarts": 20,
+    "dfs_budget": 200000,
+    "solved": 6
+   }
+  ],
+  "P": [
+   {
+    "arm": "base",
+    "solved": 17
+   },
+   {
+    "arm": "P",
+    "solved": 13
+   }
+  ]
+ }
+}

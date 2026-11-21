@@ -1,0 +1,19 @@
+== REDTEAM_192 ==
+<pc group of size 8 with 3 generators>
+<group with 4 generators>
+[ f1, f2, f3 ]
+function( M ) ... end
+function( p ) ... end
+function( p ) ... end
+function( imgfun ) ... end
+<pc group with 7 generators>
+<pc group with 7 generators>
+Gpt_size=192 id=[ 192, 1493 ] center=2
+Gln_size=192 id=[ 192, 955 ] center=1
+<pc group of size 192 with 7 generators>
+T_center=2
+Gpt_is_1493=true
+Gln_is_1493=false
+Gpt_iso_T=true
+Gpt_iso_Gln=false
+== REDTEAM_DONE ==

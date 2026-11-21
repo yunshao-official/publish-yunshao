@@ -1,0 +1,1600 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T10:50:39Z",
+      "timestamp": 1782903039295,
+      "version": "3.54.5"
+    },
+    "reference-count": 139,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2026-07-01T00:00:00Z",
+          "timestamp": 1782864000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "frontiersin.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Front. Endocrinol."
+    ],
+    "abstract": "<jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Postmenopausal osteoporosis (PMOP) is a common metabolic disorder in middle−aged and older women, leading to fractures, disability, and increased mortality. Current treatments include bisphosphonates (BPs), calcitonin (CT), vitamin D (VD), and acupuncture (Acu), often used in combination, but comparative evidence on different combined strategies remain limited.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>To systematically compare the efficacy and safety of acupuncture combined with various medications for PMOP, supporting evidence−based clinical decisions.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>We searched eight databases from inception to April 11, 2026 for randomized controlled trials (RCTs) evaluating acupuncture plus pharmacotherapy for PMOP. Primary outcomes included lumbar spine (LS) and femoral neck (FN) bone mineral density (BMD), clinical efficacy, Traditional Chinese Medicine (TCM) syndrome scores, and Visual Analog Scale (VAS) pain scores. Secondary outcomes were procollagen type I N−terminal propeptide (PINP), C−terminal telopeptide (CTX), estradiol (E2), alkaline phosphatase (ALP), and osteocalcin (OCN). A Bayesian network meta−analysis was performed, ranking treatments by surface under the cumulative ranking curve (SUCRA).</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>We included 112 RCTs (9, 908 patients, 83 treatment strategies). For LS−BMD, Calcitriol (Cal)_Electroacupuncture (ElecAcu) ranked highest. For FN−BMD, CT_VD_Traditional Chinese Medicine (TCM)_Fire dragon moxibustion (FDMox) (without BP) and CT_VD_BP_TCM_Acu (with BP) were best. TCM_Acu showed the best clinical efficacy. For TCM syndrome total score, CT_VD_ Du−moxibustion (DuMox) ranked lowest. For low back pain, TCM_Acu (without BP) and CT_VD_BP_Acu_Moxibustion (Mox) (with BP) were best. CT_VD_BP_Acu_Point Application Therapy (Pat) ranked lowest for VAS. CT_VD_BP_Acupoint injection (AcuInj) produced the lowest PINP, CT_VD_TCM_Acu the lowest CTX, and CT_VD_BP_TCM_Acupoint catgut embedding (ACE) the highest E2. For ALP, CT_VD_BP_Acu ranked lowest with BP, and CT_VD_Mox highest without BP. For OCN, CT_VD_Mox ranked highest without BP, and CT_VD_BP_TCM_Acu_Mox highest with BP.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Acupuncture combined with pharmacotherapy offers differential benefits across efficacy outcomes in PMOP. However, fracture data were nearly absent (only one trial reported two hip fractures) and follow−up was short (≤12 months), limiting any inference on fracture prevention. Treatment selection should be individualized based on therapeutic priorities and patient characteristics, supporting personalized integrative management strategies.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Systematic review registration</jats:title>\n                    <jats:p>\n                      <jats:ext-link>https://www.crd.york.ac.uk/PROSPERO/</jats:ext-link>\n                      , identifier CRD420251233374.\n                    </jats:p>\n                  </jats:sec>",
+    "DOI": "10.3389/fendo.2026.1784394",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T10:31:55Z",
+      "timestamp": 1782901915000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Evaluating combined acupuncture and antiresorptive therapy in Chinese women with postmenopausal osteoporosis: a systematic review and network meta-analysis"
+    ],
+    "prefix": "10.3389",
+    "volume": "17",
+    "author": [
+      {
+        "given": "Jiamei",
+        "family": "Zhuang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "The Seventh Clinical College of Guangzhou University of Chinese Medicine, Shenzhen Bao’an Chinese Medicine Hospital, Guangzhou University of Chinese Medicine",
+            "place": [
+              "Shenzhen, Guangdong, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dan",
+        "family": "Su",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Seventh Clinical College of Guangzhou University of Chinese Medicine, Shenzhen Bao’an Chinese Medicine Hospital, Guangzhou University of Chinese Medicine",
+            "place": [
+              "Shenzhen, Guangdong, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qinlong",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Seventh Clinical College of Guangzhou University of Chinese Medicine, Shenzhen Bao’an Chinese Medicine Hospital, Guangzhou University of Chinese Medicine",
+            "place": [
+              "Shenzhen, Guangdong, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lingsan",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Seventh Clinical College of Guangzhou University of Chinese Medicine, Shenzhen Bao’an Chinese Medicine Hospital, Guangzhou University of Chinese Medicine",
+            "place": [
+              "Shenzhen, Guangdong, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yue",
+        "family": "Jiang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Clinical Medical College of Acupuncture Moxibustion and Rehabilitation, Guangzhou University of Chinese Medicine",
+            "place": [
+              "Guangzhou, Guangdong, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Guangbin",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Clinical Medical College of Acupuncture Moxibustion and Rehabilitation, Guangzhou University of Chinese Medicine",
+            "place": [
+              "Guangzhou, Guangdong, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiong",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Clinical Medical College of Acupuncture Moxibustion and Rehabilitation, Guangzhou University of Chinese Medicine",
+            "place": [
+              "Guangzhou, Guangdong, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dan",
+        "family": "Xi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "The Seventh Clinical College of Guangzhou University of Chinese Medicine, Shenzhen Bao’an Chinese Medicine Hospital, Guangzhou University of Chinese Medicine",
+            "place": [
+              "Shenzhen, Guangdong, China"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMcp2307353",
+        "article-title": "Postmenopausal osteoporosis",
+        "volume": "389",
+        "author": "Walker",
+        "year": "2023",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2147/cia.S54614",
+        "article-title": "The epidemiology and management of postmenopausal osteoporosis: a viewpoint from Brazil",
+        "volume": "10",
+        "author": "Baccaro",
+        "year": "2015",
+        "journal-title": "Clin Interv Aging"
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/gme.0000000000001831",
+        "article-title": "Management of osteoporosis in postmenopausal women: the 2021 position statement of The North American Menopause Society",
+        "volume": "28",
+        "year": "2021",
+        "journal-title": "Menopause"
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmed.2025.1682333",
+        "article-title": "Drugs against osteoporosis in perimenopausal and postmenopausal women",
+        "volume": "12",
+        "author": "Lv",
+        "year": "2025",
+        "journal-title": "Front Med (Lausanne)"
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "first-page": "497",
+        "DOI": "10.1016/j.ecl.2024.08.008",
+        "article-title": "Postmenopausal osteoporosis: a review of latest guidelines",
+        "volume": "53",
+        "author": "Subarajan",
+        "year": "2024",
+        "journal-title": "Endocrinol Metab Clin North Am"
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fphar.2024.1473756",
+        "article-title": "Disproportionality analysis of oesophageal toxicity associated with oral bisphosphonates using the FAERS database, (2004-2023)",
+        "volume": "15",
+        "author": "Chen",
+        "year": "2024",
+        "journal-title": "Front Pharmacol"
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "first-page": "70",
+        "DOI": "10.1007/s40520-025-02991-z",
+        "article-title": "Denosumab for osteoporosis treatment: when, how, for whom, and for how long. A pragmatical approach",
+        "volume": "37",
+        "author": "Lamy",
+        "year": "2025",
+        "journal-title": "Aging Clin Exp Res"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fendo.2025.1561344",
+        "article-title": "Efficacy and safety of acupuncture as an adjuvant therapy for osteoporosis: a systematic review and meta-analysis of randomized controlled trials",
+        "volume": "16",
+        "author": "Teng",
+        "year": "2025",
+        "journal-title": "Front Endocrinol (Lausanne)"
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fendo.2025.1617154",
+        "article-title": "The effect of acupuncture-related therapies in animal model of postmenopausal osteoporosis: a meta-analysis and data mining approach",
+        "volume": "16",
+        "author": "Yu",
+        "year": "2025",
+        "journal-title": "Front Endocrinol (Lausanne)"
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/wnr.0000000000002210",
+        "article-title": "Acupuncture improves perimenopausal depression via a mechanism involving activation of the phosphatidylinositol 3-kinase/serine-threonine protein kinase/mechanistic target of rapamycin pathway in a rat model",
+        "volume": "36",
+        "author": "Zheng",
+        "year": "2025",
+        "journal-title": "Neuroreport"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.19852/j.cnki.jtcm.20230404.001",
+        "article-title": "Acupotomy ameliorates subchondral bone absorption and mechanical properties in rabbits with knee osteoarthritis by regulating bone morphogenetic protein 2-Smad1 pathway",
+        "volume": "43",
+        "author": "Xilin",
+        "year": "2023",
+        "journal-title": "J Tradit Chin Med"
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fbioe.2022.832808",
+        "article-title": "Remodeling effects of the combination of GGT scaffolds, percutaneous electrical stimulation, and acupuncture on large bone defects in rats",
+        "volume": "10",
+        "author": "Yao",
+        "year": "2022",
+        "journal-title": "Front Bioeng Biotechnol"
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.19852/j.cnki.jtcm.2025.06.007",
+        "article-title": "Effect of xuanfei tongqiao acupuncture on nasal inflammation in rats with allergic rhinitis: modulation of long non-coding RNA growth arrest-specific transcript 5 methylation modification",
+        "volume": "45",
+        "author": "Hequn",
+        "year": "2025",
+        "journal-title": "J Tradit Chin Med"
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13703/j.0255-2930.20231026-k0001",
+        "article-title": "Discussion on the effects of acupuncture-medication combination",
+        "volume": "44",
+        "author": "Chen",
+        "year": "2024",
+        "journal-title": "Zhongguo Zhen Jiu"
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.19852/j.cnki.jtcm.20230904.006",
+        "article-title": "Identifying the effective combination of acupuncture and traditional Chinese medicinal herbs for postmenopausal osteoporosis therapy through studies of their molecular regulation of bone homeostasis",
+        "volume": "44",
+        "author": "Ping",
+        "year": "2024",
+        "journal-title": "J Tradit Chin Med"
+      },
+      {
+        "key": "B16",
+        "volume-title": "Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 (updated March 2011)",
+        "author": "Higgins",
+        "year": "2011"
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2522/ptj.20070147",
+        "article-title": "Scales to assess the quality of randomized controlled trials: a systematic review",
+        "volume": "88",
+        "author": "Armijo Olivo",
+        "year": "2008",
+        "journal-title": "Phys Ther"
+      },
+      {
+        "key": "B18",
+        "article-title": "The effect of moxibustion combined with kidney-tonifying and blood-activating Chinese herbal medicine on the quality of life of postmenopausal osteoporosis patients",
+        "volume": "39",
+        "author": "Li",
+        "year": "2017",
+        "journal-title": "J Youjiang Med Univ For Nationalities"
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.19335/j.cnki.2096-1219.2018.05.073",
+        "article-title": "Clinical analysis of acupuncture jiaji points combined with jiangmianjiang moxibustion in the treatment of postmenopausal osteoporosis",
+        "volume": "4",
+        "author": "Liu",
+        "year": "2018",
+        "journal-title": "Smart Healthcare"
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13457/j.cnki.jncm.2025.04.021",
+        "article-title": "Clinical study on moxibustion combined with ziyin tongluo prescription for postmenopausal osteoporosis",
+        "volume": "57",
+        "author": "Zou",
+        "year": "2025",
+        "journal-title": "J New Chin Med"
+      },
+      {
+        "key": "B21",
+        "volume-title": "Study on the Clinical Effect of Acupoint Embedding Combined With Jiawei Baizhen Tang in the Treatment of Osteoporotie Femoral Neck Fracture After Surgery",
+        "author": "Li",
+        "year": "2024"
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13703/j.0255-2930.2018.05.012",
+        "article-title": "Clinical control study on postmenopausal osteoporosis treated with embedding thread according to syndrome differentiation and medication",
+        "volume": "31",
+        "author": "Liu",
+        "year": "2011",
+        "journal-title": "Chin J Integrated Traditional Western Med"
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13193/j.archtcm.2011.03.104.liubx.004",
+        "article-title": "Effect of embedding thread at acupoints on TCM syndrome integral and quality of life scale of the patients with postmenopausal osteoporosis of liver and kidney deficiency type",
+        "volume": "29",
+        "author": "Liu",
+        "year": "2011",
+        "journal-title": "Chin Arch Traditional Chin Med"
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13703/j.0255-2930.2011.04.012",
+        "article-title": "Postmenopausal osteoporosis of liver and kidney deficiency type treated with acupoint catgut embedding by stages",
+        "volume": "31",
+        "author": "Liu",
+        "year": "2011",
+        "journal-title": "Chin Acupuncture Moxibustion"
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.19288/j.cnki.issn.1000-2723.2025.03.009",
+        "article-title": "Fracture risk assessment of the comprehensive regulation acupuncture method in the treatment of postmenopausal osteoporosis",
+        "volume": "48",
+        "author": "Luo",
+        "year": "2025",
+        "journal-title": "J Yunnan Univ Chin Med"
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1000-3649.2024.3.sczy202403051",
+        "article-title": "Clinical study on bushen huoxue tongbi tang combined with acupuncture at shenshu point for senile osteoporosis of spleen-kidney yang deficiency type",
+        "volume": "42",
+        "author": "Ding",
+        "year": "2022",
+        "journal-title": "J New Chin Med"
+      },
+      {
+        "key": "B27",
+        "volume-title": "Clinical Study of Eucommia Bushenjiangu Decoction Combined With Warm Acupuncture Treatmentof Kidney Deficiency Type Osteoporosis",
+        "author": "Yuan",
+        "year": "2017"
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.16367/j.issn.1003-5028.2017.11.0682",
+        "article-title": "Clinical researches on osteoporosis of kidney deficiency and essence insufficiency pattern treated with duzhong kidney-tonifying and bone-strengthening granules combined with warm acupuncture",
+        "volume": "37",
+        "author": "Yuan",
+        "year": "2017",
+        "journal-title": "Henan Traditionaol Chin Med"
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1674-4616.2015.02.006",
+        "article-title": "After invigorates the kidney the blood cireulation soup to gather the acupuncture and moxibustion treatment menopause asteoporosis sicknes",
+        "volume": "2",
+        "author": "Li",
+        "year": "2011",
+        "journal-title": "Chin Manipulation Rehabil Med"
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13703/j.0255-2930.20211010-0001",
+        "article-title": "Effects of acupuncture combined with oral alendronate sodium on forearm bone mineral density in postmenopausal osteoporosis",
+        "volume": "40",
+        "author": "Wang",
+        "year": "2008",
+        "journal-title": "Jiangsu J Traditional Chin Med"
+      },
+      {
+        "key": "B31",
+        "volume-title": "The Clinical Study of Acupuncture in the Treatment of Primary Osteoporosis",
+        "author": "Liu",
+        "year": "2023"
+      },
+      {
+        "key": "B32",
+        "volume-title": "Clinical Observation of Duhuo Jisheng Decoction Combined With Huangdi Nei Acupuncture in the Treatment of Liverand Kidney Yin Deficiency Type Osteoporosis",
+        "author": "Fan",
+        "year": "2023"
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1674-070X.2019.08.011",
+        "article-title": "Observation of the efficacy of microneedle knife combined with mild moxibustion in treating postmenopausal osteoporosis",
+        "volume": "24",
+        "author": "Pan",
+        "year": "2022",
+        "journal-title": "Zhejiang Clin Med J"
+      },
+      {
+        "key": "B34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13703/j.0255-2930.2015.09.005",
+        "article-title": "Warm needling combined with element calcium for postmenopausal osteoporosis",
+        "volume": "35",
+        "author": "Cai",
+        "year": "2015",
+        "journal-title": "Chin Acupuncture & Moxibustion"
+      },
+      {
+        "key": "B35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1006-1959.2015.43.114",
+        "article-title": "Clinical observation of the acupuncture therapy combined with moxibustion and modified cinnamon twig and poria decoction (CTPD) for the treatment of postmenopausal osteoporosis",
+        "volume": "18",
+        "author": "Liu",
+        "year": "2012",
+        "journal-title": "Chin J Osteoporosis"
+      },
+      {
+        "key": "B36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.16448/j.cjtcm.2021.0939",
+        "article-title": "Clinical observation on zhuanggu xiaowei decoction combined with catgut embedding minimally invasive in adjuvant treatment of postmenopausal osteoporosis",
+        "volume": "33",
+        "author": "Cai",
+        "year": "2021",
+        "journal-title": "Clin J Traditional Chin Med"
+      },
+      {
+        "key": "B37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1674-6074.2022.48.024",
+        "article-title": "Clinical efficacy of modified duhuo jiseng decoction combined with acupuncture in treating postmenopausal osteoporosis patients with liver and kidney yin deficiency",
+        "volume": "48",
+        "author": "Wang",
+        "year": "2022",
+        "journal-title": "Women’s Health"
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13193/j.issn.1673-7717.2025.05.047",
+        "article-title": "Treatment of postmenopausal osteoporosis with calcium supplements via ear pressure in 45 cases",
+        "volume": "17",
+        "author": "Yuan",
+        "year": "2001",
+        "journal-title": "J Nanjing TCM Univ (Natural Science)"
+      },
+      {
+        "key": "B39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.27282/d.cnki.gsdzu.2023.000142",
+        "article-title": "Observational study on the efficacy of kidney-tonifying and blood-activating decoction combined with ginger-separated moxibustion on the governor vessel for postmenopausal osteoporosis",
+        "volume": "35",
+        "author": "Zhou",
+        "year": "2019",
+        "journal-title": "J Pract Traditional Chin Med"
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1674-7860.2013.13.027",
+        "article-title": "Clinical research of governor vessel moxibustion on treating the low back pain in postmenopausal osteoporosis of pishen yangxu",
+        "volume": "22",
+        "author": "Li",
+        "year": "2013",
+        "journal-title": "Clin J Chin Med"
+      },
+      {
+        "key": "B41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.16367/j.issn.1003-5028.2020.07.0277",
+        "article-title": "The influence of moxibustion at GV with chenpi on life of quality of patients with postmenopausal osteoporosis with syndrome of deficiency of spleen and kidney yang",
+        "volume": "40",
+        "author": "Lin",
+        "year": "2020",
+        "journal-title": "Henan Traditionaol Chin Med"
+      },
+      {
+        "key": "B42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13457/j.cnki.jncm.2015.05.073",
+        "article-title": "Clinical effect of yishen jianpi decoction combined with moxibustion for postmenopausal osteoporosis and bone mineral density evaluation",
+        "volume": "47",
+        "author": "Wang",
+        "year": "2015",
+        "journal-title": "J New Chin Med"
+      },
+      {
+        "key": "B43",
+        "volume-title": "Clinical Study on Moxibustion and Heat Sensitizing Acupoints for Treatment Oflow Back Pain in Postmenopausal Osteoporosis With Live and Kidney Deficiency",
+        "author": "Zheng",
+        "year": "2021"
+      },
+      {
+        "key": "B44",
+        "article-title": "The clinical efficacy of acupuncture and alendronate in the treatment of postlnenopausal osteoporosis",
+        "volume": "37",
+        "author": "Lin",
+        "year": "2016",
+        "journal-title": "Jilin Med J"
+      },
+      {
+        "key": "B45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/md.0000000000021928",
+        "article-title": "Effect of acupuncture embedding of kidney acupoint and spleen acupoints combined with yougui pill on bone mineral density and bone metabolism and sex hormone levels in postmenopausal osteoporosis patients",
+        "volume": "30",
+        "author": "Wu",
+        "year": "2024",
+        "journal-title": "Contemp Med"
+      },
+      {
+        "key": "B46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.27044/d.cnki.ggzzu.2020.000951",
+        "article-title": "Acupuncture combined with acupoint application in treating primary osteoporosis",
+        "volume": "21",
+        "author": "Wang",
+        "year": "2023",
+        "journal-title": "Chin Med Modern Distance Educ China"
+      },
+      {
+        "key": "B47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1002-2392.2005.01.027",
+        "article-title": "Clinical observation on the combined treatment of acupuncture and medication for postmenopausal osteoporosis",
+        "volume": "33",
+        "author": "Han",
+        "year": "2005",
+        "journal-title": "Acta Chin Med Pharmacol"
+      },
+      {
+        "key": "B48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1006-978X.2023.04.006",
+        "article-title": "Observation on the efficacy of jintiange capsules combined with acupuncture in the treatment of primary osteoporosis",
+        "volume": "32",
+        "author": "Hu",
+        "year": "2023",
+        "journal-title": "J External Ther Traditional Chin Med"
+      },
+      {
+        "key": "B49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13638/j.issn.1671-4040.2025.22.007",
+        "article-title": "A clinical study on the treatment of postmenopausal osteoporosis using the “brain-kidney-bone” axis-based acupuncture method",
+        "volume": "25",
+        "author": "Cai",
+        "year": "2025",
+        "journal-title": "Pract Clin J Integrated Traditional Chin Western Med"
+      },
+      {
+        "key": "B50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1001-6015.2025.07.005",
+        "article-title": "Clinical observation of combined warm acupuncture and yin-nourishing and marrow-replenishing formula for postmenopausal osteoporotic low back and leg pain",
+        "volume": "29",
+        "author": "Zhu",
+        "year": "2022",
+        "journal-title": "Chin J Traditional Med Sci Technol"
+      },
+      {
+        "key": "B51",
+        "volume-title": "Study of the Clinical Observation and Related Experimentson Treating Postmenopausal Osteoporosis of Kidney Yang Deficiency With Mild Moxibustion",
+        "author": "Ouyang",
+        "year": "2012"
+      },
+      {
+        "key": "B52",
+        "volume-title": "Clinical Study on the Treatment of Osteoporosis With Deficiency of Spleen and Stomach Qi by Stimulating Shu Yuan Points and Themother of Five Transport Points",
+        "author": "Feng",
+        "year": "2021"
+      },
+      {
+        "key": "B53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.27282/d.cnki.gsdzu.2023.000117",
+        "article-title": "Impacts of warming acupuncture and moxibustion combined with xianling gubao capsule on bone healing and bonemineral density in postmenopausal osteoporotic fracture patients",
+        "volume": "48",
+        "author": "Li",
+        "year": "2026",
+        "journal-title": "Hebei J Traditional Chin Med"
+      },
+      {
+        "key": "B54",
+        "volume-title": "Clinical and Vechanism Study of Acupuncture Regulating Iron Overload in the Treatment of Postmenopausa Osteoporosis",
+        "author": "Liu",
+        "year": "2024"
+      },
+      {
+        "key": "B55",
+        "article-title": "Clinical curative effect bservation on the treatment of Gubenpeiyuan acupuncture with herb for the back pain of the primary osteoporosis",
+        "volume-title": "Hubei University of Chinese Medicine",
+        "author": "Shen",
+        "year": "2012"
+      },
+      {
+        "key": "B56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1007-5798.2016.12.020",
+        "article-title": "Observation on curative effect of warm acupuncture at shenshupoint intreatment of postmenopausal osteoporosis",
+        "volume": "46",
+        "author": "Zhang",
+        "year": "2023",
+        "journal-title": "J Xinjiang Med Univ"
+      },
+      {
+        "key": "B57",
+        "doi-asserted-by": "publisher",
+        "first-page": "63",
+        "DOI": "10.19787/j.issn.1008-1879.2021.19.004",
+        "article-title": "Clinical observation of acupuncture combined with Chinese herbal medicine in the treatment of osteoporosis",
+        "volume": "19",
+        "author": "Wang",
+        "year": "2011",
+        "journal-title": "Chin J Traditional Med Traumatology Orthopedics"
+      },
+      {
+        "key": "B58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1006-7108.2024",
+        "article-title": "The effect of acupoint application on serum OPG, RANKL, and BMD of total hip in postmenopausal osteoporosis women",
+        "volume": "23",
+        "author": "Ma",
+        "year": "2017",
+        "journal-title": "Chin J Osteoporosis"
+      },
+      {
+        "key": "B59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.19917/j.cnki.1005-0779.2000.11.001",
+        "article-title": "The efficacy of acupuncture combined with Chinese herbal plasters in treating postmenopausal osteoporosis and its effects on lumbar bone mineral density",
+        "volume": "38",
+        "author": "Li",
+        "year": "2023",
+        "journal-title": "Maternal Child Health Care China"
+      },
+      {
+        "key": "B60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.27460/d.cnki.gyzyc.2024.000301",
+        "article-title": "Treatment of postmenopausal osteoporosis by acupoint application of Chinese herbs",
+        "volume": "31",
+        "author": "He",
+        "year": "2015",
+        "journal-title": "J Changchun Univ Chin Med"
+      },
+      {
+        "key": "B61",
+        "article-title": "Clinical study on the effect of overall adjustment acupuncture on the iron accumulation status in PMOP patients",
+        "volume-title": "Yunnan University of Chinese Medicine",
+        "author": "Wu",
+        "year": "2023"
+      },
+      {
+        "key": "B62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1003-8914.2021.13.027",
+        "article-title": "Research on nursing of material- partitioned moxibustion combined with Chinese medicine in the treatment of female climacteric osteoporosis",
+        "volume": "20",
+        "author": "Zhang",
+        "year": "2022",
+        "journal-title": "Chin Med Modern Distance Educ China"
+      },
+      {
+        "key": "B63",
+        "article-title": "Clinical study on the therapeutic effect of combination of Back-Shu and Yuan-Source & Five shu acupuncture points with Reinforcing Mother Point Method in treating osteoporosiswith liver and kidney insufficiency",
+        "volume-title": "Yunnan University of Chinese Medicine",
+        "author": "Guo",
+        "year": "2021"
+      },
+      {
+        "key": "B64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13935/j.cnki.sjzx.260114",
+        "article-title": "Clinical efficacy of Zigan Bushen formula combined with acupuncture in the treatment of osteoporosis with liver - kidney deficiency",
+        "volume": "21",
+        "author": "Wang",
+        "year": "2026",
+        "journal-title": "World J Integrated Traditional Western Med"
+      },
+      {
+        "key": "B65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1674-7860.2014.11.024",
+        "article-title": "Warm needling therapy for treatment of postmenopausal osteoporosis and effect on bone mass density",
+        "volume": "24",
+        "author": "Chen",
+        "year": "2004",
+        "journal-title": "Chin Acupuncture Moxibustion"
+      },
+      {
+        "key": "B66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1672-2779.2024.18.051",
+        "article-title": "Fire dragon moxibustion and Bushen Jiangu decoction in the treatment of osteoporotic vertebral compression fracture",
+        "volume": "22",
+        "author": "Xiong",
+        "year": "2024",
+        "journal-title": "Chin Med Modern Distance Educ China"
+      },
+      {
+        "key": "B67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.27465/d.cnki.gzzyc.2022.000065",
+        "article-title": "Clinical observation of Qianggu Yin combined with electroacupuncture in the treatment of postmenopausal kidney deficiency with blood stasis pattern osteoporosis",
+        "volume": "29",
+        "author": "Hui",
+        "year": "2022",
+        "journal-title": "Chin J Traditional Med Sci Technol"
+      },
+      {
+        "key": "B68",
+        "article-title": "Clinical effect observation and mechanism study of acupoint catgut embedding on postmenopausal osteoporosis",
+        "volume-title": "Nanjing University of Chinese Medicine",
+        "author": "Shi",
+        "year": "2021"
+      },
+      {
+        "key": "B69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.16367/j.issn.1003-5028.2018.02.0079",
+        "article-title": "Observation of TCM mastic combined with heat-needle on the treatment of postmenopausal osteoporosis and its effects on serum interleukin 6 and osteoprotegerin",
+        "volume": "38",
+        "author": "Wang",
+        "year": "2016",
+        "journal-title": "Hebei J Traditional Chin Med"
+      },
+      {
+        "key": "B70",
+        "doi-asserted-by": "publisher",
+        "first-page": "6",
+        "DOI": "10.16367/j.issn.1003-5028.2018.02.0079",
+        "article-title": "Clinical syudy on psotmenopausal osteoporosis treated with electroacupuncture combining with medicine",
+        "volume": "20",
+        "author": "Wang",
+        "year": "2013",
+        "journal-title": "Chin J Traditional Med Sci Technol"
+      },
+      {
+        "key": "B71",
+        "article-title": "Clinical observation on short acupuncturetherapy for postmenopausal osteoporosis of asdthenic splenonephro-yang",
+        "volume-title": "North China University of Science and Technology",
+        "author": "Li",
+        "year": "2024"
+      },
+      {
+        "key": "B72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.27108/d.cnki.ghelu.2024.000456",
+        "article-title": "Observational study on the efficacy of combined acupuncture and herbal medicine treatment for postmenopausal osteoporosis due to spleen-kidney deficiency",
+        "volume": "29",
+        "author": "Wu",
+        "year": "2017",
+        "journal-title": "Strait Pharm J"
+      },
+      {
+        "key": "B73",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.16367/j.issn.1003-5028.2018.02.0079",
+        "article-title": "The clinical observation of moxibustion with Chinese medicine on Shenque point in treating postmenopausal osteoporosis",
+        "volume": "38",
+        "author": "Wu",
+        "year": "2018",
+        "journal-title": "Henan Traditionaol Chin Med"
+      },
+      {
+        "key": "B74",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1002-2619.2016.06.004",
+        "article-title": "Clinical study on the treatment of osteoporotic low back pain with electroacupuncture",
+        "volume": "43",
+        "author": "Yang",
+        "year": "2022",
+        "journal-title": "J Cervicodynia Lumbodynia"
+      },
+      {
+        "key": "B75",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.27253/d.cnki.gnjzu.2021.000160",
+        "article-title": "Clinical effect of modified Bushen Huoxue decoction combined with acupuncture treating postmenopausal osteoporosis of kidney deficiency and blood stasis typ",
+        "volume": "3",
+        "author": "Zhang",
+        "year": "2024",
+        "journal-title": "J Women Children's Health Guide"
+      },
+      {
+        "key": "B76",
+        "article-title": "Therapeutic effect of acupoint application aombined with alendronate sodium on low back pain in patients with kidneydeficiency and blood stasis PMOP",
+        "volume-title": "Zhejiang University of Chinese Medicine",
+        "author": "Kang",
+        "year": "2022"
+      },
+      {
+        "key": "B77",
+        "doi-asserted-by": "publisher",
+        "first-page": "198",
+        "DOI": "10.13457/j.cnki.jncm.2022.21.044",
+        "article-title": "Effect of point application on symptoms and quality of life in patients with post⁃ menopausal osteoporosis of liver-kidney yin deficiency type",
+        "volume": "54",
+        "author": "Li",
+        "year": "2022",
+        "journal-title": "J New Chin Med"
+      },
+      {
+        "key": "B78",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3321/j.issn:0255-2930.2004.11.002",
+        "article-title": "Effective observation on treating postmenopausal osteoporosis by Maixian therapy plus medicine",
+        "volume": "6",
+        "author": "Lu",
+        "year": "2014",
+        "journal-title": "Clin J Chin Med"
+      },
+      {
+        "key": "B79",
+        "article-title": "Effect of resistance training combined with moxibustion treatment on bone mineral densityand quality of daily life in patients with postmenopausal osteoporosis",
+        "volume-title": "Nanjing University of Chinese Medicine",
+        "author": "Pan",
+        "year": "2015"
+      },
+      {
+        "key": "B80",
+        "article-title": "Clinical observation of thunder fire moxibustion combined with western medicine in the treatment of spleen and kidney deficiency postmenopausal osteoporosis",
+        "volume-title": "Fujian University of Chinese Medicine",
+        "author": "You",
+        "year": "2020"
+      },
+      {
+        "key": "B81",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1003-8914.2021.13.027",
+        "article-title": "Clinical observation of Bushen Quyu decoction combined with three-edged needle therapy in the treatment of secondary disused osteoporosis of foot and ankle after hemiplegia",
+        "volume": "36",
+        "author": "Yan",
+        "year": "2021",
+        "journal-title": "Guangming J Chin Med"
+      },
+      {
+        "key": "B82",
+        "article-title": "Based on the theory of \"kidney dominating bone\" to explore the acupuncture points of kidney yin deficiency type osteoporosis patients with bone metabolism and affect the quality of life",
+        "volume-title": "Nanjing University of Chinese Medicine",
+        "author": "Sun",
+        "year": "2017"
+      },
+      {
+        "key": "B83",
+        "article-title": "Observation of the efficacy of meridian flow injection acupuncture combined with Yiqi Xugu mixture in the treatment of osteoporosis with kidney deficiency and essence deficiency",
+        "volume-title": "Yunnan University of Chinese Medicine",
+        "author": "Ma",
+        "year": "2024"
+      },
+      {
+        "key": "B84",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.19917/j.cnki.1005-0779.2000.11.001",
+        "article-title": "The effect of combined acupuncture and medication on bone mineral density in postmenopausal osteoporosis",
+        "volume": "23",
+        "author": "Zhuo",
+        "year": "2000",
+        "journal-title": "J Clin Acupuncture Moxibustion"
+      },
+      {
+        "key": "B85",
+        "article-title": "Clinical effect of acupoint pressure stimulation patch combined with denosumab on PMOP [Clinical effect of acupoint pressure stimulation patch combined with denosumab on PMOP",
+        "volume": "30",
+        "author": "Chen",
+        "year": "2024",
+        "journal-title": "Chin J Osteoporosis"
+      },
+      {
+        "key": "B86",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.19787/j.issn.1008-1879.2021.19.004",
+        "article-title": "Clinical study on the treatment of postmenopausal osteoporosis using acupuncture combined with salmon calcitonin according to the inner canon",
+        "volume": "12",
+        "author": "Chen",
+        "year": "2021",
+        "journal-title": "Chin Manipulation Rehabil Med"
+      },
+      {
+        "key": "B87",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1007-5798.2016.12.020",
+        "article-title": "Clinical observation of acupuncture point implantation therapy for postmenopausal osteoporosis",
+        "volume": "24",
+        "author": "Wang",
+        "year": "2016",
+        "journal-title": "China's Naturopathy"
+      },
+      {
+        "key": "B88",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13460/j.issn.1005-0957.2023.09.0954",
+        "article-title": "Investigation of the effect of acupuncture combined with Chinese herbal medicines on bone metabolism, bone mineral density and immune function in patients with osteoporosis",
+        "volume": "42",
+        "author": "Ye",
+        "year": "2023",
+        "journal-title": "Shanghai J Acupuncture Moxibustion"
+      },
+      {
+        "key": "B89",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.27460/d.cnki.gyzyc.2021.000100",
+        "article-title": "Clinical study on the efficacy of kidney-tonifying and spleen-strengthening acupuncture for primary osteoporosis in the elderly",
+        "volume": "45",
+        "author": "Huang",
+        "year": "2016",
+        "journal-title": "Shanxi Med J"
+      },
+      {
+        "key": "B90",
+        "article-title": "Change of clinical symptoms and effect onbone density of yang deficiency type postmenopausal osteoporosis treated by moxibustion of spleen and kidney",
+        "volume-title": "Shandong University of Chinese Medicine",
+        "author": "Shan",
+        "year": "2023"
+      },
+      {
+        "key": "B91",
+        "doi-asserted-by": "publisher",
+        "first-page": "113",
+        "DOI": "10.3969/j.issn.1005-7072.2022.3.zgzyykj202203048",
+        "article-title": "Analgesic effect and anti-osteoporosis mechanism of Shenxu Bugu decoction combined with warm acupuncture and moxibustion on postmenopausal osteoporotic low back pain",
+        "volume": "13",
+        "author": "Wang",
+        "year": "2023",
+        "journal-title": "China Med Pharm"
+      },
+      {
+        "key": "B92",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1006-978X.2023.04.006",
+        "article-title": "Clinical observation on the Shenxu Bugu decoction with warm acupuncture in the treatment of postmenopausal osteoporotic low back pain",
+        "volume": "15",
+        "author": "Wang",
+        "year": "2023",
+        "journal-title": "Clin J Chin Med"
+      },
+      {
+        "key": "B93",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1001-6015.2025.07.005",
+        "article-title": "Yiqi Wenjing acupoint sticking therapy combined with oral application of western medicine for treatment of postmenopausal osteoporosis with the syndrome of kidney deficiency and blood stagnation: a clinical study",
+        "volume": "37",
+        "author": "Zhang",
+        "year": "2025",
+        "journal-title": "J Traditional Chin Orthopedics Traumatology"
+      },
+      {
+        "key": "B94",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.19542/j.cnki.1006-5180.006535",
+        "article-title": "Observational study on the combined effects of kidney-tonifying and blood-activating formula with acupuncture in the adjuvant treatment of postmenopausal osteoporosis",
+        "volume": "29",
+        "author": "Mao",
+        "year": "2022",
+        "journal-title": "Chin J Rural Med Pharm"
+      },
+      {
+        "key": "B95",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3760/cma.j.issn.1008-6706.2019.01.020",
+        "article-title": "Clinical effect of acupoint injection of salmon calcitonin in the treatment of senile osteoporosis",
+        "volume": "26",
+        "author": "Zou",
+        "year": "2019",
+        "journal-title": "Chin J Primary Med Pharm"
+      },
+      {
+        "key": "B96",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.19621/j.cnki.11-3555/r.2024.2007",
+        "article-title": "Effects of combined acupuncture and medication on bone mineral density and related serum markers in patients with kidney deficiency and blood stasis pattern primary osteoporosis",
+        "volume": "32",
+        "author": "Zhou",
+        "year": "2024",
+        "journal-title": "China's Naturopathy"
+      },
+      {
+        "key": "B97",
+        "volume-title": "The Clinical Study of Naogukang Acupoint Plaster Treatmentfor Postmenopausal Osteoporosis",
+        "author": "Liu",
+        "year": "2020"
+      },
+      {
+        "key": "B98",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13457/j.cnki.jncm.2015.05.073",
+        "article-title": "Comprehensive therapy for postmenopausal osteoporosis",
+        "volume": "11",
+        "author": "Hao",
+        "year": "2013",
+        "journal-title": "J Community Med"
+      },
+      {
+        "key": "B99",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.16367/j.issn.1003-5028.2020.07.0277",
+        "article-title": "Clinical curative effect observation on treating pain in back and loin of patients with postmenopausal osteoporosis with new beryllium needle",
+        "volume": "30",
+        "author": "Zhao",
+        "year": "2015",
+        "journal-title": "China J Traditional Chin Med Pharm"
+      },
+      {
+        "key": "B100",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13424/j.cnki.jsctcm.2022.04.026",
+        "article-title": "Clinical study on combined acupuncture and medication therapy for postoperative residual low back pain following percutaneous vertebroplasty for osteoporotic vertebral compression fractures",
+        "volume": "45",
+        "author": "An",
+        "year": "2022",
+        "journal-title": "J Shaanxi Univ Chin Med"
+      },
+      {
+        "key": "B101",
+        "article-title": "A clinical study on treating osteoporotic vertebral compression fracture of the spleen-kidney yang deficiency type by acupuncture at acupoints on du vessel plus moxibustion",
+        "volume": "17",
+        "author": "Chen",
+        "year": "2025",
+        "journal-title": "Clin J Chin Med"
+      },
+      {
+        "key": "B102",
+        "volume-title": "Clinical Observation on the Effect of Acupuncture Combined With Chinese Herb in Bone Metabolism of Postmenopausal Women",
+        "author": "Lin",
+        "year": "2006"
+      },
+      {
+        "key": "B103",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13422/j.cnki.syfjx.2016090162",
+        "article-title": "Clinical effect of erxian bushen decoction combined with warm acupuncture in treating post-menopause osteoporosis with syndrome of kidney-yang deficiency",
+        "volume": "22",
+        "author": "Liu",
+        "year": "2016",
+        "journal-title": "Chin J Exp Traditional Med Formulae"
+      },
+      {
+        "key": "B104",
+        "volume-title": "Effect of Governor Vessel Moxibustion on Clinical Symptoms and Bone Mineral Density Ofpostmenopausal Osteoporosis With Spleen and Stomach Weakness",
+        "author": "Miao",
+        "year": "2023"
+      },
+      {
+        "key": "B105",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13193/j.issn.1673-7717.2025.05.047",
+        "article-title": "Clinical efficacy observation of qi acupuncture treating osteoporosis of kidney deficiency type",
+        "volume": "43",
+        "author": "Wang",
+        "year": "2025",
+        "journal-title": "Chin Arch Traditional Chin Med"
+      },
+      {
+        "key": "B106",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13703/j.0255-2930.2015.09.005",
+        "article-title": "Clinical effect of governor vessel moxibustion combined with bushen huoxue acupuncture on postmenopausal osteoporosis of kidney deficiency and blood stasis type",
+        "volume": "21",
+        "author": "Liu",
+        "year": "2026",
+        "journal-title": "China Med"
+      },
+      {
+        "key": "B107",
+        "doi-asserted-by": "publisher",
+        "first-page": "407",
+        "DOI": "10.13460/j.issn.1005-0957.2010.06.033",
+        "article-title": "Observation on the efficacy of suspended moxibustion as the primary treatment for postmenopausal osteoporosis",
+        "volume": "29",
+        "author": "Chen",
+        "year": "2010",
+        "journal-title": "Shanghai J Acupuncture Moxibustion"
+      },
+      {
+        "key": "B108",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.16254/j.cnki.53-1120/r.2019.06.031",
+        "article-title": "Clinical observation of 41 cases of spleen-kidney yang deficiency osteoporosis treated with spleen-kidney tonification combined with acupuncture and tuina therapy",
+        "volume": "40",
+        "author": "Lai",
+        "year": "2019",
+        "journal-title": "Yunnan J Traditional Chin Med Materia Med"
+      },
+      {
+        "key": "B109",
+        "first-page": "2017628957",
+        "article-title": "Observation on the effectiveness of self-formulated chinese herbal decoction combined with auricular acupuncture and nursing intervention in treating osteoporosis in postmenopausal women",
+        "author": "Yue",
+        "year": "2015",
+        "journal-title": "Med Inf"
+      },
+      {
+        "key": "B110",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.19844/j.cnki.1672-397X.2020.07.022",
+        "article-title": "Clinical efficacy and impact on quality of life of acupuncture in postmenopausal osteoporosis patients with lumbar compression fractures: a study of 180 cases",
+        "volume": "52",
+        "author": "Huo",
+        "year": "2020",
+        "journal-title": "Jiangsu J Traditional Chin Med"
+      },
+      {
+        "key": "B111",
+        "first-page": "2019426965",
+        "article-title": "Effects of warm acupuncture combined with ancient formula modified qinge pills on pain, oxidative stress and sex hormone levels on patients with post-menopausal osteoporosis [effects of warm acupuncture combined with ancient formula modified qinge pills on pain,oxidative stress and sex hormone levels on patients with post-menopausal osteoporosis",
+        "volume": "39",
+        "author": "Luo",
+        "year": "2019",
+        "journal-title": "J Hunan Univ Chin Med"
+      },
+      {
+        "key": "B112",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14033/j.cnki.cfmr.2025.36.033",
+        "article-title": "Clinical study on the treatment of senile osteoporosis with kidney deficiency and blood stasis type using tongdu decoctioncombined with du moxibustion and baduanjin",
+        "volume": "23",
+        "author": "Luo",
+        "year": "2025",
+        "journal-title": "Chin Foreign Med Res"
+      },
+      {
+        "key": "B113",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13460/j.issn.1005-0957.2021.04.0458",
+        "article-title": "Clinical observation of acupuncture combined with thunder-fire moxibustion for back pain in patients with postmenopausal osteoporosis",
+        "volume": "40",
+        "author": "Yu",
+        "year": "2021",
+        "journal-title": "Shanghai J Acupuncture Moxibustion"
+      },
+      {
+        "key": "B114",
+        "volume-title": "Based on GH/GF-1 Axis to Study the Clinical Efficacy of Lingnanchen's Acupuncture in Postmenopausal Osteoporosis",
+        "author": "Chen",
+        "year": "2021"
+      },
+      {
+        "key": "B115",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13703/j.0255-2930.20211010-0001",
+        "article-title": "Effect of Lingnan Chen's acupuncture on postmenopausal osteoporosis and serum GH and IGF-1",
+        "volume": "42",
+        "author": "Chen",
+        "year": "2022",
+        "journal-title": "Chin Acupuncture Moxibustion"
+      },
+      {
+        "key": "B116",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1674-4616.2015.02.006",
+        "article-title": "Clinical effect of monkshood cake moxibustion treatment on postmenopausal osteoporosis",
+        "volume": "31",
+        "author": "Yu",
+        "year": "2015",
+        "journal-title": "Res Integrated Traditional Chin Western Med"
+      },
+      {
+        "key": "B117",
+        "volume-title": "Clinical Observation on Acupuncture Treatment of Postmenopausal Osteoporosis",
+        "author": "Qu",
+        "year": "2021"
+      },
+      {
+        "key": "B118",
+        "doi-asserted-by": "publisher",
+        "first-page": "199",
+        "DOI": "10.3969/j.issn.1006-7108.2026.02.008",
+        "article-title": "百笑灸对绝经后骨质疏松症患者临床疗效影响 the effect of happyall moxibustion on the clinical efficacy of postmenopausal osteoporosis patients",
+        "volume": "32",
+        "author": "Wu",
+        "year": "2026",
+        "journal-title": "Chin J Osteoporosis"
+      },
+      {
+        "key": "B119",
+        "doi-asserted-by": "publisher",
+        "first-page": "2401",
+        "DOI": "10.27879/d.cnki.ggxzy.2024.000696",
+        "article-title": "Clinical study on postmenopausal osteoporosis of liver and kidney deficiency type treated with embedding thread on back-shu points primarily and calcium",
+        "volume": "22",
+        "author": "Liang",
+        "year": "2013",
+        "journal-title": "Modern J Integrated Traditional Chin Western Med"
+      },
+      {
+        "key": "B120",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13457/j.cnki.jncm.2025.04.021",
+        "article-title": "A study on the efficacy of combined acupuncture and medication for low back and leg pain in postmenopausal osteoporosis patients",
+        "volume": "42",
+        "author": "Huang",
+        "year": "2024",
+        "journal-title": "J Sichuan Traditional Chin Med"
+      },
+      {
+        "key": "B121",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15912/j.cnki.gocm.2014.20.009",
+        "article-title": "Feasibility analysis of chinese medicine in the treatment of kidney yang deficiency type osteoporosis patients",
+        "volume": "12",
+        "author": "Zhang",
+        "year": "2014",
+        "journal-title": "Guide China Med"
+      },
+      {
+        "key": "B122",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1001-5817.2017.01.013",
+        "article-title": "Clinical observation on acupuncture plus medication for postmenopausal osteoporosis",
+        "volume": "31",
+        "author": "Zhou",
+        "year": "2012",
+        "journal-title": "Shanghai J Acupuncture Moxibustion"
+      },
+      {
+        "key": "B123",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3969/j.issn.1002-2619.2026.02.027",
+        "article-title": "Clinical observation on combined acupuncture and medication for osteoporosis in postmenopausal women",
+        "volume": "9",
+        "author": "Zhou",
+        "year": "2011",
+        "journal-title": "J Acupuncture Tuina Sci"
+      },
+      {
+        "key": "B124",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/03601293261423938",
+        "article-title": "Efficacy analysis of warm acupuncture combined with denosumab in the treatment of postmenopausal osteoporosis",
+        "volume": "21",
+        "author": "Zhang",
+        "year": "2026",
+        "journal-title": "Acupuncture Electro-Therapeutics Res"
+      },
+      {
+        "key": "B125",
+        "doi-asserted-by": "publisher",
+        "first-page": "2018374389",
+        "DOI": "10.14033/j.cnki.cfmr.2025.36.033",
+        "article-title": "Catgut implantation at stellate ganglion for postmenopausal osteoporosis [catgut implantation at stellate ganglion for postmenopausal osteoporosis",
+        "volume": "38",
+        "author": "Gu",
+        "year": "2018",
+        "journal-title": "Chin Acupuncture Moxibustion"
+      },
+      {
+        "key": "B126",
+        "doi-asserted-by": "publisher",
+        "first-page": "2016248786",
+        "DOI": "10.13935/j.cnki.sjzx.260114",
+        "article-title": "Observation on the efficacy of combined moxibustion and alendronate sodium enteric-coated tablets in treating postmenopausal osteoporosis (spleen-kidney yang deficiency pattern)",
+        "volume": "22",
+        "author": "Li",
+        "year": "2016",
+        "journal-title": "Guiding J Traditional Chin Med Pharmacol"
+      },
+      {
+        "key": "B127",
+        "volume-title": "Study on the Treatment of PMOP by Invigorating Spleenand Tonifying Kidney Plus Reinforcing Bone Acupuncturemethod via Antioxidant Stress Based on Foxo/Wnt Signaling Pathway",
+        "author": "Ren",
+        "year": "2022"
+      },
+      {
+        "key": "B128",
+        "doi-asserted-by": "publisher",
+        "first-page": "18",
+        "DOI": "10.13638/j.issn.1671-4040.2025.22.007",
+        "article-title": "Clinical study of acupuncture combined with PVP in the treatment of postmenopausal osteoporotic vertebral compression fractures",
+        "volume": "34",
+        "author": "Chen",
+        "year": "2018",
+        "journal-title": "J Clin Acupuncture Moxibustion"
+      },
+      {
+        "key": "B129",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/03601293261423938",
+        "article-title": "Kidney-tonifying, qi-boosting, bone-strengthening formula combined with fire needle therapy for postmenopausal osteoporosis: a study of 29 cases",
+        "volume": "5",
+        "author": "Huang",
+        "year": "2014",
+        "journal-title": "Chin Manipulation Rehabil Med"
+      },
+      {
+        "key": "B130",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3343/alm.2023.0214",
+        "article-title": "The use of bone-turnover markers in Asia-Pacific populations",
+        "volume": "44",
+        "author": "Vasikaran",
+        "year": "2024",
+        "journal-title": "Ann Lab Med"
+      },
+      {
+        "key": "B131",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1620/tjem.2024.J124",
+        "article-title": "Effects of 15 years of continuous treatment with bisphosphonate on Japanese postmenopausal osteoporosis patients: an observational study",
+        "volume": "265",
+        "author": "Iba",
+        "year": "2025",
+        "journal-title": "Tohoku J Exp Med"
+      },
+      {
+        "key": "B132",
+        "doi-asserted-by": "publisher",
+        "first-page": "125",
+        "DOI": "10.1186/s13020-025-01182-2",
+        "article-title": "Moxibustion ameliorates abnormal subchondral bone remodeling by promoting ACSL1-mediated autophagy to degrade NLRP3 in osteoarthritis",
+        "volume": "20",
+        "author": "Chen",
+        "year": "2025",
+        "journal-title": "Chin Med"
+      },
+      {
+        "key": "B133",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13703/j.0255-2930.1996.10.014",
+        "article-title": "Preliminary exploration of the biophysical mechanisms of moxibustion therapy",
+        "volume": "20",
+        "author": "Yang",
+        "year": "1996",
+        "journal-title": "Chin Acupuncture Moxibustion"
+      },
+      {
+        "key": "B134",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2147/cia.S40465",
+        "article-title": "Management of osteoporosis with calcitriol in elderly Chinese patients: a systematic review",
+        "volume": "9",
+        "author": "Liao",
+        "year": "2014",
+        "journal-title": "Clin Interv Aging"
+      },
+      {
+        "key": "B135",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3892/mmr.2016.4849",
+        "article-title": "Electroacupuncture stimulation at CV4 prevents ovariectomy-induced osteoporosis in rats via Wnt-β-catenin signaling",
+        "volume": "13",
+        "author": "Fan",
+        "year": "2016",
+        "journal-title": "Mol Med Rep"
+      },
+      {
+        "key": "B136",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.13703/j.0255-2930.20231229-0002",
+        "article-title": "Effects of thunder-fire moxibustion on balance functionand musculoskeletal metabolism in female patients of primary osteoporosis with low muscle mass",
+        "volume": "44",
+        "author": "Xu",
+        "year": "2024",
+        "journal-title": "Chin Acupuncture Moxibustion"
+      },
+      {
+        "key": "B137",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1039/d5nr00508f",
+        "article-title": "A comprehensive study on Herba Epimedium-derived extracellular nanovesicles as a prospective therapy for alveolar bone regeneration in postmenopausal osteoporosis",
+        "volume": "17",
+        "author": "Han",
+        "year": "2025",
+        "journal-title": "Nanoscale"
+      },
+      {
+        "key": "B138",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jep.2011.09.030",
+        "article-title": "A traditional Chinese herbal preparation, Er-Zhi-Wan, prevent ovariectomy-induced osteoporosis in rats",
+        "volume": "138",
+        "author": "Cheng",
+        "year": "2011",
+        "journal-title": "J Ethnopharmacol"
+      },
+      {
+        "key": "B139",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fimmu.2021.813748",
+        "article-title": "Anti-inflammatory effects of acupuncture at ST36 point: a literature review in animal studies",
+        "volume": "12",
+        "author": "Oh",
+        "year": "2021",
+        "journal-title": "Front Immunol"
+      }
+    ],
+    "container-title": [
+      "Frontiers in Endocrinology"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fendo.2026.1784394/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T10:33:17Z",
+      "timestamp": 1782901997000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fendo.2026.1784394/full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ]
+    },
+    "references-count": 139,
+    "alternative-id": [
+      "10.3389/fendo.2026.1784394"
+    ],
+    "URL": "https://doi.org/10.3389/fendo.2026.1784394",
+    "relation": {},
+    "ISSN": [
+      "1664-2392"
+    ],
+    "issn-type": [
+      {
+        "value": "1664-2392",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ]
+    },
+    "article-number": "1784394"
+  }
+}

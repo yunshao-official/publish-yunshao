@@ -1,0 +1,680 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          24
+        ]
+      ],
+      "date-time": "2026-10-24T09:38:46Z",
+      "timestamp": 1792834726164,
+      "version": "4.5.0"
+    },
+    "reference-count": 43,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "35",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              28
+            ]
+          ],
+          "date-time": "2026-08-28T00:00:00Z",
+          "timestamp": 1787875200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "lww.com",
+        "ovid.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          28
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Background:</jats:title>\n                    <jats:p>Postmenopausal osteoporosis (PMOP) is a common metabolic bone disorder characterized by estrogen deficiency – induced bone loss and increased fracture risk. Traditional Chinese medicine (TCM) has demonstrated unique advantages in PMOP management, but comprehensive, standardized evidence synthesis remains limited.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods:</jats:title>\n                    <jats:p>Chinese and English databases (CNKI, Wanfang, VIP, SinoMed, PubMed, EMBASE, Web of Science, and Cochrane Library) were systematically searched up to July 31, 2024. Eligible studies included interventional, observational, and evidence-based research. Data extraction and quality assessment followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 statement. Meta-analyses were performed using RevMan 5.4 with random- or fixed-effects models depending on heterogeneity.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results:</jats:title>\n                    <jats:p>\n                      A total of 319 studies were included: 232 interventional, 60 observational, 25 systematic reviews or meta-analyses, and 2 guidelines. Among 99 randomized controlled trials, TCM interventions significantly improved clinical efficacy (risk ratio = 1.22, 95% confidence interval [CI]: 1.17–1.27,\n                      <jats:italic toggle=\"yes\">I</jats:italic>\n                      <jats:sup>2</jats:sup>\n                       = 55%) and reduced pain (standardized mean difference [SMD] = −2.15, 95% CI: −2.95 to − 2.17,\n                      <jats:italic toggle=\"yes\">I</jats:italic>\n                      <jats:sup>2</jats:sup>\n                       = 96%). TCM also enhanced bone mineral density at both lumbar (SMD = 0.74, 95% CI: 0.57–0.91,\n                      <jats:italic toggle=\"yes\">I</jats:italic>\n                      <jats:sup>2</jats:sup>\n                       = 90%) and femoral sites (SMD = 0.60, 95% CI: 0.41–0.80,\n                      <jats:italic toggle=\"yes\">I</jats:italic>\n                      <jats:sup>2</jats:sup>\n                       = 89%).\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion:</jats:title>\n                    <jats:p>TCM interventions significantly improve bone density and pain outcomes in PMOP. However, high heterogeneity and moderate methodological quality highlight the need for high-quality, standardized clinical trials integrating syndrome differentiation.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1097/md.0000000000050311",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          29
+        ]
+      ],
+      "date-time": "2026-08-29T02:00:44Z",
+      "timestamp": 1787968844000
+    },
+    "page": "e50311",
+    "update-policy": "https://doi.org/10.1097/lww.0000000000001000",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Evidence mapping and meta-analysis of traditional Chinese medicine for postmenopausal osteoporosis"
+    ],
+    "prefix": "10.1097",
+    "volume": "105",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0007-9482-8309",
+        "authenticated-orcid": false,
+        "given": "Xi",
+        "family": "Xi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "First Clinical Medical College, Gansu University of Chinese Medicine, Lanzhou, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xue",
+        "family": "Yan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "First Clinical Medical College, Gansu University of Chinese Medicine, Lanzhou, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jingchun",
+        "family": "Fan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Public Health, Gansu University of Chinese Medicine, Lanzhou, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yanying",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Gansu Provincial Experimental Animal Industry Technology Center, Lanzhou, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhandong",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Integrated Traditional Chinese and Western Medicine, Gansu University of Chinese Medicine, Lanzhou, China."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "R1-20261024",
+        "first-page": "e48582",
+        "article-title": "A comprehensive review on postmenopausal osteoporosis in women.",
+        "volume": "15",
+        "author": "Charde",
+        "year": "2023",
+        "journal-title": "Cureus"
+      },
+      {
+        "key": "R2-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "1084005",
+        "DOI": "10.3389/fpubh.2023.1084005",
+        "article-title": "The prevalence of osteoporosis in China, a community based cohort study of osteoporosis.",
+        "volume": "11",
+        "author": "Wang",
+        "year": "2023",
+        "journal-title": "Front Public Health"
+      },
+      {
+        "key": "R3-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "e220334",
+        "DOI": "10.20945/2359-4292-2022-0334",
+        "article-title": "Long-term consequences of osteoporosis therapy with bisphosphonates.",
+        "volume": "68",
+        "author": "Gehrke",
+        "year": "2023",
+        "journal-title": "Arch Endocrinol Metab"
+      },
+      {
+        "key": "R4-20261024",
+        "first-page": "170",
+        "article-title": "Overview and comparison of Chinese and western medical treatments for osteoporosis.",
+        "volume": "30",
+        "author": "Song",
+        "year": "2024",
+        "journal-title": "Altern Ther Health Med"
+      },
+      {
+        "key": "R5-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1186/s13643-023-02178-5",
+        "article-title": "Mapping reviews, scoping reviews, and evidence and gap maps (EGMs): the same but different- the “Big Picture” review family.",
+        "volume": "12",
+        "author": "Campbell",
+        "year": "2023",
+        "journal-title": "Syst Rev"
+      },
+      {
+        "key": "R7-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "573",
+        "DOI": "10.1097/GME.0000000000002200",
+        "article-title": "The 2023 nonhormone therapy position statement of the North American Menopause Society.",
+        "volume": "30",
+        "year": "2023",
+        "journal-title": "Menopause"
+      },
+      {
+        "key": "R8-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "e31771",
+        "DOI": "10.1097/MD.0000000000031771",
+        "article-title": "Efficacy and safety of Chinese herbal medicine Buzhong Yiqi decoction for postmenopausal women with osteoporosis: a protocol for systematic review and meta-analysis.",
+        "volume": "101",
+        "author": "Xiang",
+        "year": "2022",
+        "journal-title": "Medicine (Baltimore)"
+      },
+      {
+        "key": "R9-20261024",
+        "first-page": "934",
+        "article-title": "Chinese herbal medicine for osteoporosis: a meta-analysis of randomized controlled trials.",
+        "volume": "24",
+        "author": "Xiang",
+        "year": "2018",
+        "journal-title": "J Altern Complement Med"
+      },
+      {
+        "key": "R10-20261024",
+        "first-page": "257",
+        "article-title": "Systematic review of randomized controlled trials on Wenshen decoction for postmenopausal osteoporosis.",
+        "volume": "23",
+        "author": "Zhang",
+        "year": "2017",
+        "journal-title": "Chin J Basic Med Tradit Chin Med"
+      },
+      {
+        "key": "R11-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "e20773",
+        "DOI": "10.1097/MD.0000000000020773",
+        "article-title": "Effectiveness and safety of Guilu Erxian Glue (a traditional Chinese medicinal product) for the treatment of postmenopausal osteoporosis: a protocol for systematic review and meta-analysis.",
+        "volume": "99",
+        "author": "Si",
+        "year": "2020",
+        "journal-title": "Medicine (Baltimore)"
+      },
+      {
+        "key": "R12-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "e23965",
+        "DOI": "10.1097/MD.0000000000023965",
+        "article-title": "Efficacy and safety of Xianling Gubao capsule in treating postmenopausal osteoporosis: a protocol for systematic review and meta-analysis.",
+        "volume": "100",
+        "author": "Lou",
+        "year": "2021",
+        "journal-title": "Medicine (Baltimore)"
+      },
+      {
+        "key": "R13-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "839885",
+        "DOI": "10.3389/fendo.2022.839885",
+        "article-title": "Comparative efficacy of Xianling Gubao capsules in improving bone mineral density in postmenopausal osteoporosis: a network meta-analysis.",
+        "volume": "13",
+        "author": "Luo",
+        "year": "2022",
+        "journal-title": "Front Endocrinol (Lausanne)"
+      },
+      {
+        "key": "R14-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "1015483",
+        "DOI": "10.3389/fendo.2022.1015483",
+        "article-title": "Effectiveness of Yushen Hezhi therapy for postmenopausal osteoporosis: an overview of systematic reviews of randomized controlled trials.",
+        "volume": "13",
+        "author": "Zhao",
+        "year": "2022",
+        "journal-title": "Front Endocrinol (Lausanne)"
+      },
+      {
+        "key": "R15-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "102425",
+        "DOI": "10.1016/j.eclinm.2024.102425",
+        "article-title": "Safety and efficacy of sequential treatments for postmenopausal osteoporosis: a network meta-analysis of randomised controlled trials.",
+        "volume": "68",
+        "author": "Han",
+        "year": "2024",
+        "journal-title": "EClinicalMedicine"
+      },
+      {
+        "key": "R16-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "2673763",
+        "DOI": "10.1155/2019/2673763",
+        "article-title": "The effectiveness and safety of acupoint catgut embedding for the treatment of postmenopausal osteoporosis: a systematic review and meta-analysis.",
+        "volume": "2019",
+        "author": "Huang",
+        "year": "2019",
+        "journal-title": "Evid Based Complement Alternat Med"
+      },
+      {
+        "key": "R17-20261024",
+        "first-page": "1105",
+        "article-title": "Meta-analysis of Bushen Huoxue herbal compounds for postmenopausal osteoporosis.",
+        "volume": "30",
+        "author": "Zhao",
+        "year": "2019",
+        "journal-title": "China Pharm"
+      },
+      {
+        "key": "R18-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "e22734",
+        "DOI": "10.1097/MD.0000000000022734",
+        "article-title": "Comparison of efficacy and safety of Chinese patent medicine in the treatment of postmenopausal osteoporosis.",
+        "volume": "99",
+        "author": "An",
+        "year": "2020",
+        "journal-title": "Medicine (Baltimore)"
+      },
+      {
+        "key": "R19-20261024",
+        "first-page": "1017",
+        "article-title": "Meta-analysis and trial sequential analysis of Bushen Huoxue combined with calcium for senile osteoporosis.",
+        "volume": "40",
+        "author": "Ling",
+        "year": "2020",
+        "journal-title": "Chin J Gerontol"
+      },
+      {
+        "key": "R20-20261024",
+        "first-page": "663",
+        "article-title": "Systematic review and meta-analysis of Liuwei Dihuang Wan for postmenopausal osteoporosis.",
+        "volume": "26",
+        "author": "Wang",
+        "year": "2020",
+        "journal-title": "Chin J Osteoporos"
+      },
+      {
+        "key": "R21-20261024",
+        "first-page": "128",
+        "article-title": "Meta-analysis of Bushen Huoxue decoction combined with conventional drugs for postmenopausal osteoporosis.",
+        "volume": "27",
+        "author": "Chen",
+        "year": "2021",
+        "journal-title": "Guiding J Tradit Chin Med Pharm"
+      },
+      {
+        "key": "R22-20261024",
+        "first-page": "25",
+        "article-title": "Meta-analysis of Duhuo Jisheng decoction for postmenopausal osteoporosis.",
+        "volume": "54",
+        "author": "Cai",
+        "year": "2022",
+        "journal-title": "New Chin Med"
+      },
+      {
+        "key": "R23-20261024",
+        "first-page": "500",
+        "article-title": "Efficacy and safety of Bushen herbs for postmenopausal osteoporosis: a systematic review and meta-analysis.",
+        "volume": "12",
+        "author": "Huang",
+        "year": "2019",
+        "journal-title": "Chin J Osteoporos Bone Miner Res"
+      },
+      {
+        "key": "R24-20261024",
+        "first-page": "13",
+        "article-title": "Meta-analysis of traditional Chinese medicine for postmenopausal osteoporosis with liver–kidney Yin deficiency.",
+        "volume": "27",
+        "author": "Wang",
+        "year": "2021",
+        "journal-title": "Chin J Osteoporos"
+      },
+      {
+        "key": "R25-20261024",
+        "first-page": "29",
+        "article-title": "Systematic review of traditional Chinese medicine for postmenopausal osteoporosis.",
+        "volume": "5",
+        "author": "Xie",
+        "year": "2005",
+        "journal-title": "Chin J Evid Based Med"
+      },
+      {
+        "key": "R26-20261024",
+        "first-page": "307",
+        "article-title": "Meta-analysis of traditional Chinese medicine for postmenopausal osteoporosis.",
+        "volume": "25",
+        "author": "Huang",
+        "year": "2008",
+        "journal-title": "Chin J Health Stat"
+      },
+      {
+        "key": "R27-20261024",
+        "first-page": "47",
+        "article-title": "Systematic review and meta-analysis of Xianling Gubao capsule for postmenopausal osteoporosis.",
+        "volume": "25",
+        "author": "An",
+        "year": "2019",
+        "journal-title": "Chin J Osteoporos"
+      },
+      {
+        "key": "R28-20261024",
+        "first-page": "1431",
+        "article-title": "Meta-analysis of Duhuo Jisheng decoction for postmenopausal osteoporosis.",
+        "volume": "27",
+        "author": "Jing",
+        "year": "2021",
+        "journal-title": "Chin J Osteoporos"
+      },
+      {
+        "key": "R29-20261024",
+        "first-page": "205",
+        "article-title": "Meta-analysis of Bushen Huoxue therapy for postmenopausal osteoporosis.",
+        "volume": "26",
+        "author": "Chen",
+        "year": "2020",
+        "journal-title": "Chin J Osteoporos"
+      },
+      {
+        "key": "R30-20261024",
+        "first-page": "136",
+        "article-title": "Systematic review of traditional Chinese medicine for postmenopausal osteoporosis.",
+        "volume": "16",
+        "author": "Liu",
+        "year": "2005",
+        "journal-title": "Hainan Med J"
+      },
+      {
+        "key": "R31-20261024",
+        "first-page": "29",
+        "article-title": "Meta-analysis on the relationship between osteoporosis and TCM constitution types.",
+        "volume": "34",
+        "author": "Wang",
+        "year": "2022",
+        "journal-title": "J Tradit Chin Orthop Trauma"
+      },
+      {
+        "key": "R32-20261024",
+        "first-page": "6703",
+        "article-title": "Meta-analysis of Bushen herbs on bone mineral density in postmenopausal osteoporosis.",
+        "volume": "8",
+        "author": "Chen",
+        "year": "2004",
+        "journal-title": "Chin J Clin Rehabil"
+      },
+      {
+        "key": "R33-20261024",
+        "first-page": "5992",
+        "article-title": "Clinical practice guideline for postmenopausal osteoporosis (draft).",
+        "volume": "46",
+        "author": "Xie",
+        "year": "2021",
+        "journal-title": "China J Chin Mater Med"
+      },
+      {
+        "key": "R34-20261024",
+        "first-page": "1",
+        "article-title": "Guideline for diagnosis and treatment of postmenopausal osteoporosis (2019).",
+        "volume": "32",
+        "year": "2020",
+        "journal-title": "J Tradit Chin Orthop Trauma"
+      },
+      {
+        "key": "R35-20261024",
+        "first-page": "281",
+        "article-title": "Guidelines for diagnosis and management of primary osteoporosis.",
+        "volume": "25",
+        "author": "Xia",
+        "year": "2019",
+        "journal-title": "Chin J Osteoporos"
+      },
+      {
+        "key": "R36-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "134",
+        "DOI": "10.1186/s13018-025-05513-9",
+        "article-title": "Efficacy and safety of acupuncture for primary osteoporosis: a systematic review and meta-analysis.",
+        "volume": "20",
+        "author": "Ma",
+        "year": "2025",
+        "journal-title": "J Orthop Surg Res"
+      },
+      {
+        "key": "R37-20261024",
+        "first-page": "1389808",
+        "article-title": "Evaluation of TCM RCT protocols: compliance with SPIRIT-TCM 2018 guidelines.",
+        "volume": "15",
+        "author": "Liu",
+        "year": "2024",
+        "journal-title": "Front Pharmacol"
+      },
+      {
+        "key": "R39-20261024",
+        "first-page": "106",
+        "article-title": "Prevention of postmenopausal osteoporosis based on “Zhi Wei Bing” theory.",
+        "volume": "13",
+        "author": "Han",
+        "year": "2021",
+        "journal-title": "Clin J Chin Med"
+      },
+      {
+        "key": "R40-20261024",
+        "first-page": "136",
+        "article-title": "Clinical study of Gushu Fang on postmenopausal osteoporosis and oxidative stress.",
+        "volume": "15",
+        "author": "Wang",
+        "year": "2023",
+        "journal-title": "Clin J Chin Med"
+      },
+      {
+        "key": "R41-20261024",
+        "first-page": "15",
+        "article-title": "Clinical observation of Zhuanggu Capsule for postmenopausal osteoporosis.",
+        "volume": "30",
+        "author": "Wen",
+        "year": "2008",
+        "journal-title": "Hubei J Tradit Chin Med"
+      },
+      {
+        "key": "R42-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "955",
+        "DOI": "10.1080/03007995.2023.2224164",
+        "article-title": "Patient-reported outcomes validated in phase 3 clinical trials: a targeted literature review.",
+        "volume": "39",
+        "author": "Morga",
+        "year": "2023",
+        "journal-title": "Curr Med Res Opin"
+      },
+      {
+        "key": "R43-20261024",
+        "first-page": "154",
+        "article-title": "Economic burden of osteoporosis in the world: a systematic review.",
+        "volume": "34",
+        "author": "Rashki Kemmak",
+        "year": "2020",
+        "journal-title": "Med J Islam Repub Iran"
+      },
+      {
+        "key": "R45-20261024",
+        "first-page": "155",
+        "article-title": "Appraising systematic reviews: a guide to ensuring rigour in evidence synthesis.",
+        "volume": "12",
+        "author": "Page",
+        "year": "2023",
+        "journal-title": "Syst Rev"
+      },
+      {
+        "key": "R47-20261024",
+        "doi-asserted-by": "crossref",
+        "first-page": "n71",
+        "DOI": "10.1136/bmj.n71",
+        "article-title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews.",
+        "volume": "372",
+        "author": "Page",
+        "year": "2021",
+        "journal-title": "BMJ"
+      }
+    ],
+    "container-title": [
+      "Medicine"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.ovid.com/10.1097/MD.0000000000050311",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          24
+        ]
+      ],
+      "date-time": "2026-10-24T09:00:25Z",
+      "timestamp": 1792832425000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ovid.com/10.1097/MD.0000000000050311"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          28
+        ]
+      ]
+    },
+    "references-count": 43,
+    "journal-issue": {
+      "issue": "35",
+      "published-print": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1097/md.0000000000050311",
+    "relation": {},
+    "ISSN": [
+      "0025-7974",
+      "1536-5964"
+    ],
+    "issn-type": [
+      {
+        "value": "0025-7974",
+        "type": "print"
+      },
+      {
+        "value": "1536-5964",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          28
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-09-25",
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-08-05",
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

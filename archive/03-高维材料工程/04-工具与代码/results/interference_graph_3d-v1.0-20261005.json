@@ -1,0 +1,59 @@
+{
+ "runs_3d": [
+  {
+   "n_beams": 4,
+   "n_wells": 8670,
+   "n_edges": 103014,
+   "isolated_removed": 0,
+   "lambda2": 0.18364,
+   "D": 3.0,
+   "fit_formula": 0.356
+  },
+  {
+   "n_beams": 6,
+   "n_wells": 6941,
+   "n_edges": 74805,
+   "isolated_removed": 0,
+   "lambda2": 0.18846,
+   "D": 4.0,
+   "fit_formula": 1.69
+  },
+  {
+   "n_beams": 8,
+   "n_wells": 6983,
+   "n_edges": 70535,
+   "isolated_removed": 0,
+   "lambda2": 0.1635,
+   "D": 5.0,
+   "fit_formula": 5.5
+  },
+  {
+   "n_beams": 10,
+   "n_wells": 5776,
+   "n_edges": 56592,
+   "isolated_removed": 0,
+   "lambda2": 0.18582,
+   "D": 6.0,
+   "fit_formula": 14.256
+  },
+  {
+   "n_beams": 12,
+   "n_wells": 5591,
+   "n_edges": 56567,
+   "isolated_removed": 0,
+   "lambda2": 0.1915,
+   "D": 7.0,
+   "fit_formula": 31.693
+  },
+  {
+   "n_beams": 14,
+   "n_wells": 3606,
+   "n_edges": 31434,
+   "isolated_removed": 0,
+   "lambda2": 0.21607,
+   "D": 8.0,
+   "fit_formula": 63.078
+  }
+ ],
+ "tail_rising": true
+}

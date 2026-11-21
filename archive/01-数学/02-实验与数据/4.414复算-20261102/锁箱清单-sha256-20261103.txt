@@ -1,0 +1,9 @@
+# 锁箱清单·4.414/4.375 独立复算执行件（2026-11-02 生成，2026-11-03 批次 12 入库）
+# 生成环境：python 3 + numpy 2.5.3，无 mpmath/sympy/scipy，全部自研实现；总耗时 <15 s
+# 校验口径：下列后四件（scan.py／k5b.py／chi_aut.py／k5_zeros_raw.csv）的 sha256 与《4.414独立复算记录》第八节锁箱表逐位一致，首件为该记录本身；本目录所有件入库后字节与哈希零改动（原文不删、不改）
+# 复算命令：在本目录执行 `sha256sum -c --strict 锁箱清单-sha256-20261103.txt`，实测五件全 OK、退出码 0、无告警行
+9994f39d8f8476b23995fb65077b18c55d0212d61ecad2244d64776849a6300d  4.414独立复算记录-20261102.md
+0d01f0d26738b2338182f20e41aeca847939797660c91e48d7d9a4bd3c740f9b  scan.py
+d81039ad8159413c3b9eb1a9931757babb1f6d69111df9361c0fa4595b19c622  k5b.py
+5f284cebcd3e56a70520fb90ac777688d0f6df2ef1a28fdbd33af8990494c719  chi_aut.py
+e2943beb223b599285399c52b83cd6c0d7636892d9728b9b5f8afe3060bb42d4  k5_zeros_raw.csv

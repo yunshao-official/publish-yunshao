@@ -1,0 +1,154 @@
+{
+ "一_Tc公式ab判别": {
+  "formula_b": "Tc=Θ_D×(15/16)×f_defect【体系】",
+  "method": "f_fit=Tc/(Θ_D×15/16)；Θ_D=公开手册近似（量级口径）",
+  "rows": [
+   {
+    "material": "Nb",
+    "Theta_D_approx_K": 275,
+    "Tc_K": 9.3,
+    "f_defect_fit": 0.03607272727272728,
+    "nearest_alpha": 0.03125,
+    "nearest_alpha_tag": "α(32)?",
+    "within_2x": 1.0
+   },
+   {
+    "material": "Pb",
+    "Theta_D_approx_K": 105,
+    "Tc_K": 7.2,
+    "f_defect_fit": 0.07314285714285715,
+    "nearest_alpha": 0.0625,
+    "nearest_alpha_tag": "α(16)",
+    "within_2x": 1.0
+   },
+   {
+    "material": "Nb3Sn",
+    "Theta_D_approx_K": 450,
+    "Tc_K": 18.3,
+    "f_defect_fit": 0.04337777777777778,
+    "nearest_alpha": 0.03125,
+    "nearest_alpha_tag": "α(32)?",
+    "within_2x": 1.0
+   },
+   {
+    "material": "MgB2",
+    "Theta_D_approx_K": 1000,
+    "Tc_K": 39.0,
+    "f_defect_fit": 0.0416,
+    "nearest_alpha": 0.03125,
+    "nearest_alpha_tag": "α(32)?",
+    "within_2x": 1.0
+   },
+   {
+    "material": "YBCO",
+    "Theta_D_approx_K": 450,
+    "Tc_K": 93.0,
+    "f_defect_fit": 0.22044444444444444,
+    "nearest_alpha": 0.25,
+    "nearest_alpha_tag": "α(4)",
+    "within_2x": 1.0
+   },
+   {
+    "material": "FeSe",
+    "Theta_D_approx_K": 250,
+    "Tc_K": 8.0,
+    "f_defect_fit": 0.034133333333333335,
+    "nearest_alpha": 0.03125,
+    "nearest_alpha_tag": "α(32)?",
+    "within_2x": 1.0
+   },
+   {
+    "material": "LaFeAsO-F",
+    "Theta_D_approx_K": 350,
+    "Tc_K": 26.0,
+    "f_defect_fit": 0.07923809523809523,
+    "nearest_alpha": 0.0625,
+    "nearest_alpha_tag": "α(16)",
+    "within_2x": 1.0
+   },
+   {
+    "material": "Bi-2212",
+    "Theta_D_approx_K": 300,
+    "Tc_K": 85.0,
+    "f_defect_fit": 0.3022222222222222,
+    "nearest_alpha": 0.25,
+    "nearest_alpha_tag": "α(4)",
+    "within_2x": 1.0
+   },
+   {
+    "material": "H3S(高压)",
+    "Theta_D_approx_K": 1200,
+    "Tc_K": 203.0,
+    "f_defect_fit": 0.18044444444444444,
+    "nearest_alpha": 0.16666666666666666,
+    "nearest_alpha_tag": "α(12,24,48)",
+    "within_2x": 1.0
+   },
+   {
+    "material": "LaH10(高压)",
+    "Theta_D_approx_K": 1500,
+    "Tc_K": 250.0,
+    "f_defect_fit": 0.17777777777777778,
+    "nearest_alpha": 0.16666666666666666,
+    "nearest_alpha_tag": "α(12,24,48)",
+    "within_2x": 1.0
+   }
+  ],
+  "within_2x_fraction": 1.0,
+  "verdict": "b 式量级存活（f_fit 全部落在 α 族 2 倍邻域），但**不成簇**——定量使用需要每材料的 Λ/f_defect 独立定义（体系内未给）。对照：a 式在 0729 Λ 裁决下 11/11 出域（P0-1 审计）。**裁决建议格式：a 式维持已判记录；b 式转正需先定义 f_defect（C7 候选同源）**"
+ },
+ "二_M惯例统一": {
+  "conventions": {
+   "甲_table口径": "M=N=2^{v₂}（theta_table 0914）",
+   "乙_旧完全体口径": "M=1/α²（Θ(8): 1/(1/8)²=64）"
+  },
+  "rows": [
+   {
+    "N": 8,
+    "M_table": 8,
+    "alpha": 0.125,
+    "M_inv_alpha2": 64.0
+   },
+   {
+    "N": 16,
+    "M_table": 16,
+    "alpha": 0.0625,
+    "M_inv_alpha2": 256.0
+   },
+   {
+    "N": 24,
+    "M_table": 6,
+    "alpha": 0.16666667,
+    "M_inv_alpha2": 35.999998560000044
+   },
+   {
+    "N": 48,
+    "M_table": 6,
+    "alpha": 0.16666667,
+    "M_inv_alpha2": 35.999998560000044
+   },
+   {
+    "N": 64,
+    "M_table": 64,
+    "alpha": 0.015625,
+    "M_inv_alpha2": 4096.0
+   }
+  ],
+  "consequence_63层护盾": {
+   "原文": "内甲含(Z₂)³群结构，有64种冻结构型（M=64）",
+   "甲口径": "64构型=(Z₂)⁶ → 归 **N=64 扇区**：文本自洽（(Z₂)⁶）但代价 382 束",
+   "乙口径": "64构型=1/α(8)² → 归 N=8 扇区：46 束但群标注须改（(Z₂)³→(Z₂)⁶ 或删群标注）",
+   "内部不自洽已录": "(Z₂)³ 只有 8 个元素，'64 种构型'与 (Z₂)³ 同句矛盾（第五批已记 η(8)≠63%）"
+  },
+  "note": "裁决格式：选甲→63层护盾/相变线挂 N=64（远期，382束）；选乙→挂 N=8（46束，近期能碰）但修订群标注"
+ },
+ "三_Q6裁决备忘": {
+  "Q-6 度规场裁决备忘": {
+   "选项A_沿用原定义": "度规场=(R₊+R₋)/2=D，按体系定义场强恒为零 → 砥柱 B3、蜃楼第6步、深渊护盾度规线三处**维持冻结**；D 层应用改走非度规资产（拓扑锁定/SGC-1 传感）",
+   "选项B_授权重定义": "知世给出新定义出处 → 三处解冻，需新定义满足：可计算（场强≠0 的表达式）+ 可测（SGC-1 仪器可探）+ 与三场分解自洽（R₊R₋关系不破坏）",
+   "解锁清单": "一个裁决解锁：砥柱 B3 弹道弯折、蜃楼波前调制第6步、深渊护盾时空曲率膜层",
+   "建议时点": "不阻塞 V3-∇/V1（两者不依赖度规场），可在三场存在性首证后裁"
+  }
+ },
+ "honest_note": "体系公式【体系】；Θ_D 公开近似【执行，量级口径】；全部【未验证】，裁决权在知世。"
+}

@@ -1,0 +1,60 @@
+{
+ "engine": "L0 词面宇宙 v2（语言分区版）",
+ "principle": "知世「你为什么非要把它看成一张图，而不是多张图呢」——按语言岛分治",
+ "islands": {
+  "CJK": {
+   "n_tokens": 35293,
+   "K": 1200,
+   "range": [
+    0,
+    1200
+   ]
+  },
+  "LAT": {
+   "n_tokens": 22474,
+   "K": 400,
+   "range": [
+    1200,
+    1600
+   ]
+  },
+  "SYM": {
+   "n_tokens": 66681,
+   "K": 300,
+   "range": [
+    1600,
+    1900
+   ]
+  },
+  "CYR": {
+   "n_tokens": 2284,
+   "K": 50,
+   "range": [
+    1900,
+    1950
+   ]
+  },
+  "ARA": {
+   "n_tokens": 1385,
+   "K": 50,
+   "range": [
+    1950,
+    2000
+   ]
+  },
+  "NUM": {
+   "n_tokens": 1163,
+   "K": 48,
+   "range": [
+    2000,
+    2048
+   ]
+  }
+ },
+ "total_clusters": 2048,
+ "edges_global": 387840,
+ "edges_same_island": 301835,
+ "edges_cross_island_dropped": 86005,
+ "root_cause_fixed": "v1 全局 kmeans 混入外语簇导致 v1.2 语种沙拉输出；v2 岛内分簇+跨岛边过滤",
+ "elapsed_s": 363.8
+}

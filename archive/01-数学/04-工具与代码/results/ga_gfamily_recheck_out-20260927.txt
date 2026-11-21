@@ -1,0 +1,235 @@
+=== ga_gfamily_recheck 20260927 独立复算批 ===
+GAPVersion=4.16.1
+
+--- A1: G192=SmallGroup(192,1493) ---
+Size=192 IdGroup=[ 192, 1493 ] SD=(C2 x C2 x C2) : S4
+Center=2 Derived=96 Abelianization=2
+ElemOrderDist=[ [ 1, 1 ], [ 2, 43 ], [ 3, 32 ], [ 4, 84 ], [ 6, 32 ] ]
+NClasses=13
+ClassSizeMultiset=[ [ 1, 2 ], [ 6, 3 ], [ 12, 3 ], [ 24, 3 ], [ 32, 2 ] ]
+Degrees=[ 1, 1, 2, 3, 3, 3, 3, 3, 3, 4, 4, 6, 8 ]
+SumSqDegrees=192
+OrthoViolations=0 of 13
+RatValOverDim_192=[ -1, -1/2, -1/3, -1/4, -1/8, 0, 1/8, 1/4, 1/3, 1/2, 1 ]
+
+--- A2: G1152=DirectProduct(G192, SmallGroup(6,1)) ---
+Size=1152 SD=((C2 x C2 x C2) : S4) x S3
+NClasses=39
+ClassSizeMultiset=[ [ 1, 2 ], [ 2, 2 ], [ 3, 2 ], [ 6, 3 ], [ 12, 6 ], 
+  [ 18, 3 ], [ 24, 6 ], [ 32, 2 ], [ 36, 3 ], [ 48, 3 ], [ 64, 2 ], 
+  [ 72, 3 ], [ 96, 2 ] ]
+ClassSizeSum=1152
+DegreesMultiset=[ [ 1, 4 ], [ 2, 4 ], [ 3, 12 ], [ 4, 5 ], [ 6, 8 ], 
+  [ 8, 4 ], [ 12, 1 ], [ 16, 1 ] ]
+SumSqDegrees=1152
+OrthoViolations=0 of 39
+TP_Pairs=780 ClosureViolations=0 NonIntMultCases=0
+LinearRule: pairs=156 resultIsRhoItself=64 reducibleResultViolations=
+0 twistToOtherIrrep=92
+ANCHOR_TP_5x5_deg2*2 irrpos[ 1, 3, 6 ] mult[ 1, 1, 1 ] degof[ 1, 1, 2 ] degsum
+4
+ANCHOR_TP_9x9_deg3*3 irrpos[ 1, 8, 15, 16 ] mult[ 1, 1, 1, 1 ] degof
+[ 1, 2, 3, 3 ] degsum9
+ANCHOR_TP_26x26_deg6*6 irrpos[ 1, 3, 6, 7, 8, 9, 10, 15, 16, 21, 26, 27 ] mult
+[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ] degof[ 1, 1, 2, 2, 2, 3, 3, 3, 3, 4, 
+  6, 6 ] degsum36
+SampledN=54
+SMP_1x1 d1x1 irrpos[ 1 ] mult[ 1 ] degof[ 1 ] degsum1
+SMP_1x17 d1x3 irrpos[ 17 ] mult[ 1 ] degof[ 3 ] degsum3
+SMP_1x33 d1x6 irrpos[ 33 ] mult[ 1 ] degof[ 6 ] degsum6
+SMP_2x11 d1x3 irrpos[ 18 ] mult[ 1 ] degof[ 3 ] degsum3
+SMP_2x27 d1x6 irrpos[ 26 ] mult[ 1 ] degof[ 6 ] degsum6
+SMP_3x6 d1x2 irrpos[ 6 ] mult[ 1 ] degof[ 2 ] degsum2
+SMP_3x22 d1x4 irrpos[ 24 ] mult[ 1 ] degof[ 4 ] degsum4
+SMP_3x38 d1x12 irrpos[ 38 ] mult[ 1 ] degof[ 12 ] degsum12
+SMP_4x18 d1x3 irrpos[ 17 ] mult[ 1 ] degof[ 3 ] degsum3
+SMP_4x34 d1x8 irrpos[ 35 ] mult[ 1 ] degof[ 8 ] degsum8
+SMP_5x15 d2x3 irrpos[ 27 ] mult[ 1 ] degof[ 6 ] degsum6
+SMP_5x31 d2x6 irrpos[ 13, 19, 30 ] mult[ 1, 1, 1 ] degof[ 3, 3, 6 ] degsum12
+SMP_6x13 d2x3 irrpos[ 30 ] mult[ 1 ] degof[ 6 ] degsum6
+SMP_6x29 d2x6 irrpos[ 12, 18, 29 ] mult[ 1, 1, 1 ] degof[ 3, 3, 6 ] degsum12
+SMP_7x12 d2x3 irrpos[ 17, 18 ] mult[ 1, 1 ] degof[ 3, 3 ] degsum6
+SMP_7x28 d2x6 irrpos[ 28, 29 ] mult[ 1, 1 ] degof[ 6, 6 ] degsum12
+SMP_8x12 d2x3 irrpos[ 11, 12 ] mult[ 1, 1 ] degof[ 3, 3 ] degsum6
+SMP_8x28 d2x6 irrpos[ 28, 29 ] mult[ 1, 1 ] degof[ 6, 6 ] degsum12
+SMP_9x13 d3x3 irrpos[ 18, 33 ] mult[ 1, 1 ] degof[ 3, 6 ] degsum9
+SMP_9x29 d3x6 irrpos[ 30, 38 ] mult[ 1, 1 ] degof[ 6, 12 ] degsum18
+SMP_10x15 d3x3 irrpos[ 2, 7, 9, 10 ] mult[ 1, 1, 1, 1 ] degof
+[ 1, 2, 3, 3 ] degsum9
+SMP_10x31 d3x6 irrpos[ 29, 38 ] mult[ 1, 1 ] degof[ 6, 12 ] degsum18
+SMP_11x18 d3x3 irrpos[ 2, 7, 11, 12 ] mult[ 1, 1, 1, 1 ] degof
+[ 1, 2, 3, 3 ] degsum9
+SMP_11x34 d3x8 irrpos[ 35, 39 ] mult[ 1, 1 ] degof[ 8, 16 ] degsum24
+SMP_12x22 d3x4 irrpos[ 24, 37 ] mult[ 1, 1 ] degof[ 4, 8 ] degsum12
+SMP_12x38 d3x12 irrpos[ 26, 27, 30, 31, 38 ] mult[ 1, 1, 1, 1, 1 ] degof
+[ 6, 6, 6, 6, 12 ] degsum36
+SMP_13x27 d3x6 irrpos[ 28, 38 ] mult[ 1, 1 ] degof[ 6, 12 ] degsum18
+SMP_14x17 d3x3 irrpos[ 9, 32 ] mult[ 1, 1 ] degof[ 3, 6 ] degsum9
+SMP_14x33 d3x6 irrpos[ 9, 10, 11, 12, 32 ] mult[ 1, 1, 1, 1, 1 ] degof
+[ 3, 3, 3, 3, 6 ] degsum18
+SMP_15x24 d3x4 irrpos[ 25, 37 ] mult[ 1, 1 ] degof[ 4, 8 ] degsum12
+SMP_16x16 d3x3 irrpos[ 1, 8, 15, 16 ] mult[ 1, 1, 1, 1 ] degof
+[ 1, 2, 3, 3 ] degsum9
+SMP_16x32 d3x6 irrpos[ 11, 12, 13, 14, 32 ] mult[ 1, 1, 1, 1, 1 ] degof
+[ 3, 3, 3, 3, 6 ] degsum18
+SMP_17x25 d3x4 irrpos[ 24, 37 ] mult[ 1, 1 ] degof[ 4, 8 ] degsum12
+SMP_18x19 d3x3 irrpos[ 15, 33 ] mult[ 1, 1 ] degof[ 3, 6 ] degsum9
+SMP_18x35 d3x8 irrpos[ 35, 39 ] mult[ 1, 1 ] degof[ 8, 16 ] degsum24
+SMP_19x30 d3x6 irrpos[ 6, 21, 30, 31 ] mult[ 1, 1, 1, 1 ] degof
+[ 2, 4, 6, 6 ] degsum18
+SMP_20x26 d3x6 irrpos[ 28, 38 ] mult[ 1, 1 ] degof[ 6, 12 ] degsum18
+SMP_21x23 d4x4 irrpos[ 39 ] mult[ 1 ] degof[ 16 ] degsum16
+SMP_21x39 d4x16 irrpos[ 22, 23, 24, 25, 34, 35, 36, 37, 39 ] mult
+[ 1, 1, 1, 1, 1, 1, 1, 1, 1 ] degof[ 4, 4, 4, 4, 8, 8, 8, 8, 16 ] degsum64
+SMP_22x37 d4x8 irrpos[ 7, 9, 10, 11, 12, 13, 14, 32 ] mult
+[ 1, 1, 1, 1, 1, 1, 1, 2 ] degof[ 2, 3, 3, 3, 3, 3, 3, 6 ] degsum32
+SMP_23x36 d4x8 irrpos[ 8, 15, 16, 17, 18, 19, 20, 33 ] mult
+[ 1, 1, 1, 1, 1, 1, 1, 2 ] degof[ 2, 3, 3, 3, 3, 3, 3, 6 ] degsum32
+SMP_24x36 d4x8 irrpos[ 7, 9, 10, 11, 12, 13, 14, 32 ] mult
+[ 1, 1, 1, 1, 1, 1, 1, 2 ] degof[ 2, 3, 3, 3, 3, 3, 3, 6 ] degsum32
+SMP_25x37 d4x8 irrpos[ 8, 15, 16, 17, 18, 19, 20, 33 ] mult
+[ 1, 1, 1, 1, 1, 1, 1, 2 ] degof[ 2, 3, 3, 3, 3, 3, 3, 6 ] degsum32
+SMP_26x39 d6x16 irrpos[ 22, 23, 24, 25, 34, 35, 36, 37, 39 ] mult
+[ 1, 1, 1, 1, 1, 1, 2, 2, 2 ] degof[ 4, 4, 4, 4, 8, 8, 8, 8, 16 ] degsum96
+SMP_28x30 d6x6 irrpos[ 10, 16, 27, 32, 33, 38 ] mult[ 1, 1, 1, 1, 1, 1 ] degof
+[ 3, 3, 6, 6, 6, 12 ] degsum36
+SMP_29x35 d6x8 irrpos[ 22, 24, 35, 36, 37, 39 ] mult[ 1, 1, 1, 1, 1, 1 ] degof
+[ 4, 4, 8, 8, 8, 16 ] degsum48
+SMP_31x32 d6x6 irrpos[ 26, 27, 28, 29, 38 ] mult[ 1, 1, 1, 1, 1 ] degof
+[ 6, 6, 6, 6, 12 ] degsum36
+SMP_33x33 d6x6 irrpos[ 1, 4, 8, 15, 16, 17, 18, 19, 20, 33 ] mult
+[ 1, 1, 2, 1, 1, 1, 1, 1, 1, 2 ] degof[ 1, 1, 2, 3, 3, 3, 3, 3, 3, 6 ] degsum
+36
+SMP_35x38 d8x12 irrpos[ 22, 23, 24, 25, 34, 35, 36, 37, 39 ] mult
+[ 1, 1, 1, 1, 1, 1, 2, 2, 2 ] degof[ 4, 4, 4, 4, 8, 8, 8, 8, 16 ] degsum96
+SMP_5x5 d2x2 irrpos[ 1, 3, 6 ] mult[ 1, 1, 1 ] degof[ 1, 1, 2 ] degsum4
+SMP_9x9 d3x3 irrpos[ 1, 8, 15, 16 ] mult[ 1, 1, 1, 1 ] degof
+[ 1, 2, 3, 3 ] degsum9
+SMP_26x26 d6x6 irrpos[ 1, 3, 6, 7, 8, 9, 10, 15, 16, 21, 26, 27 ] mult
+[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ] degof[ 1, 1, 2, 2, 2, 3, 3, 3, 3, 4, 
+  6, 6 ] degsum36
+SMP_38x38 d12x12 irrpos[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+  16, 17, 18, 19, 20, 21, 26, 27, 28, 29, 30, 31, 32, 33, 38 ] mult
+[ 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 
+  1, 1, 2, 2, 2 ] degof[ 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 
+  3, 3, 3, 4, 6, 6, 6, 6, 6, 6, 6, 6, 12 ] degsum144
+SMP_39x39 d16x16 irrpos[ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+  16, 17, 18, 19, 20, 21, 26, 27, 28, 29, 30, 31, 32, 33, 38 ] mult
+[ 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 2, 
+  2, 2, 4, 4, 4 ] degof[ 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 
+  3, 3, 3, 4, 6, 6, 6, 6, 6, 6, 6, 6, 12 ] degsum256
+
+--- A3: Mackey on G192, all candidate N (order 8 elementary abelian normal) --\
+-
+CandidatesN=3
+
+[N] order=8
+Labels=[ [ 0, 0, 0 ], [ 0, 0, 1 ], [ 0, 1, 0 ], [ 0, 0, 0 ], [ 1, 0, 0 ], 
+  [ 0, 0, 0 ], [ 0, 0, 0 ], [ 0, 0, 0 ] ]
+OrbitSizes=[ 1, 3, 4 ]
+OrbitMembers=[ [ 1 ], [ 3, 5, 7 ], [ 2, 4, 6, 8 ] ]
+OrbitSize=1 LittleGroupOrder=192
+LambdaDims=[ 1, 1, 2, 3, 3 ] ext_e=[ 1, 1, 2, 3, 3 ]
+  Ind_L2G: Lorder=192 dimLambda=1 dimInd=1 -> irrpos[ 1 ] mult[ 1 ] deg[ 1 ]
+  Ind_L2G: Lorder=192 dimLambda=1 dimInd=1 -> irrpos[ 2 ] mult[ 1 ] deg[ 1 ]
+  Ind_L2G: Lorder=192 dimLambda=2 dimInd=2 -> irrpos[ 3 ] mult[ 1 ] deg[ 2 ]
+  Ind_L2G: Lorder=192 dimLambda=3 dimInd=3 -> irrpos[ 4 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=192 dimLambda=3 dimInd=3 -> irrpos[ 7 ] mult[ 1 ] deg[ 3 ]
+OrbitSize=3 LittleGroupOrder=64
+LambdaDims=[ 1, 1, 1, 1, 2 ] ext_e=[ 1, 1, 1, 1, 2 ]
+  Ind_L2G: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 8 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 5 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 9 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 6 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=64 dimLambda=2 dimInd=6 -> irrpos[ 12 ] mult[ 1 ] deg[ 6 ]
+OrbitSize=4 LittleGroupOrder=48
+LambdaDims=[ 1, 1, 2 ] ext_e=[ 1, 1, 2 ]
+  Ind_L2G: Lorder=48 dimLambda=1 dimInd=4 -> irrpos[ 10 ] mult[ 1 ] deg[ 4 ]
+  Ind_L2G: Lorder=48 dimLambda=1 dimInd=4 -> irrpos[ 11 ] mult[ 1 ] deg[ 4 ]
+  Ind_L2G: Lorder=48 dimLambda=2 dimInd=8 -> irrpos[ 13 ] mult[ 1 ] deg[ 8 ]
+InflatedDegrees=[ 1, 1, 2, 3, 3 ]
+Closure_producedIsAllIrrOnce=true ProducedDegreeMultisetMatches=true totalProd\
+uced=13 induceAllIrreducible=true
+
+[N] order=8
+Labels=[ [ 0, 0, 0 ], [ 0, 0, 1 ], [ 0, 1, 0 ], [ 0, 0, 0 ], [ 1, 0, 0 ], 
+  [ 0, 0, 0 ], [ 0, 0, 0 ], [ 0, 0, 0 ] ]
+OrbitSizes=[ 1, 3, 4 ]
+OrbitMembers=[ [ 1 ], [ 3, 5, 7 ], [ 2, 4, 6, 8 ] ]
+OrbitSize=1 LittleGroupOrder=192
+LambdaDims=[ 1, 1, 2, 3, 3 ] ext_e=[ 1, 1, 2, 3, 3 ]
+  Ind_L2G: Lorder=192 dimLambda=1 dimInd=1 -> irrpos[ 1 ] mult[ 1 ] deg[ 1 ]
+  Ind_L2G: Lorder=192 dimLambda=1 dimInd=1 -> irrpos[ 2 ] mult[ 1 ] deg[ 1 ]
+  Ind_L2G: Lorder=192 dimLambda=2 dimInd=2 -> irrpos[ 3 ] mult[ 1 ] deg[ 2 ]
+  Ind_L2G: Lorder=192 dimLambda=3 dimInd=3 -> irrpos[ 6 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=192 dimLambda=3 dimInd=3 -> irrpos[ 9 ] mult[ 1 ] deg[ 3 ]
+OrbitSize=3 LittleGroupOrder=64
+LambdaDims=[ 1, 1, 1, 1, 2 ] ext_e=[ 1, 1, 1, 1, 2 ]
+  Ind_L2G: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 8 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 5 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 7 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 4 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=64 dimLambda=2 dimInd=6 -> irrpos[ 12 ] mult[ 1 ] deg[ 6 ]
+OrbitSize=4 LittleGroupOrder=48
+LambdaDims=[ 1, 1, 2 ] ext_e=[ 1, 1, 2 ]
+  Ind_L2G: Lorder=48 dimLambda=1 dimInd=4 -> irrpos[ 10 ] mult[ 1 ] deg[ 4 ]
+  Ind_L2G: Lorder=48 dimLambda=1 dimInd=4 -> irrpos[ 11 ] mult[ 1 ] deg[ 4 ]
+  Ind_L2G: Lorder=48 dimLambda=2 dimInd=8 -> irrpos[ 13 ] mult[ 1 ] deg[ 8 ]
+InflatedDegrees=[ 1, 1, 2, 3, 3 ]
+Closure_producedIsAllIrrOnce=true ProducedDegreeMultisetMatches=true totalProd\
+uced=13 induceAllIrreducible=true
+
+[N] order=8
+Labels=[ [ 0, 0, 0 ], [ 0, 0, 1 ], [ 0, 1, 0 ], [ 0, 0, 0 ], [ 1, 0, 0 ], 
+  [ 0, 0, 0 ], [ 0, 0, 0 ], [ 0, 0, 0 ] ]
+OrbitSizes=[ 1, 3, 4 ]
+OrbitMembers=[ [ 1 ], [ 3, 5, 7 ], [ 2, 4, 6, 8 ] ]
+OrbitSize=1 LittleGroupOrder=192
+LambdaDims=[ 1, 1, 2, 3, 3 ] ext_e=[ 1, 1, 2, 3, 3 ]
+  Ind_L2G: Lorder=192 dimLambda=1 dimInd=1 -> irrpos[ 1 ] mult[ 1 ] deg[ 1 ]
+  Ind_L2G: Lorder=192 dimLambda=1 dimInd=1 -> irrpos[ 2 ] mult[ 1 ] deg[ 1 ]
+  Ind_L2G: Lorder=192 dimLambda=2 dimInd=2 -> irrpos[ 3 ] mult[ 1 ] deg[ 2 ]
+  Ind_L2G: Lorder=192 dimLambda=3 dimInd=3 -> irrpos[ 5 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=192 dimLambda=3 dimInd=3 -> irrpos[ 8 ] mult[ 1 ] deg[ 3 ]
+OrbitSize=3 LittleGroupOrder=64
+LambdaDims=[ 1, 1, 1, 1, 2 ] ext_e=[ 1, 1, 1, 1, 2 ]
+  Ind_L2G: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 9 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 6 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 7 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=64 dimLambda=1 dimInd=3 -> irrpos[ 4 ] mult[ 1 ] deg[ 3 ]
+  Ind_L2G: Lorder=64 dimLambda=2 dimInd=6 -> irrpos[ 12 ] mult[ 1 ] deg[ 6 ]
+OrbitSize=4 LittleGroupOrder=48
+LambdaDims=[ 1, 1, 2 ] ext_e=[ 1, 1, 2 ]
+  Ind_L2G: Lorder=48 dimLambda=1 dimInd=4 -> irrpos[ 10 ] mult[ 1 ] deg[ 4 ]
+  Ind_L2G: Lorder=48 dimLambda=1 dimInd=4 -> irrpos[ 11 ] mult[ 1 ] deg[ 4 ]
+  Ind_L2G: Lorder=48 dimLambda=2 dimInd=8 -> irrpos[ 13 ] mult[ 1 ] deg[ 8 ]
+InflatedDegrees=[ 1, 1, 2, 3, 3 ]
+Closure_producedIsAllIrrOnce=true ProducedDegreeMultisetMatches=true totalProd\
+uced=13 induceAllIrreducible=true
+
+A3_SUMMARY per N = [order, orbitSizes, littleGroupOrders, inducedDegMultiset, \
+inflatedDegrees, closureOK]:
+  [ 8, [ 1, 3, 4 ], [ 192, 64, 48 ], 
+  [ [ 1, 2 ], [ 2, 1 ], [ 3, 6 ], [ 4, 2 ], [ 6, 1 ], [ 8, 1 ] ], 
+  [ 1, 1, 2, 3, 3 ], true, true ]
+  [ 8, [ 1, 3, 4 ], [ 192, 64, 48 ], 
+  [ [ 1, 2 ], [ 2, 1 ], [ 3, 6 ], [ 4, 2 ], [ 6, 1 ], [ 8, 1 ] ], 
+  [ 1, 1, 2, 3, 3 ], true, true ]
+  [ 8, [ 1, 3, 4 ], [ 192, 64, 48 ], 
+  [ [ 1, 2 ], [ 2, 1 ], [ 3, 6 ], [ 4, 2 ], [ 6, 1 ], [ 8, 1 ] ], 
+  [ 1, 1, 2, 3, 3 ], true, true ]
+A3_MATCH_ALL_CANDIDATES=true
+
+--- A4: G6 direct construction via SemidirectProduct ---
+AutImg isBij=true
+AutImg isBij=true
+HomIsMapping=true HomViolations=0
+G6_Size=48 IdGroup=[ 48, 48 ] SD=C2 x S4
+G6_Center=2 G6_Derived=12
+G6_ElemOrderDist=[ [ 1, 1 ], [ 2, 19 ], [ 3, 8 ], [ 4, 12 ], [ 6, 8 ] ]
+Oh_Size=48 IdGroup=[ 48, 48 ] SD=C2 x S4
+Oh_Center=2 Oh_Derived=12
+Oh_ElemOrderDist=[ [ 1, 1 ], [ 2, 19 ], [ 3, 8 ], [ 4, 12 ], [ 6, 8 ] ]
+IsomorphismGroups_G6_Oh=true
+
+=== DONE ===
