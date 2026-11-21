@@ -1,0 +1,170 @@
+[
+ {
+  "item": "全样本行数",
+  "recalc": "19022831",
+  "cited": "19022831",
+  "verdict": "PASS"
+ },
+ {
+  "item": "正视差子样本",
+  "recalc": "19022831",
+  "cited": "19022831",
+  "verdict": "PASS"
+ },
+ {
+  "item": "M_G 中位(正视差)",
+  "recalc": "2.53",
+  "cited": "2.53",
+  "verdict": "PASS"
+ },
+ {
+  "item": "距离中位(pc)",
+  "recalc": "1763.0",
+  "cited": "1763",
+  "verdict": "PASS"
+ },
+ {
+  "item": "<2kpc 占比%",
+  "recalc": "54.8",
+  "cited": "54.8",
+  "verdict": "PASS"
+ },
+ {
+  "item": "凸起区间 bin 数",
+  "recalc": "11",
+  "cited": "11",
+  "verdict": "PASS"
+ },
+ {
+  "item": "凸起 σ 范围下限",
+  "recalc": "26.0",
+  "cited": "26",
+  "verdict": "PASS"
+ },
+ {
+  "item": "凸起 σ 范围上限",
+  "recalc": "30.0",
+  "cited": "30",
+  "verdict": "PASS"
+ },
+ {
+  "item": "每 bin 超出量级",
+  "recalc": "7933",
+  "cited": "8000",
+  "verdict": "FAIL"
+ },
+ {
+  "item": "参数窗口总源数",
+  "recalc": "2955243",
+  "cited": "2955243",
+  "verdict": "PASS"
+ },
+ {
+  "item": "bins 数",
+  "recalc": "1135",
+  "cited": "1135",
+  "verdict": "PASS"
+ },
+ {
+  "item": "红团簇宽窗",
+  "recalc": "523119",
+  "cited": "523119",
+  "verdict": "PASS"
+ },
+ {
+  "item": "RGB tip 宽窗",
+  "recalc": "7221",
+  "cited": "7221",
+  "verdict": "PASS"
+ },
+ {
+  "item": "宽窗比值",
+  "recalc": "0.0138",
+  "cited": "0.0138",
+  "verdict": "PASS"
+ },
+ {
+  "item": "团簇窄窗",
+  "recalc": "358766",
+  "cited": "358766",
+  "verdict": "PASS"
+ },
+ {
+  "item": "tip 窄窗",
+  "recalc": "1971",
+  "cited": "1971",
+  "verdict": "PASS"
+ },
+ {
+  "item": "拐点候选数",
+  "recalc": "51",
+  "cited": "51",
+  "verdict": "PASS"
+ },
+ {
+  "item": "全过3σ",
+  "recalc": "51",
+  "cited": "51",
+  "verdict": "PASS"
+ },
+ {
+  "item": "振幅中位",
+  "recalc": "0.384",
+  "cited": "0.384",
+  "verdict": "PASS"
+ },
+ {
+  "item": "早峰数",
+  "recalc": "26",
+  "cited": "26",
+  "verdict": "PASS"
+ },
+ {
+  "item": "晚峰数",
+  "recalc": "23",
+  "cited": "23",
+  "verdict": "PASS"
+ },
+ {
+  "item": "中峰数",
+  "recalc": "2",
+  "cited": "2",
+  "verdict": "PASS"
+ },
+ {
+  "item": "候选光度级 n",
+  "recalc": "67",
+  "cited": "67",
+  "verdict": "PASS"
+ },
+ {
+  "item": "候选光度级中位",
+  "recalc": "-0.13",
+  "cited": "-0.13",
+  "verdict": "PASS"
+ },
+ {
+  "item": "对照光度级中位",
+  "recalc": "-0.1",
+  "cited": "-0.1",
+  "verdict": "PASS"
+ },
+ {
+  "item": "候选光谱级 n",
+  "recalc": "2",
+  "cited": "2",
+  "verdict": "PASS"
+ },
+ {
+  "item": "候选光谱级中位",
+  "recalc": "0.82",
+  "cited": "0.82",
+  "verdict": "PASS"
+ },
+ {
+  "item": "对照光谱级中位",
+  "recalc": "-0.15",
+  "cited": "-0.15",
+  "verdict": "PASS"
+ }
+]
