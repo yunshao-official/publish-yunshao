@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://yunshao-ai.icu/heliumflash/sitemap.xml

@@ -1,0 +1,31 @@
+<!DOCTYPE html><html lang="zh"><head><meta charset="utf-8"><title>站内搜索 — 太阳氦闪公开资料站</title><style>
+:root{--bg:#0d1117;--fg:#e6edf3;--muted:#8b949e;--acc:#58a6ff;--warn:#f0883e;--ok:#3fb950;--card:#161b22;--bd:#30363d}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:"Segoe UI","Microsoft YaHei",system-ui,sans-serif;margin:0;line-height:1.7}
+header{background:var(--card);border-bottom:1px solid var(--bd);padding:18px 24px;display:flex;flex-wrap:wrap;gap:14px;align-items:center}
+header h1{font-size:1.25rem;margin:0;color:var(--acc)}
+header nav a{color:var(--fg);text-decoration:none;padding:6px 12px;border-radius:6px;font-size:.92rem}
+header nav a:hover{background:var(--bd)}
+header nav a.on{background:var(--acc);color:#0d1117;font-weight:600}
+#searchbox{background:#0d1117;border:1px solid var(--bd);color:var(--fg);padding:8px 14px;border-radius:8px;width:230px;font-size:.9rem}
+main{max-width:1100px;margin:0 auto;padding:28px 20px 60px}
+h2{color:var(--acc);border-bottom:1px solid var(--bd);padding-bottom:8px;margin-top:44px}
+blockquote{border-left:4px solid var(--acc);margin:14px 0;padding:8px 16px;background:var(--card);border-radius:0 8px 8px 0;color:var(--muted)}
+table{border-collapse:collapse;width:100%;margin:16px 0;font-size:.86rem}
+th{background:var(--card);color:var(--acc);position:sticky;top:0}
+th,td{border:1px solid var(--bd);padding:6px 10px;text-align:left}
+tr:nth-child(even){background:#12181f}
+code{background:var(--card);padding:1px 6px;border-radius:4px;font-size:.88em}
+pre.code{background:var(--card);border:1px solid var(--bd);padding:14px;border-radius:8px;overflow-x:auto;font-size:.85rem}
+.badge{display:inline-block;padding:2px 10px;border-radius:20px;font-size:.78rem;margin-right:6px}
+.b-ok{background:#123329;color:var(--ok)} .b-fail{background:#3d1418;color:#f85149} .b-warn{background:#3a2a10;color:var(--warn)}
+a{color:var(--acc)}
+.kpi{display:flex;flex-wrap:wrap;gap:14px;margin:22px 0}
+.kpi div{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:14px 22px;min-width:150px}
+.kpi b{font-size:1.6rem;color:var(--acc);display:block}
+.kpi span{color:var(--muted);font-size:.82rem}
+.note{background:#1a2332;border:1px solid #274068;padding:12px 16px;border-radius:8px;margin:14px 0;font-size:.9rem}
+</style></head><body>
+<header><h1>☀ 太阳氦闪公开资料站</h1><nav><a href="index.html">总览</a><a href="theory.html">理论正本</a><a href="report.html">验证报告</a><a href="data.html">数据公示</a><a href="verify.html">验算记录</a></nav></header>
+<main><h2>站内搜索</h2><input id="q" style="width:60%;padding:10px;font-size:1rem;background:#0d1117;color:#e6edf3;border:1px solid #30363d;border-radius:8px" placeholder="输入关键词…"><div id="results"></div></main>
+<script src="search.js"></script></body></html>

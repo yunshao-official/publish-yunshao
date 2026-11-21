@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>验算记录 — 太阳氦闪公开资料站 — 太阳氦闪公开资料站</title>
+<meta name="description" content="公示数据 30 项闭合验算记录: 每个数字从原始数据独立重算, 3 处口径错修正过程在案">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "太阳氦闪公开资料站", "url": "http://yunshao-ai.icu/heliumflash/", "description": "太阳氦闪理论正本与多恒星观测验证: ASAS-SN 426 慢变系统 + 77 氦闪阶段候选 + Gaia DR3 18 亿全量交叉", "inLanguage": "zh"}</script>
+<style>
+:root{--bg:#0d1117;--fg:#e6edf3;--muted:#8b949e;--acc:#58a6ff;--warn:#f0883e;--ok:#3fb950;--card:#161b22;--bd:#30363d}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:"Segoe UI","Microsoft YaHei",system-ui,sans-serif;margin:0;line-height:1.7}
+header{background:var(--card);border-bottom:1px solid var(--bd);padding:18px 24px;display:flex;flex-wrap:wrap;gap:14px;align-items:center}
+header h1{font-size:1.25rem;margin:0;color:var(--acc)}
+header nav a{color:var(--fg);text-decoration:none;padding:6px 12px;border-radius:6px;font-size:.92rem}
+header nav a:hover{background:var(--bd)}
+header nav a.on{background:var(--acc);color:#0d1117;font-weight:600}
+#searchbox{background:#0d1117;border:1px solid var(--bd);color:var(--fg);padding:8px 14px;border-radius:8px;width:230px;font-size:.9rem}
+main{max-width:1100px;margin:0 auto;padding:28px 20px 60px}
+h2{color:var(--acc);border-bottom:1px solid var(--bd);padding-bottom:8px;margin-top:44px}
+blockquote{border-left:4px solid var(--acc);margin:14px 0;padding:8px 16px;background:var(--card);border-radius:0 8px 8px 0;color:var(--muted)}
+table{border-collapse:collapse;width:100%;margin:16px 0;font-size:.86rem}
+th{background:var(--card);color:var(--acc);position:sticky;top:0}
+th,td{border:1px solid var(--bd);padding:6px 10px;text-align:left}
+tr:nth-child(even){background:#12181f}
+code{background:var(--card);padding:1px 6px;border-radius:4px;font-size:.88em}
+pre.code{background:var(--card);border:1px solid var(--bd);padding:14px;border-radius:8px;overflow-x:auto;font-size:.85rem}
+.badge{display:inline-block;padding:2px 10px;border-radius:20px;font-size:.78rem;margin-right:6px}
+.b-ok{background:#123329;color:var(--ok)} .b-fail{background:#3d1418;color:#f85149} .b-warn{background:#3a2a10;color:var(--warn)}
+a{color:var(--acc)}
+.kpi{display:flex;flex-wrap:wrap;gap:14px;margin:22px 0}
+.kpi div{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:14px 22px;min-width:150px}
+.kpi b{font-size:1.6rem;color:var(--acc);display:block}
+.kpi span{color:var(--muted);font-size:.82rem}
+.note{background:#1a2332;border:1px solid #274068;padding:12px 16px;border-radius:8px;margin:14px 0;font-size:.9rem}
+</style></head>
+<body>
+<header>
+<h1>☀ 太阳氦闪公开资料站</h1>
+<nav>
+<a href="index.html" class="">总览</a>
+<a href="theory.html" class="">理论正本</a>
+<a href="report.html" class="">验证报告</a>
+<a href="data.html" class="">数据公示</a>
+<a href="verify.html" class="on">验算记录</a>
+</nav>
+<input id="searchbox" placeholder="站内搜索…" onkeydown="if(event.key==='Enter')location.href='search.html?q='+encodeURIComponent(this.value)">
+</header>
+<main>
+<h2>公示数据验算记录（30 项闭合校验）</h2>
+<p class="note">验算原则：<strong>每个数字从原始数据独立重算</strong>，与公示件比对。2026-11-21 首轮 27 PASS / 3 FAIL——抓出 3 处口径错并修正（详见下表与验证报告修改记录第 11 条），修正后 30/30 全 PASS。</p>
+<table><thead><tr><th>#</th><th>项</th><th>验算内容</th><th>独立重算值</th><th>公示值</th><th>判定</th></tr></thead><tbody>
+<tr><td>1</td><td>A1</td><td>77候选筛选条件重放(SG∧ΔG>0.3∧WISE有值)</td><td>77</td><td>77</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>2</td><td>A2</td><td>77候选 ASAS-SN ID 集合与公示件一致</td><td>1</td><td>1</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>3</td><td>B1</td><td>426 总行数</td><td>426</td><td>426</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>4</td><td>B2</td><td>426 光学变亮(斜率<0)</td><td>209</td><td>209</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>5</td><td>B3</td><td>426 光学变暗(斜率>0)</td><td>217</td><td>217</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>6</td><td>C1</td><td>时序件总行数</td><td>77</td><td>77</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>7</td><td>C2</td><td>λ型(先暗后亮)</td><td>28</td><td>28</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>8</td><td>C3</td><td>V型(先亮后暗)</td><td>23</td><td>23</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>9</td><td>C4</td><td>平坦/不规则</td><td>20</td><td>20</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>10</td><td>C5</td><td>持续变暗</td><td>2</td><td>2</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>11</td><td>C6</td><td>服务端无数据</td><td>4</td><td>4</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>12</td><td>C7</td><td>可用时序数据(73)</td><td>73</td><td>73</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>13</td><td>C8</td><td>非单调拐折合计(λ+V)</td><td>51</td><td>51</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>14</td><td>C9</td><td>拟合vs论文斜率|差|中位(0.0203)</td><td>0.0203</td><td>0.0203</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>15</td><td>D1</td><td>Gaia匹配命中(<3")</td><td>75</td><td>75</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>16</td><td>D2</td><td>角距<=0.42" 全部命中</td><td>75</td><td>75</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>17</td><td>D3</td><td>有Teff/logg参数</td><td>56</td><td>56</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>18</td><td>D4</td><td>氦闪前RGB/SG</td><td>23</td><td>23</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>19</td><td>D5</td><td>SGB边界</td><td>17</td><td>17</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>20</td><td>D6</td><td>氦闪后(团簇/HB)</td><td>13</td><td>13</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>21</td><td>D7</td><td>真OTHER</td><td>3</td><td>3</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>22</td><td>D8</td><td>氦闪前合计(71.4%)</td><td>40/56</td><td>40/56</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>23</td><td>D9</td><td>M_G范围下限</td><td>0.53</td><td>0.53</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>24</td><td>D10</td><td>M_G范围上限</td><td>6.17</td><td>6.17</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>25</td><td>D11</td><td>视差SNR中位(27.1)</td><td>27.1</td><td>27.1</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>26</td><td>D12</td><td>SNR>10 颗数</td><td>74</td><td>74</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>27</td><td>E1</td><td>聚合总源数(1,540,770,340)</td><td>1540770340</td><td>1540770340</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>28</td><td>E2</td><td>bin总数(1928)</td><td>1928</td><td>1928</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>29</td><td>E3</td><td>G[14,15)红巨星支(12,265,323)</td><td>12265323</td><td>12265323</td><td><span class="badge b-ok">PASS</span></td></tr>
+<tr><td>30</td><td>E4</td><td>巨星占比61.4%</td><td>61.4</td><td>61.4</td><td><span class="badge b-ok">PASS</span></td></tr>
+</tbody></table>
+<p>验算件: 2026-11-21 · 原则: 每个数字从原始数据独立重算与公示件比对 · PASS 30/30</p>
+<footer style="margin-top:60px;border-top:1px solid var(--bd);padding-top:16px;color:var(--muted);font-size:.85rem">
+太阳氦闪公开资料站 · 数据基座: ASAS-SN 十年巡天 (Petz et al. 2025) + Gaia DR3 全天 1,811,709,771 源 (IRSA 镜像) · 全部数据经 30 项闭合验算公示 · <a href="https://github.com/yunshao-official/publish-yunshao">GitHub 正源仓库</a>
+</footer>
+</main>
+<script src="search.js"></script>
+</body></html>

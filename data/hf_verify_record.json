@@ -1,0 +1,220 @@
+{
+ "date": "2026-11-21",
+ "verifier": "聆星",
+ "principle": "每个数字从原始数据独立重算与公示件比对",
+ "total_checks": 30,
+ "passed": 30,
+ "failed": 0,
+ "records": [
+  {
+   "item": "A1",
+   "what": "77候选筛选条件重放(SG∧ΔG>0.3∧WISE有值)",
+   "recomputed": "77",
+   "published": "77",
+   "verdict": "PASS"
+  },
+  {
+   "item": "A2",
+   "what": "77候选 ASAS-SN ID 集合与公示件一致",
+   "recomputed": "1",
+   "published": "1",
+   "verdict": "PASS"
+  },
+  {
+   "item": "B1",
+   "what": "426 总行数",
+   "recomputed": "426",
+   "published": "426",
+   "verdict": "PASS"
+  },
+  {
+   "item": "B2",
+   "what": "426 光学变亮(斜率<0)",
+   "recomputed": "209",
+   "published": "209",
+   "verdict": "PASS"
+  },
+  {
+   "item": "B3",
+   "what": "426 光学变暗(斜率>0)",
+   "recomputed": "217",
+   "published": "217",
+   "verdict": "PASS"
+  },
+  {
+   "item": "C1",
+   "what": "时序件总行数",
+   "recomputed": "77",
+   "published": "77",
+   "verdict": "PASS"
+  },
+  {
+   "item": "C2",
+   "what": "λ型(先暗后亮)",
+   "recomputed": "28",
+   "published": "28",
+   "verdict": "PASS"
+  },
+  {
+   "item": "C3",
+   "what": "V型(先亮后暗)",
+   "recomputed": "23",
+   "published": "23",
+   "verdict": "PASS"
+  },
+  {
+   "item": "C4",
+   "what": "平坦/不规则",
+   "recomputed": "20",
+   "published": "20",
+   "verdict": "PASS"
+  },
+  {
+   "item": "C5",
+   "what": "持续变暗",
+   "recomputed": "2",
+   "published": "2",
+   "verdict": "PASS"
+  },
+  {
+   "item": "C6",
+   "what": "服务端无数据",
+   "recomputed": "4",
+   "published": "4",
+   "verdict": "PASS"
+  },
+  {
+   "item": "C7",
+   "what": "可用时序数据(73)",
+   "recomputed": "73",
+   "published": "73",
+   "verdict": "PASS"
+  },
+  {
+   "item": "C8",
+   "what": "非单调拐折合计(λ+V)",
+   "recomputed": "51",
+   "published": "51",
+   "verdict": "PASS"
+  },
+  {
+   "item": "C9",
+   "what": "拟合vs论文斜率|差|中位(0.0203)",
+   "recomputed": "0.0203",
+   "published": "0.0203",
+   "verdict": "PASS"
+  },
+  {
+   "item": "D1",
+   "what": "Gaia匹配命中(<3\")",
+   "recomputed": "75",
+   "published": "75",
+   "verdict": "PASS"
+  },
+  {
+   "item": "D2",
+   "what": "角距<=0.42\" 全部命中",
+   "recomputed": "75",
+   "published": "75",
+   "verdict": "PASS"
+  },
+  {
+   "item": "D3",
+   "what": "有Teff/logg参数",
+   "recomputed": "56",
+   "published": "56",
+   "verdict": "PASS"
+  },
+  {
+   "item": "D4",
+   "what": "氦闪前RGB/SG",
+   "recomputed": "23",
+   "published": "23",
+   "verdict": "PASS"
+  },
+  {
+   "item": "D5",
+   "what": "SGB边界",
+   "recomputed": "17",
+   "published": "17",
+   "verdict": "PASS"
+  },
+  {
+   "item": "D6",
+   "what": "氦闪后(团簇/HB)",
+   "recomputed": "13",
+   "published": "13",
+   "verdict": "PASS"
+  },
+  {
+   "item": "D7",
+   "what": "真OTHER",
+   "recomputed": "3",
+   "published": "3",
+   "verdict": "PASS"
+  },
+  {
+   "item": "D8",
+   "what": "氦闪前合计(71.4%)",
+   "recomputed": "40/56",
+   "published": "40/56",
+   "verdict": "PASS"
+  },
+  {
+   "item": "D9",
+   "what": "M_G范围下限",
+   "recomputed": "0.53",
+   "published": "0.53",
+   "verdict": "PASS"
+  },
+  {
+   "item": "D10",
+   "what": "M_G范围上限",
+   "recomputed": "6.17",
+   "published": "6.17",
+   "verdict": "PASS"
+  },
+  {
+   "item": "D11",
+   "what": "视差SNR中位(27.1)",
+   "recomputed": "27.1",
+   "published": "27.1",
+   "verdict": "PASS"
+  },
+  {
+   "item": "D12",
+   "what": "SNR>10 颗数",
+   "recomputed": "74",
+   "published": "74",
+   "verdict": "PASS"
+  },
+  {
+   "item": "E1",
+   "what": "聚合总源数(1,540,770,340)",
+   "recomputed": "1540770340",
+   "published": "1540770340",
+   "verdict": "PASS"
+  },
+  {
+   "item": "E2",
+   "what": "bin总数(1928)",
+   "recomputed": "1928",
+   "published": "1928",
+   "verdict": "PASS"
+  },
+  {
+   "item": "E3",
+   "what": "G[14,15)红巨星支(12,265,323)",
+   "recomputed": "12265323",
+   "published": "12265323",
+   "verdict": "PASS"
+  },
+  {
+   "item": "E4",
+   "what": "巨星占比61.4%",
+   "recomputed": "61.4",
+   "published": "61.4",
+   "verdict": "PASS"
+  }
+ ]
+}
